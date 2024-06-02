@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Урон за бросок:",
+    "path": "/damagePerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Скорость броска:",
+    "path": "/speedTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Расход снарядов:",
+    "path": "/ammoUsageTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Я баг. Прошу сообщите обо мне!",
+    "path": "/descriptionLabel/value",
+    "op": "replace"
+  }
+]

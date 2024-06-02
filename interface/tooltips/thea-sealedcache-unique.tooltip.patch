@@ -1,0 +1,12 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Уникальный",
+    "path": "/customRarityLabel/value",
+    "op": "replace"
+  }
+]

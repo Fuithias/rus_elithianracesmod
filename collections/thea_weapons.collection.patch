@@ -1,0 +1,867 @@
+[
+    {
+        "value": "Уникальное снаряжение",
+        "path": "/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лук Теллобоя",
+        "path": "/collectables/avikan-thellhuntersbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Оружие, которым когда-то владел легендарный охотник на теллов.",
+        "path": "/collectables/avikan-thellhuntersbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лук Терваничия",
+        "path": "/collectables/avikan-terveleadersbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Разносторонняя лайнтовка, достойная настоящего лидера терва.",
+        "path": "/collectables/avikan-terveleadersbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Вектор холостого хода",
+        "path": "/collectables/avikan-nulldrivevector/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка с уникальным приводом для почти мгновенной зарядки.",
+        "path": "/collectables/avikan-nulldrivevector/description",
+        "op": "replace"
+    },
+    {
+        "value": "Копье Эрразбителя",
+        "path": "/collectables/avikan-errasslayerslance/title",
+        "op": "replace"
+    },
+    {
+        "value": "Уникальная линейная винтовка, созданная для уничтожения эрразмайров.",
+        "path": "/collectables/avikan-errasslayerslance/description",
+        "op": "replace"
+    },
+    {
+        "value": "Инициатива Прайм",
+        "path": "/collectables/avikan-primeinitiative/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощнейшая лайнтовка, созданная для того, чтобы прорываться сквозь вражеские ряды.",
+        "path": "/collectables/avikan-primeinitiative/description",
+        "op": "replace"
+    },
+    {
+        "value": "Протокол скачкового огня",
+        "path": "/collectables/avikan-jumpfireprotocol/title",
+        "op": "replace"
+    },
+    {
+        "value": "Уникальное оружие, созданное с использованием центенианских и авиканских технологий.",
+        "path": "/collectables/avikan-jumpfireprotocol/description",
+        "op": "replace"
+    },
+    {
+        "value": "Объятия пустыни",
+        "path": "/collectables/avikan-sandcannon/title",
+        "op": "replace"
+    },
+    {
+        "value": "Безжалостный поток песка, чтобы держать врагов на расстоянии.",
+        "path": "/collectables/avikan-sandcannon/description",
+        "op": "replace"
+    },
+    {
+        "value": "Бич песколедователя",
+        "path": "/collectables/avikan-sandstalkersbane/title",
+        "op": "replace"
+    },
+    {
+        "value": "Этот величественный лук стреляет стрелами, которые дробят при ударе.",
+        "path": "/collectables/avikan-sandstalkersbane/description",
+        "op": "replace"
+    },
+    {
+        "value": "Авангард ОТС.М-12",
+        "path": "/collectables/avikan-airstrike/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лазер, связанный с орбитальной системой целеуказания корабля.",
+        "path": "/collectables/avikan-airstrike/description",
+        "op": "replace"
+    },
+    {
+        "value": "Копье Вха'лейхана",
+        "path": "/collectables/avikan-vhaleihanspear/title",
+        "op": "replace"
+    },
+    {
+        "value": "Древнее копье, созданное из осколка Ксанафира.",
+        "path": "/collectables/avikan-vhaleihanspear/description",
+        "op": "replace"
+    },
+    {
+        "value": "Копье с катушкой",
+        "path": "/collectables/avikanteslaspear/title",
+        "op": "replace"
+    },
+    {
+        "value": "Костяное копье с генератором электрического тока.",
+        "path": "/collectables/avikanteslaspear/description",
+        "op": "replace"
+    },
+    {
+        "value": "Меч Захида",
+        "path": "/collectables/zaheedsword/title",
+        "op": "replace"
+    },
+    {
+        "value": "Модифицированный дроденский длинномеч, используемый командиром Захидом.",
+        "path": "/collectables/zaheedsword/description",
+        "op": "replace"
+    },
+    {
+        "value": "Легион",
+        "path": "/collectables/drodenlegion/title",
+        "op": "replace"
+    },
+    {
+        "value": "Клинок-переключатель до Эксодуса, изготовленный для Дроденского легиона.",
+        "path": "/collectables/drodenlegion/description",
+        "op": "replace"
+    },
+    {
+        "value": "Искатель смерти",
+        "path": "/collectables/centens-deathseeker/title",
+        "op": "replace"
+    },
+    {
+        "value": "Таинственное оружие, стреляющее шарами, которые ищут цели.",
+        "path": "/collectables/centens-deathseeker/description",
+        "op": "replace"
+    },
+    {
+        "value": "Рука Радейса",
+        "path": "/collectables/avikan-handofrhadeis/title",
+        "op": "replace"
+    },
+    {
+        "value": "Оружие, которое, как говорят, держал в руках сам Радейс.",
+        "path": "/collectables/avikan-handofrhadeis/description",
+        "op": "replace"
+    },
+    {
+        "value": "Солнечный осушитель",
+        "path": "/collectables/centens-sundrainer/title",
+        "op": "replace"
+    },
+    {
+        "value": "Древнее оружие, которое истощает звезды для получения энергии.",
+        "path": "/collectables/centens-sundrainer/description",
+        "op": "replace"
+    },
+    {
+        "value": "Пожиратель бездны",
+        "path": "/collectables/centens-voideater/title",
+        "op": "replace"
+    },
+    {
+        "value": "Древнее оружие, способное искривлять пространство-время.",
+        "path": "/collectables/centens-voideater/description",
+        "op": "replace"
+    },
+    {
+        "value": "СДЛ-02 Шокболтер",
+        "path": "/collectables/trink-shockbolter/title",
+        "op": "replace"
+    },
+    {
+        "value": "Переработанный телеанский проект, созданный для того, чтобы шокировать противников.",
+        "path": "/collectables/trink-shockbolter/description",
+        "op": "replace"
+    },
+    {
+        "value": "Прайм-схема",
+        "path": "/collectables/trinkprimecircuit/title",
+        "op": "replace"
+    },
+    {
+        "value": "Элетрический стержень, работающий от перегруженного генератора.",
+        "path": "/collectables/trinkprimecircuit/description",
+        "op": "replace"
+    },
+    {
+        "value": "ДС-03 МОРОЗ",
+        "path": "/collectables/trink-frostlaser/title",
+        "op": "replace"
+    },
+    {
+        "value": "Ледяной лазер, который замораживает цели намертво.",
+        "path": "/collectables/trink-frostlaser/description",
+        "op": "replace"
+    },
+    {
+        "value": "Аккумулятор ГЛ-5",
+        "path": "/collectables/trink-energizer/title",
+        "op": "replace"
+    },
+    {
+        "value": "Энергетическая винтовка, созданная для тактических вылазок.",
+        "path": "/collectables/trink-energizer/description",
+        "op": "replace"
+    },
+    {
+        "value": "Гнев Аюрина",
+        "path": "/collectables/avikan-ayurinswrath/title",
+        "op": "replace"
+    },
+    {
+        "value": "Авангардная ракетная установка, модифицированная Аюрином.",
+        "path": "/collectables/avikan-ayurinswrath/description",
+        "op": "replace"
+    },
+    {
+        "value": "Протокол нарушения",
+        "path": "/collectables/avikan-violator/title",
+        "op": "replace"
+    },
+    {
+        "value": "Ионная пушка, усовершенствованная с помощью телеанских технологий.",
+        "path": "/collectables/avikan-violator/description",
+        "op": "replace"
+    },
+    {
+        "value": "Зуб Халла'Хана",
+        "path": "/collectables/avikan-hallakhantooth/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лук, выточенный из зуба Халла'Хана.",
+        "path": "/collectables/avikan-hallakhantooth/description",
+        "op": "replace"
+    },
+    {
+        "value": "Команда Вхелина",
+        "path": "/collectables/avikan-vhelinsrifle/title",
+        "op": "replace"
+    },
+    {
+        "value": "Репродукция легендарного оружия Ильялата Анде Вхелина.",
+        "path": "/collectables/avikan-vhelinsrifle/description",
+        "op": "replace"
+    },
+    {
+        "value": "Элитийский клинок",
+        "path": "/collectables/thea-tributesword/title",
+        "op": "replace"
+    },
+    {
+        "value": "Сверхострый клинок, выкованный в честь Элитии.",
+        "path": "/collectables/thea-tributesword/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лук гвардейца",
+        "path": "/collectables/avikan-guardbreakersbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка, созданная для элитных войск Авангарда.",
+        "path": "/collectables/avikan-guardbreakersbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Голос Радейса",
+        "path": "/collectables/centens-voiceofrhadeis/title",
+        "op": "replace"
+    },
+    {
+        "value": "Центенсианское оружие, способное адаптироваться к любой ситуации.",
+        "path": "/collectables/centens-voiceofrhadeis/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лук Порочителя",
+        "path": "/collectables/avikan-corruptorsbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка, испорченная телеанским везомиром.",
+        "path": "/collectables/avikan-corruptorsbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Зодчий",
+        "path": "/collectables/avikan-architect/title",
+        "op": "replace"
+    },
+    {
+        "value": "Центенсианские компоненты позволяют этому оружию призывать конструкции.",
+        "path": "/collectables/avikan-architect/description",
+        "op": "replace"
+    },
+    {
+        "value": "Длинный лук Ракори",
+        "path": "/collectables/avikan-rhakorilongbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Длинный лук, созданный кланами нагорья Ракори.",
+        "path": "/collectables/avikan-rhakorilongbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лук Вхалакина",
+        "path": "/collectables/avikan-vhalakinbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Линейный лук, созданный уединенными кланами Вхалакиса.",
+        "path": "/collectables/avikan-vhalakinbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "СДЛ-05 Затворник",
+        "path": "/collectables/trink-arclighter/title",
+        "op": "replace"
+    },
+    {
+        "value": "Электрическое оружие ближнего действия, способное наносить огромный постоянный урон.",
+        "path": "/collectables/trink-arclighter/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боковой удар",
+        "path": "/collectables/thea-sidewinder/title",
+        "op": "replace"
+    },
+    {
+        "value": "Классический револьверный пистолет с традиционным магазином.",
+        "path": "/collectables/thea-sidewinder/description",
+        "op": "replace"
+    },
+    {
+        "value": "Небосвет",
+        "path": "/collectables/thea-skylighter/title",
+        "op": "replace"
+    },
+    {
+        "value": "Классический револьверный пистолет с традиционным магазином.",
+        "path": "/collectables/thea-skylighter/description",
+        "op": "replace"
+    },
+    {
+        "value": "Экскалибур",
+        "path": "/collectables/thea-excalibur/title",
+        "op": "replace"
+    },
+    {
+        "value": "Грандиозный Аэвис, созданный в честь семьи Таемера.",
+        "path": "/collectables/thea-excalibur/description",
+        "op": "replace"
+    },
+    {
+        "value": "Горизонт событий",
+        "path": "/collectables/centens-eventhorizon/title",
+        "op": "replace"
+    },
+    {
+        "value": "Оружие, черпающее энергию от краев черной дыры.",
+        "path": "/collectables/centens-eventhorizon/description",
+        "op": "replace"
+    },
+    {
+        "value": "Элитианский лук",
+        "path": "/collectables/thea-tributebow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощный лук, созданный в честь Элитии.",
+        "path": "/collectables/thea-tributebow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Линейный прерыватель",
+        "path": "/collectables/avikan-linebreaker/title",
+        "op": "replace"
+    },
+    {
+        "value": "Тяжелое оружие, оснащенное несколькими системами линейного заряжания.",
+        "path": "/collectables/avikan-linebreaker/description",
+        "op": "replace"
+    },
+    {
+        "value": "Горе клятвопреступника",
+        "path": "/collectables/avikan-oathbreaker/title",
+        "op": "replace"
+    },
+    {
+        "value": "Дробовик, стреляющий одной разрушительной пулей.",
+        "path": "/collectables/avikan-oathbreaker/description",
+        "op": "replace"
+    },
+    {
+        "value": "Длиннолук Вхалакина",
+        "path": "/collectables/avikan-vhalakinlongbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Тяжелый лук, созданный уединенными кланами Вхалакиса.",
+        "path": "/collectables/avikan-vhalakinlongbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Дебилизатор СБ-4",
+        "path": "/collectables/trink-debilitator/title",
+        "op": "replace"
+    },
+    {
+        "value": "Массивная шоковая дубинка, предназначенная для обездвиживания врагов.",
+        "path": "/collectables/trink-debilitator/description",
+        "op": "replace"
+    },
+    {
+        "value": "Гнев Радеи",
+        "path": "/collectables/centens-wrathofrhadeis/title",
+        "op": "replace"
+    },
+    {
+        "value": "Молот, обладающий силой бога Центенсии.",
+        "path": "/collectables/centens-wrathofrhadeis/description",
+        "op": "replace"
+    },
+    {
+        "value": "Призывник",
+        "path": "/collectables/avikan-conscriptor/title",
+        "op": "replace"
+    },
+    {
+        "value": "Устрашающий револьвер, который когда-то держал старейшина Ватры.",
+        "path": "/collectables/avikan-conscriptor/description",
+        "op": "replace"
+    },
+    {
+        "value": "Бритварельс",
+        "path": "/collectables/akkimari-sawbladelauncher/title",
+        "op": "replace"
+    },
+    {
+        "value": "Самодельное оружие аккимари, стреляющее острыми как бритва лезвиями.",
+        "path": "/collectables/akkimari-sawbladelauncher/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ц56 Дефиант",
+        "path": "/collectables/thea-defiant/title",
+        "op": "replace"
+    },
+    {
+        "value": "Высокоточная лазерная винтовка, мощность которой нарастает с течением времени.",
+        "path": "/collectables/thea-defiant/description",
+        "op": "replace"
+    },
+    {
+        "value": "Барахолка",
+        "path": "/collectables/akkimari-scrapyard/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощная шрапнельная пушка, популярная среди мусорщиков.",
+        "path": "/collectables/akkimari-scrapyard/description",
+        "op": "replace"
+    },
+    {
+        "value": "Указ Кельчиса",
+        "path": "/collectables/akkimari-kelchisdecree/title",
+        "op": "replace"
+    },
+    {
+        "value": "Проворная коса, используемая избранными воинами Кельчиса.",
+        "path": "/collectables/akkimari-kelchisdecree/description",
+        "op": "replace"
+    },
+    {
+        "value": "Посох Анакар",
+        "path": "/collectables/avikan-anakahrstaff/title",
+        "op": "replace"
+    },
+    {
+        "value": "Посох, снабженный двойными статическими линейно-зарядными приводами.",
+        "path": "/collectables/avikan-anakahrstaff/description",
+        "op": "replace"
+    },
+    {
+        "value": "Взрывная работа",
+        "path": "/collectables/akkimari-blastsling/title",
+        "op": "replace"
+    },
+    {
+        "value": "Самодельная рогатка с различными бомбами.",
+        "path": "/collectables/akkimari-blastsling/description",
+        "op": "replace"
+    },
+    {
+        "value": "Клинок Карчаа",
+        "path": "/collectables/akkimari-karchaablade/title",
+        "op": "replace"
+    },
+    {
+        "value": "Клинок, используемый диким племенем Карчаа.",
+        "path": "/collectables/akkimari-karchaablade/description",
+        "op": "replace"
+    },
+    {
+        "value": "Бегущий в осаде",
+        "path": "/collectables/thea-siegerunner/title",
+        "op": "replace"
+    },
+    {
+        "value": "Гибридная штурмовая винтовка с традиционным магазином.",
+        "path": "/collectables/thea-siegerunner/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ц66 Расплавление",
+        "path": "/collectables/thea-meltdown/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощная лучевая винтовка, заставляющая цели перегреваться.",
+        "path": "/collectables/thea-meltdown/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лезвие Чаракки",
+        "path": "/collectables/akkimari-charakkiblade/title",
+        "op": "replace"
+    },
+    {
+        "value": "Проворная коса, используемый свирепым племенем Чаракки.",
+        "path": "/collectables/akkimari-charakkiblade/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лук Скофврекера",
+        "path": "/collectables/avikan-skoffwreckersbow/title",
+        "op": "replace"
+    },
+    {
+        "value": "Чудовищная тяжелая лайнтовка, способная сбивать корабли в полете.",
+        "path": "/collectables/avikan-skoffwreckersbow/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ц42 Бегущий по свету",
+        "path": "/collectables/thea-lightrunner/title",
+        "op": "replace"
+    },
+    {
+        "value": "Прототип оружия, созданный в результате секретного исследовательского проекта.",
+        "path": "/collectables/thea-lightrunner/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ритуальный посох Шалакка",
+        "path": "/collectables/akkimari-shalakkaritualstaff/title",
+        "op": "replace"
+    },
+    {
+        "value": "Посох с лезвием, используемый в ритуалах шаманов Шалакка.",
+        "path": "/collectables/akkimari-shalakkaritualstaff/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ашаток",
+        "path": "/collectables/akkimari-ashatok/title",
+        "op": "replace"
+    },
+    {
+        "value": "Нестабильное самодельное оружие, беспорядочно стреляющее неустойчивыми снарядами.",
+        "path": "/collectables/akkimari-ashatok/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ц22 Эксельсиор",
+        "path": "/collectables/thea-excelsior/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощное оружие со встроенной системой теплоотвода.",
+        "path": "/collectables/thea-excelsior/description",
+        "op": "replace"
+    },
+    {
+        "value": "Окулус Вард",
+        "path": "/collectables/centens-oculusshield/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощный экранирующий проектор, созданный по центенсианской технологии.",
+        "path": "/collectables/centens-oculusshield/description",
+        "op": "replace"
+    },
+    {
+        "value": "Светоследователь",
+        "path": "/collectables/avikan-lightstalker/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощный лук, который может использоваться как копье.",
+        "path": "/collectables/avikan-lightstalker/description",
+        "op": "replace"
+    },
+    {
+        "value": "Жало",
+        "path": "/collectables/akkimari-stinger/title",
+        "op": "replace"
+    },
+    {
+        "value": "Легкая дрифтовка, созданная для тактических вылазок.",
+        "path": "/collectables/akkimari-stinger/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шаккар",
+        "path": "/collectables/akkimari-shakkar/title",
+        "op": "replace"
+    },
+    {
+        "value": "Жестокое копье с наэлектризованным лезвием.",
+        "path": "/collectables/akkimari-shakkar/description",
+        "op": "replace"
+    },
+    {
+        "value": "Разаара",
+        "path": "/collectables/akkimari-razaara/title",
+        "op": "replace"
+    },
+    {
+        "value": "Острый как бритва клинок, с легкостью рассекающий плоть и кости.",
+        "path": "/collectables/akkimari-razaara/description",
+        "op": "replace"
+    },
+    {
+        "value": "Науроо",
+        "path": "/collectables/thea-nauroo/title",
+        "op": "replace"
+    },
+    {
+        "value": "Двуствольная ракетница, созданная для того, чтобы впечатлять.",
+        "path": "/collectables/thea-nauroo/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ваулаар",
+        "path": "/collectables/thea-vaulaar/title",
+        "op": "replace"
+    },
+    {
+        "value": "Двуствольная штурмовая винтовка для создания хаоса.",
+        "path": "/collectables/thea-vaulaar/description",
+        "op": "replace"
+    },
+    {
+        "value": "Элитийское копье",
+        "path": "/collectables/thea-tributelance/title",
+        "op": "replace"
+    },
+    {
+        "value": "Длинное и мощное копье, выкованное в честь Элитии.",
+        "path": "/collectables/thea-tributelance/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шип",
+        "path": "/collectables/akkimari-thorn/title",
+        "op": "replace"
+    },
+    {
+        "value": "Удлиняющееся копье с невероятным радиусом действия, любимое аккимари.",
+        "path": "/collectables/akkimari-thorn/description",
+        "op": "replace"
+    },
+    {
+        "value": "Объятия тени",
+        "path": "/collectables/thea-shadowsembrace/title",
+        "op": "replace"
+    },
+    {
+        "value": "Меч, скрытый в тенях, созданный для Ужасающего.",
+        "path": "/collectables/thea-shadowsembrace/description",
+        "op": "replace"
+    },
+    {
+        "value": "Преступник",
+        "path": "/collectables/akkimari-offender/title",
+        "op": "replace"
+    },
+    {
+        "value": "Старый вааш-пистолет с переломным механизмом, некогда бывший предметом множества преступлений.",
+        "path": "/collectables/akkimari-offender/description",
+        "op": "replace"
+    },
+    {
+        "value": "Возмездие",
+        "path": "/collectables/akkimari-vengeance/title",
+        "op": "replace"
+    },
+    {
+        "value": "Старая винтовка Вааша, которая отомстила за многие жизни.",
+        "path": "/collectables/akkimari-vengeance/description",
+        "op": "replace"
+    },
+    {
+        "value": "Пушка Чраака",
+        "path": "/collectables/akkimari-chraakcannon/title",
+        "op": "replace"
+    },
+    {
+        "value": "Переделанная артиллерийская пушка, которая служит молотом с шипами.",
+        "path": "/collectables/akkimari-chraakcannon/description",
+        "op": "replace"
+    },
+    {
+        "value": "Сквозьснег",
+        "path": "/collectables/notix-snowpiercer/title",
+        "op": "replace"
+    },
+    {
+        "value": "Разрушительное криогенное оружие, разработанное нотиксами.",
+        "path": "/collectables/notix-snowpiercer/description",
+        "op": "replace"
+    },
+    {
+        "value": "Winter's Embrace",
+        "path": "/collectables/aegi-wintersembrace/title",
+        "op": "replace"
+    },
+    {
+        "value": "A strange chestplate imbued with the cold of winter. It freezes its surroundings.",
+        "path": "/collectables/aegi-wintersembrace/description",
+        "op": "replace"
+    },
+    {
+        "value": "Fireworks Launcher",
+        "path": "/collectables/thea-fireworkattachment/title",
+        "op": "replace"
+    },
+    {
+        "value": "An underbarrel fireworks launcher to celebrate the Landing Festival!",
+        "path": "/collectables/thea-fireworkattachment/description",
+        "op": "replace"
+    },
+    {
+        "value": "Проломщик K-1",
+        "path": "/collectables/thea-breacher/title",
+        "op": "replace"
+    },
+    {
+        "value": "Мощный рельсотрон, способный пробивать твердые стены.",
+        "path": "/collectables/thea-breacher/description",
+        "op": "replace"
+    },
+    {
+        "value": "Советник Ачаари",
+        "path": "/collectables/akkimari-achaari/title",
+        "op": "replace"
+    },
+    {
+        "value": "Точная дрифтовка, оснащенная легким одноразовым магазином.",
+        "path": "/collectables/akkimari-achaari/description",
+        "op": "replace"
+    },
+    {
+        "value": "Искатель МЛР-02",
+        "path": "/collectables/avikan-seekersmg/title",
+        "op": "replace"
+    },
+    {
+        "value": "Прототип компактной лайнтовки, разработанный Ищущими.",
+        "path": "/collectables/avikan-seekersmg/description",
+        "op": "replace"
+    },
+    {
+        "value": "Брандитцер Тип-1",
+        "path": "/collectables/thea-branditzer/title",
+        "op": "replace"
+    },
+    {
+        "value": "Минималистичный рельсотрон, стреляющий двойными перегретыми пулями.",
+        "path": "/collectables/thea-branditzer/description",
+        "op": "replace"
+    },
+    {
+        "value": "Корсар Тип-2",
+        "path": "/collectables/thea-corsair/title",
+        "op": "replace"
+    },
+    {
+        "value": "Хорошо сбалансированное оружие, любимое пиратами из Рубежа.",
+        "path": "/collectables/thea-corsair/description",
+        "op": "replace"
+    },
+    {
+        "value": "Валет королей",
+        "path": "/collectables/thea-jackofkings/title",
+        "op": "replace"
+    },
+    {
+        "value": "Чудовищная, многоцелевая ручная пушка и плазменный клинок.",
+        "path": "/collectables/thea-jackofkings/description",
+        "op": "replace"
+    },
+    {
+        "value": "Shardbreaker",
+        "path": "/collectables/centensbeamaxe/title",
+        "op": "replace"
+    },
+    {
+        "value": "A Centensian artefact capable of rapidly deconstructing matter.",
+        "path": "/collectables/centensbeamaxe/description",
+        "op": "replace"
+    },
+    {
+        "value": "Эрито",
+        "path": "/collectables/thea-erito/title",
+        "op": "replace"
+    },
+    {
+        "value": "Изящный длинный меч с почти неломающейся кромкой.",
+        "path": "/collectables/thea-erito/description",
+        "op": "replace"
+    },
+    {
+        "value": "Винтовка Лиина",
+        "path": "/collectables/thea-lyiinsrifle/title",
+        "op": "replace"
+    },
+    {
+        "value": "Личное огнестрельное оружие Лиина Теймера, вдохновленное оружием инопланетян.",
+        "path": "/collectables/thea-lyiinsrifle/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ц30 Превосходство",
+        "path": "/collectables/thea-supremacy/title",
+        "op": "replace"
+    },
+    {
+        "value": "Скорострельная штурмовая винтовка со встроенной системой теплоотвода.",
+        "path": "/collectables/thea-supremacy/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ослепленный осколок",
+        "path": "/collectables/remnant-splinter/title",
+        "op": "replace"
+    },
+    {
+        "value": "Древний, похожий на камень артефакт, источающий неестественную силу.",
+        "path": "/collectables/remnant-splinter/description",
+        "op": "replace"
+    }
+]

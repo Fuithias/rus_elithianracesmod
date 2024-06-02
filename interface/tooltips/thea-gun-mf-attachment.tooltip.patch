@@ -1,0 +1,27 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Я баг. Прошу сообщите обо мне!",
+    "path": "/descriptionLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Скорость стрельбы:",
+    "path": "/speedTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урон за выстрел:",
+    "path": "/damagePerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии на выстрел:",
+    "path": "/energyPerShotTitleLabel/value",
+    "op": "replace"
+  }
+]

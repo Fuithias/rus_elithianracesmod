@@ -1,0 +1,37 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урон за выстрел:",
+    "path": "/damagePerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Скорость стрельбы:",
+    "path": "/speedTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Выстрелов до перегрева:",
+    "path": "/shotsToOverheatTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Время отката:",
+    "path": "/cooldownTimeTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Я баг. Прошу сообщите обо мне!",
+    "path": "/descriptionLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Уникальный",
+    "path": "/customRarityLabel/value",
+    "op": "replace"
+  }
+]

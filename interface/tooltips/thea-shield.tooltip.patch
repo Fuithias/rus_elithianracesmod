@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Здоровье щита:",
+    "path": "/healthTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Время отката:",
+    "path": "/cooldownTitleLabel/value",
+    "op": "replace"
+  }
+]
