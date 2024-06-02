@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Аеги",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Потомки человечества",
+    "path": "/charCreationTooltip/subTitle",
+    "op": "replace"
+  },
+  {
+    "value": "Потомки человечества, покинувшие Землю перед лицом природной катастрофы. Дипломатичные, миролюбивые и технологически продвинутые, Аеги утвердились в качестве основателей межзвездного межвидового объединения под названием Элитианский Альянс.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет кожи",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": " Волосы",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Одежда",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Штаны",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": " Форма ушей",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет волос",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет одежды",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет штанов",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": " АЕГИ",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Личность",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

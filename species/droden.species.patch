@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Дродены",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Служители для Авикан",
+    "path": "/charCreationTooltip/subTitle",
+    "op": "replace"
+  },
+  {
+    "value": "Дродены были созданы авиканами в качестве расходных солдат для использования в войне против телеанцев. После неудавшегося мятежа в ходе Дроденской войны был наложен запрет на создание новых ИИ, и на сегодня осталось лишь несколько настоящих ИИ.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет покраски",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Узор",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Н/Д",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Н/Д",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Антенна",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": " Цвет акцента",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Н/Д",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Н/Д",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "ДРОДЕНЫ",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Личность",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

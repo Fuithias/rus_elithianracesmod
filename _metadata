@@ -1,0 +1,11 @@
+{
+  "author" : "Fuithias",
+  "description" : "Russian translation for Elithian Races Mod",
+  "friendlyName" : "Русификатор Elithian Races Mod",
+  "includes" : ["Elithian_Races_Mod"],
+  "link" : "steam://url/CommunityFilePage/3259612192",
+  "name" : "RUS_Elithian_Races_Mod",
+  "steamContentId" : "3259612192",
+  "tags" : "Miscellaneous|User Interface",
+  "version" : "0.2.7"
+}

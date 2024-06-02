@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Дружелюбный авиканский корабль",
+    "path": "/avikanmerchantship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Этот корабль признал наши обращения и с настороженностью принял наш запрос на стыковку.",
+    "path": "/avikanmerchantship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дружелюбный авиканский корабль",
+    "path": "/avikanwarship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Этот корабль признал наши обращения и с настороженностью принял наш запрос на стыковку.",
+    "path": "/avikanwarship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дружественный тринкианский корабль",
+    "path": "/trinkmerchantship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Этот корабль признал наши обращения, и его капитан радушно пригласил нас нанести визит.",
+    "path": "/trinkmerchantship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дружественный корабль Альянса",
+    "path": "/alliancemerchantship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Этот корабль признал наши обращения, и его капитан радушно пригласил нас нанести визит.",
+    "path": "/alliancemerchantship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Враждебный корабль ободчиков",
+    "path": "/rimdwellerhostileship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Обнаружен слабый сигнал, исходящий от нерегистрируемого корабля. Кто бы ни управлял кораблем, он, вероятно, не хочет, чтобы его посещали.",
+    "path": "/rimdwellerhostileship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/thea-peculiaranomaly/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Обнаружены весьма необычные показатели энергии, но небесные помехи не позволяют провести детальное сканирование. Необходимо провести обследование.",
+    "path": "/thea-peculiaranomaly/parameters/description",
+    "op": "replace"
+  }
+]

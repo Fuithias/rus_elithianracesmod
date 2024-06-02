@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Тринки",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Разумные роботы",
+    "path": "/charCreationTooltip/subTitle",
+    "op": "replace"
+  },
+  {
+    "value": "Созданные нотиксами, тринки - раса владеющих разумом роботов, живущих в гармонии со своими создателями. Они ценят эффективность превыше всего и ответственны за многие технологические достижения Элитианского Альянса.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет покраски",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Антенна",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мод рук",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мод тела",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет рта",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет антенны",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет мода рук",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Цвет мода тела",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "ТРИНКИ",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Личность",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

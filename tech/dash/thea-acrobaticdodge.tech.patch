@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Дважды нажмите ^green;[A]^white; или ^green;[D]^white; чтобы уклониться от атак! Задержка: 0.4 с.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Акробатическое уклонение",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

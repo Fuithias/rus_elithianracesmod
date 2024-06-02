@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Деревянный верстак с местом для чертежей, идеальный для планирования новых конструкций.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Стол планирования^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стол планирования",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специализированые ремесленные инструменты",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Верстак и чертежи для современного дизайнера.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Стол дизайнера^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стол дизайнера",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специализированые ремесленные инструменты",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Современное рабочее место с доступом к передовым чертежам.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Стол искусника^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стол искусника",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специализированые ремесленные инструменты",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  }
+]
