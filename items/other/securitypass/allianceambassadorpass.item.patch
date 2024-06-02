@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Охранный пропуск",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Карточка безопасности, выдаваемая всем послам Элитианского Альянса.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Пропуск посла Альянса^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Охранный пропуск",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Официальное удостоверение личности гражданина Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Пропуск граждан Союза^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]
