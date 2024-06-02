@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Капюшон, носимый теми, кто разбирает инопланетные корабли на запчасти.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Капюшон вандала",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

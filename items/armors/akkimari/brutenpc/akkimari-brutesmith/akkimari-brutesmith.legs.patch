@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Длинная юбка, которую носят кузнецы",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Грубая кузнечная юбка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Кираса из металлолома, которую носят аккимарийские мусорщики.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кираса мусорщика",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

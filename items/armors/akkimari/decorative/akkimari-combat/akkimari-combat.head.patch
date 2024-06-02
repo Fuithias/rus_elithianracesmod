@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Тяжелый шлем, обеспечивающий превосходную защиту в бою.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевой шлем",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Шелковый ранец и пояс, которые носят судебные клерки",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ранец клерка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Металлические сапоги и юбка для защиты от мусора",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Поножи расхитителя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

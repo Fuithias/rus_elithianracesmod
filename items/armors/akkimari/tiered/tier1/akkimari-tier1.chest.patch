@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Грубо сделанная нагрудная пластина с поясом из шелка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Тряпье подонка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

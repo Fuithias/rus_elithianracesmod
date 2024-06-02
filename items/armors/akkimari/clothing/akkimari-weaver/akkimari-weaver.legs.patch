@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Шелковая юбка, которую носят ткачи шелка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ткацкая юбка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

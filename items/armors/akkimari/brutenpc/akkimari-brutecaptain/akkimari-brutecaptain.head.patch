@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Большой, грубый шлем, который носят капитаны Келрааки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Грубый капитанский шлем",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

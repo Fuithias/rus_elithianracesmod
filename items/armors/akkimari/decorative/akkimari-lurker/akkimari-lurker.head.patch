@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Капюшон, который носят аккимари, скрывающиеся в тени.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Капюшон скрытника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

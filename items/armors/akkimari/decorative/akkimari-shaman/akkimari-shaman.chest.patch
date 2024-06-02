@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Верх, который носят шаманы Шалакка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Верх Шалакка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

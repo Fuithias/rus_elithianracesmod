@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Боевая кираса из прочных металлов. Здоровая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кираса налетчика р.С",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

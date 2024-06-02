@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Шлем с интегрированным ночным и тепловым зрением, который носят черепы Аккимари.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем черепа",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Прочный нагрудник для защиты от сильных ударов",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кираса расхитителя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

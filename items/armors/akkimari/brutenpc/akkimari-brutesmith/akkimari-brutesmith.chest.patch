@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Свободная праща, которую носят кузнецы",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Грубая кузнечная перевязь",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

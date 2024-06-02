@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аккимари. ^white;Поножи и набедренные пластины из металлолома, которые носят мусорщики Аккимари.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Поножи мусорщика",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]
