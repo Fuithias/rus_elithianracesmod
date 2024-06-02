@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урона в секунду:",
+    "path": "/dpsTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Мощь рубления:",
+    "path": "/miningStrengthTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии в секунду:",
+    "path": "/energyPerSecondTitleLabel/value",
+    "op": "replace"
+  }
+]

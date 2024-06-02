@@ -1,0 +1,27 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Базовый макс. урон:",
+    "path": "/maxDamageTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Время натяжения:",
+    "path": "/drawTimeTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии на выстрел:",
+    "path": "/energyPerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии на удержание:",
+    "path": "/energyPerSecondTitleLabel/value",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урон в секунду:",
+    "path": "/dpsTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии в секунду:",
+    "path": "/energyPerSecondTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Уникальный",
+    "path": "/customRarityLabel/value",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урон за очередь:",
+    "path": "/damagePerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Патрон за очередь:",
+    "path": "/roundsPerBurstTitleLabel/value",
+    "op": "replace"
+  },  {
+    "value": "Скорость стрельбы:",
+    "path": "/speedTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Энергии на очередь:",
+    "path": "/energyPerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Уникальный",
+    "path": "/customRarityLabel/value",
+    "op": "replace"
+  }
+]

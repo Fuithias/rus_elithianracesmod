@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^gray;ур^reset;",
+    "path": "/levelTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Урон за выстрел:",
+    "path": "/damagePerShotTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Время зарядки:",
+    "path": "/chargeTimeTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Объём магазина:",
+    "path": "/magazineSizeTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Время перезарядки:",
+    "path": "/reloadTimeTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Особое:",
+    "path": "/reloadAbilityTitleLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Перезарядка",
+    "path": "/reloadAbilityLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Уникальный",
+    "path": "/customRarityLabel/value",
+    "op": "replace"
+  }
+]
