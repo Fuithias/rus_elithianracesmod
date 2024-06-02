@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Стандартные штаны для военнослужащих Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Штаны М-АСБ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

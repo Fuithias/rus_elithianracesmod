@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Козырек с высокотехнологичным дисплеем, который часто носят обитатели Рубежа.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Визор Рубежника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

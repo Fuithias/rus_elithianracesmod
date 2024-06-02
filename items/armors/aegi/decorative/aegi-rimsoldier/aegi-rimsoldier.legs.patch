@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Бронированные штаны и магнитные ботинки, которые носят бойцы на Рубеже.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевые штаны Рубежа",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

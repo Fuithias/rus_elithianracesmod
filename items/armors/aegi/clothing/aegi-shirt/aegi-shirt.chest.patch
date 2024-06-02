@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Простая, но удобная футболка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Футболка с поясом",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

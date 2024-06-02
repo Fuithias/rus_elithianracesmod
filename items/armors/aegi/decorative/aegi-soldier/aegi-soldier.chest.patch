@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Стандартный нагрудный доспех военнослужащих Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кираса М-АСБ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

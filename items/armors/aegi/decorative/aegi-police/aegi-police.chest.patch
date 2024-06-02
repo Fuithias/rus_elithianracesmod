@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Форма, которую носят правоохранительные органы Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Форма П-АСБ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

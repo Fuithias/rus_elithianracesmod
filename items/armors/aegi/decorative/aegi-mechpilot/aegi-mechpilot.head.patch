@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Шлем со встроенным дисплеем, используемый пилотами мехов Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем пилота меха Союза",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

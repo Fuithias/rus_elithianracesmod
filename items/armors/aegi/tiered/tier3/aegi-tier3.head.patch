@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Броневой шлем, который носили некоторые аегинские пехотинцы.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем пехотинца",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

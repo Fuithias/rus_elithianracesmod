@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Чрезвычайно прочный металлический шлем. Здоровая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевой шлем Союза тип-С",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

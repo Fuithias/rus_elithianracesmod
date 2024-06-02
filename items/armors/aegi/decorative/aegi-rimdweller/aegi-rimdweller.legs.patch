@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Усиленные штаны с магнитными ботинками для выхода в открытый космос.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Штаны Рубежника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

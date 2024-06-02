@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Чрезвычайно прочный металлический нагрудник. Силовая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевой скафандр Союза тип-М",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

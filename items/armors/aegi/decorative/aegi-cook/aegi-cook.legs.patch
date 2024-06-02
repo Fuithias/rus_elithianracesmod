@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Нижняя часть одежды шеф-повара.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка кулинара",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

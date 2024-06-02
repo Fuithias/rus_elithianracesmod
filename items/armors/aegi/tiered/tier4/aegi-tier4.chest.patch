@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Прочный металлический нагрудник, который носят аегинские спецназовцы.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Нагрудник спецназа",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

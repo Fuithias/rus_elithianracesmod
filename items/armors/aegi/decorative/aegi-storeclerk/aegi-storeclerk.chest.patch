@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Верхняя часть одежды продавца магазина.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Фартук продавца",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

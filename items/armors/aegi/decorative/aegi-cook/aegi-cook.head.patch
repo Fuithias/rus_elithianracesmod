@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Колпак, который носили шефы Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кулинарный колпак",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

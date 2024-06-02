@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Шорты и кеды, популярные среди граждан Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шорты и кеды",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

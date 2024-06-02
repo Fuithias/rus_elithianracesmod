@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Теплая и удобная шапочка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шапочка Союза",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

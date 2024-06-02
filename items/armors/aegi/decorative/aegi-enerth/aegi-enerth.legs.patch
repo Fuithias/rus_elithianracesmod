@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Рабочие брюки, которые носят инженеры Енерт.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Рабочие брюки Енерт",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

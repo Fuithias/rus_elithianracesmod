@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Все должностные лица АСБ носят такую форму.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Брюки АСБ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

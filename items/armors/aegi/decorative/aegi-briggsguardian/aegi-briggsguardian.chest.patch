@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Усиленная нагрудная броня, которую носят стражники Бриггса.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кираса стражника Бриггс",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Рекламная футболка Авентор.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Футболка Авентор",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Рабочая короткая одежда инженеров Енерт.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Рубашка инженера Енерт",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

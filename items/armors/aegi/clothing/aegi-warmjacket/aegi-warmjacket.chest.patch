@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Теплая куртка с мягкой подкладкой.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Теплая куртка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

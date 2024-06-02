@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Официальное одеяние адмирала Аегинского Федерального Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Наряд адмирала",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

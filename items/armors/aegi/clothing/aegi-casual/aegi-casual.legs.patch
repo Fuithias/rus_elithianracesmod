@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Брюки и ботинки, популярные среди граждан Союза.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Повседневные брюки",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]
