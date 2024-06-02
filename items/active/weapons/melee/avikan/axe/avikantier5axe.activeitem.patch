@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Металлический топор. В нем используется вибролезвие.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Топор Номады",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Снайперка повышенной мощности.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Бредон Армс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "БР-4 Скрытинь",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Снайперская винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

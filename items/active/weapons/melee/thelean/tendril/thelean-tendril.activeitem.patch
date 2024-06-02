@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Телеанцы могут вытягивать свои электрические усики, чтобы атаковать врагов.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Телеанского ус",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ус",
+        "path": "/category",
+        "op": "replace"
+    }
+]

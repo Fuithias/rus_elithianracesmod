@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Одеяние авиканской высиделки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Одеяние высиделки",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

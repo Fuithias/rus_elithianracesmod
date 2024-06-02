@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Проворная коса, используемая избранными воинами Кельчиса.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Указ Кельчиса^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Коса",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Грандиозный Аэвис, созданный в честь семьи Таемера.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Аэвирское вооружение^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Экскалибур^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Щит-меч",
+        "path": "/category",
+        "op": "replace"
+    }
+]

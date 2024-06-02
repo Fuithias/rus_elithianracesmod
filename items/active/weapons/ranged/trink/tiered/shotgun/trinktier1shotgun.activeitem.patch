@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Низкосортный лазерный дробовик стандартного выпуска, созданный тринками.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Схема-дробитель Марк I",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерный дробовик",
+        "path": "/category",
+        "op": "replace"
+    }
+]

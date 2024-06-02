@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Высококачественный лазерный пистолет стандартной комплектации, созданный тринками.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Схема-столет Марк V",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерный пистолет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

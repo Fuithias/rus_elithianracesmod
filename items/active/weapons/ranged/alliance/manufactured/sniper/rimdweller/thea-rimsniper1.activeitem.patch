@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Снайперка, произведенная где-то на Рубеже.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Палач РМ2",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Снайперская винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Арбалет, собранный Номадой. С ним можно собирать кости и шкуры чудовищ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадский арбалет",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Арбалет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

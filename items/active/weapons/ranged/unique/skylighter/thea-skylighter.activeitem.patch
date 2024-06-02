@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Классический револьверный пистолет с традиционным магазином.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Небосвет^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ручная пушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

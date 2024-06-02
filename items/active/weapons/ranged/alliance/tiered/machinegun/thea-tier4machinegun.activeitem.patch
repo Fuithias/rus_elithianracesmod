@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Пулемет, идеально подходящий для длительной стрельбы.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Гомер РС-2",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пулемет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

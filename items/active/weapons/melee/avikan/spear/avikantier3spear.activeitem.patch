@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острое копье из прочной кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Копье преследователя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

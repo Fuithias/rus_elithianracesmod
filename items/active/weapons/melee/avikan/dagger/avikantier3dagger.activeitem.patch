@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острый кинжал из прочной кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кинжал преследователя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

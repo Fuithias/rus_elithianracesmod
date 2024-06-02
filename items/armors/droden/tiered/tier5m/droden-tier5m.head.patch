@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Одобренное Номадой улучшение головы. Силовая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Голова Номады тип-М",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

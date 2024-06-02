@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Закрытый тайник, содержащий что-то ценное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Закрытый тайник Аккимари",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Закрытый тайник",
+        "path": "/category",
+        "op": "replace"
+    }
+]

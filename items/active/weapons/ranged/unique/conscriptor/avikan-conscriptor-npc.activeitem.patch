@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Устрашающий револьвер, который когда-то держал старейшина Ватры.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Ватра^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Призывник (НИП)^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ручная пушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Мощный лазерный бур. Прожигает и камень, и врагов!^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Лазер-бур ПАМ",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазер-бур",
+        "path": "/category",
+        "op": "replace"
+    }
+]

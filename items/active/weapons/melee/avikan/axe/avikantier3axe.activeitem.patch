@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острый костяной топор, сделанный из прочной кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Топор преследователя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

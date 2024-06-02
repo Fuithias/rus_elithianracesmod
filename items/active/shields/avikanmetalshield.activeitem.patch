@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Прочный металлический щит, выдаваемый авиканским солдатам.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадский щит",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

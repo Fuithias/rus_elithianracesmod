@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Оружие, черпающее энергию от краев черной дыры.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Горизонт событий^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Гравиискажающая винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Энергетическое оружие, используемое высокопоставленными членами Клангарда.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Молот Клангарда",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

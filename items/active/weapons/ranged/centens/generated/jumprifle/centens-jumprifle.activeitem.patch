@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Использует миниатюрные врата для переноса солнечной материи в магазин.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Центенсианская скачтовка",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Скачтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

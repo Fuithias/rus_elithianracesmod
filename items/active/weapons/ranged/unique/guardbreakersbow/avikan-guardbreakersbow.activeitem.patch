@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Лайнтовка, созданная для элитных войск Авангарда.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Лук гвардейца^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Старый вааш-пистолет с переломным механизмом, некогда бывший предметом множества преступлений.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рашакр^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Преступник^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ловчик",
+        "path": "/category",
+        "op": "replace"
+    }
+]

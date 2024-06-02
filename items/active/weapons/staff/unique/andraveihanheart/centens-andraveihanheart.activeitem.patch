@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Небольшой артефакт, выкованный во Вхалас Андра'вейх, священном городе Се'Теннана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Сердце Андра'вейхана^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Артефакт",
+        "path": "/category",
+        "op": "replace"
+    }
+]

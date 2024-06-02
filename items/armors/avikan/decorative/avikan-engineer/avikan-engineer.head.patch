@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Простой козырек, который носят авиканские инженеры.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Козырек инженера",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

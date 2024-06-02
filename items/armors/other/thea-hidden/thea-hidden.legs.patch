@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Маленькое устройство, скрывающее броню в слоте для ножной брони.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Скрыватель для ног",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

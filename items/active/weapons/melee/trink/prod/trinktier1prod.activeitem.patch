@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Электрошок, призванный держать нападающих на расстоянии.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Схема-стрежень Марк I",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Электрод",
+        "path": "/category",
+        "op": "replace"
+    }
+]

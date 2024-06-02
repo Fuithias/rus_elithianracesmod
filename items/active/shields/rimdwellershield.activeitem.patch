@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Металлический щит с покрытием, произведенный где-то на Рубеже.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Щит Рубежника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

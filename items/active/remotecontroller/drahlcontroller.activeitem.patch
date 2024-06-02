@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Позволяет вызывать и контролировать Драла.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Контроллер Драла",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пульт управления",
+        "path": "/category",
+        "op": "replace"
+    }
+]

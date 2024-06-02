@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Общее. ^white;Генератор очень высокой интенсивности для защиты ног, обеспечивает отличную защиту.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Защитный щит ВХ-и",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

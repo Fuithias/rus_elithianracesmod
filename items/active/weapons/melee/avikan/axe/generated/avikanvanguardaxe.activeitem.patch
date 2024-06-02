@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Великолепно выполненный металлический топор, выдаваемый авиканским воинам.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Топор Авангарда",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

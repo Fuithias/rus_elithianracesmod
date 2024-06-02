@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Самодельная рогатка с различными бомбами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Келрааки^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Взрывная работа^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Рогатка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

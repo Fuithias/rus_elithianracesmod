@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из низкосортной стали.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод оптики Марк II",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

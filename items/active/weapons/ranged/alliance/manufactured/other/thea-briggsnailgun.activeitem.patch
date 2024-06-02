@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Мощный гвоздомет, созданный для строительных работ.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Судостроение Бриггс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Гвоздомет Бриггс",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Гвоздомет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

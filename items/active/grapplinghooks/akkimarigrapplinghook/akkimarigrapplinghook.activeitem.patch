@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Крюк-кошка, предназначенная для лазания по горам и перемахивания через овраги.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Крюк-кошка Акриса",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Инструмент",
+        "path": "/category",
+        "op": "replace"
+    }
+]

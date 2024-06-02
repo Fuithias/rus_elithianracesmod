@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Прочная голова из дюрастали.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Дюрасталевая голова",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

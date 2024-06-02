@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Рваная одежда, которую носит Болтер.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Лохмотья Болтера",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

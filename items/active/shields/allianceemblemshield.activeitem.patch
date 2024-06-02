@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^#BA66FF;Щит, украшенный эмблемой Элитианского Альянса.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^#BA66FF;Щит Элитианского Альянса^reset;",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

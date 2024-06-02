@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Металлическая юбка и плетеные леггинсы, которые носят кеффрайдеры.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка кеффрайдера",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

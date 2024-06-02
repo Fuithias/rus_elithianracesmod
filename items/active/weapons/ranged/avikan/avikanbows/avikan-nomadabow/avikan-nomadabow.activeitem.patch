@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Используется для сбора костей и шкур чудовищ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадский лук",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Композитный лук",
+        "path": "/category",
+        "op": "replace"
+    }
+]

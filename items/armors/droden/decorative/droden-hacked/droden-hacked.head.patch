@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Голова дроденов, взломанная телеанским везомиром.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Взломанная голова",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

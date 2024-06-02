@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Плотно прилегающий жилет, который носят инженеры Номады.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Жилет инженера",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

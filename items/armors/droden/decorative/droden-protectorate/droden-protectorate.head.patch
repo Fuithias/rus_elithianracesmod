@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Головной элемент в стиле Протектората для дроденов.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Голова Протектората",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

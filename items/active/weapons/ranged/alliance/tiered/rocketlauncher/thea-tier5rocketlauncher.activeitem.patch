@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Стандартная ракетница Альянса.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Альянс Коллектив^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "АЦ.Л-45 Валун",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ракетница",
+        "path": "/category",
+        "op": "replace"
+    }
+]

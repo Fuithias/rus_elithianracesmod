@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Шлем экзокостюма, который быстро восстанавливает запасы энергии своего владельца.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем Радейхан",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

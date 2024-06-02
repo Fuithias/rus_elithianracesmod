@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Каркас для наблюдательных единиц дроденов.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Каркас наблюдателя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

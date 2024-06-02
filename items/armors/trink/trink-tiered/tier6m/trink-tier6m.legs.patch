@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усилением из соляриума очень высокого качества.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Утилитарный мод тела в2",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

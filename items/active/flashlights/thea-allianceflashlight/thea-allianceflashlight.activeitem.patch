@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Простой, но мощный фонарь, созданный компанией Машиностроение Енерт.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Фонарик Енерт",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Фонарик",
+        "path": "/category",
+        "op": "replace"
+    }
+]

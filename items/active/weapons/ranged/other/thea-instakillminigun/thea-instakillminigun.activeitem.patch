@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Золотая пушка-гатлинга для поистине запредельной мощи. Ты мошенник!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Золотая пушка-гатлинга^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пушка-гатлинга",
+        "path": "/category",
+        "op": "replace"
+    }
+]

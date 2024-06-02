@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Легкая и обтекаемая броня, которую носят кеффрайдеры.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Броня кеффрайдера",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

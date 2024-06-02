@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Граната, наполненная ваашем.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Акрисовая вааш бомба",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Бросаемый",
+        "path": "/category",
+        "op": "replace"
+    }
+]

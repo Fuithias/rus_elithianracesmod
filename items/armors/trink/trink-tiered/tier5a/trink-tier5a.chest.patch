@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки из высокосортного эгизальта.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод руки Энигмат",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

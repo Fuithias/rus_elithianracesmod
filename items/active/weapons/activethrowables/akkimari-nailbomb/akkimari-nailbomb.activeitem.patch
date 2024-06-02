@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Самодельная граната, начиненная заточенными гвоздями.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Самодельная гвоздебомба",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Бросаемый",
+        "path": "/category",
+        "op": "replace"
+    }
+]

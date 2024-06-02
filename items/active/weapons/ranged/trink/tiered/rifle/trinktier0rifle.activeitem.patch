@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Устаревшая лазерная винтовка тринков. Выведена много лет назад, но все еще способна ударить.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Тринкианская винтовка Марк I",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерная винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

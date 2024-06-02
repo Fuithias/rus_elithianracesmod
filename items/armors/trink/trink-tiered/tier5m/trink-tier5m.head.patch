@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из высокосортного рубия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Утилитарный мод оптики",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

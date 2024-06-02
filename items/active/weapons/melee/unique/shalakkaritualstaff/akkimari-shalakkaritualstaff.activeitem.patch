@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Посох с лезвием, используемый в ритуалах шаманов Шалакка.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Шалакка^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Ритуальный посох Шалакка^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ритуальный посох",
+        "path": "/category",
+        "op": "replace"
+    }
+]

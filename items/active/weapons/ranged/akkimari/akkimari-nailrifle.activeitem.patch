@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Самодельная штурмовая винтовка, стреляющая жареными гвоздями.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Келрааки^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Гвоздовка Акриса",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Штурмовая винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

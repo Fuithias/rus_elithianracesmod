@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Чудовищная, многоцелевая ручная пушка и плазменный клинок.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^#FFDD59;Валет королей^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ручная пушка",
+        "path": "/category",
+        "op": "replace"
+    },
+    {
+        "value": "Смена формы",
+        "path": "/altAbility/name",
+        "op": "replace"
+    }
+]

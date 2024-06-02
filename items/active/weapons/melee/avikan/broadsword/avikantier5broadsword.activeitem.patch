@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Металлический палаш, разработанный Номадой.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Острие Номады",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

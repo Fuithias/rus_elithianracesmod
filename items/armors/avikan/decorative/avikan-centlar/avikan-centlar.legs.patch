@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Длинная юбка, которую носят Центляры Авикана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка центляра",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

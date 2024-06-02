@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Разноцветная юбка, которую носят во время праздничных мероприятий.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Праздничная юбка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

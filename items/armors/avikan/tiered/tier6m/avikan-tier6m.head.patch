@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Великолепный шлем, надеваемый членами Клангарда авикан. Силовая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем Клангарда тип-М",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

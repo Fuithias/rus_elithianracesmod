@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Ионная пушка, усовершенствованная с помощью телеанских технологий.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Протокол нарушения^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ионная пушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

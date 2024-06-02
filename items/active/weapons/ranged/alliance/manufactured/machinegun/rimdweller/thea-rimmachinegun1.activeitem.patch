@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Пулемет, идеально подходящий для длительной стрельбы.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Метельский РМ9",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пулемет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

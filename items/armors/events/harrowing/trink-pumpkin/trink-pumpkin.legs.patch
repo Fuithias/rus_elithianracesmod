@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;Ноги. ^white;Тыквенное тело для празднования Ужасающего!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Тыквенное тело",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

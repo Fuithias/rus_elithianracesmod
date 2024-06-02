@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Реликвия, связанная с Рашаеком, телеанским возносителем.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Мудрость Рашаека^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Скипетр",
+        "path": "/category",
+        "op": "replace"
+    }
+]

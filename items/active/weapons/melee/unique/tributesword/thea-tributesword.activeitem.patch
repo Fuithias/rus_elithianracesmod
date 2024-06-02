@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^orange;Сверхострый клинок, выкованный в честь Элитии.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Элитийский клинок^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Гаечный ключ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Машиностроение Энерт^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Гаечный ключ Союза",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Гаечный ключ",
+        "path": "/category",
+        "op": "replace"
+    }
+]

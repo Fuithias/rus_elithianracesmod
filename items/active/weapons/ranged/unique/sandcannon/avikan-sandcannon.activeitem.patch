@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Безжалостный поток песка, чтобы держать врагов на расстоянии.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Объятия пустыни^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пескомет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

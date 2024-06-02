@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Костюм паломника для праздника Приземления!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шапка паломника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

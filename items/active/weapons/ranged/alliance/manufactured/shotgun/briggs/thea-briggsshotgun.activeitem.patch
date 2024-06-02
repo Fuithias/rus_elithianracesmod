@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Одно из немногих оружий, когда-либо разработанных Судостроением Бриггс.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Судостроение Бриггс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Хранитель Бриггс",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Дробовик",
+        "path": "/category",
+        "op": "replace"
+    }
+]

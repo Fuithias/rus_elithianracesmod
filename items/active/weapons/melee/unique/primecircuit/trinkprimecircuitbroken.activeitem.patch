@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Сломанный электрод. Его источник питания сломан.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Сломанный стержень",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Стержень",
+        "path": "/category",
+        "op": "replace"
+    }
+]

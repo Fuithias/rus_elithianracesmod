@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Ракетница, произведенная где-то на Рубеже.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Эрадикатор РМ16",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ракетница",
+        "path": "/category",
+        "op": "replace"
+    }
+]

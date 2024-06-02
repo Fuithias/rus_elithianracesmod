@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Авангардная ракетная установка, модифицированная Аюрином.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Аюрин/Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Гнев Аюрина^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ракетная установка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

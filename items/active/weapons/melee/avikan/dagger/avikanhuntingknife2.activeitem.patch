@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Охотничий нож, разработанный Номадой. Используется для разделки высококачественной кожи монстров.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадский охотничий нож",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Нож охотника",
+        "path": "/category",
+        "op": "replace"
+    }
+]

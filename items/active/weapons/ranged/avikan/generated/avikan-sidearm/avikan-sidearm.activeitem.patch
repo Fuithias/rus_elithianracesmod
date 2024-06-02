@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Стандартная модель номадской вторички.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадская вторичка",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Вторичка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

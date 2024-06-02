@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Баллистический пистолет.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Бредон Армс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "БП-6 Декер",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пистолет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

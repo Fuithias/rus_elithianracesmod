@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из среднесортного титана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод оптики Марк III",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

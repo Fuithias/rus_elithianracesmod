@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Прочная кожаная юбка, идеально подходящая для путешественников по пустыне.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка путешественника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

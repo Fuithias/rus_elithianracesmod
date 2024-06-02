@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Ручновка, изготовленная где-то на Рубеже.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Брокер РМ1",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ручновка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

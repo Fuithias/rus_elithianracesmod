@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Уникальная линейная винтовка, созданная для уничтожения эрразмайров.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Копье Эрразбителя^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

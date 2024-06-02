@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Взрывчатка для пробивания стен. ^red;ВНИМАНИЕ: Сильно повреждает окружение!^gray;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Взрывной заряд Авангарда",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Бросаемый",
+        "path": "/category",
+        "op": "replace"
+    }
+]

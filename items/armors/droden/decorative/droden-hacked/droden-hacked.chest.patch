@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;каркас дроденов, взломанный телеанским везомиром.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Взломанный каркас",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

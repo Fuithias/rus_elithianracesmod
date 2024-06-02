@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Длинное и мощное копье, выкованное в честь Элитии.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Элитийское копье^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Копье",
+        "path": "/category",
+        "op": "replace"
+    }
+]

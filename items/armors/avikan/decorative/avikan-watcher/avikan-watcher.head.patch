@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Шлем авиканского наблюдателя.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем наблюдателя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

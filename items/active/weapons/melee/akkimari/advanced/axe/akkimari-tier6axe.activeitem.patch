@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Нагретый топор, используемый охотниками за головами Келрааки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Келрааки^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Топор Келрааки",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

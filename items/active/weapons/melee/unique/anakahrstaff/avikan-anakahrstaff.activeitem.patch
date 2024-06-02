@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Посох, снабженный двойными статическими линейно-зарядными приводами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Системы Анакар^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Посох Анакар^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Линейный посох",
+        "path": "/category",
+        "op": "replace"
+    }
+]

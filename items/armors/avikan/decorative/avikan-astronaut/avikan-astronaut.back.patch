@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Старый рюкзак астронавта, использовавшийся ранними авиканскими астронавтами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Рюкзак астронавта",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

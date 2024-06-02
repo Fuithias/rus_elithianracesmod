@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Украшенная кожаная рубашка, предпочитаемая купцами пустыни",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Купеческая рубашка",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

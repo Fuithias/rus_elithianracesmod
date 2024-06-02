@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Мощный рельсотрон, способный пробивать твердые стены.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Проломщик K-1^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Рельсотрон",
+        "path": "/category",
+        "op": "replace"
+    }
+]

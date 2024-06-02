@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Острые шипы, наносящие урон проходящим над ними врагам.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Костяные шипы",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Бросаемый",
+        "path": "/category",
+        "op": "replace"
+    }
+]

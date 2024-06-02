@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Тяжелая шиповая пушка, собранная Аккимари.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Келрааки^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Шип-пушка Акриса",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Шип-пушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

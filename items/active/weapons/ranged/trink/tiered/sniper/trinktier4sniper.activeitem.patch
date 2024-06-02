@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Лазерная снайперская винтовка среднего класса, созданная тринками.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Снайп-схемантовка Марк I",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерная снайперка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

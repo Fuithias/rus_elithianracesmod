@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Острый металлический меч, разработанный Номадой.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Номадский меч",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

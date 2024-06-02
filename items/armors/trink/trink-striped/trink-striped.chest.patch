@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки с цветными полосами. Для изысканного робота.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Полосатый мод руки",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

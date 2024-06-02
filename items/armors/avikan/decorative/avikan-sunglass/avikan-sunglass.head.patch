@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Простой затемнённый визор для защиты глаз от солнца.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Авиканские очки",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

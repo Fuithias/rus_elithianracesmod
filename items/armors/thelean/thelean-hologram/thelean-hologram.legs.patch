@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Телеан. ^white;Делает вас похожим на голограмму авикана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Голографическое тело",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

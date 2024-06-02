@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Мощное оружие неизвестного происхождения, когда-то бывшее у печально известного бандита.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^#FFDD59;Астральный разбойник^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ручная пушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

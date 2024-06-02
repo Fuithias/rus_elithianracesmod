@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Общее. ^white;Генератор средней интенсивности для защиты ног.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Щит для ног М-и",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

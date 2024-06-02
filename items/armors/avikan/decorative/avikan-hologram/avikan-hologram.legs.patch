@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Позволяет вам выглядеть как голограмма авикана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Голографическое тело",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

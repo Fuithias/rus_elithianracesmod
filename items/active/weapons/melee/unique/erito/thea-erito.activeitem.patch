@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Изящный длинный меч с почти неломающейся кромкой.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Охрана Эрито^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Эрито^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Длинномеч",
+        "path": "/category",
+        "op": "replace"
+    }
+]

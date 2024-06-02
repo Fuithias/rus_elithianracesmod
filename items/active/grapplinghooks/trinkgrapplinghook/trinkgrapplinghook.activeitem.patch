@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Крюк-кошка для лазания и перемахивания через пропасти.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Схема крюк-кошка",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Инструмент",
+        "path": "/category",
+        "op": "replace"
+    }
+]

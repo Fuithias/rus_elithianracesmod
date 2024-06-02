@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Телеан. ^white;Часть экзоскелета, созданного для разведчиков.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Экзочереп Вахн'ен",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Общее. ^white;Генератор низкой интенсивности для защиты головы.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Щит для головы Л-и",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

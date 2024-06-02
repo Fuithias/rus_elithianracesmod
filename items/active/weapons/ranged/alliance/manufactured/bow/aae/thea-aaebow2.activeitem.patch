@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Собирает мясо и другие продукты с чудовищ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Нимфа Б-6",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Композитный лук",
+        "path": "/category",
+        "op": "replace"
+    }
+]

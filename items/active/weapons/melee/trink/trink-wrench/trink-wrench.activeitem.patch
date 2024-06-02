@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Тринкианский гаечный ключ",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Тринкианский ключ",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Гаечный ключ",
+        "path": "/category",
+        "op": "replace"
+    }
+]

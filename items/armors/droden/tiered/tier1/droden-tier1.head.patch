@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Базовая железная голова.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Железная голова",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

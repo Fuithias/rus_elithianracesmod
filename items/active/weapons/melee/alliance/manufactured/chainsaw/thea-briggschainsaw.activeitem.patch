@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Мощная бензопила для строительных работ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Судостроение Бриггс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Бриггс Металлмастер",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Цепная пила",
+        "path": "/category",
+        "op": "replace"
+    }
+]

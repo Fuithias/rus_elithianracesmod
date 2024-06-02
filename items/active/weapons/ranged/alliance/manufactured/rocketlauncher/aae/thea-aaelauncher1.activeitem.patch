@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Стандартная ракетница Альянса.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Бахамур Л-2",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ракетница",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Острый как бритва клинок, с легкостью рассекающий плоть и кости.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Разаара^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Вихревой клинок",
+        "path": "/category",
+        "op": "replace"
+    }
+]

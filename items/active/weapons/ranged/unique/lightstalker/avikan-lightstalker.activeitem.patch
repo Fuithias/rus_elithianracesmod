@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Мощный лук, который может использоваться как копье.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^#FFDD59;Светоследователь^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лук переключатель",
+        "path": "/category",
+        "op": "replace"
+    }
+]

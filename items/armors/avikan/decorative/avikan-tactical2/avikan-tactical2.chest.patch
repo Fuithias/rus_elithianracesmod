@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Легкая броня для тактических операций.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Тактическая пластина",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

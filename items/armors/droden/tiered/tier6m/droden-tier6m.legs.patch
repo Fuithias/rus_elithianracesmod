@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Улучшение ног для элитных боевых единиц. Силовая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ноги элиты тип-М",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

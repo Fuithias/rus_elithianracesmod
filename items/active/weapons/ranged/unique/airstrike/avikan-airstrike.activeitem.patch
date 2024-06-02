@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Лазер, связанный с орбитальной системой целеуказания корабля.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Авангард ОТС.М-12^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерная целеуказка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Модификации тела, используемые тринками Рубежа.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод тела Рубежника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

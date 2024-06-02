@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Прототип оружия, созданный в результате секретного исследовательского проекта.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;АЕГ-Корпус^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Ц42 Бегущий по свету^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Ускоритель частиц",
+        "path": "/category",
+        "op": "replace"
+    }
+]

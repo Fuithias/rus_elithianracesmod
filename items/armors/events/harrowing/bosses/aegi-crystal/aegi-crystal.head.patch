@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Маска ужаса Эрхиуса для празднования Ужасающего!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Маска ужаса Эрхиуса",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

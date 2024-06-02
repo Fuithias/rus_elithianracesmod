@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, окрашенный в цвета Терранской Протектораты.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод руки Протектораты",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

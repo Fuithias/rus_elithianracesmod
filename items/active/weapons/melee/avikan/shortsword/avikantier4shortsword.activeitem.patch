@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острый меч из высококачественной кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Меч хищника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

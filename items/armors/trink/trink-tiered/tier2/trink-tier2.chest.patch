@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки из низкосортной стали.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод руки Марк II",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

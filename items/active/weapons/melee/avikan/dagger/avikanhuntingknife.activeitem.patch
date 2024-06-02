@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Кинжал авиканского охотника. Используется для срезания высококачественной кожи с монстров.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Авиканский охотничий нож",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Нож охотника",
+        "path": "/category",
+        "op": "replace"
+    }
+]

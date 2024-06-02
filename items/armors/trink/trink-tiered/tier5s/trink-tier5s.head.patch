@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из высокосортного виолиума.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод оптики Авангарда",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

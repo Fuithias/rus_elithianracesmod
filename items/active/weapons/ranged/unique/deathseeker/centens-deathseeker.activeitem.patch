@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Таинственное оружие, стреляющее шарами, которые ищут цели.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Искатель смерти^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пусковая установка",
+        "path": "/category",
+        "op": "replace"
+    },
+    {
+        "value": "Больший залп",
+        "path": "/altAbility/name",
+        "op": "replace"
+    }
+]

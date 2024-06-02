@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела, созданный для боевых ситуаций.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевой мод тела",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Литой металлический щит, грубый, но прочный.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Щит Акриса",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

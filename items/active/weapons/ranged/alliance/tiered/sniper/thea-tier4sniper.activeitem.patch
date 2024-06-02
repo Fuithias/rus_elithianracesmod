@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Снайперка повышенной мощности.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Орёл Р-6",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Снайперская винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

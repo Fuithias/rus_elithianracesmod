@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Современный короткий клинок.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Кузница Страйкера^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Страйкер Экз-05 топор",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

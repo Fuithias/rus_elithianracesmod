@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Лайнтовка с уникальным приводом для почти мгновенной зарядки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Вектор холостого хода^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лайнтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

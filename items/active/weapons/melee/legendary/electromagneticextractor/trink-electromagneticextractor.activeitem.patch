@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^#BA66FF;Извлекает электрические компоненты из механических врагов.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^#BA66FF;Электромагнитный экстрактор",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Инструмент",
+        "path": "/category",
+        "op": "replace"
+    }
+]

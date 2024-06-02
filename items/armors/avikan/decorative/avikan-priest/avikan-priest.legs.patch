@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Юбка, которую носят жрецы Рхаиода.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка Рхаиода",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

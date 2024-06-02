@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острое копье из высококачественной кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Копье хищника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

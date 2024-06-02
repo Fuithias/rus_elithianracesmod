@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из высокосортного эгизальта.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мод оптики Энигмат",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

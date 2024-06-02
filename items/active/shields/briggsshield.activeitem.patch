@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Щит, предназначенный для сотрудников службы безопасности Бриггс.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Судостроение Бриггс^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Защитник Бриггс",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

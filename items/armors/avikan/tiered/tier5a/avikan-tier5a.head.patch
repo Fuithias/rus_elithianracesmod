@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Металлический шлем с внутренним охлаждением. Энергичная версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем Номады тип-А",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

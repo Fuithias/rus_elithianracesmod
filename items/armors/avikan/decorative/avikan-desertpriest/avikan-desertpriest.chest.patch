@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Пончо, которое носят последователи Рхаиода в глубоких пустынях.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Пончо пустынника Рхаиода",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

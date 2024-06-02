@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^orange;Древнее копье, созданное из осколка Ксанафира.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Копье Вха'лейхана^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

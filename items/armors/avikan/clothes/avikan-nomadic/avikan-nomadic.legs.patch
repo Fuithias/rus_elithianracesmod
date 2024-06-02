@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Кожаная юбка, любимая кочевниками пустыни Кадаван.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Тряпки кочевника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

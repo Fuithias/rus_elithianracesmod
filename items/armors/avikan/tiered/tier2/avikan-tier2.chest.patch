@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Прочная костяная пластина с кожаными рукавами, которую носят авиканские охотники.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Нагрудник охотника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

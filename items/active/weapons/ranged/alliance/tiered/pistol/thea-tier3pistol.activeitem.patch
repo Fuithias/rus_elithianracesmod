@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Стандартный пистолет Альянса.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Питон П-5",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Пистолет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Скорострельная штурмовая винтовка со встроенной системой теплоотвода.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;АЕГ-Корпус^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Ц30 Превосходство^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Штурмовая винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

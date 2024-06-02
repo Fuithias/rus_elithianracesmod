@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Маска Биг Эйпа для празднования Ужасающего!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Маска Биг Эйпа",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Ледяной лазер, который замораживает цели намертво.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;ДС-03 МОРОЗ^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Хладопушка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

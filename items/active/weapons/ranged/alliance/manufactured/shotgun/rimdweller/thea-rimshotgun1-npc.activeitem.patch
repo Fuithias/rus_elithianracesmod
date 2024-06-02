@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Дробовик, произведенный где-то на Рубеже.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Взломщик РМ14 (НИП)",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Дробовик",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Юбка, которую носят последователи Рхаиода в глубоких пустынях.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка пустынника Рхаиода",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

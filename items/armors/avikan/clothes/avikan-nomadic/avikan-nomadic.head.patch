@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Кожаный плащ, обеспечивает надежную защиту от ветров пустыни",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Плащ кочевника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

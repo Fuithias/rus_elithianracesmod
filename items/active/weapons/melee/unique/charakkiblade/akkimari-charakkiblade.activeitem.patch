@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Проворная коса, используемый свирепым племенем Чаракки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Чаракки^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Лезвие Чаракки^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Коса",
+        "path": "/category",
+        "op": "replace"
+    }
+]

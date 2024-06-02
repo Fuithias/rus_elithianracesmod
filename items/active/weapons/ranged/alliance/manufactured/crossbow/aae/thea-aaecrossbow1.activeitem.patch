@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Мощный арбалет.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Охотник Ц-2",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Арбалет",
+        "path": "/category",
+        "op": "replace"
+    }
+]

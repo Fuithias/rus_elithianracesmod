@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Мощная аккимарийская дрифтовка, вдохновленная авиканскими лайнтовками.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рашакр^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Дрифтовка Акриса",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Дрифтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Кожаный плащ, который носят мирные население Номады",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Современный плащ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

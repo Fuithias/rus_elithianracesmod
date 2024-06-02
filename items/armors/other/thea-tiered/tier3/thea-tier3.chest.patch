@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Общее. ^white;Генератор средней интенсивности для защиты груди.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Щит для груди М-и",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

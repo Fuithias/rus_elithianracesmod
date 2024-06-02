@@ -1,0 +1,27 @@
+[
+    {
+        "value": "^gray;Лазерная винтовка низкого качества, созданная тринками.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Завод тринков^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Схемантовка Марк I",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерная винтовка",
+        "path": "/category",
+        "op": "replace"
+    },
+    {
+        "value": "Лазерный рикошет",
+        "path": "/altAbility/name",
+        "op": "replace"
+    }
+]

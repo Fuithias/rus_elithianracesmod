@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Телеан. ^white;Часть экзоскелета, созданного для боевого применения.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Боевой экзоскелет Тха'варк",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

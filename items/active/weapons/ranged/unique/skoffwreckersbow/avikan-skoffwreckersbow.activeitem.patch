@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^orange;Чудовищная тяжелая лайнтовка, способная сбивать корабли в полете.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Лук Скофврекера^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Тяжелая лайнтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

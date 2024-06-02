@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Аеги. ^white;Маска костяного дракона для празднования Ужасающего!",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Маска костяного дракона",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Общее. ^white;Ультранизкоинтенсивный генератор щита для защиты ног.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Щит для ног УЛ-и",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

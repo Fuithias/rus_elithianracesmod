@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Нагрудник и одеяния, которые носят те, кто занимается теневыми делами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Нагрудник изгоя",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Сварочная горелка, используемая для строительства на Рубеже.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Сварщик Римрок",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Сварочный резак",
+        "path": "/category",
+        "op": "replace"
+    }
+]

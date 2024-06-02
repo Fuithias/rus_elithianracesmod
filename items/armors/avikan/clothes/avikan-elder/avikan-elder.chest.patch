@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white; Украшенная кожаная мантия, символ старейшин авиканского клана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мантия старейшины",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

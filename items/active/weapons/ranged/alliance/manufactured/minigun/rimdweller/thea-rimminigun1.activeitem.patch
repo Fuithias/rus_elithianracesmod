@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Миниган с невероятной скорострельностью.^reset;",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Рубеж^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Терминатор РМ12",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Миниган",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Лук, выточенный из зуба Халла'Хана.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Зуб Халла'Хана^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Длинный лук",
+        "path": "/category",
+        "op": "replace"
+    }
+]

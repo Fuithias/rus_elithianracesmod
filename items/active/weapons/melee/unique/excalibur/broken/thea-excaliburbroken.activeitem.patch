@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Некогда великий Аэвис, теперь сломанный в ходе долгой эксплуатации.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Сломанный щит-меч",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Щит-меч",
+        "path": "/category",
+        "op": "replace"
+    }
+]

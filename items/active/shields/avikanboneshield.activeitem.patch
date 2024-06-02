@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Плита с кости чудовища.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Костяной щит",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

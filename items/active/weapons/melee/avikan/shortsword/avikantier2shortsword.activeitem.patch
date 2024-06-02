@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Острый меч из кости монстра.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Меч ловца",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

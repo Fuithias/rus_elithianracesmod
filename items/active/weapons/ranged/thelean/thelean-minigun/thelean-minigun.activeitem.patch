@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Мощный телеанский миниган.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Кре'ват",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Потокая винтовка",
+        "path": "/category",
+        "op": "replace"
+    }
+]

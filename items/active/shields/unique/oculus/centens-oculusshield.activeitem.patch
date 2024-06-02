@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^orange;Мощный экранирующий проектор, созданный по центенсианской технологии.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Окулус Вард^reset;",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

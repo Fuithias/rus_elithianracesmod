@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Удлиняющееся копье с невероятным радиусом действия, любимое аккимари.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Шип^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Копье",
+        "path": "/category",
+        "op": "replace"
+    }
+]

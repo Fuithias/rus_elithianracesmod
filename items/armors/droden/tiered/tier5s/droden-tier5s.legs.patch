@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Дродены. ^white;Одобренное Номадой улучшение ног. Здоровая версия.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Ноги Номады тип-С",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

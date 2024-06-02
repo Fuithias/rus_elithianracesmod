@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Шлем, предназначенный для защиты лица от углей и яркого света сварочного пламени.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Шлем сварщика",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

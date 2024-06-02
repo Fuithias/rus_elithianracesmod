@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Прочный кожаный жилет, обтянутый белой тканью, для путешествий по пустыне.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Мантия путешественника",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

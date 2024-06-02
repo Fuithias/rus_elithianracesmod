@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^orange;Модифицированный дроденский длинномеч, используемый командиром Захидом.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^orange;Меч Захида^white;",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Длинномеч",
+        "path": "/category",
+        "op": "replace"
+    }
+]

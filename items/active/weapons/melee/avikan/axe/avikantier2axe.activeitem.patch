@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^gray;Костяной топор, заточенный до острой кромки.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Топор ловца",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

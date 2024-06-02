@@ -1,0 +1,22 @@
+[
+    {
+        "value": "^gray;Собирает мясо и другие продукты с чудовищ.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;ПАМ^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Дриада Б-2",
+        "path": "/shortdescription",
+        "op": "replace"
+    },
+    {
+        "value": "Рекурсивный лук",
+        "path": "/category",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "^green;Авикане. ^white;Костяные накладки и простая кожаная юбка, которые носят авиканские падальщики.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Юбка падальщика",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

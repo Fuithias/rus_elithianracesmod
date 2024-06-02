@@ -1,0 +1,17 @@
+[
+    {
+        "value": "^gray;Небольшой, но чрезвычайно острый кинжал, выдаваемый авиканским воинам.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "^gray;Авангард^reset;",
+        "path": "/manufacturer",
+        "op": "replace"
+    },
+    {
+        "value": "Кинжал Авангарда",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]
