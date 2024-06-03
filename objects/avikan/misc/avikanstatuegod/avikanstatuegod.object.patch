@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Statue of Rhadeis",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A statue depicting Rhadeis, the deity of Avikan religion.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The Miniknog won't approve of a statue such as this.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A statue depicting a god. It's quite detailed.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big sstatue of alien godsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. This statue looks an awful lot like an actual creature, not some metaphysical being.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big statue dedicated to some god.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This statue seems to be dedicated to an alien god of sorts.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now that's a mighty fine piece of art right there.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A beautifully crafted statue. I believe it depicts Rhadeis greeting the Avikan people.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis, our Uplifter. This grand statue honours him.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis, god of the Avikan. The statue's quality shows how much the Avikan honour him.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected statue of Rhadeis. This unit is reverent.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statue of god-maker.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

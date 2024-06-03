@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Drehk",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A personal flying vehicle of Avikan origin.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bulky vehicle, but it flies surprisingly nimbly.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A flying vehicle? I wish it had wings...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big metal fly thingss. Fliesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. I do not know how this vehicle achieves flight.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A personal flying vehicle? No way!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This vehicle can fly in unusual ways.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "For a species that often lives underground, the Avikan have an unusual love for flight.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A well balanaced drehk, built for scouting.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A personal flying vehicle. An inefficient means of transporting people.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drehk detected. Status: out of fuel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vehicle-alien, like Chaseflight.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

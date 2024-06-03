@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Bars",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Incredibly sturdy metal bars.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. Anyone locked behind these bars is sure to stay locked.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal bars make perfect ssspears and sshivsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "No outlaw's gonna break these bars.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal bar. Highly durable.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki lock away Akkimari-bad. Better for Akkimari.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

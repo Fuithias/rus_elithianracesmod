@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Лазерный пистолет среднего класса, созданный тринками.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Схема-столет Марк III",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лазерный пистолет",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Лазерный пистолет среднего класса, созданный тринками.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Схема-столет Марк III",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лазерный пистолет",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Strangely coloured grass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Red grass.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss why grasss iss red.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strangely coloured grass.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien grass.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Valval-soft, feel good on feet-Akki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

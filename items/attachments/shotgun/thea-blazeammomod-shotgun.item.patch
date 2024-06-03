@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Shotgun ammunition that ignites shortly after being fired.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Blaze Ammo",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ammo Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

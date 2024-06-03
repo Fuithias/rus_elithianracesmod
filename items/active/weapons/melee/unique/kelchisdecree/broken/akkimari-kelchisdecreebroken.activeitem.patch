@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Сломанная коса, тень прежнего себя.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Сломанная коса",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Коса",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Сломанная коса, тень прежнего себя.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сломанная коса",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Коса",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

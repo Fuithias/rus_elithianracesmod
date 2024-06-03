@@ -1,0 +1,472 @@
+[
+  {
+    "value": "I have nothing to say to you.",
+    "path": "/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Hi there.",
+    "path": "/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Isn't this place great? It's got everything I'd ever need!",
+    "path": "/converse/aegi/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Creon Embassy is really something, huh? It's such a great place to visit.",
+    "path": "/converse/aegi/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "There's people of all kinds of species here.",
+    "path": "/converse/aegi/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to the top level of the embassy? There's a locked door there. I wonder what's behind it?",
+    "path": "/converse/aegi/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "There's a mechanic in the embassy's hangars who fixes up broken vehicles.",
+    "path": "/converse/aegi/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "The lady at the embassy's reception desk was actually quite helpful to me.",
+    "path": "/converse/aegi/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I was an ambassador too. The places I'd get to visit...",
+    "path": "/converse/aegi/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "Seeing the city in the distance always makes me feel happy.",
+    "path": "/converse/aegi/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "The banners in the embassy are so cool. Makes us all feel connected.",
+    "path": "/converse/aegi/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "I've been inside the sewers beneath the town once. It's kinda scary in there.",
+    "path": "/converse/aegi/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "I heard strange noises in the sewers below the town. Maybe I should report them to P-ASA...",
+    "path": "/converse/aegi/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "I've seen some weird people here. I was kinda freaked out.",
+    "path": "/converse/aegi/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "The gardens here are so pretty.",
+    "path": "/converse/aegi/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "There's an awesome gift shop in the town.",
+    "path": "/converse/aegi/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a shop in the town that sells posters. I wanted the NSI poster, but it's kinda expensive.",
+    "path": "/converse/aegi/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you to the embassy today?",
+    "path": "/converse/aegi/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "Do you visit here often?",
+    "path": "/converse/aegi/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "You must have seen some incredible places.",
+    "path": "/converse/aegi/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "I forgot where I parked my hovercar again. Hope I didn't leave it on a roof like last time...",
+    "path": "/converse/aegi/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "The Kelbet here are so peaceful.",
+    "path": "/converse/aegi/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "I want a Trangii.",
+    "path": "/converse/aegi/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "My pet Trangii should be around here somewhere.",
+    "path": "/converse/aegi/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "The vehicle dealership in the town has some great rides for sale.",
+    "path": "/converse/aegi/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "The bookstore in town is small, but pretty good.",
+    "path": "/converse/aegi/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder why the sewers are off-limits?",
+    "path": "/converse/aegi/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "Wanna go grab a drink?",
+    "path": "/converse/aegi/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "I've got a home in the big city. You can actually see it from here.",
+    "path": "/converse/aegi/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I lived in the big city.",
+    "path": "/converse/aegi/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "Creon is a fascinating city.",
+    "path": "/converse/aegi/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "The town is officially called the Embassy Village. It's not actually part of Creon, but it's right on the edge.",
+    "path": "/converse/aegi/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "There's so many elevators in the embassy.",
+    "path": "/converse/aegi/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "I want to go home and play some games.",
+    "path": "/converse/aegi/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "I recently graduated!",
+    "path": "/converse/aegi/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "Watching the hovercars in the distance is so soothing.",
+    "path": "/converse/aegi/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder how high that tower in the distance really is?",
+    "path": "/converse/aegi/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "The Creon Embassy is such a large building.",
+    "path": "/converse/aegi/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "I want to visit the colonies one day.",
+    "path": "/converse/aegi/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been to one of the Union colonies? What was it like?",
+    "path": "/converse/aegi/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "The parks here are incredibly peaceful.",
+    "path": "/converse/aegi/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "My hayfever is acting up again.",
+    "path": "/converse/aegi/generic/39",
+    "op": "replace"
+  },
+  {
+    "value": "The climate here is really comfortable. Even the rain isn't too bad.",
+    "path": "/converse/aegi/generic/40",
+    "op": "replace"
+  },
+  {
+    "value": "My cousin got a new Aventor Galliot the other day. I'm a bit jealous.",
+    "path": "/converse/aegi/generic/41",
+    "op": "replace"
+  },
+  {
+    "value": "I used to be a traveler like you, but I got bored of that life.",
+    "path": "/converse/aegi/generic/42",
+    "op": "replace"
+  },
+  {
+    "value": "I heard something awful happened to Earth.",
+    "path": "/converse/aegi/generic/43",
+    "op": "replace"
+  },
+  {
+    "value": "I want to visit Scii some day.",
+    "path": "/converse/aegi/generic/44",
+    "op": "replace"
+  },
+  {
+    "value": "The Creon Embassy may not be the largest embassy, but it is one of the best.",
+    "path": "/converse/aegi/generic/45",
+    "op": "replace"
+  },
+  {
+    "value": "I want to visit Scii some day.",
+    "path": "/converse/aegi/generic/46",
+    "op": "replace"
+  },
+  {
+    "value": "I love those globes of Elithia. Makes me feel small.",
+    "path": "/converse/aegi/generic/47",
+    "op": "replace"
+  },
+  {
+    "value": "The embassy actually has a gun range. You need a special pass to access it though.",
+    "path": "/converse/aegi/generic/48",
+    "op": "replace"
+  },
+  {
+    "value": "There's this one Avikan fellow in the embassy. I hope they join the Alliance at some point, too.",
+    "path": "/converse/aegi/generic/49",
+    "op": "replace"
+  },
+  {
+    "value": "I saw this strange alien in the embassy, an Akkimari I think. Made me feel uneasy.",
+    "path": "/converse/aegi/generic/50",
+    "op": "replace"
+  },
+  {
+    "value": "There's some great Trinkian engineers and mechanics in the embassy's hangar.",
+    "path": "/converse/aegi/generic/51",
+    "op": "replace"
+  },
+  {
+    "value": "I love the fish in the embassy's pools.",
+    "path": "/converse/aegi/generic/52",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to the recruitment office yet? You can easily find more crewmembers there.",
+    "path": "/converse/aegi/generic/53",
+    "op": "replace"
+  },
+  {
+    "value": "I lost my keys somewhere. Perhaps the lost and found booth can help me.",
+    "path": "/converse/aegi/generic/54",
+    "op": "replace"
+  },
+  {
+    "value": "I heard there's a Trink in the sewers by the name of 'the Bolter'. Sounds sketchy.",
+    "path": "/converse/aegi/generic/55",
+    "op": "replace"
+  },
+  {
+    "value": "I saw this chest way up on the tower. I wonder what's in it?",
+    "path": "/converse/aegi/generic/56",
+    "op": "replace"
+  },
+  {
+    "value": "Want to come with me and visit the Hötbrod stand?",
+    "path": "/converse/aegi/generic/57",
+    "op": "replace"
+  },
+  {
+    "value": "I'm glad the embassy has plenty of public toilets.",
+    "path": "/converse/aegi/generic/58",
+    "op": "replace"
+  },
+  {
+    "value": "I saw soldiers way up in the embassy tower. I wonder why they're there?",
+    "path": "/converse/aegi/generic/59",
+    "op": "replace"
+  },
+  {
+    "value": "Huh? Oh, hi there!",
+    "path": "/converse/aegi/generic/60",
+    "op": "replace"
+  },
+  {
+    "value": "I love seeing the city lights turn on at night.",
+    "path": "/converse/aegi/generic/61",
+    "op": "replace"
+  },
+  {
+    "value": "I think I saw something up on those cliffs near the town.",
+    "path": "/converse/aegi/generic/62",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings.",
+    "path": "/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "This place is quite fascinating.",
+    "path": "/converse/trink/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "This embassy is a good representation of the Elithian Alliance.",
+    "path": "/converse/trink/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "I hope that Avikan in the embassy isn't here to hunt down machines...",
+    "path": "/converse/trink/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "I helped design the embassy's power grid. It is very efficient.",
+    "path": "/converse/trink/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "There are many Trinkian engineers in the embassy hangars. It's good to see more of my kind here.",
+    "path": "/converse/trink/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "Is this your first time visiting Elithia?",
+    "path": "/converse/trink/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "The embassy always offers exceptional connection to the Allied Interstellar Network.",
+    "path": "/converse/trink/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard of you! You are <entityname>, right?",
+    "path": "/converse/trink/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "Do not go into the sewers. You can easily get lost in there.",
+    "path": "/converse/trink/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi are big fans of Hötbrod, but I don't really get the fascination.",
+    "path": "/converse/trink/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "The P-ASA officers here are very vigilant.",
+    "path": "/converse/trink/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to the Trinkian embassy yet?",
+    "path": "/converse/trink/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "The elevators in the embassy run very efficiently.",
+    "path": "/converse/trink/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "It is fascinating to see the trees growing on top of Aeginian buildings. It's a very efficient use of space.",
+    "path": "/converse/trink/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "It is odd to see so much wildlife here. They are not exactly afraid of us.",
+    "path": "/converse/trink/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "I heard there are plans to expand the embassy even further. I am curious to see what will be added next.",
+    "path": "/converse/trink/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, traveler.",
+    "path": "/converse/trink/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "There is a Union Admiral in the embassy's upper levels. I haven't been allowed to speak to him yet.",
+    "path": "/converse/trink/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "I tried to enter an Aventor Galliot once. I didn't quite fit.",
+    "path": "/converse/trink/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "It is good to see that the Aegi rely more on public transportation than personal transportation. It's quite efficient.",
+    "path": "/converse/trink/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "One of those Trangii barked at me earlier. I don't think it likes me.",
+    "path": "/converse/trink/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly.",
+    "path": "/converse/trink/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "The town has some good shops in it, but most of it isn't very relevant to me.",
+    "path": "/converse/trink/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "I have a pass to enter the embassy gun range. No, you can't have it.",
+    "path": "/converse/trink/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "I hitchhiked my way here.",
+    "path": "/converse/trink/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "Do you know the meaning of life?",
+    "path": "/converse/trink/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever tried hitchhiking? It's great fun.",
+    "path": "/converse/trink/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "Many of the embassy's lights only turn on at night. I like the efficiency of the system.",
+    "path": "/converse/trink/generic/27",
+    "op": "replace"
+  }
+]

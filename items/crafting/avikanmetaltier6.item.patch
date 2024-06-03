@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Specialized metal plating for use in superb-quality equipment.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Superb Kavanite Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

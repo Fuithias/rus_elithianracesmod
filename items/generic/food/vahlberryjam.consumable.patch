@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A delicious jam full of vitamins.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberry Jam",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

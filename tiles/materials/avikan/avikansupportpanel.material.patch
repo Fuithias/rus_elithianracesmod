@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Support Beam",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Part of a support beam.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Panels like these are often used in support beams.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If Floran remove sssupport beamss, will the houssse fall apart?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A support beam, for supportin' stuff.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Support beam, a vital structural piece.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Beam for support.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

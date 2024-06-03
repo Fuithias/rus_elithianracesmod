@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Hotbröd Stand",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This place sells Hotbröd.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This place sells bread of some kind.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This place sells delicious bread!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know what to think of alien breadss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This place sells a type of warm bread.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hotbröd? That sounds familiar...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stand for baking and selling some type of bread.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "They sell some sorta bread here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Hotbröd stand. They've grown in popularity over the past few years.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I smell alien food. It reminds of of the smell of dunebuns.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A place that sells Hotbröd, an Aeginian delicacy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien food. Recommend caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki smell food. Hungry now!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

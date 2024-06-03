@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Dark Avikan Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark metal panel, perfect for room decoration.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This panel could look good as room decoration.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panelsss would look good in Floran sship.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some kinda metal panel.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Dark metal panel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-dark, smooth-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

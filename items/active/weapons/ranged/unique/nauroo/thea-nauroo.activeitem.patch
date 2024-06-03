@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Двуствольная ракетница, созданная для того, чтобы впечатлять.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Охрана Эрито^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Науроо^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Ракетница",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Двуствольная ракетница, созданная для того, чтобы впечатлять.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Охрана Эрито^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Науроо^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ракетница",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

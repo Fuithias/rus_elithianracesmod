@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal wall panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Backpanel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

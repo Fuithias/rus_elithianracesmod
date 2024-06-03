@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Ambrum Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The soft fluffy fibers of this plant can be woven into cloth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The fibers harvested from this plant can be woven into cloth.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could weave these fibers into cloth, I think.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can make thingsss from ssoft fluffss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Creative. I could use these fibers to weave cloth.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks a bit like cotton. Maybe it has similar uses too?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If this is anything like cotton, I could weave a new kimono from these fibers.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like cotton, yet it doesn't feel quite like cotton.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ambrum plant. The fibers protecting its seeds can be woven into cloth.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Soft fluffy fibers. Used to weave cloth, perhaps?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi commonly use ambrum to weave cloth.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien plantlife. Analysis: soft protective fibers are compatible for cloth-weaving.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant-alien, make fibers-white. Remind Akki of silk-Akkimari.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

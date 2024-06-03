@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Nomada Token Exchange",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "It seems I can exchange my materials for tokens of merit here.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran give materialss, Floran getsss tokenss here!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This merchant will exchange my materials for tokens of merit.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I reckon this fella will give me tokens of merit for my materials.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Droden will exchange my materials for tokens of merit.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Merchant detected. Offers tokens of merit for exchanged materials.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Robot give Akki tokens, if Akki give robot materials.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

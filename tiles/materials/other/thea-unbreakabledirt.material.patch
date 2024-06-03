@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Dirt",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dirty looking dirt.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Indifferent. This is basic soil.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Filthy dirt!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dirty lookin' dirt.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

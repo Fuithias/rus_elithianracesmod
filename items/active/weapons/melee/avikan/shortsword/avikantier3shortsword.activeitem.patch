@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Острый меч из прочной кости чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Меч преследователя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острый меч из прочной кости чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Меч преследователя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The power core of an Avikan armour piece. Increases the user's strength.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Powerful Power Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

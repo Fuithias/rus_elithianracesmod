@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Leather",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather wall sheet for decoration and insulation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. This leather wall sheet can easily catch fire.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss reminded of home by leather ssheets.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet great for makin' tents, but otherwise it's rather dull.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Leather wall sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather-tough. Akki like the pattern.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

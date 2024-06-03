@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Makeshift Workstation^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple workstation with a blueprint board and space to craft items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workstation with space for my blueprints.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workstation. I could craft some simple things here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can make new thingsss here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These blueprints aren't too complicated. Let's get started!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crude workstation. I'd better be careful I don't cut myself on the edges...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A scrappy workstation. Poorly built and poolry designed.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poorly designed crafting table. It looks like it was hastily put together.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Makeshift crafting table.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take blueprint, make things here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Makeshift Workstation^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple workstation with a blueprint board and space to craft items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workstation with space for my blueprints.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workstation. I could craft some simple things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can make new thingsss here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These blueprints aren't too complicated. Let's get started!",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crude workstation. I'd better be careful I don't cut myself on the edges...",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A scrappy workstation. Poorly built and poolry designed.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poorly designed crafting table. It looks like it was hastily put together.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Makeshift crafting table.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take blueprint, make things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Kelraaki Workstation^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blueprint board built in the style of the Kelraaki.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps these blueprints could be used by the rebellion.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can show my crafting skill here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can make new thingsss here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These blueprints aren't too complicated. Let's get started!",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple blueprint board.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien tools and blueprints. What do they craft here?",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather crudely built workstation.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Makeshift crafting table.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take blueprint, make things here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Akris Workstation^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech blueprint system fashioned after the technological marvels of Akris.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder if I can download these blueprints for the rebellion.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can display a variety of blueprints on these screens.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Board of light tellsss Floran how to make thingss.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This display is full of interesting blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern workstation.",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These screens show all sorts of blueprints an' such.",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An expertly-built workstation. The screens are odd, but highly detailed.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These screns display blueprints for all sorts of alien technology.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These screens are surprisingly efficient in design.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Modern crafting table.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take blueprint, make things here.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

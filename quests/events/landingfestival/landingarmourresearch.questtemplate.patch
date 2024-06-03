@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;The Embrace of Winter",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Hi there! I'm working on a prototype piece of armour that emits a freezing gas at all times, but I need some more materials for my research. The ice here is good, but I need something stronger: ^orange;Cryonic Extract^reset;. You look like an adventurer: ^green;could you find some for me^reset;? You'll get to keep the armour if you do!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Wonderful, this is just what I needed! With this much cryonic extract, the freezing gas should be potent enough to freeze almost anything! Take the armour with you, and make sure to give it a try. I think you'll like it!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Sera ^reset;in the ^orange;Festival Hall^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

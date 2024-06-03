@@ -1,0 +1,17 @@
+[
+  {
+    "value": "The core of an Avikan jumpgate. A modified piece of Centensian technology.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Avikan Jumpgate Core^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

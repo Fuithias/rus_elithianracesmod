@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Harrowing Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner for celebrating the Harrowing.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A banner decorated with a carved pumpkin.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A spooky banner.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran will laugh if sssilly children get sscared by thiss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A banner for the Harrowing.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like a Halloween banner, but it's a bit off...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A torn banner adorned with a pumpkin face.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This banner ain't spookin' me.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner for the Harrowing. I love seeing these.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien banner with some odd design.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tattered banner. The Aegi put these out during the Harrowing.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien banner. Symbology unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Banner-tattered has face-funny on it. Akki like.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

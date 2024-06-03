@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Hardened metal plating for use in high-quality equipment.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Hard Kavanite Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

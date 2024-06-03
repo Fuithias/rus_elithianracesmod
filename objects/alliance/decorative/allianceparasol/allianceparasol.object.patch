@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Parasol",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful parasol.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Simply a parasol.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A parasol.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Parasssol.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. This parasol will provide some cool shade.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a parasol alright.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A parasol. It can provide some much-needed comfort on a hot, sunny day.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Provides a bit o' shade.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nice and simple parasol.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien sun sheet.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A parasol. A simple but effective way to create some shade.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien sun sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shelter from sun-burning.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

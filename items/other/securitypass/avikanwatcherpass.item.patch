@@ -1,0 +1,17 @@
+[
+  {
+    "value": "This pass unlocks access to the Watcher's offices in the Starfarer's Refuge.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Watcher's Offices Pass^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Security Pass",
+    "path": "/category",
+    "op": "replace"
+  }
+]

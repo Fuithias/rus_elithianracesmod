@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Острые шипы наносят урон и замедляют врагов, проходящих над ними.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Костяные шипы со смолой",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Бросаемый",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острые шипы наносят урон и замедляют врагов, проходящих над ними.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Костяные шипы со смолой",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Бросаемый",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

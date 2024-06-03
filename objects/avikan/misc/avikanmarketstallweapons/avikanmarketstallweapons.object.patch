@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Weapons Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall full of bone weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A selection of bone weapons.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons made of bone. Surprisingly sharp.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bonesss make good swordsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. These bone weapons are sharper than many metal alternatives.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons of bone. How did they get them so sharp?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons made of bones. Primitive and cruel, but also effective.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Primitive bone weapons in appearance, but they make for excellent hunting tools.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bone weapons are still the favourites of our people, even though we can craft them of metal now.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This bone weaponry outmatches many more modern weapons.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This equipment predates this unit's technology.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons-bone, not strong-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

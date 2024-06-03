@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Ground Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, bright light pointing upward.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A light on the ground, to illuminate something above it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light shines directly upward.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sstand on top of lightsss, Floran getss warm feet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This light shines directly upward.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small light on the ground to illuminate something above it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light shines directly upward.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light shinin' upward, like an upside-down sun.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light shining upward.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light shining upward, often found in shipyards.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light that shines upward. Inefficient during the day.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. Illuminates objects above.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-small.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

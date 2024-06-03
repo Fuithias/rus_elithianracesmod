@@ -1,17 +1,17 @@
 [
-    {
-        "value": "Мощный фонарь с широким светом.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Номадский фонарик",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Фонарик",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "Мощный фонарь с широким светом.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Номадский фонарик",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Фонарик",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

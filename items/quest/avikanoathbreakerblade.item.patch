@@ -1,0 +1,17 @@
+[
+  {
+    "value": "The broken blade of a once-infamous sword. Its still very sharp.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Broken Blade of Infamy^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

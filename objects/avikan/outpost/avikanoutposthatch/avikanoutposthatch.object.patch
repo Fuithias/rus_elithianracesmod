@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Nomada Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal hatch providing access to the pipelines.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can crawl up the hatch and into the pipesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uncertain. I am not sure if I'll fit into those pipes...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gettin' into those pipes is gonna be a tight squeeze.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pipeline access hatch. This unit is unlikely to fit through.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki go into pipes from here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

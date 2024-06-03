@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Стандартный рюкзак, выдаваемый военным персоналом Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рюкзак М-АСБ",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Стандартный рюкзак, выдаваемый военным персоналом Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рюкзак М-АСБ",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "NSI Poster",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poster promoting the game New Space Inquisition.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what it meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This poster is simplistic, but catchy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This was one of the best games of last year.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

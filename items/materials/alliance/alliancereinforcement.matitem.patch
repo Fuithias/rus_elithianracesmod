@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong metal block, used to reinforce larger structures.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Reinforcement",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

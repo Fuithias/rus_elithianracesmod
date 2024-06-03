@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Dim Alliance Light Strip",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light strip.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light strip.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple light.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A slim, dim light, useful for when there isn't much space.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-dim.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Radar Dish",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A radar dish of Trinkian design.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large radar dish. Looks powerful.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Nothing gets past this radar.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Isss thiss a big metal flower?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This radar dish can detect spaceships in deep space.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big bad radar dish.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large radar dish. Whoever controls it must have seen my spaceship coming long before I arrived.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian radar dish, one of the best in the Alliance.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large radar dish.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful radar dish of Trinkian design. Carefully calibrated.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis: radar dish.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dish-big, Akki intercept signal! Akki want to know what aliens say.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

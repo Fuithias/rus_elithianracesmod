@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Trinkian Crafting Techniques",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "This Central Circuit Terminal has a copy of a ^orange;Trinkian Crafting Guide ^white;in its database, but I can't access it yet. The terminal needs a few upgrades before I can download the file. ^green;I should gather ^orange;10 Sticks of RAM ^green;and return to any Central Circuit Terminal ^white;to start the upgrade.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "With the upgrade completed, all I need to do now is download the file.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to a ^orange;Central Circuit Terminal ^reset;in a ^orange;Trinkian Settlement^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

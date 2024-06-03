@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Современное копье.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Кузница Страйкера^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Страйкер Экз-04 копье",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Современное копье.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Кузница Страйкера^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Страйкер Экз-04 копье",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

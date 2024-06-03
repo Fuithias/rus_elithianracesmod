@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Rail",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rail made of assorted scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. This rail does not look very sturdy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal railsss made of sscrap.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rusty ol' rails, that won't do.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected rails. Material analysis: assorted scrap metal.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki ride rails, Akki have fun.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

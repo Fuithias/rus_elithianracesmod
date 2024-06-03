@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Странная нагрудная пластина, пропитанная холодом зимы. Она замораживает окружающую среду.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Объятия зимы",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Странная нагрудная пластина, пропитанная холодом зимы. Она замораживает окружающую среду.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Объятия зимы",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

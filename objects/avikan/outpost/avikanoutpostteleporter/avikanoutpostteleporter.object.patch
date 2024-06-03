@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter linked to the Starfarer's Refuge. \n^red;Destroyed when broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This teleporter is linked to a set location.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Avikan teleporter is linked directly to their Starfarer's Refuge.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked directly to the Starfarer's Refuge.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location. Let's see where it leads.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Readings indicate that this teleporter links directly to the Starfarer's Refuge.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter. Akki use, go to Refuge-Starfarers.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A shard of the Xanafir. It was once part of a famous weapon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Shard of Fame^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

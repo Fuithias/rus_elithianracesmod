@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A highly durable mech body, designed by the Vanguard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

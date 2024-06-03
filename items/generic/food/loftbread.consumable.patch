@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Bread made using loftgrain. Very tasty.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Loftbread",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

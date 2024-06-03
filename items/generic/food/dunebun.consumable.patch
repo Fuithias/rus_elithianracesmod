@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Almost like bread, but it tastes sort of odd.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dunebun",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

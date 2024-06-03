@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Tools of the Ancients IV",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, Captain. ^green;Bring this ^orange;Xanafian Shard^green; back to Adako^reset;, and he can put together that tool you've been working on.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "The Shard is a perfect fit! Here you go, Captain: one fully restored tool of the Old Ones.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Shelf",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal shelf.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple shelf.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall-mounted metal shelf.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran putsss trophiess on sshelves.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Content. This shelf is firmly attached to the wall.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shelf is firmly attached to the wall.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic, but functional, wall shelf.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "T'is a shelf.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal shelf mounted to the wall.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shelf is firmly mounted to the wall.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shelf is firmly attached to the wall.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected wall-mounted shelf. Firmly attached to the wall.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shelf-simple, for storing items.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

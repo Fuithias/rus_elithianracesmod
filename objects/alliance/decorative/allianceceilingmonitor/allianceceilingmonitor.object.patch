@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Ceiling Monitor",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ceiling-mounted monitor.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sleek monitor.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monitor shines.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny sscreen.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A ceiling-mounted monitor.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a monitor mounted to the ceiling.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sleek ceiling-mounted monitor.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some monitor.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sleek monitor.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien-built monitor.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ceiling-mounted monitor.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien interface.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Screen-shiny.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

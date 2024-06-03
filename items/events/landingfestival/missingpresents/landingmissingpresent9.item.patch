@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A Landing Festival present that went missing. Return it to the Pathfinder!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Missing Present 9",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

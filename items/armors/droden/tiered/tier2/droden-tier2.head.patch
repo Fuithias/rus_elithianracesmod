@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Прочная голова из вольфрама.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Вольфрамовая голова",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Прочная голова из вольфрама.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вольфрамовая голова",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

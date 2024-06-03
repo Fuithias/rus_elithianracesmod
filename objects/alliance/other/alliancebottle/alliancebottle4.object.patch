@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Valassa Bottle",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bottle of Valassa Vahlberry juice.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bottle of juice.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A full bottle of juice.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drinksss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A bottle of juice.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I love this alien juice!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly nutritional juice.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drink up.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bottle of Vahlberry juice.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien drink. Not sure if I should try it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Many Aegi enjoy this Vahlberry juice.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien drink.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki thirsty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

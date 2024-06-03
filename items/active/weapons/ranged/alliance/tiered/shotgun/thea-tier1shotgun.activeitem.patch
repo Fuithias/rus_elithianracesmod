@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Баллистический дробовик.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Бредон Армс^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "БС-3 Бреммен",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Дробовик",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Баллистический дробовик.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Бредон Армс^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "БС-3 Бреммен",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дробовик",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A vital part of Vanguard vibroblade weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Vibro Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

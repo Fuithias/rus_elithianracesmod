@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thellhunter's Weapon",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Thellhunter's weapon - the scribe will be pleased with this.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscribe will be happy to ssee thisss weapon...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfied. The scribe will be pleased to see this weapon.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Thellhunter's own weapon - the scribe will be pleased with this.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Avikan weapon. Thellhunter's Bow.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon-alien, rifle-Thellhunter.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

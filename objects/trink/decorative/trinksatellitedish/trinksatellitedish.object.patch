@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Satellite Dish",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A satellite dish for receiving signals.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A satellite dish. What purpose does the box below it fulfill?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny satellite dish. Could it receive a message from home?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal dissshhh goesss round and round and round...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Worried. This satellite dish generates and electromagnetic field which may disturb my sensors.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple satellite dish.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A satellite dish. I wonder what sort of cryptic messages it's receiving?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian satellite dish. A simple but effective tool for receiving signals from outer space.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal satellite dish. Avikan antennas are far more powerful than this.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This satellite dish is used to receive messages from ships in orbit, amongst others.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis: satellite dish. Provides access to global communications systems.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dish-radar goes around, around, around.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

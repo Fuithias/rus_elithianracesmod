@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Одобренное Номадой улучшение каркаса. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Каркас Номады тип-М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Одобренное Номадой улучшение каркаса. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Каркас Номады тип-М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

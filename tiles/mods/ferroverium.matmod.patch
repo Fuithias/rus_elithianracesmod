@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Some Ferroverium ore. Quite a find!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. This looks like Ferroverium ore.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss fasscinated by sshiny oress.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ferroverium, if I ain't mistaken.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected ferroverium ore deposit. Recommend immediate extraction.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki mine ferroverium, make materials-new.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

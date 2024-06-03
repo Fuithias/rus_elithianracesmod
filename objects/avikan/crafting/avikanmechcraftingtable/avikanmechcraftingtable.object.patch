@@ -1,0 +1,57 @@
+[
+  {
+    "value": "^orange;Mech Part Crafting Table^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Used to produce modular mech components.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This table can be used to produce modular mech components.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "With this table I can assemble modular mech components.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting ssstation for making mech parts.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. This station is designed to assemble modular mech components",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can assemble modular mech components at this station.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This industrial looking table produces modular mech components.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "With this here table I could build some mech parts.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected mech crafting station. Used to produce new mech parts.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki build parts-new here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

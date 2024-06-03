@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Shipyard Window",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large reinforced window.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran fassscinated by viewsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Opinion. This window provides an excellent view of the shipyard.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Glass.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki look at shipyard through glass.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

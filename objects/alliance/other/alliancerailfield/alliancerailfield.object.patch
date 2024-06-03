@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Alliance Blocking Field",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This energy field will prevent certain entities from passing through.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Some entitiesss can not passs through here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This blocking field will prevent certain entities from passing through.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected blocking field. Prevents specific entities from passing through.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki can pass through. Others can not.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

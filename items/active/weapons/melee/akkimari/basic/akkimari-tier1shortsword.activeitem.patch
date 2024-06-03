@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Оружие, созданное из подручных средств.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Келрааки^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Самодельный меч",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Оружие, созданное из подручных средств.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Келрааки^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Самодельный меч",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

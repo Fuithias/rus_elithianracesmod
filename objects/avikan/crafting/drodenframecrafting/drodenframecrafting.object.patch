@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Droden Frame Workshop^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frame replacements for Droden units can be crafted here.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop for new robot parts.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop is rather basic, but it has all the necessary tools.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This type of robot is new to me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple workshop for building robot parts.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop, built for the creation of new robot parts.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop for creatin' robot parts.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop where new Droden frames are made.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop has some specilized tools used to create new Droden frames.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop is very basic, but it has all the tools it requires.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Frame workshop. Used to create and install new frames onto Droden units.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki make frames-Droden here... Why would Akki?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Droden Frame Workbench^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frame replacements for Droden units can be crafted here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop for new robot parts.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop is rather basic, but it has all the necessary tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This type of robot is new to me.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple workshop for building robot parts.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop, built for the creation of new robot parts.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop for creatin' robot parts.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop where new Droden frames are made.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop has some specilized tools used to create new Droden frames.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop is very basic, but it has all the essentials.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Frame workbench. Used to create and install new frames onto Droden units.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki make frames-Droden here... Why would Akki?",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Droden Frame Workshop^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frame replacements for Droden units can be crafted here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A larger workshop, with more space and better tools for creating high-quality robot parts.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fully utilized robot part workshop.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Motivated. This workshop has all the tools needed to create new robot parts.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A true workshop, it has all the tools one needs when crafting robot parts.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "New robot parts can be created using this workshop.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I reckon someone with the right skills could craft some fancy robot parts here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small furnace and plenty of tools, this workshop has it all.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fully laid out Droden frame workshop.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poorly optimized workshop. The tool placement is hardly efficient.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Frame workshop. Used to create and install new frames onto Droden units.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workshop-large, Akki craft Droden.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Droden Frame Factory^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frame replacements for Droden units can be crafted here.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A miniature automated robot factory. Better not let the Miniknog get their hands on one of these.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small robot factory. It only creates one type of robot.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thiss factory makess metalmen? Floran isss not ssure what to think of it.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Philosophical. Was I created in a similar type of factory?",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, largely automated factory. It produces robots of outstanding quality.",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small factory like this can do the work of a dozen individuals at once.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta factory for creatin' robots.",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Droden frame factory, for creating high-quality frames.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A largely automated Droden frame factory. These were commonplace before the Droden war.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient Droden factory unit.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Frame factory. Used to create and install new frames onto Droden units.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine make frames-Droden. Akki not have to do work themselves.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Desk",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but functional desk.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A desk.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic desk.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not want to ssit at dessk.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. A simple but functional desk.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Time to go to work, I guess?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One could get much work done at such a desk.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bah, it's just a desk.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple desk, with some drawers for storing small items.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A desk of some kind.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This desk offers minimal storage space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected desk.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Table-alien, has storage-small.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

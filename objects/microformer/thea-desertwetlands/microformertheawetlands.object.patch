@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Wetlands Microformer",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Transforms an area of a planet into a wetland full of quicksand.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

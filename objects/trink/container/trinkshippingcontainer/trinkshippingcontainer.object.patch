@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Circuit Shipping Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very large shipping container used by the Trink Circuit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a huge crate for shipping large cargo.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I would guess it's meant for shipping very large objects.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Maybe theress food in it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What's stored in here?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a really big shipping container.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather large container for shipping large quantities of cargo.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large container for haulin' goods.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive Trinkian shipping container.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A machine-built container. The Vanguard would want me to plunder it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An standard shipping container.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Container-shipping, Akki store things-many inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

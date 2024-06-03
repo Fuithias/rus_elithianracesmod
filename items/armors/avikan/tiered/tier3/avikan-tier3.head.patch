@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Толстый и громоздкий череп, который носят авиканские Хранители.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Череп хранителя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Толстый и громоздкий череп, который носят авиканские Хранители.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Череп хранителя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

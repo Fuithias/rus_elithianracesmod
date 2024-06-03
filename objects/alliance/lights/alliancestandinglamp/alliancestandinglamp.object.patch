@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Alliance Standing Lamp",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decorative standing lamp.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A standing lamp.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple light.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A lamp.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant standing lamp.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple standing lamp.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A practical light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standing lamp.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

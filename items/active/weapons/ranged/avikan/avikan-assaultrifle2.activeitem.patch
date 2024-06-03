@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Мощная винтовка стреляющая очередью, выдаваемая авиканским воинам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Очередтовка Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Очередтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Мощная винтовка стреляющая очередью, выдаваемая авиканским воинам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Очередтовка Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Очередтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Модифицированная форма Терренского Протектората, разработанная специально для аккимари.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Штаны Протектората",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Модифицированная форма Терренского Протектората, разработанная специально для аккимари.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Штаны Протектората",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

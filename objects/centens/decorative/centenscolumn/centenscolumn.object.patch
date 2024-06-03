@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Column",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive column.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large metal column. Or is it a pillar?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive, ancient column. It's incredible that it's still standing.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can't break thisss metal. Floran mad.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. My readings indicate that this column has stood here for tens of thousands of years, maybe more.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now THAT's a column!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Columns are common in many forms of alien architecture. They present an image of strength and serenity.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's quite the column.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian-built column. It's quite massive.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Old Ones built many impressive structures.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large column. These are often used for support, but given that the Centens built it, it likely only serves as decoration.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian column.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Column-great, supports weight-great.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

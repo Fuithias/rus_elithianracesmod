@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Современный палаш.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Кузница Страйкера^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Страйкер Экз-01 клинок",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Современный палаш.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Кузница Страйкера^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Страйкер Экз-01 клинок",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

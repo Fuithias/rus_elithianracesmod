@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A highly volatile liquid, for crafting high explosives.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Volatile Liquid",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

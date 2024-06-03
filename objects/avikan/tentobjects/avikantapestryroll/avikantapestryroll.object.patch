@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Tapestry Roll",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rolled up leather tapestry.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A rolled up leather tapestry.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple, rolled up tapestry.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapesstry iss rolled up.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A neatly rolled up leather tapestry.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rolled up tapestry.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Such a tapestry might look good as home decoration.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry, rolled up for storage.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry would look great in my home.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rolled up leather tapestry.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Material: leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapestry-leather, all rolled up.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

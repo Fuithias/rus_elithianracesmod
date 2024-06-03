@@ -1,17 +1,17 @@
 [
-    {
-        "value": "Только для НИП!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Телеанская бомба",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Бомба",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "Только для НИП!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Телеанская бомба",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Бомба",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

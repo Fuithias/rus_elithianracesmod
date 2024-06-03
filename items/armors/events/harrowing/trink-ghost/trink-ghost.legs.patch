@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;Ноги. ^white;Призрачное тело для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Призрачное тело",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;Ноги. ^white;Призрачное тело для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Призрачное тело",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trinkian Pipe",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big pipe for transporting liquids.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A pipe.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wonderss what iss inside pipes?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big pipe for moving about liquids. Hope there isn't any poop in there.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis failed. Unable to scan pipe contents.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no want to know what flows through pipe...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

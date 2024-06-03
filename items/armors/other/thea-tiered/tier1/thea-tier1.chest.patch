@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Общее. ^white;Ультранизкоинтенсивный генератор щита для защиты груди.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Щит для груди УЛ-и",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Общее. ^white;Ультранизкоинтенсивный генератор щита для защиты груди.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Щит для груди УЛ-и",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

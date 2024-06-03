@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Bounty Nanoprojector",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nanoprojector displaying a notice about a bounty.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A strange device. It looks like a holographic projector, but the image seems to be physical...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of hologram? There's something off about it.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran confussed. Looksss like hologram, but Floran can touch it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Baffled. This looked like a hologram at first, but it seems to be a physical display.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of odd holographic projection. I can actually feel the image when I touch it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I thought it was a hologram, but there is something off about it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's no hologram. I sense tiny particles inside the projection!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hologram-like projection. It seems to be about a bounty placed on some Thelean...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange alien holographic display. It's saying something about the Thell.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This projector is surprisingly efficient. It doesn't create a traditional hologram, but rather releases nanites to form an image in the air.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected holographic display. Error. Further analysis suggests device emits nanites. Detected Thelean imagery. Error.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki see bounty, Akki hunt down Thellar. Akki like the hunt!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

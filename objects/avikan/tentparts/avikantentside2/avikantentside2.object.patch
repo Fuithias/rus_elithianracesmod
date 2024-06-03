@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Wall Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of fabric used as a wall in Avikan tents.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A brightly coloured tent side.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright tent sheet. Lovely.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bright coloursss make Floran angry.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A fabric tent piece.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric tent side. Colourful.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A carefully decorated tent piece.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent wall made using colourful sheets of fabric.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of fabric used as a tent side. Far more expensive than simple leather.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple tent wall, made of sheets of bright fabric.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Multiple layers of fabric sheets.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tent-side-colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

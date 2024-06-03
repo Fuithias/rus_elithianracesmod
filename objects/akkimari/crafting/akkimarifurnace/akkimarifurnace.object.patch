@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Stone Forge^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone smelter capable of smelting basic metal bars.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive stone forge. I could smelt some basic materials here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple forge for crafting at high temperatures.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Forge flamess hissss, burn. Floran brave it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. This simple stone forge burns at a rather low temperature.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic forge. For crafting things at high temperature.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but effective forge. There is elegance in its simplicity.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic lookin' forge.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple stone forge. Not for smelting ores, but for crafting at high temperatures.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone forge. The shape is somewhat odd.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone forge. Not very efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone forge. Temperature insufficient for smelting ores.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Stone Forge^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone forge capable of forging basic materials.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive stone forge. I could smelt some basic materials here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple forge for crafting at high temperatures.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Forge flamess hissss, burn. Floran brave it.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. This simple stone forge burns at a rather low temperature.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic forge. For crafting things at high temperature.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but effective forge. There is elegance in its simplicity.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic lookin' forge.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple stone forge. Not for smelting ores, but for crafting at high temperatures.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone forge. The shape is somewhat odd.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone forge. Not very efficient.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone forge. Temperature insufficient for smelting ores.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Compound Forge^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple forge capable of forging special materials.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A compound forge of alien design. I should take notes.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This compound forge can be used to forge some special materials.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful. Fire will burn Floran...",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. The temperature in this forge can be controlled very precisely.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A forge with a varying temperature. It's useful for crafting special materials.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can feel my skin drying out near this forge.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This forge is burnin' bright.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compound forge. The temperature can be precisely controlled.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This forge is of alien design. It seems rather odd.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not the most efficient forge overall, but the temperature control is impressive.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien forge. Variable temperature.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Nuclear Forge^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech forge capable of forging advanced materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "It seems to be a sort of miniature nuclear reactor. It doesn't seem very safe...",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This forge reaches incredible temperatures... How does it contain the heat?",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful. Ssmall sssun will burn everything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. This device could easily melt my own body.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is that a mini nuclear reactor? How in the...",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I feel myself drying up just standing near this device...",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small star burns inside this device. 'Tis glorious!",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This forge can fuse nuclei. I'm not quite sure how it does that, though.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Even the metals of the Old Ones won't survive the temperatures inside this device.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I did not expect such efficient designs from the Akkimari...",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis failed. Heat signature exceding maximum values. Error.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki careful with forge-nuclear. Forge-hot melt anything!",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

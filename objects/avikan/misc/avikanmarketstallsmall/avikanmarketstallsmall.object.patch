@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Small Avikan Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small market stall.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An empty market stall. How boring.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty stall. Was it recently used?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Empty stallsss, nothing to buysss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. An empty market stall.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty market stall? Nothing to buy here...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty stall. Its owner either sold everything, or not enough.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall. A common sight in Avikan villages.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple market stall, like those on Kadavan.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty market stall. An inefficient use of space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Market stall. Empty.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stall-small-empty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

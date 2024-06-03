@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Pillar Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hard holographic interface.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A hard holographic interface. I have no idea how this was achieved.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's ancient, yet it shows no signs of age. Is this Kluex's work?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscreen feels hard, but ssscreen is only light... Floran iss confused.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. This piece of technology is fascinatingly advanced.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hard holographic screen. Trying to stick my hand through it is like moving through a thick jelly.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient console. It is quite remarkable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now this is one strange device. It's made of light, but I can touch it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Centensian interface is a strange kind of hard hologram.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Old Ones built this. It still functions, even after eons of disuse.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hard holographic interface built by the Centens.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Detected Centensian interface.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pillar-light, interface-strange. Akki touch, pillar change!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

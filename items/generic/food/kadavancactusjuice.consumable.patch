@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Prickly, somewhat bland cactus juice.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kadavan Cactus Juice",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

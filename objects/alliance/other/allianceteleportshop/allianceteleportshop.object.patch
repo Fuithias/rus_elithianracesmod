@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Tele-2-Go",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shop offers personal teleporters in a variety of styles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A shop selling teleporters. This could come in handy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, it's a shop selling teleportation devices! Very useful to know.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can buy teleportersss from this shop.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. A vendor selling teleportation devices!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shop full of teleporters. A set up for the perfect getaway...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shop selling teleporters. Maybe I should browse it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shop sellin' teleporters... If you've got a pot of pixels to spare.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected merchant. Offers various personal teleporters.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki buy teleporter here. Akki use to infiltrate.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

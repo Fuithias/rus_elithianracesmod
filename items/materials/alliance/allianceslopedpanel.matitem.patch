@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sloped metal panel, perfect for buildings walls with.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Sloped Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

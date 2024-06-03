@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Bunk Bed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bunk bed often found on board Alliance ships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable bed with clean sheets.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This bed is quite comfortable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran rarely ssleep in ssuch nice bed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tired. I should lie down for a while.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but comfortable bed.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A good place to close one's eyes.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decent place to get some shut-eye.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nice and comfortable bed.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This bed looks quite comfortable.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bed. I prefer a repair pod.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien bedding detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sleep here if tired.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Drahl Repair Station",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station can repair drones damaged in combat.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran placess broken drone on table, table repairss drone!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. If I ever have a damaged drone, I can repair it here.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Might be able to repair drones here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Drahl repair station. Capable of repairing Drahl units damaged in combat.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki repair drones here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

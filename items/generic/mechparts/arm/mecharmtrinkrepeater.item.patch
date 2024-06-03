@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A Trinkian laser repeater arm for modular mech suits.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Laser Repeater Mech Arm",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

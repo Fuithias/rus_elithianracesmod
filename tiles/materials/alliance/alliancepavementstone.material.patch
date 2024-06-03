@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Pavement Slabs",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stone slabs used as pavement.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Stone slabs.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran like the feel of sstone under feet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some stone slabs.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone pavement.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stone feel good under feet-Akki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

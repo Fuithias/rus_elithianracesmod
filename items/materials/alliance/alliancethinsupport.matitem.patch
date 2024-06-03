@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Light structural support beams.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Support Grid",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

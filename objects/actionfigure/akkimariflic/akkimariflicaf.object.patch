@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Flic Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A small drone used for Akkimari law enforcement.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

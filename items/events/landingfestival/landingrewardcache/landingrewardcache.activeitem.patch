@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A wrapped present containing something special. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Special Present^reset;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

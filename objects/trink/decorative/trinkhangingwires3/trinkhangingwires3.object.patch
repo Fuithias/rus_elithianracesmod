@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Hanging Wires",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bunch of loose-hanging wires.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Just some loose-hanging wires",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bunch of wires. Looks messy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not touch wiresss. Floran ssmart.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Loose-hanging electrical wires.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Better not get too close to those wires. I don't want to get zapped.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A messy bunch of wires.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a bunch 'a wires.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Loose-hanging wires. Someone should fix them.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Vanguard might want me to sabotage these wires.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should tidy up these wires. Having them hang around isn't very efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Detected alien wiring. Recommend sabotage.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no touch the wires.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

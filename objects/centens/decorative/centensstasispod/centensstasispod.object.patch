@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Stasis Pod",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stasis pod. It can sustain someone in cryosleep for millenia.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A stasis pod! Is anyone inside?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This stasis pod looks ancient - is anyone inside?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssleeping box lookss old...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Is anyone inside the stasis pod?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient stasis pod - is there anyone inside of it?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stasis pod like this can keep someone alive for millenia.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian stasis pod! Is there anyone inside?",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This stasis pod was built by the Old Ones! Could it still have someone inside?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This stasis pod was created by the Centens. There doesn't seem to be a way to look inside...",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian stasis pod. Occupant status: unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pod-stasis, for sleeping time-long. Is god-maker inside?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

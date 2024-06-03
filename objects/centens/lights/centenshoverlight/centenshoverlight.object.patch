@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Hover Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A levitating light. Ancient, yet still functional.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. Fancy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty, hovering light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not understand how light floatsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This hovering light uses technology beyond ours.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. Don't bump your head!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. A feat of technology, but unnecessary underwater.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light, built by the Centens. Still functional.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light still burns after eons of use, and will keep burning until the star that fuels it is exhausted.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light, built by the Centens.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian technology. Hovering light confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-maker make light-floating.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

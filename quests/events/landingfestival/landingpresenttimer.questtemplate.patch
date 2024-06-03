@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^orange;Timer",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "You shouldn't be seeing this in your log!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "You shouldn't be seeing this in your log!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Already received a present today!",
+    "path": "/scriptConfig/debugText",
+    "op": "replace"
+  }
+]

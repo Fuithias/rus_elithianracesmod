@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Metal plating used as an inner wall.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Inner Wall",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

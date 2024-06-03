@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A thick metal platform. Very sturdy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thick Alliance Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

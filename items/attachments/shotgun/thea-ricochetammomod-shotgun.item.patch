@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Shotgun ammunition that pierces targets and ricochets off walls.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Ricochet Ammo",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ammo Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

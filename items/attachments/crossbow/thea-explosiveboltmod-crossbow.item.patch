@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A special bolt that explodes on contact.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Explosive Bolt",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bolt Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

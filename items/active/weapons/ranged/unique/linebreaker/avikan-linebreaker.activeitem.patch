@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Тяжелое оружие, оснащенное несколькими системами линейного заряжания.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Линейный прерыватель^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лине-пушка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Тяжелое оружие, оснащенное несколькими системами линейного заряжания.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Линейный прерыватель^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лине-пушка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": " Valyan's Vehicle Workshop",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Repair your vehicles here!",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Replace Me",
+    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value",
+    "op": "replace"
+  },
+  {
+    "value": "REQUIRED CHIPS",
+    "path": "/gui/chipCostDescription/value",
+    "op": "replace"
+  },
+  {
+    "value": "Repair",
+    "path": "/gui/repairButton/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Cancel",
+    "path": "/gui/cancel/caption",
+    "op": "replace"
+  }
+]

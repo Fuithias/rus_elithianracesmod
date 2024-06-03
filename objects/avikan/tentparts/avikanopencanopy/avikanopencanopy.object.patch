@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Canopy",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy, to provide some shadow out in the desert.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy. Effective, but not very pretty.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bland leather canopy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple leather canopy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy, simple but effective.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy. Simple but effective.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather canopy, to provide some shade when the sun is out.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Out in the desert, a simple canopy like this is a blessing during the day.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic, but efficient, leather canopy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected leather canopy. Provides shade during the day.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Canopy for shade, Akki protected from sun.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

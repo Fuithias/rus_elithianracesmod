@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sealed cache containing Harrowing event items. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Harrowing Cache",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

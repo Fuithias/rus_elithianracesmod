@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Великолепный бронежилет, надеваемый членами Клангарда авикан. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Бронежилет Клангарда тип-М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Великолепный бронежилет, надеваемый членами Клангарда авикан. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Бронежилет Клангарда тип-М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Каркас элиты тип-М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Каркас элиты тип-М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

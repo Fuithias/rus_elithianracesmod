@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Старые брюки астронавта, использовавшиеся ранними авиканскими астронавтами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Брюки астронавта",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Старые брюки астронавта, использовавшиеся ранними авиканскими астронавтами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Брюки астронавта",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

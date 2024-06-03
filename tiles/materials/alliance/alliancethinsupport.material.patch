@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Support Grid",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light structural support beams.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This is likely a structural support beam.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pillarss for ssupporting light thingss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta light support structure.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Structural support beam.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Support-strong, Akki build on it.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,27 +1,27 @@
 [
-    {
-        "value": "^gray;Гранатомет, изготовленный где-то на Рубеже.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Рубеж^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Упряжа РМ22",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Гранатомет",
-        "path": "/category",
-        "op": "replace"
-    },
-    {
-        "value": "Пламенная граната",
-        "path": "/altAbility/name",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Гранатомет, изготовленный где-то на Рубеже.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Рубеж^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Упряжа РМ22",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гранатомет",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Пламенная граната",
+    "path": "/altAbility/name",
+    "op": "replace"
+  }
 ]

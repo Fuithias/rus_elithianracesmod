@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Hidden Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

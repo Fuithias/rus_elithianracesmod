@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Big Pipe Left",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The left half of a very thick pipe.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A lot could fit inside such a pipe.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big pipess...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bigg'r pipe than any I've seen before.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Large pipe.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pipe-large, Akki could almost crawl through.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

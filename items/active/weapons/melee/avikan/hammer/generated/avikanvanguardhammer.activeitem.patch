@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Очень тяжелый молот с плоским наконечником, выдаваемый авиканским воинам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Молот Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Очень тяжелый молот с плоским наконечником, выдаваемый авиканским воинам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Молот Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

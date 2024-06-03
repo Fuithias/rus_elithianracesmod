@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An Akkimari armour power core. Increases the user's strength.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Deflector Core r.M",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

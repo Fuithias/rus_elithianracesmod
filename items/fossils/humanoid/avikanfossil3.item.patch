@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fossilised pair of Avikan legs.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Legs",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

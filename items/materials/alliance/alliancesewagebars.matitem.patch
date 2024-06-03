@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Metal bars.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Sewage Bars",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

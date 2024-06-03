@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Kadavan Rock",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rock. Plain and simple.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rocksss for basshing skullsss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Rock.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Kadavan rock.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected rock.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki uninterested. Rock-boring.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

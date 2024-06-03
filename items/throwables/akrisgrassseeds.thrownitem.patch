@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Toss these on some damp tilled soil to grow valval, a grass native to Akris.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Valval Seeds",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "I've detected a nearby Akkimari drill. If you stay near it, I can capture it and let you reap the rewards.",
+    "path": "/akkimaridrillcapturestart/text",
+    "op": "replace"
+  },
+  {
+    "value": "I have successfully captured the Akkimari drill. The rewards are all yours!",
+    "path": "/akkimaridrillcapturecomplete/text",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Top Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal plating found on the outside of Akkimari structures.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal plating. It looks primitive.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap metal plating.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscrap metal platess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A metal skeleton plated with scrap metal.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like scrap metal. Kinda primitive.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap metal plating. Not very elegant.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall o' junk.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall built from scrap metal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This wall looks like it was made from scrap metal.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This scrap metal wall is surprisingly well insulated.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected scrap metal wall plating.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari knows wall will hold.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

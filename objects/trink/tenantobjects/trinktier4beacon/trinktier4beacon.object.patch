@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Circuit Beacon Mark IV",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon could attract an armed Trink tenant in combination with a colony deed.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A beacon of some sort. It only seems to attract tenants.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon attracts armed tenants. How convenient!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Beacon callss armed tenantss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. The signal coming from this beacon will attract armed tenants.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon will attract armed tenants. I could build my own army!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon will attract an alien warrior. Perhaps I might learn some new skills from them.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon will attract an armed Trinkian tenant.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A beacon for summoning a robotic tenant. I'd better remove it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon will attract armed tenants.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected beacon. Detected alien AI signature. Recommend immediate removal.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use beacon to call guard-tenant.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

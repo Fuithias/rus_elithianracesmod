@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Alliance Day/Night Sensor",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Nothing here...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

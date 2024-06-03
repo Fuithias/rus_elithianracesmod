@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Пара прозрачных очков, которые носят писцы Номады",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Очки писца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Пара прозрачных очков, которые носят писцы Номады",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Очки писца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

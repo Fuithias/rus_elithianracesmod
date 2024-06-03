@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Alliance Mech Parts",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "You look like a mech enthusiast! I've got some Enerth mech blueprints you might like, but I can't just give them away for free... If you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;, I'll give you the blueprints and some armour to boot!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "I knew you'd get the job done! Here you are, the armour and blueprints I promised you!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Azurii ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

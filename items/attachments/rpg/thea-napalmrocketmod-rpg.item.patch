@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Rocket launcher ammunition that leaves behind fire after detonation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Napalm Rocket",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ammo Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Разноцветные мантии, которые носят во время праздников.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Праздничная мантия",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Разноцветные мантии, которые носят во время праздников.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Праздничная мантия",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Eggs",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan eggs. The spawn of new life.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alien eggs. They feel a bit leathery.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Are these eggs? They look... odd...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eggsss for eating?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascination. These eggs will spawn new life.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien eggs. I don't think they're edible.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There is beauty in creating new life.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These eggs might hatch in a few months.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan eggs. I wonder who laid these?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan eggs are easily recognized by their leathery skin.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan eggs. Estimated date of hatching: unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eggs-alien, for cooking and eating. Akki hungry.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

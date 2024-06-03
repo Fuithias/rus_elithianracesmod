@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Толстый и тяжелый щит телеанской работы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Телианский щит",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Толстый и тяжелый щит телеанской работы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Телианский щит",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

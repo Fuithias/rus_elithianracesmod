@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A dark metal platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Avikan Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

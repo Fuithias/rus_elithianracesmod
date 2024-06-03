@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^#BA66FF;Копье, выдаваемое истинным кеффрайдерам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^#BA66FF;Копье Кеффрайдера^reset;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Копье охотника",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^#BA66FF;Копье, выдаваемое истинным кеффрайдерам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Копье Кеффрайдера^reset;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Копье охотника",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

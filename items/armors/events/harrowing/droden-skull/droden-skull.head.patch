@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Маска черепа для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска черепа",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Маска черепа для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска черепа",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

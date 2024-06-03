@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Винтовка Теледоса, стреляющая разрывными плазменными снарядами.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Теледос^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Дробовик Лануаса",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Дробовик",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Винтовка Теледоса, стреляющая разрывными плазменными снарядами.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Теледос^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Дробовик Лануаса",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дробовик",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

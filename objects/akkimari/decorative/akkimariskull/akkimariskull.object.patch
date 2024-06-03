@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akkimari Skull",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of a deceased Akkimari.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of some alien creature.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I hope this person died well...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran make musssic with sskullsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Appalled. Who would keep such a skull?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I doubt this alien died well...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of a deceased alien. I feel sorry for them.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a skull alright, and a strange one at that.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of an Akkimari. It's a sad sight...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien skull. I'm not sure if I recognize the species.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of a deceased Akkimari.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning alien bone. Analysis: Akkimari skull. Unable to determine time of death.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Skull of Akkimari-dead.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

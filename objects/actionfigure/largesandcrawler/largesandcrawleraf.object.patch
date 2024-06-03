@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Sandcrawler Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"The Sandcrawler digs in and strikes with little warning.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

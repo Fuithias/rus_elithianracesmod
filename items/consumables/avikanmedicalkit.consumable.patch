@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Restores 100 health over 10 seconds and cures most status effects.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Medical Kit",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

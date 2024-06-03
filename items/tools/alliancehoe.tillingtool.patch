@@ -1,0 +1,17 @@
+[
+  {
+    "value": "This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Allosteel Hoe",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tool",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plate full of food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dinner.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Delicious food.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Foodsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A plate full of food.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food. Yummy food!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A well-balanced dinner.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A balanced meal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional meal.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan meal.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Nutritional value: excellent.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plate-food, tasty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

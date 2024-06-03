@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Refrigerator",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A food preservation unit, for keeping food fresh.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An alien fridge. I doubt there's any bananas inside...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fridge of alien design.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss curiousss. What'ss insside?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Appreciative. Even alien fridges run at the right temperature.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A food preservation unit... That means it's a fridge, right?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This appears to be an alien fridge of some sort.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some odd lookin' fridge.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan fridges can keep food cool, even in the midst of the desert.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This food preservation unit will keep my food fresh, but the food will be too cold to eat immediately.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This fridge's energy consumption is surprisingly efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food preservation unit detected. Food stored here will remain fresh for extended periods of time.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frdige-cold, for keeping food-fresh.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

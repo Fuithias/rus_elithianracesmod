@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akkimari Skulls",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pile of Akkimari skulls.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alien skulls. Kinda creepy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A creepy pile of skulls.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Skullsss on top of sskullsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Appalled. What happened here?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Someone's been on a killing spree...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skulls of deceased aliens. What a sad sight...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strange skulls, piled on top of each other.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari skulls. What a shame.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strange alien skulls.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These are Akkimari skulls. I should be careful around here...",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien remains. Analysis: Akkimari skulls.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari dead now. Skulls remain.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

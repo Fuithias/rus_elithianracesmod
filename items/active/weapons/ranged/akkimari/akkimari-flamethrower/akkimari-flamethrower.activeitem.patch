@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Мощный самодельный огнемет.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Келрааки^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Огнемет Акриса",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Огнемет",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Мощный самодельный огнемет.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Келрааки^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Огнемет Акриса",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Огнемет",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

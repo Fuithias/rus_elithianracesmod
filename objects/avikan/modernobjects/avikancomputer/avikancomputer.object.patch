@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Computer",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern computer.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A computer.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer. I have no idea how this interface works...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not underssstand big black boxsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A computer.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Where's the touchscreen? The keyboard, the mouse? I can't work with this!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer with an unusual interface.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan computers have an unusual interface.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple computer, used to send messages to the Fleet.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan computer. How much RAM does it have?",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Receiving radio signal. Analyzing.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Computer-alien. Interface-weird.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

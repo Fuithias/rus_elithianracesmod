@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The core of any modern electronic device.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Circuitry",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

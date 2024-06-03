@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer console.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An old but highly advanced console.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient computer terminal, still functional.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny ssscreen.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This console still functions after eons of disuse.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "No holographic screen? I'm disappointed.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These ancient computers are always a mystery. How exciting.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian console.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A console created by the Old Ones.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console was created by the Centens.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Detected Centensian interface.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Computer-ancient, god-maker-made.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A wrapped present. Can only be obtained once every day. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Daily Present",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

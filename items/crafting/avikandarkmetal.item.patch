@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Strong metal plates made to be exceptionally heat resistant.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dranite Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

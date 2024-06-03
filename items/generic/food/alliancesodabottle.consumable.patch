@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An ice-cold bottle of Froza, the Union's most popular soda.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Froza Bottle",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

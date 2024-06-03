@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An old prototype for the MEGA-TRINK armour.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "MEGA-TRINK-00 Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The MEGA-TRINK armour is designed for use by Trinkian operators.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "MEGA-TRINK Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

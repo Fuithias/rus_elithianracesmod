@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A dark metal panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Avikan Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

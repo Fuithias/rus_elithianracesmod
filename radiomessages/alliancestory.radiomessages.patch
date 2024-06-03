@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Admiral Lyiin",
+    "path": "/alliancestory-intro1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "It is good to see that you are well, ambassador. I learned about the destruction of Earth and the Protectorate through some of the other ambassadors who escaped, and I had feared you might have perished in the chaos.",
+    "path": "/alliancestory-intro1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Admiral Lyiin",
+    "path": "/alliancestory-intro2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "I will meet with the other leaders of the Alliance soon, so we can discuss this tragedy in full. We will also discuss what your next assignment will be.",
+    "path": "/alliancestory-intro1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Admiral Lyiin",
+    "path": "/alliancestory-intro3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "For now, you are free to roam the galaxy as you will. Once I have more details to share with you, I will contact you again. Good luck out there, ambassador, and be careful.",
+    "path": "/alliancestory-intro1/text",
+    "op": "replace"
+  }
+]

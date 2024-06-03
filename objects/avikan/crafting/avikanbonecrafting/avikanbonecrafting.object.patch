@@ -1,0 +1,212 @@
+[
+  {
+    "value": "^orange;Avikan Bonecarver's Table^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Bonecarver's table is used for constructing items made of monster bone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A table full of bone carving equipment.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bone crafting table. Looks a bit primitive.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran makesss weapon from boness here!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. How can such simple tools can be used to craft bone items of excellent quality?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for carving bone. I'm a bit surprised by how effective bone equipment can be!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan Bonecarvers are truly masters of their trade.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for crafting bone. We're gonna go primitive, eh?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan call those who work bone \"Bonecarvers\". This table has a full set of their tools.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Bonecarver's table. I can make traditional weapons and equipment here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table full of bone carving tools. A primitive, inefficient way to work bone.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Bonecarver's table. Used to construct equipment and other items made of bone.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki carve bones here!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Bonecarver's Table^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Bonecarver's table is used for constructing items made of monster bone.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A table full of bone carving equipment.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bone crafting table. Looks a bit primitive.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran makesss weapon from boness here!",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. How can such simple tools be used to craft bone items of excellent quality?",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for carving bone. I'm a bit surprised by how effective bone equipment can be!",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan Bonecarvers are truly masters of their trade.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for crafting bone. We're gonna go primitive, eh?",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan call those who work bone \"Bonecarvers\". This table has a full set of their tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Bonecarver's table. I can make traditional weapons and equipment here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table full of bone carving tools. A primitive, inefficient way to work bone.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Bonecarver's table. Used to construct equipment and other items made of bone.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki carve bones here!",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Boneworking Station^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The boneworking station is used for constructing items made of monster bone.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "An automated boneworking station. I can program it to produce a variety of things.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station is used for crafting items made of bone.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine makess bone weaponss for Floran. Floran isss satissfied.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This station will automatically craft whatever bone item I request.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated boneworking station. The tech is way more adanced than what the thing produces.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The art of bonecarving is a graceful one. It is unfortunate that machines now perform this work...",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A station for crafting bone? Why use such fancy tech to make simple items?",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A boneworking station. It can produce bone items of a higher quality.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "While Bonecarvers are skilled, machines like these are simply more convenient.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated crafting solution for creating various items from bones.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Boneworking station. Used to construct equipment and other items made of bone.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine makes tools-bone. Easier for Akki.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

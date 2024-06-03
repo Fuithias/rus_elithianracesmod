@@ -1,0 +1,292 @@
+[
+  {
+    "value": "I need help!",
+    "path": "/helpme/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've been attacked!",
+    "path": "/helpme/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Alert the clan, there's hostiles!",
+    "path": "/helpme/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis, help me!",
+    "path": "/helpme/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "We're being invaded!",
+    "path": "/helpme/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You'll not get me!",
+    "path": "/helpme/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "It's safe again...",
+    "path": "/safe/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I should remember to carry weapons on me next time...",
+    "path": "/safe/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I survived, thank Rhadeis!",
+    "path": "/safe/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis saved me...",
+    "path": "/safe/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "That was quite the ordeal.",
+    "path": "/safe/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I'm glad that's over with.",
+    "path": "/safe/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "I need help!",
+    "path": "/helpme/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've been attacked!",
+    "path": "/helpme/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I was not built for combat!",
+    "path": "/helpme/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Please, stop this!",
+    "path": "/helpme/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I am unable to defend myself!",
+    "path": "/helpme/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Help!",
+    "path": "/helpme/trink/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "I am glad that is over.",
+    "path": "/safe/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I require minor repairs.",
+    "path": "/safe/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "It appears to be safe again.",
+    "path": "/safe/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are the hostiles gone?",
+    "path": "/safe/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I was never meant for combat...",
+    "path": "/safe/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Is the situation under control again?",
+    "path": "/safe/trink/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Unit under attack. Requesting help.",
+    "path": "/helpme/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Battle detected. Requesting backup.",
+    "path": "/helpme/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hostile detected. Activating flight module.",
+    "path": "/helpme/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to load battle modules. Fleeing.",
+    "path": "/helpme/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Battle modules corrupted. Disengaging.",
+    "path": "/helpme/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Disengaging. Battle terminated.",
+    "path": "/safe/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Threat levels normal.",
+    "path": "/safe/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unit confirms escape.",
+    "path": "/safe/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Escape confirmed.",
+    "path": "/safe/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Flight protocols terminating.",
+    "path": "/safe/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I need help!",
+    "path": "/helpme/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Help me!",
+    "path": "/helpme/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm under attack!",
+    "path": "/helpme/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Guards, please help me!",
+    "path": "/helpme/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Call the guards!",
+    "path": "/helpme/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Stop this madness!",
+    "path": "/helpme/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "I think it's safe now.",
+    "path": "/safe/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I hate fights...",
+    "path": "/safe/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm no good in a fight...",
+    "path": "/safe/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I hope that's the end of it.",
+    "path": "/safe/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Glad that's over with.",
+    "path": "/safe/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I got out safely...",
+    "path": "/safe/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no have weapon. No fair!",
+    "path": "/helpme/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki need some help here!",
+    "path": "/helpme/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Gah, you surprised me. Akki no prepared for fight!",
+    "path": "/helpme/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki unarmed! Bugger off!",
+    "path": "/helpme/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You gonna regret this soon! Just wait for Akki to find a weapon!",
+    "path": "/helpme/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Stop this madness!",
+    "path": "/helpme/akkimari/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Akki safe again now.",
+    "path": "/safe/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki should prepare better. Always have weapon ready...",
+    "path": "/safe/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You better run! Akki gonna find a weapon soon...",
+    "path": "/safe/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Attacker-coward. Scared of Akki, huh?",
+    "path": "/safe/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki fine now.",
+    "path": "/safe/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Gah, Akki was just about to fight back.",
+    "path": "/safe/akkimari/default/5",
+    "op": "replace"
+  }
+]

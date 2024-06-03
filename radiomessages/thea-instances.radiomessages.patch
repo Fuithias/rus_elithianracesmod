@@ -1,0 +1,102 @@
+[
+  {
+    "value": "This rock seems to respond to Blighted Stone Fragments. Perhaps if you collect a few more, you can open the way ahead?",
+    "path": "/remnantfragmentblockade-missingitems/text",
+    "op": "replace"
+  },
+  {
+    "value": "This seems to be the source of the strange energies here. You'd better tell Ayala what you've found.",
+    "path": "/remnantsplinter-foundgoal/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your target is the Violated Elite Drahl located in this area. Take it out, then find the return teleporter in a small storage room to the east.",
+    "path": "/vanguarddronebattle1/text",
+    "op": "replace"
+  },
+  {
+    "value": "You can enter the thieves' hideout through this crack in the rocks.",
+    "path": "/avikanroguehunt1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Be careful: there's a lot of bandits in the area ahead.",
+    "path": "/avikanroguehunt2/text",
+    "op": "replace"
+  },
+  {
+    "value": "The leader of the bandits waits just beyond. Be careful.",
+    "path": "/avikanroguehunt3/text",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find a group of Akkimari scavengers beyond the cliffs ahead. Be careful: they appear to be heavily armed, and are assisted by drones and a Chaseflight.",
+    "path": "/akkimaridronebattle1/text",
+    "op": "replace"
+  },
+  {
+    "value": "The target you are after is the large Akkimari Justicar just up ahead. Take it out, then find a return teleporter further to the east.",
+    "path": "/akkimaridronebattle2/text",
+    "op": "replace"
+  },
+  {
+    "value": "I have decrypted the security code for the door ahead. The passcode to unlock the door is 55512.",
+    "path": "/akkimaridronebattle3/text",
+    "op": "replace"
+  },
+  {
+    "value": "I am detecting multiple Vanguard Krahls in the room ahead. You should enter one.",
+    "path": "/vanguardmechunlock1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your first assigned goal is to destroy all targets in this room. Your Krahl's primary explosive cannon should suffice here.",
+    "path": "/vanguardmechunlock2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Rokhan is pleased with your progress so far, but there are a few more tests for you to run.",
+    "path": "/vanguardmechunlock3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air.",
+    "path": "/vanguardmechunlock4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air.",
+    "path": "/vanguardmechunlock5/text",
+    "op": "replace"
+  },
+  {
+    "value": "The Krahl is fully capable of underwater operation. Do not hesitate to jump in.",
+    "path": "/vanguardmechunlock6/text",
+    "op": "replace"
+  },
+  {
+    "value": "I am detecting low levels of light. You can use the ^green;[F] ^reset;button to activate the Krahl's headlights.",
+    "path": "/vanguardmechunlock7/text",
+    "op": "replace"
+  },
+  {
+    "value": "The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side.",
+    "path": "/vanguardmechunlock8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your final challenge is to reach the room on the other side of this valley. I am detecting multiple hostiles on your path.",
+    "path": "/vanguardmechunlock9/text",
+    "op": "replace"
+  },
+  {
+    "value": "The Krahl will not fit through this small door. Jump out to proceed to the teleporter.",
+    "path": "/vanguardmechunlock10/text",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter marks the end of the testing course. You should return to Rokhan.",
+    "path": "/vanguardmechunlock11/text",
+    "op": "replace"
+  }
+]

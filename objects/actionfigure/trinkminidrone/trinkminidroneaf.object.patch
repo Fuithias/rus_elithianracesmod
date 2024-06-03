@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Trinkian Minidroid Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A small drone used for patrolling and scouting ahead.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

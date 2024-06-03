@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Rhaiod Tent Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent door decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A pruple tent door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent door made of a purple fabric.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric doorsss can't ssstop Floran.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A tent door made of an unusual fabric.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric tent door coloured in an odd shade of purple.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistically decorated tent door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent door decorated in the style of the Rhaiod.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The door to a Rhaiod tent.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The door to a tent.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected tent door. Colour suggests this tent belongs to the Rhaiod.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-purple. Sway in the wind.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The hide of some alien monster, cut using an Avikan hunting weapon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Monster Hide",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

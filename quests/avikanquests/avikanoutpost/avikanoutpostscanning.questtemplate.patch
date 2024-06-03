@@ -1,0 +1,167 @@
+[
+  {
+      "value": "The Starfarer's Refuge",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Welcome to the Starfarer's Refuge, new arrival! I am ^orange;Azana^white;, your virtual guide. Please take the time to familiarize yourself with the many services offered in the ^orange;Starfarer's Refuge^white;. ^green;Scan areas of interest, and I will relay you information about the services provided there.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Thank you for using this Anakhar Systems Virtual Guide. I hope to have provided you with useful information today. Vas Vha'leih.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "^green;Scan objects^reset; to learn more about the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/descriptions/findClues",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Azana^reset; in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/descriptions/turnIn",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "I am Azana, a Virtual Guide created by Anakhar Systems. I provide newcomers and veterans alike with information about the Starfarer's Refuge.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "This vendor of the Nomada Token Exchange allows you to trade leftover materials in exchange for Tokens of Merit.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "This vendor of the Nomada Token Exchange allows you to purchase a variety of materials using Tokens of Merit.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "The Nomada Translocator Store offers personalized teleportation devices. It also features a teleporter for public use.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "Ayurin is the local weaponsmith. He sells weapon blueprints and assists Starfarers in crafting weapons.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "In exchange for Tokens of Merit, the Droden Legion Terminal allows you to recruit Droden crewmembers.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "Jahkar sells Nomada-certified vehicles and vehicle components.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "Valyan offers vehicle reparation and restoration services.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "Drinks and food can be purchased from the bar at the Starsight Inn.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "The offices of the Watchers are found behind these security consoles. The offices are only accessible to members of the organization.",
+      "path": "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "Scanning is a great tool for discovery.",
+      "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "The Starfarer's Refuge offers many services. There is still more to be found.",
+      "path": "/scriptConfig/radioMessages/startWithProgress/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "It appears that you have taken the initiative to explore the Starfarer's Refuge yourself.",
+      "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+      "op": "replace"
+  },
+  {
+      "value": "Azana",
+      "path": "/scriptConfig/radioMessages/complete/senderName",
+      "op": "replace"
+  },
+  {
+      "value": "That concludes the tour of the Starfarer's Refuge. Please, ^green;return to me^white; when you're ready for a small reward.",
+      "path": "/scriptConfig/radioMessages/complete/text",
+      "op": "replace"
+  }
+]

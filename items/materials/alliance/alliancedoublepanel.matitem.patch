@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Multi-layered metal panels.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Double Alliance Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

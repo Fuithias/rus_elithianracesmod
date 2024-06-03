@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Кожаная юбка, которую носят чиновники Номады.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка советника",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Кожаная юбка, которую носят чиновники Номады.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка советника",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

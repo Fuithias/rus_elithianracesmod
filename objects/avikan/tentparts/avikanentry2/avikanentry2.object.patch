@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Awning",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decorated tent awning, made of fabric.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tent awning.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent awning, decorated with a simple pattern.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss bright coloursss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A tent entrance.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tent awning. The fabric is quite well crafted.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Such vivid colours.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent awning, made of colourful fabric.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Made of fabric, this sort of awning is often used in the tents of our Elders.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent awning made of fabric. It features vivid colours.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric awning. Provides protection against desert winds.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Awning for tent, Akki go inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

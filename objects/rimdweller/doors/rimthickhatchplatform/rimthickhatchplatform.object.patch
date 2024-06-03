@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thick Rim Platform Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal hatch with a built-in platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal hatchesss hass platform insside.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This metal hatch doubles as a platform when opened.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hatch acts as a platform when open. Now that's useful!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien hatch. Design incorporates built-in platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hatch. Akki stand on platform even when hatch-open.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A targeting chip for small missiles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Erito Targeting Chip^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

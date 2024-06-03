@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Med-store",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall-mounted cabinet full of medical supplies.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A metal cabinet, probably for medical supplies.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like a first-aid cabinet.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what iss insside?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. Medical supplies are always welcome.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I suppose this must be a medical cabinet of sorts.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This cabinet contains painkillers and other anodynes.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cabinet for stayin' healthy.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cabinet containing some Avikan medicine.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These Med-stores carry medical supplies for emergency use.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An emergency medical kit can be probably be found inside.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada-approved Med-store. Contains emergency medical supplies.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cabinet-medicine. Akki not want healing-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

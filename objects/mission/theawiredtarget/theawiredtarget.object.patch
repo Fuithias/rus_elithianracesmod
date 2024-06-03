@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Wired Target",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This practice target outputs a wire signal until broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This practice target passes wire signal until broken.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Practice targets like this can be connected to wired objects.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shiny target isss just begging to be broken.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. This appears to be a practice target, which could be connected to something.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This practice target can pass a wired signal until it's broken.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This practice target is hypnotising, breaking it may trigger something.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just what I need for shootin' practice. Wonder if breaking this target does somethin'.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected practice target. Unit can fire at it to complete a circuit.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki shoot target, target break. Target break, something happens!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

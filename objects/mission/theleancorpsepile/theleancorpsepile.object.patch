@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thelean Corpses",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dead Theleans. A lot of them.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran pokesss dead bodiess with ssstickss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. The one who killed these Theleans must have been incredibly powerful.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dead Theleans. The best kind.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Theleans. Analysis: dead.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-thieves-dead. Akki pleased.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

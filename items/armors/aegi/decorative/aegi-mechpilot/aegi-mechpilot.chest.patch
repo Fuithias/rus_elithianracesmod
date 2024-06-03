@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Легкая кираса, которую носят пилоты мехов Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Кираса пилота меха Союза",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Легкая кираса, которую носят пилоты мехов Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кираса пилота меха Союза",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

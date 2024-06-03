@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Crane",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mechanical crane, useful for moving cargo.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A crane, probably used to load cargo onto ships and the like.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large crane. How would one control this?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not like big metal armsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wondering. How does this crane's input interface work?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crane for moving cargo. Where are the controls?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large crane for moving cargo.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mechanical crane, for moving cargo.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mechanical crane. It can carry a lot of weight.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This crane is inefficient. It requires more hinges.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Utility: moving cargo.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crane-mechanical.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

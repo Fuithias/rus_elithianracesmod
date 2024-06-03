@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Books",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A collection of books on various topics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Books. They might hold information valuable to the rebels.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What might these books be written about?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not like reading...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What might be written in these books?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plain old books. Dull topics only.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Books are a grand source of knowledge.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I ain't got time for readin'.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Books written on various topics, all equally interesting.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien scrolls, I think. I can't read any of it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Books are an inefficient method of transferring and storing knowledge.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien writings. Indexing.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Books. Akki not want to read.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

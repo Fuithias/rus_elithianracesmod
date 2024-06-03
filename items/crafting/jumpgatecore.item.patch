@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A mysterious Centensian artefact, the core of a Jumpgate device.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Jumpgate Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

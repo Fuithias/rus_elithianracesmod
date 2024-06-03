@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Артефакт великой силы, инструмент созидания.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Аспект творения^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Артефакт",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Артефакт великой силы, инструмент созидания.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Аспект творения^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Артефакт",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

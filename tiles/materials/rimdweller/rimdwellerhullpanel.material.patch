@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Rim Hull Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Worn metal plating found on the exterior of spaceships from the Rim.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What caused all of the damage to this hull?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Busssted metal plating.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hull's been banged up good, but it still holds.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Hull plating. Signs of combat damage detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hull-ship, thick and heavy. Akki no carve through...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Canopy",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A canopy made of decorated fabric.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful canopy, it provides a cool shadow during the day.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful canopy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bright coloursss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A canopy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful canopy.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The pattern is simple, but the fabric is very well crafted.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A canopy, for casting a cooling shadow in the desert.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A finely decorated canopy, for keeping the sun out.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A canopy made of colourful fabric. Well-woven.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Canopy. Provides a shade in the desert.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Canopy-colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

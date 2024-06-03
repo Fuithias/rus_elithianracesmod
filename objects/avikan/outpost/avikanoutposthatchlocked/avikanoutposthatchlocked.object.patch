@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Locked Nomada Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This access hatch is locked tight.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can't open hatch. Floran frussstrated.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Displeased. I cannot open this hatch.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hatch, locked like a vault. Ain't gettin' in there.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pipeline access hatch. Analysis: locked.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hatch-locked, Akki not get in here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Worn metal plating found on the exterior of spaceships from the Rim.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rim Hull Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Giant Sandspitter",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Elite Drahl",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari Justicar",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ce'Tennan Oculus",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  }
+]

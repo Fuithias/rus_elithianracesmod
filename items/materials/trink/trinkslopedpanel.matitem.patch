@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Hull Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Vanguard Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright tapestry displaying the Vanguard's emblem.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bold alien mark all over thisss tapessstry...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry shows the emblem of the Vanguard, the Avikian military fleet.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry shows the emblem of our grand military fleet, the Vanguard.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry shows the emblem of the Vanguard, the Avikian military fleet.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Vanguard emblem.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapestry with symbol. Symbol for Vanguard.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

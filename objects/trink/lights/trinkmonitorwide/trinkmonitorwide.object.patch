@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Wide Trinkian Monitor",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monitor displaying some information.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "I guess this monitor shows a lot of information, but I don't understand any of it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what all these lines mean?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesn't underssstand ssshiny ssscreen...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Incapability. I am unable to read this information.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mhm. Yeah. I have no idea what all this information means.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monitor displays some information, but what it means is a mystery to me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian monitor displaying encoded information.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monitor displays information in a way I don't understand.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monitor displays over a 128GBs of data per second. Few can decrypt it all at the same rate.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien interface detected. Unable to translate.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Screen-alien, Akki no read...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

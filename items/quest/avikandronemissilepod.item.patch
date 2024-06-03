@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A missile pod, broken off from an Elite Drahl unit. It could still be repaired.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Broken Missile Pod^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Landing Festival Hall",
+    "path": "/destinations/name",
+    "op": "replace"
+  },
+  {
+    "value": "Elithia",
+    "path": "/destinations/planetName",
+    "op": "replace"
+  }
+]

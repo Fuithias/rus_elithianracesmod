@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Landing Festival Present",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wrapped present for the Landing Festival.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A gift! Who is it for?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder who this present is for.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran want presssent! Floran hopesss it'ss a new knife for ssstabbing.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Who is this gift for?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big present! I wanna open it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The tradition of gift-giving is a very positive one.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Could there be a new revolver inside?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nicely wrapped gift, just asking to be unwrapped..,",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a box of some sort. I'm not sure what all that decoration is good for.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gift wrapped in decorative paper. Not very efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing. Detected boxed product. Low material value.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to see inside!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

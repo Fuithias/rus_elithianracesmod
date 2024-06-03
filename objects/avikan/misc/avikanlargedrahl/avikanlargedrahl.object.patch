@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Elite Drahl",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very large inactive drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The Apex rebellion could use drones like those.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's an unsettlingly large war drone...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not ssscared of drone. Drone ssleepsss, Floran awake.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. A drone like this could deal serious damage to a village.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That is one massive drone. Better not anger its owner...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large war drone, a flying one-drone army.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a massive drone if ever I saw one.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large combat drone. I would dread fighting one of these...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Elite Drahl. These are usually controlled by remote operators.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I would not like to fight one of these monstrosities.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Elite Drahl unit. Status: inactive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drone-large, looks dangerous. Akki careful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Собирайте особые материалы с чудовищ.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Охотничье копье Номады",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Копье охотника",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Собирайте особые материалы с чудовищ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Охотничье копье Номады",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Копье охотника",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

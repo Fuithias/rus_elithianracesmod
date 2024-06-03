@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Выпускает мощную струю воздуха, отбрасывающую врагов назад.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Тринкианская звуковая пушка",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Звуковая пушка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Выпускает мощную струю воздуха, отбрасывающую врагов назад.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Тринкианская звуковая пушка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звуковая пушка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

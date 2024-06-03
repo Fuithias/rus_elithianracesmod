@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Infospire",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Several monitors mounted to a large central processing unit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "That's quite a few screens.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shiny screens.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny sscreenss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Several monitors attached to a central processing unit.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's quite the monitor array.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large and bulky monitor array.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Lots of screens.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Infospire, it shows real-time information about the entire Elithian economy.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what all of this information really means...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient solution to collecting and displaying economical information.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien interface.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Screens-shiny, Akki steal?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

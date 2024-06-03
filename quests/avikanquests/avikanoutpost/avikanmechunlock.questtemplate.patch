@@ -1,0 +1,32 @@
+[
+  {
+      "value": "^green;The Vanguard's Vehicles",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "The Vanguard is deploying its vehicles across more and more locations every day, and we need to test them to ensure they continue to operate effectively. I need you to ^green;enter our testing facility and put the ^orange;Vanguard Krahl ^green;to the test^reset;. In return, I'll allow ^orange;Jakhar ^reset;to sell you Vanguard vehicles.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Well done, your run through the testing facility has provided the Vanguard with a lot of information to study. Jakhar has been informed that he can now sell you Vanguard vehicles: make sure to pay him a visit.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Talk to ^orange;Rokhan^reset; to enter the ^orange;testing facility^reset;",
+      "path": "/scriptConfig/descriptions/enterInstance",
+      "op": "replace"
+  },
+  {
+      "value": "Reach the end of the ^orange;Vanguard testing facility^reset;",
+      "path": "/scriptConfig/descriptions/findGoal",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/descriptions/turnIn",
+      "op": "replace"
+  }
+]

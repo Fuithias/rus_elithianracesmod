@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Hoverbike",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A personal transportation hover vehicle.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A compact hoverbike.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hoverbike is quite compact.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran goess sssick when flying ssmall bikess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A compact personal transportation vehicle.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've always loved hoverbikes!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hoverbike, compact in form but powerful in performance.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ride on one o' these is sure to get wild!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hoverbike built by Veronas, Aventor's largest competitor.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I think it is an alien hoverbike, but the design is very different from our own.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The efficiently compact design of this vehicle is quite pleasing.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien hovercraft.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki fly on vehicle-alien! Akki free!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

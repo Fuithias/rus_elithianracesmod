@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Transport",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan-built vehicle for transporting cargo.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A big and bulky hovering transport vehicle.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering transport vehicle... Where are the wings?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran puts goodsss into flying box, then Floran fliess away!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This hovering vehicle has a far greater carrying capacity than a mechanical horse.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering transport vehicle... What's it carrying?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering cargo transport. It flies with grace.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Like most Avikan vehicles, this cargo transport hovers using Centensian technology.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The vehicle of choice for transporting cargo between Terves in the desert.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hovering transport vehicles are an efficient tool for moving cargo.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Cargo Transport. Analysis: cargo crates empty.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vehicle-alien, transport goods around.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

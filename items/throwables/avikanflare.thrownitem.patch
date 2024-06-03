@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A flare often used by the Nomada to signal important locations, or to light an area.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Flare",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Вызывает из грузового отсека вашего корабля челнок рейнджеров АСБ-26.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер рейнджера АСБ-26",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Вызывает из грузового отсека вашего корабля челнок рейнджеров АСБ-26.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер рейнджера АСБ-26",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Odyin's Weapons Cache",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Vanguard weapons distributor, Odyin as-Rhadeis offers only the best goods.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Weaponsss for ssale.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This merchant offers a variety of weapons.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Vanguard-approved weapons distributor. Name: Odyin as-Rhadeis.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien-tough. Make for fight-good.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

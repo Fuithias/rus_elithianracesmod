@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The bright red leaves of the Vrelli plant.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vrelli Leaves",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Explosive Firepower II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "In order to repair that missile pod of yours, I need some materials. I'll need at least ^orange;8 Superb Kavanite Plates ^white;and a ^orange;Dranite Plate ^white;to craft a new frame, an ^orange;Avikan Magazine ^white;to fix the loading mechanism, and some ^orange;Volatile Liquid ^white;for the ignition system. ^green;Bring me those materials^white;, and I can fix up that missile pod for you.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, Captain! Your very own Missile Pod! I'm also giving you the blueprints for the weapon, in case you ever need to craft another one.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Landing Festival Tree (Event)",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

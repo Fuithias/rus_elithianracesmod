@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Rail Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick metal door with a rail going through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rail goesss through the metal door.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This metal door has a rail going through it.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda door with a rail goin' through it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien door. Detected rail system inside.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rail goes through door.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

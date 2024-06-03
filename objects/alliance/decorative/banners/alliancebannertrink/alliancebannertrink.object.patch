@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Trink Circuit Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner adorned with the emblem of the Trink Circuit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This banner is adorned with some alien emblem.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien emblem. Emblem identified as Trink Circuit iconography.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Symbol means it belongs to Circuit-Trink.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

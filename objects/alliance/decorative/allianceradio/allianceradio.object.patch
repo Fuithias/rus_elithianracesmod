@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Radio",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A radio tuned to a musical channel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sleek radio.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A radio playing some music.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss thiss music.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Energetic. I feel like dancing.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I love this song!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegantly designed radio.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a music box.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small radio built by Enerth Engineering.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien music is quite odd.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small radio.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien radio. Analyzing frequencies.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Radio-alien. Make music-nice.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

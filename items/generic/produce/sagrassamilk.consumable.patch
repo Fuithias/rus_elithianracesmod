@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The strange milky substance found inside Sagrassa crystals.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Sagrassa Milk",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

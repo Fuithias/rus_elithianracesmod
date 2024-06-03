@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^orange;Молот, обладающий силой бога Центенсии.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Гнев Радеи^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Молот, обладающий силой бога Центенсии.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Гнев Радеи^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

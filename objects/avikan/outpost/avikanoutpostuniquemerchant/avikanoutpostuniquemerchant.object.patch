@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Mysterious Merchant",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This merchant has a sense of mystery and wonder about him...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know thiss persson...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. This merchant has a sense of wrongness about him.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Identification failed. Scanner malfunction. Field disruption detected. Error. Error. Error.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Person-shady remind Akki of something. Akki no focus...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

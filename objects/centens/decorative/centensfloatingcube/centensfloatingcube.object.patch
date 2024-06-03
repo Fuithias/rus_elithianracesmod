@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Floating Cube",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive floating cube.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A massive cube, floating just above the ground. What keeps it in place?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive cube, held aloft by invisible wings. It is... beautiful!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not undersstand how masssive cube can fly.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Baffled. This cube must weigh more than a house, yet it stays aloft somehow.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive metal cube, untouched by time. What keeps it aloft?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mystery surrounds this cube. It is magnificent.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It goes 'round and 'round and 'round... Makes my head spin, it does.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "How the Centens managed to build artefacts like these is beyond me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Old Ones left behind many mysterious cubes like these. The Rhaiod has yet to show us what their purpose is.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Whatever mechanism keeps this cube aloft must be extremely efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian artefact. Marking location for Rhaiod investigation.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cube-large-floating, Akki wonder how it works.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

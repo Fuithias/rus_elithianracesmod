@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A warm folded piece of bread, with a secret ingredient inside for an amazing taste.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Hotbröd",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Компактный гвоздомет, собранный Аккимари.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Келрааки^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Гвоздомет Акриса",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Гвоздомет",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Компактный гвоздомет, собранный Аккимари.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Келрааки^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Гвоздомет Акриса",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гвоздомет",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

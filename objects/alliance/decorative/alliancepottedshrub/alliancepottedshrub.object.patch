@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Potted Elithian Shrub",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shrub native to Elithia.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not like putting plantss in potsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A plant.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant-small, not like Akris.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

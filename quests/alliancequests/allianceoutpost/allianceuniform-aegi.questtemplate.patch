@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^orange;Suiting Up",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, ambassador! I have your uniform ready for you: here you are.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "I received my official Elithian Alliance uniform. Let's put it on!",
+    "path": "/completionText",
+    "op": "replace"
+  }
+]

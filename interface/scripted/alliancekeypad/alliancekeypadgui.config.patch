@@ -1,0 +1,12 @@
+[
+  {
+    "value": " AAE Keypad Lock",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Programmable keypad",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  }
+]

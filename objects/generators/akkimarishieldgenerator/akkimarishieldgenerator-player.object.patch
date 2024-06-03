@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Shield Generator",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shield generator capable of protecting structures you've built from damage.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A shield generator.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This generates a shield.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shieldsss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Comforted. A shield generator.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This'll keep me safe!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crude protection device.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Who needs a shield anyhow?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shield generator used for protecting colonies.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shield generator will protect this settlement from damage.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device will generate a shield to defend colonies from damage.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected shield generator. Generates a shield to protect the surrounding area.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Generator-shield, protect regions from destruction.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

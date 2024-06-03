@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Avikan Crafting Techniques",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "How would you like to learn more about Avikan crafting techniques? ^green;Gather special materials from a ^orange;Sandspitter^green;, ^orange;Sandcrawler^green;, ^orange;Stingwing Swarm^green;, and a ^orange;Valahr^white;, and I will give you an ^orange;Avikan Crafting Guide^white;, plus a ^orange;special blueprint ^white;for a weapon I'm working on.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, Captain. An Avikan Crafting Guide, and a blueprint for a truly unique weapon!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

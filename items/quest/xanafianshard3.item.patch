@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A shard of the Xanafir, containing a sliver of its nearly infinite power.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Xanafian Shard^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akkimari Vaash Barrel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reinforced container built to hold Vaash.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A barrel full of some sort of glowing substance.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This barrel's contents don't look very safe...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Green water in barrelsss. Floran ssshould not drink it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. The contents of this barrel look dangerous.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There's a weird glowing liquid inside. I think I shouldn't touch it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange substance is found inside.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barrel built to hold something fierce.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barrel of Vaash. It's not a substance I'd recommend touching.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The strange green liquid inside glows brightly. Better not touch it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This barrel was made to hold Vaash, a substance that burns away flesh and metal both.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected unidentified substance within. Recommending extreme caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Barrel hold Vaash, so Akki don't burn.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

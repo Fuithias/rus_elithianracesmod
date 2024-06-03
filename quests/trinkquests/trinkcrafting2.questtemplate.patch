@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Trinkian Crafting Techniques II",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "The file size for this ^orange;Trinkian Crafting Guide ^white;is substantially larger than I thought... I'll need a ^orange;Circuit Data Drive ^white;to download it all. Trinkian merchants often sell these items: ^green;I should check around the settlement for someone selling such a drive^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "The download is finished! I can now craft a variety of Trinkian items, and it looks like there's a blueprint for a new, ^orange;unique weapon ^white;in here, too!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to a ^orange;Central Circuit Terminal ^reset;in a ^orange;Trinkian Settlement^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

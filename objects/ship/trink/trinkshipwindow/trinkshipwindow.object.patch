@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Ship Window",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monitor used by the Trinks as a replacement for windows.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This seems to be some sort of digital window.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A digital window? I prefer actual windows.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesn't underssstand ssshiny ssscreen...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This monitor srves as a digital window, to replace actual windows.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A digital window? How awesome is that?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A digital window to circumvent the structural weakpoints created by real windows.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of mockery is this? Is this supposed to some sorta window?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A digital Trinkian window. It's connected to sensors all around the ship.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this supposed to be a window?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Us Trinks have no need for actual windows. These monitors display all the information we need about our surroundings.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien interface detected. Unable to translate.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This window-no, just screen.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Vanguard Rifle Display",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan assault rifle on display.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An alien weapon on display. It looks intimidating.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An assault rifle designed by an alien race.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not understand how ssshoot ssticks works...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysing. This weapon is built from an unusual metal alloy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien assault rifle. I wouldn't like being on the receiving end of this gun.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien weapon. Its design is rather unusual.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan assault rifle, no longer in service.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Vanguard assault rifle. A tool of freedom.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Avikan weapon uses a surprisingly efficient feeding mechanism.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard Assault Rifle detected. Owner: unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gun-alien, for killing. Akki like.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Stingwing Swarm Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"Stingwing swarms operate as a single creature, using specialized feromones to communicate and coordinate.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

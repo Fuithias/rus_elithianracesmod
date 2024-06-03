@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A unique switch gear used in rare Droden weaponry.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Legion Switch Gear^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Storage Locker",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nice, spacious, wall-mounted storage solution.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A locker made from metal.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A place to keep your things.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can ssstuff things into locker.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Neutral. A metallic storage locker.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's an industrial looking storage locker.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Somewhere to store personal belongings.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locker in the wall.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal storage locker.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A storage locker built into the wall.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This storage locker is an efficient use of space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected storage locker.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage in wall, Akki like.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

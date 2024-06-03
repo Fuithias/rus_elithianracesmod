@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Hanging Storage",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Various items suspended in a large net.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Items stored in a net hung from the ceiling.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A net for storing items.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Netsss for sstoring thingss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Various items are suspended in a large net here.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storing your stuff on the ceiling. I like it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It must be a pain to get anything out of this net again.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta storage hangin' from the ceiling.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Akkimari often store their possessions in nets like these.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of net filled with alien curios.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hanging items from the ceiling is actually an efficient means of storage.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning contents of net. Detected empty Vaash barrel. Detected machinery components. Detected drone chassis.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hang items out of the way. Akki not need them now.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

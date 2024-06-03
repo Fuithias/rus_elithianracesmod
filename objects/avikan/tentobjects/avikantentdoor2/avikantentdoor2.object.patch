@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Tent Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tent door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tent door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fancy tent door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric doorsss can't ssstop Floran.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A tent door made of an unusual fabric.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric tent door. Colourful.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A finely decorated tent door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric tent door. Bright and colourful.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent door made of fabric. For nomads with resources to spare.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tent door.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected door. Material: fabric.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-fabric, flimsy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

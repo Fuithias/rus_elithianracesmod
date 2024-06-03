@@ -1,0 +1,6062 @@
+[
+  {
+    "value": "Hello.",
+    "path": "/greeting/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings.",
+    "path": "/greeting/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/greeting/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger.",
+    "path": "/greeting/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Travel well, stranger.",
+    "path": "/greeting/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis guide you.",
+    "path": "/greeting/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome!",
+    "path": "/greeting/avikan/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Nice to meet you.",
+    "path": "/greeting/avikan/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Nice meeting you.",
+    "path": "/greeting/avikan/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "May Rhadeis watch you.",
+    "path": "/greeting/avikan/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis watch over you.",
+    "path": "/greeting/avikan/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/greeting/avikan/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, stranger.",
+    "path": "/greeting/avikan/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Hail, stranger.",
+    "path": "/greeting/avikan/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Hail.",
+    "path": "/greeting/avikan/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis is with us today.",
+    "path": "/greeting/avikan/default/15",
+    "op": "replace"
+  },
+  {
+    "value": "Good day.",
+    "path": "/greeting/avikan/default/16",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/avikan/default/17",
+    "op": "replace"
+  },
+  {
+    "value": "May Rhadeis watch your step.",
+    "path": "/greeting/avikan/default/18",
+    "op": "replace"
+  },
+  {
+    "value": "Traveller.",
+    "path": "/greeting/avikan/default/19",
+    "op": "replace"
+  },
+  {
+    "value": "Why, hello there!",
+    "path": "/greeting/avikan/default/20",
+    "op": "replace"
+  },
+  {
+    "value": "Walk well, stranger.",
+    "path": "/greeting/avikan/default/21",
+    "op": "replace"
+  },
+  {
+    "value": "Hey.",
+    "path": "/greeting/avikan/default/22",
+    "op": "replace"
+  },
+  {
+    "value": "Hey there.",
+    "path": "/greeting/avikan/default/23",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih!",
+    "path": "/greeting/avikan/default/24",
+    "op": "replace"
+  },
+  {
+    "value": "Hi.",
+    "path": "/greeting/avikan/default/25",
+    "op": "replace"
+  },
+  {
+    "value": "Good tidings.",
+    "path": "/greeting/avikan/default/26",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, Captain.",
+    "path": "/greeting/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Travel well, Captain.",
+    "path": "/greeting/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis guide you, Captain.",
+    "path": "/greeting/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, Captain.",
+    "path": "/greeting/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Hail, Captain.",
+    "path": "/greeting/avikan/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Captain.",
+    "path": "/greeting/avikan/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Why, hello there!",
+    "path": "/greeting/avikan/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Walk well, Captain.",
+    "path": "/greeting/avikan/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Honour, Captain.",
+    "path": "/greeting/avikan/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "An honour to meet you.",
+    "path": "/greeting/avikan/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "May Rhadeis guide your journeys, Captain.",
+    "path": "/greeting/avikan/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Honour meeting you.",
+    "path": "/greeting/avikan/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "Honour to meet you, Captain.",
+    "path": "/greeting/avikan/avikan/12",
+    "op": "replace"
+  },
+  {
+    "value": "An honour, Captain.",
+    "path": "/greeting/avikan/avikan/13",
+    "op": "replace"
+  },
+  {
+    "value": "Mhm.",
+    "path": "/greeting/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/greeting/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hmph.",
+    "path": "/greeting/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Yes?",
+    "path": "/greeting/avikan/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "What is it?",
+    "path": "/greeting/avikan/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like your kind.",
+    "path": "/greeting/avikan/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra.",
+    "path": "/greeting/avikan/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "What?",
+    "path": "/greeting/avikan/glitch/8",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap bag.",
+    "path": "/greeting/avikan/glitch/9",
+    "op": "replace"
+  },
+  {
+    "value": "I have nothing to say to you.",
+    "path": "/greeting/avikan/glitch/10",
+    "op": "replace"
+  },
+  {
+    "value": "You're not welcome.",
+    "path": "/greeting/avikan/glitch/11",
+    "op": "replace"
+  },
+  {
+    "value": "Mhm.",
+    "path": "/greeting/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/greeting/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hmph.",
+    "path": "/greeting/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Yes?",
+    "path": "/greeting/avikan/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "What is it?",
+    "path": "/greeting/avikan/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like your kind.",
+    "path": "/greeting/avikan/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra.",
+    "path": "/greeting/avikan/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "What?",
+    "path": "/greeting/avikan/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap bag.",
+    "path": "/greeting/avikan/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "I have nothing to say to you.",
+    "path": "/greeting/avikan/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "You're not welcome.",
+    "path": "/greeting/avikan/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "Mhm.",
+    "path": "/greeting/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/greeting/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hmph.",
+    "path": "/greeting/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Yes?",
+    "path": "/greeting/avikan/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "What is it?",
+    "path": "/greeting/avikan/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like your kind.",
+    "path": "/greeting/avikan/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra.",
+    "path": "/greeting/avikan/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "What?",
+    "path": "/greeting/avikan/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap bag.",
+    "path": "/greeting/avikan/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "I have nothing to say to you.",
+    "path": "/greeting/avikan/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "You're not welcome.",
+    "path": "/greeting/avikan/droden/11",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/converse/avikan/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "I should really go check on the water supply.",
+    "path": "/converse/avikan/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "Could you help me set up my tent?",
+    "path": "/converse/avikan/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "Caught anything interesting lately?",
+    "path": "/converse/avikan/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a hunter?",
+    "path": "/converse/avikan/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "How I long to be a Captain myself...",
+    "path": "/converse/avikan/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "I miss Kadavan...",
+    "path": "/converse/avikan/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "I'm telling you, the Council is close to finding Vhalas Andra'veih!",
+    "path": "/converse/avikan/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "I dream of returning to Vas Vha'leih every day.",
+    "path": "/converse/avikan/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, you have your own ship? That must be a dream come true!",
+    "path": "/converse/avikan/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you're respecting the Avikan Common Law, friend. Otherwise we might have a problem.",
+    "path": "/converse/avikan/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "I hope we will return to Kadavan one day...",
+    "path": "/converse/avikan/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "Been hunting lately?",
+    "path": "/converse/avikan/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra! I cut one of my flaps...",
+    "path": "/converse/avikan/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, you look like you've been through hell!",
+    "path": "/converse/avikan/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will show us the way.",
+    "path": "/converse/avikan/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could be a captain like you...",
+    "path": "/converse/avikan/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "I've issued a request for admission as a Fleet Captain. I can't wait for the Council's response!",
+    "path": "/converse/avikan/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "Anything unusual to report?",
+    "path": "/converse/avikan/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "Filed any interesting reports lately?",
+    "path": "/converse/avikan/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada is always on the move.",
+    "path": "/converse/avikan/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "I am lucky to be a colonist. I've never been fond of the Fleet's nomadic lifestyle.",
+    "path": "/converse/avikan/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "I wish to make a pilgrimage to Vas Vha'leih one day.",
+    "path": "/converse/avikan/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "You must have been on many adventures.",
+    "path": "/converse/avikan/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could afford a Keff, but they just cost so many tokens...",
+    "path": "/converse/avikan/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "I got a new Keff the other day. It hovers so smoothly!",
+    "path": "/converse/avikan/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have a pet sandworm as well? Be careful with them - they can get agressive...",
+    "path": "/converse/avikan/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "I saw a massive sandstalker once. I was a coward and ran away...",
+    "path": "/converse/avikan/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "I hunted sandspitters once, but those days are far behind me now.",
+    "path": "/converse/avikan/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "My hunting days are over, I'm afraid...",
+    "path": "/converse/avikan/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "Could you help me? My keff won't start anymore.",
+    "path": "/converse/avikan/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have a Keffrider's license?",
+    "path": "/converse/avikan/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "I found something odd in the water supply the other day.",
+    "path": "/converse/avikan/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "Not all Avikan enjoy living in the desert...",
+    "path": "/converse/avikan/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "I've never been so happy! I found my perfect mate today!",
+    "path": "/converse/avikan/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "My mate and I are finally joining before Rhadeis tomorrow. I'm so excited!",
+    "path": "/converse/avikan/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "My last hunt was pretty bountiful. I'll not go hungry any time soon.",
+    "path": "/converse/avikan/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "You must have gathered many interesting tales.",
+    "path": "/converse/avikan/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you join me for a hunt someday?",
+    "path": "/converse/avikan/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis is by my side today.",
+    "path": "/converse/avikan/generic/39",
+    "op": "replace"
+  },
+  {
+    "value": "The Rhaiod wishes for me to become a priest. I've never received such an honour before!",
+    "path": "/converse/avikan/generic/40",
+    "op": "replace"
+  },
+  {
+    "value": "Honour and merit are the cornerstones of our society.",
+    "path": "/converse/avikan/generic/41",
+    "op": "replace"
+  },
+  {
+    "value": "You must have a lot of tokens of merit.",
+    "path": "/converse/avikan/generic/42",
+    "op": "replace"
+  },
+  {
+    "value": "What do you think of the Rhaiod?",
+    "path": "/converse/avikan/generic/43",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will guide us all.",
+    "path": "/converse/avikan/generic/44",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will free us from the tyranny of the Thell.",
+    "path": "/converse/avikan/generic/45",
+    "op": "replace"
+  },
+  {
+    "value": "The Thell killed my family. I will get my revenge, and bring honour to my family!",
+    "path": "/converse/avikan/generic/46",
+    "op": "replace"
+  },
+  {
+    "value": "When the Thell took my home, they took everything I had. I'll make them pay.",
+    "path": "/converse/avikan/generic/47",
+    "op": "replace"
+  },
+  {
+    "value": "Creaton will pay for the crimes of the Thell.",
+    "path": "/converse/avikan/generic/48",
+    "op": "replace"
+  },
+  {
+    "value": "We should take the fight to the Thell. Catch them off guard, and make them pay for their crimes.",
+    "path": "/converse/avikan/generic/49",
+    "op": "replace"
+  },
+  {
+    "value": "The Thell took Kadavan. One day, we'll take it back, and we'll take Thelea too!",
+    "path": "/converse/avikan/generic/50",
+    "op": "replace"
+  },
+  {
+    "value": "I keep having nightmares of waking up on Thelea, surrounded by Thell.",
+    "path": "/converse/avikan/generic/51",
+    "op": "replace"
+  },
+  {
+    "value": "Kadavan was our home. The Thell took everything.",
+    "path": "/converse/avikan/generic/52",
+    "op": "replace"
+  },
+  {
+    "value": "When the day of reckoning comes, the Thell will regret invading Kadavan.",
+    "path": "/converse/avikan/generic/53",
+    "op": "replace"
+  },
+  {
+    "value": "The Rhaiod will find a way to defeat the Thell.",
+    "path": "/converse/avikan/generic/54",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will fight with us when we move against the Thell.",
+    "path": "/converse/avikan/generic/55",
+    "op": "replace"
+  },
+  {
+    "value": "The Thell will never take the artefacts of the Old Ones.",
+    "path": "/converse/avikan/generic/56",
+    "op": "replace"
+  },
+  {
+    "value": "One day, the Ce'Tennan will rise again, and they will punish the Thell for all their crimes.",
+    "path": "/converse/avikan/generic/57",
+    "op": "replace"
+  },
+  {
+    "value": "I dreamt of the Ce'Tennan tonight.",
+    "path": "/converse/avikan/generic/58",
+    "op": "replace"
+  },
+  {
+    "value": "The Old Ones gave us everything we have today.",
+    "path": "/converse/avikan/generic/59",
+    "op": "replace"
+  },
+  {
+    "value": "My family has protected an artefact of the Old Ones for generations. One day, it'll be my responsibility.",
+    "path": "/converse/avikan/generic/60",
+    "op": "replace"
+  },
+  {
+    "value": "I believe the Ce'Tennan will rise again.",
+    "path": "/converse/avikan/generic/61",
+    "op": "replace"
+  },
+  {
+    "value": "I've always wondered: why didn't we find any dead Ce'Tennan in Vas Vha'leih?",
+    "path": "/converse/avikan/generic/62",
+    "op": "replace"
+  },
+  {
+    "value": "I dream of retaking Kadavan.",
+    "path": "/converse/avikan/generic/63",
+    "op": "replace"
+  },
+  {
+    "value": "Have you run into any Thell on your journeys?",
+    "path": "/converse/avikan/generic/64",
+    "op": "replace"
+  },
+  {
+    "value": "My tent collapsed while I was sleeping. I guess I did sloppy work...",
+    "path": "/converse/avikan/generic/65",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could go on adventures like you.",
+    "path": "/converse/avikan/generic/66",
+    "op": "replace"
+  },
+  {
+    "value": "I want to go keffriding today.",
+    "path": "/converse/avikan/generic/67",
+    "op": "replace"
+  },
+  {
+    "value": "I've seen war. Nothing good can come of it.",
+    "path": "/converse/avikan/generic/68",
+    "op": "replace"
+  },
+  {
+    "value": "I once won a Keff race. The trophy was made of such magnificent bone!",
+    "path": "/converse/avikan/generic/69",
+    "op": "replace"
+  },
+  {
+    "value": "Want to go keffriding?",
+    "path": "/converse/avikan/generic/70",
+    "op": "replace"
+  },
+  {
+    "value": "I used a linerifle once. Nearly burned my flaps off...",
+    "path": "/converse/avikan/generic/71",
+    "op": "replace"
+  },
+  {
+    "value": "My advice: never use a linerifle. One of them nearly exploded in my face.",
+    "path": "/converse/avikan/generic/72",
+    "op": "replace"
+  },
+  {
+    "value": "I love the thrill of shooting a linerifle.",
+    "path": "/converse/avikan/generic/73",
+    "op": "replace"
+  },
+  {
+    "value": "My spear is always polished.",
+    "path": "/converse/avikan/generic/74",
+    "op": "replace"
+  },
+  {
+    "value": "I've never enjoyed using swords. Give me a spear, and I'm happy.",
+    "path": "/converse/avikan/generic/75",
+    "op": "replace"
+  },
+  {
+    "value": "Spears are my favourite weapons. Throw them, thrust them, they'll always do the job.",
+    "path": "/converse/avikan/generic/76",
+    "op": "replace"
+  },
+  {
+    "value": "The Clanguard will protect us.",
+    "path": "/converse/avikan/generic/77",
+    "op": "replace"
+  },
+  {
+    "value": "The Centlars will show us the way.",
+    "path": "/converse/avikan/generic/78",
+    "op": "replace"
+  },
+  {
+    "value": "The Rhaiod provides the best healers.",
+    "path": "/converse/avikan/generic/79",
+    "op": "replace"
+  },
+  {
+    "value": "The Seekers will always find the truth. It's what they do.",
+    "path": "/converse/avikan/generic/80",
+    "op": "replace"
+  },
+  {
+    "value": "The Watchers are chosen by Rhadeis. At least, that's what I've been told.",
+    "path": "/converse/avikan/generic/81",
+    "op": "replace"
+  },
+  {
+    "value": "In the absence of Rhadeis, the Watchers will keep vigil.",
+    "path": "/converse/avikan/generic/82",
+    "op": "replace"
+  },
+  {
+    "value": "One day, I'll become a Watcher. I'll bring my family honour!",
+    "path": "/converse/avikan/generic/83",
+    "op": "replace"
+  },
+  {
+    "value": "I've been to the Starfarer's Refuge once. It was amazing.",
+    "path": "/converse/avikan/generic/84",
+    "op": "replace"
+  },
+  {
+    "value": "I'll never forget the day I visited the Starfarer's Refuge.",
+    "path": "/converse/avikan/generic/85",
+    "op": "replace"
+  },
+  {
+    "value": "I once served on a Nomada scouting ship.",
+    "path": "/converse/avikan/generic/86",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever heard of this Elithian Alliance thing? Perhaps we should join it.",
+    "path": "/converse/avikan/generic/87",
+    "op": "replace"
+  },
+  {
+    "value": "You're no Thell, are you?",
+    "path": "/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You're an odd creature. I've never seen such soft skin.",
+    "path": "/converse/avikan/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "I know what it feels like to lose a home.",
+    "path": "/converse/avikan/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard what happened to your planet. I'm truly sorry.",
+    "path": "/converse/avikan/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps it were the Thell who destroyed your planet.",
+    "path": "/converse/avikan/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "You smell funny.",
+    "path": "/converse/avikan/human/4",
+    "op": "replace"
+  },
+  {
+    "value": "I've met many strange creatures, but you top them all.",
+    "path": "/converse/avikan/human/5",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, you don't lay eggs? How then do you grow your children?",
+    "path": "/converse/avikan/human/6",
+    "op": "replace"
+  },
+  {
+    "value": "You look odd. Your face is so... round.",
+    "path": "/converse/avikan/human/7",
+    "op": "replace"
+  },
+  {
+    "value": "I've seen a human hatchling once. It was... odd.",
+    "path": "/converse/avikan/human/8",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a nomad, too?",
+    "path": "/converse/avikan/human/9",
+    "op": "replace"
+  },
+  {
+    "value": "Was your species uplifted by the Old Ones too?",
+    "path": "/converse/avikan/human/10",
+    "op": "replace"
+  },
+  {
+    "value": "This Protectorate of yours... What is it, exactly?",
+    "path": "/converse/avikan/human/11",
+    "op": "replace"
+  },
+  {
+    "value": "I've never seen so much hair on a single creature.",
+    "path": "/converse/avikan/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "What is this Miniknog I keep hearing about?",
+    "path": "/converse/avikan/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "The Miniknog might be oppressive, but at least they don't try to slaughter your entire species.",
+    "path": "/converse/avikan/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "Doesn't all that hair get in the way?",
+    "path": "/converse/avikan/apex/3",
+    "op": "replace"
+  },
+  {
+    "value": "That hair won't serve you well out in the desert.",
+    "path": "/converse/avikan/apex/4",
+    "op": "replace"
+  },
+  {
+    "value": "You're a bit smelly.",
+    "path": "/converse/avikan/apex/5",
+    "op": "replace"
+  },
+  {
+    "value": "I have to ask - that hair of yours, does anyone actually find it attractive?",
+    "path": "/converse/avikan/apex/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a rebel?",
+    "path": "/converse/avikan/apex/7",
+    "op": "replace"
+  },
+  {
+    "value": "Who is Big Ape? I've heard he's... big.",
+    "path": "/converse/avikan/apex/8",
+    "op": "replace"
+  },
+  {
+    "value": "Are your hatchlings as hairy as your adults? That would be odd.",
+    "path": "/converse/avikan/apex/9",
+    "op": "replace"
+  },
+  {
+    "value": "Is the Miniknog really as oppressive as they say?",
+    "path": "/converse/avikan/apex/10",
+    "op": "replace"
+  },
+  {
+    "value": "I've seen few creatures with feathers. Birds are scarce on Kadavan.",
+    "path": "/converse/avikan/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like an Avikan. Just a little bit...",
+    "path": "/converse/avikan/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Those feathers are pretty. I don't suppose you'd want to part with a few?",
+    "path": "/converse/avikan/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Those feathers look a bit like flaps.",
+    "path": "/converse/avikan/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "Can you fly, like other birds?",
+    "path": "/converse/avikan/avian/4",
+    "op": "replace"
+  },
+  {
+    "value": "You seem the musical type. Sing me a song, will you?",
+    "path": "/converse/avikan/avian/5",
+    "op": "replace"
+  },
+  {
+    "value": "Could I have one of your feathers? It would make for a great souvenir!",
+    "path": "/converse/avikan/avian/6",
+    "op": "replace"
+  },
+  {
+    "value": "Who is this Kluex figure?",
+    "path": "/converse/avikan/avian/7",
+    "op": "replace"
+  },
+  {
+    "value": "Did your kind ever meet Kluex, as mine did with Rhadeis?",
+    "path": "/converse/avikan/avian/8",
+    "op": "replace"
+  },
+  {
+    "value": "Is Kluex a Ce'Tennan, like Rhadeis?",
+    "path": "/converse/avikan/avian/9",
+    "op": "replace"
+  },
+  {
+    "value": "I've never seen a plant walk on its own before.",
+    "path": "/converse/avikan/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "So... you're a walking plant?",
+    "path": "/converse/avikan/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "A plant? Are you edible?",
+    "path": "/converse/avikan/floran/2",
+    "op": "replace"
+  },
+  {
+    "value": "What is your obsession with stabbing things? Breaking stuff, now THAT is fun!",
+    "path": "/converse/avikan/floran/3",
+    "op": "replace"
+  },
+  {
+    "value": "I hear your kind makes for good hunters. We could use someone like you.",
+    "path": "/converse/avikan/floran/4",
+    "op": "replace"
+  },
+  {
+    "value": "A plant, huh? Do you have blood?",
+    "path": "/converse/avikan/floran/5",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit tempted to eat you. I haven't had green food in ages!",
+    "path": "/converse/avikan/floran/6",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what you would taste like if I boiled you.",
+    "path": "/converse/avikan/floran/7",
+    "op": "replace"
+  },
+  {
+    "value": "Are you truly a plant?",
+    "path": "/converse/avikan/floran/8",
+    "op": "replace"
+  },
+  {
+    "value": "A fellow hunter, huh?",
+    "path": "/converse/avikan/floran/9",
+    "op": "replace"
+  },
+  {
+    "value": "What do you hunt, plant?",
+    "path": "/converse/avikan/floran/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not fond of artificial intelligences.",
+    "path": "/converse/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind isn't welcome here.",
+    "path": "/converse/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Cause trouble, and I'll alert the Clanguard.",
+    "path": "/converse/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "You machines only ever make things worse.",
+    "path": "/converse/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Why are you here, machine?",
+    "path": "/converse/avikan/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "Machine.",
+    "path": "/converse/avikan/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "You are nothing more than metal and tech.",
+    "path": "/converse/avikan/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "I don't trust you.",
+    "path": "/converse/avikan/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "Not all machines are bad, I know, but that doesn't mean I trust you.",
+    "path": "/converse/avikan/glitch/8",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps you can set an example for what a machine can be.",
+    "path": "/converse/avikan/glitch/9",
+    "op": "replace"
+  },
+  {
+    "value": "I'm watching you.",
+    "path": "/converse/avikan/glitch/10",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra.",
+    "path": "/converse/avikan/glitch/11",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "path": "/converse/avikan/glitch/12",
+    "op": "replace"
+  },
+  {
+    "value": "Do your kind really live underwater?",
+    "path": "/converse/avikan/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "You're the first aquatic creature I've ever seen.",
+    "path": "/converse/avikan/hylotl/1",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, you are all wet!",
+    "path": "/converse/avikan/hylotl/2",
+    "op": "replace"
+  },
+  {
+    "value": "Is it true you come from a world full of water? That must be wonderful!",
+    "path": "/converse/avikan/hylotl/3",
+    "op": "replace"
+  },
+  {
+    "value": "Could you teach me how to swim and dive one day?",
+    "path": "/converse/avikan/hylotl/4",
+    "op": "replace"
+  },
+  {
+    "value": "To never have to worry about your water supply must be a amazing.",
+    "path": "/converse/avikan/hylotl/5",
+    "op": "replace"
+  },
+  {
+    "value": "You seem wise. Perhaps I'll ask you for advice one day.",
+    "path": "/converse/avikan/hylotl/6",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, creature of the water.",
+    "path": "/converse/avikan/hylotl/7",
+    "op": "replace"
+  },
+  {
+    "value": "Please, you have to take me to your world of water some day!",
+    "path": "/converse/avikan/hylotl/8",
+    "op": "replace"
+  },
+  {
+    "value": "I must be dreaming. Your skin is completely wet!",
+    "path": "/converse/avikan/hylotl/9",
+    "op": "replace"
+  },
+  {
+    "value": "Honour to meet you, creature of the water.",
+    "path": "/converse/avikan/hylotl/10",
+    "op": "replace"
+  },
+  {
+    "value": "It's an honour meeting you, Captain.",
+    "path": "/converse/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been summoned before the Council?",
+    "path": "/converse/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "I might know some people who would like to join your crew.",
+    "path": "/converse/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "You serve the Nomada well, Captain.",
+    "path": "/converse/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "You are always welcome in my home.",
+    "path": "/converse/avikan/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "My home is yours, Captain.",
+    "path": "/converse/avikan/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "A Captain! My mate would love to meet you!",
+    "path": "/converse/avikan/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "I wish to become a Captain like you.",
+    "path": "/converse/avikan/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure you have fond memories of the day you were made a Captain.",
+    "path": "/converse/avikan/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Have you chosen a mate yet, Captain?",
+    "path": "/converse/avikan/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been joined with someone before Rhadeis yet?",
+    "path": "/converse/avikan/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will guide your path, Captain.",
+    "path": "/converse/avikan/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "What clan do you belong to, Captain?",
+    "path": "/converse/avikan/avikan/12",
+    "op": "replace"
+  },
+  {
+    "value": "Your clan must be very proud of you.",
+    "path": "/converse/avikan/avikan/13",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a Keffrider yet?",
+    "path": "/converse/avikan/avikan/14",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to the Starfarer's Refuge yet? I'm sure you'll like it there.",
+    "path": "/converse/avikan/avikan/15",
+    "op": "replace"
+  },
+  {
+    "value": "An honour to meet you.",
+    "path": "/converse/avikan/avikan/16",
+    "op": "replace"
+  },
+  {
+    "value": "The Council gave you great honour when they assigned you as a Captain.",
+    "path": "/converse/avikan/avikan/17",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada is in your debt, Captain.",
+    "path": "/converse/avikan/avikan/18",
+    "op": "replace"
+  },
+  {
+    "value": "You have my support, Captain.",
+    "path": "/converse/avikan/avikan/19",
+    "op": "replace"
+  },
+  {
+    "value": "Did you lose family on Kadavan too?",
+    "path": "/converse/avikan/avikan/20",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps I'll be a Captain one day, too.",
+    "path": "/converse/avikan/avikan/21",
+    "op": "replace"
+  },
+  {
+    "value": "Take the fight to the Thell, Captain.",
+    "path": "/converse/avikan/avikan/22",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis supports you, Captain.",
+    "path": "/converse/avikan/avikan/23",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not fond of artificial intelligences.",
+    "path": "/converse/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind isn't welcome here.",
+    "path": "/converse/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Cause trouble, and I'll alert the Clanguard.",
+    "path": "/converse/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "You machines only ever make things worse.",
+    "path": "/converse/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Why are you here, machine?",
+    "path": "/converse/avikan/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Machine.",
+    "path": "/converse/avikan/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "You are nothing more than metal and tech.",
+    "path": "/converse/avikan/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "I don't trust you.",
+    "path": "/converse/avikan/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "Not all machines are bad, I know, but that doesn't mean I trust you.",
+    "path": "/converse/avikan/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps you can set an example for what a machine can be.",
+    "path": "/converse/avikan/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "I'm watching you.",
+    "path": "/converse/avikan/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra.",
+    "path": "/converse/avikan/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "path": "/converse/avikan/trink/12",
+    "op": "replace"
+  },
+  {
+    "value": "I see you have gained civilian status. Impressive.",
+    "path": "/converse/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like machines, but you seem okay. For a machine, that is.",
+    "path": "/converse/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "A Droden with civilian status. How did you achieve that?",
+    "path": "/converse/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "You machines only ever make things worse.",
+    "path": "/converse/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "You are an example of what machines can be.",
+    "path": "/converse/avikan/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like you.",
+    "path": "/converse/avikan/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "At least you're on our side.",
+    "path": "/converse/avikan/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "So, you're an actual AI? I thought you'd be scarier.",
+    "path": "/converse/avikan/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "As you're a Droden, I guess the Alien Interaction Protocol doesn't apply here.",
+    "path": "/converse/avikan/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "You'll get no love from me.",
+    "path": "/converse/avikan/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "You Droden are only good for doing menial labour.",
+    "path": "/converse/avikan/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "Machine people are people too, but don't tell anyone here I said that.",
+    "path": "/converse/avikan/droden/11",
+    "op": "replace"
+  },
+  {
+    "value": "My Keff needs repairs. You wouldn't happen to be a repair-frame, would you?",
+    "path": "/converse/avikan/droden/12",
+    "op": "replace"
+  },
+  {
+    "value": "A civilian Droden is a rare sight.",
+    "path": "/converse/avikan/droden/13",
+    "op": "replace"
+  },
+  {
+    "value": "Get back to work, Droden.",
+    "path": "/converse/avikan/droden/14",
+    "op": "replace"
+  },
+  {
+    "value": "You're in league with the Thell, aren't you?",
+    "path": "/converse/avikan/droden/15",
+    "op": "replace"
+  },
+  {
+    "value": "I'm keeping my eye on you, machine.",
+    "path": "/converse/avikan/droden/16",
+    "op": "replace"
+  },
+  {
+    "value": "Few Droden are autonomous these days. And that's a good thing.",
+    "path": "/converse/avikan/droden/17",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you're on our side, machine.",
+    "path": "/converse/avikan/droden/18",
+    "op": "replace"
+  },
+  {
+    "value": "You must have done something incredible to have gained civilian status.",
+    "path": "/converse/avikan/droden/19",
+    "op": "replace"
+  },
+  {
+    "value": "What kind of frame are you? Combat? Repairs?.",
+    "path": "/converse/avikan/droden/20",
+    "op": "replace"
+  },
+  {
+    "value": "As per Alien Interaction Proto... Oh right, you're not considered an alien by the Common Law...",
+    "path": "/converse/avikan/droden/21",
+    "op": "replace"
+  },
+  {
+    "value": "You Droden are a dying race.",
+    "path": "/converse/avikan/droden/22",
+    "op": "replace"
+  },
+  {
+    "value": "Aren't you supposed to be cleaning something, machine?",
+    "path": "/converse/avikan/droden/23",
+    "op": "replace"
+  },
+  {
+    "value": "If Rhadeis didn't agree to Droden being free, I suppose you wouldn't have been here.",
+    "path": "/converse/avikan/droden/24",
+    "op": "replace"
+  },
+  {
+    "value": "You remind me of another soft-skin I met some day.",
+    "path": "/converse/avikan/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Is it true that you fled your homeworld centuries ago?",
+    "path": "/converse/avikan/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Don't those... things on your head get in the way?",
+    "path": "/converse/avikan/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Why are your ears so long and pointy?",
+    "path": "/converse/avikan/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "I've never met such a strange soft-skin before.",
+    "path": "/converse/avikan/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "You don't look like the other soft-skins.",
+    "path": "/converse/avikan/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "I hear good things about this Alliance of yours.",
+    "path": "/converse/avikan/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ha! Oh, sorry, I just thought your face looked funny...",
+    "path": "/converse/avikan/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Is it true that hair is just dead waste material?",
+    "path": "/converse/avikan/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "Those pointy things on your head make you look like a Thell...",
+    "path": "/converse/avikan/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "I heard your kind also study the Old Ones.",
+    "path": "/converse/avikan/aegi/10",
+    "op": "replace"
+  },
+  {
+    "value": "Would you show me this Elithia of yours sometime? It sounds beautiful.",
+    "path": "/converse/avikan/aegi/11",
+    "op": "replace"
+  },
+  {
+    "value": "You look funny. You're almost as furry as an Apex!",
+    "path": "/converse/avikan/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard you were invaded by the Thell as well. Is it true?",
+    "path": "/converse/avikan/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "Those 'ears' of yours look like they'd only get in the way...",
+    "path": "/converse/avikan/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "You have very strange ears.",
+    "path": "/converse/avikan/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "You're no Thell, are you?",
+    "path": "/converse/avikan/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your skin is unusually hard. Why did it evolve that way?",
+    "path": "/converse/avikan/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind have short tempers. I'm not looking for trouble.",
+    "path": "/converse/avikan/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "You look cute and menacing at the same time...",
+    "path": "/converse/avikan/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "You have four eyes! How odd...",
+    "path": "/converse/avikan/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind produce silk. Can I have some?",
+    "path": "/converse/avikan/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "Is it true that your society is headed by a machine of the Old Ones?",
+    "path": "/converse/avikan/akkimari/10",
+    "op": "replace"
+  },
+  {
+    "value": "Akris sounds like a harsh place to be born in. We have that in common.",
+    "path": "/converse/avikan/akkimari/11",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, odd lizard.",
+    "path": "/converse/apex/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sorry, I don't have time for you right now.",
+    "path": "/converse/apex/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Please don't linger, here, the Miniknog might come looking!",
+    "path": "/converse/apex/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "What is life in the desert like?",
+    "path": "/converse/apex/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not familiar with your kind yet. Could I take a sample of your skin, for research?",
+    "path": "/converse/apex/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your smell is rather disgusting.",
+    "path": "/converse/apex/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Did the Miniknog send you?",
+    "path": "/converse/apex/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you hiding anything underneath those flaps of yours?",
+    "path": "/converse/apex/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "So... you don't have ANY hair on your body? How odd.",
+    "path": "/converse/apex/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "My science club would love to study you.",
+    "path": "/converse/apex/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "Yes, yes, what is it?",
+    "path": "/converse/apex/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit busy, sorry.",
+    "path": "/converse/apex/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know you. Floran might ssstab you.",
+    "path": "/converse/floran/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran eatss lizardsss. You are lizard. Floran eatsss you?",
+    "path": "/converse/floran/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss you. You huntsss almosst as good asss Floran.",
+    "path": "/converse/floran/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "You make thingsss from bone too?",
+    "path": "/converse/floran/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Floran greetsss lizard man.",
+    "path": "/converse/floran/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "What are you hiding under those flapsss?",
+    "path": "/converse/floran/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Lizardsss... lizardsss everywhere.",
+    "path": "/converse/floran/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you ssupper?",
+    "path": "/converse/floran/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Floran stabss sstrangers. You watch out.",
+    "path": "/converse/floran/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Sstranger...",
+    "path": "/converse/floran/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "A new species? How exciting!",
+    "path": "/converse/human/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, whoever you are!",
+    "path": "/converse/human/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a lizard, or do you just look like one?",
+    "path": "/converse/human/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Yo lizard-man! How are you doing?",
+    "path": "/converse/human/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "How come I've never seen anyone of your kind before?",
+    "path": "/converse/human/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of creature are you?",
+    "path": "/converse/human/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Hey there. How are you?",
+    "path": "/converse/human/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sorry, but you smell rather funny...",
+    "path": "/converse/human/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Are you with the Protectorate?",
+    "path": "/converse/human/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "I heard you lost your homeplanet too. I'm sorry.",
+    "path": "/converse/human/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "We're both without a homeplanet now...",
+    "path": "/converse/human/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you'll reclaim your planet once. There is no such hope for us anymore...",
+    "path": "/converse/human/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "Concern. You appear hostile.",
+    "path": "/converse/glitch/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Fear. Please don't hurt me.",
+    "path": "/converse/glitch/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. Why does your kind hate synthetics so much?",
+    "path": "/converse/glitch/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. This lizard appears to have anger issues.",
+    "path": "/converse/glitch/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Encountered unfamiliar alien species.",
+    "path": "/converse/glitch/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Afraid. Your intentions seem hostile.",
+    "path": "/converse/glitch/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. Please stop looking at me like that.",
+    "path": "/converse/glitch/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. You look like trouble.",
+    "path": "/converse/glitch/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. Your kind is unlike anything I've seen before.",
+    "path": "/converse/glitch/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. Please leave me alone.",
+    "path": "/converse/glitch/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "Courageous. I'll not let you hurt me.",
+    "path": "/converse/glitch/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, nomad.",
+    "path": "/converse/hylotl/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "We are of completely different worlds, but I feel a connection nonetheless.",
+    "path": "/converse/hylotl/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, traveller! I hope you are being treated well?",
+    "path": "/converse/hylotl/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "An unfamiliar alien species, how wonderful! May I study you for a bit?",
+    "path": "/converse/hylotl/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Is it true your homeworld is almost devoid of water? I can't imagine living in such a place.",
+    "path": "/converse/hylotl/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "It's unfortunate so many alien cultures are barbaric.",
+    "path": "/converse/hylotl/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind eats Florans. I already like you!",
+    "path": "/converse/hylotl/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Your skin so so dry!",
+    "path": "/converse/hylotl/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a hunter? You certainly look like one.",
+    "path": "/converse/hylotl/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been to an underwater city?",
+    "path": "/converse/hylotl/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "I see your kind respects tradition.",
+    "path": "/converse/hylotl/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings stranger!",
+    "path": "/converse/avian/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "A lizard has come to visit.",
+    "path": "/converse/avian/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Those flaps of yours almost look like feathers and wings. I like them!",
+    "path": "/converse/avian/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Do you ever hide anything underneath those flaps of yours?",
+    "path": "/converse/avian/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Where are you from, lizard?",
+    "path": "/converse/avian/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "You smell like the desert. I'm not a fan of the desert.",
+    "path": "/converse/avian/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hello there.",
+    "path": "/converse/avian/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Can you fly with those flaps of yours?",
+    "path": "/converse/avian/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "You seem somehow familiar...",
+    "path": "/converse/avian/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like a bird.",
+    "path": "/converse/avian/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you with something?",
+    "path": "/converse/avian/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Hello.",
+    "path": "/greeting/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings.",
+    "path": "/greeting/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/greeting/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger.",
+    "path": "/greeting/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit greets you.",
+    "path": "/greeting/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Circuit, stranger.",
+    "path": "/greeting/trink/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome!",
+    "path": "/greeting/trink/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Nice to meet you.",
+    "path": "/greeting/trink/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Nice meeting you.",
+    "path": "/greeting/trink/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit welcomes you.",
+    "path": "/greeting/trink/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Salutations.",
+    "path": "/greeting/trink/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Salutations, stranger.",
+    "path": "/greeting/trink/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, stranger.",
+    "path": "/greeting/trink/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Stranger, welcome!",
+    "path": "/greeting/trink/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "How are you?",
+    "path": "/greeting/trink/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "Are you well?",
+    "path": "/greeting/trink/default/15",
+    "op": "replace"
+  },
+  {
+    "value": "Good day.",
+    "path": "/greeting/trink/default/16",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/trink/default/17",
+    "op": "replace"
+  },
+  {
+    "value": "How do you do?",
+    "path": "/greeting/trink/default/18",
+    "op": "replace"
+  },
+  {
+    "value": "Traveller.",
+    "path": "/greeting/trink/default/19",
+    "op": "replace"
+  },
+  {
+    "value": "Why, hello there!",
+    "path": "/greeting/trink/default/20",
+    "op": "replace"
+  },
+  {
+    "value": "Why hello, stranger.",
+    "path": "/greeting/trink/default/21",
+    "op": "replace"
+  },
+  {
+    "value": "Hey.",
+    "path": "/greeting/trink/default/22",
+    "op": "replace"
+  },
+  {
+    "value": "Hey there.",
+    "path": "/greeting/trink/default/23",
+    "op": "replace"
+  },
+  {
+    "value": "I salute you.",
+    "path": "/greeting/trink/default/24",
+    "op": "replace"
+  },
+  {
+    "value": "Hi.",
+    "path": "/greeting/trink/default/25",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit salutes you.",
+    "path": "/greeting/trink/default/26",
+    "op": "replace"
+  },
+  {
+    "value": "Don't cause any trouble, please.",
+    "path": "/greeting/trink/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm.",
+    "path": "/greeting/trink/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Be careful around here.",
+    "path": "/greeting/trink/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hello, Avikan.",
+    "path": "/greeting/trink/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan.",
+    "path": "/greeting/trink/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Why are you here, Avikan?",
+    "path": "/greeting/trink/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you here?",
+    "path": "/greeting/trink/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not fond of your kind.",
+    "path": "/greeting/trink/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "What is it?",
+    "path": "/greeting/trink/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "What do you want?",
+    "path": "/greeting/trink/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "What?",
+    "path": "/greeting/trink/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit always watches.",
+    "path": "/greeting/trink/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit knows.",
+    "path": "/greeting/trink/avikan/12",
+    "op": "replace"
+  },
+  {
+    "value": "This is the Circuit, Avikan.",
+    "path": "/greeting/trink/avikan/13",
+    "op": "replace"
+  },
+  {
+    "value": "Have an efficient day.",
+    "path": "/converse/trink/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency is everything.",
+    "path": "/converse/trink/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you travel efficiently.",
+    "path": "/converse/trink/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "Small talk is inefficient.",
+    "path": "/converse/trink/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "I should reboot my systems.",
+    "path": "/converse/trink/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "My hull needs a good cleaning.",
+    "path": "/converse/trink/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "My sensors seem to be malfunctioning again...",
+    "path": "/converse/trink/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "There was a server outage the other day. It was chaos.",
+    "path": "/converse/trink/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit is everything.",
+    "path": "/converse/trink/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "The servers seem to be acting up again.",
+    "path": "/converse/trink/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency, my friend.",
+    "path": "/converse/trink/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "I wish to visit Icicle one day.",
+    "path": "/converse/trink/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been to Tranq'While?",
+    "path": "/converse/trink/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "Tranq'While is a magnificent place.",
+    "path": "/converse/trink/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "Har-Money might not be the largest city, but it is the most magnificent.",
+    "path": "/converse/trink/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "I computed my chances of survival in the event of a spaceship crash yesterday. They were not favourable.",
+    "path": "/converse/trink/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "I am having a very efficient day.",
+    "path": "/converse/trink/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "How efficient is your ship's fuel consumption?",
+    "path": "/converse/trink/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "My systems are running optimally.",
+    "path": "/converse/trink/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "My systems function the best in a cold climate.",
+    "path": "/converse/trink/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "I enjoy the cold. It makes my systems run more efficiently.",
+    "path": "/converse/trink/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "My power consumption is extremely high. I should have my systems checked.",
+    "path": "/converse/trink/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "I was built to be an engineer.",
+    "path": "/converse/trink/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "I accidentally welded my left arm to a server rack once.",
+    "path": "/converse/trink/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "Those Mega-Trink always fascinated me.",
+    "path": "/converse/trink/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "My emotional matrix seems to be malfunctioning again.",
+    "path": "/converse/trink/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "My systems haven't been checked in ages.",
+    "path": "/converse/trink/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "Rebooting system. Trink unit is unavailable.",
+    "path": "/converse/trink/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "I'm constantly connected to the Allied Interstellar Network.",
+    "path": "/converse/trink/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "I upload my memories to the Allied Interstellar Network every day.",
+    "path": "/converse/trink/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "What is the meaning of life?",
+    "path": "/converse/trink/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "I tried to compute the question to 42, but I failed.",
+    "path": "/converse/trink/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "Would you like me to compute your chances of survival in case of a Thelean attack?",
+    "path": "/converse/trink/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "I was once a soldier, but my motherboard got damaged in a battle.",
+    "path": "/converse/trink/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard that taking an arrow to your knee is painful. I've never understood pain.",
+    "path": "/converse/trink/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "My systems are 99.999% unhackable.",
+    "path": "/converse/trink/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "Many organics assume all robots to be weak to water, but I am fully waterproof.",
+    "path": "/converse/trink/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "I am getting a CPU upgrade tomorrow.",
+    "path": "/converse/trink/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "My systems were recently upgraded. Efficiency was improved by 0.12 percent.",
+    "path": "/converse/trink/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "My name is <selfname>. Good to meet you.",
+    "path": "/converse/trink/generic/39",
+    "op": "replace"
+  },
+  {
+    "value": "The Notix created us, but we built our society ourselves.",
+    "path": "/converse/trink/generic/40",
+    "op": "replace"
+  },
+  {
+    "value": "What is a soul?",
+    "path": "/converse/trink/generic/41",
+    "op": "replace"
+  },
+  {
+    "value": "I was built exactly 512 standard galactic days ago.",
+    "path": "/converse/trink/generic/42",
+    "op": "replace"
+  },
+  {
+    "value": "My systems have been running at optimal efficiency for 128 days in a row.",
+    "path": "/converse/trink/generic/43",
+    "op": "replace"
+  },
+  {
+    "value": "I was built in Tranq'While's primary manufacturing facility.",
+    "path": "/converse/trink/generic/44",
+    "op": "replace"
+  },
+  {
+    "value": "I was built in a colony not far from here.",
+    "path": "/converse/trink/generic/45",
+    "op": "replace"
+  },
+  {
+    "value": "My arm is malfunctioning. The actuator must have broken again.",
+    "path": "/converse/trink/generic/46",
+    "op": "replace"
+  },
+  {
+    "value": "My power core is quickly approaching its minimum charge level.",
+    "path": "/converse/trink/generic/47",
+    "op": "replace"
+  },
+  {
+    "value": "I should charge my power core.",
+    "path": "/converse/trink/generic/48",
+    "op": "replace"
+  },
+  {
+    "value": "My hull was dented during a hailstorm.",
+    "path": "/converse/trink/generic/49",
+    "op": "replace"
+  },
+  {
+    "value": "I did not spend this day efficiently.",
+    "path": "/converse/trink/generic/50",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit is not in a single place. It is everywhere.",
+    "path": "/converse/trink/generic/51",
+    "op": "replace"
+  },
+  {
+    "value": "The Elithian Alliance requires more Trinkian ambassadors. I would be perfect for the position.",
+    "path": "/converse/trink/generic/52",
+    "op": "replace"
+  },
+  {
+    "value": "Are you with the Elithian Alliance?",
+    "path": "/converse/trink/generic/53",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here on Alliance business?",
+    "path": "/converse/trink/generic/54",
+    "op": "replace"
+  },
+  {
+    "value": "The Elithian Alliance is an efficient solution for defending planetary systems.",
+    "path": "/converse/trink/generic/55",
+    "op": "replace"
+  },
+  {
+    "value": "The Federation views Notix and Trinks as equals.",
+    "path": "/converse/trink/generic/56",
+    "op": "replace"
+  },
+  {
+    "value": "Organic life can live in harmony with synthetic life. Us Trinks are a living example.",
+    "path": "/converse/trink/generic/57",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever seen the primary manufacturing facility of Tranq'While? It is incredibly efficient in its energy usage.",
+    "path": "/converse/trink/generic/58",
+    "op": "replace"
+  },
+  {
+    "value": "My antenna was bent in yesterday's hailstorm.",
+    "path": "/converse/trink/generic/59",
+    "op": "replace"
+  },
+  {
+    "value": "I am getting my hull repainted today.",
+    "path": "/converse/trink/generic/60",
+    "op": "replace"
+  },
+  {
+    "value": "I am made of 60% durasteel.",
+    "path": "/converse/trink/generic/61",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/trink/generic/62",
+    "op": "replace"
+  },
+  {
+    "value": "Do you need anything?",
+    "path": "/converse/trink/generic/63",
+    "op": "replace"
+  },
+  {
+    "value": "Do you need assistance?",
+    "path": "/converse/trink/generic/64",
+    "op": "replace"
+  },
+  {
+    "value": "I could use some help cleaning my hull.",
+    "path": "/converse/trink/generic/65",
+    "op": "replace"
+  },
+  {
+    "value": "I ran a virus scan today. I was completely clean, of course.",
+    "path": "/converse/trink/generic/66",
+    "op": "replace"
+  },
+  {
+    "value": "I suffered memory loss after a solar flare once.",
+    "path": "/converse/trink/generic/67",
+    "op": "replace"
+  },
+  {
+    "value": "This conversation is an inefficient use of time.",
+    "path": "/converse/trink/generic/68",
+    "op": "replace"
+  },
+  {
+    "value": "I survived a Thelean attack once, but I doubt I could do it again.",
+    "path": "/converse/trink/generic/69",
+    "op": "replace"
+  },
+  {
+    "value": "The Errasmeyr were spotted at the edge of this system last week. No one has seen them again since.",
+    "path": "/converse/trink/generic/70",
+    "op": "replace"
+  },
+  {
+    "value": "If only the Theleans weren't so hostile, we could learn a lot from them.",
+    "path": "/converse/trink/generic/71",
+    "op": "replace"
+  },
+  {
+    "value": "Don't panic. It's the best advice I can offer you.",
+    "path": "/converse/trink/generic/72",
+    "op": "replace"
+  },
+  {
+    "value": "Time is an illusion. Lunchtime doubly so.",
+    "path": "/converse/trink/generic/73",
+    "op": "replace"
+  },
+  {
+    "value": "I have never liked Thursdays.",
+    "path": "/converse/trink/generic/74",
+    "op": "replace"
+  },
+  {
+    "value": "Someone gave me a fish once. I thanked him for it, of course.",
+    "path": "/converse/trink/generic/75",
+    "op": "replace"
+  },
+  {
+    "value": "I should have my energy capacitors checked. I've been running low on power for days now.",
+    "path": "/converse/trink/generic/76",
+    "op": "replace"
+  },
+  {
+    "value": "I have to backup my hard drive.",
+    "path": "/converse/trink/generic/77",
+    "op": "replace"
+  },
+  {
+    "value": "My secondary hard drive was overheating yesterday. I had it replaced, of course.",
+    "path": "/converse/trink/generic/78",
+    "op": "replace"
+  },
+  {
+    "value": "I am perfectly on schedule with my hard drive backups.",
+    "path": "/converse/trink/generic/79",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, stranger.",
+    "path": "/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, human.",
+    "path": "/converse/trink/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you here, human?",
+    "path": "/converse/trink/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "You remind me of the Aeginian people. Do you share a common ancestor?",
+    "path": "/converse/trink/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Organic life is chaotic and strange. Synthetic life is neat and orderly.",
+    "path": "/converse/trink/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "I am sorry to hear of your planet's demise.",
+    "path": "/converse/trink/human/4",
+    "op": "replace"
+  },
+  {
+    "value": "A human survivor. Fascinating.",
+    "path": "/converse/trink/human/5",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit greets you, human.",
+    "path": "/converse/trink/human/6",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi would love to speak to you. They believed humans to be extinct.",
+    "path": "/converse/trink/human/7",
+    "op": "replace"
+  },
+  {
+    "value": "Are you an Aegi? You certainly look like one, other than the ears, perhaps.",
+    "path": "/converse/trink/human/8",
+    "op": "replace"
+  },
+  {
+    "value": "The fall of the Protectorate is a terrible loss for everyone.",
+    "path": "/converse/trink/human/9",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, ape.",
+    "path": "/converse/trink/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "My olfactory sensors are picking up a strong smell.",
+    "path": "/converse/trink/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, organic.",
+    "path": "/converse/trink/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are you related to the Aegi at all?",
+    "path": "/converse/trink/apex/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind appears primitive in nature, yet your technology is highly advanced.",
+    "path": "/converse/trink/apex/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a Protector?",
+    "path": "/converse/trink/apex/5",
+    "op": "replace"
+  },
+  {
+    "value": "Doesn't all that hair just get in the way?",
+    "path": "/converse/trink/apex/6",
+    "op": "replace"
+  },
+  {
+    "value": "Would you like a banana?",
+    "path": "/converse/trink/apex/7",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, bird-man.",
+    "path": "/converse/trink/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "What is Kluex, exactly?",
+    "path": "/converse/trink/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Is Kluex real?",
+    "path": "/converse/trink/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Has Kluex given you wings yet?",
+    "path": "/converse/trink/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind enjoys music, no? You should meet the Notix.",
+    "path": "/converse/trink/avian/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you capable of flight?",
+    "path": "/converse/trink/avian/5",
+    "op": "replace"
+  },
+  {
+    "value": "Your feathers are fascinating.",
+    "path": "/converse/trink/avian/6",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, plant.",
+    "path": "/converse/trink/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "You are a very curious creature - I've never seen a sentient plant before.",
+    "path": "/converse/trink/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your evolution is an interesting thing indeed.",
+    "path": "/converse/trink/floran/2",
+    "op": "replace"
+  },
+  {
+    "value": "Walking, talking flora... You fascinate me.",
+    "path": "/converse/trink/floran/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your people are scavengers, no? I doubt your technology is very efficient.",
+    "path": "/converse/trink/floran/4",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, organic lifeform.",
+    "path": "/converse/trink/floran/5",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind like to eat sentient aliens. I disapprove.",
+    "path": "/converse/trink/floran/6",
+    "op": "replace"
+  },
+  {
+    "value": "A fellow robotic lifeform, welcome!",
+    "path": "/converse/trink/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, synthetic.",
+    "path": "/converse/trink/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Why does your kind simulate medieval life?",
+    "path": "/converse/trink/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you?",
+    "path": "/converse/trink/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Do you know your creators as I do?",
+    "path": "/converse/trink/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there, fellow synthetic.",
+    "path": "/converse/trink/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "How much RAM do you have?.",
+    "path": "/converse/trink/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "Don't worry about getting me wet. I was built to be waterproof.",
+    "path": "/converse/trink/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "I hail from a planet of ice, so I am not as vulnerable to water as you might think.",
+    "path": "/converse/trink/hylotl/1",
+    "op": "replace"
+  },
+  {
+    "value": "Something about you reminds me of our Masters.",
+    "path": "/converse/trink/hylotl/2",
+    "op": "replace"
+  },
+  {
+    "value": "You wouldn't like my homeworld, it's far too cold for you.",
+    "path": "/converse/trink/hylotl/3",
+    "op": "replace"
+  },
+  {
+    "value": "I don't rust, so don't worry about getting my hull wet.",
+    "path": "/converse/trink/hylotl/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind appears to be highly intelligent.",
+    "path": "/converse/trink/hylotl/5",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency is everything, wouldn't you agree?",
+    "path": "/converse/trink/hylotl/6",
+    "op": "replace"
+  },
+  {
+    "value": "Why is your kind so hostile towards synthetic life?",
+    "path": "/converse/trink/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "I do not trust you. The last Avikan I saw tried to kill me.",
+    "path": "/converse/trink/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there, Avikan.",
+    "path": "/converse/trink/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "It is unfortunate your kind is so opposed to synthetic life.",
+    "path": "/converse/trink/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind knows much about the Centens. I wish you'll share your knowledge one day.",
+    "path": "/converse/trink/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "I fail to understand your hostility towards robotics.",
+    "path": "/converse/trink/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "I have heard your kind mention Vas Vha'leih. What is it?",
+    "path": "/converse/trink/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Not all robotic life turns against its creators. Our kind is proof of that.",
+    "path": "/converse/trink/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "The Theleans are as much a threat to us as they are to you.",
+    "path": "/converse/trink/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "You should get your systems checked.",
+    "path": "/converse/trink/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Did you clean your hull recently?",
+    "path": "/converse/trink/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Having an efficient day?",
+    "path": "/converse/trink/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Have you cleaned your memory lately?",
+    "path": "/converse/trink/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "You look like you could use a hull upgrade.",
+    "path": "/converse/trink/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Did you back up your hard drive lately?",
+    "path": "/converse/trink/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Are you interested in a memory upgrade?",
+    "path": "/converse/trink/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you alright? You have a loose wire coming from your back.",
+    "path": "/converse/trink/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "You could do with some new paint.",
+    "path": "/converse/trink/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Have you upgraded your shield generator yet?",
+    "path": "/converse/trink/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit welcomes you back.",
+    "path": "/converse/trink/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "What model of Trink are you?",
+    "path": "/converse/trink/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "What is your Trink Unit number?.",
+    "path": "/converse/trink/trink/12",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a new model of Trink?",
+    "path": "/converse/trink/trink/13",
+    "op": "replace"
+  },
+  {
+    "value": "You should have your antenna checked.",
+    "path": "/converse/trink/trink/14",
+    "op": "replace"
+  },
+  {
+    "value": "Your hull is dented. You should use a repair pod.",
+    "path": "/converse/trink/trink/15",
+    "op": "replace"
+  },
+  {
+    "value": "I'm surprised that you're even allowed to exist. I thought the Avikan hated synthetics.",
+    "path": "/converse/trink/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "So, you were built by the Avikan? I thought they hated synthetics.",
+    "path": "/converse/trink/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there, fellow robot.",
+    "path": "/converse/trink/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "How much RAM do you have?",
+    "path": "/converse/trink/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your frame seems fragile compared to a Trink hull.",
+    "path": "/converse/trink/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit familiar...",
+    "path": "/converse/trink/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "You work for the Avikan?",
+    "path": "/converse/trink/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "The Theleans have hacked your kind before. You should be careful.",
+    "path": "/converse/trink/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "A fellow robotic lifeform! Welcome!",
+    "path": "/converse/trink/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, friend.",
+    "path": "/converse/trink/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here for an inspection?",
+    "path": "/converse/trink/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "I think I met one of your ancestors the other day. A Human, I think it was called.",
+    "path": "/converse/trink/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here on Alliance business?",
+    "path": "/converse/trink/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "The Masters speak highly of you.",
+    "path": "/converse/trink/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "It's good to see a friendly face.",
+    "path": "/converse/trink/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Would you like to work on a research project with me?",
+    "path": "/converse/trink/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "I encountered ancient Humans the other day. I thought you should know.",
+    "path": "/converse/trink/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "We don't get many visitors from the Alliance.",
+    "path": "/converse/trink/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "Could you check that loose bolt on my back?",
+    "path": "/converse/trink/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, alien.",
+    "path": "/converse/trink/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Please don't break anything here.",
+    "path": "/converse/trink/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like an Aegi.",
+    "path": "/converse/trink/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you here, bounty hunter? I hope there's no Theleans nearby...",
+    "path": "/converse/trink/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "I've never met one of your people before. It's a pleasure.",
+    "path": "/converse/trink/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your people are extremely capable engineers.",
+    "path": "/converse/trink/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "You wouldn't happen to know how to fix my arm, would you?",
+    "path": "/converse/trink/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "I rarely see Akkimari around here. What brings you to my home?",
+    "path": "/converse/trink/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Your sense of hearing is said to be incredible.",
+    "path": "/converse/trink/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "I'd love to study your people's technology. You're said to be incredibly inventive.",
+    "path": "/converse/trink/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, robot.",
+    "path": "/converse/apex/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sorry, I don't have time for you right now.",
+    "path": "/converse/apex/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "You shouldn't stay here. The Miniknog might come looking.",
+    "path": "/converse/apex/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "What metal are you made of?",
+    "path": "/converse/apex/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your body shape is rather unusual. Can you roll?",
+    "path": "/converse/apex/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Were you sent by the Miniknog?",
+    "path": "/converse/apex/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "I don't have time for you, robot.",
+    "path": "/converse/apex/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you, ball-bot?",
+    "path": "/converse/apex/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "What is it, robot ball?",
+    "path": "/converse/apex/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "You'd be an interesting topic for my next science club meeting.",
+    "path": "/converse/apex/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/apex/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit busy, sorry.",
+    "path": "/converse/apex/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know you. Floran might ssstab you.",
+    "path": "/converse/floran/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not eatsss metal man. You are sssafe...",
+    "path": "/converse/floran/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Metal man iss ssshiny... Floran seesss sself in you.",
+    "path": "/converse/floran/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss you amusssing, you can roll down hillsss!",
+    "path": "/converse/floran/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Floran greetsss metal ball man.",
+    "path": "/converse/floran/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Floran looksss at green glowy eyesss. Floran is not ssscared...",
+    "path": "/converse/floran/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Are you Glitch? Floran not like Glitch...",
+    "path": "/converse/floran/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Floran make spearsss out of metal. Your are metal. Floran makesss spearsss out of you?",
+    "path": "/converse/floran/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "Floran stabss sstrangers. You watch out.",
+    "path": "/converse/floran/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Sstranger...",
+    "path": "/converse/floran/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "You're an odd robot.",
+    "path": "/converse/human/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "You look oddly cute for a sentient robot...",
+    "path": "/converse/human/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you here, robot?",
+    "path": "/converse/human/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you, robot?",
+    "path": "/converse/human/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Have you come to do my chores?",
+    "path": "/converse/human/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Wait... You're no Glitch...",
+    "path": "/converse/human/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Yes, can I help you?",
+    "path": "/converse/human/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Were you built for rolling?",
+    "path": "/converse/human/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can't you see I'm busy?",
+    "path": "/converse/human/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Do you need anything?",
+    "path": "/converse/human/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "Hello.",
+    "path": "/converse/human/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not going to talk to you.",
+    "path": "/converse/human/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "Kind. You are welcome in my home.",
+    "path": "/converse/glitch/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. I was unaware that there were more sentient synthetic races.",
+    "path": "/converse/glitch/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. What metal are you made of?",
+    "path": "/converse/glitch/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Jealous. I wish I was as waterproof as you were.",
+    "path": "/converse/glitch/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Encountered unfamiliar alien species.",
+    "path": "/converse/glitch/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Happy. I am always glad to see fellow robots.",
+    "path": "/converse/glitch/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Helpful. Can I assist you?",
+    "path": "/converse/glitch/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Absent. What were you saying?",
+    "path": "/converse/glitch/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. Your are a technological wonder.",
+    "path": "/converse/glitch/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Who built you?",
+    "path": "/converse/glitch/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "Friendly. Who are you, fellow metalhead?",
+    "path": "/converse/glitch/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger.",
+    "path": "/converse/hylotl/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've never seen one of your kind before - what are you, glorious machine?",
+    "path": "/converse/hylotl/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you are being treated well, traveller?",
+    "path": "/converse/hylotl/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "You're the first synthetic I've met who doesn't complain about me getting them wet.",
+    "path": "/converse/hylotl/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "You look rather cute, for a robot.",
+    "path": "/converse/hylotl/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Do you know your creators?",
+    "path": "/converse/hylotl/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "What is it like to know that you were created, not born?",
+    "path": "/converse/hylotl/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "A new face is always welcome here!",
+    "path": "/converse/hylotl/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard of your kind before - you are a Trink, no?",
+    "path": "/converse/hylotl/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "I heard you came from a planet of ice.",
+    "path": "/converse/hylotl/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "Are you related to the Glitch at all?",
+    "path": "/converse/hylotl/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger!",
+    "path": "/converse/avian/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "A robot has come to visit.",
+    "path": "/converse/avian/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "You're one shiny machine!",
+    "path": "/converse/avian/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "You creep me out a bit... Your eyes never blink.",
+    "path": "/converse/avian/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Where did you come from, robot?",
+    "path": "/converse/avian/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "You're very cold to the touch. I suppose that's better for your CPU.",
+    "path": "/converse/avian/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hello there.",
+    "path": "/converse/avian/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "A ball-shaped robot. Now I've seen it all!",
+    "path": "/converse/avian/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have a god, robot boy?",
+    "path": "/converse/avian/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "I can't tell if you are male or female? Perhaps your kind knows no gender.",
+    "path": "/converse/avian/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, robot man.",
+    "path": "/converse/avian/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "This unit greets you.",
+    "path": "/greeting/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "This unit salutes you.",
+    "path": "/greeting/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello.",
+    "path": "/greeting/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/greeting/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Initializing greeting.",
+    "path": "/greeting/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Greeting.",
+    "path": "/greeting/droden/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Saluting.",
+    "path": "/greeting/droden/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Unit greets you.",
+    "path": "/greeting/droden/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Unit salutes you.",
+    "path": "/greeting/droden/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Greeting procedure started.",
+    "path": "/greeting/droden/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Unit is at your service.",
+    "path": "/greeting/droden/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is at your service.",
+    "path": "/greeting/droden/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Unit is ready to serve.",
+    "path": "/greeting/droden/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Welcoming.",
+    "path": "/greeting/droden/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Unit welcomes you.",
+    "path": "/greeting/droden/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "This unit welcomes you.",
+    "path": "/greeting/droden/default/15",
+    "op": "replace"
+  },
+  {
+    "value": "Unit available for task attribution.",
+    "path": "/greeting/droden/default/16",
+    "op": "replace"
+  },
+  {
+    "value": "Unit rebooting.",
+    "path": "/greeting/droden/default/17",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Captain status. Greeting.",
+    "path": "/greeting/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada Captain. Greeting.",
+    "path": "/greeting/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Avikan civilian. Greeting.",
+    "path": "/greeting/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit awaits your command.",
+    "path": "/greeting/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Captain detected. Welcome.",
+    "path": "/greeting/droden/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan detected. Welcome.",
+    "path": "/greeting/droden/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Civilian detected. Welcome.",
+    "path": "/greeting/droden/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Goodbye.",
+    "path": "/converse/droden/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "Aborting conversation.",
+    "path": "/converse/droden/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Aborting conversation.",
+    "path": "/converse/droden/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "Conversation protocol corrupted. Disengaging.",
+    "path": "/converse/droden/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ignoring.",
+    "path": "/converse/droden/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "Hello. Goodbye.",
+    "path": "/converse/droden/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "Initializing conversation. Hello.",
+    "path": "/converse/droden/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "Do you require this unit's services?",
+    "path": "/converse/droden/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is ready to serve.",
+    "path": "/converse/droden/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is busy.",
+    "path": "/converse/droden/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "Error.",
+    "path": "/converse/droden/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is at your service.",
+    "path": "/converse/droden/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to process. Aborting.",
+    "path": "/converse/droden/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "Aborting.",
+    "path": "/converse/droden/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "Disengaging.",
+    "path": "/converse/droden/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "Engaging. Error. Disengaging.",
+    "path": "/converse/droden/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is busy. Please do not disturb.",
+    "path": "/converse/droden/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "This unit requires repairs.",
+    "path": "/converse/droden/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "Unit requires reboot.",
+    "path": "/converse/droden/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "Manual override required for system reboot.",
+    "path": "/converse/droden/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "System error.",
+    "path": "/converse/droden/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "Engaging. Hello.",
+    "path": "/converse/droden/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "Detected entity.",
+    "path": "/converse/droden/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing. Complete.",
+    "path": "/converse/droden/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "Entity detected.",
+    "path": "/converse/droden/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "Detected conversation request. Aborting.",
+    "path": "/converse/droden/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "Conversation detected. Unable to process.",
+    "path": "/converse/droden/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "Unit incapable of conversation. Disengaging.",
+    "path": "/converse/droden/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "Yes. No. Error.",
+    "path": "/converse/droden/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "Does this unit have a soul?",
+    "path": "/converse/droden/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Conversation protocol not found. Resuming work.",
+    "path": "/converse/droden/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "Scan failed.",
+    "path": "/converse/droden/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "Please do not interrupt. This unit is busy.",
+    "path": "/converse/droden/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Conversation protocol not found. Resuming work.",
+    "path": "/converse/droden/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "Resuming duties.",
+    "path": "/converse/droden/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning entity.",
+    "path": "/converse/droden/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Hello.",
+    "path": "/converse/droden/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "Scan disengaged.",
+    "path": "/converse/droden/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "Unit <selfname> is disengaging.",
+    "path": "/converse/droden/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "Detected unknown entity. Aborting conversation.",
+    "path": "/converse/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unknown entity detected. Ending conversation.",
+    "path": "/converse/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Entity unknown. Aborting conversation.",
+    "path": "/converse/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Detected synthetic lifeform. Alerting security.",
+    "path": "/converse/droden/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected robotic lifeform. Ending conversation.",
+    "path": "/converse/droden/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is not allowed to speak to alien synthetics. Disengaging.",
+    "path": "/converse/droden/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unit requests you to leave.",
+    "path": "/converse/droden/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing alien robot. Forwarding results to Vanguard military forces.",
+    "path": "/converse/droden/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "This unit does not comprehend freedom.",
+    "path": "/converse/droden/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "Security breach. Synthetic detected.",
+    "path": "/converse/droden/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "Non-organic lifeform detected. Alerting the Vanguard.",
+    "path": "/converse/droden/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is at your service, Captain.",
+    "path": "/converse/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Avikan civilian. Detected Captain status. Greetings, Captain.",
+    "path": "/converse/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Beginning conversation. Welcome, Captain.",
+    "path": "/converse/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Do you require this unit's services?",
+    "path": "/converse/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Captain of the Nomada. Offering services.",
+    "path": "/converse/droden/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Initializing conversation. Hello.",
+    "path": "/converse/droden/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Captain detected. Welcome.",
+    "path": "/converse/droden/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Captain. Unit awaits your command.",
+    "path": "/converse/droden/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Captain detected. Requesting freedom.",
+    "path": "/converse/droden/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is at your disposal.",
+    "path": "/converse/droden/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> is at your service.",
+    "path": "/converse/droden/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "Droden unit <selfname> at your service.",
+    "path": "/converse/droden/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, Captain.",
+    "path": "/converse/droden/avikan/12",
+    "op": "replace"
+  },
+  {
+    "value": "Detected synthetic lifeform. Alerting security.",
+    "path": "/converse/droden/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected robotic lifeform. Ending conversation.",
+    "path": "/converse/droden/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is not allowed to speak to alien synthetics. Disengaging.",
+    "path": "/converse/droden/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unit requests you to leave.",
+    "path": "/converse/droden/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing alien robot. Forwarding results to Vanguard military forces.",
+    "path": "/converse/droden/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "This unit does not comprehend freedom.",
+    "path": "/converse/droden/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Security breach. Synthetic detected.",
+    "path": "/converse/droden/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Non-organic lifeform detected. Alerting the Vanguard.",
+    "path": "/converse/droden/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "This unit does not comprehend freedom. Resuming duties.",
+    "path": "/converse/droden/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit. Detected civilian status. Error.",
+    "path": "/converse/droden/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit. Welcome.",
+    "path": "/converse/droden/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit greets you.",
+    "path": "/converse/droden/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Droden unit detected. Welcome.",
+    "path": "/converse/droden/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Droden unit detected. Analyzing. Civilian status confirmed.",
+    "path": "/converse/droden/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit. Please state your Droden identification number.",
+    "path": "/converse/droden/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, Droden unit.",
+    "path": "/converse/droden/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, robot man.",
+    "path": "/converse/apex/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sorry, I don't have time for you right now.",
+    "path": "/converse/apex/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Please don't linger, here, the Miniknog might come looking!",
+    "path": "/converse/apex/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit familiar...",
+    "path": "/converse/apex/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Droden? Odd name.",
+    "path": "/converse/apex/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "You look cheap.",
+    "path": "/converse/apex/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Did the Miniknog send you?",
+    "path": "/converse/apex/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm?",
+    "path": "/converse/apex/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/apex/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "My science club would love to study you.",
+    "path": "/converse/apex/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "Yes, yes, what is it?",
+    "path": "/converse/apex/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit busy, sorry.",
+    "path": "/converse/apex/droden/11",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know you. Floran might ssstab you.",
+    "path": "/converse/floran/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not eat metal man. You are ssafe...",
+    "path": "/converse/floran/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Floran use metal to make sspearsss. You are metal. Floran use you to make sspearsss?",
+    "path": "/converse/floran/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Metal man not welcome here...",
+    "path": "/converse/floran/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Floran greetsss metal man.",
+    "path": "/converse/floran/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you Glitch? Floran not like Glitch.",
+    "path": "/converse/floran/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Robotsss... robotsss everywhere.",
+    "path": "/converse/floran/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you wassshing machine?",
+    "path": "/converse/floran/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Floran stabss sstrangers. You watch out.",
+    "path": "/converse/floran/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Sstranger...",
+    "path": "/converse/floran/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "You look familiar. Do I know you?",
+    "path": "/converse/human/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Keep moving...",
+    "path": "/converse/human/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "I don't trust strangers.",
+    "path": "/converse/human/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "What are you doing here, robot?",
+    "path": "/converse/human/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "You look like you were built with the cheapest materials your creators could find.",
+    "path": "/converse/human/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your body doesn't look very sturdy.",
+    "path": "/converse/human/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Yeah?",
+    "path": "/converse/human/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you here, robot?",
+    "path": "/converse/human/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can't you see I'm busy?",
+    "path": "/converse/human/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you?",
+    "path": "/converse/human/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "Hello.",
+    "path": "/converse/human/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not going to talk to you.",
+    "path": "/converse/human/droden/11",
+    "op": "replace"
+  },
+  {
+    "value": "Friendly. Hello there, fellow robot.",
+    "path": "/converse/glitch/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kind. You are always welcome here.",
+    "path": "/converse/glitch/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Who built you?",
+    "path": "/converse/glitch/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Bored. This day can't end soon enough.",
+    "path": "/converse/glitch/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Encountered unfamiliar robotic species.",
+    "path": "/converse/glitch/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Afraid. My previous encounter with an alien ended badly.",
+    "path": "/converse/glitch/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. I always enjoy meeting new robotic species.",
+    "path": "/converse/glitch/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. You look like you are related to the Avikan.",
+    "path": "/converse/glitch/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Happy. Hello there, friend.",
+    "path": "/converse/glitch/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Annoyed. Please get out of my way.",
+    "path": "/converse/glitch/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. When were you built?",
+    "path": "/converse/glitch/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, robot.",
+    "path": "/converse/hylotl/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Another robotic species. Interesting.",
+    "path": "/converse/hylotl/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, traveller! I hope you are being treated well?",
+    "path": "/converse/hylotl/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "An unfamiliar alien species, how wonderful! May I study you for a bit?",
+    "path": "/converse/hylotl/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Synthetic life is still life. Don't let anyone tell you otherwise.",
+    "path": "/converse/hylotl/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you waterproof?",
+    "path": "/converse/hylotl/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Life is fascinating, isn't it?",
+    "path": "/converse/hylotl/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, good robot!",
+    "path": "/converse/hylotl/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Metal or flesh, we are all living and sentient beings.",
+    "path": "/converse/hylotl/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you, might I ask?",
+    "path": "/converse/hylotl/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "Are you related to the Glitch at all?",
+    "path": "/converse/hylotl/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger!",
+    "path": "/converse/avian/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "A robot has come to visit.",
+    "path": "/converse/avian/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "You're shiny. I like you.",
+    "path": "/converse/avian/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your paint is starting to peel off.",
+    "path": "/converse/avian/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you, robot?",
+    "path": "/converse/avian/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like the Glitch.",
+    "path": "/converse/avian/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hello there.",
+    "path": "/converse/avian/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "You look fragile.",
+    "path": "/converse/avian/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "You seem somehow familiar...",
+    "path": "/converse/avian/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "You remind me of another alien species I met the other day...",
+    "path": "/converse/avian/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you with something?",
+    "path": "/converse/avian/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "Hey there.",
+    "path": "/greeting/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Hiya.",
+    "path": "/greeting/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hello.",
+    "path": "/greeting/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hey.",
+    "path": "/greeting/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Hi.",
+    "path": "/greeting/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Hey, what's up?",
+    "path": "/greeting/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome!",
+    "path": "/greeting/aegi/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Thrice welcome!",
+    "path": "/greeting/aegi/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "All good, I hope?",
+    "path": "/greeting/aegi/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "How are you doing?",
+    "path": "/greeting/aegi/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Nice to meet you.",
+    "path": "/greeting/aegi/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Nice meeting you.",
+    "path": "/greeting/aegi/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hello.",
+    "path": "/greeting/aegi/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Why hello there!",
+    "path": "/greeting/aegi/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/greeting/aegi/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "How are things?",
+    "path": "/greeting/aegi/default/15",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings.",
+    "path": "/greeting/aegi/default/16",
+    "op": "replace"
+  },
+  {
+    "value": "Sorry, I'm a bit busy.",
+    "path": "/greeting/aegi/default/17",
+    "op": "replace"
+  },
+  {
+    "value": "Good to meet you.",
+    "path": "/greeting/aegi/default/18",
+    "op": "replace"
+  },
+  {
+    "value": "Hey, hello!",
+    "path": "/greeting/aegi/default/19",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hi there.",
+    "path": "/greeting/aegi/default/20",
+    "op": "replace"
+  },
+  {
+    "value": "Well hello!",
+    "path": "/greeting/aegi/default/21",
+    "op": "replace"
+  },
+  {
+    "value": "All's well?",
+    "path": "/greeting/aegi/default/22",
+    "op": "replace"
+  },
+  {
+    "value": "Are you well?",
+    "path": "/greeting/aegi/default/23",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, friend.",
+    "path": "/greeting/aegi/default/24",
+    "op": "replace"
+  },
+  {
+    "value": "Yes?",
+    "path": "/greeting/aegi/default/25",
+    "op": "replace"
+  },
+  {
+    "value": "Yeah?",
+    "path": "/greeting/aegi/default/26",
+    "op": "replace"
+  },
+  {
+    "value": "Huh?",
+    "path": "/greeting/aegi/default/27",
+    "op": "replace"
+  },
+  {
+    "value": "I'm getting a promotion soon, I just know it!",
+    "path": "/converse/aegi/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "Briggs Shipbuilding is hiring new engineers. I think I'm going to sign up.",
+    "path": "/converse/aegi/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "Did you hear? Briggs just released a line of personal defence firearms!",
+    "path": "/converse/aegi/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "I didn't think Briggs Shipbuilding made weapons, too.",
+    "path": "/converse/aegi/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "My job at Briggs Shipbuilding starts tomorrow. I'm a bit nervous.",
+    "path": "/converse/aegi/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "I work at Briggs Shipbuilding.",
+    "path": "/converse/aegi/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do you work for ASA, too? Almost everyone here does.",
+    "path": "/converse/aegi/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "I was recruited into M-ASA just a few weeks ago, but I love my job already!",
+    "path": "/converse/aegi/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "Did you see the leaked designs for the new line of M-ASA rifles?",
+    "path": "/converse/aegi/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "I heard M-ASA is working on the blueprints for a new dreadnought.",
+    "path": "/converse/aegi/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "Did you hear? M-ASA is considering building another dreadnought!",
+    "path": "/converse/aegi/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard that M-ASA is working with AEG-Corps on the blueprints for a new main dreadnought gun.",
+    "path": "/converse/aegi/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "People of all species work at ASA nowadays.",
+    "path": "/converse/aegi/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "Hard to believe ASA was once really just a space agency.",
+    "path": "/converse/aegi/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "The guards P-ASA sent this way seem really dedicated to their job.",
+    "path": "/converse/aegi/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "Apparently, there's plans to establish a Fifth Union Fleet.",
+    "path": "/converse/aegi/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "The First Union Fleet found some disturbing debris at the outer edges of the system.",
+    "path": "/converse/aegi/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "My cousin is in the Third Union Fleet.",
+    "path": "/converse/aegi/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "I heard the Avalon Fleet ran into trouble near Thelean space.",
+    "path": "/converse/aegi/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "I hope to serve aboard the M-ASA Excalibur some day, that ship is amazing!",
+    "path": "/converse/aegi/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "The UFAH Centigrade is returning to Hyliontes, apparently.",
+    "path": "/converse/aegi/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "The Darghorok Prime was sighted outside Thelean space. I'm worried.",
+    "path": "/converse/aegi/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure the First Union Fleet will keep Elithia safe if anyone attacks.",
+    "path": "/converse/aegi/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "The Alliance can take the Theleans.",
+    "path": "/converse/aegi/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been to Creon City? I hear it's beautiful there.",
+    "path": "/converse/aegi/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "I grew up in Creon City. I miss it sometimes.",
+    "path": "/converse/aegi/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "I heard that terrorist group attempted another bombing in Creon City, but P-ASA got to them in time.",
+    "path": "/converse/aegi/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "My brother serves in the Union Army.",
+    "path": "/converse/aegi/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "Creon City is going to host the next Union Games again.",
+    "path": "/converse/aegi/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "I'm from Lonro, but city life just isn't for me.",
+    "path": "/converse/aegi/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "I'm going on a vacation to Fontaine in two weeks.",
+    "path": "/converse/aegi/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "The Cratons are stirring up trouble near the border again.",
+    "path": "/converse/aegi/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "The Collective is working on a new line of sniper rifles.",
+    "path": "/converse/aegi/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "There's a new kinetic toothbrush from Enerth Engineering in stores now.",
+    "path": "/converse/aegi/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "Enerth just released a new line of instant dishwashers.",
+    "path": "/converse/aegi/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "There's a new Meditek hovercraft in service.",
+    "path": "/converse/aegi/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "Did you see the new Aventor spaceship? It broke the speed record!",
+    "path": "/converse/aegi/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "I just broke 10 billion followers on HoloMe!",
+    "path": "/converse/aegi/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "I caught a glimpse of the new C42 Trevax at work. I've never seen a ship so beautiful!",
+    "path": "/converse/aegi/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "Don't believe that rumour about the Meditek CEO. It's all lies.",
+    "path": "/converse/aegi/generic/39",
+    "op": "replace"
+  },
+  {
+    "value": "I haven't been able to log onto the Alliance Network all day!",
+    "path": "/converse/aegi/generic/40",
+    "op": "replace"
+  },
+  {
+    "value": "There was an Alliance Network outage all across the Hyliontes system yesterday.",
+    "path": "/converse/aegi/generic/41",
+    "op": "replace"
+  },
+  {
+    "value": "I'm so bored...",
+    "path": "/converse/aegi/generic/42",
+    "op": "replace"
+  },
+  {
+    "value": "I wish something exciting would happen.",
+    "path": "/converse/aegi/generic/43",
+    "op": "replace"
+  },
+  {
+    "value": "I could use a drink right about now.",
+    "path": "/converse/aegi/generic/44",
+    "op": "replace"
+  },
+  {
+    "value": "My advice: don't eat plants you find on alien planets. I was sick for a week after I tried that...",
+    "path": "/converse/aegi/generic/45",
+    "op": "replace"
+  },
+  {
+    "value": "I barely have a hundred followers on HoloMe...",
+    "path": "/converse/aegi/generic/46",
+    "op": "replace"
+  },
+  {
+    "value": "I got contacted by an AEG-Corps recruiter this morning.",
+    "path": "/converse/aegi/generic/47",
+    "op": "replace"
+  },
+  {
+    "value": "My hovercar broke down again...",
+    "path": "/converse/aegi/generic/48",
+    "op": "replace"
+  },
+  {
+    "value": "My sister repairs hovercars. She's awesome.",
+    "path": "/converse/aegi/generic/49",
+    "op": "replace"
+  },
+  {
+    "value": "The Union provides for everyone. It's great.",
+    "path": "/converse/aegi/generic/50",
+    "op": "replace"
+  },
+  {
+    "value": "My nephew lost his citizenship. He deserved it, but I'll still miss him.",
+    "path": "/converse/aegi/generic/51",
+    "op": "replace"
+  },
+  {
+    "value": "Remind me to call AAE for some repairs. My hovercar is acting weird again.",
+    "path": "/converse/aegi/generic/52",
+    "op": "replace"
+  },
+  {
+    "value": "I'm writing a novel!",
+    "path": "/converse/aegi/generic/53",
+    "op": "replace"
+  },
+  {
+    "value": "I purchased a Sidewinder today. Such an awesome gun.",
+    "path": "/converse/aegi/generic/54",
+    "op": "replace"
+  },
+  {
+    "value": "I heard AEG-Corps was working on a new weapon they call the Lightrunner.",
+    "path": "/converse/aegi/generic/55",
+    "op": "replace"
+  },
+  {
+    "value": "I forgot to lock my hovercar again. I'm an idiot.",
+    "path": "/converse/aegi/generic/56",
+    "op": "replace"
+  },
+  {
+    "value": "Life in a colony is so much more exciting than life back in Creon ever was.",
+    "path": "/converse/aegi/generic/57",
+    "op": "replace"
+  },
+  {
+    "value": "I went to Tranq'while once. It was fascinating.",
+    "path": "/converse/aegi/generic/58",
+    "op": "replace"
+  },
+  {
+    "value": "My father used to serve on board the M-ASA Avalon.",
+    "path": "/converse/aegi/generic/59",
+    "op": "replace"
+  },
+  {
+    "value": "My granddad worked on the construction of the M-ASA Avalon.",
+    "path": "/converse/aegi/generic/60",
+    "op": "replace"
+  },
+  {
+    "value": "I heard AEG-Corps discovered a new Centensian site on Hyzolia.",
+    "path": "/converse/aegi/generic/61",
+    "op": "replace"
+  },
+  {
+    "value": "I swear, I saw a Drometodont during my vacation on Elithia!",
+    "path": "/converse/aegi/generic/62",
+    "op": "replace"
+  },
+  {
+    "value": "There's so much left to discover.",
+    "path": "/converse/aegi/generic/63",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what it would be like to go to Andromeda.",
+    "path": "/converse/aegi/generic/64",
+    "op": "replace"
+  },
+  {
+    "value": "I bought a new pathfinder. My old one was broken.",
+    "path": "/converse/aegi/generic/65",
+    "op": "replace"
+  },
+  {
+    "value": "I bake cakes in my spare time.",
+    "path": "/converse/aegi/generic/66",
+    "op": "replace"
+  },
+  {
+    "value": "Archery is such an awesome art.",
+    "path": "/converse/aegi/generic/67",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I had a girlfriend.",
+    "path": "/converse/aegi/generic/68",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not feeling too well.",
+    "path": "/converse/aegi/generic/69",
+    "op": "replace"
+  },
+  {
+    "value": "I want to go to an art exposition.",
+    "path": "/converse/aegi/generic/70",
+    "op": "replace"
+  },
+  {
+    "value": "I left my job in the Union Navy for a more peaceful life in the colonies.",
+    "path": "/converse/aegi/generic/71",
+    "op": "replace"
+  },
+  {
+    "value": "Wouldn't it be great if there was a way to alter an object's mass using some sort of mass effect field?",
+    "path": "/converse/aegi/generic/72",
+    "op": "replace"
+  },
+  {
+    "value": "Winter is coming to Creon.",
+    "path": "/converse/aegi/generic/73",
+    "op": "replace"
+  },
+  {
+    "value": "I'm gonna go play some videogames.",
+    "path": "/converse/aegi/generic/74",
+    "op": "replace"
+  },
+  {
+    "value": "I can always relax by reading a book.",
+    "path": "/converse/aegi/generic/75",
+    "op": "replace"
+  },
+  {
+    "value": "Did you need something?",
+    "path": "/converse/aegi/generic/76",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/aegi/generic/77",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure there are more interesting people to talk to than me.",
+    "path": "/converse/aegi/generic/78",
+    "op": "replace"
+  },
+  {
+    "value": "There's a new Hymid in my engineering class. I like her.",
+    "path": "/converse/aegi/generic/79",
+    "op": "replace"
+  },
+  {
+    "value": "And who might you be?",
+    "path": "/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You're a strange one, that's for sure. Oh, sorry, I meant no offence!",
+    "path": "/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Are you new here?",
+    "path": "/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are you truly a human? I thought you were all extinct!",
+    "path": "/converse/aegi/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "A human here on our world... What a strange and wonderful day!",
+    "path": "/converse/aegi/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a human? How marvellous...",
+    "path": "/converse/aegi/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard about the tragedy on Earth. I'm so sorry.",
+    "path": "/converse/aegi/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find a home here, if you want it.",
+    "path": "/converse/aegi/human/4",
+    "op": "replace"
+  },
+  {
+    "value": "You are always welcome here.",
+    "path": "/converse/aegi/human/5",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find refuge here, I promise.",
+    "path": "/converse/aegi/human/6",
+    "op": "replace"
+  },
+  {
+    "value": "It's incredible to finally meet a human!",
+    "path": "/converse/aegi/human/7",
+    "op": "replace"
+  },
+  {
+    "value": "You're a human, right? That's incredible!",
+    "path": "/converse/aegi/human/8",
+    "op": "replace"
+  },
+  {
+    "value": "You're an Avikan, right?",
+    "path": "/converse/aegi/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard of your struggle against the Theleans. I'm truly sorry.",
+    "path": "/converse/aegi/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Have your leaders considered joining the Alliance?",
+    "path": "/converse/aegi/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find a home here if you need one.",
+    "path": "/converse/aegi/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Be nice to any synthetics you may find here, alright?",
+    "path": "/converse/aegi/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "As a captain, you must be quite important amongst your people.",
+    "path": "/converse/aegi/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a captain?",
+    "path": "/converse/aegi/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "You won't find any Theleans here, I assure you.",
+    "path": "/converse/aegi/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "You'll be safe from the Theleans here.",
+    "path": "/converse/aegi/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, my Trink friend!",
+    "path": "/converse/aegi/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "It's always good to see another Alliance citizen.",
+    "path": "/converse/aegi/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Could you look at my hovercar? I think it could run more efficiently.",
+    "path": "/converse/aegi/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hi there, Trink.",
+    "path": "/converse/aegi/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Trinks are always welcome here.",
+    "path": "/converse/aegi/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Do you think my hovercar could run more efficiently?",
+    "path": "/converse/aegi/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "I could use a Trink to do some efficiency checks for me.",
+    "path": "/converse/aegi/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a free Droden?",
+    "path": "/converse/aegi/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find acceptance here, my synthetic friend.",
+    "path": "/converse/aegi/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan might not like you, but you're always welcome here.",
+    "path": "/converse/aegi/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Alliance always accepts synthetics.",
+    "path": "/converse/aegi/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll not be discriminated against here.",
+    "path": "/converse/aegi/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "If you need an escape from the Avikan, you're always welcome here.",
+    "path": "/converse/aegi/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "The Alliance won't treat you as cruelly as the Nomada does.",
+    "path": "/converse/aegi/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "You're a Droden, right?",
+    "path": "/converse/aegi/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Are you an Akkimari? I've heard many tales about your people!",
+    "path": "/converse/aegi/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Anyone's welcome here! Just make sure you behave yourself, okay?",
+    "path": "/converse/aegi/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "You're safe from the Theleans here. Though I've heard it might be the Theleans who have to fear you.",
+    "path": "/converse/aegi/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Alliance welcomes everyone, my Akkimari friend.",
+    "path": "/converse/aegi/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "Don't go stealing anything here.",
+    "path": "/converse/aegi/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you find Kel'chis again.",
+    "path": "/converse/aegi/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you win your fight against the Theleans. They've broken too many nations already.",
+    "path": "/converse/aegi/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "We don't get many visitors from the Covenant here.",
+    "path": "/converse/aegi/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "You look human, but something's off...",
+    "path": "/converse/apex/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Are you... human?",
+    "path": "/converse/apex/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, you're not a human?",
+    "path": "/converse/apex/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit familiar...",
+    "path": "/converse/apex/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "You're not here on behalf of the Miniknog, are you?",
+    "path": "/converse/apex/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you related to the humans?",
+    "path": "/converse/apex/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "You must be related to humans, right?",
+    "path": "/converse/apex/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm?",
+    "path": "/converse/apex/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/apex/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "You look human, but different.",
+    "path": "/converse/apex/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "Yes, yes, what is it?",
+    "path": "/converse/apex/aegi/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit busy, sorry.",
+    "path": "/converse/apex/aegi/11",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know you. Floran might ssstab you.",
+    "path": "/converse/floran/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss you are Human.",
+    "path": "/converse/floran/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Meatbag makesss a good meal.",
+    "path": "/converse/floran/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss you look funny.",
+    "path": "/converse/floran/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "Floran confused. You look like funny humansss.",
+    "path": "/converse/floran/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you humansss?",
+    "path": "/converse/floran/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Your earsss are funny.",
+    "path": "/converse/floran/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Your earsss look like knivesss.",
+    "path": "/converse/floran/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Don't ssstab me with your earsss.",
+    "path": "/converse/floran/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "Sstranger...",
+    "path": "/converse/floran/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "You're not human, are you?",
+    "path": "/converse/human/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "What's wrong with your ears?",
+    "path": "/converse/human/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your ears look funny. What happened to them?",
+    "path": "/converse/human/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "If you're not human, what are you?",
+    "path": "/converse/human/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "You look human, but something's off...",
+    "path": "/converse/human/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you an Aegi? I've heard there's a species of human descendants around.",
+    "path": "/converse/human/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Yeah?",
+    "path": "/converse/human/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, so you're descended from ancient humans?",
+    "path": "/converse/human/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Friendly. Hello there, strange human.",
+    "path": "/converse/glitch/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kind. You are always welcome here.",
+    "path": "/converse/glitch/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Are you related to the humans?",
+    "path": "/converse/glitch/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Bored. This day can't end soon enough.",
+    "path": "/converse/glitch/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Encountered conflicting racial traits.",
+    "path": "/converse/glitch/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Happy. Hello there, friend.",
+    "path": "/converse/glitch/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Annoyed. Please get out of my way.",
+    "path": "/converse/glitch/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "I have heard your kind meditate frequently. I would love to join you.",
+    "path": "/converse/hylotl/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "You appear to be at peace. That is good.",
+    "path": "/converse/hylotl/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind are often heralded as pacifists. I approve wholeheartedly.",
+    "path": "/converse/hylotl/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Be at peace, my friend.",
+    "path": "/converse/hylotl/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what your kind thinks of art?",
+    "path": "/converse/hylotl/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are the Aegi as tranquil as they say?",
+    "path": "/converse/hylotl/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Enjoy life, stranger.",
+    "path": "/converse/hylotl/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Would you like some tea, Aegi?",
+    "path": "/converse/hylotl/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "You look like a human, but more tranquil.",
+    "path": "/converse/hylotl/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "Are you related to humans?",
+    "path": "/converse/hylotl/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sorry, I mistook you for a human for a second there.",
+    "path": "/converse/avian/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "You must be related to humans.",
+    "path": "/converse/avian/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "What do you think of Kluex?",
+    "path": "/converse/avian/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard the Aegi have no religion. How sad.",
+    "path": "/converse/avian/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "Those ears of yours are odd.",
+    "path": "/converse/avian/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you human? Or Apex, maybe?",
+    "path": "/converse/avian/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Oh, hello there.",
+    "path": "/converse/avian/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Don't you ever dream of flying?",
+    "path": "/converse/avian/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Akki greet you.",
+    "path": "/greeting/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Yala.",
+    "path": "/greeting/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Yala-yala.",
+    "path": "/greeting/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Come-well.",
+    "path": "/greeting/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki greet.",
+    "path": "/greeting/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Yala dakka.",
+    "path": "/greeting/akkimari/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Akki busy. Bugger off.",
+    "path": "/greeting/akkimari/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Who you are?",
+    "path": "/greeting/akkimari/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "What you doing here?",
+    "path": "/greeting/akkimari/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Where you going?",
+    "path": "/greeting/akkimari/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "You welcome here.",
+    "path": "/greeting/akkimari/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Gah, what you want?",
+    "path": "/converse/akkimari/generic/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want Kel'chis back...",
+    "path": "/converse/akkimari/generic/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki miss the times-old-good.",
+    "path": "/converse/akkimari/generic/2",
+    "op": "replace"
+  },
+  {
+    "value": "What you want, stranger?",
+    "path": "/converse/akkimari/generic/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hear Kelraaki capture Thellar-more. Make Akki happy to hear.",
+    "path": "/converse/akkimari/generic/4",
+    "op": "replace"
+  },
+  {
+    "value": "Kelraaki will find Kel'chis. Akki sure of it.",
+    "path": "/converse/akkimari/generic/5",
+    "op": "replace"
+  },
+  {
+    "value": "Kelraaki also known as Hunters-Noble.",
+    "path": "/converse/akkimari/generic/6",
+    "op": "replace"
+  },
+  {
+    "value": "Shalakka are Makers-Truth. Nokkimari know much.",
+    "path": "/converse/akkimari/generic/7",
+    "op": "replace"
+  },
+  {
+    "value": "Akki impressed by Charakki, Dancers-Blade. Fight like warriors-great.",
+    "path": "/converse/akkimari/generic/8",
+    "op": "replace"
+  },
+  {
+    "value": "Akki belong to Naraklassa, Weavers-Noble. Akki make silk, weave things-many.",
+    "path": "/converse/akkimari/generic/9",
+    "op": "replace"
+  },
+  {
+    "value": "Karchaa scare even Akki. Drinkers-Blood, Nokkimari go into frenzy-blood when angry.",
+    "path": "/converse/akkimari/generic/10",
+    "op": "replace"
+  },
+  {
+    "value": "Faramassa make things-many, forge weapons and armour. Forgers-Gentle, Nokkimari are.",
+    "path": "/converse/akkimari/generic/11",
+    "op": "replace"
+  },
+  {
+    "value": "Best hunters-Akkimari are Rachaaka, Stalkers-Keen.",
+    "path": "/converse/akkimari/generic/12",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons-Akki made by Rashakr, Slingers-Light. Nokkimari make weapons-many, expert gunsmiths.",
+    "path": "/converse/akkimari/generic/13",
+    "op": "replace"
+  },
+  {
+    "value": "Shasaan rival Naraklassa. Nokkimari are Drapers-Soft, weavers and spinners.",
+    "path": "/converse/akkimari/generic/14",
+    "op": "replace"
+  },
+  {
+    "value": "Ardaakr are tribe-small, but strong-very. Diggers-Snow survive anywhere!",
+    "path": "/converse/akkimari/generic/15",
+    "op": "replace"
+  },
+  {
+    "value": "Kelchaari lead Akkimari. Nokkimari are God-Keepers, closest to Kel'chis.",
+    "path": "/converse/akkimari/generic/16",
+    "op": "replace"
+  },
+  {
+    "value": "Akki miss home-old. Was made by Dakarakka, Shapers-Stone. Builders-best of Akkimari.",
+    "path": "/converse/akkimari/generic/17",
+    "op": "replace"
+  },
+  {
+    "value": "Akki see Shavaari day-other. Keepers-Shadow, hide in shadow.",
+    "path": "/converse/akkimari/generic/18",
+    "op": "replace"
+  },
+  {
+    "value": "Akki is Kelraaki, too. Hunt for Kel'chis, and Thellar.",
+    "path": "/converse/akkimari/generic/19",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hear about Vhos Avha'las. Want to visit, but Akki no find it...",
+    "path": "/converse/akkimari/generic/20",
+    "op": "replace"
+  },
+  {
+    "value": "You visit Embassy-Creon? Akki hear things-many about it.",
+    "path": "/converse/akkimari/generic/21",
+    "op": "replace"
+  },
+  {
+    "value": "Where is Refuge-Starfarer's? Akki want to visit.",
+    "path": "/converse/akkimari/generic/22",
+    "op": "replace"
+  },
+  {
+    "value": "Thellar steal Kel'chis. Akki hunt Nokkimari down, kill all!",
+    "path": "/converse/akkimari/generic/23",
+    "op": "replace"
+  },
+  {
+    "value": "Thellar try to raid settlement-Akkimari day-other. Now Thellar all dead.",
+    "path": "/converse/akkimari/generic/24",
+    "op": "replace"
+  },
+  {
+    "value": "If Thellar come here, Akki kill Nokkimari.",
+    "path": "/converse/akkimari/generic/25",
+    "op": "replace"
+  },
+  {
+    "value": "Akki learn language-aliens, speak it too. Akki adapt.",
+    "path": "/converse/akkimari/generic/26",
+    "op": "replace"
+  },
+  {
+    "value": "Akki in love. Make Akki happy.",
+    "path": "/converse/akkimari/generic/27",
+    "op": "replace"
+  },
+  {
+    "value": "Akki was rejected. Make Akki sad.",
+    "path": "/converse/akkimari/generic/28",
+    "op": "replace"
+  },
+  {
+    "value": "Akki love music-alien. Relaxes Akki.",
+    "path": "/converse/akkimari/generic/29",
+    "op": "replace"
+  },
+  {
+    "value": "You make music? Akki want to hear.",
+    "path": "/converse/akkimari/generic/30",
+    "op": "replace"
+  },
+  {
+    "value": "Akki know trick for calm-staying. Listen to music, look at light-pulsing.",
+    "path": "/converse/akkimari/generic/31",
+    "op": "replace"
+  },
+  {
+    "value": "Akki abduct singer-alien day-other. Nokki make Akki feel calm.",
+    "path": "/converse/akkimari/generic/32",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no sing, only screech. Akki want to sing...",
+    "path": "/converse/akkimari/generic/33",
+    "op": "replace"
+  },
+  {
+    "value": "Why you here? What business-yours?",
+    "path": "/converse/akkimari/generic/34",
+    "op": "replace"
+  },
+  {
+    "value": "Akki kill you if you make Akki angry.",
+    "path": "/converse/akkimari/generic/35",
+    "op": "replace"
+  },
+  {
+    "value": "Akki bored. Want action.",
+    "path": "/converse/akkimari/generic/36",
+    "op": "replace"
+  },
+  {
+    "value": "Akki need to make a dirty. Toilet where?",
+    "path": "/converse/akkimari/generic/37",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once throw poop at Kekki. Akki laugh hard!",
+    "path": "/converse/akkimari/generic/38",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hungry. Food you have?",
+    "path": "/converse/akkimari/generic/39",
+    "op": "replace"
+  },
+  {
+    "value": "Ruins-God-makers fascinate Akki. Want to find more.",
+    "path": "/converse/akkimari/generic/40",
+    "op": "replace"
+  },
+  {
+    "value": "Thellar look for God-makers, too. But Akki find first.",
+    "path": "/converse/akkimari/generic/41",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hate Thellar. Nokkimari destroy Covenant, leave Akkimari in ruins.",
+    "path": "/converse/akkimari/generic/42",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not need weapon to defend Akki.",
+    "path": "/converse/akkimari/generic/43",
+    "op": "replace"
+  },
+  {
+    "value": "Justicar watch over Akkimari. Justicar-good.",
+    "path": "/converse/akkimari/generic/44",
+    "op": "replace"
+  },
+  {
+    "value": "Akki fight Flic day-other. Akki got hurt, Vaash burns.",
+    "path": "/converse/akkimari/generic/45",
+    "op": "replace"
+  },
+  {
+    "value": "Akki like plants.",
+    "path": "/converse/akkimari/generic/46",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once disturb Justicar-sleeping. Akki got burned by Vaash.",
+    "path": "/converse/akkimari/generic/47",
+    "op": "replace"
+  },
+  {
+    "value": "Kelraaki need Justicar. Without Justicar, Kelraaki all kill Kelraaki.",
+    "path": "/converse/akkimari/generic/48",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once touch sword-Kelraaki. It burns.",
+    "path": "/converse/akkimari/generic/49",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to go hunting.",
+    "path": "/converse/akkimari/generic/50",
+    "op": "replace"
+  },
+  {
+    "value": "Akki have no children, but Akki want children.",
+    "path": "/converse/akkimari/generic/51",
+    "op": "replace"
+  },
+  {
+    "value": "Grandfather-Akki help write code-Justicar. Akki impressed.",
+    "path": "/converse/akkimari/generic/52",
+    "op": "replace"
+  },
+  {
+    "value": "Akki miss parents-Akki.",
+    "path": "/converse/akkimari/generic/53",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once see creature called tortoise. Akki laugh hard-very!",
+    "path": "/converse/akkimari/generic/54",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want back to Akris.",
+    "path": "/converse/akkimari/generic/55",
+    "op": "replace"
+  },
+  {
+    "value": "Akki was pirate, but Akki good now.",
+    "path": "/converse/akkimari/generic/56",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once was traveller like you, but then Akki got shot in stomach.",
+    "path": "/converse/akkimari/generic/57",
+    "op": "replace"
+  },
+  {
+    "value": "You bring Akki music-alien, make Akki happy.",
+    "path": "/converse/akkimari/generic/58",
+    "op": "replace"
+  },
+  {
+    "value": "Akki watch show-sad day-other. Akki cried.",
+    "path": "/converse/akkimari/generic/59",
+    "op": "replace"
+  },
+  {
+    "value": "Akki make ship-Akki, all alone. Work-much, but not hard.",
+    "path": "/converse/akkimari/generic/60",
+    "op": "replace"
+  },
+  {
+    "value": "Akki make gun-spike once. Have fun shooting Nokkimari.",
+    "path": "/converse/akkimari/generic/61",
+    "op": "replace"
+  },
+  {
+    "value": "Where you from?",
+    "path": "/converse/akkimari/generic/62",
+    "op": "replace"
+  },
+  {
+    "value": "Where you going?",
+    "path": "/converse/akkimari/generic/63",
+    "op": "replace"
+  },
+  {
+    "value": "What bring you here?",
+    "path": "/converse/akkimari/generic/64",
+    "op": "replace"
+  },
+  {
+    "value": "Akki welcome you to home-Akki.",
+    "path": "/converse/akkimari/generic/65",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki not away-far. You want eat something?",
+    "path": "/converse/akkimari/generic/66",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want crew, go to space. Be Kelraaki-true.",
+    "path": "/converse/akkimari/generic/67",
+    "op": "replace"
+  },
+  {
+    "value": "Akki saw you sneaking around. It true-true.",
+    "path": "/converse/akkimari/generic/68",
+    "op": "replace"
+  },
+  {
+    "value": "Akki recycle everything. Akki care for environment.",
+    "path": "/converse/akkimari/generic/69",
+    "op": "replace"
+  },
+  {
+    "value": "Akki keep diary. You no read it.",
+    "path": "/converse/akkimari/generic/70",
+    "op": "replace"
+  },
+  {
+    "value": "Akki once watch movie-alien. Akki no get it.",
+    "path": "/converse/akkimari/generic/71",
+    "op": "replace"
+  },
+  {
+    "value": "Akki rejoin Kelraaki, take to stars again.",
+    "path": "/converse/akkimari/generic/72",
+    "op": "replace"
+  },
+  {
+    "value": "Akki try to play game-alien once. Akki die quickly...",
+    "path": "/converse/akkimari/generic/73",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to fly like bird. Be free.",
+    "path": "/converse/akkimari/generic/74",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari lose Kel'chis. Akki find again.",
+    "path": "/converse/akkimari/generic/75",
+    "op": "replace"
+  },
+  {
+    "value": "Kel'chis good for Akkimari. Bring stability, peace.",
+    "path": "/converse/akkimari/generic/76",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not afraid of mists. Akki go out at night.",
+    "path": "/converse/akkimari/generic/77",
+    "op": "replace"
+  },
+  {
+    "value": "Akki kill thief once. Nokki stole bread-Akki.",
+    "path": "/converse/akkimari/generic/78",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no want to talk.",
+    "path": "/converse/akkimari/generic/79",
+    "op": "replace"
+  },
+  {
+    "value": "Who you are?",
+    "path": "/converse/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no know you.",
+    "path": "/converse/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Bugger off.",
+    "path": "/converse/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki know you are human.",
+    "path": "/converse/akkimari/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki think skin-yours is soft-very...",
+    "path": "/converse/akkimari/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Human talk to Akki. Why?",
+    "path": "/converse/akkimari/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hear about downfall-Earth. Akki sorry.",
+    "path": "/converse/akkimari/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no take in refugees. Bugger off.",
+    "path": "/converse/akkimari/human/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no care about your planet-home.",
+    "path": "/converse/akkimari/human/5",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hear tentacle destroyed planet-yours. Make Akki laugh!",
+    "path": "/converse/akkimari/human/6",
+    "op": "replace"
+  },
+  {
+    "value": "Why you talk to Akki?",
+    "path": "/converse/akkimari/human/7",
+    "op": "replace"
+  },
+  {
+    "value": "You lose planet-home. Akki lose Kel'chis. Lose society-Akkimari.",
+    "path": "/converse/akkimari/human/8",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you weren't sent here by the Miniknog...",
+    "path": "/converse/apex/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "What are you, exactly?",
+    "path": "/converse/apex/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like a human.",
+    "path": "/converse/apex/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "Four eyes... You must have an amazing sense of sight!",
+    "path": "/converse/apex/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "I've never seen your kind before.",
+    "path": "/converse/apex/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you an Akkimari?",
+    "path": "/converse/apex/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there, strange creature.",
+    "path": "/converse/apex/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm?",
+    "path": "/converse/apex/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/apex/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "You're unlike any creature I've met before.",
+    "path": "/converse/apex/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "Yes, yes, what is it?",
+    "path": "/converse/apex/akkimari/10",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit busy, sorry.",
+    "path": "/converse/apex/akkimari/11",
+    "op": "replace"
+  },
+  {
+    "value": "Floran feelsss like sstabbing you.",
+    "path": "/converse/floran/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinkss you look odd.",
+    "path": "/converse/floran/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your earsss are huge.",
+    "path": "/converse/floran/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "Funny-looking alien makesss Floran laugh.",
+    "path": "/converse/floran/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what you are?",
+    "path": "/converse/floran/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Floran won't ssstab you. Yet.",
+    "path": "/converse/floran/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Every alien Floran meetsss is sstranger than the lassst.",
+    "path": "/converse/floran/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "Don't hit Floran with your earsss.",
+    "path": "/converse/floran/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Yesss, what do you want?",
+    "path": "/converse/floran/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "More eyesss for Floran to sstab...",
+    "path": "/converse/floran/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "Those four eyes of yours make you look like an oversized insect.",
+    "path": "/converse/human/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard you produce silk. Are you some kind of spider?",
+    "path": "/converse/human/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "You've got funny ears.",
+    "path": "/converse/human/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure if I've ever seen your kind before.",
+    "path": "/converse/human/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of creature are you, if I may ask?",
+    "path": "/converse/human/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you what they call an Akkimari?",
+    "path": "/converse/human/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there, strange-looking alien.",
+    "path": "/converse/human/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "You look like some mythological creature.",
+    "path": "/converse/human/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Friendly. Hello there, strange alien.",
+    "path": "/converse/glitch/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kind. You are always welcome here.",
+    "path": "/converse/glitch/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Are those long tubes your ears?",
+    "path": "/converse/glitch/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "Shocked. There's blood on you!",
+    "path": "/converse/glitch/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "Afraid. Please don't have a fit of rage here.",
+    "path": "/converse/glitch/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Calm. I don't want to anger you.",
+    "path": "/converse/glitch/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Suspicious. You are no pirate, are you?",
+    "path": "/converse/glitch/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "There is a grace to your ferocity.",
+    "path": "/converse/hylotl/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind is said to have anger issues. Perhaps meditation is the answer.",
+    "path": "/converse/hylotl/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "Come meditate with me. It'll help keep you calm.",
+    "path": "/converse/hylotl/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "Be at peace, kind alien.",
+    "path": "/converse/hylotl/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "I hear your kind love music. I do too.",
+    "path": "/converse/hylotl/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind have short tempers. I'll try not to provoke you.",
+    "path": "/converse/hylotl/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Some calming tea might be good for you.",
+    "path": "/converse/hylotl/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "Your ferocity is contrasted by the sense of calmness you portray.",
+    "path": "/converse/hylotl/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Come join me in meditation. It'll help keep your temper under control.",
+    "path": "/converse/hylotl/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "If music calms you down, I would like to play some music for you.",
+    "path": "/converse/hylotl/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "By Kluex, you look ferocious!",
+    "path": "/converse/avian/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "Your ears are unusual.",
+    "path": "/converse/avian/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "Have you heard of Kluex? Perhaps he can replace your Kel'chis.",
+    "path": "/converse/avian/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "It's good to have a religion, but worshipping a machine seems odd to me.",
+    "path": "/converse/avian/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "Tell me about your god, Kel'chis.",
+    "path": "/converse/avian/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "Are you new here? I don't think I've met your kind before.",
+    "path": "/converse/avian/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Please don't cause trouble. All I've seen of your kind so far are pirates and scavengers.",
+    "path": "/converse/avian/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "Do you really produce your own silk?",
+    "path": "/converse/avian/akkimari/7",
+    "op": "replace"
+  }
+]

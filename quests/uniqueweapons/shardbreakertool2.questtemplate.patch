@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Tools of the Ancients II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Repairing this tool isn't too hard, but the materials we need may be difficult to obtain. ^green;Find me ^orange;12 pieces of Centensian Tech^green; and ^orange;12 pieces of Centensian Metal^reset;, and I think I can repair the casing.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Well done, Captain. I'll get to repairing the tool casing now.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

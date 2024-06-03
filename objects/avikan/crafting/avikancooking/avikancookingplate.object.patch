@@ -1,0 +1,72 @@
+[
+  {
+    "value": "^orange;Avikan Cooking Plate^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Used to prepare various food items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bone plate and some fire. I guess that'll do for cooking...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could prepare a good meal here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran prepare food with bare handsss. Fire only makesss food tasste better.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. I can prepare great dishes using this cooking plate!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty basic setup, but it's enough to prepare a good variety of dishes.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not the most graceful solution, but this plate should still suffice for cooking.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could cook up a storm on this 'ere thing.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Many would call such a cooking plate priminitive, but I can still prepare plenty of food here.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cooking in the style of my nomadic ancestors. They would be proud.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very basic cooking solution, but I cannot deny its effectiveness.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected cooking plate. This unit can refuel using organic food.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plate-bone for cooking food.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

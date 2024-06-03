@@ -1,0 +1,17 @@
+[
+  {
+    "value": "The core of a Violated Elite Drahl's Ion Cannon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Violated Ion Core^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

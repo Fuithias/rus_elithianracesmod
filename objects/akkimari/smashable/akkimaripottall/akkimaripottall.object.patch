@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Tall Akris Pot",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pot made of hardened clay. It'll break easily.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A pot of clay. It looks easy to smash.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple clay pot. It's very smashable...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crumbly pot, Floran sssmassh.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observant. This clay pot is easily broken.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta old pot, just waiting to be broken.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fragile pot of hardened clay.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some old pot. Might as well smash it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pot made of some type of clay-like substance. I think the design is Akkimari.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien pot, made of hardened earth.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This pot is fragile. It seems odd for the violent Akkimari to make something that breaks so easily.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien earthenware. .",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki can smash pot if Akki angry. Make Akki less angry!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

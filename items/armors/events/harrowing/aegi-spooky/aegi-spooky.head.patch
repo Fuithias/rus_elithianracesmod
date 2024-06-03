@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Страшная маска для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Страшная маска",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Страшная маска для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Страшная маска",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

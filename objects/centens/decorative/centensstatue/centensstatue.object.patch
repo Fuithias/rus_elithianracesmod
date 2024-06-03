@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Ce'tennan Statue",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A statue depicting a Centensian.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A statue of an alien. I can't say that I know this species.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of creature does this depict?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny sstatue...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What sort of metal is this statue made of?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A nicely crafted statue - I could use something like this as home decoration!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Such craftsmanship! This statue must have taken years to carve!",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of creature might this be, then?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Centens were master craftsmen - this statue alone is proof of it.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Old One, immortalized in a Hyverium statue. It will never decay.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statues of the Centens will never decay - Hyverium makes certain of that.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing statue. Detected Centensian craftsmanship.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-maker-statue, pretty-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

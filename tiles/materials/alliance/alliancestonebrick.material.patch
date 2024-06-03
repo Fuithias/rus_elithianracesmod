@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Stone Bricks",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Heavy stone bricks.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Stone bricks.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran like the feel of sstone under feet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stone bricks, plain an' simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone bricks.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stone feel good under feet-Akki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

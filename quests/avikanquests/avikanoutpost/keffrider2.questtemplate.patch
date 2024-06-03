@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Keffrider II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Keffriders are vital to the defence of our clans. Use the ^orange;Keffrider's Spear ^white;I gave you to ^green;hunt down an Adult Poptop and bring me its ^orange;Grand Monster Bone^white;. Do this, and you'll prove you have the strength of a Keffrider.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Well done, Captain! You have proven your merit and your strength, but there is one more task for you to complete.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

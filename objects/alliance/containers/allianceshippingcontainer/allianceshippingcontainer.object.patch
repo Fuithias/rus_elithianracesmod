@@ -1,0 +1,72 @@
+[
+  {
+    "value": "AAE Shipping Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large shipping container decorated with the logo of the AAE.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a huge crate for shipping large cargo.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I would guess it's meant for shipping very large objects.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Maybe theress food in it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What's stored in here?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a really big shipping container.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather large container for shipping large quantities of cargo.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large container for haulin' goods.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large shipping container used by the AAE.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large alien-built shipping container.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shipping container used by the AAE.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki store many things inside!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

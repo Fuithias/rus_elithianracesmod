@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Pet Healer",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A creature healing station used to heal captured creatures.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Machines like these are used to heal captured creatures.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "How useful, I can heal any creatures I capture with this.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can keep creaturesss healed with this.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This device can heal any captured creatures.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can use this to heal any creature I've captured. Neat!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Such things are useful for ensuring excellent creature health.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can use this here gadget to heal captured creatures.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Captured creatures can be healed using this station.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station will heal any creature I've captured.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device will heal captured creatures.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected pet healing device. Heals wounded captured creatures.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki heal pet here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Vanguard Drahlid Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A small drone sent out by Avikan soldiers to scout the area ahead.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

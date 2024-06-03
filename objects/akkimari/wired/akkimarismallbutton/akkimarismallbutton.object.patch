@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Small Akris Button",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small touch-screen button.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Presss it!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What will happen if I press this button?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Button. Used to temporarily activate circuits.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki press, things happen.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

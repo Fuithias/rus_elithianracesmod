@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The hard but flexible scales of a Faryth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Faryth Scales",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

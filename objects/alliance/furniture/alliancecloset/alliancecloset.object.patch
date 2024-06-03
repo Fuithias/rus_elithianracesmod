@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Closet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large closet with a built-in wardrobe.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A closet full of clothes and other personal belongings.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This closet is full of personal items.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sshould not be touching other people's sstuff.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. What might these items tell about their owner?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Someone filled this closet with all sorts of personal items.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large and handy closet.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A closet full of items.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This spacious closet has room for almost anything.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Aliens collect all sorts of strange items, it seems.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wardrobe, with plenty of space for other items too.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien storage. Scanning items.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Things-many inside. Aliens store items-weird.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

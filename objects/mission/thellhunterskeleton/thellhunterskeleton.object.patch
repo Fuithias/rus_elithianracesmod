@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thellhunter's Skeleton",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The legendary Thellhunter himself...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Old boness, boness of the Thellhunter...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This skeleton belonged to the legendary Thellhunter himself.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skeleton of the great Thellhunter himself...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Avikan bones. Analysis: DNA traces match Thellhunter's profile.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien-dead. Look like Thellhunter.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

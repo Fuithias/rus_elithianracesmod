@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick and strong glass-like plastic often used on board spaceships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Sloped Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

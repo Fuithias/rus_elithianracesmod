@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Elite Drahl Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A massive combat drone for supporting Avikan soldiers on the field.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Small Akris Chest",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rounded metal container from Akris.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A rounded metal crate. How odd.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This chest is like a metal bird nest.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssstrange crate holdsss sstrange goodiess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. Why is this chest so rounded?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now that's an odd-looking chest.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange but elegant chest.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda weird alien container. Not sure if I should open it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Akkimari chest, from the looks of it.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This chest has a strange alien design.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This container is not very efficient in its use of space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chest-metal from home. Akkimari find goods inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

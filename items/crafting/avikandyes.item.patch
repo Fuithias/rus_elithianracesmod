@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Colourful yellow and orange dyes, used to create Avikan cloth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Dyes",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

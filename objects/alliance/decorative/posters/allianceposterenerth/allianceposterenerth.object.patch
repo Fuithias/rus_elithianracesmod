@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Enerth Engineering Poster",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poster promoting Enerth Engineering.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Blue makesss Floran think of the ssky.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Confused. What does Enerth Engineering manufacture?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Enerth Engineering produces many of the Union's vehicles, but also its modular homes, and some household equipment.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

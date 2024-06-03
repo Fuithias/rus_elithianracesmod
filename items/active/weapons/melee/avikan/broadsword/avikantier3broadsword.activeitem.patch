@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Острый палаш из прочной кости чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Острие преследователя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острый палаш из прочной кости чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Острие преследователя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

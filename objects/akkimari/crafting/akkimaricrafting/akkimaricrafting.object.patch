@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Scrounger's Workshop^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop with some simple tools.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple scrappy workshop.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop. It has a basic anvil too.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Let's craft something!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a basic workshop. Nothing special.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One could craft many things here, despite the simplicity of the tools.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are just waitin' to be used.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop. It's missing a few tools...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like it was cobbled together from scrap metal...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop was very poorly constructed.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki craft things here. Not need tools-many.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Scrounger's Workshop^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop with some simple tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple scrappy workshop.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop. It has a basic anvil too.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Let's craft something!",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a basic workshop. Nothing special.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One could craft many things here, despite the simplicity of the tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are just waitin' to be used.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop. It's missing a few tools...",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like it was cobbled together from scrap metal...",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop was very poorly constructed.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki craft things here. Not need tools-many.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Forager's Workshop^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop with a small tabletop furnace.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple furnace really helps flesh out this workshop.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop. That small furnace must be useful.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Let's craft something!",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop has a tiny furnace in it. Neat.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The heat of the small built-in furnace is quite comfortable.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are just waitin' to be used.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A messy workshop. That furnace should come in handy.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a bit rough, but this workshop is perfectly functional.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A moderately efficient design for a workshop.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Detected miniature furnace for low-intensity smelting.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace-small make this workshop complete.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Raider's Workshop^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech workshop capable of rapidly constructing materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop can rapidly construct items from raw materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of high-tech crafting space.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This device can rapidly construct items from raw materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure how this defive works, but the way it constructs items looks cool!",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device can rapidly contruct items from simple raw materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta construction device. What would happen if I stuck my hand in?",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly advanced workshop. It reminds me of a Multi-Fabricator unit.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should take notes on how this device works. The Nomada might learn something from it.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly efficient, if somewhat unsafe, crafting device.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Unable to determine construction method used.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki put in materials, station construct things-many.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

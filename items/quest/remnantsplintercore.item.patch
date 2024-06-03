@@ -1,0 +1,17 @@
+[
+  {
+    "value": "An ancient, otherworldly stone with a corrupting aura.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Blighted Stone Core^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

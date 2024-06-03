@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Общее. ^white;Генератор низкой интенсивности для защиты ног.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Щит для ног Л-и",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Общее. ^white;Генератор низкой интенсивности для защиты ног.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Щит для ног Л-и",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

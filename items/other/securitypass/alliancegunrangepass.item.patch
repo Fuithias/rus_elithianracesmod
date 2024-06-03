@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A security pass granting access to the Creon Embassy's gun range.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Embassy Gun Range Pass^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Security Pass",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A guide to Alliance crafting. Unlocks most Alliance crafting recipes, regardless of race.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Alliance Crafting Guide^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crafting Guide",
+    "path": "/category",
+    "op": "replace"
+  }
+]

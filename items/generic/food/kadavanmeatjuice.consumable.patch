@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Prickly cactus juice blended with poorly cooked meat. What could go wrong?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kadavan Meat Juice",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Гигантский молот из высококачественной кости монстра.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Молот хищника",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Гигантский молот из высококачественной кости монстра.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Молот хищника",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

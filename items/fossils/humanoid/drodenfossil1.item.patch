@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fossilised Droden head.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Droden Head",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

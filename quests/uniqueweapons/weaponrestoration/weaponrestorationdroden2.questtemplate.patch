@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;The Legion's Blade II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Now that we have the Legion Switch Gear, all we need are some raw materials to repair the blade itself. If you can ^green;find me ^orange;10 Superb Kavanite Plates ^green;and a piece of ^orange;Avikan Circuitry^white;, I can finish the repairs.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, your fully restored Legion blade! Make good use of it, Droden.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

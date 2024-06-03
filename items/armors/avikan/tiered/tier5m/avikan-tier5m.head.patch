@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Металлический шлем с внутренним охлаждением. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем Номады тип-М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Металлический шлем с внутренним охлаждением. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем Номады тип-М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

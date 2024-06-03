@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Pillar",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong supporting pillar.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal pillar.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny metal pillar.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal pillarsss look like large sspearsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A pillar.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A supporting pillar. It can carry a lot of weight.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal pillar. Effective, but not too pretty.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy pillar.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal pillar from home.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal pillar.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Supporting pillar. Failed to estimate maximum supported weight.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pillar-long, for supporting roof-heavy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

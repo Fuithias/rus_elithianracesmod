@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Leather Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of leather.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Sssimple leather ssheet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This is a leather sheet.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet, plain 'n simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected leather sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheet-large. Made of leather.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Holiday Lights",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

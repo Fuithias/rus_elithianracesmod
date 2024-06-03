@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Cobblestone",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hard cobblestones, smooth to the touch.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Facinated. These cobblestones are naturally smooth.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssmooth cobblessstone rockss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ain't uncommon to run across cobblestone rocks like this.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

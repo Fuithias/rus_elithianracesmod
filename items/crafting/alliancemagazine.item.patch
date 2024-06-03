@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A vital part of any Alliance ballistic rifle.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Magazine",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An organ used by the Valahr to create potent poisons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Valahr Poison Gland",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

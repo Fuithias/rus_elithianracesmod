@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Keff",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vehicle built for crossing the desert at high speed.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A reliable hoverbike. I believe its makers call it a keff.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Driving such hoverbikes makes me feel like I am flying.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big metal fly thingss. Fassst.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazement. This hoverbike features incredibly advanced technologies.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hoverbike. This is so cool!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hoverbike built for use in the desert. Not for underwater use.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan build some of the most reliable vehicles there are.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reliable keff. Like us, it can withstand extreme conditions.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hoverbike of Avikan design, it is incredibly reliable.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Keff detected. Owner: unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bike-alien, looks fast.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

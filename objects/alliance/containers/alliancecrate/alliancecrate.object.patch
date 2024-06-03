@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Crate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standardized metal container.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A metal crate. Not much else to it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what this crate might hold?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cratesss full of goodiesss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bored. A simple metal crate.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is there loot inside?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standardized metal crate. Sturdy, but relatively lightweight too.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crate. Quite basic.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standardized cargo crate. It's used throughout the Alliance.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal crate of alien design.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Alliance uses efficiently-designed crates.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crate. Akki store stuff here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

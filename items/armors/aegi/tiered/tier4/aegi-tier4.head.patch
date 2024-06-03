@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Прочный металлический шлем, который носили аегинские спецназовцы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем спецназа",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Прочный металлический шлем, который носили аегинские спецназовцы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем спецназа",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

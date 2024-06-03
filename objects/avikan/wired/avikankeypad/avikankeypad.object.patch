@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Vanguard Keypad",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A programmable keypad for locking doors with a passcode.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad. I don't recognize any of the symbols on it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien keypad using alien symbols...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran presssess buttonss, Floran unlockss doorss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Puzzled. I know none of these symbols.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This keypad uses strange symbols instead of numbers. Or are they alien numbers?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad using an alien interface.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've never been good at remembering passcodes.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This keypad may use Avikan numbers, but its layout is universal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This keypad can be used to lock doors with a passcode.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan numerical system isn't the most logical system.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Vanguard-approved security keypad.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki enter code, door unlocks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

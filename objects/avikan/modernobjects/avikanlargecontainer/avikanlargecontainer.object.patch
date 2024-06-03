@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Large Avikan Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal container. For storing items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large metal cabinet.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny metal container. What's inside?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Containersss full of goodiesss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A large metal cabinet.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal container. Might be full of goodies!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal container, for storing your belongings.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather bag, for storage.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large metal container, for storing personal belongings.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal cabinet. Its shape makes for an inefficient use of space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki open, look inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

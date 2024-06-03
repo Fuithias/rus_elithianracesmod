@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Keypad",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A programmable keypad for locking doors with a passcode.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad. I can use it to lock a door with a passcode.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad, useful for locking precious gems in a vault.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran presssess buttonss, Floran unlockss doorss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. What might this unlock?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a keypad. I should try some combinations!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad, highly effective at locking things away securely.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've never been good at remembering passcodes.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad built by AAE. It uses a simple five digit passcode.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad. The symbols on it are strange.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keypad. Highly effective and efficient at locking doors securely.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien security keypad.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki need code... Akki want to break!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

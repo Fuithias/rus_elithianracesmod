@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Разместите самоходную платформу, которая движется по рельсам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рельсовая платформа Авикан",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Разместите самоходную платформу, которая движется по рельсам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рельсовая платформа Авикан",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

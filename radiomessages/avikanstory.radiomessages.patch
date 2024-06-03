@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Commander Zaheed",
+    "path": "/avikanmission1-arrival1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "I see you've arrived at Dhakorin. The colony we lost contact with is just over the rise to the east.",
+    "path": "/avikanmission1-arrival1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Commander Zaheed",
+    "path": "/avikanmission1-arrival2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "We must know what happened to the colony. Please, hurry.",
+    "path": "/avikanmission1-arrival2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Scans indicate that this ship was recently shot down. The burn marks are consistent with Thelean weaponry.",
+    "path": "/avikanmission1-crashedship/text",
+    "op": "replace"
+  },
+  {
+    "value": "Commander Zaheed",
+    "path": "/avikanmission1-theleanship1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Thelean ships... It seems my fears have been confirmed: the colony was attacked by the Thell.",
+    "path": "/avikanmission1-theleanship1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Commander Zaheed",
+    "path": "/avikanmission1-theleanship2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "You must hurry inside, Captain. If the ships are still outside, there must still be Thell within the colony.",
+    "path": "/avikanmission1-theleanship2/text",
+    "op": "replace"
+  },
+  {
+    "value": "I am detecting Thelean lifesigns beyond that locked door. I advice you climb into the airducts above and prepare a surprise attack.",
+    "path": "/avikanmission1-theleanscout/text",
+    "op": "replace"
+  },
+  {
+    "value": "It seems the way ahead is blocked, but I am detecting a structural weakness in the floor. Perhaps you can break through.",
+    "path": "/avikanmission1-breakfloor1/text",
+    "op": "replace"
+  },
+  {
+    "value": "I am detecting an unknown lifesign in the next room. Be on your guard.",
+    "path": "/avikanmission1-ghavorkan1/text",
+    "op": "replace"
+  }
+]

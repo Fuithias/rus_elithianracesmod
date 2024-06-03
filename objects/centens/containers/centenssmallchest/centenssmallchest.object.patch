@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Small Centensian Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient metal container.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal container. Looks very old.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A magnificent metal chest.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Old chestsss give the bessst loot!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. The automated locking mechanism on this ancient container still functions,",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient chest? Might be full of goodies!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient container. What might it store?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian container. It might hold some artefacts.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container from the Old Ones. These often hold artefacts from the Old Civilization.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian container. Eons old, but its opening mechanism still works.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian container. Contents unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-maker storage, Akki find valuables inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

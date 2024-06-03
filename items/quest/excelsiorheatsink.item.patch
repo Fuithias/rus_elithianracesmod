@@ -1,0 +1,17 @@
+[
+  {
+    "value": "The heatsink of a small but powerful weapon, designed by AEG-Corps.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Excelsior Heatsink^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

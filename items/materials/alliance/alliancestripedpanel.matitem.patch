@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A polished metal panel, decorated by a colourful stripe.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Striped Alliance Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

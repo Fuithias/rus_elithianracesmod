@@ -1,0 +1,252 @@
+[
+  {
+    "value": "You called for me?",
+    "path": "/beacon/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you with something?",
+    "path": "/beacon/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, friend. Did you need me?",
+    "path": "/beacon/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Is there anything you'd like to discuss?",
+    "path": "/beacon/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, my friend.",
+    "path": "/beacon/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Here, take this! I've been very happy with your service.",
+    "path": "/rent/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada needs more people like you. Please, accept this token of gratitude.",
+    "path": "/rent/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thank you for taking in a traveller like me. Please, take this.",
+    "path": "/rent/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You've been a good friend. Here, take this.",
+    "path": "/rent/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I've a small gift for you. A token of my gratitude.",
+    "path": "/rent/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Did you require my aid?",
+    "path": "/beacon/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Did you call for me?",
+    "path": "/beacon/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Did you need to talk?",
+    "path": "/beacon/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are my services required?",
+    "path": "/beacon/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Hello again.",
+    "path": "/beacon/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Take this. It is a token of my gratitude.",
+    "path": "/rent/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You have been kind to me. Take this.",
+    "path": "/rent/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You've been incredibly helpful. Here's a gift for you.",
+    "path": "/rent/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "A gift, for your troubles.",
+    "path": "/rent/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "For all you have done for me, take this.",
+    "path": "/rent/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "This unit has received your call.",
+    "path": "/beacon/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have need of this unit's services?",
+    "path": "/beacon/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Call received. Unit has arrived as requested.",
+    "path": "/beacon/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Call heeded. Is this unit needed?",
+    "path": "/beacon/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/beacon/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfied with service. Presenting gift.",
+    "path": "/rent/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting gift. Your service has been admirable.",
+    "path": "/rent/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your actions deserve a reward. Take this.",
+    "path": "/rent/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You have been meritful. Presenting gift.",
+    "path": "/rent/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting a token of gratitude. Take it.",
+    "path": "/rent/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Did you call for me?",
+    "path": "/beacon/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help?",
+    "path": "/beacon/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Did you need me?",
+    "path": "/beacon/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hey! What did you call me for?",
+    "path": "/beacon/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Want to talk?",
+    "path": "/beacon/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You're an excellent landlord. Here, take this.",
+    "path": "/rent/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I think you'll like this!",
+    "path": "/rent/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The house is great! Please, take this.",
+    "path": "/rent/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I have something for you!",
+    "path": "/rent/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Keep up the great service, and I'll keep paying my rent.",
+    "path": "/rent/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You call, Akki come!",
+    "path": "/beacon/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Call for Akki, Akki here.",
+    "path": "/beacon/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Call for Akki?",
+    "path": "/beacon/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Yeeesss?",
+    "path": "/beacon/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "What you want? Akki listen!",
+    "path": "/beacon/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pleased with home-Akki. You take reward!",
+    "path": "/rent/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki make Akki happy. Akki-happy give gifts!",
+    "path": "/rent/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You make house-good. Akki give gift.",
+    "path": "/rent/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pleased, it true-true. Akki make you happy, too!",
+    "path": "/rent/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pay rent, Akki tenant-good. Now go back to what Akki was doing.",
+    "path": "/rent/akkimari/default/4",
+    "op": "replace"
+  }
+]

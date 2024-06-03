@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A smooth, dark metal plate.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Plating",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

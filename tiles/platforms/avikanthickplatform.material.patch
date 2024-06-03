@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Thick Avikan Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick metal platform. Very sturdy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Measuring. This platform is thicker than most.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick platform, for basshing skulsss into.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems like a mighty thick platform.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Thick metal platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Platform for standing. Akki rest a while?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

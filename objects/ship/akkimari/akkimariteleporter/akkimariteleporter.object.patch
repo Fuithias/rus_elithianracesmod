@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter of Akkimari design.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The teleporter! Teleporting feels like flying.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship teleporter. Floran feel confusssed during teleport.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Smug. A teleporter. I am able to enter a sleep mode during the teleport process.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The teleporter! Teleporting is such a rush.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship's teleporter. Let's take her for a spin!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ship's teleporter. I always feel like I'm riding an Aventor Racing Spaceship when I teleport!",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ship's teleporter. Using it feels like riding atop a giant sandcrawler at top speed.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some species feel sensation when they teleport, but I feel nothing of the sort.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleportation technology detected. Recommend entering standby mode during teleportation process to minimize potential data loss.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki teleport to places, make Akki feel dizzy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

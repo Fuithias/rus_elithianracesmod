@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Kitchen Sink",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter with a built-in sink.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen sink.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could get drink a bit of water here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sinksss givess Floran water.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A kitchen sink.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sink, a vital part of any good kitchen.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I always have time to get some water.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sink.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This kitchen sink should prove useful.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Aliens use water quite carelessly.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen sink.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien water source.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki wash hands here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

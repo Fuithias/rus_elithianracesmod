@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Sandcrawler Egg",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The leathery egg of a Kadavan Sandcrawler.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An alien egg. It feels leathery.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is a rather odd egg...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eggsss for eating?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. What sort of creature might spawn from this egg?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien egg. It doesn't look very edible.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The spawn of new life.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The egg of a worm-like creature from Kadavan.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sandcrawlers's egg. Perhaps I should hatch it and raise it as my own.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sandcrawler egg. Better not anger the parent.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sandcrawler egg. Please handle with care.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Egg-weird, probably taste-weird. Akki still want to eat.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

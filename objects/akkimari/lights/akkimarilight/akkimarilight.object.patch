@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Table Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gentle table lamp.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A table lamp. It pulsates softly.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This table lamp makes me feel calm.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pulsssing light.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Calm. This pulsating light is relaxing.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsating light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This pulsating light evokes a feeling of calmness.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small table lamp, pulsating lightly.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsating light. It calms the Akkimari down.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien lamp. The light is odd somehow.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsating light.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected pulsating light source.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki like light-pulsating. Akki feel calm.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

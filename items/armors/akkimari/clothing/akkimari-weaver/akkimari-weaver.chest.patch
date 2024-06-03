@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Шелковая ткань, которую носят ткачи шелка",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ткацкая перевязь",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Шелковая ткань, которую носят ткачи шелка",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ткацкая перевязь",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

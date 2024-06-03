@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Terminal",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer terminal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A computer terminal. Looks old, yet highly advanced.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient computer terminal, still functional.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny screensss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This ancient computer terminal still functions.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Odd. I though all ancient technology used holographic screens.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient and mysterious computer console. What does that text mean?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer terminal, built by the Centens many eons ago.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer terminal left behind by the Old Ones.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian terminal. I am unable to process the information it displays.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Detected Centensian interface.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Terminal for controlling things. Akki push buttons-all!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

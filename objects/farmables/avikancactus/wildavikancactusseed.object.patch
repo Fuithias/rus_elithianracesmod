@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Kadavan Cactus Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cacti originating from the desert planet of Kadavan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A juicy cactus. It looks better than it tastes.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Colourful cacti. Not very tasty.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Juicccy green plantsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Cactus spines make for excellent projectiles.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien cacti. I prefer those from Earth.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plant filled with water. A relief to any who live in the desert.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cactus originally found on the Avikan homeplanet Kadavan.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cactus from home. Vital for life in the desert.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant stores a great deal of water, and is vital to organic life in the desert.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Kadavan flora. Cactus confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant full of water. Akki drink?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Sandcrawlers",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Valahr",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Wild Faryths",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Hacked Drahls",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Violated Drahls",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Hacked Trinkian Drones",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari Arbiters",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Thelean drones",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  }
+]

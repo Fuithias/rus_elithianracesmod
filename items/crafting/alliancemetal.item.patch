@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong, lightweight iron alloy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Long Vanguard Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall tapestry decorated in the style of the Vanguard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wall decoration. I don't recognize the symbol.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what this symbol represents",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss blood-red clothsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. Red colours are often associated with war.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall tapestry dyed a deep red colour.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This wall decoration has a militaristic feel to it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gotta wonder what that icon means.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall decoration decorated in the style of the Avikan Vanguard.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry was decorated in the style of the Vanguard.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry was decorated for the Vanguard. They are not particularly fond of the Trink.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Vanguard wall decoration.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapestry with symbol, for military-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

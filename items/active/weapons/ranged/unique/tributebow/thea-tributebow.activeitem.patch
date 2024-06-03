@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Мощный лук, созданный в честь Элитии.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Элитианский лук^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Рекурсивный лук",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Мощный лук, созданный в честь Элитии.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Элитианский лук^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Рекурсивный лук",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

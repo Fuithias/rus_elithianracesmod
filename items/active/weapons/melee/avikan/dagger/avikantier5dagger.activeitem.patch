@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Острый металлический кинжал, разработанный Номадой.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Кинжал Номады",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острый металлический кинжал, разработанный Номадой.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Кинжал Номады",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

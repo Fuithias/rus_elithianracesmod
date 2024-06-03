@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Weapon Locker",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locked filled with weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "These weapons would be of great use to the rebels.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weapons locked.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wantsss these weaponss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Careful. These weapons could be dangerous. Better keep the cabinet locked.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locked full of awesome guns!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A collection of alien firearms.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A closet for my guns.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A military weapons locker.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage for alien weaponry.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The weapons locker has multiple safety features. It's quite efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien weaponry storage. Scanning items.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take weapons-alien?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

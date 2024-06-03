@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^green;Custom Tailoring",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "My request for a custom Protectorate uniform has been answered, and my new uniform should be waiting for me in my locker.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "This'll fit far better than the standard uniform. Better not lose it - it's truly one of a kind.",
+    "path": "/completionText",
+    "op": "replace"
+  }
+]

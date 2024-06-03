@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A basic self-repair module. Restores 500 health over 30 seconds.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Repair Module",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

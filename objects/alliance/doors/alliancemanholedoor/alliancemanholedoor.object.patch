@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Manhole Cover",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal manhole cover.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A manhole cover. To stop fools falling down a hole.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A manhole cover.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Manhole cover, iss ssomething hiding beneath?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. A manhole cover.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A manhole cover, just waiting for someone to fall down in comical fashion.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A manhole cover, what lurks beneath?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda manhole cover, what's it hidin'?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large manhole cover. It might lead to some sewers.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A door of some kind. Where does it lead?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A manhole cover. It keeps people from falling into the sewers.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected metal door. Scanning for passages underneath...",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door in ground. Akki curious.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

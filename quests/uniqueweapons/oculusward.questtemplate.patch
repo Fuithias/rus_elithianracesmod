@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;A Shielded Eye",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I recovered a shield generator from an Oculus's wreckage. It still looks functional, but all of the connections have been fried... ^green;Perhaps someone who studies Centensian technology can repair it for me.^reset;",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Is this a part from a Ce'Tennan Oculus? Incredible! I think I might know how to get it operational again.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

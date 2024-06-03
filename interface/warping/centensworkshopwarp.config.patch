@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Vhos Avha'las",
+    "path": "/destinations/name",
+    "op": "replace"
+  },
+  {
+    "value": "Unidentified Planet",
+    "path": "/destinations/planetName",
+    "op": "replace"
+  }
+]

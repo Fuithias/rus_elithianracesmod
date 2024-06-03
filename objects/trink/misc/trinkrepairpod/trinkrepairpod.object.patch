@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Repair Pod",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A repair pod for quickly repairing damaged Trink units.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A repair pod of sorts.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can't imagine this being comfortable for anything but machines.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal box for sssitting?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascination. This repair pod can repair almost all damage.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A repair pod for robots. Oddly enough, it also works for humans.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A repair pod capable of repairing nearly any damage sustained in combat.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian repair pod. Efficient, as always.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A repair pod for machines. I should probably disable it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This repair pod will repair any damage my frame sustained.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Repair pod detected. Provides automated repair of alien synthetics. Recommend disabling of device.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machines repair here. Akki sabotage, make it break machines!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

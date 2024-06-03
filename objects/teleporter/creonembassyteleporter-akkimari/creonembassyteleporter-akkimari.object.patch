@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Creon Embassy Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter linked to the Creon Embassy. \n^red;Destroyed when broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This teleporter is linked to a set location.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked to a set location.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked directly to the Creon Embassy.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This alien teleporter is linked to a set location. I'm hesitant to use it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked directly to the Creon Embassy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Readings indicate that this teleporter is linked to a set location. Recommend caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter take Akki to location-set. Where it goes?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

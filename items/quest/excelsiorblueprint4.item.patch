@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A fragment of a weapon blueprint.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Blueprint Fragment 4^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

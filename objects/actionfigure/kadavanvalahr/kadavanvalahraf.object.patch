@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Val'ahr Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A highly aggressive cave dweller, the Val'ahr has evolved wings to help it navigate Kadavan's cave systems.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Flag Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry, decorated with the Avikan flag.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry decorated with an emblem. I wonder what it means.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decorated leather tapestry. Are those wings?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapessstry remindsss Floran of home.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Error. This emblem is not available in my database.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather tapestry, decorated with some sort of emblem. Not very well crafted.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive way to decorate one's home.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This emblem symbolizes the Avikan exodus from Kadavan.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tapestry, decorated with our flag. One day, we will return to Kadavan and reclaim our home.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This emblem symbolizes a grand exodus.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Material: leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Icon-alien. Akki think it mean Nomada.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

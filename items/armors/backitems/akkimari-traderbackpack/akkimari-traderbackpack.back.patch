@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Большой рюкзак, который носят торговцы Завета.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рюкзак торговца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Большой рюкзак, который носят торговцы Завета.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рюкзак торговца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

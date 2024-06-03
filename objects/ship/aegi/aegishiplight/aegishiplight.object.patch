@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Ship Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light strip.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light often found on ships.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vibrant light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran dissslikess ship light. Light feelss unnatural...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This lighting fixture generates more light than heat.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty basic light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A neutral light. Always useful.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light is a lot brighter than I am. Wait, that didn't sound quite right...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright, neutrally coloured light.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. It isn't as efficient as it could be.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light source detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-simple.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

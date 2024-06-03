@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Большая костяная пластина для защиты тела.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Нагрудник воина",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Большая костяная пластина для защиты тела.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Нагрудник воина",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

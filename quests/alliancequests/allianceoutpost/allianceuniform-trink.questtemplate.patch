@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^orange;Suiting Up",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, ambassador! I have your Alliance body mods ready for you: here you are.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "I received my official Elithian Alliance body mods. Let's install them!",
+    "path": "/completionText",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "rogue Captain",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Thelean infiltrator",
+    "path": "/0/1/-/1/name",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Юбка авиканской высиделки.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка высиделки",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Юбка авиканской высиделки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка высиделки",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Брюки, которые носят медработники Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Брюки Медитек",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Брюки, которые носят медработники Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Брюки Медитек",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

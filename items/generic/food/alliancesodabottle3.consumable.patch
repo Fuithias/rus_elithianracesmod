@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A bottle of Corus, brown and bubbly.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Corus Bottle",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

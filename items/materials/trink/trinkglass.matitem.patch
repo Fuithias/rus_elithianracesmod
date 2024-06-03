@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick glass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

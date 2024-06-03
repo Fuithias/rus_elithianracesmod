@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Кожаная юбка, которую носят мирные население Номады",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Современная юбка",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Кожаная юбка, которую носят мирные население Номады",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Современная юбка",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

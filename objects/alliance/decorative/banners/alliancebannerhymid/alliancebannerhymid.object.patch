@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Republic of Hyzolia Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner adorned with the emblem of the Hymidian Republic of Hyzolia.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This banner is adorned with some alien emblem.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien emblem. Emblem identified as Hymidian Republic of Hyzolia iconography.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki think this is symbol Republic-Hymid.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning Mode",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tool",
+    "path": "/category",
+    "op": "replace"
+  }
+]

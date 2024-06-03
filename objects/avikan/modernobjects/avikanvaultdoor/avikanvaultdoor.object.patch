@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Vault Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal blast door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal blast door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny blast door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A blast door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal blast door. Cool.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal blast door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vault door. Useful for protecting valuable things.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This vault door will keep any potential intruders outside of our Terves.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan vault door. What might it be protecting?",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Vault door. Protects Terves against potential intruders.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-vault, keeps room secure.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

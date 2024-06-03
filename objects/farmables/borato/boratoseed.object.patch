@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Borato Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plump plant rich in calories and taste both.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It looks a bit like an oversized potato.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant looks quite delicious to me.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hard and tasssty root, fressh from the dirt.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Knowledgeable. The borato can be prepared in dozens of different ways.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Does this thing have as many applications as a potato? It sure looks the part.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but useful vegetable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some kinda hard root.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "According to the history books, the borato was engineered from native Elithian flora, and a bit of ancient potato DNA.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this like a bolbohn? It doesn't smell as good.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi did some extensive bio-engineering when they first came to Elithia. This plant is a result of those days.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien flora. Similarities to bolbohn noted.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki see plant-fat, make Akki fat too?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

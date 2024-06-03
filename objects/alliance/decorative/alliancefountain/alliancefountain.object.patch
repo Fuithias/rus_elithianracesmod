@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Fountain",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A beautiful water fountain.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty fountain. The sound of the water is soothing.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large fountain. Reminds me of a birdbath.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water is bringer of life for Floran.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relaxed. The sounds of this water is calming.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If I had a penny I'd throw it in.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Beautiful clear water. Sometimes I miss the ocean.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda splashy statue spoutin' water.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fountain. The sound of it always managed to calm me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Aliens waste water in many ways...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This fountain wastes almost no water. It's quite efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected water source. Recommend extraction.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water flows. Akki grows thirsty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

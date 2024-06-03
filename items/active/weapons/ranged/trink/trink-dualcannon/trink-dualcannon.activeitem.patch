@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Тяжелая двуствольная лазерная пушка.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Двухствольная схема-пушка",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лазерная пушка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Тяжелая двуствольная лазерная пушка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Двухствольная схема-пушка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лазерная пушка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

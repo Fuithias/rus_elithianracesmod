@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Empty Avikan Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty glass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An empty glass.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just an empty glass.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It'sss empty.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This glass is empty.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what sort of drink was previously in this.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple drinking glass.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "'Tis empty.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty drinking glass.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should fill this up.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An empty glass. I detect traces of cactus juice.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Drinking glass. Detected traces of cactus juice.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Glass-empty, no fun.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

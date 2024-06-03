@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Chair",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern, heavy chair.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A chair with a comfortable leather cushion.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable chair.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chairsss for sssitting!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A chair.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A chair. Incredibly comfortable.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very comfortable chair.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy chair, but incredibly comfortable.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern Avikan chair. Even more comfortable than our leather cushions.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reportedly comfortable chair.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scans indicicate damaged leather. Repairs are recommended.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chair-alien. Weird, but nice.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

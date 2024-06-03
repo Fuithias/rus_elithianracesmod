@@ -1,0 +1,22 @@
+[
+  {
+    "value": " Infusion Station",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Strengthen your Unique equipment",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Destroy equipment to upgrade a Unique item",
+    "path": "/gui/infoLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Infuse",
+    "path": "/gui/btnInfuse/caption",
+    "op": "replace"
+  }
+]

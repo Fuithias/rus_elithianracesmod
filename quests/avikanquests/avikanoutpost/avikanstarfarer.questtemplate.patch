@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;A Starfarer's Request",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Would you help out a fellow Starfarer, friend? I'm in need of a ^orange;Sandspitter's Sack ^white;and a ^orange;Sandcrawler's Tooth ^white;for a little experiment of mine, but I am stuck here while my ship is being repaired... If you could ^green;hunt down a Sandspitter and a Sandcrawler on a desert planet^white;, I would be most grateful!",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Thank you, my fellow Starfarer! This is exactly what I was looking for. Take this helmet and these tokens - you have earned them!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Nenehki ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

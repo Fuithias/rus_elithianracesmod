@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Cabinet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard double-drawer cabinet.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple cabinet.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a cabinet.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran knowsss thiss iss a cabinet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bored. Simply a cabinet.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty regular cabinet.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A good place to store clothing.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple cabinet.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cabinet, for storage.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage. Not sure for what, though.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cabinet.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien storage.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Clothing-alien inside. Akki amke costume-funny!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

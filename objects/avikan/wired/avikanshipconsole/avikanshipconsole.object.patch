@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Ship Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer console for wiring circuits together.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A console for controlling parts of a ship.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This panel controls certain parts of the ship.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny buttonsss, Floran presss?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. This control system is unfamiliar to me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control panel, the interface is new to me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A console sporting a fancy interface. I don't understand any of it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan-designed console. Its interface is too complicated for me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A console for interfacing with various systems.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console's interface was designed for Avikan hands.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Console. Used for interfacing with various systems.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Console-small, for controlling things-small?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

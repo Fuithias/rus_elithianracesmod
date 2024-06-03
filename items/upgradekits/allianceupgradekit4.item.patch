@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An advanced weapon upgrade kit. Upgrades weapons to level 4.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Upgrade Kit L.4",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

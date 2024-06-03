@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A Kelbet's fur, an illegal luxury in most Union territories.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kelbet Hide",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

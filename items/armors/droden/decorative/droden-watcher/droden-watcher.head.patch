@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Головной элемент для наблюдательных единиц дроденов.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Голова наблюдателя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Головной элемент для наблюдательных единиц дроденов.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Голова наблюдателя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

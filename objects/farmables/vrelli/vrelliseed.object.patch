@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Vrelli Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tall plant with a bright red colour.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thick red leaves. I'm sure you can make something edible from them.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright red plant.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss bright red leavess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Bright red leaves.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright red plant. Is it edible?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick, bright red leaves. An odd alien plant.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One could hide well amongst plants like these.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strange, thick leaves with a bright red colour.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant. It looks edible, but I'm not sure if it's safe.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One could make a good paste from these leaves when powdered.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Akris flora. Vrelli leaves.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki collect Vrelli, crush it to powder. Make paste-tasty from it!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

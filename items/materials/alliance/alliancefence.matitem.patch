@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sturdy metal fence.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Fence",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trinkian Sloped Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick and strong glass often used on board spaceships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This glass is strong enough for use on spaceships.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran look pretty in glasssss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Thick glass used on spaceships.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Glass-thick, for spaceship.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A token of merit, to show your worth amongst the Avikan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#0094FF;Token of Merit^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

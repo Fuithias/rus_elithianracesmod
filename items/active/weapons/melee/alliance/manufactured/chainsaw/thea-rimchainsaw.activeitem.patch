@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Мощная бензопила, которая разрезает металл, плоть и камень.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Рубеж^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Резак Римрок",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Цепная пила",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Мощная бензопила, которая разрезает металл, плоть и камень.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Рубеж^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Резак Римрок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цепная пила",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

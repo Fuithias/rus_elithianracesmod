@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Shuttlecraft",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ground-to-space transport vessel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This shuttle can transport people and cargo from the surface to spaceships in orbit.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A flying transport vehicle. It would be better with wings.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Flying in sssmall sship makess Floran sssick.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This vehicle can easily transport people and cargo from the ground into orbit.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shuttle, for ground-to-space transportation.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sleek transportation vessel.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure this'll fly like a charm.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ASA-26 Ranger, perhaps the most popular vehicle built by ASA.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien shuttle. It reminds me a bit of our own dropships.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ASA-26 Ranger is a highly efficient shuttle, and deserves to be so popular.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien spacecraft.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vehicle-armoured.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

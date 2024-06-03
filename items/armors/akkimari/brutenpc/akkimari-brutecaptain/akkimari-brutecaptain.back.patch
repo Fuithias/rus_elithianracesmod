@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Топливный бак, который носят капитаны Келрааки",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Грубый капитанский рюкзак",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Топливный бак, который носят капитаны Келрааки",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грубый капитанский рюкзак",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Fabric Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather tent door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple sheet of fabric. Not much of a door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a fabric sheet door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran like how fabric feelsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. It's just a sheet of fabric used as a door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plain fabric door curtain.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but elegant door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a sheet o' fabric.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic portière.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This reminds me of the tents back on Kadavan...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A portière. Simple and efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected door. Resemblance to Avikan tent doors noted.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curtain-simple makes for door-easy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

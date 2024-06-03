@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A can of tasty Corus.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Corus Can",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

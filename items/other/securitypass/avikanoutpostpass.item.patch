@@ -1,0 +1,17 @@
+[
+  {
+    "value": "This pass unlocks access to security consoles in the Starfarer's Refuge.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Starfarer's Refuge Pass^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Security Pass",
+    "path": "/category",
+    "op": "replace"
+  }
+]

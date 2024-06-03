@@ -1,0 +1,72 @@
+[
+  {
+    "value": "^orange;Avikan Stove^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stove for preparing food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A multifunctional stove, for cooking and baking.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could bake some bread in here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran once climbed insside stove. Wasss not pleassant...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Apreciative. This multifunctional stove allows me to prepare a variety of foods.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It looks like a stove, but I don't understand the controls at all...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A multifunctional stove.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Let's do some bakin'!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan multifunctional stove, used to prepare various types of food.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can prepare many types of food here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A somewhat inefficient stove.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected stove. Organic food can be used as unit fuel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki cook, make food tasty-more.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

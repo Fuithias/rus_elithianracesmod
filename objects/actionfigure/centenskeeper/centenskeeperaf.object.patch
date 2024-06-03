@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Ce'Tennan Keeper Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A Ce'Tennan construct built to safeguard their creations.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

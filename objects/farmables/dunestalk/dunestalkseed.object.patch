@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Dunestalk Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hardy dunestalk, a wheat-like plant found growing in arid locations.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like wheat, but it's far sturdier and drier.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran iss confused... Iss this wheat?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Does dunestalk have as many uses as wheat does?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder if I can use this to bake some sort of alien bread?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant is incredibly dry. I'm not even sure water would do it much good.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some odd form o' wheat, perhaps?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dunestalk is the equivalent of wheat on the Avikan homeplanet.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could prepare some traditional food using this dunestalk.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dunestalk and wheat are similar in many ways, although dunestalk doesn't have quite as many uses.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Kadavan flora. Dunestalk confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Grass look dead. Dry-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

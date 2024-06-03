@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Small Hyverium Rock",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fragile rock full of Hyverium ore. Maybe I could break it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny rock. Sssmash it!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observant. This rock contains Hyverium, and is covered in cracks. It should be easy to break.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki break rock, get Hyverium.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

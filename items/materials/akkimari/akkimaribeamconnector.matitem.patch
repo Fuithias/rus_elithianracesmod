@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sturdy beam connector piece.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Beam Connector",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

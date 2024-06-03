@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Large Avikan Cushion",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather cushion.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable leather cushion.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather cushion. Simple, but quite comfortable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cussshionsss for sssitting!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This primitive leather cushion is quite comfortable.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple, comfortable cushion.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A surprisingly comfortable leather cushion.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather cushion, eh?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable leather cushion.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple collection of leather sheets piled onto each other.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather cushion.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Common leather cushion.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cushion-large, Akki sit, Akki rest.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

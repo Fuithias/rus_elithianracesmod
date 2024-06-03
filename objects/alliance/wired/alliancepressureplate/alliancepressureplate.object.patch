@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Alliance Pressure Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pressure plate that activates when stood on.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sstand on platess, thingsss happen!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. Something might happen if I stand on this pressure plate.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Pressure plate. Activated when stood upon.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki stand here, plate activates!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

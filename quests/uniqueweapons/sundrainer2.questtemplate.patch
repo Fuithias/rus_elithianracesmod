@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Consuming the Stars II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I could help you build a new weapon using this core, but you will need to gather the materials. ^green;Bring me ^orange;32 pieces of Centensian Metal^green;, along with ^orange;12 pieces of Centensian Tech^reset;, and I will have Ayurin build a new frame for the weapon.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Good work, Captain. I will have these materials brought to Ayurin so he can start working on the frame. In the mean time, I have another task for you.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

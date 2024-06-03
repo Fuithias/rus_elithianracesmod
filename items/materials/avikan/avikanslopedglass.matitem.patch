@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick and strong glass often used on board spaceships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Sloped Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

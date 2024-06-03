@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A highly corrosive organic substance.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vaash",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

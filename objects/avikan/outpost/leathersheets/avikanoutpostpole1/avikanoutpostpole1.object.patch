@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Metal Pole",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thin metal pole.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran ussse metal poless as ssspears?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bored. A simple metal pole.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal pole, thin as a branch.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal pole detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pole-metal.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

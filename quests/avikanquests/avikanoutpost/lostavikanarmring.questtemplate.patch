@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Lost in the Pipeline",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "A friend of mine gave me an ^orange;arm ring ^white;a few years back, as a token of our friendship. I've worn it ever since, but it fell from my arm the other day and now I can't find it! Could you look for it? ^green;I think it may have fallen into one of the pipes running through the lower parts of the ship.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Thank you for bringing my arm ring back to me! Here, take this, you've earned it!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Arthan ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

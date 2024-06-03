@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Generator",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A generator of Trinkian design.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A generator of sorts.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large generator. This could power an entire village.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big box makesss energy...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Greedy. I could make good use of all this energy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This generator looks like it could power an entire city block!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A generator of alien design. It looks rather powerful.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian generators are amongst the most efficient generators in the Alliance.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A generator. It could provide energy for a significant portion of a Terve.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The efficiency of this generator can only be optimized slightly further.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Warning. Readings indicate strong electrical fields.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Generator make power, Akki use power to make things happen.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

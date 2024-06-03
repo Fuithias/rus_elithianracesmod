@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Standing Torch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tall standing torch giving off a warm glow.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A raised torch.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tall flickering torch.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "High torch holdss fire.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Serene. A tall torch, the flame flickers.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crackling torch.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A raised torch provides light for a large area.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The flame is cracklin' away.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple torch, with a basic metal pole.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This torch reminds me of home.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly inefficient way to light your surroundings.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fire hazard detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Torch-tall, made quick-like. Strong-no, Akki no bump into it.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

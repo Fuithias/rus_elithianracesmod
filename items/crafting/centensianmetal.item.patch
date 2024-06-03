@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal cube of an otherwordly material.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Centensian Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

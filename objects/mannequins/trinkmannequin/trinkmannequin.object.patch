@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Trink Mannequin",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Display and easily equip your Trink-themed armour sets!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mannequin for disssplaying armour.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A mannequin tailored to an alien species.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected mannequin. Tailored to Trinkian shape.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki put armour on mannequin, look at armour-pretty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

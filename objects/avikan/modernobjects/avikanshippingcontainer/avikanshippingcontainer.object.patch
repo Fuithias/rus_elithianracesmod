@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Nomada Shipping Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very large shipping container used by the Nomada.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a huge crate for shipping large cargo.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I would guess it's meant for shipping very large objects.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Maybe theress food in it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What's stored in here?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a really big shipping container.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather large container for shipping large quantities of cargo.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large container for haulin' goods.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive Avikan shipping container.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This standard-issue shipping container is often used to resupply colonies.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan-built shipping container.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Container-huge. Akki could live inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

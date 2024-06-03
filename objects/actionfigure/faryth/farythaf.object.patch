@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Faryth Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A flying creature from Elithia, the Faryth is a fast and nimble predator.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

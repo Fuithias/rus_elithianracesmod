@@ -1,0 +1,178 @@
+[
+  {
+    "value": "Teleport Confirmation",
+    "path": "/vanguarddronebattle/title",
+    "op": "replace"
+  },
+  {
+    "value": "Kharmani Surface",
+    "path": "/vanguarddronebattle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nAre you ready to be sent to the ^orange;surface of Kharmani^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "path": "/vanguarddronebattle/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/vanguarddronebattle/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/vanguarddronebattle/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruiter Rokhan",
+    "path": "/vanguarddronebattle/labels/name",
+    "op": "replace"
+  },
+  {
+    "value": "Teleport Confirmation",
+    "path": "/avikanroguebattle/title",
+    "op": "replace"
+  },
+  {
+    "value": "Thieves' Hideout",
+    "path": "/avikanroguebattle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nAre you ready to be sent to the ^orange;thieves' hideout^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "path": "/avikanroguebattle/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/avikanroguebattle/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/avikanroguebattle/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Ayurin",
+    "path": "/avikanroguebattle/labels/name",
+    "op": "replace"
+  },
+     "value": "Teleport Confirmation",
+    "path": "/vanguardmechunlock/title",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard Testing Facility",
+    "path": "/vanguardmechunlock/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nAre you ready to enter the ^orange;Vanguard testing facility^white;?",
+    "path": "/vanguardmechunlock/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/vanguardmechunlock/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/vanguardmechunlock/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruiter Rokhan",
+    "path": "/vanguardmechunlock/labels/name",
+    "op": "replace"
+  },
+     "value": "Teleport Confirmation",
+    "path": "/akkimaridronebattle/title",
+    "op": "replace"
+  },
+  {
+    "value": "Union outpost",
+    "path": "/akkimaridronebattle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nAre you ready to be sent to the attacked ^orange;Union outpost^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "path": "/akkimaridronebattle/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/akkimaridronebattle/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/akkimaridronebattle/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Delegate Mumam",
+    "path": "/akkimaridronebattle/labels/name",
+    "op": "replace"
+  },
+     "value": "Teleport Confirmation",
+    "path": "/remnantcaves/title",
+    "op": "replace"
+  },
+  {
+    "value": "The Blighted Cavern",
+    "path": "/remnantcaves/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nAre you ready to explore the ^orange;Blighted Cavern^white;? \n^red;Make sure to bring some powerful equipment, alongside spelunking tools.",
+    "path": "/remnantcaves/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/remnantcaves/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/remnantcaves/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Ayala",
+    "path": "/remnantcaves/labels/name",
+    "op": "replace"
+  },
+     "value": "Teleport Confirmation",
+    "path": "/thea-techchallenge-stealthtech/title",
+    "op": "replace"
+  },
+  {
+    "value": "Chacharra's Testing Course",
+    "path": "/thea-techchallenge-stealthtech/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nChacharra have everything ready. Your ready for testing course?",
+    "path": "/thea-techchallenge-stealthtech/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ready",
+    "path": "/thea-techchallenge-stealthtech/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Not now",
+    "path": "/thea-techchallenge-stealthtech/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Chacharra",
+    "path": "/thea-techchallenge-stealthtech/labels/name",
+    "op": "replace"
+  }
+]

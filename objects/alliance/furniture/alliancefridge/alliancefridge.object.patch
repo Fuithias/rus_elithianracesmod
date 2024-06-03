@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Fridge",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A refrigerator, for keeping food fresh.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The perfect place to store some bananas.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fridge. I hope there's some breadcrumbs in there.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss curiousss. What'ss insside?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfied. This fridge will prevent my food from going foul.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a fridge, nothing special.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic but functional fridge.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A clean lookin' fridge.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard model fridge.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien refrigerator.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient fridge.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Refrigerated storage detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage-cold, for keeping food-fresh.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

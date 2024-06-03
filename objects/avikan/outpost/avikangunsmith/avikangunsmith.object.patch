@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Ayurin's Weapon Workshop",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "It seems that Ayurin is the local gunsmith. Maybe he could craft me some new weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Gunssmith craftss new weaponsss for Floran?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Anticipation. This gunsmith might be able to provide me with new weapons.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gunsmith? Might be gettin' some new rifles here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Vanguard-certified gunsmith. Unit can acquire new schematics for weapons here.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki purchase blueprints, make things-new.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

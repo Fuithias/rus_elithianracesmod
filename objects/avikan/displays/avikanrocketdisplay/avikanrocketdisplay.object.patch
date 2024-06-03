@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Vanguard RPG Display",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan rocket launcher on display.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This rocket launcher looks intimidating.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weapon of great power.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not scared by boom-ssstick.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. A single rocket from this weapon could destroy my frame.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bad-ass rocket launcher if I ever saw one!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weapon of great destructive power.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An impressive weapon of Avikan design.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Vanguard rocket launcher instills fear into any enemy.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather inefficient killing machine, but effective nonetheless.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Explosive weapon detected. Please exercise caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Launcher-rocket, make big boom! Make Akki happy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

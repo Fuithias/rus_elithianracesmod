@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Excalibur Reborn II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Now comes the hard part... You will need to obtain a small ^orange;Xanafian Shard^reset;. It powers the weapon, and without it, this magnificent blade is just that: a blade. ^green;Explore the galaxy and find a ^orange;Centensian Relic ^reset;- a small hovering cube - in one of those ^orange;old ruins^reset;. It should contain a Shard.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "That's exactly what we were looking for! Now to actually extract the Shard from the relic...",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

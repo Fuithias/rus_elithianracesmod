@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Использует миниатюрные врата для переноса солнечной материи в магазин.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Центенсианский скачноган",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Скачноган",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Использует миниатюрные врата для переноса солнечной материи в магазин.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Центенсианский скачноган",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Скачноган",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

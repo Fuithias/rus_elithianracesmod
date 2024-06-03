@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Jumprifle Display",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian jumprifle on display.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient weapon, seems it no longer fires.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient rifle of some sort. No longer fires.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Old gunsss shootsss no more...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This weapon is ancient, and no longer functional.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient weapon! Doesn't seem to fire any longer...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient rifle. Its firing mechanism is broken.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This ancient jumprifle no longer fires.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A jumprifle, built by the Old Ones. Seems it no longer fires.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient jumprifle. In mint condition, but it no longer fires.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian jumpgate technology. Status: inactive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon-solar, fire plasma. Akki melt enemies!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

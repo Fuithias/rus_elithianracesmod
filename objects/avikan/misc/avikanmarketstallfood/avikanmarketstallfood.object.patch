@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Food Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall full of alien food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A selection of alien food.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien meat, spices and other foods. Looks delicious.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Good meatsss, but bad greensss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wondering. What would this food taste like?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien food. It looks delicious, but I'm not sure if I should eat it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A varied meal is a blessing to all.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This market stall has a wide array of Avikan food available.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Traditional Kadavan food. The best there is.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan food. It has no value to non-organics.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected organic food.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki steal food here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

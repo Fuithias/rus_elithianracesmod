@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Grenade launcher ammunition that releases small cluster grenades on detonation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Cluster Ammo",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ammo Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Droden Frame",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot of sorts.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot of sorts.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss if robot iss sssleeping...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An inactive robot of sorts.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot of sorts.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot of sorts.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive robot of sorts.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Droden unit detected. Analysis: Deactivated.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Robot-sleeping. Akki salvage metals?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

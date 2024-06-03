@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, созданный для боевых ситуаций.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Боевой мод руки",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, созданный для боевых ситуаций.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Боевой мод руки",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

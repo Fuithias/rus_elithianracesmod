@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Базовые железные ноги.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Железные ноги",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Базовые железные ноги.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Железные ноги",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

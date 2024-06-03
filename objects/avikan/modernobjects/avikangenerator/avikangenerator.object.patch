@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Generator",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A generator, for generating energy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful generator. Don't break the glass.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This generator generates enough power for an entire Avian town.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what glowy ssstuff isss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. This generator looks unstable.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful generator. Can it charge my phone?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This power generator looks unstable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm oddly attracted to this beam...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A generator. It has to be monitored constantly to prevent explosions.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This generator provides all the energy a Terve needs.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful generator, but not very efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Warning. Readings indicate dangerously high temperatures inside.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not break glass. Akki would burn dead.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

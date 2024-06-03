@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A sealed scroll given to me by an Avikan Starfarer.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Starfarer's Missive^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

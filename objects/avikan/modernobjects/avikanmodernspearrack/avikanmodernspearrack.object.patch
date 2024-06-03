@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Spear Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rack of metal spears.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal spears. Bulky, but strong and sharp.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shiny metal spears. Would anyone mind if I take one of them?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spearsss for sstabbing. Floran likesss sstabbing.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Spears.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These spears look quite intimidating.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spears fit for an alien army.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan Vanguard uses spears as their primary close-range weapon.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Naught but the best spears for the Vanguard.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These spears are sharper than they appear.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Vanguard approved weapons detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sticks-pointy, for killing. Akki like killing.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

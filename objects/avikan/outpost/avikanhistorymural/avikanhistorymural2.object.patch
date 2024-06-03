@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Avikan History Mural",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Part of a massive mural showing the history of the Avikan people.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mural sshowsss hisstory of alienss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. It would appear that this mural describes historic events.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I reckon this mural shows historic events, but I don't recognize any of it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This part depicts the first group of Avikan to discover Vas Vha'leih.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mural detected. Analysis: depiction of the discovery of Vas Vha'leih.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mural-big. Tell a story, but Akki no care.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

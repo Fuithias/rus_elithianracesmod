@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Ship Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hollow metal panel, perfect for wall insulation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This metal panel is hollow, making it perfect for insulation.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran knowsss thiss panel is hollow by knocking on it. Floran iss sssmart.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hollow metal panel, sure is good for insulation.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Hollow metal panel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panels-metal, nothing special.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

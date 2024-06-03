@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Tools of the Ancients",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I found the broken casing of some ancient tool. ^green;If I can find someone who knows Centensian technology, they may be able to repair it.^reset;",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Ah, Captain, what do you have for me? Hmm, I have seen casings like these before. I think I can repair it for you.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

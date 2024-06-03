@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Weapon Improvement Bench",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop that allows weapons to be upgraded into more powerful versions.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "With the right tools, weapons can be upgraded here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A place where I can upgrade my weapons.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran improvesss weaponss here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. I can improve certain weapons here.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This workshop allows me to upgrade certain weapons.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons can be upgraded here, so that even weak weapons are never wasted.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "My rifles could use a bit of improvement.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop for improving weapons.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien workshop. Some weapons could be upgraded here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "With the right upgrade kit, many a weapon could be improved here.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Allows specific weapons to be upgraded for greater power.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki make weapons-stronger here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

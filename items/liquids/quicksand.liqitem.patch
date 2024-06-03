@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Quicksand. Don't get stuck in it!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Quicksand",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

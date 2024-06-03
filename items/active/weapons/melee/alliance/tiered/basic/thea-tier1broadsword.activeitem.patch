@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Базовый палаш.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Бредон Армс^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Острие Бредона",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Базовый палаш.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Бредон Армс^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Острие Бредона",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

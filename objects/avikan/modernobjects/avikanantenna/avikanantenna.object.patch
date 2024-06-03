@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Antenna",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna, for sending and receiving radio messages.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A high antenna, it must have a very long range.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna adorned with a leather sheet. Odd.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal antenna makesss for good spearsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. This device is causing my communication systems to malfunction.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A long antenna. What's that leather sheet for?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna like this wouldn't function underwater.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large antenna. I wonder what the leather sheet is for?",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Antennas like these allow our colonies to contact the fleet.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This antenna is jamming my own radio transmitters.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Receiving radio signal. Analyzing.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Antenna-strong, receive signals.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

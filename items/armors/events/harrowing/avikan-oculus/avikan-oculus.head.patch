@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Маска Окулуса для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска Окулуса",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Маска Окулуса для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска Окулуса",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

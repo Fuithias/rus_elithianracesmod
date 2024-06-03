@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Desk Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small light.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple desk light.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A desk light.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic desk light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant desk light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a light.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light provides just enough light to work comfortably.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A desk light.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-small, for reading.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

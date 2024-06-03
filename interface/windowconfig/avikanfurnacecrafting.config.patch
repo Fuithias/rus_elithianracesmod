@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^#b9b5b2;BLUEPRINTS",
+    "path": "/paneLayout/lblSchematics/value",
+    "op": "replace"
+  },
+  {
+    "value": "^#b9b5b2;PRODUCT",
+    "path": "/paneLayout/lblProducttitle/value",
+    "op": "replace"
+  },
+  {
+    "value": "MATERIALS AVAILABLE",
+    "path": "/paneLayout/lblProduct/value",
+    "op": "replace"
+  }
+]

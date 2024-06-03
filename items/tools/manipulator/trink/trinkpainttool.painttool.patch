@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Primary fire applies paint, secondary changes colour. ^green;Quick select with [Y] key.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Paint Mode",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tool",
+    "path": "/category",
+    "op": "replace"
+  }
+]

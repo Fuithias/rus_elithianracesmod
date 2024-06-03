@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

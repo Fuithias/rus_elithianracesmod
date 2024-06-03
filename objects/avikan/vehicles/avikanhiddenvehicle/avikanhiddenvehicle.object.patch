@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Covered Vehicle",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what sort of vehicle is hidden underneath this sheet of leather?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what thiss sheet iss hiding?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What sort of vehicle might this be?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta vehicle hidden from view by a large sheet o' leather.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada vehicle. Type unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki wonder what vehicle is beneath sheet-leather.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Hammock",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but comfortable hammock.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's not exactly luxurious, but it's a decent place to sleep.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple hammock.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hammock iss a sssimple bed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Afraid. I hope I won't fall out while I sleep.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's just a hammock, though the material is soft and silky smooth.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic but elegant hammock.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've never much liked the idea of a hammock.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A soft, comfortable hammock made of Akkimari silk.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These aliens suspend their beds from the ceiling.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hammocks like these make efficient use of the available space.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien bedding detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki like hammocks. Sleep away from the ground, away from things-nasty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

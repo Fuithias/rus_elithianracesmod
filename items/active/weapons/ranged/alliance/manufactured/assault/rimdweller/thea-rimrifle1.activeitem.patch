@@ -1,27 +1,27 @@
 [
-    {
-        "value": "^gray;Штурмовая винтовка, произведенная где-то на Рубеже.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Рубеж^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Потрошитель РМ5",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Штурмовая винтовка",
-        "path": "/category",
-        "op": "replace"
-    },
-    {
-        "value": "Целевой рикошет",
-        "path": "/altAbility/name",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Штурмовая винтовка, произведенная где-то на Рубеже.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Рубеж^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Потрошитель РМ5",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмовая винтовка",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Целевой рикошет",
+    "path": "/altAbility/name",
+    "op": "replace"
+  }
 ]

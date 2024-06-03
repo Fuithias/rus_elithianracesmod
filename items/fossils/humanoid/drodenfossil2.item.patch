@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fossilised Droden chassis.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Droden Chassis",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

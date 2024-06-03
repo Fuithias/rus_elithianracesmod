@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Central Circuit Terminal",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large communications terminal directly connected to the Circuit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large communications terminal, I think.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A communications interface, but I have no idea what it connects to.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know what thiss isss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Overwhelmed. The data flowing through this communications terminal is too much for me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A terminal, for communicating with... something.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This terminal looks like it is important to the people here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta terminal for sure, but I don't know what it does.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A terminal connected to the Circuit. It allows for near-instantaneous communication, regardless of distance.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A communications terminal, built and used by machines. The Vanguard would want me to destroy it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This terminal allows me to communicate with any other such terminals throughout the galaxy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected machine-built communications terminal. Recommended action: dismantle.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "COnsole-big, must be important. Akki try to read.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Part of the frame of an ancient and powerful weapon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Ancient Weapon Frame^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

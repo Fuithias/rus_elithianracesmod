@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^orange;Chacharra's Stealth Tech II",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Before you get tech, Chacharra make sure you know how tech works. ^green;Go to ^orange;testing course ^green;Chacharra made^reset;, then ^orange;Stealth Tech ^reset;yours forever!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Chacharra impressed, you skilled! You keep ^orange;Stealth Tech^reset;, use to sneak past many enemies...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Talk to ^orange;Chacharra^reset; to enter the ^orange;testing course^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Complete the ^orange;Stealth Tech testing course^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Alliance Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter should take me back to the Creon Embassy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Teleportss Floran back to the Creon Embassy.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. This teleporter will take me back to the Creon Embassy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter configuration confirmed. Destination: Creon Embassy.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use teleporter. Akki back at Creon Embassy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

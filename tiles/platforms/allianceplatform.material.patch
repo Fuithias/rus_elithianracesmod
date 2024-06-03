@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Alliance Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Part of a metal platform.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal platformsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic metal platform.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. A metal platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Platform-metal, clean-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal cube, easily stored and ready for crafting.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Large Avikan Crate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large, relatively lightweight metal crate.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A metal crate, surprisingly lightweight.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny metal crate. What is it carrying?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cratesss full of goodiesss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This chest is lighter than anticipated.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What will I find inside?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A lightweight metal crate. Ideal for transportation and storage.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standardized cargo crate.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard issue crate, this will fit into any Avikan cargo hold.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan cargo crate. Its design is less efficient than that of Trinkian crates.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crate-large, things-many inside?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

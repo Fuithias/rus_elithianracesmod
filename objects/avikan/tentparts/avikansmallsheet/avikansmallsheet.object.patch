@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small sheet of colourful fabric, often hung between walls to provide a bit of shadow.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of colourful fabric, it casts a cool shadow during the day.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks simple, but the shadow it casts is priceless.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheetsss block out sssun...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This sheet is used to block out the sun during warm days.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple sheet, but the shadow it casts is welcome during the day.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A practical way to block out the sun during warm days.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of fabric, used in the desert to block out the sun and provide a cool shadow.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheets like these are essential in keeping our city streets from getting too hot.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This fabric sheet can provide a cooling shadow by blocking out the desert's sun.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This sheet can provide shade in the desert.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheets-cloth, look fancy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

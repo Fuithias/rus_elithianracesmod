@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Fabric Top Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of fabric used as a tent roof.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of colourful fabric.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Colourful fabric, used a a tent roof.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric roofsss. Weaksss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This top sheet is made of fabric.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful sheet of fabric.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A brightly coloured sheet of fabric.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful fabric top sheet. Keeps tents cool on the inside.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A top sheet made of fabric. Few nomads can afford tents of such materials.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A top sheet made of bright fabric. An essential part of a good tent.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Top sheet. Used to keep the interior of a tent cool.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Part of tent, Akki knows.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

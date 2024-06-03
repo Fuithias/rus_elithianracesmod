@@ -1,0 +1,1377 @@
+[
+  {
+    "value": "I have nothing to say to you.",
+    "path": "/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I don't know what you are...",
+    "path": "/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "What sort of creature might you be?",
+    "path": "/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/converse/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Yes?",
+    "path": "/converse/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger.",
+    "path": "/converse/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could go to Vhalas Andra'veih one day...",
+    "path": "/converse/avikan/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hmph.",
+    "path": "/converse/avikan/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Need anything?",
+    "path": "/converse/avikan/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, soft-skin.",
+    "path": "/converse/avikan/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind can be quite hostile to strangers.",
+    "path": "/converse/avikan/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your skin is so soft!",
+    "path": "/converse/avikan/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Don't try anything here. The Watchers will see.",
+    "path": "/converse/avikan/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "You don't have any flaps?",
+    "path": "/converse/avikan/human/4",
+    "op": "replace"
+  },
+  {
+    "value": "Your eyes are so small...",
+    "path": "/converse/avikan/human/5",
+    "op": "replace"
+  },
+  {
+    "value": "I'm surprised you can stand the heat here. Many aliens find it unbearable.",
+    "path": "/converse/avikan/human/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/human/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/human/8",
+    "op": "replace"
+  },
+  {
+    "value": "You're no Aegi, are you?",
+    "path": "/converse/avikan/human/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/human/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/human/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/human/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/human/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/human/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/human/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/human/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, hairy thing.",
+    "path": "/converse/avikan/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "There's no Miniknog here, if you were wondering.",
+    "path": "/converse/avikan/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "You're a bit smelly...",
+    "path": "/converse/avikan/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "I've never seen someone with that much hair before.",
+    "path": "/converse/avikan/apex/3",
+    "op": "replace"
+  },
+  {
+    "value": "Do you ever shave?",
+    "path": "/converse/avikan/apex/4",
+    "op": "replace"
+  },
+  {
+    "value": "Ha! Oh, sorry... I just thought you looked funny.",
+    "path": "/converse/avikan/apex/5",
+    "op": "replace"
+  },
+  {
+    "value": "Doesn't it get warm with all that fur?",
+    "path": "/converse/avikan/apex/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you sure YOU aren't Miniknog?",
+    "path": "/converse/avikan/apex/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/apex/8",
+    "op": "replace"
+  },
+  {
+    "value": "You look a bit like an Aegi.",
+    "path": "/converse/avikan/apex/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/apex/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/apex/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/apex/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/apex/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/apex/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/apex/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/apex/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, feathered one.",
+    "path": "/converse/avikan/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Those feathers of yours look a bit like our flaps.",
+    "path": "/converse/avikan/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "I heard your kind likes shiny things.",
+    "path": "/converse/avikan/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Can you fly?",
+    "path": "/converse/avikan/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "I thought your kind had wings.",
+    "path": "/converse/avikan/avian/4",
+    "op": "replace"
+  },
+  {
+    "value": "I'm impressed that you can speak our language with that beak of yours.",
+    "path": "/converse/avikan/avian/5",
+    "op": "replace"
+  },
+  {
+    "value": "You seem the musical type. Sing me a song, will you?",
+    "path": "/converse/avikan/avian/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/avian/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/avian/8",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan, Avian... They do sound a bit alike, no?",
+    "path": "/converse/avikan/avian/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/avian/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/avian/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/avian/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/avian/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/avian/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/avian/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/avian/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, plant thing.",
+    "path": "/converse/avikan/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Is your kind really carnivorous? I'd be more inclined to believe you are the ones being eaten.",
+    "path": "/converse/avikan/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Are you edible? It's been too long since I had vegetables.",
+    "path": "/converse/avikan/floran/2",
+    "op": "replace"
+  },
+  {
+    "value": "No stabbing here, plant.",
+    "path": "/converse/avikan/floran/3",
+    "op": "replace"
+  },
+  {
+    "value": "Don't you think breaking things is more fun than stabbing things?",
+    "path": "/converse/avikan/floran/4",
+    "op": "replace"
+  },
+  {
+    "value": "You seem like a capable hunter.",
+    "path": "/converse/avikan/floran/5",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind makes rather impressive spears.",
+    "path": "/converse/avikan/floran/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/floran/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/floran/8",
+    "op": "replace"
+  },
+  {
+    "value": "As a plant, do you have blood?",
+    "path": "/converse/avikan/floran/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/floran/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/floran/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/floran/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/floran/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/floran/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/floran/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/floran/16",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like you.",
+    "path": "/converse/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Machine.",
+    "path": "/converse/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "You have no soul, machine.",
+    "path": "/converse/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Watchers are watching you.",
+    "path": "/converse/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "path": "/converse/avikan/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not talking to a machine.",
+    "path": "/converse/avikan/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find few friends here.",
+    "path": "/converse/avikan/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not fond of machines.",
+    "path": "/converse/avikan/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "I might tolerate your kind, but that doesn't mean I like you.",
+    "path": "/converse/avikan/glitch/8",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you?",
+    "path": "/converse/avikan/glitch/9",
+    "op": "replace"
+  },
+  {
+    "value": "The Starfarer's Refuge welcomes all, even machines.",
+    "path": "/converse/avikan/glitch/10",
+    "op": "replace"
+  },
+  {
+    "value": "I doubt the Starsight Inn offers anything you can even drink, machine.",
+    "path": "/converse/avikan/glitch/11",
+    "op": "replace"
+  },
+  {
+    "value": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too.",
+    "path": "/converse/avikan/glitch/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you.",
+    "path": "/converse/avikan/glitch/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop near here. Use it.",
+    "path": "/converse/avikan/glitch/14",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps you could trade in yourself at the material exchange.",
+    "path": "/converse/avikan/glitch/15",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you leave me and go sit on those asteroids in the distance instead?",
+    "path": "/converse/avikan/glitch/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, wet one.",
+    "path": "/converse/avikan/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "Aren't you afraid you might dry up here?",
+    "path": "/converse/avikan/hylotl/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your skin is all wet!",
+    "path": "/converse/avikan/hylotl/2",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind likes mysteries. You should investigate the Old Ones.",
+    "path": "/converse/avikan/hylotl/3",
+    "op": "replace"
+  },
+  {
+    "value": "I can only imagine what a world of water must look like...",
+    "path": "/converse/avikan/hylotl/4",
+    "op": "replace"
+  },
+  {
+    "value": "Could you teach me how to swim one day?",
+    "path": "/converse/avikan/hylotl/5",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, creature of the water.",
+    "path": "/converse/avikan/hylotl/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/hylotl/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/hylotl/8",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, you're all wet!",
+    "path": "/converse/avikan/hylotl/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/hylotl/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/hylotl/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/hylotl/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/hylotl/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/hylotl/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/hylotl/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/hylotl/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, glowing one.",
+    "path": "/converse/avikan/novakid/0",
+    "op": "replace"
+  },
+  {
+    "value": "Where did you come from? Oh, right, you must have forgotten.",
+    "path": "/converse/avikan/novakid/1",
+    "op": "replace"
+  },
+  {
+    "value": "Do you remember what you did yesterday?",
+    "path": "/converse/avikan/novakid/2",
+    "op": "replace"
+  },
+  {
+    "value": "I saw your spaceship on your way in. It looked a bit odd.",
+    "path": "/converse/avikan/novakid/3",
+    "op": "replace"
+  },
+  {
+    "value": "What are you made of, exactly?",
+    "path": "/converse/avikan/novakid/4",
+    "op": "replace"
+  },
+  {
+    "value": "I'd like to have you with me next time I delve underground.",
+    "path": "/converse/avikan/novakid/5",
+    "op": "replace"
+  },
+  {
+    "value": "You won't be any good at hide and seek.",
+    "path": "/converse/avikan/novakid/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/novakid/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/novakid/8",
+    "op": "replace"
+  },
+  {
+    "value": "Are you a god?",
+    "path": "/converse/avikan/novakid/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/novakid/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/novakid/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/novakid/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/novakid/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/novakid/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/novakid/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/novakid/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, Captain.",
+    "path": "/converse/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, friend.",
+    "path": "/converse/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/converse/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Brother, welcome!",
+    "path": "/converse/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, Captain.",
+    "path": "/converse/avikan/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Caught anything interesting lately?",
+    "path": "/converse/avikan/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "A captain! It's an honour, sir!",
+    "path": "/converse/avikan/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "I miss Kadavan...",
+    "path": "/converse/avikan/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "I'm telling you, the Council is close to finding Vhalas Andra'veih!",
+    "path": "/converse/avikan/avikan/8",
+    "op": "replace"
+  },
+  {
+    "value": "Have you cleaned your flaps recently?",
+    "path": "/converse/avikan/avikan/9",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, you have your own ship? That must be a dream come true!",
+    "path": "/converse/avikan/avikan/10",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you're respecting the Avikan Common Law, friend. Otherwise we might have a problem.",
+    "path": "/converse/avikan/avikan/11",
+    "op": "replace"
+  },
+  {
+    "value": "Dismantled any machines recently?",
+    "path": "/converse/avikan/avikan/12",
+    "op": "replace"
+  },
+  {
+    "value": "The council deemed you worthy of your own ship? Well, if they believe you capable, then so will I.",
+    "path": "/converse/avikan/avikan/13",
+    "op": "replace"
+  },
+  {
+    "value": "Nothing but respect for a captain of the Fleet. Hail the Nomada!",
+    "path": "/converse/avikan/avikan/14",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, you look like you've been through hell!",
+    "path": "/converse/avikan/avikan/15",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could be a captain like you...",
+    "path": "/converse/avikan/avikan/16",
+    "op": "replace"
+  },
+  {
+    "value": "Could you vow for me at the Council? I've issued a request for admission as a Fleet captain, and I need all the support I can get!",
+    "path": "/converse/avikan/avikan/17",
+    "op": "replace"
+  },
+  {
+    "value": "Anything to report?",
+    "path": "/converse/avikan/avikan/18",
+    "op": "replace"
+  },
+  {
+    "value": "Filed any interesting reports lately?",
+    "path": "/converse/avikan/avikan/19",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you are doing your part for the Nomada.",
+    "path": "/converse/avikan/avikan/20",
+    "op": "replace"
+  },
+  {
+    "value": "The role of Fleet captain comes with a great many responsibilities. Are you certain you can handle them?",
+    "path": "/converse/avikan/avikan/21",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been on a pilgrimage to Vas Vha'leih?",
+    "path": "/converse/avikan/avikan/22",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could go on adventures like you, Captain.",
+    "path": "/converse/avikan/avikan/23",
+    "op": "replace"
+  },
+  {
+    "value": "Do you need anyone for your crew?",
+    "path": "/converse/avikan/avikan/24",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you treat your pet sandworm well. Those things can get very aggressive if they're ignored.",
+    "path": "/converse/avikan/avikan/25",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada could use more people like you.",
+    "path": "/converse/avikan/avikan/26",
+    "op": "replace"
+  },
+  {
+    "value": "Have you heard of these 'Glitch' inhabiting this part of the galaxy? We should eradicate them before it's too late.",
+    "path": "/converse/avikan/avikan/27",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever been summoned by the Council?",
+    "path": "/converse/avikan/avikan/28",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have your keff-riding license yet?",
+    "path": "/converse/avikan/avikan/29",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm? Oh, sorry Captain! I hadn't noticed you there.",
+    "path": "/converse/avikan/avikan/30",
+    "op": "replace"
+  },
+  {
+    "value": "Have you found a mate yet?",
+    "path": "/converse/avikan/avikan/31",
+    "op": "replace"
+  },
+  {
+    "value": "I might know some people who'd like to enlist for your crew.",
+    "path": "/converse/avikan/avikan/32",
+    "op": "replace"
+  },
+  {
+    "value": "I forgot to file last week's report... I hope that won't get me into too much trouble.",
+    "path": "/converse/avikan/avikan/33",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have any interesting tales to tell, Captain?",
+    "path": "/converse/avikan/avikan/34",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis supports you, Captain.",
+    "path": "/converse/avikan/avikan/35",
+    "op": "replace"
+  },
+  {
+    "value": "You must meet a lot of interesting people on your journeys.",
+    "path": "/converse/avikan/avikan/36",
+    "op": "replace"
+  },
+  {
+    "value": "Need anything, Captain?",
+    "path": "/converse/avikan/avikan/37",
+    "op": "replace"
+  },
+  {
+    "value": "Are you on a mission?",
+    "path": "/converse/avikan/avikan/38",
+    "op": "replace"
+  },
+  {
+    "value": "The Watchers could use someone like you.",
+    "path": "/converse/avikan/avikan/39",
+    "op": "replace"
+  },
+  {
+    "value": "You'd be a great fit for the Seekers, Captain.",
+    "path": "/converse/avikan/avikan/40",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure you could become a Centlar if you wanted to.",
+    "path": "/converse/avikan/avikan/41",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, Starfarer.",
+    "path": "/converse/avikan/avikan/42",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever seen the ruins of the Old Ones on your journeys?",
+    "path": "/converse/avikan/avikan/43",
+    "op": "replace"
+  },
+  {
+    "value": "Have you ever slain a Thell?",
+    "path": "/converse/avikan/avikan/44",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, Captain!",
+    "path": "/converse/avikan/avikan/45",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/avikan/46",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/avikan/47",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/avikan/48",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/avikan/49",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/avikan/50",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/avikan/51",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like you.",
+    "path": "/converse/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Machine.",
+    "path": "/converse/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "You have no soul, machine.",
+    "path": "/converse/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Watchers are watching you.",
+    "path": "/converse/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "path": "/converse/avikan/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not talking to a machine.",
+    "path": "/converse/avikan/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "You'll find few friends here.",
+    "path": "/converse/avikan/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not fond of machines.",
+    "path": "/converse/avikan/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "I might tolerate your kind, but that doesn't mean I like you.",
+    "path": "/converse/avikan/trink/8",
+    "op": "replace"
+  },
+  {
+    "value": "Who built you?",
+    "path": "/converse/avikan/trink/9",
+    "op": "replace"
+  },
+  {
+    "value": "The Starfarer's Refuge welcomes all, even machines.",
+    "path": "/converse/avikan/trink/10",
+    "op": "replace"
+  },
+  {
+    "value": "I doubt the Starsight Inn offers anything you can even drink, machine.",
+    "path": "/converse/avikan/trink/11",
+    "op": "replace"
+  },
+  {
+    "value": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too.",
+    "path": "/converse/avikan/trink/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you.",
+    "path": "/converse/avikan/trink/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop near here. Use it.",
+    "path": "/converse/avikan/trink/14",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps you could trade in yourself at the material exchange.",
+    "path": "/converse/avikan/trink/15",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you leave me and go sit on those asteroids in the distance instead?",
+    "path": "/converse/avikan/trink/16",
+    "op": "replace"
+  },
+  {
+    "value": "I see you have gained civilian status. Impressive.",
+    "path": "/converse/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like machines, but you seem okay. For a machine, that is.",
+    "path": "/converse/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "A Droden with civilian status. How did you achieve that?",
+    "path": "/converse/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "You machines only ever make things worse.",
+    "path": "/converse/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "You are an example of what machines can be.",
+    "path": "/converse/avikan/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like you.",
+    "path": "/converse/avikan/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "You think you have a soul? You thought wrong.",
+    "path": "/converse/avikan/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "Soulless machine. Get out of here.",
+    "path": "/converse/avikan/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "At least you're on our side.",
+    "path": "/converse/avikan/droden/8",
+    "op": "replace"
+  },
+  {
+    "value": "Your head would make for a fine trophy.",
+    "path": "/converse/avikan/droden/9",
+    "op": "replace"
+  },
+  {
+    "value": "So, you're an actual AI? I thought you'd be scarier.",
+    "path": "/converse/avikan/droden/10",
+    "op": "replace"
+  },
+  {
+    "value": "As you're a Droden, I guess the Alien Interaction Protocol doesn't apply here.",
+    "path": "/converse/avikan/droden/11",
+    "op": "replace"
+  },
+  {
+    "value": "You'll get no love from me.",
+    "path": "/converse/avikan/droden/12",
+    "op": "replace"
+  },
+  {
+    "value": "You Droden are only good for doing menial labour.",
+    "path": "/converse/avikan/droden/13",
+    "op": "replace"
+  },
+  {
+    "value": "Machine people are people too, but don't tell anyone here I said that.",
+    "path": "/converse/avikan/droden/14",
+    "op": "replace"
+  },
+  {
+    "value": "Hmph.",
+    "path": "/converse/avikan/droden/15",
+    "op": "replace"
+  },
+  {
+    "value": "Yeah?",
+    "path": "/converse/avikan/droden/16",
+    "op": "replace"
+  },
+  {
+    "value": "My Keff needs repairs. You wouldn't happen to be a repair-frame, would you?",
+    "path": "/converse/avikan/droden/17",
+    "op": "replace"
+  },
+  {
+    "value": "Wait, your owner set you free?",
+    "path": "/converse/avikan/droden/18",
+    "op": "replace"
+  },
+  {
+    "value": "You're nothing more than a walking scrap bag.",
+    "path": "/converse/avikan/droden/19",
+    "op": "replace"
+  },
+  {
+    "value": "You're in league with the Thell, aren't you?",
+    "path": "/converse/avikan/droden/20",
+    "op": "replace"
+  },
+  {
+    "value": "I'm keeping my eye on you, machine.",
+    "path": "/converse/avikan/droden/21",
+    "op": "replace"
+  },
+  {
+    "value": "Few Droden are autonomous these days. And that's a good thing.",
+    "path": "/converse/avikan/droden/22",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you're on our side. Otherwise, I'll have to dismantle you.",
+    "path": "/converse/avikan/droden/23",
+    "op": "replace"
+  },
+  {
+    "value": "I can't believe your owner actually set you free.",
+    "path": "/converse/avikan/droden/24",
+    "op": "replace"
+  },
+  {
+    "value": "What kind of frame are you? Combat? Repairs?.",
+    "path": "/converse/avikan/droden/25",
+    "op": "replace"
+  },
+  {
+    "value": "As per Alien Interaction Proto... Oh right, you're not considered an alien by the Common Law...",
+    "path": "/converse/avikan/droden/26",
+    "op": "replace"
+  },
+  {
+    "value": "You Droden are a dying race.",
+    "path": "/converse/avikan/droden/27",
+    "op": "replace"
+  },
+  {
+    "value": "Aren't you supposed to be cleaning something, machine?",
+    "path": "/converse/avikan/droden/28",
+    "op": "replace"
+  },
+  {
+    "value": "If Rhadeis didn't agree to Droden being free, I suppose you wouldn't have been here.",
+    "path": "/converse/avikan/droden/29",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, Droden.",
+    "path": "/converse/avikan/droden/30",
+    "op": "replace"
+  },
+  {
+    "value": "I guess you don't have any use for a drink, but the Starsight Inn might have other things you can use.",
+    "path": "/converse/avikan/droden/31",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/droden/32",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/droden/33",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/droden/34",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/droden/35",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/droden/36",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, long-ear.",
+    "path": "/converse/avikan/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind is well known for its diplomats.",
+    "path": "/converse/avikan/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "Why are your ears so pointy? I've seen creatures very similar to you, but with rounded ears.",
+    "path": "/converse/avikan/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "Those ears of yours remind me a bit of our own flaps.",
+    "path": "/converse/avikan/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "You have no flaps? How do you stay safe in the desert?",
+    "path": "/converse/avikan/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "You have rather small eyes.",
+    "path": "/converse/avikan/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "I'm surprised you can stand the heat here. Many aliens find it unbearable.",
+    "path": "/converse/avikan/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/aegi/8",
+    "op": "replace"
+  },
+  {
+    "value": "Are you what they call a human?",
+    "path": "/converse/avikan/aegi/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/aegi/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/aegi/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/aegi/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/aegi/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/aegi/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/aegi/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/aegi/16",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, strange one.",
+    "path": "/converse/avikan/akkimari/0",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard your kind are mostly scavengers. Don't try anything here.",
+    "path": "/converse/avikan/akkimari/1",
+    "op": "replace"
+  },
+  {
+    "value": "You'd better not be one of those pirates I heard about.",
+    "path": "/converse/avikan/akkimari/2",
+    "op": "replace"
+  },
+  {
+    "value": "Those ears of yours are very odd. They look like tubes.",
+    "path": "/converse/avikan/akkimari/3",
+    "op": "replace"
+  },
+  {
+    "value": "You have a furry belly. How odd.",
+    "path": "/converse/avikan/akkimari/4",
+    "op": "replace"
+  },
+  {
+    "value": "What are those two smaller eyes of yours for?",
+    "path": "/converse/avikan/akkimari/5",
+    "op": "replace"
+  },
+  {
+    "value": "Your belly looks soft.",
+    "path": "/converse/avikan/akkimari/6",
+    "op": "replace"
+  },
+  {
+    "value": "Hello there.",
+    "path": "/converse/avikan/akkimari/7",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you?",
+    "path": "/converse/avikan/akkimari/8",
+    "op": "replace"
+  },
+  {
+    "value": "Your kind are called Akkimari, right?",
+    "path": "/converse/avikan/akkimari/9",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "path": "/converse/avikan/akkimari/10",
+    "op": "replace"
+  },
+  {
+    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "path": "/converse/avikan/akkimari/11",
+    "op": "replace"
+  },
+  {
+    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "path": "/converse/avikan/akkimari/12",
+    "op": "replace"
+  },
+  {
+    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "path": "/converse/avikan/akkimari/13",
+    "op": "replace"
+  },
+  {
+    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "path": "/converse/avikan/akkimari/14",
+    "op": "replace"
+  },
+  {
+    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "path": "/converse/avikan/akkimari/15",
+    "op": "replace"
+  },
+  {
+    "value": "I thought I saw someone on those asteroids in the distance...",
+    "path": "/converse/avikan/akkimari/16",
+    "op": "replace"
+  }
+]

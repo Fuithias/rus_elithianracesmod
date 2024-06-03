@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Древнее оружие, способное искривлять пространство-время.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Пожиратель бездны^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Гравиискажающая винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Древнее оружие, способное искривлять пространство-время.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Пожиратель бездны^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гравиискажающая винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "AAE Poster",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poster promoting the AAE.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss the green.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. AAE stands for Advanced Aeginian Engineering.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The AAE manufactures many things, from military equipment to household items and city power grids.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Nomada Token Exchange",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "If Floran givess robot man tokensss, robot man gives Floran itemsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Enticed. Tokens of merit can be exchanged for various goods here.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gotta have some tokens of merit if I wish to trade here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Merchant detected. Purchases are made using tokens of merit.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki buy things with tokens. Akki not like.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

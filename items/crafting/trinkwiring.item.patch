@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Copper wiring, for use in electronics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Wiring",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

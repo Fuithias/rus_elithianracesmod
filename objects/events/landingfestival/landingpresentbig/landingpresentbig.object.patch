@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Landing Festival Present",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

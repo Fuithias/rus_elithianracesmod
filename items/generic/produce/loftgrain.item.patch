@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fast-growing grain harvested by the Union.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Loftgrain",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

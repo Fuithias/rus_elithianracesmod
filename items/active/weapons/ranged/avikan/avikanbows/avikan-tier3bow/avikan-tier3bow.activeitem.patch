@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Используется для сбора костей и шкур чудовищ.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Охотничий лук",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Рекурсивный лук",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Используется для сбора костей и шкур чудовищ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Охотничий лук",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Рекурсивный лук",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

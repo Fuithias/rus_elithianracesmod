@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Creon Embassy",
+    "path": "/destinations/name",
+    "op": "replace"
+  },
+  {
+    "value": "Elithia",
+    "path": "/destinations/planetName",
+    "op": "replace"
+  }
+]

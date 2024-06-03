@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Костяное копье с генератором электрического тока.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Копье с катушкой^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Электрическое копье",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Костяное копье с генератором электрического тока.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Копье с катушкой^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Электрическое копье",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

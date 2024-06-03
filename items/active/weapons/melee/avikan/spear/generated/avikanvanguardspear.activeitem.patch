@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Металлическое копье с чрезвычайно острым лезвием, выдаваемое авиканским воинам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Копье Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Металлическое копье с чрезвычайно острым лезвием, выдаваемое авиканским воинам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Копье Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

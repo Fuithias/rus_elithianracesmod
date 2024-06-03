@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Cubes",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Simplistic metal cubes, but with an enthralling aura.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Simple metal cubes, but there's something enthralling about them.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There is something oddly enthralling about these cubes.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sstaress at cubes. Floran doess not know why...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Enthralled. These cubes have something mysterious to them.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I don't know why, but I'm finding it hard to get my eyes off these cubes.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Somehow, these cubes make me feel serene. They're enthralling.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm oddly enthralled by these simple cubes... What is this magic?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal cubes, built by the Centens. They are oddly enthralling...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These artefacts of the Old Ones are enthralling. I just keep staring at them.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "My systems are picking up an odd interference around these cubes.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian artefacts. Error. Error. Error.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki near cubes, Akki feel calm. Akki feel strange...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

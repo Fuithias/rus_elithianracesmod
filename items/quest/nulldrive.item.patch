@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A unique line rifle drive, capable of near-instantenous charging.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Null-Drive^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

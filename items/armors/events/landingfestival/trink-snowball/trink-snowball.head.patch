@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;Голова. ^white;Маленькая новогодняя ёлка на антенне!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ёлочная антенна",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;Голова. ^white;Маленькая новогодняя ёлка на антенне!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ёлочная антенна",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

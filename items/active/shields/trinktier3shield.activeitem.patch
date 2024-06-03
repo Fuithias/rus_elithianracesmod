@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Твердый металлический щит тринкианской работы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Щитовая плата Марк III",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Твердый металлический щит тринкианской работы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Щитовая плата Марк III",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

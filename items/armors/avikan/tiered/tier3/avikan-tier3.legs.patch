@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Кожаная юбка с костяными накладками, которую носят авиканские Хранители.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка хранителя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Кожаная юбка с костяными накладками, которую носят авиканские Хранители.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка хранителя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

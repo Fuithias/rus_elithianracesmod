@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Achvass Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A coral-like plant that expels a tasty jelly.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A strange plant producing a weird jelly.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The jelly from this plant is really odd, but somehow tasty too.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien plantsss make sstrange jelly.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Disgusted. There's jelly oozing from this plant's pores!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eww! Is that jelly oozing from a plant?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An unusual plant producing an unusual jelly-like substance.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant makes a weird jelly.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The jelly produced by this plant is nutritious, but it doesn't taste very pleasantly...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant producing alien jelly. I really shouldn't try to eat it...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The jelly from this plant can get my circuits all sticky. Better be careful.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Akris flora. Achvass produces unusual jelly-like substances.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Jelly-tasty, Akki want more more more!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

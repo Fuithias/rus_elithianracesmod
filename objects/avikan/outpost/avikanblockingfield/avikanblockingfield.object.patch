@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Avikan Blocking Field",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An energy field that keeps out unwanted guests.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thiss wall of light keepss Floran out...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This field will keep out most large objects and entities, but allows projectiles through.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Blocking field detected. Analysis: only projectiles can pass through.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Field-energy. Akki not get through easily.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

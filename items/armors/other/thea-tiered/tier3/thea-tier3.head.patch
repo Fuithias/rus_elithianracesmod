@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Общее. ^white;Генератор средней интенсивности для защиты головы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Щит для головы М-и",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Общее. ^white;Генератор средней интенсивности для защиты головы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Щит для головы М-и",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

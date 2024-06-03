@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Улучшение ног для элитных боевых единиц. Здоровая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ноги элиты тип-С",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Улучшение ног для элитных боевых единиц. Здоровая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ноги элиты тип-С",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

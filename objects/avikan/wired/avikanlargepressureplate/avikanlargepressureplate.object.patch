@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Avikan Vehicle Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This pressure plate will only be activated by vehicles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thingsss will happen if vehicle ssstandss on plate.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Something will happen if I place a vehicle on top of this plate.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Heavy-load pressure plate. Activated by vehicles only.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plate-pressure, activate with vehicle. Akki not fat enough.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

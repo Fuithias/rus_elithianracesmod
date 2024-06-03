@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Floor Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap metal panels acting as a floorboard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. This does not look very sturdy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss thiss panel iss for walking on.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal floorboard... I prefer the sound of boots on wood.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal floorboard.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panels-metal for floor.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Наплечная ракетная установка для ведения интенсивного огня.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Ракетная установка Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Ракетная установка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Наплечная ракетная установка для ведения интенсивного огня.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Ракетная установка Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ракетная установка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Wrecked Avikan Mech",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan mech, damaged beyond repair.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal sssuit hass been destroyed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. This mech was attacked and swiftly destroyed.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hope the pilot made it our alright...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wrecked Krahl. It looks like it was attacked using Thelean weapons...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Krahl. Status: irreparable damage.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mech-alien-wrecked. Akki wonder where pilot is.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

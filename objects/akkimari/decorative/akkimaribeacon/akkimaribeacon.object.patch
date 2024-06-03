@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Beacon",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An beacon sending out some unknown signal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A weird beacon. What is it doing here?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A beacon of some sort.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran uneasssy near thiss beacon.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ominous. This beacon makes me feel like something's coming for me...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon makes me feel odd.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange device, likely some alien beacon. I hope it's not calling anything here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weird device built by some weird alien.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari technology is impressive, but something about this beacon makes me feel uneasy.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm feeling a bit ill approaching this beacon...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interference from this beacon is messing up my systems. Is it a scrambler?",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning... System failure. Analysis incomplete.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use beacon to contact home. Akki call for help, Akkimari come.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The claws of an alien monster.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Monster Claws",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

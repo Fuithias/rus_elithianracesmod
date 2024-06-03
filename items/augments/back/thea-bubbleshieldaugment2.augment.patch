@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Provides a shield that absorbs a moderate amount of damage before breaking.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bubble Shield Augment II",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

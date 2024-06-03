@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Loftgrain Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fast-growing grain harvested by the Union.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A wheat-like plant.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The seeds of this plant are delicious.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran makesss bread with thiss too?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. I could probably make bread with this.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant is quite similar to wheat. Could it be related?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant grows faster than most of its cousins.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda fast-growing grain. Good for bread.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Loftgrain was created by our ancestors on their journey from Earth to Elithia.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It looks somewhat like dunestalk.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A genetically engineered crop.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien plantlife. Similarities to dunestalk noted.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Grass-green, colour-strange.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

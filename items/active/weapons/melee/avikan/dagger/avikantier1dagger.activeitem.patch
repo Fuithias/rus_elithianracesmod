@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Простой кинжал из заточенной кости.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Костяной кинжал",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Простой кинжал из заточенной кости.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Костяной кинжал",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Flic",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Akkimari Flic-type drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A tiny drone.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small drone.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssmall drone.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A small drone.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tiny drone. How cute!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple, small drone.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some tiny drone.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I think these are called flics: small law enforcement drones of the Akkimari.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tiny drone. Not too different from a Drahlid.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A drone. It's sleeping.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien-built drone. Flic model.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Flic-tiny, keep Akkimari under control.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

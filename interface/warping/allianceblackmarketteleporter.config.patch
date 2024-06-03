@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Bolter's Bazaar",
+    "path": "/bookmarkName",
+    "op": "replace"
+  },
+  {
+    "value": "Beam to Ship",
+    "path": "/destinations/name",
+    "op": "replace"
+  }
+]

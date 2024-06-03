@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A flare often used by the Alliance to signal important locations, or to light an area.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Flare",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

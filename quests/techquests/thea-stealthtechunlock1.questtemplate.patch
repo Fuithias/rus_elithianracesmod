@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^orange;Chacharra's Stealth Tech I",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Chacharra has tech, useful tech to go invisible. You can have tech, for price... ^green;Bring Chacharra ^orange;5 Diamonds^reset;, then Chacharra show you test course for ^orange;Stealth Tech^reset;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "You make Chacharra happy, happy Akki help you! ^orange;Stealth Tech ^reset;almost yours now...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

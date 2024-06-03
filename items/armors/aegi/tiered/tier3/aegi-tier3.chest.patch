@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Броневой нагрудник, который носили некоторые аегинские пехотинцы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Нагрудник пехотинца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Броневой нагрудник, который носили некоторые аегинские пехотинцы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Нагрудник пехотинца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Длинная мантия, которую носят верховные жрецы Рхаиода.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Мантия Рхаиода",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Длинная мантия, которую носят верховные жрецы Рхаиода.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мантия Рхаиода",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

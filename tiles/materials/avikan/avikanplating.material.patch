@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Plating",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strong metal plating, for when you need to protect something very badly.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Thick and heavy plating. Very reliable protection.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big platesss for making placess sssafe...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal plating fit for makin' a big safe.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Heat-resistant metal plating.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plating-heavy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

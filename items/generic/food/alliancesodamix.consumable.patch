@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Vahlberries mixed with various sodas for a bizarre but delightful taste.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberry Soda Mix",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

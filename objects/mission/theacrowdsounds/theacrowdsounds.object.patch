@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Crowd Sounds Source",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

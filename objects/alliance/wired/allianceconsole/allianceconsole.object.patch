@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer console for wiring circuits together.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A console for controlling connected objects.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This panel likely controls mechanisms nearby.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny buttonsss, Floran presss?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What will happen if I touch these buttons?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control panel of some sort.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny console with an even shinier interface.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console's interface was built to accommodate for several Alliance species.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien interface. I can't make much sense of it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This standard Alliance interface allows several Alliance species to operate this console.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Console. Interface decryption failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If Akki press button, things explode?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A long string of silk from an Akkimari silk gland.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari Silk",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

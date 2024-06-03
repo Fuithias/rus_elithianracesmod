@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal panel with power cables embedded in its plating.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Power Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

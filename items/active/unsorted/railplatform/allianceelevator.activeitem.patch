@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Разместите управляемый трамвай, который работает с рельсовыми стопами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Лифт Альянса",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Разместите управляемый трамвай, который работает с рельсовыми стопами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Лифт Альянса",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,1052 @@
+[
+  {
+    "value": "Target reacquired!",
+    "path": "/reattack/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You're not getting away this time!",
+    "path": "/reattack/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will stop you this time!",
+    "path": "/reattack/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "The hunt goes on.",
+    "path": "/reattack/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You made a mistake returning here.",
+    "path": "/reattack/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Invaders, eliminate them!",
+    "path": "/attack/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "They're after the artefacts, get them!",
+    "path": "/attack/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Prepare to meet your maker!",
+    "path": "/attack/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This ends now!",
+    "path": "/attack/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your head will make a fine trophy!",
+    "path": "/attack/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "And so the hunt ends.",
+    "path": "/killedTarget/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis favours us today!",
+    "path": "/killedTarget/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Another battle won.",
+    "path": "/killedTarget/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Target eliminated!",
+    "path": "/killedTarget/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Threat eliminated.",
+    "path": "/killedTarget/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target escaped...",
+    "path": "/lostTarget/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'll get you next time.",
+    "path": "/lostTarget/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will bring you justice, one way or another.",
+    "path": "/lostTarget/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This isn't over yet.",
+    "path": "/lostTarget/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The hunt ends. For now...",
+    "path": "/lostTarget/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I lost the target!",
+    "path": "/outOfSight/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Where did it go?",
+    "path": "/outOfSight/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will find you again.",
+    "path": "/outOfSight/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Does anyone have an eye on the target?",
+    "path": "/outOfSight/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "They're elusive...",
+    "path": "/outOfSight/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Get back here, coward!",
+    "path": "/cantReach/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Vathra! I can't get over there!",
+    "path": "/cantReach/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will guide me to you.",
+    "path": "/cantReach/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Can anyone reach the target?",
+    "path": "/cantReach/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I can't reach the target!",
+    "path": "/cantReach/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Get them!",
+    "path": "/cheerOn/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "We're almost there!",
+    "path": "/cheerOn/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Fight! We can't lose them now!",
+    "path": "/cheerOn/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis, strike them down!",
+    "path": "/cheerOn/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Your head will be mine!",
+    "path": "/cheerOn/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target reacquired!",
+    "path": "/reattack/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The target has been reacquired!",
+    "path": "/reattack/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your return was a mistake.",
+    "path": "/reattack/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You'll not escape again!",
+    "path": "/reattack/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit shall hunt you down!",
+    "path": "/reattack/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Eliminate the invaders!",
+    "path": "/attack/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Hostile detected!",
+    "path": "/attack/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit shall hunt you down!",
+    "path": "/attack/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You've come to your journey's end!",
+    "path": "/attack/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Elimination protocol initiated!",
+    "path": "/attack/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Threat levels have returned to normal.",
+    "path": "/killedTarget/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit is victorious.",
+    "path": "/killedTarget/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency wins it every time.",
+    "path": "/killedTarget/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Target eliminated.",
+    "path": "/killedTarget/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Exiting combat stance.",
+    "path": "/killedTarget/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target escaped.",
+    "path": "/lostTarget/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The target has left the area.",
+    "path": "/lostTarget/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Combat situation resolved. The target was lost.",
+    "path": "/lostTarget/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Target not found.",
+    "path": "/lostTarget/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The hostile got away.",
+    "path": "/lostTarget/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I lost sight of the target!",
+    "path": "/outOfSight/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Target out of sight.",
+    "path": "/outOfSight/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit shall find you again..",
+    "path": "/outOfSight/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "My scans fail to reveal the target.",
+    "path": "/outOfSight/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The target is elusive.",
+    "path": "/outOfSight/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to reach the target!",
+    "path": "/cantReach/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I am unable to reach the target!",
+    "path": "/cantReach/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The hostile is beyond my reach.",
+    "path": "/cantReach/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Do not let them get away!",
+    "path": "/cantReach/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I can't reach the target!",
+    "path": "/cantReach/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "The target will be eliminated shortly.",
+    "path": "/cheerOn/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit shall be victorious.",
+    "path": "/cheerOn/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The target shall fall soon!",
+    "path": "/cheerOn/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Get them!",
+    "path": "/cheerOn/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You're done for!",
+    "path": "/cheerOn/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target reacquired.",
+    "path": "/reattack/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Located target. Commencing assault.",
+    "path": "/reattack/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Assuming battle position.",
+    "path": "/reattack/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Preparing for elimination of target.",
+    "path": "/reattack/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Target acquired. Battle modules loaded.",
+    "path": "/reattack/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Acquired combat target.",
+    "path": "/attack/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Battle modules initiated. Commencing assault.",
+    "path": "/attack/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Elimination of target in progress.",
+    "path": "/attack/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Target acquired. Eliminating.",
+    "path": "/attack/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Commencing battle.",
+    "path": "/attack/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target eliminated.",
+    "path": "/killedTarget/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Battle concluded.",
+    "path": "/killedTarget/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unloading battle modules.",
+    "path": "/killedTarget/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Victory achieved.",
+    "path": "/killedTarget/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Elimination complete.",
+    "path": "/killedTarget/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target has escaped. Ending battle state.",
+    "path": "/lostTarget/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Target lost.",
+    "path": "/lostTarget/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Elimination incomplete. Target lost.",
+    "path": "/lostTarget/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ending combat procedures. Target lost.",
+    "path": "/lostTarget/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Target has escaped.",
+    "path": "/lostTarget/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Lost visual on target. Searching.",
+    "path": "/outOfSight/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Target lost. Reacquiring.",
+    "path": "/outOfSight/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Target loss confirmed.",
+    "path": "/outOfSight/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to detect target.",
+    "path": "/outOfSight/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Target lost.",
+    "path": "/outOfSight/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to reach target.",
+    "path": "/cantReach/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Combat halted. Unable to reach target.",
+    "path": "/cantReach/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting help. Unable to reach target.",
+    "path": "/cantReach/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to reach target. Recalculating path.",
+    "path": "/cantReach/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to reach target. Elimination incomplete.",
+    "path": "/cantReach/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Eliminate target.",
+    "path": "/cheerOn/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Target is hurt. Eliminate.",
+    "path": "/cheerOn/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Assume battle positions.",
+    "path": "/cheerOn/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Acquiring battle position.",
+    "path": "/cheerOn/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Target elimination nearing completion.",
+    "path": "/cheerOn/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target reacquired.",
+    "path": "/reattack/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Locking on to the target.",
+    "path": "/reattack/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Eliminating target.",
+    "path": "/reattack/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your end is nigh.",
+    "path": "/reattack/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You made a mistake showing yourself again.",
+    "path": "/reattack/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target acquired.",
+    "path": "/attack/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Heretic found. Commencing elimination.",
+    "path": "/attack/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You've made a mistake.",
+    "path": "/attack/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Another trophy for my collection.",
+    "path": "/attack/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll regret coming here.",
+    "path": "/attack/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target eliminated.",
+    "path": "/killedTarget/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "A victory, as expected.",
+    "path": "/killedTarget/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Death has claimed its prize.",
+    "path": "/killedTarget/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "No mercy for the weak.",
+    "path": "/killedTarget/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "That wasn't much of a fight.",
+    "path": "/killedTarget/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Lost the target.",
+    "path": "/lostTarget/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Death will find you sooner or later.",
+    "path": "/lostTarget/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The target has escaped.",
+    "path": "/lostTarget/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "We'll find the target again soon enough.",
+    "path": "/lostTarget/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll not escape me next time.",
+    "path": "/lostTarget/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target is in hiding. Find them!",
+    "path": "/outOfSight/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Lost sight of the target.",
+    "path": "/outOfSight/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Scan the area. We must find the target.",
+    "path": "/outOfSight/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting local area scan. Target has broken line of sight.",
+    "path": "/outOfSight/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Target lock was broken. Find them!",
+    "path": "/outOfSight/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Assessing situation. Scanning for alternate routes.",
+    "path": "/cantReach/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Get back here and face death!",
+    "path": "/cantReach/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Flee, you weakling!",
+    "path": "/cantReach/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Target is out of reach.",
+    "path": "/cantReach/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Find a way to the target!",
+    "path": "/cantReach/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Eliminate that target.",
+    "path": "/cheerOn/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting assistance. Annihilate them.",
+    "path": "/cheerOn/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You are done for now.",
+    "path": "/cheerOn/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Nowhere to hide now.",
+    "path": "/cheerOn/thelean/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Destroy them!",
+    "path": "/cheerOn/thelean/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I found the target!",
+    "path": "/reattack/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Eyes on the target!",
+    "path": "/reattack/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Tango in sight!",
+    "path": "/reattack/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I have a clear shot!",
+    "path": "/reattack/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Engaging the target!",
+    "path": "/reattack/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat the enemy!",
+    "path": "/attack/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Not on my watch!",
+    "path": "/attack/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Got a target!",
+    "path": "/attack/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You messed up!",
+    "path": "/attack/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll regret this!",
+    "path": "/attack/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target eliminated.",
+    "path": "/killedTarget/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Tango down!",
+    "path": "/killedTarget/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Victorious!",
+    "path": "/killedTarget/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "That seemed to be the last.",
+    "path": "/killedTarget/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Did my job again.",
+    "path": "/killedTarget/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Target lost!",
+    "path": "/lostTarget/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Seems they escaped...",
+    "path": "/lostTarget/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The target got away.",
+    "path": "/lostTarget/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I should pay more attention next time...",
+    "path": "/lostTarget/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The enemy got away.",
+    "path": "/lostTarget/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I lost the target!",
+    "path": "/outOfSight/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I don't have eyes on the target!",
+    "path": "/outOfSight/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Sweep the area!",
+    "path": "/outOfSight/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Don't let them get away!",
+    "path": "/outOfSight/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I can't see the target!",
+    "path": "/outOfSight/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I can't get up there!",
+    "path": "/cantReach/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Target is out of range!",
+    "path": "/cantReach/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I can't reach the target!",
+    "path": "/cantReach/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Can anyone reach the target?",
+    "path": "/cantReach/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I need to find another route!",
+    "path": "/cantReach/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Get them!",
+    "path": "/cheerOn/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Don't let up now!",
+    "path": "/cheerOn/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Push onward!",
+    "path": "/cheerOn/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Push for the final strike!",
+    "path": "/cheerOn/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Just a little longer!",
+    "path": "/cheerOn/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> found you!",
+    "path": "/reattack/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You dead! <selfname> gonna kill you!",
+    "path": "/reattack/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dead! You finished!",
+    "path": "/reattack/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> found you again. <selfname> will always find you again!",
+    "path": "/reattack/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You dead now!",
+    "path": "/reattack/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Kill, kill, kill!",
+    "path": "/attack/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Dead! You finished!",
+    "path": "/attack/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> going to eat you!",
+    "path": "/attack/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You belong to <selfname> now!",
+    "path": "/attack/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> gonna eat!",
+    "path": "/attack/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> gonna feast on you now!",
+    "path": "/killedTarget/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> wins!",
+    "path": "/killedTarget/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You dead! Hahaha!",
+    "path": "/killedTarget/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "No more fight. <selfname> bored.",
+    "path": "/killedTarget/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> hope will fight again soon...",
+    "path": "/killedTarget/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> mad! Food got away!",
+    "path": "/lostTarget/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "No! You not flee, you fight!",
+    "path": "/lostTarget/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You weak! <selfname> want good fight.",
+    "path": "/lostTarget/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Food escaped. <selfname> mad...",
+    "path": "/lostTarget/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Gah! Fight not end well.",
+    "path": "/lostTarget/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Get back! You fight <selfname> now!",
+    "path": "/outOfSight/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "No fleeing! You fight!",
+    "path": "/outOfSight/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> gonna find you again!",
+    "path": "/outOfSight/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You run! <selfname> chase you!",
+    "path": "/outOfSight/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Food trying to run. Get back!",
+    "path": "/outOfSight/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "No! No no no!",
+    "path": "/cantReach/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Get down here! <selfname> wanna fight!",
+    "path": "/cantReach/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> can't go there!",
+    "path": "/cantReach/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> gonna find a way there. <selfname> gonna kill you then!",
+    "path": "/cantReach/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Stupid! Get back and fight!",
+    "path": "/cantReach/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "<selfname> gonna feast with friends now!",
+    "path": "/cheerOn/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari stronger than anyone!",
+    "path": "/cheerOn/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari gonna kill you now!",
+    "path": "/cheerOn/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Bounty for Akkimari!",
+    "path": "/cheerOn/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Dead! You dead now!",
+    "path": "/cheerOn/akkimari/default/4",
+    "op": "replace"
+  }
+]

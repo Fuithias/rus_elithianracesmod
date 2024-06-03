@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Топик и пояс, популярный среди аеги.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Топик с поясом",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Топик и пояс, популярный среди аеги.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Топик с поясом",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

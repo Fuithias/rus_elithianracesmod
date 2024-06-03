@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Plating (Front)",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Irregular metal plating made from assorted scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This plating was crafted from scrap metal.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscrap metal plating.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some thick metal plating, looks mighty solid.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Scrap metal hull plating. Exact composition unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plating-metal-big. Strong, yeees?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

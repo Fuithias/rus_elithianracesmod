@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A prototype open-top mech body, designed by Enerth Engineering.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Guardian-00 Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

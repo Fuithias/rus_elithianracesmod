@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A mysterious weapon core. An unusual energy pulsates deep within the mechanism.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Mysterious Weapon Core^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A small piece of ballistic fiber.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ballistic Fiber",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

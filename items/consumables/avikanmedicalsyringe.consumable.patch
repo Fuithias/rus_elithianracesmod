@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong painkiller and healing catalyst. Restores 100 health over 1 second.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bolbohn Extract",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

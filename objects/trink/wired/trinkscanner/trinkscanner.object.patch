@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Proximity Scanner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A proximity scanner which will activate when it senses entities nearby.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a proximity device. It'll sense when I get close to it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A proximity device. It could trigger something if I'm near.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssscanning eye on the wall. It's looking at me!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Suspicious. This proximity scanner might be aware of me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A proximity sensor. It can tell when I'm near.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This scanning device can tell when I'm present.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A proximity scanner. Is it watching me right now?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A proximity sensor. It will activate when I come close.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This proximity sensor will activate when I come close.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This proximity scanner scans for both organic and synthetic creatures.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected proximity scanner. Activation will occur when this unit is nearby.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eye-alien, always watching...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

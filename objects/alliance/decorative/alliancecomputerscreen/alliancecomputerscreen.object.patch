@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Computer Screen",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard computer-and-screen in one.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This screen is also a computer.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer and a screen in one.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not know how to use computer...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A personal computer and screen in one.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This screen is also a computer. Clever.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A screen and computer in one.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Computers aren't my thing.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic computer and screen in one.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A type of alien computer and screen combo.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Combining a computer and screen in one is quite efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien interface detected. Translating...",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not sure what it means. Interface-strange.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

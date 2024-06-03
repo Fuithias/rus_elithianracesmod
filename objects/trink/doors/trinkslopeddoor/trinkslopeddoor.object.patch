@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Sloped Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy sloped metal door of Trinkian design.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy sloped metal door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny sloped door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A sloped metal door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cool sloped door.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy sloped metal door. Effective at keeping things out.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fine sloped door made of strong metal. Ain't nothing coming through here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sloped door of Trinkian design.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sloped metal door built by machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient way to seal off an entire compartment.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected door. Analysis: Sloped model.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-sloped, slippery-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

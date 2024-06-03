@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Purple-coloured fabric, used to create Rhaiod-themed items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rhaiod Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

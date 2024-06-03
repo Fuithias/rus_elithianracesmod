@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Прочный каркас из титана.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Титановый каркас",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Прочный каркас из титана.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Титановый каркас",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

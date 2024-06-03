@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Сломанный длинный меч с обломанным лезвием и неисправным блоком питания.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Сломанный длинномеч",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Длинномеч",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Сломанный длинный меч с обломанным лезвием и неисправным блоком питания.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сломанный длинномеч",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Длинномеч",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

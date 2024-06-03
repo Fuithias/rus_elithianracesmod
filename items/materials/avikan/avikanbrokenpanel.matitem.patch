@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A cracked metal panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Broken Avikan Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

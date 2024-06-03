@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer console for controlling Trink systems.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A console with an odd interface.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console controls something. But what?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny buttonsss, Floran presss?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. This control system is unfamiliar to me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control panel, the interface is new to me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian console. I wonder what is is linked to?",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control panel built by machines. Could I sabotage it?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console allows me to interact with various systems.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien interface detected. Recommend sabotage.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Console-tiny, Akki use but no understand.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

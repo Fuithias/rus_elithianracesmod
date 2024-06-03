@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Брюки, которые носят правоохранительные органы Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Брюки П-АСБ",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Брюки, которые носят правоохранительные органы Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Брюки П-АСБ",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

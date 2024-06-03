@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Элегантный, но прочный череп, который носят авиканские Следопыты.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Череп следопыта",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Элегантный, но прочный череп, который носят авиканские Следопыты.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Череп следопыта",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A can of sparkling Le'mar.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Le'mar Can",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A heavy, thick pipe. This isn't going to leak.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Pipe",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

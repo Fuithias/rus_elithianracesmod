@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Ship Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light strip.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A light strip. It flickers gently.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsating light. It's strangely calming.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light pulsssatess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This light pulsates slowly.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsing light source. It feels quite natural.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pulsating light, it feels alive.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light pulsates slowly, like a breathing star.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light pulsates slowly, almost like it is alive.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange, pulsating alien light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light isn't very efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected pulsating light source.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-pulsing makes Akkimari feel calm.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

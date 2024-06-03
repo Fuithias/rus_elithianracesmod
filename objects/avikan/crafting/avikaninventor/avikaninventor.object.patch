@@ -1,0 +1,212 @@
+[
+  {
+    "value": "^orange;Avikan Workman's Table^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Workman's table is used to construct various specialized crafting tables.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A table with a bunch of bone craftman's tools.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These crafting tools may be primitive, but they do their job perfectly.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran ussse table to make more tablesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting table for crafting specialized crafting tables. Crafty!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable used by the Avikan. One could craft more specialized equipment here.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workman's table. I can craft more specialized crafting tools here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting table used to craft other crafting tables. An inefficient solution.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workman's table. Used to construct various specialized crafting tables.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use blueprint to craft things-many.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Workman's Table^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Workman's table is used to construct various specialized crafting tables.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A table with a bunch of bone craftman's tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These crafting tools may be primitive, but they do their job perfectly.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran ussse table to make more tablesss.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting table for crafting specialized crafting tables. Crafty!",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "One can display their crafting prowess here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable used by the Avikan. One could craft more specialized equipment here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workman's table. I can craft more specialized crafting tools here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting table used to craft other crafting tables. An inefficient solution.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workman's table. Used to construct various specialized crafting tables.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki use blueprint to craft things-many.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Artisan's Station^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Artisan's station is used to construct various specialized crafting tables.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A modern artisan's workstation. The screen displays some complex blueprint.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workstation where one could craft specialized crafting equipment.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran ussse worksstation to make crafting toolss.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Inspired. A true artisan could craft magnificent items here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech artisan's table, for the modern craftsman.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "While the machine helps, only a true artisan can craft here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fancy screen to replace fragile blueprints. Very useful indeed.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workstation for Avikan artisans.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can craft specialized crafting tools here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine makes the process of creating and archiving blueprints much more efficient.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Artisan's station. Used to construct various specialized crafting tables.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Screen shows blueprints, useful for Akki.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

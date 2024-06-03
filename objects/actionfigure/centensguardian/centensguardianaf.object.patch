@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Ce'Tennan Oculus Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"An automated defence system built by the Ce'Tennan.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Штурмовая винтовка с высоким темпом стрельбы.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;ПАМ^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Афалос И-12",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Штурмовая винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Штурмовая винтовка с высоким темпом стрельбы.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;ПАМ^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Афалос И-12",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмовая винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

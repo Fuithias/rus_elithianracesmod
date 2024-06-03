@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Этот величественный лук стреляет стрелами, которые дробят при ударе.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Бич песколедователя^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Тяжелый лук",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Этот величественный лук стреляет стрелами, которые дробят при ударе.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Бич песколедователя^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тяжелый лук",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

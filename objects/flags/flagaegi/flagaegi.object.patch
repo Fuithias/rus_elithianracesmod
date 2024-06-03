@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Union Flag",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The flag of the Aeginian Federal Union. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A Union flag. I can use this as a waypoint for teleportation.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Union flag can be bookmarked as a destination for my ship teleporter.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Union flag makess good point to teleport back to ussing teleporter!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observant. A small locator module attached to this Union flag allows it to be bookmarked for teleportation.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Union flag can be saved as a location for my teleporter. Then I can return to it any time.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Union flag can act as a way point, enabling me to return to this point using a teleporter.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can bookmark this Union flag for quick teleportin'.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Union flag. My ship's teleporter can sync with its location so I can return here later.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Union flag. The ship's teleporter can lock on to the locator module inside it, so I can return here later.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locator module inside this Union flag allows my ship's teleporter to bookmark this location.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Union flag. Detected locator module. Ship teleportation system can lock on to this location.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Flag of Union-Aegi, colourful and pretty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fossilised Akkimari torso.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari Torso",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

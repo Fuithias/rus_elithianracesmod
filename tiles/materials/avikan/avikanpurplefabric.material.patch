@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Rhaiod Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric wall sheet decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Neutral. I am uncertain what to think of this colour.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss how quickly thisss will burn...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A purple sheet of fabric. Makes a good tent wall.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Rhaiod-decorated tent wall.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric-coloured, Akki like colour.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

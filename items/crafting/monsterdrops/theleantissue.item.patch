@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sample of Thelean muscle tissue. It still moves.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thelean Tendril",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

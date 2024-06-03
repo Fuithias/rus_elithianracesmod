@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Frigate Engine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The large propulsion engine of an Akris frigate.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A propulsion engine for a small ship.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This propulsion engine is likely for a frigate.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssship engine. Fire hazzzard...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A propulsion engine for a small ship.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small ship engine.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but elegantly designed propulsion engine.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An engine for a small ship.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The engine of an Akkimari frigate.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien-built propulsion engine.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient ship engine.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected ship engine. Calculating thrust capacity.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Engine for flying ship, make ship go fast!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

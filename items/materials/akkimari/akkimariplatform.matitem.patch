@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal platform built from plates of scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

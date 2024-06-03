@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Специализированная боевая рама дроденов, она намного прочнее обычных рам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Боевая рама: ноги",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Специализированная боевая рама дроденов, она намного прочнее обычных рам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Боевая рама: ноги",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

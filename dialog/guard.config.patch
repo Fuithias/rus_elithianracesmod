@@ -1,0 +1,312 @@
+[
+  {
+    "value": "Don't cause trouble.",
+    "path": "/hail/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The clan has its eye on you.",
+    "path": "/hail/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis watches you. Behave yourself.",
+    "path": "/hail/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Move along, stranger.",
+    "path": "/hail/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Watch yourself here, stranger.",
+    "path": "/hail/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I've got my eye on you.",
+    "path": "/hail/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Hail, Captain.",
+    "path": "/hail/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis watches us all, Captain.",
+    "path": "/hail/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Behave yourself here, Captain.",
+    "path": "/hail/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Is the perimeter secure?",
+    "path": "/hail/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Captain.",
+    "path": "/hail/avikan/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "The Clanguard will keep the peace here.",
+    "path": "/hail/avikan/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Walk well, Captain.",
+    "path": "/hail/avikan/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, stranger.",
+    "path": "/hail/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I am watching you.",
+    "path": "/hail/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You are welcome here, so long as you cause no trouble.",
+    "path": "/hail/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit greets you.",
+    "path": "/hail/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Behave yourself here.",
+    "path": "/hail/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Don't cause any trouble.",
+    "path": "/hail/trink/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Don't get any crazy ideas while you're here.",
+    "path": "/hail/trink/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "I am watching you.",
+    "path": "/hail/trink/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "We tolerate your kind, so long as you remain calm.",
+    "path": "/hail/trink/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit watches you.",
+    "path": "/hail/trink/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Behave yourself here.",
+    "path": "/hail/trink/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Don't cause any trouble.",
+    "path": "/hail/trink/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Please make certain you do not break any Circuit laws.",
+    "path": "/hail/trink/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit watches.",
+    "path": "/hail/trink/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "The Masters will know if you cause trouble.",
+    "path": "/hail/trink/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, fellow Trink.",
+    "path": "/hail/trink/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, fellow Trink.",
+    "path": "/hail/trink/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "You are subject to the same laws as all of us, despite your status.",
+    "path": "/hail/trink/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do not cause trouble. This unit is combat ready.",
+    "path": "/hail/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected suspicious individual.",
+    "path": "/hail/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit will monitor your behaviour.",
+    "path": "/hail/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Detected unknown individual. Monitoring behaviour.",
+    "path": "/hail/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is watching you.",
+    "path": "/hail/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Potential hazard detected. Monitoring behaviour.",
+    "path": "/hail/droden/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Captain detected. Monitoring.",
+    "path": "/hail/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "This unit will guard the people.",
+    "path": "/hail/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Detected civilian. Detected Captain status. Greeting.",
+    "path": "/hail/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada Captain. Welcome.",
+    "path": "/hail/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is at your service.",
+    "path": "/hail/droden/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/hail/droden/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Unit is on duty. Please do not disturb.",
+    "path": "/hail/droden/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit. Monitoring behaviour.",
+    "path": "/hail/droden/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit.",
+    "path": "/hail/droden/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit stands vigil.",
+    "path": "/hail/droden/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Do not cause trouble. This unit is combat ready.",
+    "path": "/hail/droden/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Droden unit detected. Monitoring.",
+    "path": "/hail/droden/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "Warning. Criminal behaviour will result in immediate termination.",
+    "path": "/hail/droden/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Keep to the rules, alright?",
+    "path": "/hail/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm here to keep the peace.",
+    "path": "/hail/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Standing guard gets rather boring sometimes...",
+    "path": "/hail/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Move along.",
+    "path": "/hail/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Disrespect the law, and you disrespect me.",
+    "path": "/hail/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Behave yourself while you're here, okay?",
+    "path": "/hail/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Akki keep place-this safe.",
+    "path": "/hail/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki on duty-guard. Bugger off.",
+    "path": "/hail/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki guarding. Akki busy.",
+    "path": "/hail/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You move along. Akki busy guarding.",
+    "path": "/hail/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Duty-guard boring. Akki want something to happen.",
+    "path": "/hail/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki keep Akkimari safe. You no worry.",
+    "path": "/hail/akkimari/default/5",
+    "op": "replace"
+  }
+]

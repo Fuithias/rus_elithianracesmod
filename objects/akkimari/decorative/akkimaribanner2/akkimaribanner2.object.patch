@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A slightly torn banner used to decorate Akkimari buildings.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A torn banner. I don't recognize the iconography.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright red banner, it's seen better days.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss who tore the bannerss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What does this icon represent?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal ring with a torn banner hanging from it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A torn banner suspended from a metal ring. How quaint.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ragged banner.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of Akkimari banner.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien banner. It's not in the best condition.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A typical display of Akkimari carelessness. The banner is all torn up.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning iconography database. Zero results. Iconography unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki like banners. Make Akki feel connected.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

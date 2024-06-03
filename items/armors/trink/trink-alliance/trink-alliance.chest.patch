@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, окрашенный в цвета Элитианского Альянса.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Мод руки Альянса",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, окрашенный в цвета Элитианского Альянса.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мод руки Альянса",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

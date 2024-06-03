@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Reinforced Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavily reinforced door covered in external scrap plating.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door. If it would open now, I'd probably be dead.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong blast door. Good thing it is locked.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran afraid of endlesss sspace behind doorsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relief. This blast door won't open without prior decompression of the cargo hold.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not opening this before this room gets decompressed.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal door, and all that stands between me and the endlessness of space.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sure am glad this door ain't opening anytime soon. I'd be rather annoyed if I got sucked into outer space.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door. It is all that stands between me and outer space...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This door is all that stands between me and outer space. Good thing it won't open.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Decompression of this room is needed before that door will ever open.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Door is locked until the cargo hold is decompressed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki safe behind door! If door opens, Akki dead in space...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

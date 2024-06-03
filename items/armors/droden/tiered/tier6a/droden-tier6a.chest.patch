@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Энергичная версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Каркас элиты тип-A",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Энергичная версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Каркас элиты тип-A",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

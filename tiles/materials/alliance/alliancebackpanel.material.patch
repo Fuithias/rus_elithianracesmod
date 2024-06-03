@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Backpanel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal wall panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A wall panel.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not interessted in boring panelsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal panels for buildin' interior walls.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal wall panel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-wall-metal, cut-clean. Satisfying-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

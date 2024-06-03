@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Юбка, которую носят шаманы Шалакки",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка Шалакка",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Юбка, которую носят шаманы Шалакки",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка Шалакка",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

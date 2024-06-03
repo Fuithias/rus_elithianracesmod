@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A bone from an alien monster.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Monster Bone",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

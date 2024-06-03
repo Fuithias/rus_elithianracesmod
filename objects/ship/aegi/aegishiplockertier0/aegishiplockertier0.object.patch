@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Ship locker",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Store some stuff, why don't you?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The ship's storage system. It's not currently functional.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A device that holds many items for safe keeping. It's broken at the moment.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssstorage. It'sss not working.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Distressed. This ship's storage system is malfunctioning.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A storage locker. It doesn't seem to be working.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant storage solution. It's not currently powered.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locker. Ain't much use 'til it's fixed.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The panel is broken. No way to access the ship locker until I fix it.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ship locker is jammed. I should get it fixed as soon as possible.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This ship locker will not open.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship locker. Status: jammed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Locker-ship, Akki can't open. Locker-jammed.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

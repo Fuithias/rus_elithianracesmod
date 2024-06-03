@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A shield built with Centensian components. The power source is still busted...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Centensian Shield Casing^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

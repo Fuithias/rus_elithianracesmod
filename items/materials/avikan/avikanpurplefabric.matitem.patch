@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fabric wall sheet decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rhaiod Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

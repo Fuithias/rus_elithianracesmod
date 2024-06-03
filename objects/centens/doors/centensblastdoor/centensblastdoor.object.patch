@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Blast Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient metal blast door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An old blast door. Still intact, surprisingly.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "How has this ancient door remained in such a fine state?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Old metal doorsss. It ssshinesss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An ancient door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient blast door. What lies behind it?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient blast door, still in pristine shape.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian blast door. Barely damaged, yet it is eons old.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door built by the Old Ones.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian blast door, it likely protects something valuable.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Blast door. Origin: Centensian.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-ancient, resist blasts-heavy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

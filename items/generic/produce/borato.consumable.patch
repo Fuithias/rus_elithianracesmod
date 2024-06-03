@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A tasty plant rich in calories.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Borato",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

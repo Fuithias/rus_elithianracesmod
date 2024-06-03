@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A basic mech body built by Akkimari scavengers.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Crusader-00 Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

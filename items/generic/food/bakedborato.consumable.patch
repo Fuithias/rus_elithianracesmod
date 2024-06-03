@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A baked borato, perfect for dinner.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Baked Borato",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

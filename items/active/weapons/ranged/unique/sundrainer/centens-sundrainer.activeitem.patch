@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Древнее оружие, которое истощает звезды для получения энергии.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Солнечный осушитель^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Тяжелая Скачтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Древнее оружие, которое истощает звезды для получения энергии.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Солнечный осушитель^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тяжелая Скачтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

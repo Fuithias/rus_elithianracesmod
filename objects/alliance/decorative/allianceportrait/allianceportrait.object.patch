@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Portrait of Admiral Lyiin",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large portrait of Admiral Lyiin Atmaera.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large portrait of some important person.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This person must be quite important.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Large picture of important perssson.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Who is this?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta important person.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This person has an aura of responsibility and authority to them.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Soma kinda important guy.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A portrait of Lyiin Atmaera, the admiral stationed at the Creon Embassy.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This must be an alien leader.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A portrait of Lyiin Atmaera. He is the admiral stationed at the Creon Embassy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien portrait.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki think this is person-important.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

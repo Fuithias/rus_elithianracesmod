@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Боевые поножи из прочных металлов. Энергичная версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Поножи налетчика р.А",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Боевые поножи из прочных металлов. Энергичная версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Поножи налетчика р.А",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

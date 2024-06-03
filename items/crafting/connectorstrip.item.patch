@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A bunch of gold-plated connectors, for use in electronics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Connector Strip",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

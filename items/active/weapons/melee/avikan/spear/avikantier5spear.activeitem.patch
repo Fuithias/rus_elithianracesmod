@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Острое металлическое копье, созданное Номадой.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Номадское копье",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острое металлическое копье, созданное Номадой.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Номадское копье",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

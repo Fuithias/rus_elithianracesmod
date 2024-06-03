@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Острое копье из кости чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Копье ловца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острое копье из кости чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Копье ловца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

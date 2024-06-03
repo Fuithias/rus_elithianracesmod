@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Mounted Akkimari Skeleton",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dead Akkimari brutally mounted on a spike.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A dead alien, displayed in a cruel manner.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is extremely dishonorable towards the dead...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssspike would make for good weapon. Jussst have to remove boness firssst.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Disgusted. Who would make such a thing?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barbaric display.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is just barbaric. Who would display a skeleton like this?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda dead alien. They didn't die well, I reckon.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is a barbaric display, even for the Akkimari.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Aliens can be so brutal...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These were once the bones of a living and breathing Akkimari.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien remains. Analysis: Akkimari bones.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spike-metal for Akkimari-dead.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

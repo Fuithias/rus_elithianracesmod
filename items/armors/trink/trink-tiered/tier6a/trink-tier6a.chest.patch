@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки с усилением из соляриума очень высокого качества.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Мод руки Энигмат в2",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки с усилением из соляриума очень высокого качества.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мод руки Энигмат в2",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

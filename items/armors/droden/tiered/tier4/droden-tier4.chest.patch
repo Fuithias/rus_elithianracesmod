@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Прочный каркас из дюрастали.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Дюрасталевый каркас",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Прочный каркас из дюрастали.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дюрасталевый каркас",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

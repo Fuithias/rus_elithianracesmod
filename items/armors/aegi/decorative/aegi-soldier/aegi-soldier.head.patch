@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Стандартный шлем военнослужащих Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем М-АСБ",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Стандартный шлем военнослужащих Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем М-АСБ",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

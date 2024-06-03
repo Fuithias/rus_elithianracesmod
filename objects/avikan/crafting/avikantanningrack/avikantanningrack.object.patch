@@ -1,0 +1,72 @@
+[
+  {
+    "value": "^orange;Nomada Tanning Rack^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tannin' rack? Let's go make me some new boots!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "All the equipment you need for crafting leather items.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki tan hides, make leather.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

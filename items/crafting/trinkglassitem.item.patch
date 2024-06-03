@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong pane of glass used for crafting.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

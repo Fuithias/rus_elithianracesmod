@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A miniature Trinkian power generator.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Power Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

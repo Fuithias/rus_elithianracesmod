@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Хорошо сшитая фуражка.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Фуражка патрульного",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Хорошо сшитая фуражка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Фуражка патрульного",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

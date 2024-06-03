@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Escape Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reinforced metal hatch often seen in escape tunnels.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can esscape through the hatch.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. This hatch might lead to an escape tunnel!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal hatch, like a modern trapdoor.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada-built hatch.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hatch-metal, for escaping.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Irrigation System",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated soil watering solution.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sort of sprinkler, but for more efficient than regular ones.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a machine that waters crops automatically.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Waters cropss..",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's like a sprinkler, but more efficient. This is no fun to run through!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It is used to water crops. Simple, but rather clever.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Waterin' crops made simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan are quite careful with their water supply. Even the sprinklers use only little water.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some consider such irrigation systems a waste of water, but the value of automated irrigation is worth the cost of the water.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A surprisingly efficient irrigation system. The Avikan are careful whenever water is involved.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected irrigation system. Water usage efficiency levels at 98%.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Irrigation-automated, keep plants watered. Otherwise plants die, Akkimari no food.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

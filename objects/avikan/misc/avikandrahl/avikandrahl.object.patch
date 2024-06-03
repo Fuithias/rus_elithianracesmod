@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Drahl",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive combat and reconnaissance drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A drone. It's equipped with some basic weaponry.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wish I could fly like this drone can.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Can Floran ride on top of dronesss?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eager. I would love to have a drone like this accompany me on my journeys.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A drone capable of reconnaissance and combat both.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A versatile drone. It's quick, durable and efficient all.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A drone. Not sure if it'll be flyin' any longer.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan call these drone Drahls.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Drahl like this would be a useful companion, I'm sure.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This drone's energy usage is surprisingly efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Drahl unit. Status: inactive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drone-small, Akki fight?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thelean Sword",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The sword of a dead Thelean. It's stuck far too tigthly to get it out.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wantsss to take ssword, but Floran not ssstrong enough...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weak. I do not have the strength to pull this sword out of the rocks.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This sword must have killed many of my kind.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Thelean weaponry. Analysis: stuck.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sword of god-thief. Akki take sword, use to kill god-thief.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

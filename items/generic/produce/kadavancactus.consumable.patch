@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A refreshing, but somewhat tasteless, cactus.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Sliced Kadavan Cactus",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

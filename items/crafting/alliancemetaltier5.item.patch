@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Allosteel with a high concentration of ferroverium.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Reinforced Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

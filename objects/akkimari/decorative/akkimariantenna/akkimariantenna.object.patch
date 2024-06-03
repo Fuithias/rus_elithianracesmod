@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Antenna",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna array.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A strange antenna built by some alien.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien antenna. It makes me feel somewhat uncomfortable...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big antenna. Floran make big ssspear from it?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. This antenna emits a strange energy field.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Something about this antenna makes me feel uneasy.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy antenna, though it looks like it was made from scrap metal.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda weird-lookin' antenna.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Akkimari build powerful antennae from scrap metal. They are quite ingenious.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This antenna looks a bit like our own.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "My systems are encountering interference from this antenna. I shouldn't stay here for too long.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Receiving alien radio signal. Analyzing failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Antenna sends messages to Akris, to home. Akkimari will claim Kel'chis bounty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

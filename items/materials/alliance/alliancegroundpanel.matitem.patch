@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal panel often used to cover the floor.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Ground Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

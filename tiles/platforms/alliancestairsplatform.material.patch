@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Alliance Stairs",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sturdy metal stairs.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. These stairs appear to be very sturdy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssstairss are for climbing. Floran knowsss thiss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A set of sturdy metal stairs.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal stairs.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki walk up stairs, walk down again. Akki exercising!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

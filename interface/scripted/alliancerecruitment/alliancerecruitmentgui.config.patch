@@ -1,0 +1,87 @@
+[
+  {
+    "value": " Alliance Recruitment Desk",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Recruit crewmembers from the Alliance",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Use contracts to recruit Alliance crewmembers",
+    "path": "/gui/lblInformationText/value",
+    "op": "replace"
+  },
+  {
+    "value": "Make sure your crew isn't full. No refunds possible!",
+    "path": "/gui/lblWarningText/value",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Crew Contract",
+    "path": "/gui/lblTradeItemName/value",
+    "op": "replace"
+  },
+  {
+    "value": "Soldier",
+    "path": "/gui/lblCombat/value",
+    "op": "replace"
+  },
+  {
+    "value": "Medic",
+    "path": "/gui/lblMedic/value",
+    "op": "replace"
+  },
+  {
+    "value": "Engineer",
+    "path": "/gui/lblEngineer/value",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanic",
+    "path": "/gui/lblMechanic/value",
+    "op": "replace"
+  },
+  {
+    "value": "Janitor",
+    "path": "/gui/lblJanitor/value",
+    "op": "replace"
+  },
+  {
+    "value": "Tailor",
+    "path": "/gui/lblTailor/value",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitCombat/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitMedic/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitEngineer/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitMechanic/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitJanitor/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitTailor/caption",
+    "op": "replace"
+  }
+]

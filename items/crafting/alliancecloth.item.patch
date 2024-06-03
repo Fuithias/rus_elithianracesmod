@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A small piece of woven cloth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Woven Cloth",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

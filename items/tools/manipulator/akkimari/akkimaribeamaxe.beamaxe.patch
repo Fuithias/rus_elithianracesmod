@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Manipulates anything that matters. ^green;Quick select with [R] key.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Matter Manipulator",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tool",
+    "path": "/category",
+    "op": "replace"
+  }
+]

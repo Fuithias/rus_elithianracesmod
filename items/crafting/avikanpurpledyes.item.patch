@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A purple dye often used by the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rhaiod Dyes",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

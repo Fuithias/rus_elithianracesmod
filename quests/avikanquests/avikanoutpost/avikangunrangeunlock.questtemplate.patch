@@ -1,0 +1,32 @@
+[
+  {
+      "value": "^orange;Stopping the Corruption",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "The Vanguard is having issues with violated Drahl units on Kharmani. I need you to warp down to the planet's surface and ^green;put an end to the ^orange;Violated Elite Drahl ^green;roaming the grounds^white;. In return, ^green;you will earn yourself access to the Vanguard's shooting range ^white;here in the Starfarer's Refuge.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Well done, I hear that the violated Elite Drahl has been eliminated. Please, take this security card; it will allow you to open the door to the shooting range.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Talk to ^orange;Rokhan^reset; to warp down to the ^orange;planet below^reset;",
+      "path": "/scriptConfig/descriptions/enterInstance",
+      "op": "replace"
+  },
+  {
+      "value": "Destroy the ^orange;Violated Elite Drahl^reset;",
+      "path": "/scriptConfig/descriptions/findGoal",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/descriptions/turnIn",
+      "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A transparent multi-coloured crystal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

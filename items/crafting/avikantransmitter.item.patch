@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A transmitter capable of communicating with the Central Avikan Network.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Transmitter",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Background Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door. It can be linked to other background doors.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss where door goesss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. I wonder where this door leads...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this door leads...",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning failed. Unable to determine where this door leads.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki curious where door leads...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

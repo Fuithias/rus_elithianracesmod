@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Ship Turret",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A turret usually found on Avikan ships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A turret. It looks powerful.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small turret, likely used on spaceships.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran iss not scared of turretsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A turret.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A turret. Better not stand in front of it...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A turret. It is sad that all life appears to be moved towards war.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda turret.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan ship's turret. It packs quite a punch.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This turret should keep the ship safe.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not very efficient, but this Avikan turret is quite effective.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Vanguard-issue ship turret.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Turret-large. Tear through ships.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

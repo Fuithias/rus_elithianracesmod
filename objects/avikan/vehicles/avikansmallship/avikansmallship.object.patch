@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Skoff",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small Avikan spaceship built for scouting purposes.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An alien spaceship. It could fit a small crew.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien spaceship. It can achieve flight without wings!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not like sssmall sshipsss for sspace...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. This small ship must be a joy to ride.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small alien spaceship. Let's hijack it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small alien spaceship, but it looks fast and strong as well.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure she'll fly like a charm.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan Skoff, these ships use some reverse-engineered Centensian technology.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Skoff. Small, fast and powerful too, these ships are an excellent example of Avikan engineering.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A surprisingly efficient spaceship, built by the Avikan. I believe it is called a Skoff.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Skoff. Occupants: zero.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship-alien, Akki want to fly.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

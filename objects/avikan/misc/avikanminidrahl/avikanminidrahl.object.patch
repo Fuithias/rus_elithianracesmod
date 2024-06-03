@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Drahlid",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, inactive drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A small drone, probably used for reconnaissance purposes.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tiny drone. I'm not sure how it's supposed to be able to fly...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tiny drone doesss not sscare Floran. Floran crussshess puny droness.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This drone is likely meant for reconnaissance purposes.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tiny drone. Is it autonomous, or remotely controlled?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small reconnaissance drone.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta tiny drone.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small reconnaissance drone. It doesn't have any weapons built into it.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Drahlid. We use these to scout areas before sending in our troops.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small reconnaissance drone, not unlike our own.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Drahlid unit. Status: inactive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drone-puny, funny.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

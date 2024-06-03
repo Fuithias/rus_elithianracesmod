@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Vanguard Mech Parts",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I see you have your own mech! The Vanguard has produced a number of parts that should be compatible with it, and luckily for you, I have the blueprints for them. They're all yours, if you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;. I need one to repair my own mech...",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "That's exactly what I needed, thank you. Here's the blueprints I promised you.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Rehkon ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

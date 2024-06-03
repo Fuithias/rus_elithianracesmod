@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A powerful railgun for use on modular mech suits.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Railgun Mech Arm",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Festival Hall Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter linked to the Landing Festival Hall. \n^red;Destroyed when broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is only active at a specific time of year.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is only active at a specific time of year.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can only use teleportersss when it isss active.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This teleporter is only active at a specific time of year.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is only active at a specific time of year.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is only active at a specific time of year.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is only active at a specific time of year.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked directly to the Landing Festival Hall. It'll only activate during the Landing Festival.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This alien teleporter is linked to a set location. It only seems to be active during a specific time of year.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is linked directly to the Landing Festival Hall. It'll only activate during the Landing Festival.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Readings indicate that this teleporter only activates during a specific time of year.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki knows teleporter is only active at some time-specific.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

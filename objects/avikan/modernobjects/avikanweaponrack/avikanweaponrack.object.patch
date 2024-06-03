@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Weapon Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall-mounted weapons rack with a magnetic lock. There's place for more.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not want to hang weaponss here. Floran keepss their weaponsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This is a type of wall-mounted weapon storage.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This wall-mounted weapons rack uses a magnetic lock to keep the weapons secure.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada-approved weapons rack. Analysis indicates one weapon has been signed out.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons-alien. Akki take them, use against aliens. Akki laugh!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

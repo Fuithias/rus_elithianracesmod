@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Snowman",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple snowman adorned with an Elithian Alliance hat.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A snowman with a funny hat.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a snowman. It could use some wings!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Man made of sssnow.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Joyful. Snow always brings people together.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a snow man!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but well-made snowman.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's some sorta snow-man.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A snowman. I love making these!",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is that... an alien? Made of frozen water? The people here really are odd.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A silly snowman, but it's efficient in making people feel happy.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing construct. Detected frozen water source. Recommend immediate harvesting.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien made of snow. Aliens fun!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

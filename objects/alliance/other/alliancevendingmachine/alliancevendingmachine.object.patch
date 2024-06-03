@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Vending Machine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vending machine filled with popular beverages.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's full of all sorts of soft drinks.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The drinks in here look a little sweet for my taste...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran dissslike over-sweet drinks.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. I wouldn't mind trying some of these foreign beverages.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The machine is selling soft drinks.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There is no Reef-Cola in here, unfortunately.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Never been a great fan of fizzy drinks.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vending machine full of beverages.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine dispenses drinks. What a strange thing.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The most popular sodas in the Union can be purchased here.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien device. Analysis: dispenses drinks in exchange for currency.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want drink. Akki smash glass?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

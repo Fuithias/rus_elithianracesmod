@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Drifter's Emporium",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This person looks a bit shady...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshady looking man can ssell Floran many goodsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hesitant. I am not sure if I should be dealing with such shady figures.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shady lookin' fella. Gotta be a black market of sorts.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I highly doubt this person's shop is legal...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected unregistered merchant. Recommending caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien-shady. Akki-shady too. Friends?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

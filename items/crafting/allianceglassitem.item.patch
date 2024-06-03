@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A piece of highly durable glass-like plastic.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Resoglass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

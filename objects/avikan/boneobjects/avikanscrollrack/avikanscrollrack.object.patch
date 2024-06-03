@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Scroll Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rack for storing your scrolls.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bone rack, apparently for storing large scrolls.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive storage rack.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bone rack for sscrolsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A rack made of bone. Seemingly for storing scrolls.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a storage rack made of... bone?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crude rack made of bone. How many beings had to die for this?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a simple rack made o' bone.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bone rack. The Avikan use these to store scrolls.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A storage rack, for large scrolls.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple place for storing scrolls.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage rack. Detected several scrolls.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rack-bone for scrolls. Akki no like to read.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

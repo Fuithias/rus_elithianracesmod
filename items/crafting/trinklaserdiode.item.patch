@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A Trinkian laser diode, the core of all Trinkian laser weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Laser Diode",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

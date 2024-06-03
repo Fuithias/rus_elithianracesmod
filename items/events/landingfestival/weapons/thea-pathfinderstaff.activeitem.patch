@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^gray;The ceremonial shepherd's crook of the Pathfinder.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Landing Festival^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Pathfinder's Staff",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crook",
+    "path": "/category",
+    "op": "replace"
+  }
+]

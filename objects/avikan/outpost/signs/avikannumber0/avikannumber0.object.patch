@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Zero",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number zero, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number zero in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is zero.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means zero.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Zero in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number zero.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means zero.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number zero.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Zero.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Zero, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

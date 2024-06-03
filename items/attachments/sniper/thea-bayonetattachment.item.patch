@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A bayonet that can be mounted underneath some rifles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Bayonet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Attachment",
+    "path": "/category",
+    "op": "replace"
+  }
+]

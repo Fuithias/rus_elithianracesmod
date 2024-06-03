@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Minigun ammunition that explodes on impact.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Blast Ammo",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ammo Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Scrap Bed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple bed made of scrap metal plates and a soft cover.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A crude bed made out of plates of scrap metal. At least the cover is soft.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This bed was very crudely made.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesssn't like thiss bed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Appalled. Who would sleep on such a bed?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like some sorta prison bunk, if the prison was made of scrap metal.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is not a very pleasant bed. The cover is soft, but it's far too thin.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'd rather not spend the night on this.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "While the cover is soft, the rest of this bed is extremely shoddy.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This alien bed is highly uncomfortable.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bed consisting of scrap metal plates with a soft sheet placed on top.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien bedding detected. Low-quality materials detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not mind bed-scrappy. Cover soft enough.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

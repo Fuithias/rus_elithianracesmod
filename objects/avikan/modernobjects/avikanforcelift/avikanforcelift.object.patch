@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Force Lift",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange mechanism provides a continous upwards force to anything nearby.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An impressive piece of technology.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A device that makes people fly. I love it!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sscared of flying.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This technology is like nothing I have observed before.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of hoverlift. It's awesome!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A device crafted to ascend people to greater heights.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A force lift. It must be based on Centensian technology.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A force lift. Few of us actually understand how these things function.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A force lift. Impressively efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Particle accelerator detected. Please exercise caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Lift-light, Akki confused.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

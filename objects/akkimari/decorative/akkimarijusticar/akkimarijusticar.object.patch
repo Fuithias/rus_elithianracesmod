@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Justicar",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Akkimari Justicar-type drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large drone. The Akkimari seem to revere them.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of large drone. It looks combat-ready.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big dronesss. Floran impresssed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This drone is a fine piece of technology.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's some kinda large drone.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegantly designed drone.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weird drone.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Akkimari revere drones like these. They have a curious culture.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien drone. It doesn't look as combat-focused as an Elite Drahl.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This drone is sleeping. I'd better not touch it.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien-built drone. Justicar model.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Justicar-sleeping. Akki better not touch.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

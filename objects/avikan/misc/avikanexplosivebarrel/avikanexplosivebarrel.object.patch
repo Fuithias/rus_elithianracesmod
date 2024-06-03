@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Explosive Barrel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal barrel filled with explosive fuel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A barrel filled with explosive fuel. I'd better be careful.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This container is filled with explosive fuel.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran afraid of fire barrelsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This container is filled with a highly explosive compound, most likely some alien spaceship fuel.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If my videogame experiences have taught me anything, it's that this will likely blow up if I shoot it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This barrel is shut for a good reason. Its content might be explosive.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like alien dynamite, this'll make a big bad boom.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barrel full of explosive fuel...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The fuel inside is highly flammable. This barrel makes for a good makeshift bomb.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fuel-filled barrel. It could ignite if the barrel is broken.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Explosive substance detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Barrel-fuel. Akki ignite, then big boom!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

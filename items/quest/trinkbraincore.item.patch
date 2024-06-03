@@ -1,0 +1,17 @@
+[
+  {
+    "value": "The brain core of a Trink unit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Brain Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

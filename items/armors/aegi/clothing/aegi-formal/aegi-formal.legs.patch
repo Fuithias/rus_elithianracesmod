@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Идеальный наряд для торжественного вечера.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Официальный наряд Союза",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Идеальный наряд для торжественного вечера.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Официальный наряд Союза",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

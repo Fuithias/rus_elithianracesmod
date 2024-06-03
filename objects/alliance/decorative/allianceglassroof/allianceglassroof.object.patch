@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Alliance Glass Roof",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large, slanted glass roof.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran confused by glasss roof.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. This window is extraordinarily strong.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Glass.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Roof-glass.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Scavenger's Worktable",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable for recycling weapons into scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are useful for recycling items.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable full of recycling tools.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran take weaponsss here, break them apart!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. These are specialized tools for the recycling of various metals.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could scrap some items with these tools.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crude tools for scrapping weapons into their base components.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I don't want my guns anywhere near this.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are used to scrap items into scrap metal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These alien tools seem to have been made for the recycling of metals.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for recycling metal. I don't feel comfortable here.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Specialized tools for the recycling of metals.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take weapons here, make metal-scrap. Use metal-scrap to make weapons-new!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

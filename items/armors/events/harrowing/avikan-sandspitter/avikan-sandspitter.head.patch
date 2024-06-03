@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Маска пескоплёва для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска пескоплёва",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Маска пескоплёва для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска пескоплёва",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

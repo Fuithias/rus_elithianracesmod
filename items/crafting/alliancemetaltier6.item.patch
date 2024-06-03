@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Durable allosteel with integrated circuitry and wiring.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Integrated Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

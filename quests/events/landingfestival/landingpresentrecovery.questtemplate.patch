@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;The Lost Presents",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Hohoho, happy Landing Festival! I, err... have run into a small problem: someone has stolen some of the presents meant for visitors of the Festival Hall! Would you be a dear and ^green;recover them for me^reset;? There are ^orange;ten large, purple presents ^green;in total, scattered across the ^orange;Festival Hall ^green;and the ^orange;Creon Embassy^reset;!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "You have done well! I will make sure that these presents are distributed fairly. Here's a present for you, as thanks for helping me bring others a happy Landing Festival!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;the Pathfinder ^reset;in the ^orange;Festival Hall^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

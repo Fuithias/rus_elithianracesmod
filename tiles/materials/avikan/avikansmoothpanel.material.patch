@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Smooth Avikan Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Smoothly polished metal plating.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Why does this panel have such a sand-like appearance?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss it hard to see difference with sssand...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Someone tried real hard to make this metal look like sand.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal panel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-smooth. Akki no climb it.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Pet Tether",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A creature capture pod can be placed into this device, tethering the pet within its radius.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A captured creature can be tethered to this spot.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A handy post that a pet to be tethered to.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Creaturess attached to post ssstay here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfied. A captured creature placed in this device will stay nearby.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tether for a captured creature.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Once placed in this device, a captured creature will not wander far.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A handy tether post for keepin' captured creatures from wanderin'.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device can tether a pet into a set location.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could tether a captured creature into place with this device.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient way of tethering pets to a set location.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected pet tethering device. Prevents captured creatures from wandering off.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tether-pet. Keep pets in line.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

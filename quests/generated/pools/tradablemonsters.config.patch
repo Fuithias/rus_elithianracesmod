@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Sandcrawler",
+    "path": "/0/1/-/name",
+    "op": "replace"
+  },
+  {
+    "value": "Trangii",
+    "path": "/0/1/-/name",
+    "op": "replace"
+  }
+]

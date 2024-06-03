@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Защита",
-        "path": "/ability/name",
-        "op": "replace"
-    }
+  {
+    "value": "Защита",
+    "path": "/ability/name",
+    "op": "replace"
+  }
 ]

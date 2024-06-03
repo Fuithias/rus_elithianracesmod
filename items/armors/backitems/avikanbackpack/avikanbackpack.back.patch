@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Рюкзак авиканского кочевника. Для хранения самого необходимого.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рюкзак номада",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Рюкзак авиканского кочевника. Для хранения самого необходимого.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рюкзак номада",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

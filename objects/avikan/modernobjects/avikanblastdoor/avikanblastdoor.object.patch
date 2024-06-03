@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Blast Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal blast door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal blast door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny blast door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A blast door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal blast door. Cool.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal blast door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick blast door.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick blast door. It serves its Terve well.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong blast door.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Blast door. Structural integrity: 98 percent.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door seals room.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

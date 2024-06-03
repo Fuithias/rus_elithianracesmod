@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Ghavorkan Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A twisted creature created by the Theleans.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

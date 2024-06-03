@@ -1,0 +1,212 @@
+[
+  {
+    "value": "^orange;Avikan Tanning Rack^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tannin' rack? Let's go make me some new boots!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "All the equipment you need for crafting leather items.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki tan hides here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Tanning Rack^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tannin' rack? Let's go make me some new boots!",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "All the equipment you need for crafting leather items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki tan hides here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Leatherworking Station^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The leatherworking station is used for constructing items made of monster leather.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "This automated leatherworking station can create a large variety of leather items.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leatherworking has never been so easy! Automated crafting really is the future.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran tellsss machine to make leather... Machine obeys Floran!",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. This station will craft almost any leather item I request.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Automated tanning and leatherworking. Convenient!",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine processes leather far more efficiently than any person ever could.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "So, this 'ere machine will craft me leather items? Can it make me a new hat, too?",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "High-quality leather items can be crafted here.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine allows me to craft leather items of an even higher quality.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machines are far more efficient at leatherworking than any organic ever could be.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Leatherworking station. Used to construct equipment and other items made of leather.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki put hides is, machine make items-leather.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

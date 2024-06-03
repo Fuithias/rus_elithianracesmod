@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;A Shielded Eye IV",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "The power supply is tricky to fix, but if I link it to your suit's energy reserves, I should be able to get the generator running again. ^green;You will have to find ^orange;50 units of Centensian Liquid^reset;: that will help me link up your suit to the shield generator.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, Captain! One fully functional Centensian shield, ready to be put to the test. Just be careful not to exhaust your energy reserves, or you'll be left defenseless for some time...",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Valyakan ^reset;in the ^orange;Creon Embassy^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

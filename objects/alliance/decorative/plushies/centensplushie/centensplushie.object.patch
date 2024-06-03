@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centens Plushie",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A toy Centens made of soft fabrics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A stuffed toy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This stuffed toy looks a bit weird.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss thiss one cute.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amused. This plushie is rather odd.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plushie of some strange alien. How cute!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stuffed toy.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda plushie.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plushie Centens. I've always admired ancient civilizations.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is that an... Old One?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stuffed Centens, a toy for children.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien toy. Representation of Old One detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Toy-alien. Is that god-maker?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

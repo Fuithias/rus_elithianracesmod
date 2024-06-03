@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong bone plate from an alien monster.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Monster Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

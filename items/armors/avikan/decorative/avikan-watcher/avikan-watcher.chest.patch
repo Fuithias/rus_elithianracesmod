@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Броня, которую носят авиканские наблюдатели.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Броня наблюдателя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Броня, которую носят авиканские наблюдатели.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Броня наблюдателя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

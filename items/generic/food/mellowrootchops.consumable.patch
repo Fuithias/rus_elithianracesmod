@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Slices of cooked mellowroot. Highly nutritional.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mellowroot Chops",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

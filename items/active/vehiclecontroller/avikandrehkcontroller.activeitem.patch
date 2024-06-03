@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Призывает Дрека из грузового отсека вашего корабля.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер Дрека",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Призывает Дрека из грузового отсека вашего корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер Дрека",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Hull Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observant. This material is durable enough for use in the construction of spacefaring vessels.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Shiny sssmooth space metal.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some thick metal plating, looks mighty solid.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Hull plating. Generally used in the construction of spaceborne structures.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hull-strong, Akki need tools-bigger to scavenge.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

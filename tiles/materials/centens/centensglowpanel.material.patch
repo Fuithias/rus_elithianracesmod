@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Glowing Centensian Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient, glowing panel. It has no visible power source.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This ancient panel still glows bright.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thisss panel glowsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Somehow this 'ere panel glows, yet there's no source of power connected to it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Detected Centensian lighting technology.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-glowing, Akki entranced.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

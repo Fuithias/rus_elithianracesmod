@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A fossilised pair of Trink legs.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trink Legs",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

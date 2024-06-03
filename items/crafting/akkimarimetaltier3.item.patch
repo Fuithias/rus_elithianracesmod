@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Dented plates of scrap metal scavenged from low quality sources.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dented Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

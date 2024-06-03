@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thick Rim Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal hatch, for closing off vertical compartments.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal hatchesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observative. This is a metal hatch.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal hatch, like a modern trapdoor.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien hatch.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hatch.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

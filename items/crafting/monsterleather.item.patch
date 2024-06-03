@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Tough leather made by tanning monster skin.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Monster Leather",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Selvas Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small herb with medicinal values.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "These herbs should prove useful in my adventures.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The smell of these herbs is incredible!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss the ssmell of thiss plant.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Knowledgable. This herb has many medicinal uses.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This herb smells great, and it has many medicinal uses too.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small but beautiful plant. It smells great.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small medicinal herb.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small selvas herb. it has many medicinal uses, and smells great too.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant with an odd smell.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A medicinal herb with many uses. How efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien flora. Potential medicinal uses.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Flowers-blue, contain substance-medicinal.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Small Trinkian Spotlight",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A directional light, for highlighting areas of interest.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a light, it's sole purpose is to point at that thing.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should check out what the light is pointing at, it might be more interesting.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bright light shinesss on pretty objects.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Humbled. This light is diligently performing it's one purpose.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should probably be more interested in what this light is aimed at.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light is here to illuminate a subject more worthy of my interest than itself.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what this light could be pointin' at?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps I should be looking at whatever this light is pointing at.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright light made to highlight something. Perhaps I should look at that something instead.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not the most efficient way to highlight something, but it does look good.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Directional light. Recommend observing the highlighted area.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki point light at things-important.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

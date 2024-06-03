@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Droden Legion Terminal",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A terminal for purchasing Droden Legion units.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Seems I can purchase droids here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A place to purchase robotic crew members.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran buysss friendss here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. Robotic crewmembers can be purchased here...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've always wanted more robots on my crew!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A place to purchase robotic crew supplements.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Why not buy some new metal friends here?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A terminal for purchasing Droden Legion units.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not all Captains want to have Droden on their crews, but these Legion units would certainly be useful.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Any Droden units I buy here will follow my orders without questions.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden Legion Terminal. Legion units are available for purchase here.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki buy friends-robot here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

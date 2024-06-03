@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Rhaiod Top Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent roof decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A purple tent roof.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent roof made of purple fabric.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Purple tent roofsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A purple-coloured tent roof.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sheet of purple fabric, it functions as a tent roof.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tent roof is coloured an odd purple.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A top sheet decorated with the colours of the Rhaiod.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The top sheet of a Rhaiod tent. It always stands out in our camps.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This top sheetis decorated with the colours of the Rhaiod.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Top sheet. Colour suggests this tent belongs to the Rhaiod.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheet-top, for building tent.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

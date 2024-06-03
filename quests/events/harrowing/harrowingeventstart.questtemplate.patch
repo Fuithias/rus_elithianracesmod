@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;The Harrowing",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "During the Harrowing, we remember those we lost, but we also have fun with masks, costumes and sweet candy! If you can ^green;prove to me you're not scared of ghosts ^reset;by ^green;bringing me ^orange;20 Phase Matter^reset;, I'll give you some cool Harrowing items to get you started!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "You don't scare easily, that's for sure! Here's some items to get you in the mood for the Harrowing!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Ayala ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

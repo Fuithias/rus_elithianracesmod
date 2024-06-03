@@ -1,0 +1,17 @@
+[
+  {
+    "value": "An experimental mobile generator using state-of-the-art Trinkian technology.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Prime Core^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

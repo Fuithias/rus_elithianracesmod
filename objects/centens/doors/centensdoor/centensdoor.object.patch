@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Centensian Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient metal door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "How has this ancient door remained in such a fine state?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Old metal doorsss. It ssshinesss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An ancient door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what lies beyond this ancient door...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This ancient door has somehow survived for eons.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Centensian door is eons old, yet it is still intact.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong door built by the Old Ones.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong metal door built by the Centens. It is eons old.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Door. Origin: Centensian.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-ancient, built by god-makers.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

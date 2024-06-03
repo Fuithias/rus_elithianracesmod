@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Hyperdrive Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive drive core for an FTL system.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This drive core powers the FTL system.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange sphere somehow involved in the ship's FTL systems.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big ballsss make the sship go fasst!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. This device is powerful enough to destroy an entire city.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of massive spaceship core, likely what powers the FTL drive.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine hums a strangely beautiful tone.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can feel the power inside this device...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The core of the ship's hyperdrive system. A piece of pure Hydroverium sits in its center.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is nothing like the Nomada's ship cores. It is fascinating!",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi build incredibly efficient FTL drive cores.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detecting massive energy signature. Warning: unit electronics picking up interference. Recommend departing the area.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Core-ship. Make Akki feel dizzy...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Закаленные металлические набедренные пластины, которые носят капитаны Келрааки.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Грубые капитанские пластины",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Закаленные металлические набедренные пластины, которые носят капитаны Келрааки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грубые капитанские пластины",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

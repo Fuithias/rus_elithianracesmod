@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Equipment Infusion Station",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient construct overflowing with energy. Perhaps my equipment can be strengthened here.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This construct is overflowing with energy. Maybe I can strengthen my equipment here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This almost looks like an ancient alien altar. Some of my equipment seems to pulse as I come closer.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran make weaponss ssstronger here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Compelled. Something about this construct draws me closer...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some of my equipment is starting to pulsate. It's like this construct is resonating with my gear.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This mysterious construct overflows with energy. My equipment starts to pulsate as I come closer...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Like some kinda star forge, I bet that this construct can strengthen my equipment.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some of my gear is starting to pulsate, as though this construct is calling to it.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient construct left behind by the Old Ones. Some of my powerful equipment is resonating with its energy.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The energy of this Centensian construct is resonating with some of my equipment.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Centensian construct. Energy may be used to strengthen specific equipment.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Energy-strange flowing here. Weapons-Akki resonate. Bathe them in the light?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Длинная юбка, которую носят авиканские искатели.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка искателя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Длинная юбка, которую носят авиканские искатели.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка искателя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

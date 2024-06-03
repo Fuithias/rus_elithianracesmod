@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Watcher Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall tapestry decorated in the style of the Watchers.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A black tapestry adorned with an eye. It creeps me out.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm a bit creeped out by this tapestry.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss not afraid of large eyesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. I feel like I'm being watched.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this supposed to be an all-seing eye?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry makes me feel uncomfortable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large white eye on a black canvas. Creepy.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tapestry belongs to the Avikan secret service, the Watchers.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tapestry adorned with the Watcher's Eye.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tapestry decorated in the style of the Avikan Watchers.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Watchers' wall decoration.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Decoration, eye-large.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

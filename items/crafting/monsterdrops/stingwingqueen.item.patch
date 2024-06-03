@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The queen of a Kadavan Stingwing swarm.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Stingwing Queen",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

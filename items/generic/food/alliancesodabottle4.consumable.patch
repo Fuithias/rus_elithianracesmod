@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A bottle of tasty Valassa, made with the Union's best Vahlberries.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Valassa Bottle",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

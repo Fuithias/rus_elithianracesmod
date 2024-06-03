@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A transparent multi-coloured crystal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Marveled. This crystal shines in many colours.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Colourful glasss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's no glass, it's some kinda crystal.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Crystalline material of unknown origin.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not eat this crystal. Crystal too sharp.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

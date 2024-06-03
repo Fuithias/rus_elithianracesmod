@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Теплое пальто для холодных зимних ночей.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Зимнее пальто",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Теплое пальто для холодных зимних ночей.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зимнее пальто",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

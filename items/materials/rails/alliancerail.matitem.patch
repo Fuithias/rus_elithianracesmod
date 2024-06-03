@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong reinforced rail.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Rail",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

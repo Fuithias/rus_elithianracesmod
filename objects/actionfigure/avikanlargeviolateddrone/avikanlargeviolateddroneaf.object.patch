@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Violated Elite Drahl Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"An Avikan Elite Drahl, corrupted by Thelean Vesomeyr.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

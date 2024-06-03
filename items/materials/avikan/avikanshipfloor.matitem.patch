@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal panel, coloured like sand.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Ship Floor",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Booster Flame",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A spaceship's engine exhaust flame.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A booster. These have been known to malfunction and explode.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A booster, the wings of a ship.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscary fire.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyse. Temperature too high to measure.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This thing eats through fuel.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Propulsion.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large flaming exhaust. It'll sling this ship from one star right to another.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These engines provide an incredible amount of force.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The exhaust flame of a spaceship engine is hot. Very hot.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This ship's engine is more efficient than the flames would suggest.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Heat signature detected. Spaceship propulsion confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Exhaust-hot, Akki burn if Akki touch.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Explosive Firepower",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I found the broken missile pod of an Elite Drahl. Perhaps it can still be repaired... ^green;I should try to look for a weaponsmith in the Starfarer's Refuge ^white;- they'll know if the missile pod can still be repaired.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "This is quite the find, Captain. I think I can still repair this missile pod, but we'll need some materials.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

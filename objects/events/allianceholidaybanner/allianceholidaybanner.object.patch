@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Event Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

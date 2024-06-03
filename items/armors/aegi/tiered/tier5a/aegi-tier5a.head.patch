@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Шлем с большим козырьком из прочного пластика. Энергичная версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем исследователя тип-A",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Шлем с большим козырьком из прочного пластика. Энергичная версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем исследователя тип-A",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

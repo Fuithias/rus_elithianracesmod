@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Kadavan Spices Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spices can be made by drying this plant's fruits.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The dried fruits of this plant make for excellent spices.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The fruits of this plant are not very tasty on their own, but dry them and they make great spices.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssspicy plants. Floran driess the fruit to make food more deliciouss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. The dried fruits of this plant add much flavour to organic fruit.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These fruits are horrible on their own, but make for great spices when dried!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spices made from this plant are very strong.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spices made from this plant are very popular amongst the Avikan.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The dried fruits of this plant make for excellent spices.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trinks have no use for spices, although I hear organics can't get enough of them.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Kadavan flora. Spice plant confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant-spicy, Akki like! Mouth burn, tasty-very!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

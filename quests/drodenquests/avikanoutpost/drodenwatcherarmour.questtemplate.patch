@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Droden of the Watchers",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Droden unit registered to the Watchers. Logs indicate recent interaction with Commander Zaheed. Watcher armour received. ^green;This unit can trade ^orange;Avikan-fitted Watcher armour ^green;for ^orange;Watcher-themed Droden part replacements.^reset; Return with full set to complete trade.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Trade accepted. Handing over Watcher-themed Droden part replacements. Ending conversation.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Lens-88 ^reset;in the ^orange;Starfarer's Refuge^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

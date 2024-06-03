@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trinkian Support Beam",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal support beam.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This metal beam can hold a lot of weight.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can't bend metal beamsss. Floran not happy.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big bad support beam. Isn't gonna come down anytime soon.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Structural support beam.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Beam-support, keep walls standing.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

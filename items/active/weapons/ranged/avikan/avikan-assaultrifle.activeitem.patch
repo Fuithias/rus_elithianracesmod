@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Мощная штурмовая винтовка, выдаваемая авиканским воинам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Штурмовая винтовка Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Штурмовая винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Мощная штурмовая винтовка, выдаваемая авиканским воинам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмовая винтовка Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмовая винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

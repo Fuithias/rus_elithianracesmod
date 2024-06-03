@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Wall Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet used as a wall for Avikan tents.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet, used as a tent wall.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent wall, mad eof a simple leather sheet.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A tent wall made of leather.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather primitive tent wall, made of a sheet of leather.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive leather sheet used as a tent wall.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This leather sheet is used as a tent wall.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent wall made of a simple leather sheet. Simple, but functional.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet used as a tent wall.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Leather sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tent-side, wall-leather.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

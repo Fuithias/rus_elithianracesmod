@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Stand",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal stand, built to hold something important.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ametal stand, build to hold something important.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like it is made to hold something important.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sstand for important itemsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This looks like it was made to hold something of great value.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stand, to hold something of great value.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This stand was built to prominently display a valuable item.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal stand, built to hold some valuable item.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These stands are generally used to display Centensian artefacts, or other valuable items.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan-built stand. It is generally used to display some important item.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected stand. Purpose: to display a Centensian artefact.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Stand-metal.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

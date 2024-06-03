@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A large chunk of barely cooked alien meat. An Avikan favourite.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Meat Chunk",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

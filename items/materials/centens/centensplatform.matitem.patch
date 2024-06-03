@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An ancient metal platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Centensian Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

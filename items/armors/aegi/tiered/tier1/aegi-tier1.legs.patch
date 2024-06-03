@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Хорошо сидящие ботинки и удобные брюки.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Брюки патрульного",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Хорошо сидящие ботинки и удобные брюки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Брюки патрульного",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

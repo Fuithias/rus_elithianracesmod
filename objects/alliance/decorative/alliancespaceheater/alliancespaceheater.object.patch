@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Space Heater",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small space heater.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A basic space heater.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This should keep a home warm and cozy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal box makesss roomss warm.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A space heater.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a space heater.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This will keep a home at a comfortable temperature.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I don't need no space heater.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard space heater, built by Enerth Engineering.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device emits heat.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A surprisingly efficient space heater.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected heating device.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Device make heat.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

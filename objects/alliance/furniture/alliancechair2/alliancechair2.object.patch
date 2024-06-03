@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Soft Chair",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic but comfortable chair.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A padded metal chair.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Comfortable, if a bit simple.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likess thiss chair.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This chair is more comfortable than it looks.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could sit on this all day.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Simplistic but still comfortable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I prefer my wooden chairs.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple chair with comfortable padding.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien chair. My tail makes it quite uncomfortable.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A chair adhering to Alliance standards.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien chair.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sit.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

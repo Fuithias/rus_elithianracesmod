@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, сделанный из чистого золота. Драгоценный.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Золотой мод руки",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки, сделанный из чистого золота. Драгоценный.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Золотой мод руки",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

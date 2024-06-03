@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Дважды нажмите ^green;[W] ^white;чтобы скрыться из виду! Задержка: 5.0 с.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Сокрытие",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Дважды нажмите ^green;[W] ^white;чтобы скрыться из виду! Задержка: 5.0 с.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сокрытие",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance TV",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A TV showing an Alliance Network news channel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A TV playing a news channel.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A TV tuned to a news network.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sscreen showss pretty sscenes.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. The locations shown on this channel are beautiful!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I would like to visit the places shown on this channel.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A news channel, with pictures of beautiful locations.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A news channel, boring...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This TV is tuned to an Alliance Network news channel.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien monitor showing pictures of various locations. Wait, is that an Avikan colony?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This TV is stuck on a single channel.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien monitor. Forwarding information to the Vanguard.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Footage-alien, shows places-alien. Akki want to go there.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

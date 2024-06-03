@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Усиленная каска, которую носят стражники Бриггс.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем стражника Бриггс",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Усиленная каска, которую носят стражники Бриггс.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем стражника Бриггс",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

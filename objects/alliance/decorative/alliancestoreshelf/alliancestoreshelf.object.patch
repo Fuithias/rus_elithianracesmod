@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Store Shelf",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shelf full of Elithian goods.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A varied assortments of goods.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There's food here, but also trinkets and materials.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshelf full of goodiess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This shelf is filled with various goods.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shelf has an odd combination of goods on it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what that food will taste like.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bunch of random goods, it seems to me.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shelf full of common goods from Elithia.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shelf full of alien goods.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shelf is decently organized, but I could do better.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected store shelf. Scanning for nearby merchants.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki steal food?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

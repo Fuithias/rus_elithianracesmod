@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Рельсовый крюк для скольжения по рельсам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Тринкианский рельсовый крюк",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Рельсовый крюк для скольжения по рельсам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тринкианский рельсовый крюк",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

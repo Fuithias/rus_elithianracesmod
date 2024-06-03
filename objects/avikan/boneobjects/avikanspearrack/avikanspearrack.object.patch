@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Spear Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rack of bone spears.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Spears of bone. How primitive.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spears made of bone. Surprisingly pointy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bone spearsss. Floran likesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Spears.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bone spears, but the rack is made of metal. Odd.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These spears are made of bone. But from what sort of creature?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These bone spears are unusually sharp and strong.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Traditional bone spears from home. Stronger than many metal spears.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A collection of bone spears.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Detected Sandstalker bone.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spears-bone, for hunting.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

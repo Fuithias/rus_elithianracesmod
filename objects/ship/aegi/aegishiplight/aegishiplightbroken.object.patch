@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Broken Alliance Ship Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A malfunctioning light.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This light isn't getting enough power.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A flickering light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Broken light makesss Floran dizzy.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. This light is malfunctioning.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light's on the blink.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An underpowered light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light ain't gettin' enough power.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light isn't working properly. The ship engineer should take a look at it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light detected. Status: broken.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-broken, Akki should replace.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

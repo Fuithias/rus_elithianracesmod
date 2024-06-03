@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Призывает Блинк Кеффа из грузового отсека вашего корабля.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер Блинк Кеффа",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Призывает Блинк Кеффа из грузового отсека вашего корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер Блинк Кеффа",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

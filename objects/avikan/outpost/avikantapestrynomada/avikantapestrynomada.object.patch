@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Nomada Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry displaying the Nomada's emblem.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapessstry hasss alien mark all over it...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large leather tapestry showing the Avikan Nomada's emblem.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large leather tapestry showing our grand Nomada's emblem.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large leather tapestry showing the Avikan Nomada's emblem.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Avikan Nomada emblem.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Banner-large, for Nomada.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

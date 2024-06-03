@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Prefab Wall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Part of a pre-fabricated wall.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This is part of a pre-fabricated wall.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wallss were made in factoriess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sturdy metal plating.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Pre-fabricated wall piece.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall-prefabricated, for houses-modular.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

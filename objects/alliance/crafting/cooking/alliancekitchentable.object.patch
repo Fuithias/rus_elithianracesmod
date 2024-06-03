@@ -1,0 +1,72 @@
+[
+  {
+    "value": "^orange;Alliance Kitchen Counter^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic kitchen counter, complete with pans, dishes and more.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pans, dishes, a sink, what more do I need?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran makess food here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Annoyed. I don't want to do the dishes.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter, pans, dishes - it looks like home!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Let's do some cookin' already!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter with everything I need to prepare a meal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I might be able to prepare some food here, even with these alien tools.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A kitchen counter of Aeginian design.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected traces of organic food. Analysis: kitchen equipment.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools for cooking, Akki hungry.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

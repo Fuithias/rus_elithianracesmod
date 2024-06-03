@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Жесткая кираса, которую носят капитаны Келрааки",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Грубая капитанская кираса",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Жесткая кираса, которую носят капитаны Келрааки",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грубая капитанская кираса",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

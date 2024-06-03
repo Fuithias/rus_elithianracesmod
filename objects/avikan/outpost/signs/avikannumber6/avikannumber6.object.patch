@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Six",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number six, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number six in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is six.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means six.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Six in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number six.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means six.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number six.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Six.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Six, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

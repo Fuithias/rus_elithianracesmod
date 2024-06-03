@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sturdy metal tent pole.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Tent Pole",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trinkian Hull",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong metal hull for ships and buildings alike.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Thick and heavy hull plating. Very reliable protection.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick hull for making placess sssafe...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick plate o' metal, like some sorta big safe.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal plating is multiple units thick.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hull-thick, keeps Akkimari safe.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

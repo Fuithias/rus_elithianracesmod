@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Conference Table",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large rounded conference table.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large conference table.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large round table.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tablesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. The size suggests this is a conference table.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's quite the table.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large conference table.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table big enough for a whole crew.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large conference table.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of large table. Perhaps aliens meet here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table fit for meetings between leaders.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected large table.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki can't steal table-large.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

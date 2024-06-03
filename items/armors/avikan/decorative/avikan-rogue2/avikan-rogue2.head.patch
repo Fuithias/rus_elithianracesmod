@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Темная маска, которую носят те, кто занимается теневыми делами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска изгоя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Темная маска, которую носят те, кто занимается теневыми делами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска изгоя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

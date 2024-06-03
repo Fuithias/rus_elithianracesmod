@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Простая лейка, которая пригодится для ручного ухода за посевами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Лейка из аллостали",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Простая лейка, которая пригодится для ручного ухода за посевами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Лейка из аллостали",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Notix Plushie",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A toy Notix made of soft fabrics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A stuffed toy. It's actually quite cute.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A toy for young ones. Not sure what it's supposed to be.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss thiss one cute.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Adoring. This plushie is cute.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plushie of some kind of cute alien. I love it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This toy is rather cute.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda plushie.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These Notix plushies are quite popular.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien toy. It's very soft.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stuffed representation of the Notix. I am uncertain what to think of it.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien toy.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki find it cute.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

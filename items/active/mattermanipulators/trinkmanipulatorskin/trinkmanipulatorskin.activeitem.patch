@@ -1,17 +1,17 @@
 [
-    {
-        "value": "Изменяет внешний вид вашего манипулятора материи. ^red;Должны быть разблокированы все режимы.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Манипулятор Тринков",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Измененятор манипулятора",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "Изменяет внешний вид вашего манипулятора материи. ^red;Должны быть разблокированы все режимы.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Манипулятор Тринков",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Измененятор манипулятора",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A heap of scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

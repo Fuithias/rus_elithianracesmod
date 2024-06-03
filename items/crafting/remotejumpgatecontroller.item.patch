@@ -1,0 +1,12 @@
+[
+  {
+    "value": "This device can remotely control a jumpgate installed onto your ship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Jumpgate Controller",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

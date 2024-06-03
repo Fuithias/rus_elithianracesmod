@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Ship Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door made of selected scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door. It looks shoddy, yet sturdy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy blast door. Looks poorly made.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Why is this blast door covered in plates of scrap metal?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A scrap metal blast door. I'm surprised by how sturdy it is.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crude blast door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda blast door made of scrap. Right...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Akkimari-made blast door. Surprisingly effective.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It looks like a blast door covered in scrap.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This door is unusually efficient for Akkimari standards.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Blast door detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-thick, keeps Akkimari safe.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

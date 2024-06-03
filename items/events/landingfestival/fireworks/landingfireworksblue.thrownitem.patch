@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Colourful fireworks to celebrate the Landing Festival!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Blue Fireworks",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

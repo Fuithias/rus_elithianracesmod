@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Awning",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An awning made of leather, used to protect the entrance of Avikan homes.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather awning. Not very well crafted.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bland leather awning.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A primitive leather awning.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather awning? How primitive.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive leather awning.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather awning. Provides good protection against desert winds.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic but functional leather awning, a vital part of any tent.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather awning.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather awning. Provides protection against desert winds.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Awning for tent, Akki go inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Чрезвычайно прочный металлический нагрудник. Энергичная версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Боевой скафандр Союза тип-А",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Чрезвычайно прочный металлический нагрудник. Энергичная версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Боевой скафандр Союза тип-А",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

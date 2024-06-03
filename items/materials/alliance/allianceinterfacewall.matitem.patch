@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An interface screen integrated into a wall panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Interface Wall",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

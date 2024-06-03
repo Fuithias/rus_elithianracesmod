@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Sliding Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hatch that slides in and out of the background.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A crude sliding hatch.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hatch can slide into the wall.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssslides into the wall, Floran sssaw it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. This hatch can slide into the wall, making the platform disappear.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sliding hatch.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hatch can slide back into the wall.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This'll slide into the wall if I ain't careful.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sliding hatch. It makes for a good retractable platform.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hatch can slide away. It's an odd kind of door.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hatch slides surprisingly smoothly.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected hatch. Slides into back wall.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki careful. Hatch can slide away.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong metal hull for ships and buildings alike.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Hull",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

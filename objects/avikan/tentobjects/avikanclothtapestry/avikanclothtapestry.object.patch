@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Cloth Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tapestry made of colourful cloth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A cloth tapestry. What a simple pattern.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The colours of this tapestry are so vivid!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss Coloursss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. Such vivid colours are a sign of wealth amongst the Avikan people.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple cloth tapestry. Quite colourful, though.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple pattern, but no less beautiful.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright and colourful tapestry. It's made of cloth, not skin.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Made of cloth, a rare resource on Kadavan.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A colourful tapestry. It is finely woven.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Material: cloth.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapestry-cloth, Akki use as towel.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

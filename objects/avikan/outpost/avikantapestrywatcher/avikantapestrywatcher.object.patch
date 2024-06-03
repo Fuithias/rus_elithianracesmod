@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Watchers' Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A black tapestry displaying the Watchers' emblem.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran feelsss watched by large eye...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. It displays the emblem of the Avikan Watchers.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This black tapestry displays the emblem of our Watchers, the forces that protect us from the Thell.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dark leather tapestry. It displays the emblem of the Avikan Watchers.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Watchers' Eye emblem.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Watchers watching Akki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

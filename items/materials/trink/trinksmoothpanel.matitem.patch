@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A smooth, dark metal panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Smooth Trinkian Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

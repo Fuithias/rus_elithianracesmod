@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Crate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact cargo crate.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A compact cargo crate. Built to be stackable.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny metal crate. What is it carrying?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cratesss full of goodiesss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wondering. What goods might be within?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cargo crate. What might be inside?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact metal crate. Ideal for transportation and storage.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian crates are built with efficiency in mind.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cargo crate built by machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This standard issue cargo crate is built to fit inside any Trinkian cargo hold.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage unit detected. Content scan unavailable.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crate-alien, has lights-fancy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

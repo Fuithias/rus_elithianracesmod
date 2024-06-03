@@ -1,0 +1,12 @@
+[
+  {
+    "value": "No description.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Green Screen Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

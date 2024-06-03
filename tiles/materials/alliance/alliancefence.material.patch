@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Fence",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal fence.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. A sturdy fence like this will keep out any unwanted creatures.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssturdy fence.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong lookin' metal fence. Might be useful for buildin' a ranch.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal fencing.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fence-sturdy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

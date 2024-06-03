@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Ship Antenna",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A long retractable antenna.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A long antenna of strange design.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This antenna is unusually long and thin.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Long antenna, make long ssspearss from it!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A long, retractable antenna.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very long and spindly antenna.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A graceful antenna.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weird antenna built by weird aliens.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This type of long retractable antenna is often found on Akkimari ships.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien antenna. Likely for use in deep space.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This antenna can receive messages my own sensors can't even detect.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien antenna. Unable to detect incoming signals.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Antenna for communicating in space-deep.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

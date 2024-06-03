@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Trinkian Plating",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smooth, dark metal plate.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A smooth and thick metal plate.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know how thick plate iss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Smooth as silk, this 'ere plate is.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Thick metal plating.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Security Camera",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A camera that sends out a signal when it detects nearby entities.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A security camera. I hope the Miniknog isn't watching...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A camera. It'll send out a signal if it detects movement.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Camera followsss Floran. Floran isss freaked out!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Insecure. I'm not sure who's watching through that camera.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a camera! It'll follow targets autonomously.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A camera. Who's watching?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Security at its finest.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This camera will send out a signal if it sees me. Better be careful.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A security camera. I wonder who's watching?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficiently designed camera. It can detect movement and filter out useless targets.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected camera system. Recommend caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Camera tracks targets. Akki is target...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

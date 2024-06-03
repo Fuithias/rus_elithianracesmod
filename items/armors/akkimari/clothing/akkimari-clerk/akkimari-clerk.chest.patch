@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Шелковая рубашка, которую носят судебные клерки",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рубашка клерка",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Шелковая рубашка, которую носят судебные клерки",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рубашка клерка",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

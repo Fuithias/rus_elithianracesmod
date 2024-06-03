@@ -1,0 +1,22 @@
+[
+  {
+    "value": "An elemental arrow that slows down targets.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Ice Arrow",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Arrow Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

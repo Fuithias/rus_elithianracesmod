@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A shard of the Xanafir, somehow broken and corrupted. It was once part of an infamous weapon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Broken Shard of Infamy^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

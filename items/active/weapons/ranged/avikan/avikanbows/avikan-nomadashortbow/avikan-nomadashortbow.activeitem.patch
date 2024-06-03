@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Легкий и быстрый лук для сбора частей чудовищ.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Номадский короткий лук",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Короткий лук",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Легкий и быстрый лук для сбора частей чудовищ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Номадский короткий лук",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Короткий лук",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

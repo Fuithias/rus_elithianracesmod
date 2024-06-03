@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Sweets modeled after ancient candy, perfect for celebrating the Harrowing!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Harrowing Candy",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

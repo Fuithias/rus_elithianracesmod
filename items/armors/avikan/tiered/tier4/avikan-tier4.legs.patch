@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Юбка из костяных пластин, которую носят авиканские Следопыты.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юбка следопыта",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Юбка из костяных пластин, которую носят авиканские Следопыты.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юбка следопыта",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

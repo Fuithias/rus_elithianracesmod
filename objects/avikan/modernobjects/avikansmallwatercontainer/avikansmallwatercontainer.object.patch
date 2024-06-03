@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Water Case",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small metal container full of water.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A metal container full of water.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh water!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water in small boxesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A metal container filled with water.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh and clean water - how do I get it out?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pure water, refreshing for the soul.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container containing water. This looks like it'll never leak.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container full of water, of vital importance to our people.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This water container is unlikely to ever start leaking.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected water supply. Container status: unbreached.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

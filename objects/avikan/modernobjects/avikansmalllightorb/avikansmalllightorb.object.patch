@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Light Orb",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A levitating light. Provides both light and warmth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. Fancy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pretty, hovering light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not understand how light floatsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This hovering light uses an organic battery for levitation and light both.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. Don't bump your head!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. A feat of technology, but unnecessary underwater.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. It seems to be based on Centensian technology.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light is efficient, lightweight and very versatile.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hovering light. I wonder how this effect was achieved.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected light orb.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Orb-floating, create light.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

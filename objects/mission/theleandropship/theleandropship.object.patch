@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Thelean Dropship",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Thelean-built dropship. Small, to Thelean standards.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "That dropship is massive!",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien dropship - it's massive!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not ssscared by giant ssshipss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. If the dropships are this big, how big must the regular ships be?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive dropship - how big must the regular ships be?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An enormous dropship. I fear for what the regular ships must be like...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "T'is a dropship, alright, and a big one at that!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thelean dropships are massive. But compared to regular Thelean ships, this one is tiny.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Thell dropship - its owners can't be far.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive Thelean dropship. No use trying to hijack it - Thelean technology only works for Theleans.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Thelean dropship. Warning: exercise extreme caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-thief-dropship. Akki careful, look for god-thieves. Kill them.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strange, thick liquid that feels like it doesn't belong in this universe.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Centensian Liquid",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

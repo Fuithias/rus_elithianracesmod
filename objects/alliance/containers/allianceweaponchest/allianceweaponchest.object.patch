@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Supply Crate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A military-grade chest for storing weapons and other military supplies.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like a military supply crate. There could be weapons inside!",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A military-grade supply crate, built to keep its content completely safe.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eager. A military supply crate like this is sure to hold something of value.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien weapon chest. Let's have a look inside!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Presents are most exciting when they're still wrapped.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Might be some sorta weapon inside o' this chest!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This crate might contain some military supplies.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container. From the look of it, I think it might hold military supplies",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This chest is likely to contain some military equipment.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien supply crate.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki take supplies, use to support Kelraaki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

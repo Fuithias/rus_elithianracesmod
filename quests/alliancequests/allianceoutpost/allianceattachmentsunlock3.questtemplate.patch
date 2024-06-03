@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Personalized Warfare III",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "I've got one final challenge for you! I want you to ^green;find and destroy a ^orange;Ce'Tennan Oculus^reset;, and you'll earn yourself access to the best weapon attachments I have. ^green;I've heard the ancient drones can be found in highly peculiar space anomalies ^reset;- you'd better come prepared, as it'll put up a heck of a fight.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "You're a master at fighting alright! You can now access my best weapon attachments - you've more than earned it.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

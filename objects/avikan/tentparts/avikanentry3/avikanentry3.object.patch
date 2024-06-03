@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Rhaiod Awning",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent awning decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Purple is an odd colour for such a tent.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decorated tent awning.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Purple colourss make Floran feel odd.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A tent entrance.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The fabric of this tent awning was woven with great care.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An oddly coloured tent awning.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An awning for Rhaiod tents.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The quality and colour of this awning clearly marks this tent as a Rhaiod temple.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The quality of this fabric is unusually high for Avikan tents.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric tent awning. Colour suggests this tent belongs to the Rhaiod.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Awning for tent, Akki go inside.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

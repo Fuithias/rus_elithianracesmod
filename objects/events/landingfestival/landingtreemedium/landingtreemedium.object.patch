@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Landing Festival Tree",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pine tree decorated for the Landing Festival.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A decorated pine tree.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This tree is full of shiny goods!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny tree makes Floran sssparkle!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. How did the tradition of decorating pine trees start?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Christmas tree! There's something off about it though...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A majestic tree decorated with shiny trinkets. How quaint.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Who hung all this gold in a tree?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The traditional Landing Festival tree, complete with gifts and decorations aplenty!",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant decorated in golden trinkets. Aliens are weird.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I don't fully understand why the Aegi decorate their trees.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien plantlife. Detected multiple metal trinkets attached to branches. Purpose unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tree-alien full of gold! Akki want, want want!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

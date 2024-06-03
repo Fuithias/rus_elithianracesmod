@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Inactive Arbiter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inactive Akkimari Arbiter-type drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This drone looks ready for combat.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A medium-sized, rounded drone.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dronesss for combat.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An alien drone.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A drone. It looks funny, and somehow cute.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This drone has an elegant design to it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta drone.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A law enforcement drone of Akkimari design.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This alien drone looks a bit sturdier than a Drahl.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sleeping drone.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien-built drone. Arbiter model.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not disturb Arbiter-dreaming.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

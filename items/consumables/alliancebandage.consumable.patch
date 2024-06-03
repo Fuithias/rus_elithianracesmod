@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A cloth bandage for healing minor wounds. Restores 50 health over 1 second.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Cloth Bandage",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

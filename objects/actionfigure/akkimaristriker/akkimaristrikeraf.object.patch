@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Striker Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A stealth combat drone in employ of the Akkimari.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

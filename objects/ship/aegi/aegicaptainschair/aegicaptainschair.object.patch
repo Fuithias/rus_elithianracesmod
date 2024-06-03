@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Captain's Chair",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain sits here to fly the ship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The portal to freedom. This Captain's chair allows access to the ship's navigation console.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain's chair grants power over the wings of the ship.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssmells of alien butt.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Anticipation. Where shall the ship go next?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Another Captain's chair? I feel a bit tempted to try and hijack it...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain's chair. It is the gateway to many an adventure.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain's chair. Whoever sits here gets to decide where this ship's gonna go.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Captain's chair grants access to the navigation console.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain's chair - it is a true honour to sit on one of these.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Captain's chair has specialized sensors, allowing only its owner to use the navigator.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Captain's chair. Grants access to navigation console.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chair-captain. Linked to console-navigation.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

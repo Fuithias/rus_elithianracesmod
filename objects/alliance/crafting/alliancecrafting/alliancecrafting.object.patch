@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Alliance Workshop^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An all-in-one workshop for creating a variety of items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop full of tools.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An all-in-one workshop. I can create many things here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Let's craft something!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop filled with various tools and devices.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop with tools for every craft.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are just waitin' to be used.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop, but it has all the tools I'll ever need.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I still find it odd how carelessly others use wood.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact workshop with various tools. Quite an effective use of space and materials.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools-many. Akki use to craft things.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Alliance Workshop^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An all-in-one workshop for creating a variety of items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop full of tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An all-inone workshop. I can create many things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Workssshop for crafting thingss.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Let's craft something!",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop filled with various tools and devices.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A workshop with tools for every craft.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These tools are just waitin' to be used.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic workshop, but it has all the tools I'll ever need.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I still find it odd how carelessly others use wood.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact workshop with various tools. Quite an effective use of space and materials.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tools-many. Akki use to craft things.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Alliance 3D Printer^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An advanced 3D printer capable of producing various items.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A 3D printer capable of printing in various materials.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device can print many things.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine makesss thingss for Floran. Floran iss satissfied.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This device will produce whatever I ask for.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've always liked seeing 3D printers in action.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machinery takes away the grace of a skilled craftsman.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine will print things for me. It's great.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Enerth Engineering 3D printer. It can produce many things.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of crafting device. I'm not entirely certain how it works.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient 3D printer.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Crafting device. Automatically produces various items.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Device prints item. Akki need no tools!",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Alliance Multi-fabricator^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly advanced fabrication unit capable of producing a variety of items.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "This looks like some kind of 3D printer.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A device capable of creating various items.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine makesss thingss for Floran. Floran iss satissfied.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This device will produce whatever I ask for.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's some type of highly advanced printer, I think.",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machinery takes away the grace of a skilled craftsman.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine will print things for me. It's great.",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Enerth Engineering's latest fabricator unit. It can fabricate almost anything out of raw materials.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of crafting device. I'm not entirely certain how it works.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly efficient fabricator unit. Enerth should be praised for their ingenuity.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Crafting device. Automatically produces various items.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not sure how device construct items. Akki will find out.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Green Screen Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Where did you get this?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This content isn't generally available in this mod.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran knowsss you used Admin Mode to get thiss!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ey there! Where'd ya get this now?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. You're not supposed to have access to this content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki know you cheating. You no supposed to have this.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

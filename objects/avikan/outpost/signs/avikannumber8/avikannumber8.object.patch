@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Eight",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number eight, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number eight in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is eight.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means eight.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eight in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number eight.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means eight.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number eight.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Eight.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Eight, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

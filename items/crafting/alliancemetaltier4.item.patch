@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong and hard allosteel alloy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Hardened Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

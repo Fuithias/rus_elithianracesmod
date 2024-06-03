@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Наряд, который часто носили капитаны кораблей Союза.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Фуражка капитана",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Наряд, который часто носили капитаны кораблей Союза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Фуражка капитана",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A vital component of any Vanguard-approved energy weapon.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Capacitor",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

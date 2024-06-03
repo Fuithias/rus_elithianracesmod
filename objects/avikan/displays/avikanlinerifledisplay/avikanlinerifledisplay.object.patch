@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Vanguard Linerifle Display",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan linerifle on display.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An unusual alien weapon. I'm not sure how it even works...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This weapon is powered by a mysterious weapon core.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not undersstand how thiss weapon worksss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Error. I have no information on how this weapon's firing mechanism works.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This weapon glows, and it radiates some odd energy fields...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This weapon is a mystery to me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan use Centensian technology for their weapons. Impressive.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Linerifles are the signature weapons of our grand Nomada.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The core of this weapon works in ways not even I can understand.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Line rifle.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rifle-strange. Look like driftrifle?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

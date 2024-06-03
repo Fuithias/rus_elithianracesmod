@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An iron deposit fused with an otherwordly material.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ferroverium Ore",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Прочный шлем, выдаваемый солдатам авиканского авангарда.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Прочный шлем, выдаваемый солдатам авиканского авангарда.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

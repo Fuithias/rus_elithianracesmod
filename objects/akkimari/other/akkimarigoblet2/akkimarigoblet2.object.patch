@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Goblet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A goblet filled with a nutritious liquid.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A goblet full of some weird liquid. I'm not sure if it's safe to drink.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Whatever's in this goblet, I'm not drinking it.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drink looksss odd. Floran ssshould not drink it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Disgusted. The liquid in this goblet smells too strongly.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I really shouldn't drink that.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I do not think this is safe to drink.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I shouldn't drink this.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This does not look safe to drink.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of alien drink. The smell alone sickens me.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can't identify the liquid in this goblet.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien drink. Highly incompatible with Avikan biology.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki thirsty. Drink-delicious!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

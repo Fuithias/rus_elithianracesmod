@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Rooftop Entry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small rooftop entrance piece of modular Trinkian buildings.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A small modular rooftop entrance.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, rooftop entrance decorated with green lights.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran seesss upside down roof. Floran wonderss why upside down.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This modular rooftop entrance piece is packed with sensors.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inverted metal pyramid? Strangely cool!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal rooftop entrance. Surpisingly, it is packed with sensors and communication systems.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinks are big fans of modular buildings. This small rooftop entrance will fit on pretty much every Trinkian construction.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small metal rooftop entrance, built by machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian rooftop entrances are modular, and fit ontop of almost any Trinkian structure.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Readings indicate high amounts of sensors inside this structure.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki enter through roof here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

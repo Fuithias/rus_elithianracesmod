@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Alliance Planter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A long planter filled with native Elithian flora.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran is opposed to putting plantsss in boxess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A long planter full of plantlife.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plants-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Bolbohn Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An oddly shaped plant with a similarly odd taste.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A decidedly odd plant, and a funny smelling one at that.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure I like the smell of this plant...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran find thiss plant sssmelly.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not even sure if I want to know what this tastes like...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant has an odd taste. I'm not a fan of it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Few find this plant tasty. I know I don't.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bolbohn! A tasty reminder of home!",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Everyone I asked agreed that this plant tasted horrible. Everyone, except for the Avikan.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Kadavan flora. Bolbohn confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant-weird, like blob-purple.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

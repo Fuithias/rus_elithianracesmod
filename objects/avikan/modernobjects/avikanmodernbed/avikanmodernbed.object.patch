@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Bed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern, heavy bed.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather bed. Quite comfortable, somehow.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather bed. Surpisingly comfortable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bedsss for sssleeping!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This primitive leather bed is quite comfortable.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive but comfortable leather bed. Time for a nap!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This leather bed is surprisingly comfortable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable leather bed.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet covering piles of raw leather. It makes me think of home.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather bed.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This unit does not require rest.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bed-alien, Akki rest here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

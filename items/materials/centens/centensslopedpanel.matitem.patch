@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sloped panel built with a lightweight but incredibly strong metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Centensian Sloped Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Elithian Alliance Banners",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Banners of all of the members of the Elithian Alliance.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. These banners are decorated with a plethora of alien emblems.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien banners.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Banners-many, for nations-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

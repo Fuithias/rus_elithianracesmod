@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Decorative Plant",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A collection of exotic plants and grasses.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh green plants. A symbol of freedom.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Simple plants.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plantsss without flowerss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. These plants smell incredibly fresh.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Indoor plants always lighten my mood.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These plants are being cared for with great effort.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Green plants. That's normal, right?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan take great care of what few plants they have.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Healthy plants are a sign of wealth.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These plants use their water very efficiently.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected plants. State: healthy.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  }
+]

@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Металлическое копье, созданное мастерами Номада.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Nomada Spear",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Металлическое копье, созданное мастерами Номада.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Spear",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

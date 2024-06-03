@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Стандартный пистолет, которым вооружены офицеры П-АСБ.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;ПАМ^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Силовик П-АСБ П-6",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Пистолет",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Стандартный пистолет, которым вооружены офицеры П-АСБ.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;ПАМ^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Силовик П-АСБ П-6",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пистолет",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

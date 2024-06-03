@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Racing Gate - Fast",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gate that speeds up hoverbikes. It sends out a signal whenever a vehicle passes through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A racing gate. It'll speed up any hoverbike that passes by.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This racing gate speeds up passing hoverbikes.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran excited! Glowing pole ssspeeds up hoverbikess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gleeful. Riding past this on a hoverbike causes a significant speed up.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A racing gate that speeds up passing hoverbikes. Awesome!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gate that speeds up passing hoverbikes.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This marker speeds up hoverbikes.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This gate will speed up any passing hoverbike.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gate that speeds up passing hoverbikes.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A marker that allows hoverbikes to speed up.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected racing gate. Speeds up passing hoverbikes.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If Akki speeds past on hoverbike, Akki will go faster! Faster, faster!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

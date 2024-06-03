@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Энергетическое оружие, используемое высокопоставленными членами Клангарда.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Кинжал Клангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Энергетическое оружие, используемое высокопоставленными членами Клангарда.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Кинжал Клангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Bench",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable two-seater.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The padding on this bench looks new.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Simplistic, but still comfortable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran preferss wooden bench.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Appreciative. I could use some rest.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A good old bench. Let's rest for a bit.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A minimalistic, but very comfortable, bench.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should rest a while.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple, comfortable bench.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like alien chairs much.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This bench is in good condition.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien chair.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sit, Akki relax.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

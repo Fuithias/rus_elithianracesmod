@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Strong metal plating, for the best protection.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Plating",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

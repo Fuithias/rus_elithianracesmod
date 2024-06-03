@@ -1,0 +1,22 @@
+[
+  {
+    "value": "A bow stabilizer that increases accuracy and reduces draw time.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Stabilizer",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Attachment",
+    "path": "/category",
+    "op": "replace"
+  }
+]

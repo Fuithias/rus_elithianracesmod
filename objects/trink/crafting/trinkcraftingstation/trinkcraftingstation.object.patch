@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian UACS",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinkian version of the Unified Alliance Crafting Station.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech crafting station. Impressive.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting station. Very advanced!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran dissslike metal crafting ssstation.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This crafting station uses highly advanced technology.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An advanced crafting station. Time to craft!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crafting station of incredible quality.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinkian version of the Unified Alliance Crafting Station.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This crafting station looks impressive, despite the fact it's meant for machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Unified Alliance Crafting Station is an impressive piece of technology indeed.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crafting Station. Use blueprints to craft items.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Worktable-alien, Akki craft things here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

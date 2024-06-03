@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Five",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number five, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number five in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is five.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means five.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Five in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number five.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means five.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number five.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Five.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Five, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

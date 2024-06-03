@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Point Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A point-to-point teleporter. It can be linked to background doors.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss where gate goesss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. I wonder where this gate leads...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder where this gate leads...",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning failed. Unable to determine where this gate leads.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki curious where gate leads...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

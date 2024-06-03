@@ -1,0 +1,17 @@
+[
+  {
+    "value": "pieces of ^orange;Avikan furniture",
+    "path": "/0/1/-/name",
+    "op": "replace"
+  },
+  {
+    "value": "pieces of ^orange;Alliance furniture",
+    "path": "/0/1/-/name",
+    "op": "replace"
+  },
+  {
+    "value": "pieces of ^orange;Trinkian furniture",
+    "path": "/0/1/-/name",
+    "op": "replace"
+  }
+]

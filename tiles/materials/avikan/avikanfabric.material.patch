@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fabric wall sheet, for the fashionable nomad.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This wall sheet has a vibrant colour.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss how quickly thisss will burn...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall sheet made o' some sorta fabric.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. High-quality fabric wall sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabric-soft, feels good to skin-Akki.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

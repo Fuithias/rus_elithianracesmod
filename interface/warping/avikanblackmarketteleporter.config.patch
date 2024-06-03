@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Drifter's Emporium",
+    "path": "/bookmarkName",
+    "op": "replace"
+  },
+  {
+    "value": "Beam to Ship",
+    "path": "/destinations/name",
+    "op": "replace"
+  }
+]

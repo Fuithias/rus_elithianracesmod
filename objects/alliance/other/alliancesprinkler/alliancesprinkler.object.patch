@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Sprinkler",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated soil watering solution.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sprinkler. Quite a clever way to water crops.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a machine that waters crops automatically.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Waters cropss..",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a sprinkler for watering crops! Running through sprinklers makes me feel nostalgic.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It is used to water crops. Simple, but rather clever.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Waterin' crops made simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard ceiling sprinkler.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What a waste of water...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not the most efficient sprinkler.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien irrigation system.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sprinkler-alien. Sprays water!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,27 +1,27 @@
 [
-    {
-        "value": "^orange;Линейный лук, созданный уединенными кланами Вхалакиса.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Валура^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Лук Вхалакина^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лине-лук",
-        "path": "/category",
-        "op": "replace"
-    },
-    {
-        "value": "Тройной выстрел",
-        "path": "/altAbility/name",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Линейный лук, созданный уединенными кланами Вхалакиса.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Валура^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Лук Вхалакина^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лине-лук",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Тройной выстрел",
+    "path": "/altAbility/name",
+    "op": "replace"
+  }
 ]

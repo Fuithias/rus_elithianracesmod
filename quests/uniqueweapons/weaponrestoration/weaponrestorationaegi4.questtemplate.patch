@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Excalibur Reborn IV",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "^green;You should head back to ^orange;Hadaeko^reset;, she'll want to have that Shard so you can finish your little project. Make sure to show me the weapon once it's finished - I'd love to see a true Excalibur-class shieldblade!",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "I knew Barnos would get the job done! Let me just assemble everything... Here you go: your fully restored Excalibur-class shieldblade!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

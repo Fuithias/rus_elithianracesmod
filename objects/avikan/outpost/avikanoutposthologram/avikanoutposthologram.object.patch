@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Virtual Guide Azana",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic Avikan interface.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic interface. Perhaps she might tell me about this place?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Perhaps this holographic interface can show me the way.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran talkss to light persson. Light perssson iss nice.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eager. Perhaps this holographic interface can show me the way.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic interface. She looks lovely.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic interface. She might be able to guide me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hologram shines like the mornin' sun. Perhaps I should talk to her.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic guide. She might be able to tell me more about this place.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A virtual guide, programmed to teach newcomers about this place. I might learn something from her myself.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A holographic guide. She might be able to tell me more about this place.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Virtual guide detected. Recommend interaction to learn valuable intel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Lady-light-alien. Seem friendly.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trimmed Avikan Leather",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather wallsheet decorated with various symbols.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observative. There are many different symbols painted onto this wall sheet.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not undersstand ssymbols.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Those ar' some odd-looking symbols on the wall.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. These symbols describe events from Avikan history.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no read the letters-alien. Akki not interested.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

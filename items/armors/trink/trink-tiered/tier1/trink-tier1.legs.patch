@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из низкосортного железа.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Мод тела Марк I",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из низкосортного железа.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мод тела Марк I",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

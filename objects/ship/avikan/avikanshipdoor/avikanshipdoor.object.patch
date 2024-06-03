@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Ship Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal door, oft found on Avikan ships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A metal door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cool door.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal door. Effective at keeping things out.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fine door made of strong metal. Ain't nothing coming through here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan ship door.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong door from home, built for use on ships.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mechanical door.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected door. Analysis: Ship model.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-ship, special-not.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Alliance Security Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console can only be activated using the correct security pass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran needsss ssecurity passs.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frustrated. This console requires a valid security pass.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta security terminal. Gotta have the right pass to access it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'll need a security pass to access this console.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien security terminal. Requires security pass to access.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki need pass-security.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

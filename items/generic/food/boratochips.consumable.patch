@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Fried borato chips, crunchy and tasty.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Borato Chips",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Blast Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locked blast door. No way past it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran frussstrated. Thisss door won't open.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Annoyed. This door will not open.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I ain't gonna get through that door anytime soon. It's locked tight.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected locked door. Unable to force open.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-locked. Akki not get through.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

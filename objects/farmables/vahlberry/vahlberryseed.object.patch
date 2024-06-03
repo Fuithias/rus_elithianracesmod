@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Vahlberry Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Juicy berries full of vitamins.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Brightly coloured berries grow from this plant. They look delicious.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Delicious berries!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss ssoft berriess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. Crushing these berries can create a sticky mess.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien berries, they look delicious!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bright fruit from another world. Is it safe to eat?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Berries. Tiny balls of sugar.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberries are an Aeginian favourite.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien fruit. I'm not sure if I should try to eat them.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberries are popular amongst the Aegi.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien plantlife. Analysis: fruit-bearing plant. Rich in vitamins.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki enjoy tasting tastes-new. Berries look tasty!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

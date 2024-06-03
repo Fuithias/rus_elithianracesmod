@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Akris Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal platform built from plates of scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This metal platform was assembled from scrap metal plates.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal platformsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal platform made of plates o' scrap metal. Not sure it's safe.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Scrap metal platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki stands on platform, drops down from platform. Akki pleased.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

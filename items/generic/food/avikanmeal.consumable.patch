@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A traditional Kadavan meal, a warrior's favourite.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kadavan Meal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

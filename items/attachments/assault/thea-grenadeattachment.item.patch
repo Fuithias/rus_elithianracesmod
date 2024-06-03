@@ -1,0 +1,22 @@
+[
+  {
+    "value": "An underbarrel grenade launcher.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Grenade Launcher",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Attachment",
+    "path": "/category",
+    "op": "replace"
+  }
+]

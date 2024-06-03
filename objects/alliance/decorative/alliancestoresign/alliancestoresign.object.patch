@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Store Sign",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sign advertising a place to go shopping.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sign for a store.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It says \"store\".",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssign for a store.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Comforted. A sign that indicates a store.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like the sign for a store.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This is the sign for a store.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Must be a store.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There is a store here, judging by the sign.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this an alien market?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This sign can be seen from far away. It's quite effective.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien sign. Indicates the presence of a marketplace.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki know bit of alien language. Store.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

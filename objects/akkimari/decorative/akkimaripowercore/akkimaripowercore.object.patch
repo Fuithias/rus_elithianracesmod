@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Nuclear Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A re-purposed nuclear bomb serving as an incredibly powerful source of energy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "That... Does not look safe...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this... A bomb?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran uneasssy. Fearss it will explode.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. Is that a nuclear bomb?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's definitely a nuclear bomb. Used as a power source. Damn...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This feels like it's a bomb...",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm no nuclear science guy, but that looks like a nuclear bomb.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Akkimari re-used a nuclear bomb as a power source...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien bomb of some sort. I'd rather not get too close.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This appears to be a nuclear power source. It looks like a re-purposed bomb.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning... Error. Nuclear power source detected. Recommend immediate evacuation.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no need bomb-nuclear. Akki need power. So Akki make generator from bomb-nuclear!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

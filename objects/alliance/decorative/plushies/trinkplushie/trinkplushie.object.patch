@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trink Plushie",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A toy Trink made of soft fabrics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A big and round stuffed toy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this a stuffed robot toy?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss thiss one cute.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Adoring. This plushie is cute.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An adorable plushie.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An oddly cute toy.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda plushie.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trink plushies are always adorable.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A soft alien toy.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a toy Trink. Unsettling and cute both.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien toy.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki seen real version. This cute-more.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

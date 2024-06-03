@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Interface",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An interface displaying warning signs.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An interface displaying some information.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of interface.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran got yelled at when Floran wrote on a ssscreen...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An interface.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fancy interface.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegantly designed interface.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I reckon this interface is showing some important stuff, but I can't read any of it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An interface displaying useful information.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien interface. It's gibberish to me.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This interface is quite efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien interface. Attempting translation.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interface-alien. Akki not can translate.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

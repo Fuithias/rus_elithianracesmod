@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Leather tapestry for wall decoration and insulation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Leather",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

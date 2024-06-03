@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Notician Federation Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner adorned with the emblem of the Notician Federation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This banner is adorned with some alien emblem.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien emblem. Emblem identified as Notician Federation iconography.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Icon for Federation-Notix.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

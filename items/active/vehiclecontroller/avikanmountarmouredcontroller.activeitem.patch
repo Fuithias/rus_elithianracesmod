@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Вызывает бронированного Гад'ура из грузового отсека вашего корабля.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер военного Гад'ура",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Вызывает бронированного Гад'ура из грузового отсека вашего корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер военного Гад'ура",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

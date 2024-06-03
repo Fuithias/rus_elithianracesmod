@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Маска тринка для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска тринка",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Маска тринка для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска тринка",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

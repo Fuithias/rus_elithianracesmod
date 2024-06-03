@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Light Pillar",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pillar embedded with green lights.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A pillar with green lights. Odd.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This pillar emits a green light when turned on.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Green light. Ssshiny.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Questioning. Why do these Trink use green lights?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pillar embedded with green lights. Cool.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Green light makes even the mundane look mysterious.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian light pillar.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pillar emitting a green light. It makes me feel odd...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pillars like these are primarily used to light areas outside of our buildings.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light source detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pillar-light, make things bright!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

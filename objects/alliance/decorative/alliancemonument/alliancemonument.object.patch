@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Monument of Elithia",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large monument depicting the planet Elithia.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large monument to some planet.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This statue depicts a planet.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Planet of the aliensss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What planet is this?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large statue depicting an alien world.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monument appears to be dedicated to a planet.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mighty fine piece o' art.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Elithia, my home planet, and the home of the Elithian Alliance.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I believe this planet is called Elithia.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Planet Elithia. It is where the Elithian Alliance started.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien monument. Database suggests the planet is called Elithia.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki heard this planet is Elithia.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

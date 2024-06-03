@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A powerful, compact processor unit that offers incredible processing power.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Omnicore",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

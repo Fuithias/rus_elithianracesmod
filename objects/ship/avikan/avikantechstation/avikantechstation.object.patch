@@ -1,0 +1,72 @@
+[
+  {
+    "value": "S.A.I.L",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "I can talk to SAIL through this console.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can use this station to talk to SAIL.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran use thisss magic panel to talk to SAIL!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Happy. This station allows me to talk to SAIL.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station allows me to communicate with SAIL.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This console allows me to communicate with SAIL.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This here station let's me talk with SAIL.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This panel allows for interaction with SAIL, the ship-based AI.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada doesn't like AIs like SAIL, but the Protectorate insisted on installing it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can speak to SAIL using this console. It's good to have another AI on the ship.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected SAIL interface. Console enables communication with SAIL.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki talk to SAIl here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

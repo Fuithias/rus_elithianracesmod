@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^orange;The Blighted Cavern",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "I recently came across this cave full of ^green;eerie-looking glowing rocks^reset;. I thought it'd be great for the Harrowing, but that place is too dangerous for me. The rocks found there are fascinating, though... ^green;Perhaps you're up for ^orange;exploring that cavern^reset;?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "I'm really not sure what it is you found in there... It looks ancient for sure. And certainly eerie enough for the Harrowing, but I'm afraid this may be just a bit TOO eerie for our festival...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Talk to ^orange;Ayala^reset; to travel to the ^orange;Blighted Cavern^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Find and explore the ^orange;central chamber^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Ayala^reset; in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

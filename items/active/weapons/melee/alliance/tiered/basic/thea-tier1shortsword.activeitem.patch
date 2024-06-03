@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Базовый короткий клинок.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Бредон Армс^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Меч Бредон",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Базовый короткий клинок.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Бредон Армс^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Меч Бредон",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

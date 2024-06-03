@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Glowing Rock",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient rock with an eerie glow.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. This rock does not look natural...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran feelss uneasssy near this sstone.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I d'know what this is, but I don't like how it feels.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Error.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki uneasy. Rock should glow-not.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

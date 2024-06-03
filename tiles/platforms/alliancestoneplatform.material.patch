@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Alliance Stone Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone platform.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A thick stone platform.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssstone platformss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick, heavy stone platform. Study for sure.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Platform-stone.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

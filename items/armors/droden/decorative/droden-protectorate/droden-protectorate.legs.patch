@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Ножной элемент в стиле Протектората для дроденов.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ноги Протектората",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Ножной элемент в стиле Протектората для дроденов.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ноги Протектората",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

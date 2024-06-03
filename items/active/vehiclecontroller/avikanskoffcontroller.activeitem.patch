@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Призывает Скофа из грузового отсека вашего корабля.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер Скофа",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Призывает Скофа из грузового отсека вашего корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер Скофа",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

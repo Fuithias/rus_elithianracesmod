@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Vanguard Krahl",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Vanguard vehicle built for combat purposes.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This mech looks durable.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mech! Can it fly?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big metal man... Metal man ssmash!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. I would not like to be on the receiving end of this mech's weapons.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien mech! Let's hijack it!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mech built for combat. A tool for violence, or defence?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This mech might not have the best weaponry, but its armour is superb.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Vanguard only dispatches mechs like this one in truly dire situations.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reliable combat mech, it has thick armour and decent weaponry.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard Mech detected. Status: Inactive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mech-alien, Akki control! Akki stomp around, step on puny aliens!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

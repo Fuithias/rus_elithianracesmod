@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Rusty old metal panels.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rim Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

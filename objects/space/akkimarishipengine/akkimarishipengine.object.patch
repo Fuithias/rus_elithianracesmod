@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Cruiser Engine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The massive propulsion engine of an Akris cruiser.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A massive propulsion engine.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive engine for a massive ship.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big engine for ssship.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Awed. This is a massive engine.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now THAT's an engine!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive propulsion engine, for an equally massive ship.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A huge engine.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive engine for a large Akkimari cruiser.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive engine for a large alien ship.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive engine. It's surprisingly efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected ship engine. Detected unusual proportions.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Engine-massive for flying ship. Take fuel-much, give thrust-more.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

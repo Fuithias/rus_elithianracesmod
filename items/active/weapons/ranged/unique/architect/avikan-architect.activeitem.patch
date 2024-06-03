@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Центенсианские компоненты позволяют этому оружию призывать конструкции.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Центлари^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Зодчий^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лайнтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Центенсианские компоненты позволяют этому оружию призывать конструкции.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Центлари^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Зодчий^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лайнтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

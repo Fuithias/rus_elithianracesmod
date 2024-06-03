@@ -1,0 +1,27 @@
+[
+  {
+    "value": " Weapon Attachment Bench",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Customize your weapons!",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Assemble or dismantle a weapon",
+    "path": "/gui/infoLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Assemble",
+    "path": "/gui/btnAttach/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Dismantle",
+    "path": "/gui/btnDetach/caption",
+    "op": "replace"
+  }
+]

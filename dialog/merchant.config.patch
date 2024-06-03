@@ -1,0 +1,1637 @@
+[
+  {
+    "value": "Welcome to my shop, traveller.",
+    "path": "/merchantStart/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Wish to trade, traveller?",
+    "path": "/merchantStart/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, traveller! Let us trade!",
+    "path": "/merchantStart/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Have a look at my humble goods, will you?",
+    "path": "/merchantStart/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Would you like to trade, Captain?",
+    "path": "/merchantStart/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to my shop, Captain.",
+    "path": "/merchantStart/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'd be honoured to show you my wares.",
+    "path": "/merchantStart/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Captain! Would you be interested in a trade?",
+    "path": "/merchantStart/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'll show you my wares, machine, but only because I need the coin.",
+    "path": "/merchantStart/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you wish to trade, machine?",
+    "path": "/merchantStart/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not too fond of machines, but you can have a look at my wares if you wish.",
+    "path": "/merchantStart/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is open to you, machine.",
+    "path": "/merchantStart/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'll show you my wares, machine, but only because I need the coin.",
+    "path": "/merchantStart/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you wish to trade, machine?",
+    "path": "/merchantStart/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not too fond of machines, but you can have a look at my wares if you wish.",
+    "path": "/merchantStart/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is open to you, machine.",
+    "path": "/merchantStart/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'll show you my wares, machine, but only because I need the coin.",
+    "path": "/merchantStart/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you wish to trade, machine?",
+    "path": "/merchantStart/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not too fond of machines, but you can have a look at my wares if you wish.",
+    "path": "/merchantStart/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is open to you, machine.",
+    "path": "/merchantStart/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Come back any time, traveller!",
+    "path": "/merchantEnd/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Return whenever you need more goods, traveller.",
+    "path": "/merchantEnd/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'll be here if you ever need anything else.",
+    "path": "/merchantEnd/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will lead you back to my shop again. Until then, traveller.",
+    "path": "/merchantEnd/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Come back any time, Captain!",
+    "path": "/merchantEnd/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'll be here if you ever need my wares again, Captain.",
+    "path": "/merchantEnd/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thank you for shopping here, Captain.",
+    "path": "/merchantEnd/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis guides you on your journeys, Captain.",
+    "path": "/merchantEnd/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Good doing business, machine.",
+    "path": "/merchantEnd/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "You'll return with more goods, yes?",
+    "path": "/merchantEnd/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'll be here if you need to trade again, machine.",
+    "path": "/merchantEnd/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are you done trading, then?",
+    "path": "/merchantEnd/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Good doing business, machine.",
+    "path": "/merchantEnd/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "You'll return with more goods, yes?",
+    "path": "/merchantEnd/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'll be here if you need to trade again, machine.",
+    "path": "/merchantEnd/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are you done trading, then?",
+    "path": "/merchantEnd/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you found what you were looking for.",
+    "path": "/merchantEnd/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'll be here if you need more goods, Droden.",
+    "path": "/merchantEnd/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Goodbye, Droden.",
+    "path": "/merchantEnd/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Thank you for your transactions, Droden.",
+    "path": "/merchantEnd/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Let me take you to my shop, traveller.",
+    "path": "/follow/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Follow me to my shop, traveller.",
+    "path": "/follow/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'll show you to my shop, Captain.",
+    "path": "/follow/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "My supplies are in my shop, Captain. Allow me to guide you.",
+    "path": "/follow/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is this way, machine.",
+    "path": "/follow/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "You can follow me to my shop now, machine.",
+    "path": "/follow/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is this way, machine.",
+    "path": "/follow/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "You can follow me to my shop now, machine.",
+    "path": "/follow/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Follow me to my shop, Droden.",
+    "path": "/follow/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "My supplies are this way, Droden.",
+    "path": "/follow/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Here we are. Now let's do some trading!",
+    "path": "/welcome/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "This is my shop, traveller. Welcome!",
+    "path": "/welcome/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Here we are. Welcome to my shop, Captain!",
+    "path": "/welcome/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to my humble shop, Captain!",
+    "path": "/welcome/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Let's trade then, machine.",
+    "path": "/welcome/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Don't break anything, machine.",
+    "path": "/welcome/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Let's trade then, machine.",
+    "path": "/welcome/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Don't break anything, machine.",
+    "path": "/welcome/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "We've reached our destination, Droden. Let's trade.",
+    "path": "/welcome/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "These are my supplies. Let's trade.",
+    "path": "/welcome/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "The best wares for the best prices!",
+    "path": "/tout/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Looking to trade? The best wares are right here!",
+    "path": "/tout/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Items from Kadavan, for sale right here!",
+    "path": "/tout/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Nothing but the best hand-crafted items here!",
+    "path": "/tout/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Who moved my stuff? I want it back the way it was!",
+    "path": "/tagCriteria/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Something isn't not right here.",
+    "path": "/tagCriteria/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "My room is all messed up...",
+    "path": "/tagCriteria/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Something changed here. I don't like it.",
+    "path": "/tagCriteria/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I should file a complaint. Someone messed up my room.",
+    "path": "/tagCriteria/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "My home has been damaged. I need repairs!",
+    "path": "/enclosedArea/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Someone broke my walls. Can you fix it?",
+    "path": "/enclosedArea/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm filing a complaint about home damage.",
+    "path": "/enclosedArea/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "My home is in need of repairs.",
+    "path": "/enclosedArea/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Where can I file a request for home repairs?",
+    "path": "/enclosedArea/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Is someone else moving into this place? What about me?",
+    "path": "/otherDeed/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I thought we agreed this place would be mine.",
+    "path": "/otherDeed/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I don't mind sharing a home, but this wasn't part of our contract.",
+    "path": "/otherDeed/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I'm filing a complaint. This place was supposed to be mine.",
+    "path": "/otherDeed/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "This must be a mistake. There's another deed in my home!",
+    "path": "/otherDeed/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Even the open desert is more comfortable than this place.",
+    "path": "/severe/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I miss Kadavan. This place is just no good.",
+    "path": "/severe/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I'm filing a complaint. This place won't do at all.",
+    "path": "/severe/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "These conditions are no good. I'm thinking of moving.",
+    "path": "/severe/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, this place is horrible.",
+    "path": "/severe/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I've had enough of this. I'm leaving.",
+    "path": "/final/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm returning to the Nomada. At least there people care for each other.",
+    "path": "/final/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "That does it. I'm ending my contract.",
+    "path": "/final/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "By Rhadeis, this is some mess. I'm moving out.",
+    "path": "/final/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'm contacting the Nomada. It's time for me to leave this place.",
+    "path": "/final/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You called for me?",
+    "path": "/beacon/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you with something?",
+    "path": "/beacon/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, friend. Did you need me?",
+    "path": "/beacon/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Is there anything you'd like to discuss?",
+    "path": "/beacon/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih, my friend.",
+    "path": "/beacon/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Here, take this! I've been very happy with your service.",
+    "path": "/rent/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The Nomada needs more people like you. Please, accept this token of gratitude.",
+    "path": "/rent/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thank you for taking in a traveller like me. Please, take this.",
+    "path": "/rent/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You've been a good friend. Here, take this.",
+    "path": "/rent/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I've a small gift for you. A token of gratitude, however small.",
+    "path": "/rent/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to my shop, traveller.",
+    "path": "/merchantStart/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you intend to trade, traveller?",
+    "path": "/merchantStart/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You've come to the right place to trade!",
+    "path": "/merchantStart/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Have a look at my wares. You won't be disappointed.",
+    "path": "/merchantStart/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Return soon, traveller!",
+    "path": "/merchantEnd/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'll remain here if you need any more goods, traveller.",
+    "path": "/merchantEnd/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "If you require more goods, do not hesitate to return here.",
+    "path": "/merchantEnd/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "The Circuit thanks you for your contribution.",
+    "path": "/merchantEnd/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Allow me to show you to my shop, traveller.",
+    "path": "/follow/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Follow me to my shop, traveller.",
+    "path": "/follow/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "We've arrived at my shop. Let's trade.",
+    "path": "/welcome/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to my shop, traveller.",
+    "path": "/welcome/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "All the supplies you need for your interstellar journeys, available right here!",
+    "path": "/tout/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I have all the supplies you'll ever need right here!",
+    "path": "/tout/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is approved by the Alliance's Chamber of Unified Commerce!",
+    "path": "/tout/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "The best items for sale right here!",
+    "path": "/tout/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "There has been a change in my situation.",
+    "path": "/tagCriteria/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "This room has changed...",
+    "path": "/tagCriteria/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency is below standards. A change has happened.",
+    "path": "/tagCriteria/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Something changed. I want it back the way it was.",
+    "path": "/tagCriteria/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfaction levels are plummeting.",
+    "path": "/tagCriteria/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "My home requires repairs!",
+    "path": "/enclosedArea/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency is below standards. This area is no longer enclosed.",
+    "path": "/enclosedArea/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The walls have sustained damage. They require repairs.",
+    "path": "/enclosedArea/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This place is in need of repairs.",
+    "path": "/enclosedArea/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I was not built for construction. I need someone to fix my walls.",
+    "path": "/enclosedArea/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I prefer not to share this place with anyone else.",
+    "path": "/otherDeed/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "An agreement was reached - I was to live here on my own.",
+    "path": "/otherDeed/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Moving someone else into this home is a breach of contract.",
+    "path": "/otherDeed/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This wasn't part of the deal. This place was supposed to be mine.",
+    "path": "/otherDeed/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Another deed has appeared in my home. This must be a mistake.",
+    "path": "/otherDeed/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Even the ice sheets of Icicle are more comfortable than this place.",
+    "path": "/severe/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "If my complaints are not heeded, I shall return to the Circuit.",
+    "path": "/severe/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "This place no longer meets my standards. Perhaps I should move out.",
+    "path": "/severe/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I cannot reach optimal efficiency in this place. Perhaps it is time to leave.",
+    "path": "/severe/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "If this situation stays as bad as it is now, I'll be forced to leave.",
+    "path": "/severe/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I am extremely unsatisfied with this place. I am leaving.",
+    "path": "/final/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I am returning to the Circuit.",
+    "path": "/final/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Efficiency has reached a minimal. I am leaving.",
+    "path": "/final/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This place isn't meeting my standards. I am forced to leave it.",
+    "path": "/final/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "The time has come for me to leave.",
+    "path": "/final/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Did you require my aid?",
+    "path": "/beacon/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Did you call for me?",
+    "path": "/beacon/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Did you need to talk?",
+    "path": "/beacon/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Are my services required?",
+    "path": "/beacon/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Hello again.",
+    "path": "/beacon/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Take this. It is a token of my gratitude.",
+    "path": "/rent/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You have been kind to me. Take this.",
+    "path": "/rent/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You've been incredibly helpful. Here's a gift for you.",
+    "path": "/rent/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "A gift, for your troubles.",
+    "path": "/rent/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "For all you have done for me, take this.",
+    "path": "/rent/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Please browse wares.",
+    "path": "/merchantStart/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting wares. Please consider purchase.",
+    "path": "/merchantStart/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit offers resources.",
+    "path": "/merchantStart/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your contributions are appreciated.",
+    "path": "/merchantStart/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Captain. Please browse wares.",
+    "path": "/merchantStart/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting wares. Please consider purchase.",
+    "path": "/merchantStart/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit offers resources.",
+    "path": "/merchantStart/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your contributions are appreciated.",
+    "path": "/merchantStart/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Initialising sales procedures.",
+    "path": "/merchantStart/droden/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting wares. Please consider purchase.",
+    "path": "/merchantStart/droden/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit offers resources.",
+    "path": "/merchantStart/droden/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your contributions are appreciated.",
+    "path": "/merchantStart/droden/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Merchant state disengaged.",
+    "path": "/merchantEnd/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Please return soon.",
+    "path": "/merchantEnd/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thanks you for your contribution.",
+    "path": "/merchantEnd/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit will remain here until your return.",
+    "path": "/merchantEnd/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Please consider returning in the future, Captain.",
+    "path": "/merchantEnd/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Merchant state disengaged.",
+    "path": "/merchantEnd/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Finalizing sale. Thank you, Captain.",
+    "path": "/merchantEnd/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/merchantEnd/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Merchant state disengaged.",
+    "path": "/merchantEnd/droden/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Please return soon.",
+    "path": "/merchantEnd/droden/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thanks you for your contribution.",
+    "path": "/merchantEnd/droden/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit will remain here until your return.",
+    "path": "/merchantEnd/droden/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Follow unit to store.",
+    "path": "/follow/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit is moving towards wares. Please follow.",
+    "path": "/follow/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Please follow this unit to the store, Captain.",
+    "path": "/follow/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Supplies are elsewhere. Please follow.",
+    "path": "/follow/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Follow unit to store.",
+    "path": "/follow/droden/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit is moving towards wares. Please follow.",
+    "path": "/follow/droden/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has reached store. Please engage in trading.",
+    "path": "/welcome/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has arrived. Trading now enabled.",
+    "path": "/welcome/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has reached store. Please engage in trading.",
+    "path": "/welcome/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has arrived. Trading now enabled.",
+    "path": "/welcome/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has reached store. Please engage in trading.",
+    "path": "/welcome/droden/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit has arrived. Trading now enabled.",
+    "path": "/welcome/droden/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Resources available. Please consider purchase.",
+    "path": "/tout/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Items for sale. Please trade.",
+    "path": "/tout/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "This unit offers resources. Please consider purchase.",
+    "path": "/tout/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is authorised to sell items. Please consider trading.",
+    "path": "/tout/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Housing situation changed.",
+    "path": "/tagCriteria/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unsatisfied. Conditions have changed.",
+    "path": "/tagCriteria/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Change detected. Unsatisfied.",
+    "path": "/tagCriteria/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Filing complaint. Situations has changed.",
+    "path": "/tagCriteria/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Surroundings have changed.",
+    "path": "/tagCriteria/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Home safety compromised.",
+    "path": "/enclosedArea/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting repairs.",
+    "path": "/enclosedArea/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Repairs are required.",
+    "path": "/enclosedArea/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Walls are compromised. Complaining.",
+    "path": "/enclosedArea/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Filing request for home repairs.",
+    "path": "/enclosedArea/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Detected additional deed. Unsatisfied.",
+    "path": "/otherDeed/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected additional deed. Complaining.",
+    "path": "/otherDeed/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Breach of contract detected. Please remove additional deeds.",
+    "path": "/otherDeed/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting removal of additional deeds.",
+    "path": "/otherDeed/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Detected additional deed.",
+    "path": "/otherDeed/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Preparing for departure. Unsatisfied with service.",
+    "path": "/severe/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is unsatisfied. Preparing for departure.",
+    "path": "/severe/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Filing complaint. This home is below universal standards.",
+    "path": "/severe/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Unsatisfied. Preparing to leave.",
+    "path": "/severe/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Service unsatisfactory.",
+    "path": "/severe/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Departing.",
+    "path": "/final/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting Nomada pickup.",
+    "path": "/final/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ending contract.",
+    "path": "/final/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is unsatisfied. Leaving home.",
+    "path": "/final/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Commencing departure.",
+    "path": "/final/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "This unit has received your call.",
+    "path": "/beacon/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have need of this unit's services?",
+    "path": "/beacon/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Call received. Unit has arrived as requested.",
+    "path": "/beacon/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Call heeded. Is this unit needed?",
+    "path": "/beacon/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Vas Vha'leih.",
+    "path": "/beacon/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Satisfied with service. Presenting gift.",
+    "path": "/rent/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting gift. Your service has been admirable.",
+    "path": "/rent/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Your actions deserve a reward. Take this.",
+    "path": "/rent/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Your have been meritful. Presenting gift.",
+    "path": "/rent/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Presenting a token of gratitude. Take it.",
+    "path": "/rent/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Come and have a look!",
+    "path": "/merchantStart/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure you'll find what you're looking for.",
+    "path": "/merchantStart/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Have a look, I have plenty of items for sale.",
+    "path": "/merchantStart/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Have a look at my wares, will you?",
+    "path": "/merchantStart/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You'll know where I'll be if you need anything else!",
+    "path": "/merchantEnd/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Come back any time.",
+    "path": "/merchantEnd/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Do come by again!",
+    "path": "/merchantEnd/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Remember me next time you need supplies!",
+    "path": "/merchantEnd/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Come, follow me to my shop.",
+    "path": "/follow/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "My shop is this way.",
+    "path": "/follow/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Here we are. Were you looking for anything specific?",
+    "path": "/welcome/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to my shop!",
+    "path": "/welcome/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I've got the best wares money can buy!",
+    "path": "/tout/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "The best wares for the best prices!",
+    "path": "/tout/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I can get whatever you need!",
+    "path": "/tout/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Nothing but the best for my customers!",
+    "path": "/tout/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Someone moved my stuff!",
+    "path": "/tagCriteria/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Something's wrong here...",
+    "path": "/tagCriteria/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "My room is all messed up!",
+    "path": "/tagCriteria/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like these changes.",
+    "path": "/tagCriteria/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Someone messed up my place!",
+    "path": "/tagCriteria/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "The walls came down!",
+    "path": "/enclosedArea/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Can you please fix my house? The walls are broken!",
+    "path": "/enclosedArea/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "My place has been damaged! Can you fix it?",
+    "path": "/enclosedArea/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This place is in need of repairs.",
+    "path": "/enclosedArea/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Someone needs to look into these broken walls.",
+    "path": "/enclosedArea/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "What's with this second deed? This was supposed to be my place!",
+    "path": "/otherDeed/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Wasn't this place supposed to be all mine?",
+    "path": "/otherDeed/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The contract didn't mention a second inhabitant.",
+    "path": "/otherDeed/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hey, what's this!? I never agreed to living together with someone else.",
+    "path": "/otherDeed/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "There's been a mistake, this place was supposed to be mine!",
+    "path": "/otherDeed/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "This place just doesn't feel like home any more...",
+    "path": "/severe/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I think I'm moving back to Elithia.",
+    "path": "/severe/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I don't like it here any longer.",
+    "path": "/severe/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "If this doesn't get better soon, I'm moving out.",
+    "path": "/severe/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Even the journey here was more comfortable than this stupid place.",
+    "path": "/severe/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "I've had it with this place. I'm leaving.",
+    "path": "/final/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm moving out. This place has become an absolute mess.",
+    "path": "/final/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "That's it, I'm leaving this place.",
+    "path": "/final/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I'm heading back to my parent's home.",
+    "path": "/final/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "This place disgusts me. I'm out of here.",
+    "path": "/final/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Did you call for me?",
+    "path": "/beacon/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help?",
+    "path": "/beacon/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Did you need me?",
+    "path": "/beacon/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hey! What did you call me for?",
+    "path": "/beacon/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Want to talk?",
+    "path": "/beacon/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You're an excellent landlord. Here, take this.",
+    "path": "/rent/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I think you'll like this!",
+    "path": "/rent/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "The house is great! Please, take this.",
+    "path": "/rent/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I have something for you!",
+    "path": "/rent/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Keep up the great service, and I'll keep paying my rent.",
+    "path": "/rent/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sell things, you buy!",
+    "path": "/merchantStart/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Come see, come see! Akki sell things-many!",
+    "path": "/merchantStart/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You look at wares-Akki, or Akki get mad.",
+    "path": "/merchantStart/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want you to buy things-many. Akki sell wares-good!",
+    "path": "/merchantStart/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Come back soon-soon! Akki wait for you!",
+    "path": "/merchantEnd/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to sell more. Come back soon.",
+    "path": "/merchantEnd/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Buy things-more soon!",
+    "path": "/merchantEnd/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki have things-more to sell!",
+    "path": "/merchantEnd/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Follow Akki to supplies-Akki. Purchase items there.",
+    "path": "/follow/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Shop-Akki this way. Follow.",
+    "path": "/follow/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Supplies-Akki here! What you need?",
+    "path": "/welcome/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to shop-Akki!",
+    "path": "/welcome/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki got wares-best! Prices-best, too!",
+    "path": "/tout/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sell things-many! Come look!",
+    "path": "/tout/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Come buy from Akki! Akki promise only sell wares-good!",
+    "path": "/tout/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki have things-best! Buy them now!",
+    "path": "/tout/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki mad! Kekki moved stuff-Akki...",
+    "path": "/tagCriteria/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Something wrong here. Akki missing something.",
+    "path": "/tagCriteria/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Room-Akki all messed up!",
+    "path": "/tagCriteria/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no like the change! Change it back, now!",
+    "path": "/tagCriteria/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Kekki ruined home-Akki!",
+    "path": "/tagCriteria/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki broken! Need repairs!",
+    "path": "/enclosedArea/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "You need fix home-Akki, now!",
+    "path": "/enclosedArea/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Walls-broken, need fixing...",
+    "path": "/enclosedArea/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You repair home-Akki now. Akki mad!",
+    "path": "/enclosedArea/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Wall-broken, bad things come into home-Akki. Akki no like.",
+    "path": "/enclosedArea/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no want to share home-Akki!",
+    "path": "/otherDeed/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki for Akki only. Kill other tenants if Akki must!",
+    "path": "/otherDeed/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki agreed to live alone. No want other tenant.",
+    "path": "/otherDeed/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki mad, Akki no want to live together.",
+    "path": "/otherDeed/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You remove other deed! Akki want to live alone.",
+    "path": "/otherDeed/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki home no more...",
+    "path": "/severe/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki gonna go back to scavenging. Akki no like home no more.",
+    "path": "/severe/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki mad, want to leave place-this...",
+    "path": "/severe/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki gonna leave soon if things no change.",
+    "path": "/severe/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "You houselord-bad. Akki no like place-this.",
+    "path": "/severe/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki leaving. Mad at you.",
+    "path": "/final/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki home no more. Akki finding other home.",
+    "path": "/final/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Gah, Akki hate place-this! .",
+    "path": "/final/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki disgusted. Home-awful, Akki leaving.",
+    "path": "/final/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Home-bad, Akki no like living here. Akki go back to scavenging.",
+    "path": "/final/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "You call, Akki come!",
+    "path": "/beacon/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Call for Akki, Akki here.",
+    "path": "/beacon/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Call for Akki?",
+    "path": "/beacon/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Yeeesss?",
+    "path": "/beacon/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "What you want? Akki listen!",
+    "path": "/beacon/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pleased with home-Akki. You take reward!",
+    "path": "/rent/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Home-Akki make Akki happy. Akki-happy give gifts!",
+    "path": "/rent/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "You make house-good. Akki give gift.",
+    "path": "/rent/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pleased, it true-true. Akki make you happy, too!",
+    "path": "/rent/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki pay rent, Akki tenant-good. Now go back to what Akki was doing.",
+    "path": "/rent/akkimari/default/4",
+    "op": "replace"
+  }
+]

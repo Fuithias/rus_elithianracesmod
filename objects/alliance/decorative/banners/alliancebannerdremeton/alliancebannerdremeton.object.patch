@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Union of Cities Banner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A banner adorned with the emblem of the Dremeton Union of Cities.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This banner is adorned with some alien emblem.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien emblem. Emblem identified as Dremeton Union of Cities iconography.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki think this is Union-Dremeton icon.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

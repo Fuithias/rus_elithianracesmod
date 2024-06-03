@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Prime Circuit",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "According to the Central Circuit Database, my Broken Prod is actually a prototype weapon designed by NivRAM himself! The blueprints for the weapon are still available, but I need a ^orange;Circuit Data Drive ^white;to download it all. Once I have the drive, I should ^green;return to this terminal to start the download^white;.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "The download is complete! Now I can start rebuilding the weapon.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to a ^orange;Central Circuit Terminal ^reset;in a ^orange;Trinkian Settlement^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

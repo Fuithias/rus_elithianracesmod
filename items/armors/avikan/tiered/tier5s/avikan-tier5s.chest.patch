@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Металлический нагрудник с внутренним охлаждением. Здоровая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Броня Номады тип-С",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Металлический нагрудник с внутренним охлаждением. Здоровая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Броня Номады тип-С",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

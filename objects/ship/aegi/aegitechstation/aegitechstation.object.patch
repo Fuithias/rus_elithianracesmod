@@ -1,122 +1,72 @@
 [
   {
-    "value": "Корабельный искусственный интеллект, или просто S.A.I.L.",
+    "value": "S.A.I.L",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Я могу говорить с S.A.I.L через эту консоль.",
+    "value": "I can talk to SAIL through this console.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Я могу использовать эту станцию, чтобы поговорить с S.A.I.L.",
+    "value": "I can use this station to talk to SAIL.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Флоран иссспользует эту магическую панель, чтобы поговорить с S.A.I.L!",
+    "value": "Floran use thisss magic panel to talk to SAIL!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Счастливо. Эта станция позволит мне поговорить с S.A.I.L.",
+    "value": "Happy. This station allows me to talk to SAIL.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Эта станция позволит мне поговорить с S.A.I.L.",
+    "value": "This station allows me to communicate with SAIL.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Эта консоль позволит мне поговорить с S.A.I.L.",
+    "value": "This console allows me to communicate with SAIL.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Эта станция позволит мне поговорить с S.A.I.L.",
+    "value": "This here station let's me talk with SAIL.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Эта панель обеспечит взаимодействие с S.A.I.L, корабельным ИИ.",
+    "value": "This panel allows for interaction with SAIL, the ship-based AI.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Номада выступает против использования искусственного интеллекта на любом корабле.",
+    "value": "The Nomada is against the use of AI on any ship.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Интерфейс-S.A.I.L. Акки говорит с кораблем здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен интерфейс S.A.I.L. Консоль обеспечивает связь с S.A.I.L.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу говорить с S.A.I.L через эту консоль. Хорошо, что на корабле есть еще один ИИ.",
+    "value": "I can speak to SAIL using this console. It's good to have another AI on the ship.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Перезагрузка...",
-    "path": "/dialog/wakeUp/0/0",
+    "value": "Detected SAIL interface. Console enables communication with SAIL.",
+    "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Меня зовут S.A.I.L, я корабельный ИИ. Я поддерживаю корабль в рабочем состоянии.",
-    "path": "/dialog/wakeUp/1/0",
-    "op": "replace"
-  },
-  {
-    "value": "Также я запрограммирован, чтобы давать информацию или советы.",
-    "path": "/dialog/wakeUp/2/0",
-    "op": "replace"
-  },
-  {
-    "value": "Земля была атакована неизвестной силой и впоследствии полностью уничтожена.",
-    "path": "/dialog/wakeUp/3/0",
-    "op": "replace"
-  },
-  {
-    "value": "Навигационная система корабля была повреждена, пока мы бежали. Наше местоположение неизвестно.",
-    "path": "/dialog/wakeUp/4/0",
-    "op": "replace"
-  },
-  {
-    "value": "Система зависла, пожалуйста, перезагрузи её.",
-    "path": "/dialog/wakePlayer/0/0",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, перезагрузи систему.",
-    "path": "/dialog/wakePlayer/1/0",
-    "op": "replace"
-  },
-  {
-    "value": "Процесс перезагрузки остаётся незапущенным.",
-    "path": "/dialog/wakePlayer/2/0",
-    "op": "replace"
-  },
-  {
-    "value": "Чтобы использовать S.A.I.L, пожалуйста, перезапусти его.",
-    "path": "/dialog/wakePlayer/3/0",
-    "op": "replace"
-  },
-  {
-    "value": "Перезагрузка показала, что уровень удовлетворения от взаимодействия с кораблём увеличен на 73%.",
-    "path": "/dialog/wakePlayer/4/0",
-    "op": "replace"
-  },
-  {
-    "value": "Перезагрузка требует разумного существа для взаимодействия с консолью S.A.I.L.",
-    "path": "/dialog/wakePlayer/5/0",
+    "value": "Interface-SAIL. Akki talk to ship here.",
+    "path": "/akkimariDescription",
     "op": "replace"
   }
 ]

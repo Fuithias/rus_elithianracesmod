@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Animation Test",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An animation test. Where did you get this?",
+    "path": "/description",
+    "op": "replace"
+  }
+]

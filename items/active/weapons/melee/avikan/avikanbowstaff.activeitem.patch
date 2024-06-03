@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Базовый боевой посох.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Боевой посох Номады",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Боевой посох",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Базовый боевой посох.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Боевой посох Номады",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Боевой посох",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

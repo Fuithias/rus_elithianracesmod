@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Mehros Avan Poster",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A poster promoting the new art exposition by Mehros Avan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran only seesss paperss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Who is this Mehros Avan mentioned in the poster?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mehros Avan is a famous artist creating large kinetic art pieces.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

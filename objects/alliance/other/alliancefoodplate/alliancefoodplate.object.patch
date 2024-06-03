@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Aeginian Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plate full of food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dinner.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Delicious food.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Foodsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A healthy meal.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food. Yummy food!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A well-balanced dinner.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A balanced meal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien dish.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard Aeginian meal.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Nutritional value: excellent.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki hungry.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

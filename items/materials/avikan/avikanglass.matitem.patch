@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick glass from Kadavan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Stone stairs.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Stone Stairs",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

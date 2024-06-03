@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A small metal trinket, a token of gratitude amongst the Avikan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Gift",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

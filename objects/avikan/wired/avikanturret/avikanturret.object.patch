@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Nomada Defense Turret",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A turret that will automatically defend areas. Can only be placed once.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An automated defense turret. The rebels could use this.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This turret will defend any location from attacks by monsters and bandits.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Turret fightsss for Floran. Floran likesss turret.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. I hope this turret won't target me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated security system.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "No unconscious machine should ever be given the power to kill.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fine turret for defending your base!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated Nomada Defense Turret. Highly efective.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Such turrets are often used to protect Avikan colonies from attacks.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan-built turret. I hope its targeting system won't see me as a threat.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada-approved Automated Defense Turret.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Turret-alien, kill enemies. Akki lazy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

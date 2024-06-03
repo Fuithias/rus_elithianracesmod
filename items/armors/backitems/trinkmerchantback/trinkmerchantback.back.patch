@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^white;Большой ящик, носимый на спине торговцами и путешественниками Тринка.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ящик торговца тринков",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^white;Большой ящик, носимый на спине торговцами и путешественниками Тринка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ящик торговца тринков",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

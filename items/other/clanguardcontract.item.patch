@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A contract for hiring the services of the Clanguard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Clanguard Contract^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Contract",
+    "path": "/category",
+    "op": "replace"
+  }
+]

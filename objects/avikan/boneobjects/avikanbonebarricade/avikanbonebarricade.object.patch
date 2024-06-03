@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Barricade",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barricade made of sharpened bones.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive but effective barricade.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A barricade made of sharpened bones.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful around sstabby bonesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple barricade made of sharpened bones.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This barricade may be primitive, but it is still quite effective.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A deadly barricade built from the bones of the dead.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "T'is a simple barricade.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple barricade made of sharpened bones.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This should keep out intruders.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sharpened bones made into a simple barricade.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected barricade. Recommended action: go around.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Bones-sharpened make for barricade-good.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

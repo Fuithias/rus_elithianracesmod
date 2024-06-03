@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Silences shots and allows projectiles to pierce targets.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Silencer",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Attachment",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;The Legion's Blade",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Is that an old Legion blade you carry? I could repair it for you, but we'll need to build our own switch gear. The components we need are also used in the construction of Droden frames, so if you can ^green;find me ^orange;20 Inactive Droden Frames^white;, I should be able to salvage what we need.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "I managed to salvage enough components to build you a new Legion Switch Gear, so here you go. We'll need some more raw materials to repair the blade itself, however.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

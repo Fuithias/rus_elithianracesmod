@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Тканевая маска с металлическими пластинами для защиты от осколков.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска расхитителя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Тканевая маска с металлическими пластинами для защиты от осколков.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска расхитителя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

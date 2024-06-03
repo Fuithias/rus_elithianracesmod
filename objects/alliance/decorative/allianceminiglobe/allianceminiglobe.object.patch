@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Globe of Elithia",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small floating globe of Elithia.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A globe of some planet.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A globe. What planet is it?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tiny world makess Floran feel ssstrong!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What world is this?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks a bit like Earth.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A globe of a seemingly bountiful planet.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda globe.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A globe of Elithia, our home planet.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien world. I've heard someone call it Elithia.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small floating globe representing Elithia.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected miniature globe. Planet unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Planet-tiny. Akki feel giant now!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

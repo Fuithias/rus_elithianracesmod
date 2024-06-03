@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Cargo Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large, heavily reinforced cargo door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A massive cargo door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large cargo door. What cargo could possibly need such a large door?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss why door iss so large...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. That is a very large cargo door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive cargo door. Even a small spaceship might fit through it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A door large enough for a gentle giant.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now that's a massive door!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large cargo door. Even a shuttlecraft should be able to fit through.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large alien cargo door. A Skoff should fit through.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This cargo door isn't very space-efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cargo door. Alien design is remarkably familiar.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door-large. Vehicle-large fit through.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

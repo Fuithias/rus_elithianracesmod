@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Towel Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rack for hanging your towels on.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A rack with a clean towel.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Clean cloth to dry yourself with.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran usesss cloth to dry.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This towel is quite clean.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A clean white towel. Useful.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This towel was recently washed.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gotta be careful not to burn this towel.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A clean towel to dry yourself with after taking a shower.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of cleaning cloth.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A towel rack.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected cloth hanging rack.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If Akki wet, Akki dry here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Harrowing Pumpkin",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A carved pumpkin for celebrating the Harrowing.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A pumpkin with a face carved into it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not spooked by this pumpkin!",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran carve ssscary facess in pumpkinss to ssspook children!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Spooked. Yikes!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a Halloween pumpkin! I think...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large pumpkin with a crudely carved face.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like it's meant to spook folks. It ain't working for me.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A pumpkin carved for the Harrowing! I've heard this tradition predates our arrival on Elithia.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant with a weird face carved into it. Why waste such good food?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plant is oddly shaped. It almost resembles a Trink.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien plantlife. Detected symmetrical carvings. Purpose unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to taste plant-alien! Akki not worried of getting sick.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

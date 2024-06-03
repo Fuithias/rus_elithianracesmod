@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Starfarer's Refuge",
+    "path": "/bookmarkName",
+    "op": "replace"
+  },
+  {
+    "value": "Beam to Ship",
+    "path": "/destinations/name",
+    "op": "replace"
+  }
+]

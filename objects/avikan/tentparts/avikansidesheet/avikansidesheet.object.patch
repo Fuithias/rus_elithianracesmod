@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet attached to the side of buildings.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather sheet.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet. Rather dull.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple leather sheet.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet, plain and simple.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic leather sheet.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet, plain 'n simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple sheet of leather, to be attached to the side of a building.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet. It is mostly decorative.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather sheet.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected leather sheet.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheet-leather.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

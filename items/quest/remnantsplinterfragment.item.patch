@@ -1,0 +1,17 @@
+[
+  {
+    "value": "An ancient, otherworldly fragment of stone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Blighted Stone Fragment",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

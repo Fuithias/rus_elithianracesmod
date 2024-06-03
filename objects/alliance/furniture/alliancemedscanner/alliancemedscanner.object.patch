@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Medical Scanner",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bed used to analyze a patient's medical condition.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This medical bed looks like a place I could rest a minute.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Laying on this bed surrounded by these scanners would make me quite uncomfortable.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fancy lightsss all around this metal bed.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. I wonder if this medical bed can account for Glitch anatomy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like some sort of medical scanner bed, but I guess it's still a place to lay down.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This medical bed was likely designed to assist doctors or researchers.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some fancy lookin' bed surrounded by bright lights.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This medical scanner can detect all sorts of medical issues in a patient.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of scanner surrounding a bed. It's likely for medical examinations.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A medical scanner. It is of little use to robotic lifeforms.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien scanner. Electric field interference detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki disturbed. Looks like device-torture.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

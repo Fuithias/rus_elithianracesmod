@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Mounted Akkimari Skull",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The skull of a deceased Akkimari, mounted on a scrap metal spike.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This alien was brutally murdered by the looks of it...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rusty metal spike with an alien skull mounted on top.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sspear goesss through sskull, very sssharp.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Revolted. A truly gruesome display.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This alien didn't die well.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gruesome display. Why would anyone mount a skull like this?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems there's bandits about.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gruesome sight. The Akkimari can be brutal...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mounted alien skull. I don't want to meet whoever put this up.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The lifeless skull of an Akkimari.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected scrap metal spike. Detected alien skull.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Skull on spike-metal. Dead for sure.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

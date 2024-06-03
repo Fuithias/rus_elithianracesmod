@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;Грудь. ^white;Руки снеговика для праздника Приземления!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Руки снеговика",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;Грудь. ^white;Руки снеговика для праздника Приземления!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Руки снеговика",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

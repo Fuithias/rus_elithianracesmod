@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Thelean Va'rahk",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small Thelean scouting ship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This ship looks unsettling. I hope it isn't some new Miniknog design.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wouldn't want to meet whatever piloted this ship...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran dissslike sstrange shipss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. This ship looks ominous.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm getting a bad feeling from this ship...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This ship feels like a bad omen. Nothing good will come of its presence here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I generally like spaceships, but this one creeps me out.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Thelean Va'rahk. Officially a scouting ship, but it can easily tear through a Destroyer...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a Thell ship. This does not bode well...",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If only we understood how these Thelean ships function, we might be able to devise an efficient countermeasure.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Warning: Detected Thelean ship. Recommending extreme caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-thieves here, Akki careful. Sneak up, kill them all.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

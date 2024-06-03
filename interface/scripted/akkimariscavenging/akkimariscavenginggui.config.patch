@@ -1,0 +1,27 @@
+[
+  {
+    "value": " Scavenger's Worktable",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Dismantle weapons into scrap metal",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Dismantle a weapon into scrap metal",
+    "path": "/gui/infoLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "insert item",
+    "path": "/gui/itemLevelLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "Dismantle",
+    "path": "/gui/btnDismantle/caption",
+    "op": "replace"
+  }
+]

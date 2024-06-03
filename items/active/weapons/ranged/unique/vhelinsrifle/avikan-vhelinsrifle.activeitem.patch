@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Репродукция легендарного оружия Ильялата Анде Вхелина.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Команда Вхелина^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Курсирная винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Репродукция легендарного оружия Ильялата Анде Вхелина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Команда Вхелина^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Курсирная винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

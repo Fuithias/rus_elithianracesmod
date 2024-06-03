@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Firearms Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall selling Avikan firearms.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The rebels could use these weapons.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I always have use for more weapons.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran buyss gunsss here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Frightened. I hope these weapons won't be used against me or my kind.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien weapons. Not as exotic as I would have expected.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien weaponry. War is found everywhere, it seems.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could use a new rifle.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Various Avikan weapons can be purchased here.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Rifles, sidearms and other weapons are sold here.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Avikan build decent ballistic rifles.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected market stall. Scanning for nearby merchants...",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons-alien, for fighting.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

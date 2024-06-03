@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Strong spices from Kadavan.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kadavan Spices",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

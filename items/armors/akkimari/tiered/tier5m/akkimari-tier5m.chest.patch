@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Боевая кираса из прочных металлов. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Кираса налетчика р.М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Боевая кираса из прочных металлов. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кираса налетчика р.М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Centensian Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A lightweight but incredibly strong metal panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This metal panel is stronger and lighter than anything I've encountered before.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran is confused. Metal isss light and so sstrong Floran can't scratch it...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm baffled by how light and strong this 'ere metal is.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Centensian metal panel detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel made by god-makers.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Маска Азры Нокс для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска Азры Нокс",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Маска Азры Нокс для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска Азры Нокс",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

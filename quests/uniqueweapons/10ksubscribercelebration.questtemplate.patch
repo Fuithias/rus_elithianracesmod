@@ -1,0 +1,17 @@
+[
+  {
+      "value": "^orange;A Special Gift",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "It seems you've made friends somewhere! I've got a special delivery for you, courtesy of an Aegi who wouldn't share their name, but who greatly appreciates your continued support. Enjoy your present!",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "I received a special gift from an Aeginian friend. Let's open it!",
+      "path": "/completionText",
+      "op": "replace"
+  }
+]

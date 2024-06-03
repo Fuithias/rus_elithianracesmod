@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Высококачественный лазерный дробовик стандартной комплектации, созданный тринками.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Схема-дробитель Марк VI",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лазерный дробовик",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Высококачественный лазерный дробовик стандартной комплектации, созданный тринками.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Схема-дробитель Марк VI",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лазерный дробовик",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

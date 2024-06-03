@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Fibers of the basbron plant, soft and fluffy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Basbron Fibers",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

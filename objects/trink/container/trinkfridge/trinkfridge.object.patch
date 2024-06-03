@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trinkian Cooled Storage",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cooled storage unit, for keeping food fresh.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A cooled storage unit, perfect for keeping bananas fresh.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fridge, I think.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss curiousss. What'ss insside?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Is there any food in the fridge?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "My stomach is rumbling with excitement!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cooled storage device. Food won't spoil quickly in here.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine si cold to the touch. Is it some sorta fridge?",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trink don't usually keep food, unless they expect organic visitors.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A machine-built cooling device. Far too cold for my liking.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly efficient cooling device. Useful for storing organic matter.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cooled storage device detected. Device will keep organic matter from decaying.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage-cold, keeps food fresh.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

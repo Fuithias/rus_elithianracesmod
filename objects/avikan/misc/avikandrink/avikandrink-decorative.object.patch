@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Drink",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A glass of Kadavan Cactus Juice.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Prickly cactus juice. Are there spines floating in it?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cactus juice, I think. There's some sort of thorns floating in it...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drinksss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Concerned. There are still spines in this cactus juice.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure I want to drink that...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A glass of cactus juice. The spines floating in it worry me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cactus juice. It tastes alright, the those spines floating in it are painful.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A glass of delicious cactus juice.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cactus juice. I am not sure why the Avikan like these better when there's spines in the juice.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Kadavan cactus juice. Cactus spines included.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki drink juice. Akki thirsty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

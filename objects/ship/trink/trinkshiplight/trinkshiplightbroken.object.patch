@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Broken Trink Ship Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A malfunctioning light.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This light isn't getting enough power.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A flickering light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light make dizzy!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This light is malfunctioning.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light's on the blink.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An underpowered light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken light.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light isn't performing optimally.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light detected. Status: broken.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-broken, make Akki agitated...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

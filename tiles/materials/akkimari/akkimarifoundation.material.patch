@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Inner Wall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal plating, likely used as an inner wall.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. This metal plating likely serves as an inner wall.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal wallsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda metal wall.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal inner wall.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall-plates-inner. Houses-Akkimari need them.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

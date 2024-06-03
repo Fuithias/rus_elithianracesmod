@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Самодельная песчаная бомба, созданная из мешка пескоискателя.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Песчаная бомба",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Бросаемый",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Самодельная песчаная бомба, созданная из мешка пескоискателя.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Песчаная бомба",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Бросаемый",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

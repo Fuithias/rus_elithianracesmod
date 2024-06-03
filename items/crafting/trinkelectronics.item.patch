@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Trinkian-built electronic parts.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Electronics",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

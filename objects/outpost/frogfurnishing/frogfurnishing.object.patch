@@ -1,0 +1,18 @@
+[
+  { "op" : "add",
+	"path" : "/storeInventory/deeds/-",
+	"value" : "avikancolonydeed"
+  },
+  { "op" : "add",
+	"path" : "/storeInventory/deeds/-",
+	"value" : "trinkcolonydeed"
+  },
+  { "op" : "add",
+	"path" : "/storeInventory/deeds/-",
+	"value" : "alliancecolonydeed"
+  },
+  { "op" : "add",
+	"path" : "/storeInventory/deeds/-",
+	"value" : "akkimaricolonydeed"
+  }
+]

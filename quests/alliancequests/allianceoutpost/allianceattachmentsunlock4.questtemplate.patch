@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Personalized Warfare IV",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "I just received new inventory from AAE, and I think you might like these new attachments. I'll let you see the new inventory if you can do a little something for me. I've heard talk about ^orange;Akkimari drones equipped with stealth tech^reset; - ^green;take down a few of them^reset;, and I'll open up the new inventory for you.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Well done, once again! Your fighting these drones teaches us at the Embassy a lot about this new threat, so you've more than earned access to these new weapon attachments.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

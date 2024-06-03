@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Floor",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal floor panel. Won't stain easily.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This metal floor panel is easy to clean.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If Floran polisssh metal floors, Floran can see sself in floor!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Polish this floor just a lil' bit more, and you can see yourself in it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Floor panel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel for ground, made for walking.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

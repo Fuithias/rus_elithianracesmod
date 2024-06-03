@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy cargo container.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy cargo container. It's an odd size.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What might this container contain?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Containersss large enough to hold peopless.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Questioning. Why doesn't this crate adhere to the universal standard container size?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reasonably large cargo container. It's an odd size.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cargo container for transporting goods of all kinds.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinkian cargo container is built to fit into Trinkian cargo holds perfectly.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine-built container can hold many items.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinkian standard-issue cargo container is exactly four times the size of a crate.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Storage unit detected. Content scan unavailable.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crate-alien, has lights-fancy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A leather bandage for healing minor wounds. Restores 50 health over 1 second.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Leather Bandage",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

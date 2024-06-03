@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Броня, выдаваемая солдатам авиканского авангарда.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Броня Авангарда",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Броня, выдаваемая солдатам авиканского авангарда.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Броня Авангарда",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

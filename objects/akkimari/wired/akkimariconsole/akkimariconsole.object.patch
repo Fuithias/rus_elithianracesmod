@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Console",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A computer console capable of wiring circuits together.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A console for controlling connected objects.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This panel likely controls mechanisms nearby.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshiny buttonsss, Floran presss?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What will happen if I touch these buttons?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control panel of some sort.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny console with an even shinier interface.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange interface for sure. Akkimari consoles make no sense to me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien interface. I can't make much sense of it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Akkimari-built console. The interface is unfamiliar to me.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Console. Interface decryption failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Console for mechanism-control. Akki wire things together.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Минимальное энергетическое оружие, выдаваемое дроденским солдатам.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард/Легион^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Дроденский пистолет",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Пистолет",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Минимальное энергетическое оружие, выдаваемое дроденским солдатам.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард/Легион^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Дроденский пистолет",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пистолет",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Шелковое пончо, которое носят торговцы Завета",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Пончо торговца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Шелковое пончо, которое носят торговцы Завета",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пончо торговца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

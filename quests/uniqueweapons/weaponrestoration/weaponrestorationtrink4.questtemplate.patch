@@ -1,0 +1,17 @@
+[
+  {
+      "value": "^orange;Prime Circuit IV",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Now that I have all the components, I should ^green;return to a Circuit Fabricator and construct the finished ^orange;Prime Circuit^white;.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "The Prime Circuit is finally finished! NivRAM would be proud of my accomplishment.",
+      "path": "/completionText",
+      "op": "replace"
+  }
+]

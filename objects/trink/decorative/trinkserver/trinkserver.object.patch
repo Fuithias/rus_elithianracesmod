@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Trinkian Server Rack",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rack filled with Trinkian data servers.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A server rack. I wonder what sort of data it contains?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny server rack. What might it be processing?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not underssstand beepy boxess...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. This server rack must process incredible amounts of data.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A server rack with internal cooling. Awesome!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A server rack. What sort of fascinating things might it be processing?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Trinkian server rack. These are absolutely vital to the Trink.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bunch of computers strapped together in a single construction.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This server rack provides the processing power required for our extensive communications networks.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien data server rack. Hacking attempt failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sever-alien. Akki hack, learn things-many.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

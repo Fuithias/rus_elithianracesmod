@@ -1,0 +1,17 @@
+[
+  {
+      "value": "^orange;A Special Gift III",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Yet another delivery from your mysterious Aeginian friend. They must really appreciate your continued patience and support! Enjoy your gift!",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "I received another gift from an Aeginian friend. Let's open it!",
+      "path": "/completionText",
+      "op": "replace"
+  }
+]

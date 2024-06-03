@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Острый костяной кинжал из высококачественной кости чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Кинжал хищника",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острый костяной кинжал из высококачественной кости чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кинжал хищника",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Starsight Inn Bar",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The perfect place to get a drink.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Let'sss get a drink.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. Perhaps this bar offers more than just drinks.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Starsight Inn Bar. Popularity: high.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki get some drink here. Get drunk, have fun.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

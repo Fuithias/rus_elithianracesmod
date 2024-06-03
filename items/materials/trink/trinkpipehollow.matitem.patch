@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A heavy, thick pipe. Liquids can flow through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Pipe (Hollow)",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

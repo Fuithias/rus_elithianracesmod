@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Trinkian Platform",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A platform filled with wiring.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Interested. There are many cables running through this platform.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Platform filled with wiress.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A platform full o' wires.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Cables run through the length of this platform.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Platform filled with wires.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Supports"
+  }
+]

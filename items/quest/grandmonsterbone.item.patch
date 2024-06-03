@@ -1,0 +1,17 @@
+[
+  {
+    "value": "An incredibly rare bone harvested using specialized tools.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Grand Monster Bone^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

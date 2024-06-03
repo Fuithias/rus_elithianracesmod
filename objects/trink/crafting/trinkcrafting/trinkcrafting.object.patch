@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Circuit Assembler^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An assembly table for crafting Trinkian items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable. Useful for crafting a variety of items.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but spacious worktable. Many things could be crafted here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metalmen make many thingsss here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eager. Let's do some crafting!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This worktable is simplistic, but it still has the tools needed to craft a great many things.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A true artisan doesn't need many tools to do their crafting.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple craftin' workshop. It could use a few more tools.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trink don't need many tools, as their own bodies are already equipped with so much.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable built by machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "We Trinks don't need many tools. Our hands are enough to craft most of what we need.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected machine-built worktable.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Worktable-alien, Akki craft things here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Circuit Assembler^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An assembly table for crafting Trinkian items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable. Useful for crafting a variety of items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple but spacious worktable. Many things could be crafted here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metalmen make many thingsss here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Eager. Let's do some crafting!",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This worktable is simplistic, but it still has the tools needed to craft a great many things.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A true artisan doesn't need many tools to do their crafting.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple craftin' workshop. It could use a few more tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trink don't need many tools, as their own bodies are already equipped with so much.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A worktable built by machines.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "We Trinks don't need many tools. Our hands are enough to craft most of what we need.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected machine-built worktable.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Worktable-alien, Akki craft things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Circuit Constructor^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A partially automated Trinkian manufactoring machine.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "This machine can assist in producing many things. The rebels could use it.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A machine that can help produce many items, both large and small.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine helpsss Floran with making thingss.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. With the help of this machine, crafting becomes a breeze!",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big machine for assisting craftsmen.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine can produce much, yes, but it still requires an artisan to operate it.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A big an' bold machine, surely useful for crafting.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine will do much of the crafting for you.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A machine-built crafting station. Better be careful with my flaps around that thing...",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine can assist my crafting skills, but it still requires some of my input.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected crafting station. Origin: machine-built.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big press, make things flat. Akki use for crafting.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Circuit Fabricator^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fully automatic Trinkian manufactoring machine.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of 3D printing machine, but far more advanced.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine can print almost anything, using the right blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Machine makesss thingss from blueprintss.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Humbled. This machine can craft far more than I can myself.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hyper-advanced 3D printer, capable of printing weapons, armour, and much more!",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An advanced 3D printing machine. No skill is needed to use this, only blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This machine can print weapons? What magic is this?",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Given the right blueprints and materials, this machine can print almost anything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An automated crafting station, built by machines.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Insert a compatible blueprint and the required materials, and this station will construct almost anything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected printing system. Analysis: machine-built.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fabricator-automated, make anything Akki need.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

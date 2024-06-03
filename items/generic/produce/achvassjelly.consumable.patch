@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick, smelly jelly from an unusual plant.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Achvass Jelly",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

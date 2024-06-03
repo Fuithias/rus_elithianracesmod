@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Ship locker",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locker, for storing items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The ship's storage system.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A device that holds many items for safe keeping.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssstorage.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This ship's storage system is indeed useful.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A storage locker. That's handy!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant storage solution.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A locker, for puttin' things in.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ship locker. Useful for storing items.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ship locker. Useful for storing artefacts found on scout runs.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ship locker. It can't be locked, ironically.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected ship locker. Content scan failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki open locker, steal everything!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

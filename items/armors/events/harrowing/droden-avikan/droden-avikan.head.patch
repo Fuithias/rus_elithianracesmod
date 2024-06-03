@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Маска авикана для празднования Ужасающего!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Маска авикана",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Маска авикана для празднования Ужасающего!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маска авикана",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

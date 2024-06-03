@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Телеан. ^white;Часть минималистичного экзоскелета.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Минималистичный экзоскелет Кет",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Телеан. ^white;Часть минималистичного экзоскелета.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Минималистичный экзоскелет Кет",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

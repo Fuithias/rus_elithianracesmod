@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Bathroom Sink",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic bathroom sink.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A basic sink.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sink.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Splashy sssink.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Neutral. A sink.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sink. Maybe I should wash my hands...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Too small to swim in.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A plain ol' sink.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple bathroom sink. I should probably wash my hands.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of water basin, for washing yourself in?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A waste of good water.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien water source.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Small source-water.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

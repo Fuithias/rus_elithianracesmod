@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Personalized Warfare II",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "I've got some more weapon attachments in store for you, if you can beat my next challenge. I want you to ^green;find and kill ^orange;5 Sandspitters^reset;, but it won't be easy! ^green;You can find the large worm-like beasts on desert worlds ^reset;- watch out for the sand they spit at you!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "I wasn't sure if you'd beat that one, but I guess I was wrong to doubt you! You've earned yourself access to a few more powerful weapon attachments!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

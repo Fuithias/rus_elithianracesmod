@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Alliance Story - Initial Setup",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "path": "/completionText",
+    "op": "replace"
+  }
+]

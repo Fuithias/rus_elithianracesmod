@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Drone",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small drone.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A small drone.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's just a small drone.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran seesss a drone, Floran wantss to fly it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A small drone.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Awesome, it's a drone!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A drone. It can hover very quietly.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small hoverin' construct.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small drone built by AAE.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien vehicle. It looks a bit like the Drahl.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficient drone design.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien vehicle. Similarities to Vanguard Drahl units noted.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Drone-small, for flying. Akki use to spy?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

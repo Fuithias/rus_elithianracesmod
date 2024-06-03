@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Jumpgate Uplink Station",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of ancient device. Massive amounts of energy flow through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "The raw energy flowing through this device is unimaginable...",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I have seen powerful Power Crystals, but all of them fade compared to the energy flowing through here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran uncomfortable. Floran afraid of catching fire.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. The raw energy flowing through here could easily melt a whole city.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The amount of energy flowing through here is incredible. It's as if I'm right next to a massive star.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Whatever fields are containing this energy are incredibly potent. If the fields failed, this entire place would evaporate in an instant.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I can feel the primal energy of a star here. It's like it's calling to me...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The energy flowing through here is incredible. How the Centens managed to contain it is beyond me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Old Ones harvested energy directly from the stars. If the containment fields failed, this entire place would evaporate instantly.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "My systems are showing multiple anomalies. Whatever field is containing all this energy, it's also interfering with my computers.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Old Ones technology. Energy readings spiking. Hazard levels increasing. System anomolies detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki sense power-much. Power-enough to take back Kel'chis?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

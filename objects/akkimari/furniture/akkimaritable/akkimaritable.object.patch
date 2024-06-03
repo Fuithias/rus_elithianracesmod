@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Table",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rounded table.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple round table.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A round metal table.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tablesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. A basic table.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dirty table.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavily stained table.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a table.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table. It hasn't been cleaned in a while.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien table. The design isn't very alien, though.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic table. The design of tables doesn't change too much between species.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien table.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki place things on table. Table strong enough.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

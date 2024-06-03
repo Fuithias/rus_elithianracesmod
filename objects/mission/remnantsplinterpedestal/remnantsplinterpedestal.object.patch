@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Cursed Pedestal",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This rock does not look natural...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not like glowing rock.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uneasy. This rock makes me feel strange. I should not linger.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning rock... Error. Results are inconclusive.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki afraid-no, Akki cautious-only. Akki no want to linger here...",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A bolted plate of allosteel, for additional strength.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bolted Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

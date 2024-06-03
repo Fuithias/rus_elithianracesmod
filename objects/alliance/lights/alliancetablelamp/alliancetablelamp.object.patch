@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Alliance Table Lamp",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A decorative table lamp.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A simple table lamp.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple light.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I like this table lamp.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small light, easy to move around.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A table lamp.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-small.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

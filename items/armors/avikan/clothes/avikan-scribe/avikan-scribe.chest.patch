@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Ожерелье, которое носят писцы Номады",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ожерелье писца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Ожерелье, которое носят писцы Номады",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ожерелье писца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Two",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number two, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number two in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is two.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means two.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Two in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number two.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means two.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number two.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Two.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Two, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

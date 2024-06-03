@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A Centensian artefact capable of rapidly deconstructing matter.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Shardbreaker^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Artefact",
+    "path": "/category",
+    "op": "replace"
+  }
+]

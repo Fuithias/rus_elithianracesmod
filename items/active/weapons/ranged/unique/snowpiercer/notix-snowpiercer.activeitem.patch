@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Разрушительное криогенное оружие, разработанное нотиксами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Сквозьснег^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Хладорельс",
-        "path": "/category",
-        "op": "replace"
-    },
-    {
-        "value": "Метелица",
-        "path": "/altAbility/name",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Разрушительное криогенное оружие, разработанное нотиксами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Сквозьснег^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Хладорельс",
+    "path": "/category",
+    "op": "replace"
+  },
+  {
+    "value": "Метелица",
+    "path": "/altAbility/name",
+    "op": "replace"
+  }
 ]

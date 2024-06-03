@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A transmitter capable of communicating with the Central Trink Circuit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian Transmitter",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

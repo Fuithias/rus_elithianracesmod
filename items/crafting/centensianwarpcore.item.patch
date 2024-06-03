@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A Centensian artefact, part of a teleportation device.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Warp Core",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

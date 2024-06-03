@@ -1,0 +1,72 @@
+[
+  {
+    "value": "^orange;Alliance Stove^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard model stove, for cooking food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A multifunctional stove, for cooking and baking.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I could bake some bread in here.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran once climbed insside stove. Wasss not pleassant...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Apreciative. This multifunctional stove allows me to prepare a variety of foods.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stove, just like the ones we had back home.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A multifunctional stove.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Let's do some bakin'!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard model stove, found in almost any Aeginian kitchen.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien stove, but I'm certain I can get it to work.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Like many Aeginian machines, this stove is unusually efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien stove. Organic food can be used as unit fuel.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki cook food, make tasty-more.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

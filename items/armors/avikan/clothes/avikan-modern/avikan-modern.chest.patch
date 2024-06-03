@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Кожаные обмотки, которые носят население Номады",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Современные обмотки",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Кожаные обмотки, которые носят население Номады",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Современные обмотки",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Durable plating made from assorted scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Scrap Plating (Front)",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

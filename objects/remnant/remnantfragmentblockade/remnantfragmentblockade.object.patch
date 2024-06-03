@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Cursed Blockage",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An unnatural-looking rock. It's blocking my path...",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran feelsss drained. Rock isss making Floran weak...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Exhausted. This rock is making me feel weak and drained...",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "System malfunction. Energy levels draining. External interference detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki-tired. Akki have trouble breathing... Rock-glowing feel wrong.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

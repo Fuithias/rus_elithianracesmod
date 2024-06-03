@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Unit optics are unable to detect.",
+    "path": "/outOfRangeText/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Unit optics magnification is insufficient. Unit must reduce distance to target.",
+    "path": "/outOfRangeText/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Optic magnificaton insufficient. Distance reduction required.",
+    "path": "/outOfRangeText/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Target is too far away.",
+    "path": "/outOfRangeText/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Invalid target.",
+    "path": "/nothingThereText/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Error. No item of interest.",
+    "path": "/nothingThereText/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to read target.",
+    "path": "/nothingThereText/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Empty.",
+    "path": "/nothingThereText/droden/3",
+    "op": "replace"
+  }
+]

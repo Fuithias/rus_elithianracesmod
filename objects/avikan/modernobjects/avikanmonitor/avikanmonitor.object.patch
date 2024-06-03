@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Monitor",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monitor displaying a lot of information.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "There's a lot of information on this screen, but I don't understand any of it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What might all those lines mean?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesn't underssstand ssshiny ssscreen...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Incapability. I am unable to read this information.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a lot of information! I wish I understood even a little of it...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monitor displays some information, but what it means is a mystery to me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "How the Avikan manage to make sense of this mess is a mystery to me.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A display showing a wide selection of data.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I am unable to process the information displayed here.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Found four dead pixels.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Screen full of writing-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

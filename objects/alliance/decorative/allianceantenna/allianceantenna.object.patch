@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Antenna Box",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful antenna.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna of an unusual design.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic antenna.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal ssticks receive ssignals from far away.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. An antenna.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An antenna, obviously.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy antenna.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sorta antenna.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful antenna.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien antenna.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This antenna is reasonably efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien antenna. Unable to decode signal.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Antenna-alien. Akki curious what it's sending.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A strong metal beam.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Beam Vertical",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

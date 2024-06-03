@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A sack-like organ full of sand, ready for spitting.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Sandspitter's Sack",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

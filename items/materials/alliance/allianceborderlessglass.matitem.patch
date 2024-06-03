@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Triple-pane glass-like plastic, perfectly insulated.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Borderless Alliance Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

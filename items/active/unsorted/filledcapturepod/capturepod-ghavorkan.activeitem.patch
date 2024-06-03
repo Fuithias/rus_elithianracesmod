@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Бросьте его на пол, чтобы освободить запертое внутри существо!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Заполненная капсула захвата",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Бросьте его на пол, чтобы освободить запертое внутри существо!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Заполненная капсула захвата",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Small AAE Cargo Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cargo container used for cargo drops and transportation via spaceship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A container for cargo drops.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sky-chest.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran open it, find goodsss insside.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. A cargo drop crate, what might be inside?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surely there's something good inside.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cargo container equally suited to spaceborne transportation and airborne cargo drops.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container for cargo drops. Nice.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A container often used for cargo drops.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien container. It might contain alien goods.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An efficiently designed cargo container.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki see crates for from sky. Cargo-valuable?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

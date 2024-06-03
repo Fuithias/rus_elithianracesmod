@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Monolith",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monolith of pure Centensian metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A monolith of some odd metal. Who would have built such a thing?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny monolith. I get an odd sensation just standing near it...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Monolith makess Floran feel funny insside...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cautious. This monolith is somehow interfering with my sensors.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monolith of sorts. Why does it make me feel so odd?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A monolith made of an unknown metal - how mysterious!",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a fine monolith right there.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian monolith. We never managed to figure out the purpose of these slabs.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This monolith of the Old Ones is an object of great importance in the Rhaiod religion.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian-built monolith. What could its purpose be?",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian Monolith. Age calculation failed.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Artefact-strange, monolith of god-maker.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

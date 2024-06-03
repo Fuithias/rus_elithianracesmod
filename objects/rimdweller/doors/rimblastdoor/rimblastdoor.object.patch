@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Rim Blast Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly resistant blast door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy blast door.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shiny blast door.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A blast door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy metal blast door. Cool.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal blast door.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal blast door.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thick blast door.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien blast door.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strong blast door.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Blast door detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki spotted door-blast.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

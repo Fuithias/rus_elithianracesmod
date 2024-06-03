@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Number Nine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number nine, in the Avikan Script.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Number nine in an alien script.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien number. I believe it is nine.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doess not know what alien ssymbol meansss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This alien symbol means nine.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Nine in some alien script.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien symbol for the number nine.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Seems this number means nine.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number nine.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number. Nine.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Number-alien. Nine, Akki thinks.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

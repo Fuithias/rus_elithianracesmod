@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Lobby Tree",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A palm tree to decorate your interiors.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A palm tree.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The leaves of these trees remind me of wings.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Desert treesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This palm tree has been planted in alien soil.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cool, a palm tree for inside!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Life prospers even in the harshest of environments.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This palm tree is a sign of wealth amongst the Avikan.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tree. This was a true sign of wealth on Kadavan, where trees were rare.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A palm tree. The home planet of my Masters is far too cold for such a tree to survive there.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected native Kadavan flora. Please handle with care.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tree-tall. Akki climb it?",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Vanguard Harpoon Display",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan harpoon gun on display.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A very capable harpoon gun. I imagine it can impale enemies with ease.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The size of this harpoon makes me wonder what its creators hunt...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thisss sstick fires metal sspearsss? Floran likesss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intimidated. I wouldn't want to meet whatever creature this harpoongun is meant to hunt.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Now THAT is a harpoon gun!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A harpoon gun. What is it meant to hunt?",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The creatures the Avikan hunt with this weapon must be enormous.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Few weapons can pierce a Sandstalker's skin. This weapon does it with ease.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This harpoon gun was built to hunt massive creatures.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Warning. Harpoon guns can cause lethal damage.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Harpoon, for killing.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

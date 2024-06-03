@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Canopy",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy, to provide some shadow at someone's door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy. Effective, but not very pretty.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bland leather canopy.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A simple leather canopy.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy, simple but effective.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather canopy. Simple but effective.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather awning. Provides good protection against desert winds.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic but functional leather canopy.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather awning.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather awning. Provides protection against desert winds.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Canopy-leather, protect against wind.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

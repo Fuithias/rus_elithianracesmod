@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Reception Desk",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A desk often seen in corporate lobbies.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A reception desk. Perhaps I can learn something here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A receptionist's desk.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dessk for greeting people.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A reception desk.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reception desk. Am I supposed to check in here?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple reception desk. From the looks of it, it was recently cleaned.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Might be I can get some info here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reception desk. It's often the first place new visitors go to.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien desk. Is this just for greeting people?",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reception desk. I may learn something here.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien desk.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki ask questions here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Small Trinkian Roof",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, pyramid-shaped roof. For efficient modular buidings.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A small modular roof.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small, modular roof decorated with green lights.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wonderss why roof isss pointy...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This modular roof piece is packed with sensors.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small metal pyramid for a roof? Cool!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A grand metal roof. Surpisingly, it is packed with sensors and communication systems.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trinks are big fans of modular buildings. This roof will fit on pretty much every Trinkian home.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small metal roof, built by machines.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trinkian roofs are modular, and fit on top of almost any Trinkian structure.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Readings indicate high amounts of sensors inside this structure.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Roof-alien, has many lights.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

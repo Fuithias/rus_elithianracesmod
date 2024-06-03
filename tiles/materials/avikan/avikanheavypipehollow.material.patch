@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Heavy Pipe (Hollow)",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy, thick pipe. Liquids can flow through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. With piping like this, I'll not have to worry about leakages.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pipe isss big, but Floran can't fit through...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not sure what this 'ere pipe is carrying, but I'm guessin' its dangerous.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis failed. Unable to scan pipe contents.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pipe-hollow. Liquids flow through.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

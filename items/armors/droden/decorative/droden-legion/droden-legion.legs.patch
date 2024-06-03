@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Ножной элемент для легионных единиц дроденов.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Ноги легиона",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Ножной элемент для легионных единиц дроденов.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ноги легиона",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

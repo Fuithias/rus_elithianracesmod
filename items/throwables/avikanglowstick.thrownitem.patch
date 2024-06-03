@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A long-lasting glow stick, cheap to produce but not as bright as a flare.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Glowstick",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

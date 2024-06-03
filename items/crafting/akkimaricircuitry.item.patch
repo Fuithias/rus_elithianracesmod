@@ -1,0 +1,12 @@
+[
+  {
+    "value": "All-purpose circuitry found in most Akkimari electrical equipment.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Circuitry",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

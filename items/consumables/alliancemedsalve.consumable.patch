@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A salve that accelerates wound healing. Restores 100 health over 1 second.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Medsalve",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

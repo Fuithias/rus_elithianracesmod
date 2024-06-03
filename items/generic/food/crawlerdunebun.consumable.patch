@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A dunebun shaped like a Sandcrawler. It makes you smell like a Sandcrawler, too!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Crawler Dunebun",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

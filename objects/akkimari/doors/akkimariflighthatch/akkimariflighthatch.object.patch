@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Flight Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large metal hatch used in Akkimari flight bays. It only opens for vehicles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A hatch that opens to vehicles.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal hatch. It'll open for vehicles only.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran musst use vehicle to open thisss door.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. These doors only open to vehicles.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Looks like a hatch for a flight bay.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A rather crude metal hatch. I should be careful not to cut myself.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This here door only opens to vehicles.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Akkimari flight bay hatch. It'll open only for vehicles.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien-built hatch. I'll need a vehicle to open it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not very efficient, but this scrap metal hatch is quite effective.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected flight bay hatch.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari can fly Chaseflight through here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

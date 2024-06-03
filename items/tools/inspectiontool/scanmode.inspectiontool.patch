@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Scanner error. Out of range.",
+    "path": "/outOfRangeText/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Maximum scanner range exceeded.",
+    "path": "/outOfRangeText/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Signal strength insufficient.",
+    "path": "/outOfRangeText/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "No signal. Please reduce distance to target.",
+    "path": "/outOfRangeText/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Invalid target.",
+    "path": "/nothingThereText/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "Error. No item of interest.",
+    "path": "/nothingThereText/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "Unable to read target.",
+    "path": "/nothingThereText/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Empty.",
+    "path": "/nothingThereText/droden/3",
+    "op": "replace"
+  }
+]

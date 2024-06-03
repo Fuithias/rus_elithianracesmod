@@ -1,0 +1,12 @@
+[
+  {
+    "value": "This heavily armoured mech body was manufactured by Enerth Engineering.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Guardian Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

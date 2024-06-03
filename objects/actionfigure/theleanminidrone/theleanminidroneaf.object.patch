@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Arrak'ash Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A small, aggressive drone built to overwhelm the enemy in swarms.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

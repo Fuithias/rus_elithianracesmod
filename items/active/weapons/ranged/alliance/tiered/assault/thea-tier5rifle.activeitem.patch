@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Стандартная штурмовая винтовка Альянса.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Альянс Коллектив^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "АЦ.А-2 Ясность",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Штурмовая винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Стандартная штурмовая винтовка Альянса.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Альянс Коллектив^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "АЦ.А-2 Ясность",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмовая винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

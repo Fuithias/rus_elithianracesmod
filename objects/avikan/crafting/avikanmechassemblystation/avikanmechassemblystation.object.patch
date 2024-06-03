@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Mech Assembly Station",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Equip and customise your personal mech!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "With this station I could assemble components into a working mech suit.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station is made for piecing together large mech vehicles.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran could make big mech with thisss station.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Astonished. This advanced assembly station is designed to make mech suits.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station is for building and outfitting mech suits.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This terminal is for customizing and outfitting mech vehicles.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This station'll let me put together a mech any way I like.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected mech assembly station. Used to assemble components into functional mech suits.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mech assemble here. Akki ready to stomp around.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

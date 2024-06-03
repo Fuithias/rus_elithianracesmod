@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A top-of-the-line computing chip, for when you need a lot power in a small package.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Macrochip",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

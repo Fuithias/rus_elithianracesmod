@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A mech arm with a built-in linecharge system.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Linerifle Mech Arm",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

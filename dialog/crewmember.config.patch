@@ -1,0 +1,122 @@
+[
+  {
+    "value": "What's the mission today?",
+    "path": "/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'm ready for an adventure!",
+    "path": "/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rhadeis will guide our travels.",
+    "path": "/converse/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "The stars are ours to explore.",
+    "path": "/converse/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "What is our current mission?",
+    "path": "/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I am always ready for adventure.",
+    "path": "/converse/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I was built ready for adventure.",
+    "path": "/converse/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I will ensure your safety.",
+    "path": "/converse/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is ready.",
+    "path": "/converse/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting current objective details.",
+    "path": "/converse/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Requesting briefing on current mission.",
+    "path": "/converse/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is ready to serve.",
+    "path": "/converse/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "What's up, boss?",
+    "path": "/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Let's get out there!",
+    "path": "/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "I have your back, boss.",
+    "path": "/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "I'm with you.",
+    "path": "/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "What you need?",
+    "path": "/converse/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Akki wanna go out and fight.",
+    "path": "/converse/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Akki support you. If you in need of help, Akki provide.",
+    "path": "/converse/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "You need Akki?",
+    "path": "/converse/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I have your back.",
+    "path": "/converse/thelean/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "I'll follow you anywhere.",
+    "path": "/converse/thelean/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "What are your instructions?",
+    "path": "/converse/thelean/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Just say the word.",
+    "path": "/converse/thelean/default/3",
+    "op": "replace"
+  }
+]

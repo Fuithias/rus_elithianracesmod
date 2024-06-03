@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Призывает аккимарийский Чейзфлай из грузового отсека вашего корабля.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Контроллер Чейзфлая",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Призывает аккимарийский Чейзфлай из грузового отсека вашего корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Контроллер Чейзфлая",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

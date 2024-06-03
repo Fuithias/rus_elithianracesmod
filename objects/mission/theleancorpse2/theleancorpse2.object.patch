@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Thelean Corpse",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A dead Thelean.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran pokesss dead bodiess with ssstickss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. This Thelean has been dead for decades, but its body is still in good shape.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Thelean as he should be: dead.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Thelean. Analysis: dead.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-thief-dead. Akki pleased.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

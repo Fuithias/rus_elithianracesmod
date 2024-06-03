@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A full meal preferred by the Aegi.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Aeginian Meal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

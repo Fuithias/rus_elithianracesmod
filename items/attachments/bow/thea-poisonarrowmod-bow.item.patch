@@ -1,0 +1,22 @@
+[
+  {
+    "value": "An elemental arrow that poisons and weakens targets.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Poison Arrow",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Arrow Mod",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "value": "What are you doing on our ship? I hope you come in peace.",
+    "path": "/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you to our ship, stranger?",
+    "path": "/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Us Avikan have lived on board spaceships for years now. It's not too different from nomadic life in the desert.",
+    "path": "/converse/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Keep off the ship's systems, all right? We don't want any complications.",
+    "path": "/converse/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Did you just fly a mech into our ship? Where can I get one?",
+    "path": "/converse/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "How the... What are you doing on our ship?",
+    "path": "/converse/avikan/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "You can stay for a while, but keep your hands to yourself.",
+    "path": "/converse/avikan/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "A visitor on our ship? I suppose you can stay for a while.",
+    "path": "/converse/avikan/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "It's an honour to have you visit our ship, Captain.",
+    "path": "/converse/avikan/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to our ship, Captain. Have you come for an inspection?",
+    "path": "/converse/avikan/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "I hope the Thell haven't given you too much trouble.",
+    "path": "/converse/avikan/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, Captain. What do you think of our humble ship?",
+    "path": "/converse/avikan/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "Captain.",
+    "path": "/converse/avikan/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "We saw your ship approaching in the distance. She's a beauty.",
+    "path": "/converse/avikan/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Can I help you, Captain?",
+    "path": "/converse/avikan/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Stay a while, Captain! It's been some time since we had our last visitor!",
+    "path": "/converse/avikan/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "What are you doing on our ship, machine?",
+    "path": "/converse/avikan/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Where did this machine come from? Can someone throw it out the airlock?",
+    "path": "/converse/avikan/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Don't touch anything, machine.",
+    "path": "/converse/avikan/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Cause trouble on our ship, and I'll dismantle you myself.",
+    "path": "/converse/avikan/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Don't get any strange ideas here, machine.",
+    "path": "/converse/avikan/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "Don't stay long.",
+    "path": "/converse/avikan/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do what you came here to do, then be on your way. We don't want machines here.",
+    "path": "/converse/avikan/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "The rest of the crew may not like your presence here. I'd recommend you don't stay too long.",
+    "path": "/converse/avikan/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "What are you doing on our ship, machine?",
+    "path": "/converse/avikan/trink/0",
+    "op": "replace"
+  },
+  {
+    "value": "Where did this machine come from? Can someone throw it out the airlock?",
+    "path": "/converse/avikan/trink/1",
+    "op": "replace"
+  },
+  {
+    "value": "Don't touch anything, machine.",
+    "path": "/converse/avikan/trink/2",
+    "op": "replace"
+  },
+  {
+    "value": "Cause trouble on our ship, and I'll dismantle you myself.",
+    "path": "/converse/avikan/trink/3",
+    "op": "replace"
+  },
+  {
+    "value": "Don't get any strange ideas here, machine.",
+    "path": "/converse/avikan/trink/4",
+    "op": "replace"
+  },
+  {
+    "value": "Don't stay long.",
+    "path": "/converse/avikan/trink/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do what you came here to do, then be on your way. We don't want machines here.",
+    "path": "/converse/avikan/trink/6",
+    "op": "replace"
+  },
+  {
+    "value": "The rest of the crew may not like your presence here. I'd recommend you don't stay too long.",
+    "path": "/converse/avikan/trink/7",
+    "op": "replace"
+  },
+  {
+    "value": "You're a free Droden? That's remarkable.",
+    "path": "/converse/avikan/droden/0",
+    "op": "replace"
+  },
+  {
+    "value": "If the Council of Elders saw fit to grant you a civilian status, you're welcome here.",
+    "path": "/converse/avikan/droden/1",
+    "op": "replace"
+  },
+  {
+    "value": "You aren't welcome here, Droden.",
+    "path": "/converse/avikan/droden/2",
+    "op": "replace"
+  },
+  {
+    "value": "Get back to scrubbing the floor, Droden.",
+    "path": "/converse/avikan/droden/3",
+    "op": "replace"
+  },
+  {
+    "value": "A civilian Droden? Now that's a rare sight.",
+    "path": "/converse/avikan/droden/4",
+    "op": "replace"
+  },
+  {
+    "value": "I can hardly believe you're a captain.",
+    "path": "/converse/avikan/droden/5",
+    "op": "replace"
+  },
+  {
+    "value": "Don't mind the others. You're welcome here.",
+    "path": "/converse/avikan/droden/6",
+    "op": "replace"
+  },
+  {
+    "value": "I hope a Thell comes for you one day.",
+    "path": "/converse/avikan/droden/7",
+    "op": "replace"
+  },
+  {
+    "value": "Do not disturb unit. Unit is working.",
+    "path": "/converse/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Goodbye.",
+    "path": "/converse/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Disengaging conversation protocols.",
+    "path": "/converse/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is busy.",
+    "path": "/converse/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Unit unavailable. Goodbye.",
+    "path": "/converse/droden/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Disengaging.",
+    "path": "/converse/droden/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Resuming duties.",
+    "path": "/converse/droden/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Unfamiliar entity detected. Reporting to ship Captain.",
+    "path": "/converse/droden/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "This unit is ready to serve.",
+    "path": "/converse/droden/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Nomada Captain. Greeting.",
+    "path": "/converse/droden/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "Error. Error. Error.",
+    "path": "/converse/droden/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Captain status. Welcome.",
+    "path": "/converse/droden/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "This unit awaits your command.",
+    "path": "/converse/droden/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Unit unavailable. Resuming duties.",
+    "path": "/converse/droden/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do you require this unit's services?",
+    "path": "/converse/droden/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Unit requires reboot.",
+    "path": "/converse/droden/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to our ship.",
+    "path": "/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you all the way to our ship, traveller?",
+    "path": "/converse/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Our ship sees few visitors. Please, stay a while.",
+    "path": "/converse/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Spaceships are quite inefficient, don't you think?",
+    "path": "/converse/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "My designation is <selfname>. It's nice meeting you here in the void of space.",
+    "path": "/converse/trink/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, spacefarer. We detected your ship's approach, and we were wondering if you would visit.",
+    "path": "/converse/trink/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you to this place in space?",
+    "path": "/converse/trink/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here to hitchhike?",
+    "path": "/converse/trink/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "I hope you're not here to cause trouble.",
+    "path": "/converse/trink/avikan/0",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan on our ship? Forgive me, but I'm a bit worried.",
+    "path": "/converse/trink/avikan/1",
+    "op": "replace"
+  },
+  {
+    "value": "You are welcome here so long as you behave.",
+    "path": "/converse/trink/avikan/2",
+    "op": "replace"
+  },
+  {
+    "value": "A fellow spacefarer. Welcome.",
+    "path": "/converse/trink/avikan/3",
+    "op": "replace"
+  },
+  {
+    "value": "I hear the rank of Captain is quite esteemed in your culture.",
+    "path": "/converse/trink/avikan/4",
+    "op": "replace"
+  },
+  {
+    "value": "Keep your weapons to yourself while you're here.",
+    "path": "/converse/trink/avikan/5",
+    "op": "replace"
+  },
+  {
+    "value": "You're not looking to sabotage our ship, are you?",
+    "path": "/converse/trink/avikan/6",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, starfarer.",
+    "path": "/converse/trink/avikan/7",
+    "op": "replace"
+  },
+  {
+    "value": "Hi there! Welcome to our humble ship.",
+    "path": "/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "What brings you all the way to our little ship?",
+    "path": "/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "It's been a while since I saw a new face here. Who are you?",
+    "path": "/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "It gets lonely out in space. It's nice to finally meet someone new here.",
+    "path": "/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "I'm <selfname>, nice meeting you!",
+    "path": "/converse/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, my fellow traveler of the stars.",
+    "path": "/converse/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "You're quite welcome here, whoever you are.",
+    "path": "/converse/aegi/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Do you have a large crew on that ship of yours?",
+    "path": "/converse/aegi/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "It's good to see another Aegi! Are you a new crewmember, or just visiting?",
+    "path": "/converse/aegi/aegi/0",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here on official Union business?",
+    "path": "/converse/aegi/aegi/1",
+    "op": "replace"
+  },
+  {
+    "value": "You must have been to the Union colonies. We've been resupplying them, but I've never visited one myself.",
+    "path": "/converse/aegi/aegi/2",
+    "op": "replace"
+  },
+  {
+    "value": "I've heard of you! You're ambassador <entityname>, right?",
+    "path": "/converse/aegi/aegi/3",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased to meet you! I'm <selfname>.",
+    "path": "/converse/aegi/aegi/4",
+    "op": "replace"
+  },
+  {
+    "value": "Do you ever get lonely out in space? I know I do.",
+    "path": "/converse/aegi/aegi/5",
+    "op": "replace"
+  },
+  {
+    "value": "Do you need to visit the Creon Embassy? We have a teleporter on board that can take you there.",
+    "path": "/converse/aegi/aegi/6",
+    "op": "replace"
+  },
+  {
+    "value": "Are you here for an inspection?",
+    "path": "/converse/aegi/aegi/7",
+    "op": "replace"
+  },
+  {
+    "value": "What you doing on ship-Akkimari?",
+    "path": "/converse/akkimari/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Why you here?",
+    "path": "/converse/akkimari/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "How you get here? You fly in mech?",
+    "path": "/converse/akkimari/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Akki welcome you. Space lonely sometimes...",
+    "path": "/converse/akkimari/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Akki <selfname>. What name-Dakka?",
+    "path": "/converse/akkimari/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Greetings, my fellow traveler of the stars.",
+    "path": "/converse/akkimari/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "You welcome on ship-Akkimari, for now.",
+    "path": "/converse/akkimari/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "You no cause trouble on ship-Akkimari, yes?",
+    "path": "/converse/akkimari/default/7",
+    "op": "replace"
+  }
+]

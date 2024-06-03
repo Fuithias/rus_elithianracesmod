@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A ballistic plate capable of absorbing powerful blows.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ballistic Plate",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

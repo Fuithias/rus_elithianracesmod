@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Leather Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall full of leather and fabric.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Leather rags and pieces of colourful fabric.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "So much fabric!.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leathersss for Floran?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A lot of leather and fabric.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder what I could craft with all of this?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "There's much that can be crafted with this.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I wonder how many animals had to be slain to find this much leather...",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather and fabric, for crafting clothes, tents and so much more.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This market stall offers various leather items.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather items detected: Avikan clothing. Rugs. Tapestries. Sheets.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cloth and leather. Akki use for weaving.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

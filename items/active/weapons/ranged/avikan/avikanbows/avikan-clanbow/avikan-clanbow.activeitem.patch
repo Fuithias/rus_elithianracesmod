@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Гордость клана, используется для сбора частей чудовищ.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Клановый великий лук",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Рекурсивный лук",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Гордость клана, используется для сбора частей чудовищ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Клановый великий лук",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Рекурсивный лук",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

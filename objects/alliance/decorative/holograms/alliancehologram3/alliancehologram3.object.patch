@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Hologram",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hologram displaying a warning sign.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A hologram displaying useful information.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure what this hologram is displaying.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssky-writing confusess Floran.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A hologram.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I always like holograms.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Holograms are an elegant replacement for physcial screens.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Someone wrote some stuff in the sky.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This hologram is being projected by a tiny projector not far away.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien hologram. The Nomada might glean useful information from it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Holograms can be quite efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien hologram. Attempting translation.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Hologram-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

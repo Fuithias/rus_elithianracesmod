@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Arbiter Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A drone which acts to resolve disputes between Akkimari scavengers.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

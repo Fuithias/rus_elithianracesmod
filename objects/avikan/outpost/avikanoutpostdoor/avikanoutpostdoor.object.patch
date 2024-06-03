@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Nomada Blast Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sturdy metal blast door.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Metal door iss hard to break open.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A metal blast door.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door. It's blasted hard to break through.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected blast door.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Door.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

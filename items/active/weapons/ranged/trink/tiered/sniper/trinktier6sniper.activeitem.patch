@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Высококачественная лазерная снайперская винтовка стандартного выпуска, созданная тринками.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Снайп-схемантовка Марк III",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лазерная снайперка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Высококачественная лазерная снайперская винтовка стандартного выпуска, созданная тринками.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Снайп-схемантовка Марк III",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лазерная снайперка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

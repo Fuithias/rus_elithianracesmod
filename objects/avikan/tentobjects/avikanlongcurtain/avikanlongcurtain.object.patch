@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Long Avikan Curtain",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather curtain. Common decoration for Avikan homes.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A leather curtain. What creature was this made from?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather curtain. Not very colourful.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapessstry remindsss Floran of home.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Error. The animal from which this was made is not listed in my database.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple leather curtain. Not very well crafted.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive way to decorate one's home.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A curtain made of leather. Unusual.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A leather curtain. They were never quite as popular as tapestries for home decoration.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A curtain made of leather.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Material: leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curtain-tall.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

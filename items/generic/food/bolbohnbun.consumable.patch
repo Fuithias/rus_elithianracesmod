@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A slice of dunebun covered with bolbohn jam.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bolbohn Bun",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

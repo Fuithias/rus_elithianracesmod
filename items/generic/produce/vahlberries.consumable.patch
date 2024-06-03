@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Juicy, tasteful berries full of vitamins.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberries",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Ingredients",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Boxes full of Avikan food.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Three boxes filled with various types of food.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Boxes full of alien food. I wonder how it tastes?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran doesss not like alien foodsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What sort of food is this?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien food. I doubt it'll taste good...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food of an alien nature.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien foodstuffs. Can't remember if I tasted this before.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "All the ingredients need to prepare a traditional Avikan meal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "All the ingredients needed for preparing a traditional meal.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Various traditional Avikan ingredients.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected ingredients. Combined nutritional value: sufficient.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Food-alien, Akki eat everything!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Colourful fabric, used to craft various objects.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

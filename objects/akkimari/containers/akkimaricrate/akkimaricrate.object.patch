@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Crate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bulky metal container from Akris.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A strange kind of crate.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bulky crate. Why is is so rounded?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strange crate holdsss sstrange goodiess.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Mystified. What's the reason for this crate's rounded design?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strange kind of crate.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bulky, somewhat rounded crate.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A crate, something's odd 'bout it.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It looks like an Akkimari-built crate.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A strangely designed alien crate.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Not the most efficient design for a crate.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crate-bulky, for storing items.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

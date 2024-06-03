@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Лайнтовка, испорченная телеанским везомиром.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Нарушенные^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Лук Порочителя^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Лайнтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Лайнтовка, испорченная телеанским везомиром.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Нарушенные^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Лук Порочителя^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лайнтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

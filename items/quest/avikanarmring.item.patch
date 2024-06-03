@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A small metal arm ring, its owner is probably looking for it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Avikan Arm Ring^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

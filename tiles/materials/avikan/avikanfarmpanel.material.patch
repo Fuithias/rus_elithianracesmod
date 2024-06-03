@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Farming Block",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal container filled with fertile dirt, ready for farming.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Dirt captured in a metal container, for indoor farming.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dirt isss for farming.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some dirty lookin' metal panel.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Fertile dirt captured in a metal container.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dirt-fertile, for farming.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

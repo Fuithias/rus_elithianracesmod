@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Ground Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal panel often used to cover the floor.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. Such panels often serves as floorboards.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss thiss panel iss for walking on.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal floorboard... I prefer the sound of boots on wood.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal floorboard.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panels for floor, Akki walk on.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

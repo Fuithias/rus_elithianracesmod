@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Длинный меч Дроден для ношения на спине.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Длинный меч Дроден",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Длинный меч Дроден для ношения на спине.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Длинный меч Дроден",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

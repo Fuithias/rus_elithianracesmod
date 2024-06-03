@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Ship Chair",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A chair found in Avikan cockpits.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A chair. Looks like it was used recently.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable chair.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssmells of alien butt.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This chair is rather comfortable.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal chair. How cool.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant chair.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A comfortable chair.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A modern chair. It supports my back very well, but getting my tail through the hole is a hassle.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A chair. It was not built with my body shape in mind.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis: chair.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chair-alien. Akki comfortable.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

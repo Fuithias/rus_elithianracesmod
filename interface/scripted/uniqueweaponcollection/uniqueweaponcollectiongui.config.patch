@@ -1,0 +1,37 @@
+[
+  {
+    "value": " Unique Equipment Reforger",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Reclaim lost Unique equipment",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Replace Me",
+    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value",
+    "op": "replace"
+  },
+  {
+    "value": "You don't have Unique Equipment in your Collections!",
+    "path": "/gui/emptyLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "REQUIRED ESSENCE",
+    "path": "/gui/essenceCostDescription/value",
+    "op": "replace"
+  },
+  {
+    "value": "Reclaim",
+    "path": "/gui/btnReconstruct/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Cancel",
+    "path": "/gui/btnCancel/caption",
+    "op": "replace"
+  }
+]

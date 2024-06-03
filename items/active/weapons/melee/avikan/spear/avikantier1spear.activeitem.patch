@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Простое копье, сделанное из кости монстра.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Костяное копье",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Простое копье, сделанное из кости монстра.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Костяное копье",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

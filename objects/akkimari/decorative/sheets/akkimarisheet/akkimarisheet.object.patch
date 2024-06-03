@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Silken Sheets",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Silken sheets suspended from metal rings.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure what the purpose of these sheets is.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Colourful sheets made of a strange kind of painted silk.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Colourful sssheetss of sssilk. It'sss ssilky sssmooth!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Amazed. This fabric is incredibly soft to the touch!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Are these sheets just for decoration?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheets made of an alien silk. They are surprisingly soft to the touch.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda sheets.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I've seen Akkimari climbing these before. Perhaps these sheets act as ladders to them?",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien sheets. The style reminds me of our own a bit.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I have yet to identify any purpose of these sheets, besides decoration.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected sheets of alien silk-like material. Style reminiscent of Nomada aesthetics.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheets for home-pretty. Akki climb them too.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

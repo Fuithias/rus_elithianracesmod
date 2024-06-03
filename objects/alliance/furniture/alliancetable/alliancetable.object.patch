@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Table",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A lightweight table.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A basic table.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple metal table.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tablesss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Unimpressed. A basic table.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A clean metal table.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This table was recently cleaned.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a table.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A clean table.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A lightweight table.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A minimalist table.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected table.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Table-alien.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

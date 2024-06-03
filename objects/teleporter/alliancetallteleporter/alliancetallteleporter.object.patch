@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter built in an alien style.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter built in an alien style.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation: This teleporter was built in an alien style.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter built in an alien style.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter built in an alien style.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter built in an alien style.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A regular Alliance-built teleporter unit.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien teleporter. It looks unusually clean.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter offers an incredibly efficient means of transportation, but it requires exact coordinates to function.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien teleportation device. Recommend caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter-alien, make Akki feel dizzy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

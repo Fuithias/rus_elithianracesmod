@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Шлем, который часто носят капитаны, покинувшие Номаду.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем изгоя-капитана",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Шлем, который часто носят капитаны, покинувшие Номаду.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем изгоя-капитана",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

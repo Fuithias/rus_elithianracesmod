@@ -1,0 +1,72 @@
+[
+  {
+    "value": "AAE Cargo Container",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large cargo container used for transport by spaceship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "It's a sturdy space-worthy container.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I think this is used to transport cargo in outer space.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Maybe there'ss food in it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What's stored in here?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This container is sturdy enough for use in outer space.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy cargo container used in spaceborne transportation of cargo.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large container for haulin' goods.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This container is built to withstand the extremities of outer space.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large alien-built container. It's sturdy enough to be used in outer space.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This cargo container was built to be used in space. Very specific tools have to be used to handle it.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing content.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Strong container, Akki struggles to break.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

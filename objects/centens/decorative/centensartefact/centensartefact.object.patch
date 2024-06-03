@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Centensian Artefact",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An ancient artefact, created by the Centens.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A perfect cube levitating above a pedestal. What might this be?",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An artefact of ancient times, no doubt.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wondersss what cube isss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. This appears to be a truly ancient artefact.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A spinning, levitating cube above some sort of pedestal. Is it valuable?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A mysterious cube. It feels like it's been here for eons.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A weird cube floatin' 'bove some sorta pedestal.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian artefact of sorts. I have no idea what its purpose is.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An artefact left behind by the Old Ones. I should make sure it doesn't fall into the hands of the Thell.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A Centensian artefact. Its purpose is unknown.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Centensian artefact. Recommend immediate extraction by Nomada salvage crew.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Cube-strange, artefact-god-maker.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

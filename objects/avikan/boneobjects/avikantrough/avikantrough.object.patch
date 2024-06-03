@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Bone Trough",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bone trough, for feeding livestock and mounts.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bone trough full of food and water.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This trough is full of raw food. Great for livestock, but bad for people.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran ssmell food. Floran eatsss food?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Confused. Why is this trough made of bone?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Livestock and mounts come to eat and drink here.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This trough is used to feed livestock and mounts.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A perfect place to feed a mighty steed. Or just livestock.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional Avikan-made trough. They use it to feed their Gad'hur.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Gad'hur kept by our clans are fed using these troughs.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive bone trough.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected trough. Contains food for mounts.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Trough for feeding animals.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Hard and tough, this string is perfect for sewing together pieces of leather.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Tough String",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

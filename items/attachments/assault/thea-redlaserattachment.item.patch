@@ -1,0 +1,22 @@
+[
+  {
+    "value": "An underbarrel laser sight with a red colour.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;AAE^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Red Laser Sight",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Attachment",
+    "path": "/category",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Reinforced Door",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavily reinforced door covered in external scrap plating.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This blast door is incredibly sturdy. The scrap metal plating provides additional shielding.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This door looks shoddy from the outside, but inside it's incredibly well-designed.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal platesss on heavy door isss for extra protection. Floran sssmart!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Intrigued. The scrappy plating on the outside provides good protection against physical impacts.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It looks real shoddy from the outside, but this door is really quite sturdy.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A blast door covered in crude metal plates. Effective, but not especially elegant.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Someone welded a couple o' plates to the outside.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This blast door uses scrap metal plating as an additional layer of protection.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A heavy alien blast door covered in scrap metal.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This door looks shoddy, but the design is amazingly efficient.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected blast door. Scrap metal plating provides additional shielding.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki safe behind door. Door can stop anything!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A hardy crop, found growing in arid locations.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dunestalk",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

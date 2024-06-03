@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Ferroverium Sample",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "\"A perfect sample of a ferroverium ore.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

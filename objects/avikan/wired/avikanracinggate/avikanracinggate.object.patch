@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Avikan Racing Gate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gate used for racing. It sends out a signal whenever a vehicle passes through it.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A racing gate. It's probably a checkpoint or something.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This racing gate might act as a checkpoint during races.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss thiss is a race checkpoint.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What will happen when I ride past this?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a racing gate.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This appears to be a checkpoint marker for vehicle races.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda glowing marker.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This gate will activate when a vehicle passes by.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A gate that activates when vehicles pass by.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tall marker to designate racing checkpoints.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected racing gate. Likely purpose: checkpoint.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Gate-checkpoint. Akki race through!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

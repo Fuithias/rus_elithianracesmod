@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A hard crystalline sheet similar to glass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akris Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

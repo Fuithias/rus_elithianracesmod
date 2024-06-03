@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A storage device containing the blueprints for the Prime Circuit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Prime Circuit Blueprints^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

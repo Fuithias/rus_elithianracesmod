@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Жестокое копье с наэлектризованным лезвием.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Шаккар (НИП)^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Шоковое копье",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Жестокое копье с наэлектризованным лезвием.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шаккар (НИП)^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Шоковое копье",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

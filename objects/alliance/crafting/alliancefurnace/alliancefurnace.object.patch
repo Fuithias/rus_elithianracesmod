@@ -1,0 +1,282 @@
+[
+  {
+    "value": "^orange;Stone Smelter^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone smelter capable of smelting basic metal bars.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive furnace. I can smelt things here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic furnace perfect for smelting ore.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smelting furnace. Looks hot.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hot, imposing furnace.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact stone smelter, for smelting low-temperature alloys.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple stone furnace, for smelting ores.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive construct for smelting ores.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone smelter. Basic ore smelting functionality.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace-stone, for smelting metals.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Stone Smelter^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A stone smelter capable of smelting basic metal bars.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive furnace. I can smelt things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic furnace perfect for smelting ore.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smelting furnace. Looks hot.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hot, imposing furnace.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact stone smelter, for smelting low-temperature alloys.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple stone furnace, for smelting ores.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive construct for smelting ores.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone smelter. Basic ore smelting functionality.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace-stone, for smelting metals.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Alliance Smelter^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech smelter capable of reaching high temperatures.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A high-tech smelter of alien design. I should take notes.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smelter burning bright as the sun.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful. Fire will burn Floran...",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This smelter burns incredibly hot.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This furnace is unusually hot. Better handle it carefully.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The heat of this furnace is uncomfortable to me.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This smelter's burnin' bright.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This smelter was made specifically for smelting specific types of low-grade allosteel.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien smelter. It's incredibly hot.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A highly efficient smelter. The Circuit helped design it.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Alien smelter. Temperature levels rising above safety regulations.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki careful. Temperatures-high, Akki not burn self.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Fusion Chamber^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact fusion chamber capable of smelting hyverianites.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of compact fusion chamber. Nothing will survive that heat.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device burns brighter than the sun! How is that possible?",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful. Ssmall sssun will burn everything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. This device could easily melt my own body.",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact fusion chamber! How does it contain all that heat?",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I feel myself drying up just standing near this device...",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A small star burns inside this device. 'Tis glorious!",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A compact fusion chamber. Nothing less will do when smelting hyverianites.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Even the metals of the Old Ones won't survive the temperatures inside this device.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Aegi truly outdid themselves designing this fusion chamber.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis failed. Heat signature exceding maximum values. Error.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Like forge-nuclear, hot-very. Melt things-many!",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

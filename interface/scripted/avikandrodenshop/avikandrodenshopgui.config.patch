@@ -1,0 +1,67 @@
+[
+  {
+    "value": " Droden Legion Terminal",
+    "path": "/gui/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " Recruit Droden Legion units",
+    "path": "/gui/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Trade tokens to recruit Droden crewmembers",
+    "path": "/gui/lblInformationText/value",
+    "op": "replace"
+  },
+  {
+    "value": "Make sure your crew isn't full. No refunds possible!",
+    "path": "/gui/lblWarningText/value",
+    "op": "replace"
+  },
+  {
+    "value": "Token of Merit",
+    "path": "/gui/lblTradeItemName/value",
+    "op": "replace"
+  },
+  {
+    "value": "Soldier",
+    "path": "/gui/lblCombat/value",
+    "op": "replace"
+  },
+  {
+    "value": "Medic",
+    "path": "/gui/lblMedic/value",
+    "op": "replace"
+  },
+  {
+    "value": "Engineer",
+    "path": "/gui/lblEngineer/value",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanic",
+    "path": "/gui/lblMechanic/value",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitCombat/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitMedic/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitEngineer/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Recruit",
+    "path": "/gui/btnRecruitMechanic/caption",
+    "op": "replace"
+  }
+]

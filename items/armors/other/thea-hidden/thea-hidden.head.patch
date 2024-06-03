@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Маленькое устройство, скрывающее броню в слоте для головной брони.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Скрыватель для головы",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Маленькое устройство, скрывающее броню в слоте для головной брони.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скрыватель для головы",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

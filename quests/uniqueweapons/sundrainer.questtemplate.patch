@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Consuming the Stars",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I found a ^orange;Mysterious Weapon Core ^reset;in an ancient Centensian ruin. ^green;I should take it to someone who knows more about such ancient relics.^reset;",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "What a find, Captain! This is the core of an ancient Centensian jumprifle, but far more powerful than the common ones.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

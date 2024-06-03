@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Необычная нагрудная броня, которую носят авиканские искатели.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Нагрудник искателя",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Необычная нагрудная броня, которую носят авиканские искатели.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Нагрудник искателя",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Low-grade scrap metal scavenged from various sources.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Broken Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Back to the Creon Embassy",
+    "path": "/destinations/name",
+    "op": "replace"
+  },
+  {
+    "value": "Return to Elithia",
+    "path": "/destinations/planetName",
+    "op": "replace"
+  }
+]

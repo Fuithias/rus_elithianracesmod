@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Fabric tapestry for wall decoration and insulation.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Borderless Avikan Fabric",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

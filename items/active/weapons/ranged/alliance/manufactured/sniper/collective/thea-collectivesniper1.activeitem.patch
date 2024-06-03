@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Снайперка повышенной мощности.^reset;",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Альянс Коллектив^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "АЦ.Р-15 Дальнозор",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Снайперская винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Снайперка повышенной мощности.^reset;",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Альянс Коллектив^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "АЦ.Р-15 Дальнозор",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Снайперская винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

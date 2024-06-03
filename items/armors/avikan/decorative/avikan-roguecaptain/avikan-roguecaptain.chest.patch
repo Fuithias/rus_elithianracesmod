@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Броня, которую часто носят капитаны, покинувшие Номаду.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Броня изгоя-капитана",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Броня, которую часто носят капитаны, покинувшие Номаду.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Броня изгоя-капитана",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

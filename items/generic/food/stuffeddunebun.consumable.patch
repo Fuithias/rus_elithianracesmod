@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A dunebun stuffed full of meat and bolbohn. An acquired taste.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Stuffed Dunebun",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

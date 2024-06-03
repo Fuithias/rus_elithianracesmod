@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Простая нагрудная пластина, прикрепленная к футболке.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Нагрудник патрульного",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Простая нагрудная пластина, прикрепленная к футболке.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Нагрудник патрульного",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

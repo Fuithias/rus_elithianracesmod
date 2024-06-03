@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Damaging Small Booster Flame",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A powerful ship thruster. Better not get too close.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sshould sstay away from big flame. Flame will burn Floran.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Careful. I shouldn't get too close to this exhaust flame.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected active thruster flame. Temperature levels spiking. Recommend caution.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki no touch, or Akki burn!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

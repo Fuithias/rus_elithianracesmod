@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Mellowroot Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A soft, juicy vegetable high in nutrients.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Soft, juicy vegetables.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I prefer the seeds, but the crop itself is okay too.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran thinksss thiss plant iss too mushy.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Informed. This soft vegetable is high in nutrients.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This crop is far too mushy for me.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A soft, watery vegetable.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just some kinda soft herb.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The mellowroot is a vital part of a good meal.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plant. It's very juicy, unlike anything on Kadavan.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This crop is nutrient-rich.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien flora. Detected high quantities of water inside.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plant-wet, juicy-very. Akki not sure what to think.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A compact battery packing a lot of power.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Battery",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

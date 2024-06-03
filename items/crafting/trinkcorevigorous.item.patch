@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A power core for Circuit armour. Increases the user's health reserves.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Circuit Core-S",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

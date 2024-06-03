@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Костюм, который обычно носят авиканские звездопроходцы.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Костюм звездопроходца",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Костюм, который обычно носят авиканские звездопроходцы.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Костюм звездопроходца",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

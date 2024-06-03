@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Large Ce'tennan Statue",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large statue depicting a Centensian warrior.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This statue depicts an alien warrior of sorts.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shining statue of an alien warrior.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Large ssstatue is sshiny!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascination. This statue is ancient, yet still in pristine condition.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This statue is beautiful! I wish I had a sword like that...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This statue is fascinating. The craftsmanship is unparalelled.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This 'ere statue looks right old!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fascinating statue indeed! These Centensian relics always have an air of mystery to me!",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A statue left behind by the Old Ones. It is beautiful, like all of their relics.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This statue depicts a Ce'tennan, or Centens - both names apply.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analyzing statue. Detected Centensian craftsmanship.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "God-maker statue, sword-large. Akki want to take sword!",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

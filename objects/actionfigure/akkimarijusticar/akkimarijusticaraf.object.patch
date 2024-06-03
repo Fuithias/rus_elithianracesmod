@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Justicar Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"A large Akkimari Justicar, the leader of a pack of Akkimari.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

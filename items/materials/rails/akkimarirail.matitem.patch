@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A rail made of assorted scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Akkimari Rail",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

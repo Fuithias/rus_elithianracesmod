@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal container filled with fertile dirt, ready for farming.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Farming Block",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

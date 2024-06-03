@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Loftbread filled with vahlberry jam for a fresh, delicious taste.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vahlberry Bread",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

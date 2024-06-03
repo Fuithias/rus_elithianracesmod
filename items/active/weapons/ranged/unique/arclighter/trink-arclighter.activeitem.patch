@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Электрическое оружие ближнего действия, способное наносить огромный постоянный урон.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;СДЛ-05 Затворник^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Прототип оружия",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Электрическое оружие ближнего действия, способное наносить огромный постоянный урон.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;СДЛ-05 Затворник^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Прототип оружия",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

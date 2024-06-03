@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A vital part of any of the Vanguard's ballistic rifles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Magazine",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

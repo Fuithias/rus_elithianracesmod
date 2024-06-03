@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с цветными полосами. Для изысканного робота.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Полосатый мод тела",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с цветными полосами. Для изысканного робота.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Полосатый мод тела",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

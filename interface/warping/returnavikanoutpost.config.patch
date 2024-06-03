@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Back to the Starfarer's Refuge",
+    "path": "/destinations/name",
+    "op": "replace"
+  },
+  {
+    "value": "Nomada Fleet",
+    "path": "/destinations/planetName",
+    "op": "replace"
+  }
+]

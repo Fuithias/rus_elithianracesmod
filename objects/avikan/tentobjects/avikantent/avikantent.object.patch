@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Tent",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tent used by Avikan nomads.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A large leather tent.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A temporary house.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Big brown house...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Content. This tent has plenty of room.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ooh, a tent! Is anyone inside?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I am not too proud to sleep in a tent.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan tent, made of leather. Very durable, even in harsh environments.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A traditional nomad's tent. Easy to set up and break down again.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A number of rolled up leather tapestries.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Tent. Mobile home. Material: leather.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tent-leather, Akki sleep here for the night.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Landing Beacon",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light used to guide in incoming ships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of landing guidance.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light used to guide ships safely to the ground.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light for guiding ssshipss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Relieved. This light will help guide ships safely to the ground.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a landing beacon.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A light to guide ships to safety.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright blinkin' light for guidin' ships.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This beacon will guide incoming ships safely to the ground.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I think it is a landing beacon.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple light for guiding ships at night. Quite an efficient solution.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected blinking light. Expected purpose is to guide incoming ships at night.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light guides to safety.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

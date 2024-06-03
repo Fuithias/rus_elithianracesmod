@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Durable mech legs built by the Vanguard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard Mech Legs",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

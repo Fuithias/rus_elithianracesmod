@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Hardened plates of scrap metal scavenged from medium quality sources.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Hardened Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

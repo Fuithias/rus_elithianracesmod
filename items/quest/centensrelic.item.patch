@@ -1,0 +1,17 @@
+[
+  {
+    "value": "A Centensian relic. It appears to be a container, but it won't open.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Centensian Relic^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Quest Item",
+    "path": "/category",
+    "op": "replace"
+  }
+]

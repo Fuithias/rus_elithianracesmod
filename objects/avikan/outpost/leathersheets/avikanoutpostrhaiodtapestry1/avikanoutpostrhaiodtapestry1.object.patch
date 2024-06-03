@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Rhaiod Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large tapestry made of a purple fabric. The markings look religious.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Purple ssheets make Floran sssick.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. The markings on these tapestries look religious.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large sheet of purple fabric. Not sure what those markings mean.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A large Rhaiod tapestry. The Rhaiod's monolith is easily recognizable.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Rhaiod-marked tapestry.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Banners-large. Akki like colour.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

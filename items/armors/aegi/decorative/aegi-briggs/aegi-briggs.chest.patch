@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аеги. ^white;Простая футболка, которую часто носят строители Бриггс.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Футболка Бриггс",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аеги. ^white;Простая футболка, которую часто носят строители Бриггс.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Футболка Бриггс",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

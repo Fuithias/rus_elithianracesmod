@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Nomada Teleporter Shop Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter makes a great demonstration and a handy return point!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This teleporter makes for a great demonstration and a handy return point.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis. Teleporter. Hazard levels: medium.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki bookmark teleporter, come back later.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

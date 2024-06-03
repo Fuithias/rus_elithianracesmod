@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Akris Scrap Plating",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Surprisingly durable plating made from assorted scrap metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Surprised. This plating was crafted from scrap metal.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ssscrap metal plating.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some thick metal plating, looks mighty solid.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Scrap metal hull plating. Exact composition unknown.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Plating-scrappy. Cheap and strong, not pretty-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

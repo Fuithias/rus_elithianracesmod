@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Bookcase",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A tall bookcase.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A basic metal bookcase.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Just a bookcase.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sssimple bookcase.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Uninterested. Just a bookcase.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A regular bookcase.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The best place to store books.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bookcase.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic bookcase.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of storage for scrolls and such.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bookcase.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien scrolls.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Books-many. Akki not read all.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

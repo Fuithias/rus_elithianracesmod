@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Trink Commander's Pod",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Captain sits here to fly the ship.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A control pod, used by the robot controlling this ship.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bulky control pod, for the ship's commander.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal box for sssitting?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Anticipation. Where to next?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this what the captain uses to control the ship? How odd.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A control pod with an interface for controlling the ship.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this supposed to be some sorta seat? Sure ain't looking comfortable.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The Trink use control pods like these to control their ships.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The control pod of the machine operating this ship.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This control pod allows access to the ship's navigation interface.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien technology. Analysis: ship control pod.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Chair-captain. Linked to console-navigation.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

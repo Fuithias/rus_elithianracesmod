@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Палаш, сделанный из зуба гигантского чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Костяное острие",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Палаш, сделанный из зуба гигантского чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Костяное острие",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

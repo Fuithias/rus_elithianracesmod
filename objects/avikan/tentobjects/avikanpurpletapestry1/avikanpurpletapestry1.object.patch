@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Long Rhaiod Tapestry",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall tapestry decorated in the style of the Rhaiod.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A wall tapestry made of some purple fabric.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Are those runes at the bottom of this tapestry?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapessstry remindsss Floran of home.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Confused. What might those symbols mean?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall tapestry. It has an unusual feel to it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall decoration with a seemingly religious theme.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall decoration used by the Rhaiod.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A wall tapestry with Rhaiod decorations.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wall decoration created by the Rhaiod.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scan completed. Rhaiod wall decoration.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tapestry-large, colour-pretty.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

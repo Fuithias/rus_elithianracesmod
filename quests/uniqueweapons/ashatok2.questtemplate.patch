@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Acidic Warfare II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Chacharra need materials. Many materials. Many pixels, too, want payment. ^green;Find Chacharra ^orange;12 Hardened Scrap Metal ^green;and ^orange;30000 Pixels^green;. ^white;Then Chacharra will make weapon for you.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Chacharra happy, have all Akki need. Here you go: weapon for you. Use it much, fights you win.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

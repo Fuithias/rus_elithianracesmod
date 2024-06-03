@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A glowing panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Glowing Centensian Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

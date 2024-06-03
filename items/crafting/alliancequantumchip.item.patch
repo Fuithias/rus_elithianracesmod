@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A powerful quantum processor built according to Alliance standards.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Quantum Processor",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

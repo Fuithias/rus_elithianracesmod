@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Creates a temporary gravity field distortion that pushes away projectiles.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Gravity Field Distorter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Consumable",
+    "path": "/category",
+    "op": "replace"
+  }
+]

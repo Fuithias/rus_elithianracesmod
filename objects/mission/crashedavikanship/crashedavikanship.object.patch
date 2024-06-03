@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Crashed Avikan Skoff",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Avikan ship has suffered extreme damage. It looks like it was attacked.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran not like thiss... Sship wass attacked.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alarmed. Someone shot this ship down.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This one ain't flying no more.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This Skoff was shot down... The burn marks are consistent with Thelean weaponry.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected Skoff. Status: crashed. Analysis: burn marks consistent with Thelean weaponry.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ship-crashed, destroyed by god-thieves.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

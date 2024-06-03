@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An ancient rock with an eerie glow.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Glowing Rock",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

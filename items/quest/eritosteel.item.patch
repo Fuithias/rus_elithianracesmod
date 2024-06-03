@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A special allosteel alloy with a high ferroverium content.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Eritosteel Plating^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

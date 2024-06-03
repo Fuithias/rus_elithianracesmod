@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Базовый кинжал.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Бредон Армс^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Клинок Бредона",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Базовый кинжал.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Бредон Армс^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Клинок Бредона",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

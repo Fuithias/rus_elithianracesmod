@@ -1,0 +1,22 @@
+[
+  {
+    "value": "If the camera spots you, the door will close. ^green;Double tap [W] to activate ^orange;stealth ^reset;and keep out of sight.",
+    "path": "/thea-stealthtech1/text",
+    "op": "replace"
+  },
+  {
+    "value": "The floor will fall away if you are spotted. Stay out of sight!",
+    "path": "/thea-stealthtech2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Stealth will not last forever. Be quick, or you won't reach the end in time!",
+    "path": "/thea-stealthtech3/text",
+    "op": "replace"
+  },
+  {
+    "value": "You have completed the test course. Well done!",
+    "path": "/thea-stealthtech4/text",
+    "op": "replace"
+  }
+]

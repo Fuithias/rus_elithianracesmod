@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;A Shielded Eye II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "The shield generator is still in pristine condition, but all of the connections were fried, and there's no power source for the shield. ^green;Find me ^orange;8 pieces of Centensian Tech^green; and ^orange;16 pieces of Centensian Metal^reset;, and I should be able to build a functional casing for the generator.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Here you go, Captain. This shield is starting to come together quite well!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

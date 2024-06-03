@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^orange;Центенсианское оружие, способное адаптироваться к любой ситуации.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Голос Радейса^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Элементальная винтовка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Центенсианское оружие, способное адаптироваться к любой ситуации.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Голос Радейса^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Элементальная винтовка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

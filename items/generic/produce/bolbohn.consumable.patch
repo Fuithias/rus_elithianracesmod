@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A root with a strong taste that few enjoy.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bolbohn",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

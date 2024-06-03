@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Дродены. ^white;Тяжелая боевая рама дроденов, созданная для максимальной прочности.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Тяжелая боевая рама: голова",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Дродены. ^white;Тяжелая боевая рама дроденов, созданная для максимальной прочности.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тяжелая боевая рама: голова",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

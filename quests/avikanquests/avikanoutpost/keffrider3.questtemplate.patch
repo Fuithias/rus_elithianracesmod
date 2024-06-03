@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^green;Keffrider III",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "A Keffrider must be resourceful. Nothing in our community is easily granted, so before you get your ^orange;license^white;, you must ^green;build your own ^orange;Vehicle Jumpgate^green; and bring it to me^white;. You'll need an ^orange;Avikan Jumpgate Core^white; to craft it - ^green;there's a few wandering merchants out there who sell such items, so find one of them first^white;.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Nice work, Captain! I'll arrange for that ^orange;Vehicle Jumpgate^white; to be installed onto your ship. The last thing you need is a ^orange;Jumpgate Controller^white;, so you can summon your Keff at any time.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

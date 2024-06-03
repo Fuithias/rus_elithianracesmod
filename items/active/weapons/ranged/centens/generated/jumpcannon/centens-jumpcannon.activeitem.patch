@@ -1,17 +1,17 @@
 [
-    {
-        "value": "^gray;Использует миниатюрные врата для переноса солнечной материи в магазин.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Центенсианская скачная пушка",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Скачная пушка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Использует миниатюрные врата для переноса солнечной материи в магазин.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Центенсианская скачная пушка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Скачная пушка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Vhos Avha'las Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter leading to some mysterious place.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter to ssstrange place...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Anxiety. This teleporter might lead somewhere dangerous.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected teleporter. Destination unknown. Recommend careful exploration.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki want to know-know where teleporter-ancient goes.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

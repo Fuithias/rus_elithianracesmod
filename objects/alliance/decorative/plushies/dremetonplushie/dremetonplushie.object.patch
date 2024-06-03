@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Dremeton Plushie",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A toy Dremeton made of soft fabrics.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This creature looks aquatic.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A children's toy, some kind of aquatic alien.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran findsss thiss one cute.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. What sort of creature might this represent?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien plushie. It looks aquatic.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I feel like these creatures might also be dwellers of the oceans.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some kinda plushie.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This plushie Dremeton is quite popular amongst Aeginian children. Adults too, actually.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An alien toy. I think it might be based on an aquatic creature.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a toy Dremeton.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien toy.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Toy-alien, soft-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

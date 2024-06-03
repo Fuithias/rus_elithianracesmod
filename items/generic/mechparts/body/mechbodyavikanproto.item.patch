@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A prototype open-top mech body, designed by the Vanguard.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard-00 Mech Body",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

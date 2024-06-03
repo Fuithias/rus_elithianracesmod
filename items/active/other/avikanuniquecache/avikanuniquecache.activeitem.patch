@@ -1,17 +1,17 @@
 [
-    {
-        "value": "Закрытый тайник, содержащий случайный уникальный предмет. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Уникальный тайник Авикан^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Закрытый тайник",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "Закрытый тайник, содержащий случайный уникальный предмет. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Уникальный тайник Авикан^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Закрытый тайник",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

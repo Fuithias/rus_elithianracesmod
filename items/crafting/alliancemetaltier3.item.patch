@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Thick allosteel plating, for greater durability.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Thick Allosteel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

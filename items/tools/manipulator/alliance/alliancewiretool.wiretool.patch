@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Built to place optical wires between input points. ^green;Quick select with [T] key.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wire Mode",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Tool",
+    "path": "/category",
+    "op": "replace"
+  }
+]

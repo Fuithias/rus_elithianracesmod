@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Weapons Store",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "This store sells a variety of weapons.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ssshop for weaponss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A weapons store.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Could get m'self a new gun here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected alien weapon store.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki buy weapons-new.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Teleporter",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken teleporter. It's of little use in this state.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This teleporter is broken.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should get this teleporter fixed up.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter broken. Needss repairsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. This teleporter is broken.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken teleporter? This is won't do at all...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ship needs repairs before this teleporter will function again.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken teleporter? Now that won't do at all!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The teleporter is broken.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The teleporter isn't working. I have to get it fixed.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The teleporter is broken. I need to get it repaired.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleportation technology detected. Status: broken.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter-broken, fun-no.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

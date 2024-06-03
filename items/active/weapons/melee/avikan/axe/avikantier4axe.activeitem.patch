@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^gray;Острый костяной топор, сделанный из высококачественной кости чудовища.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Топор хищника",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Острый костяной топор, сделанный из высококачественной кости чудовища.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Топор хищника",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

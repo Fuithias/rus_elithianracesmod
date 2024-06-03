@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Harnessing the Corruption II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "If I am to build a weapon from this Ion Core, I'm going to need some materials. Could you fetch me about ^orange;12 Superb Kavanite Plates ^white; and ^orange;5 Dranite Plates^white;? I'll work on some plans for the weapon in the mean time.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Those are perfect, Captain! Lucky for you, I just finished drawing the blueprints for the weapon I intend to build. I'll need some more materials, however.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

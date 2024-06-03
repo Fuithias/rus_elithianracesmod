@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Alliance Sloped Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sloped metal panel, perfect for buildings walls with.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Observation. A metal wall panel.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Metal panel ssshines.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Those are metal wall panels alright.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Durable metal wall panels.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-strong, for building buildings.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

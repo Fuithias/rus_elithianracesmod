@@ -1,0 +1,12 @@
+[
+  {
+    "value": "High quality scrap metal integrated with Akkimari tech.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Integrated Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

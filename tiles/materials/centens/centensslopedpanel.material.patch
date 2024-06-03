@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Centensian Sloped Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A sloped panel built with a lightweight but incredibly strong metal.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This metal panel is stronger and lighter than anything I've encountered before.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran is confused. Metal isss light and so sstrong Floran can't scratch it...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Those are metal wall panels alright.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Centensian metal plating detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-sloped. Slippery-very, Akki careful.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

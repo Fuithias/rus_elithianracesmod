@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Excalibur Reborn III",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "I can't extract the Shard from this relic myself, but Barnos has picked up a few tricks over the years. Collecting exotic weapons requires you to delve into ancient ruins, it seems. ^green;Bring the ^orange;Centensian Relic ^green;to ^orange;Barnos^green; at the shooting range^reset;, and he can extract the Shard for you.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Ah, so Hadaeko sent you? She's right, I know how to open those ancient relics. Here you go: a small Xanafian Shard.",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Find ^orange;Barnos ^reset;in the ^orange;Creon Embassy^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

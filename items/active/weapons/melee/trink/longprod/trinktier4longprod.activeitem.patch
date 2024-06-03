@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Электрошок, призванный держать нападающих на расстоянии.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Завод тринков^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Длинно-стрежень Марк IV",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Электрод",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Электрошок, призванный держать нападающих на расстоянии.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Завод тринков^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Длинно-стрежень Марк IV",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Электрод",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

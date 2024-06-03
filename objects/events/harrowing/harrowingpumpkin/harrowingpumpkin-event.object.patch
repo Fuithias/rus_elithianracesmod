@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Harrowing Pumpkin (Event)",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "...",
+    "path": "/description",
+    "op": "replace"
+  }
+]

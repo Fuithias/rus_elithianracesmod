@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A metal panel with sharp edges, for use on ships.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Avikan Ship Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

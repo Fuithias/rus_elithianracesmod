@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Basbron Seed",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cactus producing soft fibers, useful for making cloth.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "If you can get past the spines, this plant produces excellent cloth fibers.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cactus producing fibers for cloth-weaving.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran take fluff, make cloth. Floran sssmart.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Careless. These spines won't hurt me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cotton cactus. How odd.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I believe these fibers would make for an excellent cloth material.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Soft fluffy fibers. Now that's the good stuff.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A cactus from Kadavan. It produces fibers useful for making cloth.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The fibers produced by this plant make for excellent cloth-weaving material.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These plants are harvested by the Avikan for their soft fluffy fibers.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected fiber-rich plant. Recommend harvest.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fibers-soft, for weaving cloth.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

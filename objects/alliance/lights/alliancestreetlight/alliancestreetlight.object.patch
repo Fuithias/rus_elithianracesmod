@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Street Light",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright but efficient street light.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A bright street light.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright light on top of a long pole.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can't reach the lightsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Glad. This light will make venturing out at night much safer.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A street light.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An elegant street light.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "That's a street light.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This light will make the streets much safer at night.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A bright light on top of a long pole.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A surprisingly efficient street light.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light source detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Light-tall, for lighting street.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

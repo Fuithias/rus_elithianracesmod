@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Примитивный, но эффективный способ полива урожая.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Мешок для полива Авикан",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Примитивный, но эффективный способ полива урожая.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мешок для полива Авикан",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

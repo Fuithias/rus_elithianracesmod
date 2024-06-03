@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Rusted bits of scrap metal scavenged from various sources.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rusty Scrap Metal",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

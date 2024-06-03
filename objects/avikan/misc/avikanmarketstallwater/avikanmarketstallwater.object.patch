@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Water Stall",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A market stall filled with water containers.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh water. Odd place to sell it.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh and clean water - how much is it?",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran sees Floran in watersss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Caution. This water might be harmful to robotics.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fresh water? I could use a drink! Or two!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Few people but desert dwellers would sell water at a marketplace.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crystal clear water for sale here.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water - a rare resource on Kadavan, but one that is absolutely essential to our survival.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Crystal clear water. The Avikan value it more than most.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected water supply. Readings indicate a low level of contamination.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Water. Akki drink up here.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "An Alliance armour power core. Increases the user's strength.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nucleus v2.M",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

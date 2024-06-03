@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Covered Avikan Keff",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "An Avikan vehicle, covered in a large leather sheet.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of vehicle is hidden beneath those sheets.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "What wonders might lie hidden here?.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Leather ssheetsss hide big metal thingsss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Wonder. What might this be?.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this what I think it is?",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This leather sheet protects whatever lies below it.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some sort of vehicle, covered by a large leather sheet.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A keff that hasn't seen use in a while.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vehicle covered by a large leather sheet.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Scanning. Detected keff.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheet protects vehicle-alien from the desert.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

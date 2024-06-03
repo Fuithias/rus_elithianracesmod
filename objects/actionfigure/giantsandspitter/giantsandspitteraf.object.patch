@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Sandspitter Figurine",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The label reads, \"The Sandspitter spits sand to slow down its foes.\"",
+    "path": "/description",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+      "value": "^orange;Restoring The Past II",
+      "path": "/title",
+      "op": "replace"
+  },
+  {
+      "value": "Now that we have a shard of the Xanafir, we can start repairing the weapon. The weaponsmith, Ayurin, can help us with that. ^green;Take your ^orange;Broken Spear ^green;and the ^orange;Xanafian Shard ^green;to Ayurin^white;, and he'll tell you what he needs to make the repairs.",
+      "path": "/text",
+      "op": "replace"
+  },
+  {
+      "value": "Is that truly a Vha'leihan Spear? Incredible! I would be honoured to repair it for you, Captain!",
+      "path": "/completionText",
+      "op": "replace"
+  },
+  {
+      "value": "Visit ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
+      "path": "/scriptConfig/turnInDescription",
+      "op": "replace"
+  }
+]

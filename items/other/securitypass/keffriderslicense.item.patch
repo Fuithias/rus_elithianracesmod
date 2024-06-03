@@ -1,0 +1,17 @@
+[
+  {
+    "value": "This license is official proof of your status as Keffrider.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#BA66FF;Keffrider's License^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Security Pass",
+    "path": "/category",
+    "op": "replace"
+  }
+]

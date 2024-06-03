@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Аккимари. ^white;Боевой шлем с тактическим визором. Силовая версия.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Шлем налетчика р.М",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Аккимари. ^white;Боевой шлем с тактическим визором. Силовая версия.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлем налетчика р.М",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Avikan Vehicle Jumpgate",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A jumpgate built to transport vehicles off and onto ships in orbit.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This device looks like some sort of teleporter.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Is this a teleporter? Better not get too close...",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran wonderss what thisss isss...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fascinated. This device can teleport vehicles using a teleportation method unknown to me.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A teleporter for teleporting vehicles? Neat!",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This teleportation device is powered by technologies far beyond me.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This jumpgate seems to have been built solely to transport vehicles.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A jumpgate for transporting vehicles. It's ready to move that Keff anywhere it needs to go.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This jumpgate allows its owner to transport vehicles from a ship in orbit to a planet's surface, and vice-versa.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected jumpgate technology.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Teleporter for vehicle.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

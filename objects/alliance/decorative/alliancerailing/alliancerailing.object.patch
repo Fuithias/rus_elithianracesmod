@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Alliance Railing",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Part of a metal safety railing.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This railing looks rather sturdy.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "If I had wings, I could easily leap over this railing.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran is sssure Floran could jump this fence! But Floran won't try.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This railing is sturdy despite its thin frame.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I'm sure this railing is here for a purpose. Better not try to jump over it.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal railing. A basic safety measure.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic safety railing.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A thin but sturdy safety railing.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This railing is a basic but effective safety measure.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected safety railing.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Railing, so Akki not fall.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

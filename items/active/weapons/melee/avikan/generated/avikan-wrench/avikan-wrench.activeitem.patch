@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^gray;Авиканский гаечный ключ.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;Авангард^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "Авиканский ключ",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Гаечный ключ",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^gray;Авиканский гаечный ключ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;Авангард^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "Авиканский ключ",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гаечный ключ",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

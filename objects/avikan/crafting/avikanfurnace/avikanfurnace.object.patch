@@ -1,0 +1,212 @@
+[
+  {
+    "value": "^orange;Avikan Stone Furnace^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive furnace. I can smelt things here.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic furnace perfect for smelting ore.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smelting furnace. Looks hot.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hot, imposing furnace.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This furnace is not very safe.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple furnace. One of the few stone structures my people use.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inefficient and unsafe way to smelt ores into metal bars.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone furnace. Basic ore smelting functionality.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace-stone, not too hot.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Avikan Stone Furnace^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A primitive furnace. I can smelt things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A basic furnace perfect for smelting ore.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A smelting furnace. Looks hot.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A hot, imposing furnace.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This furnace is not very safe.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple furnace. One of the few stone structures my people use.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An inefficient and unsafe way to smelt ores into metal bars.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Stone furnace. Basic ore smelting functionality.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Furnace-stone, not too hot.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Nomada Furnace^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "A furnace for smelting metal, and some other materials too.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A furnace for creating various alloys.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran isss careful. Fire will burn Floran...",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Pleased. This furnace's fires are kept safely behind a metal grille.",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A furnace burning at an unusual temperature. It can only smelt some very specific metals.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This furnace burns at a temperature perfect for smelting some alien alloys.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "These flames are barely brighter than I am.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This furnace's temperature is perfect for smelting Avikan alloys, but not much else.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "While it can't smelt every metal, this furnace's temperature is just perfect for creating Avikan alloys.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This open grille design is hardly efficient, but the furnace's fuel consumption is top-notch.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Nomada furnace. Temperature levels are perfect for smelting Avikan alloys.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Forge-hot, for smelting metals.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  }
+]

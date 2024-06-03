@@ -1,12 +1,12 @@
 [
-    {
-        "value": "^green;Авикане. ^white;Плащ авиканской высиделки.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Плащ высиделки",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "^green;Авикане. ^white;Плащ авиканской высиделки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Плащ высиделки",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

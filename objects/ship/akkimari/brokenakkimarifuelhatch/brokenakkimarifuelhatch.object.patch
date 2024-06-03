@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Broken FTL Fuel Hatch",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken FTL fuel hatch. This won't do!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "This fuel hatch is broken.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This will have to be fixed before we can go anywhere with this ship.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fuel hatch isss broken...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Excited. Once fixed, this fuel hatch will acccept fuel again and I'll be off to the stars!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A fuel panel. Broken, but not beyond repair.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken fuel hatch.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The ship isn't going anywhere before this fuel hatch gets fixed.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "The fuel input station is broken. Let's repair it.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A broken fuel hatch. Repairs are in order.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Fuel input station detected. Status: broken.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki can't fuel ship yet. Need repairs.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

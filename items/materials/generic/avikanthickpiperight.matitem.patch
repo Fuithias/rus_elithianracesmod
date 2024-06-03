@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A very thick metal pipe.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Big Pipe Right",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Large Sheet",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A very large sheet of leather.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran iss impresssed by ssize of leather ssheet.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Astonishment. This must be the largest sheet of leather I've ever seen.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A massive sheet made o' leather.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected leather sheet. Unusually large size.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Sheet-large, Akki have shelter.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Удерживайте ^green;[S/Вниз] ^reset;чтобы перекатиться и прервать падение.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Акробатический прыжок",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Удерживайте ^green;[S/Вниз] ^reset;чтобы перекатиться и прервать падение.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Акробатический прыжок",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

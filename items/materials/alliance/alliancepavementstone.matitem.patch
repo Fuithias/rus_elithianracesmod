@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Stone slabs used as pavement.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Alliance Pavement Slabs",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

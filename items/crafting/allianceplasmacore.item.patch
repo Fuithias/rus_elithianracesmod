@@ -1,0 +1,12 @@
+[
+  {
+    "value": "The core of any plasma-infused Alliance rifle.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Plasma Injector",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

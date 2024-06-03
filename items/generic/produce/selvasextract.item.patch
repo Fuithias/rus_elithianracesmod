@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A concentrated extract harvested from a selvas herb.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Selvas Extract",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

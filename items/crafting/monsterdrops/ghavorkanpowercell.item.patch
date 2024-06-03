@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A power cell torn from a Ghavorkan's body.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ghavorkan Power Cell",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

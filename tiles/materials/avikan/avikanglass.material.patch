@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Avikan Glass",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick, strong glass.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. Glass.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran look pretty in glasssss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Thick glass.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Glass-thick, strong-very.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

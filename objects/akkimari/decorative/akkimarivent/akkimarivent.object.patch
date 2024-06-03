@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Akris Vent",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ventilation fan that circulates fresh air.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A vent.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vent to recycle air.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran can feel a ssslight breeze coming through here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Observant. The air recycling process isn't fully functional.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "An uninspiring vent.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A vent with a fan.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "It's a vent. Still, the air feels stuffy in here.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A ventilation fan. It circulates the air.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Some type of vent.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A reasonably efficient vent that circulates the air.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Detected air current. Detected ventilation shaft.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Vent make air go around. Keeps fresh, Akki breathe easy.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

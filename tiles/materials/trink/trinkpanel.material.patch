@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Trinkian Panel",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simple metal panel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Statement. A metal panel.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Dark metal panelsss.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A metal panel, plain an' simple.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Analysis complete. Metal plating.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Panel-metal. Akki no find it interesting.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

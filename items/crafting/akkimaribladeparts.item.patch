@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Bits and pieces of a blade, retrieved from a dismantled melee weapon or bow.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Blade Parts",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

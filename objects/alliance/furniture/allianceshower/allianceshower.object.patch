@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Alliance Shower Cabin",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "A shower cabin.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "An place to wash yourself.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I should wash my feathers.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Floran takess a rain bath here.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ashamed. I hope no-one will hear me sing.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This shower cabin isn't exactly private...",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A simplistic shower.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Let's go take a shower!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "A standard shower cabin.",
+    "path": "/aegiDescription",
+    "op": "replace"
+  },
+  {
+    "value": "This device can make it rain. A waste of water.",
+    "path": "/avikanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "I prefer a chemical cleansing over a shower.",
+    "path": "/trinkDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Alien water supply detected.",
+    "path": "/drodenDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Akki wash here. Akki clean again.",
+    "path": "/akkimariDescription",
+    "op": "replace"
+  }
+]

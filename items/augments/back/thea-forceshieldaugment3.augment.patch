@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Provides a quickly recharging shield that pushes away enemies and projectiles when broken.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Force Shield Augment III",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

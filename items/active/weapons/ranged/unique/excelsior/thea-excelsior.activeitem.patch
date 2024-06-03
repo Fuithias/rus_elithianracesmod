@@ -1,22 +1,22 @@
 [
-    {
-        "value": "^orange;Мощное оружие со встроенной системой теплоотвода.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "^gray;АЕГ-Корпус^reset;",
-        "path": "/manufacturer",
-        "op": "replace"
-    },
-    {
-        "value": "^orange;Ц22 Эксельсиор^white;",
-        "path": "/shortdescription",
-        "op": "replace"
-    },
-    {
-        "value": "Вторичка",
-        "path": "/category",
-        "op": "replace"
-    }
+  {
+    "value": "^orange;Мощное оружие со встроенной системой теплоотвода.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^gray;АЕГ-Корпус^reset;",
+    "path": "/manufacturer",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Ц22 Эксельсиор^white;",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вторичка",
+    "path": "/category",
+    "op": "replace"
+  }
 ]

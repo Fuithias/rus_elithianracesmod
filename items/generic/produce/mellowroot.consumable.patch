@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A soft, juicy vegetable.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mellowroot",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

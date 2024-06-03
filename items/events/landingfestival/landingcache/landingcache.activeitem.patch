@@ -1,0 +1,12 @@
+[
+  {
+    "value": "A wrapped present containing items from random events. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Landing Festival Present",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

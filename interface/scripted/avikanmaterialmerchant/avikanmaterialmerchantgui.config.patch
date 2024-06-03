@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Exchange",
+    "path": "/gui/btnSell/caption",
+    "op": "replace"
+  },
+  {
+    "value": "TOTAL VALUE",
+    "path": "/gui/lblTokenLabel/value",
+    "op": "replace"
+  },
+  {
+    "value": "16 SLOTS",
+    "path": "/gui/count/value",
+    "op": "replace"
+  }
+]
