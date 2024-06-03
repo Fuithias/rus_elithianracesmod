@@ -59,7 +59,8 @@
     "path": "/avikanroguebattle/labels/name",
     "op": "replace"
   },
-     "value": "Teleport Confirmation",
+  {
+    "value": "Teleport Confirmation",
     "path": "/vanguardmechunlock/title",
     "op": "replace"
   },
@@ -88,6 +89,7 @@
     "path": "/vanguardmechunlock/labels/name",
     "op": "replace"
   },
+  {
      "value": "Teleport Confirmation",
     "path": "/akkimaridronebattle/title",
     "op": "replace"
@@ -117,6 +119,7 @@
     "path": "/akkimaridronebattle/labels/name",
     "op": "replace"
   },
+  {
      "value": "Teleport Confirmation",
     "path": "/remnantcaves/title",
     "op": "replace"
@@ -146,6 +149,7 @@
     "path": "/remnantcaves/labels/name",
     "op": "replace"
   },
+  {
      "value": "Teleport Confirmation",
     "path": "/thea-techchallenge-stealthtech/title",
     "op": "replace"

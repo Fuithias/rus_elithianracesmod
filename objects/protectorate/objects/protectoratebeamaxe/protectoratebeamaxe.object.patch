@@ -1,51 +1,52 @@
 [
-  //AVIKAN
-  { "op" : "add",
-	"path" : "/avikanDescription",
-	"value" : "The Matter Manipulator! I feel bad for taking it this way, but it was always my mission to obtain this."
+  {
+    "value": "The Matter Manipulator! I feel bad for taking it this way, but it was always my mission to obtain this.",
+    "path": "/avikanDescription",
+    "op": "replace"
   },
-  { "op" : "add",
-	"path" : "/pickedUpParameters/avikanDescription",
-	"value" : "I've got to get moving. My ship is waiting!"
+  {
+    "value": "I've got to get moving. My ship is waiting!",
+    "path": "/pickedUpParameters/avikanDescription",
+    "op": "replace"
   },
-  
-  //DRODEN
-  { "op" : "add",
-	"path" : "/drodenDescription",
-	"value" : "Detected Matter Manipulator. Mission Objective confirmed."
+  {
+    "value": "etected Matter Manipulator. Mission Objective confirmed.",
+    "path": "/drodenDescription",
+    "op": "replace"
   },
-  { "op" : "add",
-	"path" : "/pickedUpParameters/drodenDescription",
-	"value" : "Retrieved Mission Objective. Unit must return to the Watchers."
+  {
+    "value": "Retrieved Mission Objective. Unit must return to the Watchers.",
+    "path": "/pickedUpParameters/drodenDescription",
+    "op": "replace"
   },
-  
-  //TRINK
-  { "op" : "add",
-	"path" : "/trinkDescription",
-	"value" : "There's no time to lose. I should pick up this Matter Manipulator and get out of here."
+  {
+    "value": "There's no time to lose. I should pick up this Matter Manipulator and get out of here.",
+    "path": "/trinkDescription",
+    "op": "replace"
   },
-  { "op" : "add",
-	"path" : "/pickedUpParameters/trinkDescription",
-	"value" : "To linger here would be terribly inefficient."
+  {
+    "value": "To linger here would be terribly inefficient.",
+    "path": "/pickedUpParameters/trinkDescription",
+    "op": "replace"
   },
-  
-  //AEGI
-  { "op" : "add",
-	"path" : "/aegiDescription",
-	"value" : "I should take the Matter Manipulator and get to safety. Perhaps the Union can send help to these people."
+  {
+    "value": "I should take the Matter Manipulator and get to safety. Perhaps the Union can send help to these people.",
+    "path": "/aegiDescription",
+    "op": "replace"
   },
-  { "op" : "add",
-	"path" : "/pickedUpParameters/aegiDescription",
-	"value" : "I'll return with help."
+  {
+    "value": "I'll return with help.",
+    "path": "/pickedUpParameters/aegiDescription",
+    "op": "replace"
   },
-  
-  //AKKIMARI
-  { "op" : "add",
-	"path" : "/akkimariDescription",
-	"value" : "Akki take Matter Manipulator now, then Akki run!"
+  {
+    "value": "Akki take Matter Manipulator now, then Akki run!",
+    "path": "/akkimariDescription",
+    "op": "replace"
   },
-  { "op" : "add",
-	"path" : "/pickedUpParameters/akkimariDescription",
-	"value" : "Akki return to help later!"
+  {
+    "value": "Akki return to help later!",
+    "path": "/pickedUpParameters/akkimariDescription",
+    "op": "replace"
   }
 ]
