@@ -13,5 +13,10 @@
     "value": "Курсирная винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Vhelin's Order",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
