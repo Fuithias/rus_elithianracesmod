@@ -18,5 +18,10 @@
     "value": "Длинномеч",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Shadow Cloak",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
