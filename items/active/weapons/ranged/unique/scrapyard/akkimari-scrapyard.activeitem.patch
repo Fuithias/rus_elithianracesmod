@@ -18,5 +18,10 @@
     "value": "Шрапнельная пушка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Spike Bomb",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
