@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Ion Swarm",
+    "value": "Ионный рой",
     "path": "/altAbility/name",
     "op": "replace"
   }
