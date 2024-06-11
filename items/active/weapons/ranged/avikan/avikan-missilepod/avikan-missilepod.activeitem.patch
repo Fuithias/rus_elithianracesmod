@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Rocket Barrage",
+    "value": "Ракетный залп",
     "path": "/altAbility/name",
     "op": "replace"
   }
