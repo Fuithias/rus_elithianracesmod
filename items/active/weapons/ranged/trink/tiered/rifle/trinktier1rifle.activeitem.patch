@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Лазерный рикошет",
+    "value": "Рикошетный лазер",
     "path": "/altAbility/name",
     "op": "replace"
   }
