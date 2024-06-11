@@ -18,5 +18,10 @@
     "value": "Ударная дубинка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Оглушающий разряд",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
