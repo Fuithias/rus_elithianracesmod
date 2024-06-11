@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Energy Discharge",
+    "value": "Разрядка энергии",
     "path": "/altAbility/name",
     "op": "replace"
   }
