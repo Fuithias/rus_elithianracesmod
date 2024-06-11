@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Low-power Laser",
+    "value": "Маломощный лазер",
     "path": "/altAbility/name",
     "op": "replace"
   }
