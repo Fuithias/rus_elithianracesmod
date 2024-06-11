@@ -18,5 +18,10 @@
     "value": "Направленная энергтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Target Marking",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
