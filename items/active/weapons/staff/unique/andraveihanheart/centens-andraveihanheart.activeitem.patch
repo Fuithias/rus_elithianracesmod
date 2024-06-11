@@ -13,5 +13,10 @@
     "value": "Артефакт",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Soul Burst",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
