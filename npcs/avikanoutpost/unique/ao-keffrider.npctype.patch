@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Кеффрайдеры приветствуют вас.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Кеффрайдеры приветствуют вас.",
+        "path": "/scriptConfig/dialog/converse/avikan/default/0",
+        "op": "replace"
+    }
+]

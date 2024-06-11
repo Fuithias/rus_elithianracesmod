@@ -1,0 +1,42 @@
+[
+    {
+        "value": "Атака!",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Вы пришли не туда!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Вы совершили ошибку, придя сюда!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вы пересеклись не с тем Авиканом!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Тебе не следовало приходить сюда!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу позволить вам сообщить обо мне!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/4",
+        "op": "replace"
+    },
+    {
+        "value": "Это неправильное место для вас!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/5",
+        "op": "replace"
+    },
+    {
+        "value": "Ты видел слишком много!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/6",
+        "op": "replace"
+    }
+]

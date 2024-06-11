@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Конструкция Це'Теннанов, построенная для защиты их творений.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Це'Теннан Страж",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "value": "HotbrÃ¶d Стенд",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Вкусный HotbrÃ¶d для всех",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    },
+    {
+        "value": "Похоже, ты настроен на какой-нибудь хотбрёд, друг мой.",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Возвращайся в любое время!",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Мой стенд там, следуй за мной.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "А теперь давай принесём тебе что-нибудь поесть!",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Голодный? Не смотрите дальше! У нас тут вкуснейший Хотбрёд!",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "op": "replace"
+    }
+]

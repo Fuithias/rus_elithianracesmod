@@ -1,0 +1,27 @@
+[
+    {
+        "value": "Привет незнакомец.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Добро пожаловать, незнакомец.",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Что привело вас в нашу колонию?",
+        "path": "/scriptConfig/dialog/converse/avikan/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Приветствую тебя, путник.",
+        "path": "/scriptConfig/dialog/converse/avikan/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Как старейшина этой колонии, я приветствую вас.",
+        "path": "/scriptConfig/dialog/converse/avikan/default/2",
+        "op": "replace"
+    }
+]

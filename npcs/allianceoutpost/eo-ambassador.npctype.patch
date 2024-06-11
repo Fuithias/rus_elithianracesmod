@@ -1,0 +1,57 @@
+[
+    {
+        "value": "Добро пожаловать в посольство Креона.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Добро пожаловать в посольство Креона.",
+        "path": "/scriptConfig/dialog/converse/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Что вы думаете о нашем посольстве?",
+        "path": "/scriptConfig/dialog/converse/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вы здесь по официальному делу?",
+        "path": "/scriptConfig/dialog/converse/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Дайте мне знать, если я могу вам чем-нибудь помочь.",
+        "path": "/scriptConfig/dialog/converse/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду рад дать совет или консультацию, если вам это нужно.",
+        "path": "/scriptConfig/dialog/converse/aegi/default/4",
+        "op": "replace"
+    },
+    {
+        "value": "Добро пожаловать в великое посольство Креона.",
+        "path": "/scriptConfig/dialog/converse/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Могу ли я быть полезен?",
+        "path": "/scriptConfig/dialog/converse/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Могу ли я помочь вам в чем-нибудь?",
+        "path": "/scriptConfig/dialog/converse/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Эги построили здесь большое посольство. Я рад быть послом.",
+        "path": "/scriptConfig/dialog/converse/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Если вам нужна информация о Trink Circuit, я буду рад помочь.",
+        "path": "/scriptConfig/dialog/converse/trink/default/4",
+        "op": "replace"
+    }
+]

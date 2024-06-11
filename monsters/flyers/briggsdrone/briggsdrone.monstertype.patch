@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Большой утилитарный дрон, оснащенный мощным электромагнитом.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Дрон ПАМ",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

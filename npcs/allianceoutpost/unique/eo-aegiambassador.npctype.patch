@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Добро пожаловать в посольство Эгинского Федерального Союза!",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    }
+]

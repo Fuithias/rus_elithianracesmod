@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Я позабочусь о том, чтобы ваши двигатели работали бесперебойно. Скорость тяги увеличена на 25%!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "op": "replace"
+    }
+]

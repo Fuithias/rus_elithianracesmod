@@ -1,0 +1,122 @@
+[
+    {
+        "value": "Привет, искатель приключений. Могу ли я присоединиться к вашей команде?",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я <собственное имя>, хочу присоединиться к экипажу космического корабля. Вы наняты?",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вам нужен кто-нибудь в команду? Я хотел бы присоединиться к вам!",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я бы хотел присоединиться к вашей команде, если вы позволите.",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я защищу вас в бою, сэр!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Позвольте мне сражаться за вас!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Всегда готов, капитан!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я здесь, если я тебе понадоблюсь!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я никогда не чувствовал ничего более странного, чем это...",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я думал, что это конец для меня!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я вернулся!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я жив!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду ждать тебя здесь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Дай мне знать, когда захочешь снова выйти.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду стоять здесь на страже.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду здесь, когда ты вернешься.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Готовы идти, сэр!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Тогда пойдем!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я пойду за вами, капитан!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Тогда мы отправляемся?",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу до тебя дозвониться!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу туда попасть!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Подожди меня!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я найду способ обойти!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/3",
+        "op": "replace"
+    }
+]

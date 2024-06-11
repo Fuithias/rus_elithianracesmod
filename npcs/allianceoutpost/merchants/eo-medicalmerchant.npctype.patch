@@ -1,0 +1,37 @@
+[
+    {
+        "value": "Больница посольства Креона",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Медикаменты",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    },
+    {
+        "value": "Я могу предоставить вам некоторые медицинские принадлежности, если они вам понадобятся.",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Будьте осторожны там!",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Мои припасы там. Пожалуйста следуйте за мной.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Итак, есть ли у вас какие-либо симптомы?",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Вам нужны медикаменты?",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "op": "replace"
+    }
+]

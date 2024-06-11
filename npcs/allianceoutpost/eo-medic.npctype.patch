@@ -1,0 +1,47 @@
+[
+    {
+        "value": "Вам нужна медицинская помощь?",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я мог бы предложить медицинскую помощь, если она вам понадобится.",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Извините, мне нужно принять других пациентов.",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Если вам понадобится медицинская помощь, дайте мне знать.",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я люблю помогать людям. Это заставляет меня чувствовать, что я имею значение.",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "op": "replace"
+    },
+    {
+        "value": "Помогать людям всегда было моим призванием.",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "op": "replace"
+    },
+    {
+        "value": "Вам нужен кто-то, чтобы вас осмотреть?",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "op": "replace"
+    },
+    {
+        "value": "Ты выглядишь обиженным. С тобой все в порядке?",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "op": "replace"
+    },
+    {
+        "value": "Ты в порядке?",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "op": "replace"
+    }
+]

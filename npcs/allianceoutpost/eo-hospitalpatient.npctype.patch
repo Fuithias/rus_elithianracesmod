@@ -1,0 +1,27 @@
+[
+    {
+        "value": "Я не очень хорошо себя чувствую...",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Фу...",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "...",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "У меня болит живот...",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Моё тело болит...",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "op": "replace"
+    }
+]

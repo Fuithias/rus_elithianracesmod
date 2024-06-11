@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Элитный драл авиканов, искаженный Тилеанским Весомиром.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Искаженный Элитный драл",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

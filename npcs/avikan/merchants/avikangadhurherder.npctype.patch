@@ -1,0 +1,62 @@
+[
+    {
+        "value": "Хотели бы вы купить Гад'хура?",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Возможно, вас заинтересует приобретение монтировки?",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "У меня здесь много хорошего Гад'хура на продажу.",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Прощай, путник.",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Иди спокойно, путник.",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Радеис проведет тебя, путник.",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Пожалуйста, следуйте за мной на мое ранчо.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Моё ранчо здесь, путник.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Мы здесь. Тогда давайте займемся торговлей.",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Это мое ранчо. Уже увидели животное, которое вам нравится?",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вас заинтересует монтировка?",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "У меня есть много хорошего Гад'хура на продажу.",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+        "op": "replace"
+    }
+]

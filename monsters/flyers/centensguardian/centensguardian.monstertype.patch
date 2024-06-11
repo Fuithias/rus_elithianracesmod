@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Автоматическая оборонная конструкция, построенная Це'Теннанами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Це'Теннан Окулус",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

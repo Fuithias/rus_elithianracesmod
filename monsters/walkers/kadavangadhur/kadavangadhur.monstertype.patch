@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Кроткое существо, Гад'хур часто используется в качестве ездового животного.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Гад'хур",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "  Космический торговец",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Продает предметы для космических путешественников!",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    }
+]

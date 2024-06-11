@@ -1,0 +1,242 @@
+[
+    {
+        "value": "Привет, искатель приключений. Могу ли я присоединиться к вашей команде?",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я <собственное имя>, хочу присоединиться к экипажу космического корабля. Вы наняты?",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вам нужен кто-нибудь в команду? Я хотел бы присоединиться к вам!",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я бы хотел присоединиться к вашей команде, если вы позволите.",
+        "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Приветствую тебя, искатель приключений. Могу ли я присоединиться к вашей команде?",
+        "path": "/scriptConfig/dialog/crewmember/offer/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я уверен, что мои навыки принесут пользу вашей команде.",
+        "path": "/scriptConfig/dialog/crewmember/offer/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Вы наняты? Я хотел бы присоединиться к вашей команде.",
+        "path": "/scriptConfig/dialog/crewmember/offer/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я думаю, мы можем помочь друг другу. Могу ли я присоединиться к вашей команде?",
+        "path": "/scriptConfig/dialog/crewmember/offer/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я защищу вас в бою, сэр!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Позвольте мне сражаться за вас!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Всегда готов, капитан!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я здесь, если я тебе понадоблюсь!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я готов к бою!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Дайте мне знать, если вам понадобится боевая поддержка.",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я пойду в бой вместе с тобой.",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Если вам понадобится боевая поддержка, вы знаете, где меня найти.",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я никогда не чувствовал ничего более странного, чем это...",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я думал, что это конец для меня!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я вернулся!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я жив!",
+        "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Загрузка в новое тело вредна для моей памяти...",
+        "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "В следующий раз мне следует быть осторожнее с корпусом...",
+        "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Некоторые из моих воспоминаний не перенеслись в мое новое тело должным образом...",
+        "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я рад, что моя база данных не была повреждена при повторной загрузке.",
+        "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду ждать тебя здесь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Дай мне знать, когда захочешь снова выйти.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду стоять здесь на страже.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду здесь, когда ты вернешься.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я подожду здесь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Позвони мне, когда мы снова отправимся в путь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Тогда я останусь здесь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я буду ждать тебя здесь.",
+        "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Готовы идти, сэр!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Тогда пойдем!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я пойду за вами, капитан!",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Тогда мы отправляемся?",
+        "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Готов идти.",
+        "path": "/scriptConfig/dialog/crewmember/follow/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я все готов.",
+        "path": "/scriptConfig/dialog/crewmember/follow/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Давайте тогда.",
+        "path": "/scriptConfig/dialog/crewmember/follow/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я готов идти.",
+        "path": "/scriptConfig/dialog/crewmember/follow/trink/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу до тебя дозвониться!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу туда попасть!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Подожди меня!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Я найду способ обойти!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу до тебя дозвониться!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу туда попасть!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Я не могу найти дорогу туда!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Подожди!",
+        "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/3",
+        "op": "replace"
+    }
+]

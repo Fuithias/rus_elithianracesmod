@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Тебе не положено находиться в моем кабинете.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "value": "Медицинская часть <собственное имя> прибыла на дежурство. Запрашиваю разрешение на посадку на корабль.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Приходит подразделение <собственное имя>. Медицинское подразделение запрашивает разрешение на посадку на корабль.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Доступен медицинский блок Легиона Дродена. Запрашиваю разрешение на посадку на корабль.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "В этом отделении будут проводиться медицинские обследования и лечение.",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "op": "replace"
+    }
+]

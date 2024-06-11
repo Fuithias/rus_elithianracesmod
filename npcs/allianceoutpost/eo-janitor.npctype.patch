@@ -1,0 +1,27 @@
+[
+    {
+        "value": "Как вы сегодня?",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Не обращайте на меня внимания, я просто подмету пол.",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Жизнь дворника не так уж и плоха.",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Убедитесь, что вы не затащили внутрь грязь!",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Хм? О, привет!",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "op": "replace"
+    }
+]

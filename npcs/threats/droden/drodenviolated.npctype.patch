@@ -1,0 +1,42 @@
+[
+    {
+        "value": "Атака!",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Ошибка. Ошибка. Ошибка.",
+        "path": "/scriptConfig/dialog/attack/droden/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Обнаружено переопределение системы. Перезагрузка не удалась. Ошибка.",
+        "path": "/scriptConfig/dialog/attack/droden/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Обнаружена неисправность агрегата. Попытка отключения питания. Ошибка.",
+        "path": "/scriptConfig/dialog/attack/droden/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Ошибка. Переопределение системы.",
+        "path": "/scriptConfig/dialog/attack/droden/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Системы вооружения живут. Отключение. Ошибка.",
+        "path": "/scriptConfig/dialog/attack/droden/default/4",
+        "op": "replace"
+    },
+    {
+        "value": "Нарушение безопасности подразделения. Попытка безопасной перезагрузки. Ошибка.",
+        "path": "/scriptConfig/dialog/attack/droden/default/5",
+        "op": "replace"
+    },
+    {
+        "value": "Обнаружено нарушение фрейма. Целостность системы нарушена.",
+        "path": "/scriptConfig/dialog/attack/droden/default/6",
+        "op": "replace"
+    }
+]

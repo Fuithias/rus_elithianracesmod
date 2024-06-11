@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Пескополз прячется в песке и атакует без предупреждения.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Пескополз",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

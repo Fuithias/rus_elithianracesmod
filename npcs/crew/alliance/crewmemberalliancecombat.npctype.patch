@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Я продолжу работать над топливными системами корабля. Топливная экономичность выросла на 10%!",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "op": "replace"
+    }
+]

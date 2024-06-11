@@ -1,0 +1,37 @@
+[
+    {
+        "value": "Книжный магазин",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Для всех ваших потребностей в чтении",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    },
+    {
+        "value": "Ищете конкретную книгу? Я мог бы получить это!",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Возвращайся, когда захочешь!",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Мой магазин находится там.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Мы здесь. Итак, какую книгу вы искали?",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "В моем книжном магазине довольно большая коллекция. Приходите посмотреть!",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "op": "replace"
+    }
+]

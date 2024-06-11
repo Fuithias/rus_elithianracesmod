@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Массивный боевой дрон для поддержки солдат авиканов на поле боя.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Элитный драл",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

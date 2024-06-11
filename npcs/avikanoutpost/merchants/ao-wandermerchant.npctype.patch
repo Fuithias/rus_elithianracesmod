@@ -1,0 +1,12 @@
+[
+    {
+        "value": "  Кочевник-торговец",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Товары из Кадавана.",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    }
+]

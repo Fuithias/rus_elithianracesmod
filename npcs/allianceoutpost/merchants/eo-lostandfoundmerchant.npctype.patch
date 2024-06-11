@@ -1,0 +1,37 @@
+[
+    {
+        "value": "Потерянные и найденные",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Восстановите утерянное уникальное снаряжение",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    },
+    {
+        "value": "Что-то потеряли? Возможно, я смогу вернуть его вам!",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Если ты когда-нибудь потеряешь что-то важное, ты знаешь, где меня найти.",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Мои запасы рядом. Подписывайтесь на меня.",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Итак, что же вы потеряли?",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Потеряли что-то важное? Возможно, я сталкивался с этим!",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Искаженное существо, созданное Тилеанами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Гаворкан",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Я не знаю, как вы сюда попали, но я должен попросить вас уйти.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    }
+]

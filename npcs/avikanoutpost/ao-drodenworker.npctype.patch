@@ -1,0 +1,22 @@
+[
+    {
+        "value": "Я ошибка! Пожалуйста, сообщите мне. Бип-бип.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Обнаружен неизвестный вид. Завершение разговора.",
+        "path": "/scriptConfig/dialog/converse/droden/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Обнаружен неизвестный вид. Прерывание разговора.",
+        "path": "/scriptConfig/dialog/converse/droden/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Ошибка. Вид неизвестен. Прерывание разговора.",
+        "path": "/scriptConfig/dialog/converse/droden/default/2",
+        "op": "replace"
+    }
+]

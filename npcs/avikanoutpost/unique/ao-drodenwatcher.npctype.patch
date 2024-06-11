@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Обнаружен несанкционированный объект. Оповещение сил безопасности.",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    }
+]

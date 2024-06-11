@@ -1,0 +1,17 @@
+[
+    {
+        "value": "Подразделение легионеров <собственное имя> прибыло на дежурство. Запрашиваю разрешение на посадку на корабль.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Приходит отряд <собственное имя>. Отряд легионеров запрашивает разрешение на борт корабля.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Доступен боевой отряд Легиона Дродена. Запрашиваю разрешение на посадку на корабль.",
+        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2",
+        "op": "replace"
+    }
+]

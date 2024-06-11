@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Торговец костяным оружием",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "op": "replace"
+    },
+    {
+        "value": "  Традиционное костяное оружие.",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "op": "replace"
+    }
+]

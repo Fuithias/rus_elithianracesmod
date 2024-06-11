@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Игривое и верное существо, часто держится в качестве питомца аегийцами.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Транджи",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

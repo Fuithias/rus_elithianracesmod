@@ -1,0 +1,7 @@
+[
+    {
+        "value": "Запас топлива корабля практически не оптимизирован. Я исправлю это для вас, капитан.",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "op": "replace"
+    }
+]

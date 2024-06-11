@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Обычный солдат телеан.",
+        "path": "/description",
+        "op": "replace"
+    },
+    {
+        "value": "Телеанский солдат",
+        "path": "/shortdescription",
+        "op": "replace"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "value": "В этом году Фестивальный зал снова прекрасен!",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Добро пожаловать в Фестивальный зал, незнакомец!",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "op": "replace"
+    },
+    {
+        "value": "Привет.",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "op": "replace"
+    },
+    {
+        "value": "Привет!",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "op": "replace"
+    },
+    {
+        "value": "Счастливого фестиваля приземления!",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "op": "replace"
+    },
+    {
+        "value": "Вы уже бывали в Фестивальном зале?",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "op": "replace"
+    },
+    {
+        "value": "Вы впервые в Фестивальном зале?",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "op": "replace"
+    },
+    {
+        "value": "С праздником вас!",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "op": "replace"
+    },
+    {
+        "value": "Приветствую тебя, друг.",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "op": "replace"
+    },
+    {
+        "value": "Здесь довольно холодно, тебе не кажется?",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "op": "replace"
+    }
+]

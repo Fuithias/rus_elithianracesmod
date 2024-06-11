@@ -1,0 +1,12 @@
+[
+    {
+        "value": "Атака!",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "op": "replace"
+    },
+    {
+        "value": "Ты зашёл не туда, инопланетянин!",
+        "path": "/scriptConfig/dialog/attack/avikan/default/0",
+        "op": "replace"
+    }
+]
