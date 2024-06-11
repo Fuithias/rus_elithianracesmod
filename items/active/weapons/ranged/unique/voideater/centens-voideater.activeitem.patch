@@ -13,5 +13,10 @@
     "value": "Гравиискажающая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Gravity Well",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
