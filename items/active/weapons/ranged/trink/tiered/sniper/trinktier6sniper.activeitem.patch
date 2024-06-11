@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Прошивные гвозди",
+    "value": "Piercing Laser",
     "path": "/altAbility/name",
     "op": "replace"
   }
