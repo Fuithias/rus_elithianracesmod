@@ -8,5 +8,10 @@
     "value": "^orange;Гнев Радеи^white;",
     "path": "/shortdescription",
     "op": "replace"
+  },
+  {
+    "value": "Гнев Радейса",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
