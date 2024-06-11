@@ -13,5 +13,10 @@
     "value": "Рекурсивный лук",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Nock Power Arrow",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
