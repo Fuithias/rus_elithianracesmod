@@ -18,5 +18,10 @@
     "value": "Очередтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Laser Sight",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
