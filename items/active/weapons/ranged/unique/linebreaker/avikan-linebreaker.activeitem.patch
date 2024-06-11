@@ -18,5 +18,10 @@
     "value": "Лине-пушка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Seeker Bolts",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
