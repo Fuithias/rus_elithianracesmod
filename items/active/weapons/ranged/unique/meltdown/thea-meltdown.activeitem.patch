@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Flamethrower",
+    "value": "Огнемёт",
     "path": "/altAbility/name",
     "op": "replace"
   }
