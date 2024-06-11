@@ -18,5 +18,10 @@
     "value": "Лучевая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Flamethrower",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
