@@ -18,5 +18,10 @@
     "value": "Электрод",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Дуговая молния",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
