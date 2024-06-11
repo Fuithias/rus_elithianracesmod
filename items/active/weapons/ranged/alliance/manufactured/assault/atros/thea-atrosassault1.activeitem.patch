@@ -18,5 +18,10 @@
     "value": "Штурмовая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Фокусная очередь",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

@@ -18,5 +18,10 @@
     "value": "Длинномеч",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Теневой покров",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

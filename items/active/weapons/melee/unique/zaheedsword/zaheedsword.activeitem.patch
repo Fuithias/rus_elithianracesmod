@@ -13,5 +13,10 @@
     "value": "Длинномеч",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Варп-удар",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

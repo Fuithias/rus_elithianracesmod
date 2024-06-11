@@ -18,5 +18,10 @@
     "value": "Лайнтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Рикошетный выстрел",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

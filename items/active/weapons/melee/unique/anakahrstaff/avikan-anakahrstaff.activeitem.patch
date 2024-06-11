@@ -18,5 +18,10 @@
     "value": "Линейный посох",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Разрядка",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

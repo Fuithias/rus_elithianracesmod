@@ -18,5 +18,10 @@
     "value": "Лайнтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ионный рой",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

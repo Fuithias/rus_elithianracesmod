@@ -13,5 +13,10 @@
     "value": "Самодельное оружие",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Смена формы",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

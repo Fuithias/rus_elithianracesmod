@@ -18,5 +18,10 @@
     "value": "Ракетная установка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ракетный залп",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

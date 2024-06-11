@@ -18,5 +18,10 @@
     "value": "Электрод",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Земной проводник",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

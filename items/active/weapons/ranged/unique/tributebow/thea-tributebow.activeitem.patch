@@ -13,5 +13,10 @@
     "value": "Рекурсивный лук",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Опрокидная стрела",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

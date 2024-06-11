@@ -18,5 +18,10 @@
     "value": "Штурмовая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Умная пуля",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
