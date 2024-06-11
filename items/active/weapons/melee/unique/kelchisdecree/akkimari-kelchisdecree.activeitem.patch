@@ -13,5 +13,10 @@
     "value": "Коса",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Sky Vault",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
