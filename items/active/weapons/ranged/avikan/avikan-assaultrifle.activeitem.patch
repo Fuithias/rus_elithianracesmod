@@ -15,8 +15,8 @@
     "op": "replace"
   },
   {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
+    "value": "Focused Fire",
+    "path": "/altAbility/name",
     "op": "replace"
   }
 ]
