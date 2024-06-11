@@ -18,5 +18,10 @@
     "value": "Лайнтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ion Swarm",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
