@@ -18,5 +18,10 @@
     "value": "Ракетница",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "guidedrocket",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
