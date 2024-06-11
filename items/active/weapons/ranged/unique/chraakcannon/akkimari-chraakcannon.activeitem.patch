@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Switch Form",
+    "value": "Смена формы",
     "path": "/altAbility/name",
     "op": "replace"
   }
