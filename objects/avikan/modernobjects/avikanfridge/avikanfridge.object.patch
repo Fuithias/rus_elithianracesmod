@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Refrigerator",
+    "value": "Авикан Холодильник",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A food preservation unit, for keeping food fresh.",
+    "value": "Устройство для консервирования продуктов питания, предназначенное для сохранения продуктов питания свежими.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An alien fridge. I doubt there's any bananas inside...",
+    "value": "Инопланетный холодильник. Сомневаюсь, что внутри есть бананы...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A fridge of alien design.",
+    "value": "Холодильник инопланетного дизайна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss curiousss. What'ss insside?",
+    "value": "Флоран это любопытно. Что внутри?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appreciative. Even alien fridges run at the right temperature.",
+    "value": "Благодарен. Даже инопланетные холодильники работают при правильной температуре.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A food preservation unit... That means it's a fridge, right?",
+    "value": "Установка для консервирования продуктов... Значит, это холодильник, да?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This appears to be an alien fridge of some sort.",
+    "value": "Похоже, это какой-то инопланетный холодильник.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some odd lookin' fridge.",
+    "value": "Какой-то странный холодильник.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Avikan fridges can keep food cool, even in the midst of the desert.",
+    "value": "Холодильники Avikan сохранят еду прохладной даже посреди пустыни.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This food preservation unit will keep my food fresh, but the food will be too cold to eat immediately.",
+    "value": "Это устройство для консервирования продуктов сохранит мою еду свежей, но она будет слишком холодной, чтобы ее можно было сразу съесть.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This fridge's energy consumption is surprisingly efficient.",
+    "value": "Потребление энергии этим холодильником на удивление эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Food preservation unit detected. Food stored here will remain fresh for extended periods of time.",
+    "value": "Обнаружен блок для консервирования пищевых продуктов. Хранящиеся здесь продукты будут оставаться свежими в течение длительного периода времени.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Frdige-cold, for keeping food-fresh.",
+    "value": "Frdige-холодный, для сохранения продуктов свежими.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

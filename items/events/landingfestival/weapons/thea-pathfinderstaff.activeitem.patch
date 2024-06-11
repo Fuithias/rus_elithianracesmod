@@ -1,21 +1,21 @@
 [
   {
-    "value": "^gray;The ceremonial shepherd's crook of the Pathfinder.",
+    "value": "^gray;Церемониальный пастушеский посох Следопыта.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^gray;Landing Festival^reset;",
+    "value": "^gray;Фестиваль высадки^reset;",
     "path": "/manufacturer",
     "op": "replace"
   },
   {
-    "value": "Pathfinder's Staff",
+    "value": "Посох Следопыта",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Crook",
+    "value": "Крук",
     "path": "/category",
     "op": "replace"
   }

@@ -1,42 +1,42 @@
 [
   {
-    "value": "Trinkian Platform",
+    "value": "Тринкская платформа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A platform filled with wiring.",
+    "value": "Платформа, наполненная проводами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Interested. There are many cables running through this platform.",
+    "value": "Интересно. Через эту платформу проходят многие кабели.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Platform filled with wiress.",
+    "value": "Платформа, наполненная проводами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A platform full o' wires.",
+    "value": "Платформа, полная проводов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Cables run through the length of this platform.",
+    "value": "Анализ завершен. Кабели проходят по всей длине этой платформы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Platform filled with wires.",
+    "value": "Платформа, наполненная проводами.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

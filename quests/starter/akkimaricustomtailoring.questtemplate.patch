@@ -1,16 +1,16 @@
 [
   {
-    "value": "^green;Custom Tailoring",
+    "value": "^green;Индивидуальный пошив",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "My request for a custom Protectorate uniform has been answered, and my new uniform should be waiting for me in my locker.",
+    "value": "Моя просьба о заказной униформе Протектората была удовлетворена, и моя новая униформа должна ждать меня в моем шкафчике.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "This'll fit far better than the standard uniform. Better not lose it - it's truly one of a kind.",
+    "value": "Это будет гораздо лучше, чем стандартная униформа. Лучше не терять её - она действительно уникальна.",
     "path": "/completionText",
     "op": "replace"
   }

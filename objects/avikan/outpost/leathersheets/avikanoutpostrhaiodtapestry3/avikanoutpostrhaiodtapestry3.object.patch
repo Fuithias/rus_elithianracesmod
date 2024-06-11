@@ -1,41 +1,41 @@
 [
   {
-    "value": "Rhaiod Tapestry",
+    "value": "Гобелен Райода",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large tapestry made of a purple fabric. The markings look religious.",
+    "value": "Большой гобелен из фиолетовой ткани. Маркировка выглядит религиозной.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Purple ssheets make Floran sssick.",
+    "value": "От фиолетовых простыней Флорану тошнит.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. The markings on these tapestries look religious.",
+    "value": "Наблюдение. Надписи на этих гобеленах выглядят религиозными.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A large sheet of purple fabric. Not sure what those markings mean.",
+    "value": "Большой лист фиолетовой ткани. Непонятно, что означают эти маркировки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large Rhaiod tapestry. The Rhaiod's monolith is easily recognizable.",
+    "value": "Большой гобелен Райода. Монолит Райода легко узнать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Rhaiod-marked tapestry.",
+    "value": "Обнаружен гобелен с пометкой Райода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Aliens worship god-maker.",
+    "value": "Инопланетяне поклоняются богу-творцу.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

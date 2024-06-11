@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Light",
+    "value": "Тринкиан Лайт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A green light, of Trink design.",
+    "value": "Зеленый свет от дизайна Trink.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A green light strip.",
+    "value": "Зелёная световая полоса.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A green light.",
+    "value": "Зеленый свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Light. Ssshiny.",
+    "value": "Свет. Ссшины.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A green light.",
+    "value": "Наблюдение. Зеленый свет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A green light. How odd.",
+    "value": "Зеленый свет. Как странно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A green light. It feels unnatural.",
+    "value": "Зеленый свет. Это кажется неестественным.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A green light strip.",
+    "value": "Зелёная световая полоса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Green light. How odd.",
+    "value": "Зеленый свет. Как странно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Light.",
+    "value": "Свет.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Light. Colour: green.",
+    "value": "Свет. Цвет: зеленый.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-green.",
+    "value": "Светло-зеленый.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

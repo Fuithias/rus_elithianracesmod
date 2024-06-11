@@ -1,11 +1,11 @@
 [
   {
-    "value": "A thick metal platform. Very sturdy.",
+    "value": "Толстая металлическая платформа. Очень прочный.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thick Alliance Platform",
+    "value": "Толстая платформа альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

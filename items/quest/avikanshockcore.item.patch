@@ -1,16 +1,16 @@
 [
   {
-    "value": "A small electrical generator often found in Avikan machinery.",
+    "value": "Небольшой электрический генератор, часто встречающийся в технике Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Avikan Shock Core^white;",
+    "value": "^#BA66FF;Ударный сердечник Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

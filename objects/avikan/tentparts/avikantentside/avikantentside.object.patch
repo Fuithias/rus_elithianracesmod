@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Wall Sheet",
+    "value": "Настенный лист Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet used as a wall for Avikan tents.",
+    "value": "Кожаный лист, используемый в качестве стенки для палаток Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather sheet, used as a tent wall.",
+    "value": "Кожаный лист, используемый в качестве стенки палатки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tent wall, mad eof a simple leather sheet.",
+    "value": "Стенка палатки, сделанная из простого кожаного полотна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather makesss Floran want to huntsss.",
+    "value": "Кожа вызывает у Флорана желание охотиться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A tent wall made of leather.",
+    "value": "Наблюдение. Стенка палатки из кожи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A rather primitive tent wall, made of a sheet of leather.",
+    "value": "Довольно примитивная стенка палатки, сделанная из листа кожи.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive leather sheet used as a tent wall.",
+    "value": "Примитивный кожаный лист, используемый в качестве стенки палатки.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This leather sheet is used as a tent wall.",
+    "value": "Этот кожаный лист используется в качестве стенки палатки.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A tent wall made of a simple leather sheet. Simple, but functional.",
+    "value": "Стенка палатки из простого кожаного полотна. Простой, но функциональный.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet used as a tent wall.",
+    "value": "Кожаный лист, используемый в качестве стенки палатки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Leather sheet.",
+    "value": "Анализ. Кожаный лист.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tent-side, wall-leather.",
+    "value": "Палатка боковая, стенка-кожа.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

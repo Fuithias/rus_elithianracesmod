@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Avikan Metalworking Station^white;",
+    "value": "^orange;Металлообрабатывающая станция Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The metalworking station is used for constructing items and equipment made of metal.",
+    "value": "Станция металлообработки предназначена для изготовления изделий и оборудования из металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A high-tech metalworking station. I could craft some proper equipment here.",
+    "value": "Высокотехнологичная металлообрабатывающая станция. Я мог бы изготовить здесь подходящее оборудование.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This machine will automatically cut and weld metal to make crafting a bit easier.",
+    "value": "Эта машина автоматически режет и сваривает металл, что немного упрощает работу.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran issn't ssure what to think of big metal arm. It firess lasersss.",
+    "value": "Флоран не знает, что и думать о большой металлической руке. Он стреляет лазерами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. The laser this machine produces could easily cut off one of my arms.",
+    "value": "Осторожный. Лазер, который производит эта машина, мог бы легко отрезать мне одну руку.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A modern metalworking solution. It almost matches the Protectorate's Replicators.",
+    "value": "Современное решение для металлообработки. Он почти соответствует репликаторам Протектората.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This laser makes for a beautiful lightshow, and is useful for crafting on top of that.",
+    "value": "Этот лазер создает красивое световое шоу и, кроме того, полезен для рукоделия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A metal arm that's shootin' lasers. Better be careful 'round that thing.",
+    "value": "Металлическая рука, стреляющая лазерами. Лучше будь осторожен с этой штукой.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The technology behind this metalworking station is rather impressive.",
+    "value": "Технология, лежащая в основе этой металлообрабатывающей станции, весьма впечатляет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These machines produce the bulk of the Vanguard's armoury.",
+    "value": "Эти машины составляют основную часть арсенала «Авангарда».",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most efficient metalworking solution. That laser requires too much energy for the work it does.",
+    "value": "Не самое эффективное решение для металлообработки. Этот лазер требует слишком много энергии для своей работы.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metalworking station. Used to construct equipment and other items made of metal.",
+    "value": "Анализ завершен. Металлообрабатывающая станция. Используется для изготовления оборудования и других предметов из металла.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Machine makes things for Akki. Akki happy.",
+    "value": "Машина делает вещи для Акки. Акки счастлива.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

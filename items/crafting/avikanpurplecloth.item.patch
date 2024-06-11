@@ -1,11 +1,11 @@
 [
   {
-    "value": "Purple-coloured fabric, used to create Rhaiod-themed items.",
+    "value": "Ткань фиолетового цвета, используемая для создания предметов в стиле Райода.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rhaiod Fabric",
+    "value": "Ткань Райод",
     "path": "/shortdescription",
     "op": "replace"
   }

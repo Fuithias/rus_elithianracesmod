@@ -1,11 +1,11 @@
 [
   {
-    "value": "A high-grade weapon upgrade kit. Upgrades weapons to level 5.",
+    "value": "Полноценный комплект улучшения оружия. Улучшает оружие до 5 уровня.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Makeshift Kit L.5",
+    "value": "Временный комплект L.5",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Closet",
+    "value": "Гардероб Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large closet with a built-in wardrobe.",
+    "value": "Большой шкаф со встроенным шкафом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A closet full of clothes and other personal belongings.",
+    "value": "Шкаф, полный одежды и других личных вещей.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This closet is full of personal items.",
+    "value": "Этот шкаф полон личных вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran sshould not be touching other people's sstuff.",
+    "value": "Флорану не следует прикасаться к чужим вещам.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. What might these items tell about their owner?",
+    "value": "Заинтригован. Что эти предметы могут рассказать о своем владельце?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Someone filled this closet with all sorts of personal items.",
+    "value": "Кто-то заполнил этот шкаф всевозможными личными вещами.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large and handy closet.",
+    "value": "Большой и удобный шкаф.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A closet full of items.",
+    "value": "Шкаф, полный вещей.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This spacious closet has room for almost anything.",
+    "value": "В этом просторном шкафу поместится практически все.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Aliens collect all sorts of strange items, it seems.",
+    "value": "Кажется, инопланетяне собирают всякие странные предметы.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A wardrobe, with plenty of space for other items too.",
+    "value": "Гардероб, в котором достаточно места и для других вещей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien storage. Scanning items.",
+    "value": "Обнаружено хранилище инопланетян. Сканирование предметов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Things-many inside. Aliens store items-weird.",
+    "value": "Вещей-много внутри. Инопланетяне хранят предметы — странно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

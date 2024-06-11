@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Thrust",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

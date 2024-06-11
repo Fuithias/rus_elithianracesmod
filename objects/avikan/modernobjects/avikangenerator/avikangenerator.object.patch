@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Generator",
+    "value": "Авикан Генератор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A generator, for generating energy.",
+    "value": "Генератор, для выработки энергии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A powerful generator. Don't break the glass.",
+    "value": "Мощный генератор. Не разбейте стекло.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This generator generates enough power for an entire Avian town.",
+    "value": "Этот генератор генерирует достаточно энергии для всего птичьего города.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what glowy ssstuff isss...",
+    "value": "Флорану интересно, что это за светящаяся штука...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. This generator looks unstable.",
+    "value": "Осторожный. Этот генератор выглядит нестабильным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A powerful generator. Can it charge my phone?",
+    "value": "Мощный генератор. Может ли он зарядить мой телефон?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This power generator looks unstable.",
+    "value": "Этот генератор энергии выглядит нестабильным.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I'm oddly attracted to this beam...",
+    "value": "Меня странно привлекает этот луч...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A generator. It has to be monitored constantly to prevent explosions.",
+    "value": "Генератор. За ним необходимо постоянно следить, чтобы не допустить взрывов.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This generator provides all the energy a Terve needs.",
+    "value": "Этот генератор обеспечивает всю энергию, необходимую Терве.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A powerful generator, but not very efficient.",
+    "value": "Мощный генератор, но не очень эффективный.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Warning. Readings indicate dangerously high temperatures inside.",
+    "value": "Предупреждение. Показания указывают на опасно высокие температуры внутри.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not break glass. Akki would burn dead.",
+    "value": "Акки не разобьет стекло. Акки сгорит заживо.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

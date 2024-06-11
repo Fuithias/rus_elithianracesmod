@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Hologram",
+    "value": "Голограмма Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A hologram displaying a warning sign.",
+    "value": "Голограмма с предупреждающим знаком.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A hologram displaying useful information.",
+    "value": "Голограмма, отображающая полезную информацию.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not sure what this hologram is displaying.",
+    "value": "Я не уверен, что отображает эта голограмма.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssky-writing confusess Floran.",
+    "value": "Скай-письмо сбивает Флорана с толку.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A hologram.",
+    "value": "Наблюдение. Голограмма.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I always like holograms.",
+    "value": "Мне всегда нравились голограммы.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Holograms are an elegant replacement for physcial screens.",
+    "value": "Голограммы — элегантная замена физическим экранам.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Someone wrote some stuff in the sky.",
+    "value": "Кто-то написал что-то в небе.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This hologram is being projected by a tiny projector not far away.",
+    "value": "Эта голограмма проецируется крошечным проектором неподалеку.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien hologram. The Nomada might glean useful information from it.",
+    "value": "Инопланетная голограмма. Кочевники могли бы почерпнуть из него полезную информацию.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Holograms can be quite efficient.",
+    "value": "Голограммы могут быть весьма эффективными.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien hologram. Attempting translation.",
+    "value": "Обнаружена голограмма пришельца. Попытка перевода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hologram-alien.",
+    "value": "Голограмма-инопланетянин.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

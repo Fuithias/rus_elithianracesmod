@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Ingredients",
+    "value": "Авикан Ингредиенты",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Boxes full of Avikan food.",
+    "value": "Коробки с едой Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Three boxes filled with various types of food.",
+    "value": "Три коробки с разнообразной едой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Boxes full of alien food. I wonder how it tastes?",
+    "value": "Коробки с инопланетной едой. Интересно, как оно на вкус?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not like alien foodsss.",
+    "value": "Флоран не любит инопланетную еду.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What sort of food is this?",
+    "value": "Любопытный. Что это за еда?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Alien food. I doubt it'll taste good...",
+    "value": "Инопланетная еда. Сомневаюсь, что будет вкусно...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Food of an alien nature.",
+    "value": "Еда инопланетной природы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Alien foodstuffs. Can't remember if I tasted this before.",
+    "value": "Чужеродные продукты питания. Не могу вспомнить, пробовал ли я это раньше.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "All the ingredients need to prepare a traditional Avikan meal.",
+    "value": "Все ингредиенты нужны для приготовления традиционного авиканского блюда.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "All the ingredients needed for preparing a traditional meal.",
+    "value": "Все ингредиенты, необходимые для приготовления традиционного блюда.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Various traditional Avikan ingredients.",
+    "value": "Различные традиционные ингредиенты Авикана.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected ingredients. Combined nutritional value: sufficient.",
+    "value": "Обнаруженные ингредиенты. Общая пищевая ценность: достаточная.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Food-alien, Akki eat everything!",
+    "value": "Еда-инопланетянка, Акки ест всё!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

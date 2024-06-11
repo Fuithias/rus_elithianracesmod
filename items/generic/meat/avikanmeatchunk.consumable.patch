@@ -1,11 +1,11 @@
 [
   {
-    "value": "A large chunk of barely cooked alien meat. An Avikan favourite.",
+    "value": "Большой кусок едва приготовленного инопланетного мяса. Любимец Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Meat Chunk",
+    "value": "кусок мяса",
     "path": "/shortdescription",
     "op": "replace"
   }

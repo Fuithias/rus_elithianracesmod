@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised pair of Avikan legs.",
+    "value": "Окаменевшая пара ног Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Legs",
+    "value": "Авикан Ноги",
     "path": "/shortdescription",
     "op": "replace"
   }

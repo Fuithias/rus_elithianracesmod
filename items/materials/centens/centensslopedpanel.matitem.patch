@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sloped panel built with a lightweight but incredibly strong metal.",
+    "value": "Наклонная панель, изготовленная из легкого, но невероятно прочного металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Sloped Panel",
+    "value": "Centensian наклонная панель",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A token of merit, to show your worth amongst the Avikan.",
+    "value": "Знак заслуг, чтобы показать свою ценность среди Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#0094FF;Token of Merit^white;",
+    "value": "^#0094FF;Знак заслуг^white;",
     "path": "/shortdescription",
     "op": "replace"
   }

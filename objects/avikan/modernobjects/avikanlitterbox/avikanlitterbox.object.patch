@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Litter Box",
+    "value": "Ящик для мусора Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A litter box, for relieving yourself.",
+    "value": "Ящик для мусора, чтобы облегчить себя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Is that a litter box?",
+    "value": "Это мусорный ящик?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A litter box. The small beads in it look sort of like seeds...",
+    "value": "Мусорный ящик. Маленькие бусинки в нем похожи на семена...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Poop boxesss.",
+    "value": "Коробочки для какашек.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Disgusted. A litter box.",
+    "value": "Отвращение. Мусорный ящик.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's a litter box. What the?",
+    "value": "Это ящик для мусора. Что за?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This seems to be a litter box. How uncivilized.",
+    "value": "Кажется, это мусорный ящик. Как нецивилизованно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A box for poopin'.",
+    "value": "Ящик для какашек.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan don't have toilets. They have these litter boxes instead.",
+    "value": "В Авикане нет туалетов. Вместо этого у них есть туалетные лотки.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A place to relieve yourself. I don't get why aliens fuss over it so much.",
+    "value": "Место, где можно расслабиться. Я не понимаю, почему инопланетяне так суетятся по этому поводу.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A litter box. A simple but effective alternative to the toilet.",
+    "value": "Мусорный ящик. Простая, но эффективная альтернатива унитазу.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Avikan droppings. Recommend cleaning.",
+    "value": "Обнаружен помет Авикана. Рекомендую почистить.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Toilet-alien, full of poop.",
+    "value": "Туалет-инопланетянин, полный какашек.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

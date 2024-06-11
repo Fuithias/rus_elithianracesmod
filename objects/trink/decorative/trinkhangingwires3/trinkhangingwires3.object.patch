@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Hanging Wires",
+    "value": "Тринкиан Подвесные провода",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bunch of loose-hanging wires.",
+    "value": "Куча болтающихся проводов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Just some loose-hanging wires",
+    "value": "Просто несколько свободно свисающих проводов",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bunch of wires. Looks messy.",
+    "value": "Куча проводов. Выглядит грязно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not touch wiresss. Floran ssmart.",
+    "value": "Флоран не трогай провода. Флоран умён.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Loose-hanging electrical wires.",
+    "value": "Наблюдение. Свободно свисающие электрические провода.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Better not get too close to those wires. I don't want to get zapped.",
+    "value": "Лучше не подходить слишком близко к этим проводам. Я не хочу, чтобы меня избили.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A messy bunch of wires.",
+    "value": "Беспорядочная куча проводов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just a bunch 'a wires.",
+    "value": "Просто куча проводов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Loose-hanging wires. Someone should fix them.",
+    "value": "Свободно свисающие провода. Кто-то должен их исправить.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Vanguard might want me to sabotage these wires.",
+    "value": "Авангард может захотеть, чтобы я повредил эти провода.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I should tidy up these wires. Having them hang around isn't very efficient.",
+    "value": "Мне нужно привести в порядок эти провода. Держать их рядом не очень эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Detected alien wiring. Recommend sabotage.",
+    "value": "Анализ завершен. Обнаружена чужая проводка. Рекомендую диверсию.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki no touch the wires.",
+    "value": "Акки, не трогай провода.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

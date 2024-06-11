@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akkimari Skull",
+    "value": "Аккимари Череп",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The skull of a deceased Akkimari.",
+    "value": "Череп умершего Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The skull of some alien creature.",
+    "value": "Череп какого-то инопланетного существа.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I hope this person died well...",
+    "value": "Надеюсь, этот человек умер хорошо...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran make musssic with sskullsss.",
+    "value": "Флоран делает музыку с-с-с-с-с-с-с-с-с-с.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appalled. Who would keep such a skull?",
+    "value": "Потрясен. Кто будет хранить такой череп?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I doubt this alien died well...",
+    "value": "Сомневаюсь, что этот инопланетянин умер хорошо...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The skull of a deceased alien. I feel sorry for them.",
+    "value": "Череп умершего инопланетянина. Мне их жаль.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a skull alright, and a strange one at that.",
+    "value": "Да, это череп, и притом странный.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The skull of an Akkimari. It's a sad sight...",
+    "value": "Череп Аккимари. Это печальное зрелище...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien skull. I'm not sure if I recognize the species.",
+    "value": "Череп пришельца. Я не уверен, узнаю ли я этот вид.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The skull of a deceased Akkimari.",
+    "value": "Череп умершего Аккимари.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning alien bone. Analysis: Akkimari skull. Unable to determine time of death.",
+    "value": "Сканирование костей пришельцев. Анализ: череп Аккимари. Невозможно определить время смерти.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Skull of Akkimari-dead.",
+    "value": "Череп Аккимари-мертвого.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

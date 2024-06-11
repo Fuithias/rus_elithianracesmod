@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Ship Turret",
+    "value": "Корабельная турель «Авикан»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A turret usually found on Avikan ships.",
+    "value": "Турель, обычно встречающаяся на кораблях Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A turret. It looks powerful.",
+    "value": "Турель. Это выглядит мощно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small turret, likely used on spaceships.",
+    "value": "Небольшая турель, вероятно, используемая на космических кораблях.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran iss not scared of turretsss.",
+    "value": "Флоран не боится турелей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A turret.",
+    "value": "Наблюдение. Турель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A turret. Better not stand in front of it...",
+    "value": "Турель. Лучше не стоять перед ним...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A turret. It is sad that all life appears to be moved towards war.",
+    "value": "Турель. Печально, что вся жизнь, похоже, движется к войне.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda turret.",
+    "value": "Какая-то турель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan ship's turret. It packs quite a punch.",
+    "value": "Башня корабля Авикан. Это впечатляет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This turret should keep the ship safe.",
+    "value": "Эта турель должна обеспечивать безопасность корабля.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not very efficient, but this Avikan turret is quite effective.",
+    "value": "Не очень эффективно, но эта турель Авикан вполне эффективна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard-issue ship turret.",
+    "value": "Обнаружена турель корабля «Авангард».",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Turret-large. Tear through ships.",
+    "value": "Турель-большая. Прорывайтесь сквозь корабли.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

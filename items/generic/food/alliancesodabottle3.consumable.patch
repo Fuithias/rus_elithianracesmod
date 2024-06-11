@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bottle of Corus, brown and bubbly.",
+    "value": "Бутылка Corus, коричневого и игристого.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Corus Bottle",
+    "value": "Бутылка Коруса",
     "path": "/shortdescription",
     "op": "replace"
   }

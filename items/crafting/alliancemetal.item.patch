@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong, lightweight iron alloy.",
+    "value": "Прочный и легкий сплав железа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Allosteel",
+    "value": "Аллостил",
     "path": "/shortdescription",
     "op": "replace"
   }

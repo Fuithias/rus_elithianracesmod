@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Scroll Cabinet",
+    "value": "Шкаф для свитков Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet for storing your scrolls.",
+    "value": "Шкаф для хранения ваших свитков.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bone cabinet, apparently for storing large scrolls.",
+    "value": "Костяной шкаф, видимо, для хранения больших свитков.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive storage cabinet.",
+    "value": "Примитивный шкаф для хранения вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bone cabinet for sscrolsss.",
+    "value": "Костяной шкаф для sscrollsss.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A cabinet made of bone. Seemingly for storing scrolls.",
+    "value": "Наблюдение. Шкаф из кости. Видимо, для хранения свитков.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's a storage cabinet made of... bone?",
+    "value": "Это шкаф из... кости?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A crude cabinet made of bone. How many beings had to die for this?",
+    "value": "Грубый шкаф из кости. Сколько существ пришлось умереть ради этого?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a simple cabinet made o' bone.",
+    "value": "Это простой шкаф из кости.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A bone cabinet. The Avikan use these to store scrolls.",
+    "value": "Костяной шкаф. Авиканцы используют их для хранения свитков.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A storage cabinet, for large scrolls.",
+    "value": "Шкаф для хранения больших свитков.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple place for storing scrolls.",
+    "value": "Простое место для хранения свитков.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Storage cabinet. Detected several scrolls.",
+    "value": "Шкаф для хранения. Обнаружено несколько свитков.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cabinet-bone for scrolls. Akki no like to read.",
+    "value": "Шкаф-кость для свитков. Акки не люблю читать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Akkimari skull.",
+    "value": "Окаменелый череп Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akkimari Skull",
+    "value": "Аккимари Череп",
     "path": "/shortdescription",
     "op": "replace"
   }

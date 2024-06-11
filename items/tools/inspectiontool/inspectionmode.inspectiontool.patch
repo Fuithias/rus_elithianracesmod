@@ -1,41 +1,41 @@
 [
   {
-    "value": "Unit optics are unable to detect.",
+    "value": "Оптика блока не способна обнаружить.",
     "path": "/outOfRangeText/droden/0",
     "op": "replace"
   },
   {
-    "value": "Unit optics magnification is insufficient. Unit must reduce distance to target.",
+    "value": "Увеличение оптики блока недостаточное. Юнит должен сократить расстояние до цели.",
     "path": "/outOfRangeText/droden/1",
     "op": "replace"
   },
   {
-    "value": "Optic magnificaton insufficient. Distance reduction required.",
+    "value": "Оптическое увеличение недостаточное. Требуется сокращение расстояния.",
     "path": "/outOfRangeText/droden/2",
     "op": "replace"
   },
   {
-    "value": "Error. Target is too far away.",
+    "value": "Ошибка. Цель находится слишком далеко.",
     "path": "/outOfRangeText/droden/3",
     "op": "replace"
   },
   {
-    "value": "Error. Invalid target.",
+    "value": "Ошибка. Неверная цель.",
     "path": "/nothingThereText/droden/0",
     "op": "replace"
   },
   {
-    "value": "Error. No item of interest.",
+    "value": "Ошибка. Нет предмета интереса.",
     "path": "/nothingThereText/droden/1",
     "op": "replace"
   },
   {
-    "value": "Unable to read target.",
+    "value": "Невозможно прочитать цель.",
     "path": "/nothingThereText/droden/2",
     "op": "replace"
   },
   {
-    "value": "Error. Empty.",
+    "value": "Ошибка. Пустой.",
     "path": "/nothingThereText/droden/3",
     "op": "replace"
   }

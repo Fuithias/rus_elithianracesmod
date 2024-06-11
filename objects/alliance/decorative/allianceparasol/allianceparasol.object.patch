@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Parasol",
+    "value": "Альянс Зонтик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A colourful parasol.",
+    "value": "Красочный зонтик.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Simply a parasol.",
+    "value": "Просто зонтик.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A parasol.",
+    "value": "Зонтик.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Parasssol.",
+    "value": "Парасссоль.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. This parasol will provide some cool shade.",
+    "value": "С облегчением. Этот зонтик создаст прохладную тень.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's a parasol alright.",
+    "value": "Это зонтик, хорошо.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A parasol. It can provide some much-needed comfort on a hot, sunny day.",
+    "value": "Зонтик. Он может обеспечить столь необходимый комфорт в жаркий солнечный день.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Provides a bit o' shade.",
+    "value": "Дает немного тени.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A nice and simple parasol.",
+    "value": "Красивый и простой зонтик.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien sun sheet.",
+    "value": "Инопланетный солнечный лист.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A parasol. A simple but effective way to create some shade.",
+    "value": "Зонтик. Простой, но эффективный способ создать тень.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien sun sheet.",
+    "value": "Обнаружен инопланетный солнечный лист.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Shelter from sun-burning.",
+    "value": "Укрытие от солнечных ожогов.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

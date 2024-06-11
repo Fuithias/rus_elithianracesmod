@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Blast Door",
+    "value": "Акрис Взрывная Дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A blast door made of selected scrap metal.",
+    "value": "Взрывобезопасная дверь из отборного металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A blast door. It looks shoddy, yet sturdy.",
+    "value": "Взрывная дверь. Выглядит хлипко, но прочно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy blast door. Looks poorly made.",
+    "value": "Тяжелая взрывоопасная дверь. Выглядит плохо сделанным.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Why is this blast door covered in plates of scrap metal?",
+    "value": "Любопытный. Почему эта взрывоопасная дверь покрыта пластинами металлолома?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A scrap metal blast door. I'm surprised by how sturdy it is.",
+    "value": "Взрывная дверь из металлолома. Я удивлен тем, насколько он прочный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A crude blast door.",
+    "value": "Грубая взрывоопасная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda blast door made of scrap. Right...",
+    "value": "Какая-то взрывозащитная дверь, сделанная из металлолома. Верно...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari-made blast door. Surprisingly effective.",
+    "value": "Взрывобезопасная дверь производства Аккимари. Удивительно эффективно.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "It looks like a blast door covered in scrap.",
+    "value": "Похоже на взрывоопасную дверь, покрытую металлоломом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This door is unusually efficient for Akkimari standards.",
+    "value": "Эта дверь необычайно эффективна по стандартам Аккимари.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Blast door detected.",
+    "value": "Обнаружена взрывоопасная дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-thick, keeps Akkimari safe.",
+    "value": "Дверь толстая, обеспечивает безопасность Аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

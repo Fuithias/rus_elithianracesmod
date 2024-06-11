@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Stand",
+    "value": "Стенд Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal stand, built to hold something important.",
+    "value": "Металлическая подставка, предназначенная для хранения чего-то важного.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ametal stand, build to hold something important.",
+    "value": "Металлическая подставка, предназначенная для хранения чего-то важного.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like it is made to hold something important.",
+    "value": "Похоже, он создан для хранения чего-то важного.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sstand for important itemsss.",
+    "value": "Сстен для важных предметов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. This looks like it was made to hold something of great value.",
+    "value": "Заявление. Похоже, он был создан для того, чтобы хранить в себе что-то очень ценное.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A stand, to hold something of great value.",
+    "value": "Стенд, на котором можно хранить что-то очень ценное.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This stand was built to prominently display a valuable item.",
+    "value": "Этот стенд был построен для демонстрации ценного предмета на видном месте.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A metal stand, built to hold some valuable item.",
+    "value": "Металлическая подставка, предназначенная для хранения ценных предметов.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These stands are generally used to display Centensian artefacts, or other valuable items.",
+    "value": "Эти стенды обычно используются для демонстрации центенских артефактов или других ценных предметов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan-built stand. It is generally used to display some important item.",
+    "value": "Стенд компании Avikan. Обычно он используется для отображения какого-либо важного элемента.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected stand. Purpose: to display a Centensian artefact.",
+    "value": "Обнаружен стенд. Цель: показать центенский артефакт.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Stand-metal.",
+    "value": "Подставка-металл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

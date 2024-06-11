@@ -1,6 +1,6 @@
 [
   {
-    "value": "Elemental assault rifle ammunition that slows down targets.",
+    "value": "Стихийные боеприпасы для штурмовой винтовки, замедляющие цель.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Ice Ammo",
+    "value": "Ледяные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

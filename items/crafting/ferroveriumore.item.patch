@@ -1,11 +1,11 @@
 [
   {
-    "value": "An iron deposit fused with an otherwordly material.",
+    "value": "Месторождение железа, слитое с потусторонним материалом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ferroverium Ore",
+    "value": "Ферровериевая руда",
     "path": "/shortdescription",
     "op": "replace"
   }

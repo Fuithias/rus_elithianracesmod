@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Point Teleporter",
+    "value": "Телепорт Centensian Point",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A point-to-point teleporter. It can be linked to background doors.",
+    "value": "Телепорт «точка-точка». Его можно связать с фоновыми дверями.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss where gate goesss...",
+    "value": "Флорану интересно, куда ведут ворота...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. I wonder where this gate leads...",
+    "value": "Любопытный. Интересно, куда ведут эти ворота...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this gate leads...",
+    "value": "Интересно, куда ведут эти ворота...",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning failed. Unable to determine where this gate leads.",
+    "value": "Сканирование не удалось. Невозможно определить, куда ведут эти ворота.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki curious where gate leads...",
+    "value": "Акки любопытно, куда ведут ворота...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

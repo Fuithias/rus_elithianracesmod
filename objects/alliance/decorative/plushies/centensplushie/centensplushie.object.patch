@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centens Plushie",
+    "value": "Центены Плюшевые",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A toy Centens made of soft fabrics.",
+    "value": "Игрушка Центенс из мягкой ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A stuffed toy.",
+    "value": "Мягкая игрушка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This stuffed toy looks a bit weird.",
+    "value": "Эта мягкая игрушка выглядит немного странно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss thiss one cute.",
+    "value": "Флорану это кажется милым.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amused. This plushie is rather odd.",
+    "value": "Изумленный. Этот плюш довольно странный.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A plushie of some strange alien. How cute!",
+    "value": "Плюшевый какой-то странный инопланетянин. Как мило!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A stuffed toy.",
+    "value": "Мягкая игрушка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda plushie.",
+    "value": "Какая-то плюшевая штука.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A plushie Centens. I've always admired ancient civilizations.",
+    "value": "Плюшевые центы. Я всегда восхищался древними цивилизациями.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Is that an... Old One?",
+    "value": "Это... Старик?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A stuffed Centens, a toy for children.",
+    "value": "Мягкая центенша, игрушка для детей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien toy. Representation of Old One detected.",
+    "value": "Обнаружена инопланетная игрушка. Обнаружено изображение Старого.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Toy-alien. Is that god-maker?",
+    "value": "Игрушка-инопланетянин. Это боготворец?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

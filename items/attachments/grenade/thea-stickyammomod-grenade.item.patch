@@ -1,6 +1,6 @@
 [
   {
-    "value": "Grenade launcher ammunition that sticks to surfaces, exploding on proximity.",
+    "value": "Боеприпасы для гранатомета, прилипающие к поверхности и взрывающиеся при приближении.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Sticky Ammo",
+    "value": "Липкие боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

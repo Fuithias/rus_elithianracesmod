@@ -1,11 +1,11 @@
 [
   {
-    "value": "A Kelbet's fur, an illegal luxury in most Union territories.",
+    "value": "Мех кельбета — незаконная роскошь на большинстве территорий Союза.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kelbet Hide",
+    "value": "Келбет Хид",
     "path": "/shortdescription",
     "op": "replace"
   }

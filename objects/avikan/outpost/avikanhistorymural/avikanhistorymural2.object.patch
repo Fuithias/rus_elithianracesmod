@@ -1,41 +1,41 @@
 [
   {
-    "value": "Avikan History Mural",
+    "value": "Фреска истории Авикана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Part of a massive mural showing the history of the Avikan people.",
+    "value": "Часть огромной фрески, изображающей историю народа Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Mural sshowsss hisstory of alienss.",
+    "value": "Фреска показывает историю инопланетян.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. It would appear that this mural describes historic events.",
+    "value": "Очарованный. Судя по всему, эта фреска описывает исторические события.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon this mural shows historic events, but I don't recognize any of it.",
+    "value": "Я думаю, что на этой фреске изображены исторические события, но я ничего из них не узнаю.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This part depicts the first group of Avikan to discover Vas Vha'leih.",
+    "value": "В этой части изображена первая группа Авикан, открывшая Вас Валейха.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Mural detected. Analysis: depiction of the discovery of Vas Vha'leih.",
+    "value": "Обнаружена фреска. Анализ: описание открытия Вас Валейха.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Mural-big. Tell a story, but Akki no care.",
+    "value": "Мурал-большой. Расскажи историю, но Акки плевать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

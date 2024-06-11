@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Antenna",
+    "value": "Акрис Антенна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An antenna array.",
+    "value": "Антенная решетка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A strange antenna built by some alien.",
+    "value": "Странная антенна, построенная каким-то инопланетянином.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien antenna. It makes me feel somewhat uncomfortable...",
+    "value": "Инопланетная антенна. Мне становится как-то не по себе...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big antenna. Floran make big ssspear from it?",
+    "value": "Большая антенна. Флоран заработает на этом большое копье?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Uneasy. This antenna emits a strange energy field.",
+    "value": "Непросто. Эта антенна излучает странное энергетическое поле.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Something about this antenna makes me feel uneasy.",
+    "value": "Что-то в этой антенне меня беспокоит.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy antenna, though it looks like it was made from scrap metal.",
+    "value": "Крепкая антенна, хотя выглядит так, будто сделана из металлолома.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda weird-lookin' antenna.",
+    "value": "Какая-то странная антенна.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Akkimari build powerful antennae from scrap metal. They are quite ingenious.",
+    "value": "Аккимари строят мощные антенны из металлолома. Они весьма изобретательны.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This antenna looks a bit like our own.",
+    "value": "Эта антенна немного похожа на нашу.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "My systems are encountering interference from this antenna. I shouldn't stay here for too long.",
+    "value": "Мои системы сталкиваются с помехами от этой антенны. Я не должен оставаться здесь слишком долго.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Receiving alien radio signal. Analyzing failed.",
+    "value": "Прием инопланетного радиосигнала. Анализ не удался.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Antenna sends messages to Akris, to home. Akkimari will claim Kel'chis bounty.",
+    "value": "Антенна отправляет сообщения Акрису домой. Аккимари потребует награду за Кельчиса.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

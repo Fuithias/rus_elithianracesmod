@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Rail Fabricator^white;",
+    "value": "^orange;Изготовитель рельсов^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An advanced metal printer for crafting rails and rail components.",
+    "value": "Современный принтер по металлу для изготовления рельсов и их компонентов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I can use this station to construct rails for easy transport.",
+    "value": "Я могу использовать эту станцию, чтобы построить рельсы для удобной транспортировки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This table will allow me to build rails which I can travel on.",
+    "value": "Этот стол позволит мне построить рельсы, по которым я смогу путешествовать.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Thiss table makes shiny rails for quick travel.",
+    "value": "Этот стол делает блестящие рельсы для быстрого перемещения.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Delighted. The rails crafted here will make movement much more efficient.",
+    "value": "Получивший удовольствие. Созданные здесь рельсы сделают передвижение намного эффективнее.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I can craft rails here! Perfect for getting around. And around, and around.",
+    "value": "Я могу мастерить рельсы здесь! Идеально подходит для передвижения. И вокруг, и вокруг.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The rails I can construct here may be primitive, but their efficiency can't be questioned.",
+    "value": "Рельсы, которые я могу построить здесь, возможно, примитивны, но их эффективность не подлежит сомнению.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Ridin' the rails - still works as good as it ever did for gettin' around.",
+    "value": "Езда по рельсам - по-прежнему работает так же хорошо, как и когда-либо, для передвижения.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This device can craft various types of transportation rails.",
+    "value": "Это устройство может создавать различные типы транспортных рельсов.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien device for crafting rails.",
+    "value": "Инопланетное устройство для крафта рельсов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An inefficient rail forging station.",
+    "value": "Неэффективная железнодорожно-ковочная станция.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Rail forging station. Used to construct rails and rail vehicles.",
+    "value": "Анализ завершен. Станция ковки рельсов. Используется для изготовления рельсов и железнодорожных транспортных средств.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki craft rails here.",
+    "value": "Рельсы Akki Craft здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "An elemental arrow that poisons and weakens targets.",
+    "value": "Стихийная стрела, отравляющая и ослабляющая цель.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Poison Arrow",
+    "value": "Ядовитая стрела",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Arrow Mod",
+    "value": "Стрела Мод",
     "path": "/category",
     "op": "replace"
   }

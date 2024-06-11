@@ -1,36 +1,36 @@
 [
   {
-    "value": "Double Alliance Panel",
+    "value": "Двойная панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Multi-layered metal panels.",
+    "value": "Многослойные металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. These metal panels consist of several individual layers.",
+    "value": "Заявление. Эти металлические панели состоят из нескольких отдельных слоев.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal wallsss are made of many planksss.",
+    "value": "Металлические стены сделаны из многих планок.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A metal wall made of multiple sheets.",
+    "value": "Металлическая стена из нескольких листов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Layered metal panels.",
+    "value": "Анализ завершен. Многослойные металлические панели.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panels-layered, make for insulation-good.",
+    "value": "Панели-многослойные, хорошая изоляция.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

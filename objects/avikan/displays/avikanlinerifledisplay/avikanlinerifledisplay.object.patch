@@ -1,66 +1,66 @@
 [
   {
-    "value": "Vanguard Linerifle Display",
+    "value": "Выставка линейных винтовок Vanguard",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan linerifle on display.",
+    "value": "На выставке представлена ​​линейная винтовка Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An unusual alien weapon. I'm not sure how it even works...",
+    "value": "Необычное инопланетное оружие. Я даже не уверен, как это работает...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This weapon is powered by a mysterious weapon core.",
+    "value": "Это оружие приводится в действие таинственным оружейным ядром.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not undersstand how thiss weapon worksss...",
+    "value": "Флоран не понимает, как работает это оружие...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Error. I have no information on how this weapon's firing mechanism works.",
+    "value": "Ошибка. У меня нет информации о том, как работает ударно-спусковой механизм этого оружия.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This weapon glows, and it radiates some odd energy fields...",
+    "value": "Это оружие светится и излучает странные энергетические поля...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This weapon is a mystery to me.",
+    "value": "Это оружие для меня загадка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan use Centensian technology for their weapons. Impressive.",
+    "value": "Авиканцы используют центенскую технологию для своего оружия. Впечатляющий.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Linerifles are the signature weapons of our grand Nomada.",
+    "value": "Линейные винтовки — фирменное оружие нашего великого Кочевника.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The core of this weapon works in ways not even I can understand.",
+    "value": "Ядро этого оружия работает способами, которые даже я не могу понять.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Line rifle.",
+    "value": "Анализ. Линейная винтовка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Rifle-strange. Look like driftrifle?",
+    "value": "Винтовка-странная. Похоже на дрифт-винтовку?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

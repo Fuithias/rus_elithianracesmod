@@ -1,11 +1,11 @@
 [
   {
-    "value": "Vanguard Drahlid Figurine",
+    "value": "Фигурка Авангарда Дралида",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A small drone sent out by Avikan soldiers to scout the area ahead.\"",
+    "value": "На этикетке написано: «Небольшой дрон, посланный солдатами Авикана для разведки местности впереди».",
     "path": "/description",
     "op": "replace"
   }

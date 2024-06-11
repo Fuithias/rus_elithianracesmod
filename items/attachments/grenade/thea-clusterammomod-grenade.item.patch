@@ -1,6 +1,6 @@
 [
   {
-    "value": "Grenade launcher ammunition that releases small cluster grenades on detonation.",
+    "value": "Боеприпасы для гранатомета, при детонации выпускающие небольшие кассетные гранаты.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Cluster Ammo",
+    "value": "Кластерные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

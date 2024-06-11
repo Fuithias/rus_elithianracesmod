@@ -1,1051 +1,1051 @@
 [
   {
-    "value": "Target reacquired!",
+    "value": "Цель захвачена!",
     "path": "/reattack/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "You're not getting away this time!",
+    "value": "На этот раз тебе не уйти!",
     "path": "/reattack/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis will stop you this time!",
+    "value": "На этот раз Радейс остановит вас!",
     "path": "/reattack/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "The hunt goes on.",
+    "value": "Охота продолжается.",
     "path": "/reattack/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "You made a mistake returning here.",
+    "value": "Вы совершили ошибку, вернувшись сюда.",
     "path": "/reattack/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Invaders, eliminate them!",
+    "value": "Захватчики, уничтожьте их!",
     "path": "/attack/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "They're after the artefacts, get them!",
+    "value": "Им нужны артефакты, взять их!",
     "path": "/attack/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Prepare to meet your maker!",
+    "value": "Приготовьтесь встретить своего создателя!",
     "path": "/attack/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "This ends now!",
+    "value": "Это кончится сейчас!",
     "path": "/attack/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Your head will make a fine trophy!",
+    "value": "Ваша голова станет прекрасным трофеем!",
     "path": "/attack/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "And so the hunt ends.",
+    "value": "И вот охота заканчивается.",
     "path": "/killedTarget/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Rhadeis favours us today!",
+    "value": "Радейс благоволит нам сегодня!",
     "path": "/killedTarget/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Another battle won.",
+    "value": "Еще одна выигранная битва.",
     "path": "/killedTarget/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Target eliminated!",
+    "value": "Цель устранена!",
     "path": "/killedTarget/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Threat eliminated.",
+    "value": "Угроза устранена.",
     "path": "/killedTarget/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Target escaped...",
+    "value": "Цель сбежала...",
     "path": "/lostTarget/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'll get you next time.",
+    "value": "В следующий раз я тебя достану.",
     "path": "/lostTarget/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis will bring you justice, one way or another.",
+    "value": "Радейс вернет тебе по справедливости, так или иначе.",
     "path": "/lostTarget/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "This isn't over yet.",
+    "value": "Это еще не конец.",
     "path": "/lostTarget/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "The hunt ends. For now...",
+    "value": "Охота заканчивается. Пока что...",
     "path": "/lostTarget/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "I lost the target!",
+    "value": "Я потерял цель!",
     "path": "/outOfSight/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Where did it go?",
+    "value": "Куда он делся?",
     "path": "/outOfSight/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis will find you again.",
+    "value": "Рейдис снова найдет вас.",
     "path": "/outOfSight/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Does anyone have an eye on the target?",
+    "value": "Кто-нибудь следит за целью?",
     "path": "/outOfSight/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "They're elusive...",
+    "value": "Они неуловимы...",
     "path": "/outOfSight/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Get back here, coward!",
+    "value": "Вернись, трус!",
     "path": "/cantReach/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Vathra! I can't get over there!",
+    "value": "Ватра! Я не могу туда попасть!",
     "path": "/cantReach/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis will guide me to you.",
+    "value": "Радейс приведет меня к вам.",
     "path": "/cantReach/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Can anyone reach the target?",
+    "value": "Сможет ли кто-нибудь достичь цели?",
     "path": "/cantReach/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "I can't reach the target!",
+    "value": "Я не могу достичь цели!",
     "path": "/cantReach/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Get them!",
+    "value": "Взять их!",
     "path": "/cheerOn/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "We're almost there!",
+    "value": "Мы почти у цели!",
     "path": "/cheerOn/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Fight! We can't lose them now!",
+    "value": "Сражайтесь! Мы не можем потерять их сейчас!",
     "path": "/cheerOn/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Rhadeis, strike them down!",
+    "value": "Рейдис, уничтожь их!",
     "path": "/cheerOn/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Your head will be mine!",
+    "value": "Твоя голова будет моей!",
     "path": "/cheerOn/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Target reacquired!",
+    "value": "Цель захвачена!",
     "path": "/reattack/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "The target has been reacquired!",
+    "value": "Цель снова захвачена!",
     "path": "/reattack/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Your return was a mistake.",
+    "value": "Ваше возвращение было ошибкой.",
     "path": "/reattack/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "You'll not escape again!",
+    "value": "Вам больше не удастся сбежать!",
     "path": "/reattack/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "The Circuit shall hunt you down!",
+    "value": "Схема будет охотиться за вами!",
     "path": "/reattack/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Eliminate the invaders!",
+    "value": "Уничтожьте захватчиков!",
     "path": "/attack/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Hostile detected!",
+    "value": "Обнаружен враг!",
     "path": "/attack/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "The Circuit shall hunt you down!",
+    "value": "Схема будет охотиться за вами!",
     "path": "/attack/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "You've come to your journey's end!",
+    "value": "Ваше путешествие подошло к концу!",
     "path": "/attack/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "Elimination protocol initiated!",
+    "value": "Протокол ликвидации запущен!",
     "path": "/attack/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Threat levels have returned to normal.",
+    "value": "Уровень угрозы вернулся к норме.",
     "path": "/killedTarget/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "The Circuit is victorious.",
+    "value": "Схема победоносна.",
     "path": "/killedTarget/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Efficiency wins it every time.",
+    "value": "Эффективность всегда побеждает.",
     "path": "/killedTarget/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Target eliminated.",
+    "value": "Цель устранена.",
     "path": "/killedTarget/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "Exiting combat stance.",
+    "value": "Выход из боевой стойки.",
     "path": "/killedTarget/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Target escaped.",
+    "value": "Цель сбежала.",
     "path": "/lostTarget/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "The target has left the area.",
+    "value": "Цель покинула зону.",
     "path": "/lostTarget/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Combat situation resolved. The target was lost.",
+    "value": "Боевой эпизод завершен. Цель потеряна.",
     "path": "/lostTarget/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Error. Target not found.",
+    "value": "Ошибка. Цель не найдена.",
     "path": "/lostTarget/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "The hostile got away.",
+    "value": "Враг сбежал.",
     "path": "/lostTarget/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "I lost sight of the target!",
+    "value": "Я потерял цель из виду!",
     "path": "/outOfSight/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Error. Target out of sight.",
+    "value": "Ошибка. Цель вне поля зрения.",
     "path": "/outOfSight/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "The Circuit shall find you again..",
+    "value": "Контур найдет тебя снова...",
     "path": "/outOfSight/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "My scans fail to reveal the target.",
+    "value": "Мои сканеры не обнаружили цель.",
     "path": "/outOfSight/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "The target is elusive.",
+    "value": "Цель ускользает.",
     "path": "/outOfSight/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Unable to reach the target!",
+    "value": "Не могу достичь цель!",
     "path": "/cantReach/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am unable to reach the target!",
+    "value": "Не могу достичь цель!",
     "path": "/cantReach/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "The hostile is beyond my reach.",
+    "value": "Враг вне досягаемости.",
     "path": "/cantReach/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Do not let them get away!",
+    "value": "Не дайте им уйти!",
     "path": "/cantReach/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "I can't reach the target!",
+    "value": "Я не могу достичь цель!",
     "path": "/cantReach/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "The target will be eliminated shortly.",
+    "value": "Цель будет скоро устранена.",
     "path": "/cheerOn/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "The Circuit shall be victorious.",
+    "value": "Контур будет победителем.",
     "path": "/cheerOn/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "The target shall fall soon!",
+    "value": "Цель скоро падет!",
     "path": "/cheerOn/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Get them!",
+    "value": "Держите их!",
     "path": "/cheerOn/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "You're done for!",
+    "value": "Тебе конец!",
     "path": "/cheerOn/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Target reacquired.",
+    "value": "Цель восстановлена.",
     "path": "/reattack/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Located target. Commencing assault.",
+    "value": "Цель обнаружена. Начинаю атаку.",
     "path": "/reattack/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Assuming battle position.",
+    "value": "Принимаю боевую позицию.",
     "path": "/reattack/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Preparing for elimination of target.",
+    "value": "Подготовка к устранению цели.",
     "path": "/reattack/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Target acquired. Battle modules loaded.",
+    "value": "Цель обнаружена. Боевые модули загружены.",
     "path": "/reattack/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Acquired combat target.",
+    "value": "Цель для боя обнаружена.",
     "path": "/attack/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Battle modules initiated. Commencing assault.",
+    "value": "Боевые модули активированы. Начинаю атаку.",
     "path": "/attack/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Elimination of target in progress.",
+    "value": "Процесс устранения цели.",
     "path": "/attack/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Target acquired. Eliminating.",
+    "value": "Цель обнаружена. Устраняю.",
     "path": "/attack/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Commencing battle.",
+    "value": "Начинаю бой.",
     "path": "/attack/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Target eliminated.",
+    "value": "Цель устранена.",
     "path": "/killedTarget/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Battle concluded.",
+    "value": "Бой завершен.",
     "path": "/killedTarget/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Unloading battle modules.",
+    "value": "Выключение боевых модулей.",
     "path": "/killedTarget/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Victory achieved.",
+    "value": "Победа достигнута.",
     "path": "/killedTarget/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Elimination complete.",
+    "value": "Устранение завершено.",
     "path": "/killedTarget/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Target has escaped. Ending battle state.",
+    "value": "Цель сбежала. Завершаю боевой режим.",
     "path": "/lostTarget/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Target lost.",
+    "value": "Цель потеряна.",
     "path": "/lostTarget/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Elimination incomplete. Target lost.",
+    "value": "Устранение не завершено. Цель потеряна.",
     "path": "/lostTarget/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Ending combat procedures. Target lost.",
+    "value": "Завершение боевых процедур. Цель потеряна.",
     "path": "/lostTarget/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Target has escaped.",
+    "value": "Цель сбежала.",
     "path": "/lostTarget/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Lost visual on target. Searching.",
+    "value": "Потеря визуального контакта. Поиск.",
     "path": "/outOfSight/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Target lost. Reacquiring.",
+    "value": "Цель потеряна. Перехват.",
     "path": "/outOfSight/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Target loss confirmed.",
+    "value": "Потеря цели подтверждена.",
     "path": "/outOfSight/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Unable to detect target.",
+    "value": "Невозможно обнаружить цель.",
     "path": "/outOfSight/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Target lost.",
+    "value": "Цель потеряна.",
     "path": "/outOfSight/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Unable to reach target.",
+    "value": "Не могу достичь цель.",
     "path": "/cantReach/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Combat halted. Unable to reach target.",
+    "value": "Бой остановлен. Не могу достичь цель.",
     "path": "/cantReach/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting help. Unable to reach target.",
+    "value": "Запрашиваю помощь. Не могу достичь цель.",
     "path": "/cantReach/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Unable to reach target. Recalculating path.",
+    "value": "Не могу достичь цель. Пересчитываю маршрут.",
     "path": "/cantReach/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Unable to reach target. Elimination incomplete.",
+    "value": "Не могу достичь цель. Устранение не завершено.",
     "path": "/cantReach/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Eliminate target.",
+    "value": "Устранить цель.",
     "path": "/cheerOn/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Target is hurt. Eliminate.",
+    "value": "Цель ранена. Устранить.",
     "path": "/cheerOn/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Assume battle positions.",
+    "value": "Принимаем боевые позиции.",
     "path": "/cheerOn/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Acquiring battle position.",
+    "value": "Принимаю боевую позицию.",
     "path": "/cheerOn/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Target elimination nearing completion.",
+    "value": "Устранение цели на завершающей стадии.",
     "path": "/cheerOn/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Target reacquired.",
+    "value": "Цель восстановлена.",
     "path": "/reattack/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Locking on to the target.",
+    "value": "Цель захвачена.",
     "path": "/reattack/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "Eliminating target.",
+    "value": "Устраняю цель.",
     "path": "/reattack/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Your end is nigh.",
+    "value": "Твой конец близок.",
     "path": "/reattack/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "You made a mistake showing yourself again.",
+    "value": "Ты сделал ошибку, показавшись снова.",
     "path": "/reattack/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Target acquired.",
+    "value": "Цель обнаружена.",
     "path": "/attack/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Heretic found. Commencing elimination.",
+    "value": "Еретик найден. Начинаю устранение.",
     "path": "/attack/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "You've made a mistake.",
+    "value": "Ты сделал ошибку.",
     "path": "/attack/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Another trophy for my collection.",
+    "value": "Еще один трофей для моей коллекции.",
     "path": "/attack/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "You'll regret coming here.",
+    "value": "Ты пожалеешь, что пришел сюда.",
     "path": "/attack/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Target eliminated.",
+    "value": "Цель устранена.",
     "path": "/killedTarget/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "A victory, as expected.",
+    "value": "Победа, как и ожидалось.",
     "path": "/killedTarget/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "Death has claimed its prize.",
+    "value": "Смерть взяла свою добычу.",
     "path": "/killedTarget/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "No mercy for the weak.",
+    "value": "Нет пощады для слабых.",
     "path": "/killedTarget/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "That wasn't much of a fight.",
+    "value": "Это была не битва.",
     "path": "/killedTarget/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Lost the target.",
+    "value": "Цель потеряна.",
     "path": "/lostTarget/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Death will find you sooner or later.",
+    "value": "Смерть найдет тебя рано или поздно.",
     "path": "/lostTarget/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "The target has escaped.",
+    "value": "Цель сбежала.",
     "path": "/lostTarget/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "We'll find the target again soon enough.",
+    "value": "Мы скоро снова найдем цель.",
     "path": "/lostTarget/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "You'll not escape me next time.",
+    "value": "В следующий раз ты не уйдешь.",
     "path": "/lostTarget/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Target is in hiding. Find them!",
+    "value": "Цель прячется. Найдите их!",
     "path": "/outOfSight/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Lost sight of the target.",
+    "value": "Потеря цели.",
     "path": "/outOfSight/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "Scan the area. We must find the target.",
+    "value": "Сканируйте зону. Мы должны найти цель.",
     "path": "/outOfSight/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Requesting local area scan. Target has broken line of sight.",
+    "value": "Запрашиваю локальное сканирование. Цель потеряла линию видимости.",
     "path": "/outOfSight/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "Target lock was broken. Find them!",
+    "value": "Цель потеряна. Найдите их!",
     "path": "/outOfSight/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Assessing situation. Scanning for alternate routes.",
+    "value": "Оценка ситуации. Сканирование альтернативных маршрутов.",
     "path": "/cantReach/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Get back here and face death!",
+    "value": "Вернись сюда и встреть смерть!",
     "path": "/cantReach/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "Flee, you weakling!",
+    "value": "Беги, слабак!",
     "path": "/cantReach/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Target is out of reach.",
+    "value": "Цель вне досягаемости.",
     "path": "/cantReach/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "Find a way to the target!",
+    "value": "Найдите путь к цели!",
     "path": "/cantReach/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "Eliminate that target.",
+    "value": "Устранить эту цель.",
     "path": "/cheerOn/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "Requesting assistance. Annihilate them.",
+    "value": "Запрашиваю помощь. Уничтожьте их.",
     "path": "/cheerOn/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "You are done for now.",
+    "value": "Теперь тебе конец.",
     "path": "/cheerOn/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Nowhere to hide now.",
+    "value": "Некуда прятаться.",
     "path": "/cheerOn/thelean/default/3",
     "op": "replace"
   },
   {
-    "value": "Destroy them!",
+    "value": "Уничтожьте их!",
     "path": "/cheerOn/thelean/default/4",
     "op": "replace"
   },
   {
-    "value": "I found the target!",
+    "value": "Я нашел цель!",
     "path": "/reattack/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Eyes on the target!",
+    "value": "Вижу цель!",
     "path": "/reattack/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Tango in sight!",
+    "value": "Цель в поле зрения!",
     "path": "/reattack/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "I have a clear shot!",
+    "value": "Я имею четкий выстрел!",
     "path": "/reattack/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Engaging the target!",
+    "value": "Атакую цель!",
     "path": "/reattack/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Defeat the enemy!",
+    "value": "Победить врага!",
     "path": "/attack/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Not on my watch!",
+    "value": "Не на моих глазах!",
     "path": "/attack/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Got a target!",
+    "value": "Цель захвачена!",
     "path": "/attack/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "You messed up!",
+    "value": "Ты облажался!",
     "path": "/attack/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "You'll regret this!",
+    "value": "Ты пожалеешь об этом!",
     "path": "/attack/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Target eliminated.",
+    "value": "Цель устранена.",
     "path": "/killedTarget/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Tango down!",
+    "value": "Цель нейтрализована!",
     "path": "/killedTarget/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Victorious!",
+    "value": "Победа!",
     "path": "/killedTarget/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "That seemed to be the last.",
+    "value": "Кажется, это был последний.",
     "path": "/killedTarget/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Did my job again.",
+    "value": "Снова справился с задачей.",
     "path": "/killedTarget/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Target lost!",
+    "value": "Цель потеряна!",
     "path": "/lostTarget/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Seems they escaped...",
+    "value": "Кажется, они сбежали...",
     "path": "/lostTarget/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "The target got away.",
+    "value": "Цель ускользнула.",
     "path": "/lostTarget/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "I should pay more attention next time...",
+    "value": "В следующий раз буду внимательнее...",
     "path": "/lostTarget/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "The enemy got away.",
+    "value": "Враг ускользнул.",
     "path": "/lostTarget/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "I lost the target!",
+    "value": "Я потерял цель!",
     "path": "/outOfSight/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I don't have eyes on the target!",
+    "value": "Цель вне поля зрения!",
     "path": "/outOfSight/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Sweep the area!",
+    "value": "Прочешите зону!",
     "path": "/outOfSight/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Don't let them get away!",
+    "value": "Не дайте им уйти!",
     "path": "/outOfSight/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "I can't see the target!",
+    "value": "Не вижу цель!",
     "path": "/outOfSight/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "I can't get up there!",
+    "value": "Не могу туда добраться!",
     "path": "/cantReach/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Target is out of range!",
+    "value": "Цель вне зоны досягаемости!",
     "path": "/cantReach/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I can't reach the target!",
+    "value": "Не могу достичь цель!",
     "path": "/cantReach/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Can anyone reach the target?",
+    "value": "Кто-нибудь может достичь цель?",
     "path": "/cantReach/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "I need to find another route!",
+    "value": "Мне нужно найти другой путь!",
     "path": "/cantReach/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Get them!",
+    "value": "Держите их!",
     "path": "/cheerOn/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Don't let up now!",
+    "value": "Не сдавайтесь!",
     "path": "/cheerOn/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Push onward!",
+    "value": "Продвигайтесь вперед!",
     "path": "/cheerOn/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Push for the final strike!",
+    "value": "Готовьтесь к финальному удару!",
     "path": "/cheerOn/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Just a little longer!",
+    "value": "Еще немного!",
     "path": "/cheerOn/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "<selfname> found you!",
+    "value": "<selfname> нашел тебя!",
     "path": "/reattack/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You dead! <selfname> gonna kill you!",
+    "value": "Ты мертв! <selfname> убьет тебя!",
     "path": "/reattack/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Dead! You finished!",
+    "value": "Мертв! Ты закончился!",
     "path": "/reattack/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "<selfname> found you again. <selfname> will always find you again!",
+    "value": "<selfname> нашел тебя снова. <selfname> всегда найдет тебя снова!",
     "path": "/reattack/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "You dead now!",
+    "value": "Ты мертв!",
     "path": "/reattack/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Kill, kill, kill!",
+    "value": "Убить, убить, убить!",
     "path": "/attack/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Dead! You finished!",
+    "value": "Мертв! Ты закончился!",
     "path": "/attack/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "<selfname> going to eat you!",
+    "value": "<selfname> собирается съесть тебя!",
     "path": "/attack/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "You belong to <selfname> now!",
+    "value": "Ты принадлежишь <selfname> теперь!",
     "path": "/attack/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "<selfname> gonna eat!",
+    "value": "<selfname> будет есть!",
     "path": "/attack/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "<selfname> gonna feast on you now!",
+    "value": "<selfname> будет пировать на тебе!",
     "path": "/killedTarget/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "<selfname> wins!",
+    "value": "<selfname> победил!",
     "path": "/killedTarget/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You dead! Hahaha!",
+    "value": "Ты мертв! Ха-ха-ха!",
     "path": "/killedTarget/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "No more fight. <selfname> bored.",
+    "value": "Больше нет боя. <selfname> скучно.",
     "path": "/killedTarget/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "<selfname> hope will fight again soon...",
+    "value": "<selfname> надеется снова скоро сразиться...",
     "path": "/killedTarget/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "<selfname> mad! Food got away!",
+    "value": "<selfname> зол! Еда сбежала!",
     "path": "/lostTarget/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "No! You not flee, you fight!",
+    "value": "Нет! Ты не убежишь, ты будешь драться!",
     "path": "/lostTarget/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You weak! <selfname> want good fight.",
+    "value": "Ты слаб! <selfname> хочет хорошего боя.",
     "path": "/lostTarget/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Food escaped. <selfname> mad...",
+    "value": "Еда сбежала. <selfname> зол...",
     "path": "/lostTarget/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Gah! Fight not end well.",
+    "value": "Гах! Бой не закончился хорошо.",
     "path": "/lostTarget/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Get back! You fight <selfname> now!",
+    "value": "Вернись! Ты будешь драться с <selfname> сейчас!",
     "path": "/outOfSight/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "No fleeing! You fight!",
+    "value": "Не убегай! Ты будешь драться!",
     "path": "/outOfSight/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "<selfname> gonna find you again!",
+    "value": "<selfname> найдет тебя снова!",
     "path": "/outOfSight/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "You run! <selfname> chase you!",
+    "value": "Ты бежишь! <selfname> будет преследовать тебя!",
     "path": "/outOfSight/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Food trying to run. Get back!",
+    "value": "Еда пытается убежать. Вернись!",
     "path": "/outOfSight/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "No! No no no!",
+    "value": "Нет! Нет, нет, нет!",
     "path": "/cantReach/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Get down here! <selfname> wanna fight!",
+    "value": "Спускайся сюда! <selfname> хочет драться!",
     "path": "/cantReach/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "<selfname> can't go there!",
+    "value": "<selfname> не может туда добраться!",
     "path": "/cantReach/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "<selfname> gonna find a way there. <selfname> gonna kill you then!",
+    "value": "<selfname> найдет путь туда. <selfname> убьет тебя потом!",
     "path": "/cantReach/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Stupid! Get back and fight!",
+    "value": "Глупец! Вернись и дерись!",
     "path": "/cantReach/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "<selfname> gonna feast with friends now!",
+    "value": "<selfname> будет пировать с друзьями сейчас!",
     "path": "/cheerOn/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akkimari stronger than anyone!",
+    "value": "Аккимари сильнее всех!",
     "path": "/cheerOn/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akkimari gonna kill you now!",
+    "value": "Аккимари убьет тебя сейчас!",
     "path": "/cheerOn/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Bounty for Akkimari!",
+    "value": "Награда для Аккимари!",
     "path": "/cheerOn/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Dead! You dead now!",
+    "value": "Мертв! Ты мертв!",
     "path": "/cheerOn/akkimari/default/4",
     "op": "replace"
   }

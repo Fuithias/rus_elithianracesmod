@@ -1,6 +1,6 @@
 [
   {
-    "value": "^orange;Линейный лук, созданный уединенными кланами Вхалакиса.",
+    "value": "^orange;Линейный лук, созданный уединенными кланами Валакиса.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Лук Вхалакина^white;",
+    "value": "^orange;Лук Валакина^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

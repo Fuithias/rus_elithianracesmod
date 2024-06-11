@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Console",
+    "value": "Акрис Консоль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer console capable of wiring circuits together.",
+    "value": "Компьютерная консоль, способная соединять цепи вместе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A console for controlling connected objects.",
+    "value": "Консоль для управления подключенными объектами.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This panel likely controls mechanisms nearby.",
+    "value": "Эта панель, вероятно, управляет механизмами поблизости.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny buttonsss, Floran presss?",
+    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What will happen if I touch these buttons?",
+    "value": "Любопытный. Что произойдет, если я коснусь этих кнопок?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A control panel of some sort.",
+    "value": "Панель управления какая-то.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny console with an even shinier interface.",
+    "value": "Блестящая консоль с еще более блестящим интерфейсом.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A strange interface for sure. Akkimari consoles make no sense to me.",
+    "value": "Странный интерфейс, конечно. Консоли Аккимари для меня не имеют смысла.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien interface. I can't make much sense of it.",
+    "value": "Чужой интерфейс. Я не могу понять этого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari-built console. The interface is unfamiliar to me.",
+    "value": "Консоль, созданная Аккимари. Интерфейс мне незнаком.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Console. Interface decryption failed.",
+    "value": "Анализ. Консоль. Расшифровка интерфейса не удалась.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Console for mechanism-control. Akki wire things together.",
+    "value": "Консоль для управления механизмом. Акки соединяет все воедино.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

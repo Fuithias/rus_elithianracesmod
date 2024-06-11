@@ -1,16 +1,16 @@
 [
   {
-    "value": "This pass unlocks access to the Vanguard Gunrange in the Starfarer's Refuge.",
+    "value": "Этот пропуск открывает доступ к стрелковому полигону «Авангард» в Убежище Звездоходов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Vanguard Gunrange Pass^white;",
+    "value": "^#BA66FF;Проход на стрельбище Авангарда^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Security Pass",
+    "value": "пропуск безопасности",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "^green;Аеги. ^white;Маска Эксодуса для празднования Ужасающего!",
+    "value": "^green;Аеги. ^white;Маска Эксодума для празднования Ужасающего!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Маска Эксодуса",
+    "value": "Маска Эксодума",
     "path": "/shortdescription",
     "op": "replace"
   }

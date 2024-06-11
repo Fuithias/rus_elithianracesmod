@@ -1,11 +1,11 @@
 [
   {
-    "value": "Spiced and cooked Bolbohns make for a decidedly odd taste.",
+    "value": "Приправленные и приготовленные болбоны имеют совершенно странный вкус.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Spice Bol",
+    "value": "Спайс Бол",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Vanguard Tapestry",
+    "value": "Авангардный гобелен",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Wall tapestry decorated in the style of the Vanguard.",
+    "value": "Настенные гобелены оформлены в стиле Авангард.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Wall decoration. I don't recognize the symbol.",
+    "value": "Отделка стен. Я не узнаю этот символ.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what this symbol represents",
+    "value": "Интересно, что означает этот символ",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss blood-red clothsss.",
+    "value": "Флорану нравится кроваво-красная одежда.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. Red colours are often associated with war.",
+    "value": "Осторожный. Красные цвета часто ассоциируются с войной.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Wall tapestry dyed a deep red colour.",
+    "value": "Настенный гобелен окрашен в темно-красный цвет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This wall decoration has a militaristic feel to it.",
+    "value": "Это настенное украшение имеет милитаристский оттенок.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Gotta wonder what that icon means.",
+    "value": "Интересно, что означает этот значок?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Wall decoration decorated in the style of the Avikan Vanguard.",
+    "value": "Настенная отделка оформлена в стиле Авикан Авангард.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry was decorated in the style of the Vanguard.",
+    "value": "Этот гобелен был оформлен в стиле Авангарда.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry was decorated for the Vanguard. They are not particularly fond of the Trink.",
+    "value": "Этот гобелен был оформлен для «Авангарда». Они не особенно любят Тринк.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Vanguard wall decoration.",
+    "value": "Сканирование завершено. Авангардная отделка стен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Emblem for Vanguard, military-alien.",
+    "value": "Эмблема Авангарда, военно-инопланетянин.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

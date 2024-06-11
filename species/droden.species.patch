@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Служители для Авикан",
+    "value": "Служители для авикан",
     "path": "/charCreationTooltip/subTitle",
     "op": "replace"
   },

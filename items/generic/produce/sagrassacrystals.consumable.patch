@@ -1,11 +1,11 @@
 [
   {
-    "value": "A hard but edible, highly nutritious crystal.",
+    "value": "Твердый, но съедобный и очень питательный кристалл.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sagrassa Crystals",
+    "value": "Кристаллы Саграсса",
     "path": "/shortdescription",
     "op": "replace"
   }

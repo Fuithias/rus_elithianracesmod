@@ -1,31 +1,31 @@
 [
   {
-    "value": "^orange;The Blighted Cavern",
+    "value": "^orange;Зараженная Пещера",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "I recently came across this cave full of ^green;eerie-looking glowing rocks^reset;. I thought it'd be great for the Harrowing, but that place is too dangerous for me. The rocks found there are fascinating, though... ^green;Perhaps you're up for ^orange;exploring that cavern^reset;?",
+    "value": "Недавно я наткнулся на пещеру, полную ^green;жутко светящихся камней^reset;. Я подумал, что это будет отличное место для Ужасного Праздника, но это место слишком опасно для меня. Камни там действительно завораживающие... ^green;Может быть, ты готов к ^orange;исследованию этой пещеры^reset;?",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "I'm really not sure what it is you found in there... It looks ancient for sure. And certainly eerie enough for the Harrowing, but I'm afraid this may be just a bit TOO eerie for our festival...",
+    "value": "Я действительно не уверен, что это за штуку ты нашел... Это явно древнее. И достаточно жуткое для Ужасного Праздника, но боюсь, это может быть слишком жутко даже для нашего праздника...",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Talk to ^orange;Ayala^reset; to travel to the ^orange;Blighted Cavern^reset;",
+    "value": "Поговорите с ^orange;Айала^reset;, чтобы отправиться в ^orange;Зараженную Пещеру^reset;",
     "path": "/scriptConfig/descriptions/enterInstance",
     "op": "replace"
   },
   {
-    "value": "Find and explore the ^orange;central chamber^reset;",
+    "value": "Найдите и исследуйте ^orange;центральную камеру^reset;",
     "path": "/scriptConfig/descriptions/findGoal",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Ayala^reset; in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Айала^reset; в ^orange;Посольство Креон^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

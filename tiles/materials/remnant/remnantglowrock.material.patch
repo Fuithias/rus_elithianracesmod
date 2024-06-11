@@ -1,36 +1,36 @@
 [
   {
-    "value": "Glowing Rock",
+    "value": "Светящийся камень",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient rock with an eerie glow.",
+    "value": "Древний камень с загадочным свечением.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Frightened. This rock does not look natural...",
+    "value": "Испуган. Этот камень не выглядит естественным...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran feelss uneasssy near this sstone.",
+    "value": "Флоран чувствует себя неуютно рядом с этим камнем.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "I d'know what this is, but I don't like how it feels.",
+    "value": "Не знаю, что это, но мне не нравится, как он выглядит.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Error.",
+    "value": "Анализ завершен. Ошибка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki uneasy. Rock should glow-not.",
+    "value": "Акки некомфортно. Камень не должен светиться.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

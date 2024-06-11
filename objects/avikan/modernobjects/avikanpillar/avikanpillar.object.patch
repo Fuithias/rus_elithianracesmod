@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Pillar",
+    "value": "Авиканский столб",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strong supporting pillar.",
+    "value": "Мощная опора.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal pillar.",
+    "value": "Прочный металлический столб.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny metal pillar.",
+    "value": "Блестящий металлический столб.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal pillarsss look like large sspearsss...",
+    "value": "Металлические колонны выглядят как большие копья...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A pillar.",
+    "value": "Заявление. Столб.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A supporting pillar. It can carry a lot of weight.",
+    "value": "Опорный столб. Он может выдерживать большой вес.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal pillar. Effective, but not too pretty.",
+    "value": "Металлический столб. Эффектно, но не слишком красиво.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy pillar.",
+    "value": "Прочный столб.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal pillar from home.",
+    "value": "Металлический столб из дома.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal pillar.",
+    "value": "Металлический столб.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Supporting pillar. Failed to estimate maximum supported weight.",
+    "value": "Опорный столб. Не удалось оценить максимальный поддерживаемый вес.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pillar-long, for supporting roof-heavy.",
+    "value": "Столб длинный, для поддержки тяжелой крыши.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

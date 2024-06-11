@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Restoring The Past III",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Восстановление Прошлого III",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Unfortunately, I don't have the materials needed for the repairs... We'll need at least ^orange;10 Superb Kavanite Plates ^white;to mend the blade, and a piece of ^orange;Centensian Tech ^white;to fix the connection between the weapon and the Shard. ^green;Can you go and find those, Captain?",
-      "path": "/text",
-      "op": "replace"
+    "value": "К сожалению, у меня нет материалов, необходимых для ремонта... Нам понадобится как минимум ^orange;10 превосходных пластин каванита ^white;для починки лезвия и кусок ^orange;центенской технологии ^white;для восстановления связи между оружием и Осколком. ^green;Сможете найти их, капитан?",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Here you go, Captain. Your Vha'leihan Spear has been fully restored. It was an honour to work on such a mighty weapon.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Вот, капитан. Ваше копьё Вха'лейхана полностью восстановлено. Для меня было честью работать над таким могучим оружием.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

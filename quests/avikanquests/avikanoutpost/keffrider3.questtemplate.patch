@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Keffrider III",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Кеффоход III",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "A Keffrider must be resourceful. Nothing in our community is easily granted, so before you get your ^orange;license^white;, you must ^green;build your own ^orange;Vehicle Jumpgate^green; and bring it to me^white;. You'll need an ^orange;Avikan Jumpgate Core^white; to craft it - ^green;there's a few wandering merchants out there who sell such items, so find one of them first^white;.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Кеффоход должен быть изобретательным. В нашем сообществе ничего не дается легко, поэтому перед тем, как получить свою ^orange;лицензию^white;, вы должны ^green;построить свои собственные ^orange;врата для транспорта ^green;и принести их мне^white;. Вам понадобится ^orange;ядро авиканских врат^white;, чтобы их создать - ^green;есть несколько странствующих торговцев, которые продают такие предметы, так что найдите одного из них в первую очередь^white;.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Nice work, Captain! I'll arrange for that ^orange;Vehicle Jumpgate^white; to be installed onto your ship. The last thing you need is a ^orange;Jumpgate Controller^white;, so you can summon your Keff at any time.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Отличная работа, Капитан! Я организую установку этих ^orange;врат для транспорта^white; на ваш корабль. Последнее, что вам нужно, это ^orange;контроллер врат^white;, чтобы вы могли вызывать своего кеффа в любое время.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ветури ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

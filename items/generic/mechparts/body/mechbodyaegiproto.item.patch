@@ -1,11 +1,11 @@
 [
   {
-    "value": "A prototype open-top mech body, designed by Enerth Engineering.",
+    "value": "Прототип корпуса механизма с открытым верхом, разработанный Enerth Engineering.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Guardian-00 Mech Body",
+    "value": "Механическое тело Стража-00",
     "path": "/shortdescription",
     "op": "replace"
   }

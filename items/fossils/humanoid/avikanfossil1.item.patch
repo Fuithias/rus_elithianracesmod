@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Avikan skull.",
+    "value": "Окаменелый череп Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Skull",
+    "value": "Авиканский череп",
     "path": "/shortdescription",
     "op": "replace"
   }

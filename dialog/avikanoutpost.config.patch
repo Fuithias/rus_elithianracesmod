@@ -1,1376 +1,1371 @@
 [
   {
-    "value": "I have nothing to say to you.",
+    "value": "Мне нечего вам сказать.",
     "path": "/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "I don't know what you are...",
+    "value": "Я не знаю, кто ты...",
     "path": "/converse/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "What sort of creature might you be?",
+    "value": "Каким существом вы могли бы быть?",
     "path": "/converse/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "...",
-    "path": "/converse/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Yes?",
+    "value": "Да?",
     "path": "/converse/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Greetings, stranger.",
+    "value": "Приветствую тебя, незнакомец.",
     "path": "/converse/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/default/5",
     "op": "replace"
   },
   {
-    "value": "I wish I could go to Vhalas Andra'veih one day...",
+    "value": "Я бы хотел однажды побывать в Валас Андра'вейхе...",
     "path": "/converse/avikan/default/6",
     "op": "replace"
   },
   {
-    "value": "Hmph.",
+    "value": "Хмф.",
     "path": "/converse/avikan/default/7",
     "op": "replace"
   },
   {
-    "value": "Need anything?",
+    "value": "Вам что-нибудь нужно?",
     "path": "/converse/avikan/default/8",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/default/9",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/default/10",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/default/11",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/default/12",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/default/13",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/default/14",
     "op": "replace"
   },
   {
-    "value": "Greetings, soft-skin.",
+    "value": "Приветствую тебя, мягкокожий.",
     "path": "/converse/avikan/human/0",
     "op": "replace"
   },
   {
-    "value": "I've heard your kind can be quite hostile to strangers.",
+    "value": "Я слышал, что ваш род может быть весьма враждебен к чужакам.",
     "path": "/converse/avikan/human/1",
     "op": "replace"
   },
   {
-    "value": "Your skin is so soft!",
+    "value": "Ваша кожа такая мягкая!",
     "path": "/converse/avikan/human/2",
     "op": "replace"
   },
   {
-    "value": "Don't try anything here. The Watchers will see.",
+    "value": "Не пытайтесь ничего делать здесь. Смотрители увидят.",
     "path": "/converse/avikan/human/3",
     "op": "replace"
   },
   {
-    "value": "You don't have any flaps?",
+    "value": "У вас нет закрылков?",
     "path": "/converse/avikan/human/4",
     "op": "replace"
   },
   {
-    "value": "Your eyes are so small...",
+    "value": "Твои глаза такие маленькие...",
     "path": "/converse/avikan/human/5",
     "op": "replace"
   },
   {
-    "value": "I'm surprised you can stand the heat here. Many aliens find it unbearable.",
+    "value": "Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой.",
     "path": "/converse/avikan/human/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/human/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/human/8",
     "op": "replace"
   },
   {
-    "value": "You're no Aegi, are you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/human/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/human/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/human/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/human/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/human/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/human/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/human/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/human/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, hairy thing.",
+    "value": "Приветствую тебя, волосатая тварь.",
     "path": "/converse/avikan/apex/0",
     "op": "replace"
   },
   {
-    "value": "There's no Miniknog here, if you were wondering.",
+    "value": "Здесь нет Миникнога, если вам интересно.",
     "path": "/converse/avikan/apex/1",
     "op": "replace"
   },
   {
-    "value": "You're a bit smelly...",
+    "value": "Ты немного воняешь...",
     "path": "/converse/avikan/apex/2",
     "op": "replace"
   },
   {
-    "value": "I've never seen someone with that much hair before.",
+    "value": "Я никогда раньше не видел человека с таким количеством волос.",
     "path": "/converse/avikan/apex/3",
     "op": "replace"
   },
   {
-    "value": "Do you ever shave?",
+    "value": "Вы когда-нибудь бреетесь?",
     "path": "/converse/avikan/apex/4",
     "op": "replace"
   },
   {
-    "value": "Ha! Oh, sorry... I just thought you looked funny.",
+    "value": "Ха! О, простите... Я просто подумал, что ты выглядишь забавно.",
     "path": "/converse/avikan/apex/5",
     "op": "replace"
   },
   {
-    "value": "Doesn't it get warm with all that fur?",
+    "value": "Разве не жарко от такого меха?",
     "path": "/converse/avikan/apex/6",
     "op": "replace"
   },
   {
-    "value": "Are you sure YOU aren't Miniknog?",
+    "value": "Вы уверены, что вы не Миникног?",
     "path": "/converse/avikan/apex/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/apex/8",
     "op": "replace"
   },
   {
-    "value": "You look a bit like an Aegi.",
+    "value": "Ты немного похож на аеги.",
     "path": "/converse/avikan/apex/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/apex/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/apex/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/apex/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/apex/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/apex/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/apex/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/apex/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, feathered one.",
+    "value": "Приветствую тебя, пернатый.",
     "path": "/converse/avikan/avian/0",
     "op": "replace"
   },
   {
-    "value": "Those feathers of yours look a bit like our flaps.",
+    "value": "Эти ваши перья немного похожи на наши закрылки.",
     "path": "/converse/avikan/avian/1",
     "op": "replace"
   },
   {
-    "value": "I heard your kind likes shiny things.",
+    "value": "Я слышал, что вы любите блестящие вещи.",
     "path": "/converse/avikan/avian/2",
     "op": "replace"
   },
   {
-    "value": "Can you fly?",
+    "value": "Вы умеете летать?",
     "path": "/converse/avikan/avian/3",
     "op": "replace"
   },
   {
-    "value": "I thought your kind had wings.",
+    "value": "Я думал, у вас есть крылья.",
     "path": "/converse/avikan/avian/4",
     "op": "replace"
   },
   {
-    "value": "I'm impressed that you can speak our language with that beak of yours.",
+    "value": "Я впечатлен тем, что вы можете говорить на нашем языке с помощью своего клюва.",
     "path": "/converse/avikan/avian/5",
     "op": "replace"
   },
   {
-    "value": "You seem the musical type. Sing me a song, will you?",
+    "value": "Вы, кажется, музыкальный человек. Спойте мне песню, ладно?",
     "path": "/converse/avikan/avian/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/avian/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/avian/8",
     "op": "replace"
   },
   {
-    "value": "Avikan, Avian... They do sound a bit alike, no?",
+    "value": "Авикан, авиан... Они звучат немного похоже, нет?",
     "path": "/converse/avikan/avian/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/avian/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/avian/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/avian/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/avian/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/avian/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/avian/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/avian/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, plant thing.",
+    "value": "Приветствую тебя, растение.",
     "path": "/converse/avikan/floran/0",
     "op": "replace"
   },
   {
-    "value": "Is your kind really carnivorous? I'd be more inclined to believe you are the ones being eaten.",
+    "value": "Ваш вид действительно плотоядный? Я бы больше склонялся к тому, что это вас едят.",
     "path": "/converse/avikan/floran/1",
     "op": "replace"
   },
   {
-    "value": "Are you edible? It's been too long since I had vegetables.",
+    "value": "Вы съедобны? Я довольно давно не ел овощей.",
     "path": "/converse/avikan/floran/2",
     "op": "replace"
   },
   {
-    "value": "No stabbing here, plant.",
+    "value": "Никакой поножовщины, растение.",
     "path": "/converse/avikan/floran/3",
     "op": "replace"
   },
   {
-    "value": "Don't you think breaking things is more fun than stabbing things?",
+    "value": "Тебе не кажется, что ломать вещи веселее, чем колоть?",
     "path": "/converse/avikan/floran/4",
     "op": "replace"
   },
   {
-    "value": "You seem like a capable hunter.",
+    "value": "Вы кажетесь способным охотником.",
     "path": "/converse/avikan/floran/5",
     "op": "replace"
   },
   {
-    "value": "Your kind makes rather impressive spears.",
+    "value": "Ваш вид делает весьма впечатляющие копья.",
     "path": "/converse/avikan/floran/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/floran/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/floran/8",
     "op": "replace"
   },
   {
-    "value": "As a plant, do you have blood?",
+    "value": "Как у растения, есть ли у вас кровь?",
     "path": "/converse/avikan/floran/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/floran/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/floran/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/floran/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/floran/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/floran/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/floran/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/floran/16",
     "op": "replace"
   },
   {
-    "value": "I don't like you.",
+    "value": "Ты мне не нравишься.",
     "path": "/converse/avikan/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Machine.",
+    "value": "Машина.",
     "path": "/converse/avikan/glitch/1",
     "op": "replace"
   },
   {
-    "value": "You have no soul, machine.",
+    "value": "У тебя нет души, машина.",
     "path": "/converse/avikan/glitch/2",
     "op": "replace"
   },
   {
-    "value": "The Watchers are watching you.",
+    "value": "Смотрители следят за вами.",
     "path": "/converse/avikan/glitch/3",
     "op": "replace"
   },
   {
-    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "value": "Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина.",
     "path": "/converse/avikan/glitch/4",
     "op": "replace"
   },
   {
-    "value": "I'm not talking to a machine.",
+    "value": "Я не разговариваю с машиной.",
     "path": "/converse/avikan/glitch/5",
     "op": "replace"
   },
   {
-    "value": "You'll find few friends here.",
+    "value": "Здесь вы найдете мало друзей.",
     "path": "/converse/avikan/glitch/6",
     "op": "replace"
   },
   {
-    "value": "I'm not fond of machines.",
+    "value": "Я не люблю машины.",
     "path": "/converse/avikan/glitch/7",
     "op": "replace"
   },
   {
-    "value": "I might tolerate your kind, but that doesn't mean I like you.",
+    "value": "Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь.",
     "path": "/converse/avikan/glitch/8",
     "op": "replace"
   },
   {
-    "value": "Who built you?",
+    "value": "Кто вас построил?",
     "path": "/converse/avikan/glitch/9",
     "op": "replace"
   },
   {
-    "value": "The Starfarer's Refuge welcomes all, even machines.",
+    "value": "Убежище Звездохода принимает всех, даже машины.",
     "path": "/converse/avikan/glitch/10",
     "op": "replace"
   },
   {
-    "value": "I doubt the Starsight Inn offers anything you can even drink, machine.",
+    "value": "Сомневаюсь, что в Звездоцел Инн есть хоть что-то, что можно пить.",
     "path": "/converse/avikan/glitch/11",
     "op": "replace"
   },
   {
-    "value": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too.",
+    "value": "Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас.",
     "path": "/converse/avikan/glitch/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you.",
+    "value": "Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам.",
     "path": "/converse/avikan/glitch/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop near here. Use it.",
+    "value": "Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им.",
     "path": "/converse/avikan/glitch/14",
     "op": "replace"
   },
   {
-    "value": "Perhaps you could trade in yourself at the material exchange.",
+    "value": "Возможно, вы могли бы обменять себя на бирже материалов.",
     "path": "/converse/avikan/glitch/15",
     "op": "replace"
   },
   {
-    "value": "Why don't you leave me and go sit on those asteroids in the distance instead?",
+    "value": "Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?",
     "path": "/converse/avikan/glitch/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, wet one.",
+    "value": "Приветствую тебя, мокрый.",
     "path": "/converse/avikan/hylotl/0",
     "op": "replace"
   },
   {
-    "value": "Aren't you afraid you might dry up here?",
+    "value": "Ты не боишься, что засохнешь здесь?",
     "path": "/converse/avikan/hylotl/1",
     "op": "replace"
   },
   {
-    "value": "Your skin is all wet!",
+    "value": "Твоя кожа вся мокрая!",
     "path": "/converse/avikan/hylotl/2",
     "op": "replace"
   },
   {
-    "value": "I've heard your kind likes mysteries. You should investigate the Old Ones.",
+    "value": "Я слышал, что ваш род любит тайны. Вы должны исследовать Старейших.",
     "path": "/converse/avikan/hylotl/3",
     "op": "replace"
   },
   {
-    "value": "I can only imagine what a world of water must look like...",
+    "value": "Я могу только представить, как выглядит мир воды...",
     "path": "/converse/avikan/hylotl/4",
     "op": "replace"
   },
   {
-    "value": "Could you teach me how to swim one day?",
+    "value": "Не могли бы вы когда-нибудь научить меня плавать?",
     "path": "/converse/avikan/hylotl/5",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih, creature of the water.",
+    "value": "Вас Вха'лейх, существо воды.",
     "path": "/converse/avikan/hylotl/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/hylotl/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/hylotl/8",
     "op": "replace"
   },
   {
-    "value": "By Rhadeis, you're all wet!",
+    "value": "Клянусь Радейсом, ты весь мокрый!",
     "path": "/converse/avikan/hylotl/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/hylotl/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/hylotl/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/hylotl/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/hylotl/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/hylotl/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/hylotl/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/hylotl/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, glowing one.",
+    "value": "Приветствую тебя, сияющий.",
     "path": "/converse/avikan/novakid/0",
     "op": "replace"
   },
   {
-    "value": "Where did you come from? Oh, right, you must have forgotten.",
+    "value": "Откуда ты взялся? Ах, да, вы, наверное, забыли.",
     "path": "/converse/avikan/novakid/1",
     "op": "replace"
   },
   {
-    "value": "Do you remember what you did yesterday?",
+    "value": "Ты помнишь, что ты делал вчера?",
     "path": "/converse/avikan/novakid/2",
     "op": "replace"
   },
   {
-    "value": "I saw your spaceship on your way in. It looked a bit odd.",
+    "value": "Я видел ваш космический корабль, когда вы шли сюда. Он выглядел немного странно.",
     "path": "/converse/avikan/novakid/3",
     "op": "replace"
   },
   {
-    "value": "What are you made of, exactly?",
+    "value": "Из чего вы сделаны?",
     "path": "/converse/avikan/novakid/4",
     "op": "replace"
   },
   {
-    "value": "I'd like to have you with me next time I delve underground.",
+    "value": "Я бы хотел, чтобы вы были со мной в следующий раз, когда я буду погружаться под землю.",
     "path": "/converse/avikan/novakid/5",
     "op": "replace"
   },
   {
-    "value": "You won't be any good at hide and seek.",
+    "value": "Вы не сможете играть в прятки.",
     "path": "/converse/avikan/novakid/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/novakid/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/novakid/8",
     "op": "replace"
   },
   {
-    "value": "Are you a god?",
+    "value": "Вы бог?",
     "path": "/converse/avikan/novakid/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/novakid/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/novakid/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/novakid/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/novakid/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/novakid/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/novakid/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/novakid/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, Captain.",
+    "value": "Приветствую вас, капитан.",
     "path": "/converse/avikan/avikan/0",
     "op": "replace"
   },
   {
-    "value": "Greetings, friend.",
+    "value": "Приветствую тебя, друг.",
     "path": "/converse/avikan/avikan/1",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih.",
+    "value": "Вас Вха'лейх.",
     "path": "/converse/avikan/avikan/2",
     "op": "replace"
   },
   {
-    "value": "Brother, welcome!",
+    "value": "Брат, добро пожаловать!",
     "path": "/converse/avikan/avikan/3",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, Captain.",
+    "value": "Добро пожаловать в Убежище Звездохода, капитан.",
     "path": "/converse/avikan/avikan/4",
     "op": "replace"
   },
   {
-    "value": "Caught anything interesting lately?",
+    "value": "Поймали что-нибудь интересное за последнее время?",
     "path": "/converse/avikan/avikan/5",
     "op": "replace"
   },
   {
-    "value": "A captain! It's an honour, sir!",
+    "value": "Капитан! Это большая честь, сэр!",
     "path": "/converse/avikan/avikan/6",
     "op": "replace"
   },
   {
-    "value": "I miss Kadavan...",
+    "value": "Я скучаю по Кадавану...",
     "path": "/converse/avikan/avikan/7",
     "op": "replace"
   },
   {
-    "value": "I'm telling you, the Council is close to finding Vhalas Andra'veih!",
+    "value": "Говорю вам, Совет близок к нахождению Валас Андра'вейха!",
     "path": "/converse/avikan/avikan/8",
     "op": "replace"
   },
   {
-    "value": "Have you cleaned your flaps recently?",
+    "value": "Чистили ли вы недавно заслонки?",
     "path": "/converse/avikan/avikan/9",
     "op": "replace"
   },
   {
-    "value": "Wait, you have your own ship? That must be a dream come true!",
+    "value": "Подождите, у вас есть собственный корабль? Это должно быть воплощение мечты!",
     "path": "/converse/avikan/avikan/10",
     "op": "replace"
   },
   {
-    "value": "I hope you're respecting the Avikan Common Law, friend. Otherwise we might have a problem.",
+    "value": "Я надеюсь, что ты соблюдаешь общее авиканское законодательство, друг. В противном случае у нас могут возникнуть проблемы.",
     "path": "/converse/avikan/avikan/11",
     "op": "replace"
   },
   {
-    "value": "Dismantled any machines recently?",
+    "value": "Вы недавно демонтировали какие-нибудь машины?",
     "path": "/converse/avikan/avikan/12",
     "op": "replace"
   },
   {
-    "value": "The council deemed you worthy of your own ship? Well, if they believe you capable, then so will I.",
+    "value": "Совет счел вас достойным собственного корабля? Что ж, если они считают вас способным, то и я тоже.",
     "path": "/converse/avikan/avikan/13",
     "op": "replace"
   },
   {
-    "value": "Nothing but respect for a captain of the Fleet. Hail the Nomada!",
+    "value": "Ничего, кроме уважения к капитану флота. Да здравствует Номада!",
     "path": "/converse/avikan/avikan/14",
     "op": "replace"
   },
   {
-    "value": "By Rhadeis, you look like you've been through hell!",
+    "value": "Клянусь Радейсом, вы выглядите так, словно прошли через ад!",
     "path": "/converse/avikan/avikan/15",
     "op": "replace"
   },
   {
-    "value": "I wish I could be a captain like you...",
+    "value": "Я бы хотел быть таким же капитаном, как вы...",
     "path": "/converse/avikan/avikan/16",
     "op": "replace"
   },
   {
-    "value": "Could you vow for me at the Council? I've issued a request for admission as a Fleet captain, and I need all the support I can get!",
+    "value": "Не могли бы вы поручиться за меня в Совете? Я подал прошение о приеме в капитаны флота, и мне нужна любая поддержка!",
     "path": "/converse/avikan/avikan/17",
     "op": "replace"
   },
   {
-    "value": "Anything to report?",
+    "value": "Есть что сообщить?",
     "path": "/converse/avikan/avikan/18",
     "op": "replace"
   },
   {
-    "value": "Filed any interesting reports lately?",
+    "value": "Вы не видели интересных репортажей в последнее время?",
     "path": "/converse/avikan/avikan/19",
     "op": "replace"
   },
   {
-    "value": "I hope you are doing your part for the Nomada.",
+    "value": "Надеюсь, вы вносите свой вклад в дело Номада.",
     "path": "/converse/avikan/avikan/20",
     "op": "replace"
   },
   {
-    "value": "The role of Fleet captain comes with a great many responsibilities. Are you certain you can handle them?",
+    "value": "Роль капитана флота сопряжена с огромным количеством обязанностей. Вы уверены, что справитесь с ними?",
     "path": "/converse/avikan/avikan/21",
     "op": "replace"
   },
   {
-    "value": "Have you ever been on a pilgrimage to Vas Vha'leih?",
+    "value": "Вы когда-нибудь совершали паломничество в Вас Вха'лейх?",
     "path": "/converse/avikan/avikan/22",
     "op": "replace"
   },
   {
-    "value": "I wish I could go on adventures like you, Captain.",
+    "value": "Хотел бы я отправиться в такие приключения, как вы, капитан.",
     "path": "/converse/avikan/avikan/23",
     "op": "replace"
   },
   {
-    "value": "Do you need anyone for your crew?",
+    "value": "Вам нужен кто-нибудь в команду?",
     "path": "/converse/avikan/avikan/24",
     "op": "replace"
   },
   {
-    "value": "I hope you treat your pet sandworm well. Those things can get very aggressive if they're ignored.",
+    "value": "Надеюсь, вы хорошо обращаетесь со своим домашним песчаным червем. Эти твари могут стать очень агрессивными, если их игнорировать.",
     "path": "/converse/avikan/avikan/25",
     "op": "replace"
   },
   {
-    "value": "The Nomada could use more people like you.",
+    "value": "Номаде не помешало бы больше таких людей, как вы.",
     "path": "/converse/avikan/avikan/26",
     "op": "replace"
   },
   {
-    "value": "Have you heard of these 'Glitch' inhabiting this part of the galaxy? We should eradicate them before it's too late.",
+    "value": "Вы слышали об этих 'глитчах', населяющих эту часть галактики? Мы должны уничтожить их, пока не стало слишком поздно.",
     "path": "/converse/avikan/avikan/27",
     "op": "replace"
   },
   {
-    "value": "Have you ever been summoned by the Council?",
+    "value": "Вас когда-нибудь вызывали в Совет?",
     "path": "/converse/avikan/avikan/28",
     "op": "replace"
   },
   {
-    "value": "Do you have your keff-riding license yet?",
+    "value": "У тебя уже есть права на катание на кефе?",
     "path": "/converse/avikan/avikan/29",
     "op": "replace"
   },
   {
-    "value": "Hmm? Oh, sorry Captain! I hadn't noticed you there.",
+    "value": "А? О, простите, капитан! Я вас не заметил.",
     "path": "/converse/avikan/avikan/30",
     "op": "replace"
   },
   {
-    "value": "Have you found a mate yet?",
+    "value": "Вы уже нашли себе напарника?",
     "path": "/converse/avikan/avikan/31",
     "op": "replace"
   },
   {
-    "value": "I might know some people who'd like to enlist for your crew.",
+    "value": "Возможно, я знаю людей, которые хотели бы записаться в вашу команду.",
     "path": "/converse/avikan/avikan/32",
     "op": "replace"
   },
   {
-    "value": "I forgot to file last week's report... I hope that won't get me into too much trouble.",
+    "value": "Я забыл отчитаться за прошлую неделю... Надеюсь, это не доставит мне лишних неприятностей.",
     "path": "/converse/avikan/avikan/33",
     "op": "replace"
   },
   {
-    "value": "Do you have any interesting tales to tell, Captain?",
+    "value": "У вас есть какие-нибудь интересные истории, капитан?",
     "path": "/converse/avikan/avikan/34",
     "op": "replace"
   },
   {
-    "value": "Rhadeis supports you, Captain.",
+    "value": "Радейс поддерживает вас, капитан.",
     "path": "/converse/avikan/avikan/35",
     "op": "replace"
   },
   {
-    "value": "You must meet a lot of interesting people on your journeys.",
+    "value": "В своих путешествиях вы наверняка встречаете много интересных людей.",
     "path": "/converse/avikan/avikan/36",
     "op": "replace"
   },
   {
-    "value": "Need anything, Captain?",
+    "value": "Вам что-нибудь нужно, капитан?",
     "path": "/converse/avikan/avikan/37",
     "op": "replace"
   },
   {
-    "value": "Are you on a mission?",
+    "value": "Вы на задании?",
     "path": "/converse/avikan/avikan/38",
     "op": "replace"
   },
   {
-    "value": "The Watchers could use someone like you.",
+    "value": "Смотрители могли бы использовать кого-то вроде тебя.",
     "path": "/converse/avikan/avikan/39",
     "op": "replace"
   },
   {
-    "value": "You'd be a great fit for the Seekers, Captain.",
+    "value": "Вы бы отлично подошли для Искателей, капитан.",
     "path": "/converse/avikan/avikan/40",
     "op": "replace"
   },
   {
-    "value": "I'm sure you could become a Centlar if you wanted to.",
+    "value": "Я уверен, что вы могли бы стать центларом, если бы захотели.",
     "path": "/converse/avikan/avikan/41",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, Starfarer.",
+    "value": "Добро пожаловать в Убежище Звездохода, звездоход.",
     "path": "/converse/avikan/avikan/42",
     "op": "replace"
   },
   {
-    "value": "Have you ever seen the ruins of the Old Ones on your journeys?",
+    "value": "Видели ли вы когда-нибудь в своих путешествиях руины Старейших?",
     "path": "/converse/avikan/avikan/43",
     "op": "replace"
   },
   {
-    "value": "Have you ever slain a Thell?",
+    "value": "Вы когда-нибудь убивали телла?",
     "path": "/converse/avikan/avikan/44",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, Captain!",
+    "value": "Добро пожаловать в Убежище Звездохода, капитан!",
     "path": "/converse/avikan/avikan/45",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/avikan/46",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/avikan/47",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/avikan/48",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/avikan/49",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/avikan/50",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/avikan/51",
     "op": "replace"
   },
   {
-    "value": "I don't like you.",
+    "value": "Ты мне не нравишься.",
     "path": "/converse/avikan/trink/0",
     "op": "replace"
   },
   {
-    "value": "Machine.",
+    "value": "Машина.",
     "path": "/converse/avikan/trink/1",
     "op": "replace"
   },
   {
-    "value": "You have no soul, machine.",
+    "value": "У тебя нет души, машина.",
     "path": "/converse/avikan/trink/2",
     "op": "replace"
   },
   {
-    "value": "The Watchers are watching you.",
+    "value": "Смотрители следят за вами.",
     "path": "/converse/avikan/trink/3",
     "op": "replace"
   },
   {
-    "value": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine.",
+    "value": "Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина.",
     "path": "/converse/avikan/trink/4",
     "op": "replace"
   },
   {
-    "value": "I'm not talking to a machine.",
+    "value": "Я не разговариваю с машиной.",
     "path": "/converse/avikan/trink/5",
     "op": "replace"
   },
   {
-    "value": "You'll find few friends here.",
+    "value": "Здесь вы найдете мало друзей.",
     "path": "/converse/avikan/trink/6",
     "op": "replace"
   },
   {
-    "value": "I'm not fond of machines.",
+    "value": "Я не люблю машины.",
     "path": "/converse/avikan/trink/7",
     "op": "replace"
   },
   {
-    "value": "I might tolerate your kind, but that doesn't mean I like you.",
+    "value": "Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь.",
     "path": "/converse/avikan/trink/8",
     "op": "replace"
   },
   {
-    "value": "Who built you?",
+    "value": "Кто вас построил?",
     "path": "/converse/avikan/trink/9",
     "op": "replace"
   },
   {
-    "value": "The Starfarer's Refuge welcomes all, even machines.",
+    "value": "Убежище Звездохода принимает всех, даже машины.",
     "path": "/converse/avikan/trink/10",
     "op": "replace"
   },
   {
-    "value": "I doubt the Starsight Inn offers anything you can even drink, machine.",
+    "value": "Сомневаюсь, что в Старсайт Инн есть хоть что-то, что можно пить.",
     "path": "/converse/avikan/trink/11",
     "op": "replace"
   },
   {
-    "value": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too.",
+    "value": "Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас.",
     "path": "/converse/avikan/trink/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you.",
+    "value": "Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам.",
     "path": "/converse/avikan/trink/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop near here. Use it.",
+    "value": "Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им.",
     "path": "/converse/avikan/trink/14",
     "op": "replace"
   },
   {
-    "value": "Perhaps you could trade in yourself at the material exchange.",
+    "value": "Возможно, вы могли бы обменять себя на бирже материалов.",
     "path": "/converse/avikan/trink/15",
     "op": "replace"
   },
   {
-    "value": "Why don't you leave me and go sit on those asteroids in the distance instead?",
+    "value": "Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?",
     "path": "/converse/avikan/trink/16",
     "op": "replace"
   },
   {
-    "value": "I see you have gained civilian status. Impressive.",
+    "value": "Я вижу, вы получили статус гражданского. Впечатляет.",
     "path": "/converse/avikan/droden/0",
     "op": "replace"
   },
   {
-    "value": "I don't like machines, but you seem okay. For a machine, that is.",
+    "value": "Я не люблю машины, но вы, кажется, нормальный. Для машины, то есть.",
     "path": "/converse/avikan/droden/1",
     "op": "replace"
   },
   {
-    "value": "A Droden with civilian status. How did you achieve that?",
+    "value": "Дроден с гражданским статусом. Как вы этого добились?",
     "path": "/converse/avikan/droden/2",
     "op": "replace"
   },
   {
-    "value": "You machines only ever make things worse.",
+    "value": "Вы только усугубляете ситуацию.",
     "path": "/converse/avikan/droden/3",
     "op": "replace"
   },
   {
-    "value": "You are an example of what machines can be.",
+    "value": "Вы - пример того, какими могут быть машины.",
     "path": "/converse/avikan/droden/4",
     "op": "replace"
   },
   {
-    "value": "I don't like you.",
+    "value": "Ты мне не нравишься.",
     "path": "/converse/avikan/droden/5",
     "op": "replace"
   },
   {
-    "value": "You think you have a soul? You thought wrong.",
+    "value": "Думаете, у вас есть душа? Ты думаешь неправильно.",
     "path": "/converse/avikan/droden/6",
     "op": "replace"
   },
   {
-    "value": "Soulless machine. Get out of here.",
+    "value": "Бездушная машина. Убирайтесь отсюда.",
     "path": "/converse/avikan/droden/7",
     "op": "replace"
   },
   {
-    "value": "At least you're on our side.",
+    "value": "По крайней мере, ты на нашей стороне.",
     "path": "/converse/avikan/droden/8",
     "op": "replace"
   },
   {
-    "value": "Your head would make for a fine trophy.",
+    "value": "Твоя голова станет отличным трофеем.",
     "path": "/converse/avikan/droden/9",
     "op": "replace"
   },
   {
-    "value": "So, you're an actual AI? I thought you'd be scarier.",
+    "value": "Так ты настоящий ИИ? Я думал, ты будешь страшнее.",
     "path": "/converse/avikan/droden/10",
     "op": "replace"
   },
   {
-    "value": "As you're a Droden, I guess the Alien Interaction Protocol doesn't apply here.",
+    "value": "Поскольку вы дроден, думаю, протокол взаимодействия с инопланетянами здесь не действует.",
     "path": "/converse/avikan/droden/11",
     "op": "replace"
   },
   {
-    "value": "You'll get no love from me.",
+    "value": "Ты не получишь от меня любви.",
     "path": "/converse/avikan/droden/12",
     "op": "replace"
   },
   {
-    "value": "You Droden are only good for doing menial labour.",
+    "value": "Вы, дродены, годитесь только для того, чтобы выполнять рутинную работу.",
     "path": "/converse/avikan/droden/13",
     "op": "replace"
   },
   {
-    "value": "Machine people are people too, but don't tell anyone here I said that.",
+    "value": "Машины тоже люди, но не говорите никому, что я это сказал.",
     "path": "/converse/avikan/droden/14",
     "op": "replace"
   },
   {
-    "value": "Hmph.",
+    "value": "Хмф.",
     "path": "/converse/avikan/droden/15",
     "op": "replace"
   },
   {
-    "value": "Yeah?",
+    "value": "Да?",
     "path": "/converse/avikan/droden/16",
     "op": "replace"
   },
   {
-    "value": "My Keff needs repairs. You wouldn't happen to be a repair-frame, would you?",
+    "value": "Моему кеффу нужен ремонт. Вы случайно не занимаетесь ремонтом?",
     "path": "/converse/avikan/droden/17",
     "op": "replace"
   },
   {
-    "value": "Wait, your owner set you free?",
+    "value": "Подождите, ваш хозяин освободил вас?",
     "path": "/converse/avikan/droden/18",
     "op": "replace"
   },
   {
-    "value": "You're nothing more than a walking scrap bag.",
+    "value": "Ты не более чем ходячий мешок для мусора.",
     "path": "/converse/avikan/droden/19",
     "op": "replace"
   },
   {
-    "value": "You're in league with the Thell, aren't you?",
+    "value": "Вы в сговоре с теллами, не так ли?",
     "path": "/converse/avikan/droden/20",
     "op": "replace"
   },
   {
-    "value": "I'm keeping my eye on you, machine.",
+    "value": "Я слежу за тобой, машина.",
     "path": "/converse/avikan/droden/21",
     "op": "replace"
   },
   {
-    "value": "Few Droden are autonomous these days. And that's a good thing.",
+    "value": "В наши дни лишь немногие дродены автономны. И это хорошо.",
     "path": "/converse/avikan/droden/22",
     "op": "replace"
   },
   {
-    "value": "I hope you're on our side. Otherwise, I'll have to dismantle you.",
+    "value": "Надеюсь, вы на нашей стороне. В противном случае мне придется вас ликвидировать.",
     "path": "/converse/avikan/droden/23",
     "op": "replace"
   },
   {
-    "value": "I can't believe your owner actually set you free.",
+    "value": "Не могу поверить, что твой хозяин действительно освободил тебя.",
     "path": "/converse/avikan/droden/24",
     "op": "replace"
   },
   {
-    "value": "What kind of frame are you? Combat? Repairs?.",
+    "value": "Что вы за рама? Боевой? Ремонтный?",
     "path": "/converse/avikan/droden/25",
     "op": "replace"
   },
   {
-    "value": "As per Alien Interaction Proto... Oh right, you're not considered an alien by the Common Law...",
+    "value": "Согласно протоколу взаимодействия... Ах да, по общему праву вы не считаетесь чужаком...",
     "path": "/converse/avikan/droden/26",
     "op": "replace"
   },
   {
-    "value": "You Droden are a dying race.",
+    "value": "Вы, дродены, вымирающая раса.",
     "path": "/converse/avikan/droden/27",
     "op": "replace"
   },
   {
-    "value": "Aren't you supposed to be cleaning something, machine?",
+    "value": "Разве ты не должен что-то чистить, машина?",
     "path": "/converse/avikan/droden/28",
     "op": "replace"
   },
   {
-    "value": "If Rhadeis didn't agree to Droden being free, I suppose you wouldn't have been here.",
+    "value": "Если бы Радейс не согласился на то, чтобы дроден был свободен, полагаю, тебя бы здесь не было.",
     "path": "/converse/avikan/droden/29",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, Droden.",
+    "value": "Добро пожаловать в Убежище Звездохода, дроден.",
     "path": "/converse/avikan/droden/30",
     "op": "replace"
   },
   {
-    "value": "I guess you don't have any use for a drink, but the Starsight Inn might have other things you can use.",
+    "value": "Думаю, выпивка вам ни к чему, но в гостинице Звездоцел Инн могут найтись другие вещи, которые вам пригодятся.",
     "path": "/converse/avikan/droden/31",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/droden/32",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/droden/33",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/droden/34",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/droden/35",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/droden/36",
     "op": "replace"
   },
   {
-    "value": "Greetings, long-ear.",
+    "value": "Приветствую тебя, длинноухий.",
     "path": "/converse/avikan/aegi/0",
     "op": "replace"
   },
   {
-    "value": "Your kind is well known for its diplomats.",
+    "value": "Ваш род хорошо известен своими дипломатами.",
     "path": "/converse/avikan/aegi/1",
     "op": "replace"
   },
   {
-    "value": "Why are your ears so pointy? I've seen creatures very similar to you, but with rounded ears.",
+    "value": "Почему у вас такие острые уши? Я видел существ, очень похожих на вас, но с закругленными ушами.",
     "path": "/converse/avikan/aegi/2",
     "op": "replace"
   },
   {
-    "value": "Those ears of yours remind me a bit of our own flaps.",
+    "value": "Эти ваши уши немного напоминают мне наши собственные закрылки.",
     "path": "/converse/avikan/aegi/3",
     "op": "replace"
   },
   {
-    "value": "You have no flaps? How do you stay safe in the desert?",
+    "value": "У вас нет закрылков? Как оставаться в безопасности в пустыне?",
     "path": "/converse/avikan/aegi/4",
     "op": "replace"
   },
   {
-    "value": "You have rather small eyes.",
+    "value": "У вас довольно маленькие глаза.",
     "path": "/converse/avikan/aegi/5",
     "op": "replace"
   },
   {
-    "value": "I'm surprised you can stand the heat here. Many aliens find it unbearable.",
+    "value": "Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой.",
     "path": "/converse/avikan/aegi/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/aegi/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/aegi/8",
     "op": "replace"
   },
   {
-    "value": "Are you what they call a human?",
+    "value": "Вы тот, кого называют человеком?",
     "path": "/converse/avikan/aegi/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/aegi/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/aegi/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/aegi/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/aegi/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/aegi/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/aegi/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/aegi/16",
     "op": "replace"
   },
   {
-    "value": "Greetings, strange one.",
+    "value": "Приветствую тебя, незнакомец.",
     "path": "/converse/avikan/akkimari/0",
     "op": "replace"
   },
   {
-    "value": "I've heard your kind are mostly scavengers. Don't try anything here.",
+    "value": "Я слышал, что вы в основном падальщики. Не пытайтесь здесь ничего делать.",
     "path": "/converse/avikan/akkimari/1",
     "op": "replace"
   },
   {
-    "value": "You'd better not be one of those pirates I heard about.",
+    "value": "Вам лучше не быть одним из тех пиратов, о которых я слышал.",
     "path": "/converse/avikan/akkimari/2",
     "op": "replace"
   },
   {
-    "value": "Those ears of yours are very odd. They look like tubes.",
+    "value": "У вас очень странные уши. Они похожи на трубки.",
     "path": "/converse/avikan/akkimari/3",
     "op": "replace"
   },
   {
-    "value": "You have a furry belly. How odd.",
+    "value": "У тебя мохнатый живот. Как странно.",
     "path": "/converse/avikan/akkimari/4",
     "op": "replace"
   },
   {
-    "value": "What are those two smaller eyes of yours for?",
+    "value": "Для чего эти два твоих маленьких глаза?",
     "path": "/converse/avikan/akkimari/5",
     "op": "replace"
   },
   {
-    "value": "Your belly looks soft.",
+    "value": "Ваш живот выглядит мягким.",
     "path": "/converse/avikan/akkimari/6",
     "op": "replace"
   },
   {
-    "value": "Hello there.",
+    "value": "Здравствуйте.",
     "path": "/converse/avikan/akkimari/7",
     "op": "replace"
   },
   {
-    "value": "Can I help you?",
+    "value": "Я могу вам помочь?",
     "path": "/converse/avikan/akkimari/8",
     "op": "replace"
   },
   {
-    "value": "Your kind are called Akkimari, right?",
+    "value": "Ваш род называется аккимари, верно?",
     "path": "/converse/avikan/akkimari/9",
     "op": "replace"
   },
   {
-    "value": "Welcome to the Starfarer's Refuge, stranger!",
+    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
     "path": "/converse/avikan/akkimari/10",
     "op": "replace"
   },
   {
-    "value": "Why don't you go and get a drink at the Starsight Inn?",
+    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
     "path": "/converse/avikan/akkimari/11",
     "op": "replace"
   },
   {
-    "value": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles.",
+    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
     "path": "/converse/avikan/akkimari/12",
     "op": "replace"
   },
   {
-    "value": "Odyin as-Rhadeis is the best weapons vendor you'll find here.",
+    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
     "path": "/converse/avikan/akkimari/13",
     "op": "replace"
   },
   {
-    "value": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?",
+    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
     "path": "/converse/avikan/akkimari/14",
     "op": "replace"
   },
   {
-    "value": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop.",
+    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
     "path": "/converse/avikan/akkimari/15",
     "op": "replace"
   },
   {
-    "value": "I thought I saw someone on those asteroids in the distance...",
+    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
     "path": "/converse/avikan/akkimari/16",
     "op": "replace"
   }

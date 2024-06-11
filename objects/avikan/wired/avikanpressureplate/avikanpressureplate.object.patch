@@ -1,31 +1,31 @@
 [
   {
-    "value": "Avikan Pressure Plate",
+    "value": "Нажимная пластина Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pressure plate that activates when stood on.",
+    "value": "Нажимная пластина, которая активируется, если на нее встать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran sstand on platess, thingsss happen!",
+    "value": "Флоран стой на тарелках, всякое случается!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. Something might happen if I stand on this pressure plate.",
+    "value": "Осторожный. Что-то может случиться, если я встану на эту нажимную пластину.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Pressure plate. Activated when stood upon.",
+    "value": "Анализ. Прижимная плита. Активируется при наступлении.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plate-pressure, activate if Akki stand on. Is Akki fat?",
+    "value": "Давление плит, активируется, если Акки встанет. Акки толстая?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Rusted Alliance Shuttlecraft",
+    "value": "Ржавый шаттл Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rusted shuttlecraft that's been long out of commission.",
+    "value": "Ржавый шаттл, давно вышедший из строя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A rusted shuttle. It's of no use to anyone but scavengers at this point.",
+    "value": "Ржавый шаттл. На данный момент это бесполезно никому, кроме мусорщиков.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A useless rusted shuttle. Its wings were clipped by time.",
+    "value": "Бесполезный ржавый шаттл. Его крылья были подрезаны временем.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Russsted out sshuttle iss worthless.",
+    "value": "Вышедший шаттл бесполезен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Saddened. This vehicle has seen the best of its days.",
+    "value": "Опечаленный. Этот автомобиль пережил лучшие свои времена.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This shuttle is rusted through. It's little more than scrap metal now.",
+    "value": "Этот шаттл проржавел насквозь. Сейчас это не более чем металлолом.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A once beautiful shuttle brought low by time and weather.",
+    "value": "Некогда красивый шаттл, разрушенный временем и погодой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A rusted out ship, it ain't of any use now.",
+    "value": "Корабль проржавевший, теперь он бесполезен.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This ASA-26 Ranger has seen better days. I doubt it'll ever fly again.",
+    "value": "Этот ASA-26 Ranger знавал лучшие времена. Я сомневаюсь, что он когда-нибудь снова полетит.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A rusted-out alien vessel.",
+    "value": "Ржавый инопланетный корабль.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "It takes a lot for a Ranger to start rusting.",
+    "value": "Рейнджеру нужно немало времени, чтобы начать ржаветь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien spacecraft. Status: decommissioned.",
+    "value": "Обнаружен космический корабль пришельцев. Статус: списан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take parts, make new ship. Ship-better!",
+    "value": "Акки разбирай детали, делай новый корабль. Корабль-лучше!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

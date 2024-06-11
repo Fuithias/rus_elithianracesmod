@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;A Shielded Eye",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Щитовой Глаз",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I recovered a shield generator from an Oculus's wreckage. It still looks functional, but all of the connections have been fried... ^green;Perhaps someone who studies Centensian technology can repair it for me.^reset;",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я нашёл генератор щита в обломках Окулуса. Он всё ещё выглядит функциональным, но все соединения сгорели... ^green;Возможно, кто-то, кто изучает Центенсианские технологии, сможет его починить.^reset;",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Is this a part from a Ce'Tennan Oculus? Incredible! I think I might know how to get it operational again.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это часть от Окулуса Цетенна? Невероятно! Думаю, я знаю, как снова запустить его.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

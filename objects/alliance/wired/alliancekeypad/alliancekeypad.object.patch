@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Keypad",
+    "value": "Клавиатура Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A programmable keypad for locking doors with a passcode.",
+    "value": "Программируемая клавиатура для запирания дверей паролем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A keypad. I can use it to lock a door with a passcode.",
+    "value": "Клавиатура. Я могу использовать его, чтобы запереть дверь паролем.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad, useful for locking precious gems in a vault.",
+    "value": "Клавиатура, полезная для блокировки драгоценных камней в хранилище.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran presssess buttonss, Floran unlockss doorss!",
+    "value": "Флоран нажимает кнопки, Флоран открывает двери!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. What might this unlock?",
+    "value": "Взволнованный. Что это может разблокировать?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a keypad. I should try some combinations!",
+    "value": "Это клавиатура. Надо попробовать несколько комбинаций!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad, highly effective at locking things away securely.",
+    "value": "Клавиатура, высокоэффективная для надежного запирания вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I've never been good at remembering passcodes.",
+    "value": "Я никогда не хорошо запоминал пароли.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad built by AAE. It uses a simple five digit passcode.",
+    "value": "Клавиатура, созданная AAE. Он использует простой пятизначный пароль.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad. The symbols on it are strange.",
+    "value": "Клавиатура. Символы на нем странные.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad. Highly effective and efficient at locking doors securely.",
+    "value": "Клавиатура. Очень эффективен и эффективен для надежного запирания дверей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien security keypad.",
+    "value": "Обнаружена клавиатура безопасности инопланетянина.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki need code... Akki want to break!",
+    "value": "Акки нужен код... Акки хочу сломать!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

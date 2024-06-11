@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Barricade",
+    "value": "Авиканская баррикада",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A barricade made of sharpened bones.",
+    "value": "Баррикада из заточенных костей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A primitive but effective barricade.",
+    "value": "Примитивная, но эффективная баррикада.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A barricade made of sharpened bones.",
+    "value": "Баррикада из заточенных костей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful around sstabby bonesss.",
+    "value": "Флоран осторожен с колючими костями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A simple barricade made of sharpened bones.",
+    "value": "Наблюдение. Простая баррикада из заточенных костей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This barricade may be primitive, but it is still quite effective.",
+    "value": "Возможно, эта баррикада и примитивна, но она все равно весьма эффективна.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A deadly barricade built from the bones of the dead.",
+    "value": "Смертоносная баррикада, построенная из костей мертвецов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "T'is a simple barricade.",
+    "value": "Это простая баррикада.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple barricade made of sharpened bones.",
+    "value": "Простая баррикада из заточенных костей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This should keep out intruders.",
+    "value": "Это должно отпугнуть злоумышленников.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Sharpened bones made into a simple barricade.",
+    "value": "Острые кости превратились в простую баррикаду.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected barricade. Recommended action: go around.",
+    "value": "Обнаружена баррикада. Рекомендуемое действие: обойти.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bones-sharpened make for barricade-good.",
+    "value": "Заостренные кости делают баррикаду хорошей.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

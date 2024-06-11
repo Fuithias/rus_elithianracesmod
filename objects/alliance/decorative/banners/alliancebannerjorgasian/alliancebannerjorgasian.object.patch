@@ -1,31 +1,31 @@
 [
   {
-    "value": "Triple Monarchy Banner",
+    "value": "Знамя тройной монархии",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Triple Monarchy.",
+    "value": "Знамя, украшенное гербом Тройной монархии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Triple Monarchy iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Тройной монархии.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki recognize! Symbol for the Monarchy-Triple.",
+    "value": "Акки признаю! Символ Тройной Монархии.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

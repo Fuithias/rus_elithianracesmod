@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Observatory Window",
+    "value": "Окно обсерватории Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large reinforced window.",
+    "value": "Большое усиленное окно.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran fassscinated by viewsss...",
+    "value": "Флоран очарован видами...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Opinion. This window provides an excellent view.",
+    "value": "Мнение. Из этого окна открывается отличный вид.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This window provides an excellent view.",
+    "value": "Из этого окна открывается отличный вид.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Glass.",
+    "value": "Анализ. Стекло.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "View-beautiful. Akki like.",
+    "value": "Вид-красивый. Акки вроде.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

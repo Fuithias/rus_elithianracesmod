@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong metal hull for ships and buildings alike.",
+    "value": "Прочный металлический корпус как для кораблей, так и для зданий.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Hull",
+    "value": "Тринкиан Халл",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Water Dispenser",
+    "value": "Диспенсер для воды Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal container full of water.",
+    "value": "Металлический контейнер, полный воды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A metal container full of water.",
+    "value": "Металлический контейнер, полный воды.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Fresh water!",
+    "value": "Пресная вода!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Water in big boxesss.",
+    "value": "Вода в больших ящиках.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A metal container filled with water.",
+    "value": "Наблюдение. Металлический контейнер, наполненный водой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Fresh and clean water - how do I get it out?",
+    "value": "Свежая и чистая вода – как ее добыть?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Pure water, refreshing for the soul.",
+    "value": "Чистая вода, освежающая душу.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A container containing water. This looks like it'll never leak.",
+    "value": "Емкость с водой. Похоже, оно никогда не протечет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A container full of water, of vital importance to our people.",
+    "value": "Контейнер, полный воды, имеет жизненно важное значение для нашего народа.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This water container is unlikely to ever start leaking.",
+    "value": "Этот контейнер для воды вряд ли когда-нибудь начнет протекать.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected water supply. Container status: unbreached.",
+    "value": "Обнаружен запас воды. Статус контейнера: не вскрыт.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Water, for Akkimari-thirsty.",
+    "value": "Вода для жаждущего Аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

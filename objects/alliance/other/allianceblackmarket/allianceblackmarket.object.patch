@@ -1,41 +1,41 @@
 [
   {
-    "value": "Bolter's Bazaar",
+    "value": "Болтерский базар",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This Trink looks shady...",
+    "value": "Этот Тринк выглядит подозрительно...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssshady looking robot can ssell Floran many goodsss.",
+    "value": "Робот-с-с-с-с-с-с-с-с-с-с-мнимным видом может продать Флорану много товаров.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Hesitant. I am not sure if I should be dealing with such shady figures.",
+    "value": "Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A shady lookin' fella. Gotta be a black market of sorts.",
+    "value": "Странный на вид парень. Должно быть, это своего рода черный рынок.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A machine, and a shady one at that. I should be careful.",
+    "value": "Машина, и притом подозрительная. Мне следует быть осторожным.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected unregistered robotic merchant. Recommending caution.",
+    "value": "Обнаружен незарегистрированный робот-торговец. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Alien-shady sells stuff-good.",
+    "value": "Чужой-теневой продает хорошие вещи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

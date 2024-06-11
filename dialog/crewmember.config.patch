@@ -1,121 +1,121 @@
 [
   {
-    "value": "What's the mission today?",
+    "value": "Какое сегодня задание?",
     "path": "/converse/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm ready for an adventure!",
+    "value": "Я готов к приключениям!",
     "path": "/converse/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis will guide our travels.",
+    "value": "Радеис будет направлять наши путешествия.",
     "path": "/converse/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "The stars are ours to explore.",
+    "value": "Звезды наши для исследования.",
     "path": "/converse/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "What is our current mission?",
+    "value": "Какова наша текущая миссия?",
     "path": "/converse/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am always ready for adventure.",
+    "value": "Я всегда готов к приключениям.",
     "path": "/converse/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "I was built ready for adventure.",
+    "value": "Я был создан готовым к приключениям.",
     "path": "/converse/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "I will ensure your safety.",
+    "value": "Я обеспечу твою безопасность.",
     "path": "/converse/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "This unit is ready.",
+    "value": "Этот юнит готов.",
     "path": "/converse/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Requesting current objective details.",
+    "value": "Запрашиваю детали текущей задачи.",
     "path": "/converse/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting briefing on current mission.",
+    "value": "Запрашиваю брифинг по текущей миссии.",
     "path": "/converse/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "This unit is ready to serve.",
+    "value": "Этот юнит готов служить.",
     "path": "/converse/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "What's up, boss?",
+    "value": "Как дела, босс?",
     "path": "/converse/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Let's get out there!",
+    "value": "Давай выдвигаться!",
     "path": "/converse/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I have your back, boss.",
+    "value": "Я прикрою тебя, босс.",
     "path": "/converse/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "I'm with you.",
+    "value": "Я с тобой.",
     "path": "/converse/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "What you need?",
+    "value": "Что тебе нужно?",
     "path": "/converse/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki wanna go out and fight.",
+    "value": "Акки хочет выйти и сражаться.",
     "path": "/converse/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki support you. If you in need of help, Akki provide.",
+    "value": "Акки поддерживает тебя. Если тебе нужна помощь, Акки предоставит.",
     "path": "/converse/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "You need Akki?",
+    "value": "Тебе нужен Акки?",
     "path": "/converse/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "I have your back.",
+    "value": "Я прикрою тебя.",
     "path": "/converse/thelean/default/0",
     "op": "replace"
   },
   {
-    "value": "I'll follow you anywhere.",
+    "value": "Я пойду за тобой куда угодно.",
     "path": "/converse/thelean/default/1",
     "op": "replace"
   },
   {
-    "value": "What are your instructions?",
+    "value": "Каковы твои инструкции?",
     "path": "/converse/thelean/default/2",
     "op": "replace"
   },
   {
-    "value": "Just say the word.",
+    "value": "Просто скажи слово.",
     "path": "/converse/thelean/default/3",
     "op": "replace"
   }

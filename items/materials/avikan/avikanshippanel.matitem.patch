@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal panel with sharp edges, for use on ships.",
+    "value": "Металлическая панель с острыми краями для использования на кораблях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Ship Panel",
+    "value": "Панель корабля «Авикан»",
     "path": "/shortdescription",
     "op": "replace"
   }

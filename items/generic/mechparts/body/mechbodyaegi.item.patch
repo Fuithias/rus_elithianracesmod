@@ -1,11 +1,11 @@
 [
   {
-    "value": "This heavily armoured mech body was manufactured by Enerth Engineering.",
+    "value": "Этот тяжелобронированный корпус был изготовлен компанией Enerth Engineering.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Guardian Mech Body",
+    "value": "Тело механического стража",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Ghavorkan Figurine",
+    "value": "Фигурка Гаворкана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A twisted creature created by the Theleans.\"",
+    "value": "На этикетке написано: «Извращенное существо, созданное телеанцами».",
     "path": "/description",
     "op": "replace"
   }

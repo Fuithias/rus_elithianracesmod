@@ -1,11 +1,11 @@
 [
   {
-    "value": "Fabric tapestry for wall decoration and insulation.",
+    "value": "Тканевый гобелен для отделки и утепления стен.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Fabric",
+    "value": "Авикан Ткань",
     "path": "/shortdescription",
     "op": "replace"
   }

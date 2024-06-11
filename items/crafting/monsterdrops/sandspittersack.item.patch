@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sack-like organ full of sand, ready for spitting.",
+    "value": "Похожий на мешок орган, полный песка, готовый выплевывать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sandspitter's Sack",
+    "value": "Мешок Песочника",
     "path": "/shortdescription",
     "op": "replace"
   }

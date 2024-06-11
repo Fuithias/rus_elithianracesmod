@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Bone Ballistics",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Костяные Баллистики",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I see you carry a bone bow, Captain. Far too few people in this refuge use traditional weapons nowadays... I have a ^orange;Bone Crossbow schematic ^white;you can have, if you prove yourself a capable hunter. ^green;Return to me with a ^orange;Great Monster Bone^green;, and the schematic is yours.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Вижу, у вас костяной лук, капитан. Слишком мало людей в этом убежище используют традиционное оружие в наши дни... У меня есть ^orange;чертеж Костяного Арбалета ^white;, который вы можете получить, если докажете, что вы способны на это. ^green;Принесите мне ^orange;Большую Кость Монстра^green;, и чертеж ваш.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "As promised, here is the schematic for that Bone Crossbow. Fight well, Captain.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Как и обещал, вот чертеж того Костяного Арбалета. Сражайтесь хорошо, капитан.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Makhan ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Махану ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

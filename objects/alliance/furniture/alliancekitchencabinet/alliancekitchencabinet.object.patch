@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Kitchen Cabinet",
+    "value": "Кухонный шкаф Альянс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wall-mounted kitchen cabinet.",
+    "value": "Навесной кухонный шкаф.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple cabinet.",
+    "value": "Простой шкаф.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Just a cabinet.",
+    "value": "Просто шкаф.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran knowsss thiss iss a cabinet.",
+    "value": "Флоран знает, что это шкаф.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Bored. Simply a cabinet.",
+    "value": "Скучающий. Просто шкаф.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A pretty regular cabinet.",
+    "value": "Вполне обычный кабинет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A good place to store kitchen equipment.",
+    "value": "Хорошее место для хранения кухонного инвентаря.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple cabinet.",
+    "value": "Простой шкаф.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet, for storage.",
+    "value": "Шкаф, для хранения.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Storage. Not sure for what, though.",
+    "value": "Хранилище. Хотя не уверен, за что.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet.",
+    "value": "Кабинет.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien storage.",
+    "value": "Обнаружено хранилище инопланетян.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Things-fragile inside. Look like plates-food.",
+    "value": "Вещи-хрупкие внутри. Выглядят как тарелки-еда.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

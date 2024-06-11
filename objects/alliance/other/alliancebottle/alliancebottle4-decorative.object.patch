@@ -1,71 +1,71 @@
 [
   {
-    "value": "Froza Bottle",
+    "value": "Бутылка Фрозы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bottle of Froza.",
+    "value": "Бутылка Фрозы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bottle of juice.",
+    "value": "Бутылка сока.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A full bottle of juice.",
+    "value": "Полная бутылка сока.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Drinksss.",
+    "value": "Пью.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A bottle of juice.",
+    "value": "Наблюдение. Бутылка сока.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I love this alien juice!",
+    "value": "Обожаю этот инопланетный сок!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly nutritional juice.",
+    "value": "Очень питательный сок.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Drink up.",
+    "value": "Выпить.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A bottle of Vahlberry juice.",
+    "value": "Бутылка сока Валберри.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien drink. Not sure if I should try it.",
+    "value": "Инопланетный напиток. Не уверен, стоит ли мне это пробовать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Many Aegi enjoy this Vahlberry juice.",
+    "value": "Многие Aegi наслаждаются этим соком Vahlberry.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien drink.",
+    "value": "Анализ завершен. Чужой напиток.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki thirsty.",
+    "value": "Акки хочет пить.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

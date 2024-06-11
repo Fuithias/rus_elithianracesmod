@@ -1,66 +1,66 @@
 [
   {
-    "value": "Vanguard RPG Display",
+    "value": "Авангардная ролевая игра",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan rocket launcher on display.",
+    "value": "На выставке представлена ​​ракетная установка «Авикан».",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This rocket launcher looks intimidating.",
+    "value": "Эта ракетная установка выглядит устрашающе.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A weapon of great power.",
+    "value": "Оружие огромной силы.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not scared by boom-ssstick.",
+    "value": "Флорана не пугает бум-сспалка.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intimidated. A single rocket from this weapon could destroy my frame.",
+    "value": "Запуган. Одна-единственная ракета из этого оружия могла разрушить мой корпус.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A bad-ass rocket launcher if I ever saw one!",
+    "value": "Крутая ракетная установка, если я ее когда-либо видел!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A weapon of great destructive power.",
+    "value": "Оружие огромной разрушительной силы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An impressive weapon of Avikan design.",
+    "value": "Впечатляющее оружие конструкции Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This Vanguard rocket launcher instills fear into any enemy.",
+    "value": "Эта ракетная установка «Авангард» вселяет страх в любого врага.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A rather inefficient killing machine, but effective nonetheless.",
+    "value": "Довольно неэффективная машина для убийства, но тем не менее эффективная.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Explosive weapon detected. Please exercise caution.",
+    "value": "Обнаружено взрывное оружие. Пожалуйста, соблюдайте осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Launcher-rocket, make big boom! Make Akki happy.",
+    "value": "Ракета-пусковая установка, сделайте большой взрыв! Сделайте Акки счастливой.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

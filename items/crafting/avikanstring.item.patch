@@ -1,11 +1,11 @@
 [
   {
-    "value": "Hard and tough, this string is perfect for sewing together pieces of leather.",
+    "value": "Твердая и прочная, эта нить идеально подходит для сшивания кусков кожи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Tough String",
+    "value": "Жесткая струна",
     "path": "/shortdescription",
     "op": "replace"
   }

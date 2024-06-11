@@ -1,11 +1,11 @@
 [
   {
-    "value": "A lightweight panel.",
+    "value": "Легкая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Smooth Centensian Panel",
+    "value": "Гладкая центенская панель",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Linerifles in Space",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Линейные винтовки в космосе",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Ayurin and I have been working on a new, highly powerful linecharge system for a mech, but we need some of that ^orange;Centensian Liquid ^white;in order to optimize its performance. If you could ^green;bring ^orange;50 units of that liquid ^green;to ^orange;Ayurin^white;, he'll give you a copy of our blueprint.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Айурин и я работаем над новой, высокомощной линейной зарядной системой для меха, но нам нужна немного ^orange;Центенсийской Жидкости ^white;чтобы оптимизировать ее производительность. Если вы сможете ^green;принести ^orange;50 единиц этой жидкости ^green;к ^orange;Айурину^white;, он даст вам копию нашего чертежа.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "This will do just fine, thank you. As Rehkon promised, here are the blueprints for our linerifle mech weapon.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это подойдет, спасибо. Как обещал Рекхон, вот чертежи для нашего линейного оружия меха.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
-      "value": "^orange;A Special Gift",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Особый Подарок",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "It seems you've made friends somewhere! I've got a special delivery for you, courtesy of an Aegi who wouldn't share their name, but who greatly appreciates your continued support. Enjoy your present!",
-      "path": "/text",
-      "op": "replace"
+    "value": "Кажется, вы где-то нашли друзей! У меня есть для вас особая посылка, от Эйгинианца, который не захотел назвать своё имя, но который очень ценит вашу поддержку. Наслаждайтесь вашим подарком!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "I received a special gift from an Aeginian friend. Let's open it!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Я получил особый подарок от друга из Эйгинии. Давайте откроем его!",
+    "path": "/completionText",
+    "op": "replace"
   }
 ]

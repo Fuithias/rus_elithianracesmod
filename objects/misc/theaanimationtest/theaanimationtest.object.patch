@@ -1,11 +1,11 @@
 [
   {
-    "value": "Animation Test",
+    "value": "Тест анимации",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An animation test. Where did you get this?",
+    "value": "Анимационный тест. Где ты это взял?",
     "path": "/description",
     "op": "replace"
   }

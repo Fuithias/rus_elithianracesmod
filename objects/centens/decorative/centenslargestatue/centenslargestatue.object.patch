@@ -1,71 +1,71 @@
 [
   {
-    "value": "Large Ce'tennan Statue",
+    "value": "Большая статуя Це'теннана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large statue depicting a Centensian warrior.",
+    "value": "Большая статуя, изображающая центенского воина.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This statue depicts an alien warrior of sorts.",
+    "value": "Эта статуя изображает своего рода инопланетного воина.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shining statue of an alien warrior.",
+    "value": "Сияющая статуя инопланетного воина.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Large ssstatue is sshiny!",
+    "value": "Большая статуя блестящая!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascination. This statue is ancient, yet still in pristine condition.",
+    "value": "Очарование. Эта статуя древняя, но все еще находится в первозданном состоянии.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This statue is beautiful! I wish I had a sword like that...",
+    "value": "Эта статуя прекрасна! Я бы хотел иметь такой меч...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This statue is fascinating. The craftsmanship is unparalelled.",
+    "value": "Эта статуя очаровательна. Мастерство не имеет себе равных.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This 'ere statue looks right old!",
+    "value": "Эта статуя выглядит очень старой!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A fascinating statue indeed! These Centensian relics always have an air of mystery to me!",
+    "value": "Действительно, очаровательная статуя! Для меня эти центенские реликвии всегда кажутся загадочными!",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A statue left behind by the Old Ones. It is beautiful, like all of their relics.",
+    "value": "Статуя, оставленная Древними. Он прекрасен, как и все их реликвии.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This statue depicts a Ce'tennan, or Centens - both names apply.",
+    "value": "Эта статуя изображает Цетеннана или Центена — оба названия применимы.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing statue. Detected Centensian craftsmanship.",
+    "value": "Анализ статуи. Обнаружено центенское мастерство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-maker statue, sword-large. Akki want to take sword!",
+    "value": "Статуя бога-создателя, размером с меч. Акки хочет взять меч!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

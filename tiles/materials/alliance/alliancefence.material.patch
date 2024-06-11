@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Fence",
+    "value": "Забор Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal fence.",
+    "value": "Прочный металлический забор.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. A sturdy fence like this will keep out any unwanted creatures.",
+    "value": "Удовлетворение. Такой прочный забор не пропустит нежелательных существ.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Sssturdy fence.",
+    "value": "Прочный забор.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A strong lookin' metal fence. Might be useful for buildin' a ranch.",
+    "value": "Прочный металлический забор. Может быть полезен для строительства ранчо.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal fencing.",
+    "value": "Анализ завершен. Металлический забор.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fence-sturdy.",
+    "value": "Забор-прочный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

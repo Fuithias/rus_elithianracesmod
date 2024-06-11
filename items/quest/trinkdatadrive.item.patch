@@ -1,16 +1,16 @@
 [
   {
-    "value": "A Trinkian data storage device. It is currently empty.",
+    "value": "Тринкианское устройство хранения данных. В настоящее время он пуст.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Circuit Data Drive^white;",
+    "value": "^#BA66FF;Схема накопителя данных^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

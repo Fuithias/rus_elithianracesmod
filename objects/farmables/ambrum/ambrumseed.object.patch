@@ -1,71 +1,71 @@
 [
   {
-    "value": "Ambrum Seed",
+    "value": "Семя амбрума",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The soft fluffy fibers of this plant can be woven into cloth.",
+    "value": "Из мягких пушистых волокон этого растения можно плести ткань.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The fibers harvested from this plant can be woven into cloth.",
+    "value": "Из волокон этого растения можно ткать ткань.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I could weave these fibers into cloth, I think.",
+    "value": "Думаю, из этих волокон можно было бы сплести ткань.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make thingsss from ssoft fluffss.",
+    "value": "Флоран умеет делать вещи из мягкого пуха.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Creative. I could use these fibers to weave cloth.",
+    "value": "Творческий. Я мог бы использовать эти волокна для ткачества ткани.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks a bit like cotton. Maybe it has similar uses too?",
+    "value": "Это немного похоже на хлопок. Может быть, у него тоже есть похожее применение?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "If this is anything like cotton, I could weave a new kimono from these fibers.",
+    "value": "Если это что-то вроде хлопка, я могла бы сплести из этих волокон новое кимоно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like cotton, yet it doesn't feel quite like cotton.",
+    "value": "Выглядит как хлопок, но на ощупь не совсем хлопок.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An ambrum plant. The fibers protecting its seeds can be woven into cloth.",
+    "value": "Растение амбрум. Волокна, защищающие его семена, можно вплетать в ткань.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Soft fluffy fibers. Used to weave cloth, perhaps?",
+    "value": "Мягкие пушистые волокна. Может, ткань ткали?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Aegi commonly use ambrum to weave cloth.",
+    "value": "Эги обычно используют амбрум для плетения ткани.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien plantlife. Analysis: soft protective fibers are compatible for cloth-weaving.",
+    "value": "Обнаружена инопланетная растительная жизнь. Анализ: мягкие защитные волокна пригодны для ткачества тканей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant-alien, make fibers-white. Remind Akki of silk-Akkimari.",
+    "value": "Растение-чужеродное, сделает волокна белыми. Напомни Акки о шелке-Аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

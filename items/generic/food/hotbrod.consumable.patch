@@ -1,11 +1,11 @@
 [
   {
-    "value": "A warm folded piece of bread, with a secret ingredient inside for an amazing taste.",
+    "value": "Теплый свернутый кусок хлеба с секретным ингредиентом внутри, придающим изумительный вкус.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hotbröd",
+    "value": "Хотбрёд",
     "path": "/shortdescription",
     "op": "replace"
   }

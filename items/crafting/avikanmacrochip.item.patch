@@ -1,11 +1,11 @@
 [
   {
-    "value": "A top-of-the-line computing chip, for when you need a lot power in a small package.",
+    "value": "Первоклассный вычислительный чип для тех случаев, когда вам нужно много мощности в небольшом корпусе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Macrochip",
+    "value": "Авикан Макрочип",
     "path": "/shortdescription",
     "op": "replace"
   }

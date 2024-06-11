@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Racing Gate - Slow",
+    "value": "Авиканские гоночные ворота — медленный",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A gate that slows down hoverbikes. It sends out a signal whenever a vehicle passes through it.",
+    "value": "Ворота, замедляющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A racing gate. It'll slow down any hoverbike that passes by.",
+    "value": "Гоночные ворота. Он замедлит любой проезжающий мимо ховербайк.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This racing gate slows down passing hoverbikes.",
+    "value": "Эти гоночные ворота замедляют проезжающие мимо ховербайки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran ssshould be careful. Glowing pole ssslowss down hoverbikess.",
+    "value": "Флорану следует быть осторожнее. Светящийся столб замедляет движение ховербайка.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. Riding past this on a hoverbike causes a significant slow-down.",
+    "value": "Осторожный. Проезд мимо него на ховербайке вызывает значительное замедление.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A racing gate that slows down passing hoverbikes. Darn.",
+    "value": "Гоночные ворота, замедляющие проезжающие мимо ховербайки. Штопать.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A gate that slows down passing hoverbikes.",
+    "value": "Ворота, замедляющие проезжающие мимо ховербайки.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This marker slows down hoverbikes. Yikes.",
+    "value": "Этот маркер замедляет ховербайки. Да.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This gate will slow down any passing hoverbike.",
+    "value": "Эти ворота замедлят любой проезжающий мимо ховербайк.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A gate that slows down passing hoverbikes.",
+    "value": "Ворота, замедляющие проезжающие мимо ховербайки.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A marker that forces hoverbikes to slow down.",
+    "value": "Маркер, заставляющий ховербайки замедляться.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected racing gate. Slows down passing hoverbikes.",
+    "value": "Обнаружены гоночные ворота. Замедляет проезжающие мимо ховербайки.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki drive by, Akki slows down. Akki not like.",
+    "value": "Акки проезжает мимо, Акки тормозит. Акки не нравится.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Spear Rack",
+    "value": "Авикан Стойка для копий",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rack of bone spears.",
+    "value": "Стойка с костяными копьями.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Spears of bone. How primitive.",
+    "value": "Копья из кости. Как примитивно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Spears made of bone. Surprisingly pointy.",
+    "value": "Копья из кости. Удивительно острый.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bone spearsss. Floran likesss.",
+    "value": "Костяное копье. Флорану нравится.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. Spears.",
+    "value": "Заявление. Спирс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Bone spears, but the rack is made of metal. Odd.",
+    "value": "Копья из кости, но стойка сделана из металла. Странный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "These spears are made of bone. But from what sort of creature?",
+    "value": "Эти копья сделаны из кости. Но от какого существа?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These bone spears are unusually sharp and strong.",
+    "value": "Эти костяные копья необычайно острые и прочные.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Traditional bone spears from home. Stronger than many metal spears.",
+    "value": "Традиционные костяные копья из дома. Сильнее многих металлических копий.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A collection of bone spears.",
+    "value": "Коллекция костяных копий.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Detected Sandstalker bone.",
+    "value": "Анализ завершен. Обнаружена кость песчаного ловца.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Spears-bone, for hunting.",
+    "value": "Копьевидная кость для охоты.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Part of a pre-fabricated wall.",
+    "value": "Часть сборной стены.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Prefab Wall",
+    "value": "Сборная стена Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

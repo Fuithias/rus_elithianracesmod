@@ -1,11 +1,11 @@
 [
   {
-    "value": "An advanced weapon upgrade kit. Upgrades weapons to level 4.",
+    "value": "Усовершенствованный комплект улучшения оружия. Улучшает оружие до 4 уровня.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Upgrade Kit L.4",
+    "value": "Комплект обновления L.4",
     "path": "/shortdescription",
     "op": "replace"
   }

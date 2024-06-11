@@ -1,71 +1,71 @@
 [
   {
-    "value": "Ce'tennan Guardian",
+    "value": "Це'теннан-страж",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A statue depicting a Centensian guardian.",
+    "value": "Статуя, изображающая центенского стража.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A statue depicting an alien guardian.",
+    "value": "Статуя, изображающая инопланетного стража.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This statue looks as if it could start moving at any time.",
+    "value": "Эта статуя выглядит так, будто может начать двигаться в любой момент.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal ssstatue hass a ssharp ssspear!",
+    "value": "У металлической статуи есть-с-острое-с-копье!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. I wonder what this guardian is supposed to be guarding.",
+    "value": "Любопытный. Интересно, что этот страж должен охранять?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This statue leaves me feeling uneasy. It looks as if it could start moving at any time.",
+    "value": "Эта статуя вызывает у меня чувство беспокойства. Кажется, что он может начать двигаться в любой момент.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A work of art, this statue. The surface is so smooth!",
+    "value": "Эта статуя - произведение искусства. Поверхность такая гладкая!",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "T'is a statue alright, but what creature does it depict?",
+    "value": "Это хорошая статуя, но какое существо она изображает?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A truly life-like statue, and with a spear that could easily pierce armour.",
+    "value": "По-настоящему реалистичная статуя с копьем, которое могло легко пробить броню.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Old Ones left this statue behind. What was this guardian guarding?",
+    "value": "Древние оставили эту статую. Что охранял этот страж?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This statue must be many millenia old, yet it still looks untouched.",
+    "value": "Этой статуе, должно быть, много тысячелетий, но она до сих пор выглядит нетронутой.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing statue. Detected Centensian craftsmanship.",
+    "value": "Анализ статуи. Обнаружено центенское мастерство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Statue, holding spear-sharp.",
+    "value": "Статуя, держащая острое копье.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

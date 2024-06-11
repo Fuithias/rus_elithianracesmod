@@ -1,11 +1,11 @@
 [
   {
-    "value": "Stingwing Swarm Figurine",
+    "value": "Фигурка статуэтки Жалокрылов",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"Stingwing swarms operate as a single creature, using specialized feromones to communicate and coordinate.\"",
+    "value": "На этикетке написано: «Рой жалокрылов действует как единое существо, используя специальные феромоны для общения и координации».",
     "path": "/description",
     "op": "replace"
   }

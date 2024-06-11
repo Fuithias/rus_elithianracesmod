@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Sloped Glass",
+    "value": "Тринкское наклонное стекло",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Thick and strong glass often used on board spaceships.",
+    "value": "Толстое и прочное стекло, часто используемое на борту космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Impressed. This glass is strong enough for use on spaceships.",
+    "value": "Впечатлен. Это стекло достаточно прочное для использования на космических кораблях.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran look pretty in glasssss.",
+    "value": "Флоран красиво выглядит в стекле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "value": "Толстое стекло, но я все равно могу видеть насквозь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick glass used on spaceships.",
+    "value": "Анализ завершен. Толстое стекло, используемое на космических кораблях.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Glass-thick, for spaceship.",
+    "value": "Стекло-толстое, для космических кораблей.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

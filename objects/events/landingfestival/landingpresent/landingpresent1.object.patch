@@ -1,71 +1,71 @@
 [
   {
-    "value": "Landing Festival Present",
+    "value": "Фестиваль высадки в подарок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wrapped present for the Landing Festival.",
+    "value": "Упакованный подарок для Фестиваля высадки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A gift! Who is it for?",
+    "value": "Подарок! Кто это для?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder who this present is for.",
+    "value": "Интересно, для кого этот подарок?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran want presssent! Floran hopesss it'ss a new knife for ssstabbing.",
+    "value": "Флорану нужна пресса! Флоран надеется, что это новый нож для ссс-колотых операций.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Who is this gift for?",
+    "value": "Любопытный. Для кого этот подарок?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A big present! I wanna open it!",
+    "value": "Большой подарок! Я хочу открыть его!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The tradition of gift-giving is a very positive one.",
+    "value": "Традиция дарения подарков очень позитивна.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Could there be a new revolver inside?",
+    "value": "Может ли быть внутри новый револьвер?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A nicely wrapped gift, just asking to be unwrapped..,",
+    "value": "Красиво упакованный подарок, так и хочется развернуть..,",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "It's a box of some sort. I'm not sure what all that decoration is good for.",
+    "value": "Это какая-то коробка. Я не уверен, для чего нужны все эти украшения.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A gift wrapped in decorative paper. Not very efficient.",
+    "value": "Подарок, завернутый в декоративную бумагу. Не очень эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing. Detected boxed product. Low material value.",
+    "value": "Анализируем. Обнаружен коробочный продукт. Низкая материальная ценность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want to see inside!",
+    "value": "Акки хочу заглянуть внутрь!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

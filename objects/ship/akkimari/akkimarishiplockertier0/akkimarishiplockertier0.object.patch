@@ -1,71 +1,71 @@
 [
   {
-    "value": "Ship locker",
+    "value": "Корабельный шкафчик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Store some stuff, why don't you?",
+    "value": "Припасите что-нибудь, почему бы и нет?",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The ship's storage system. It's not currently functional.",
+    "value": "Корабельная система хранения. В настоящее время он не функционирует.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A device that holds many items for safe keeping. It's broken at the moment.",
+    "value": "Устройство, в котором хранится множество предметов для безопасного хранения. На данный момент он сломан.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssstorage. It'sss not working.",
+    "value": "Хранение. Это не работает.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Distressed. This ship's storage system is malfunctioning.",
+    "value": "Расстроенный. Система хранения на этом корабле неисправна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A storage locker. It doesn't seem to be working.",
+    "value": "Шкафчик для хранения вещей. Кажется, это не работает.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegant storage solution. It's not currently powered.",
+    "value": "Элегантное решение для хранения. В настоящее время он не подключен к сети.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A locker. Ain't much use 'til it's fixed.",
+    "value": "Шкафчик. Бесполезно, пока это не починят.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The panel is broken. No way to access the ship locker until I fix it.",
+    "value": "Панель сломана. Никакой возможности получить доступ к корабельному шкафчику, пока я его не починю.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The ship locker is jammed. I should get it fixed as soon as possible.",
+    "value": "Корабельный шкафчик застрял. Я должен исправить это как можно скорее.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This ship locker will not open.",
+    "value": "Этот корабельный шкафчик не откроется.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Ship locker. Status: jammed.",
+    "value": "Корабельный шкафчик. Статус: заклинило.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want to store stuff here. But broken-is, Akki no use...",
+    "value": "Акки хочет хранить здесь вещи. Но сломан-то, Акки бесполезен...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

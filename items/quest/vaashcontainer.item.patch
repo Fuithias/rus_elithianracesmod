@@ -1,16 +1,16 @@
 [
   {
-    "value": "A container full of highly volatile Vaash, taken from a Justicar's wreckage.",
+    "value": "Контейнер, полный летучего Вааша, взятый из обломков юстикара.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Vaash Container^white;",
+    "value": "^#BA66FF;Контейнер Вааша^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

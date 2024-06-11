@@ -1,11 +1,11 @@
 [
   {
-    "value": "A powerful, compact processor unit that offers incredible processing power.",
+    "value": "Мощный и компактный процессор, обеспечивающий невероятную вычислительную мощность.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Omnicore",
+    "value": "Акрис Омникор",
     "path": "/shortdescription",
     "op": "replace"
   }

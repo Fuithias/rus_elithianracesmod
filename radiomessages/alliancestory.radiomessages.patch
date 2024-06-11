@@ -1,31 +1,31 @@
 [
   {
-    "value": "Admiral Lyiin",
+    "value": "Адмирал Лийин",
     "path": "/alliancestory-intro1/senderName",
     "op": "replace"
   },
   {
-    "value": "It is good to see that you are well, ambassador. I learned about the destruction of Earth and the Protectorate through some of the other ambassadors who escaped, and I had feared you might have perished in the chaos.",
+    "value": "Рад видеть, что с вами все в порядке, посол. Я узнал о разрушении Земли и Протектората от других послов, которым удалось спастись, и боялся, что вы могли погибнуть в хаосе.",
     "path": "/alliancestory-intro1/text",
     "op": "replace"
   },
   {
-    "value": "Admiral Lyiin",
+    "value": "Адмирал Лийин",
     "path": "/alliancestory-intro2/senderName",
     "op": "replace"
   },
   {
-    "value": "I will meet with the other leaders of the Alliance soon, so we can discuss this tragedy in full. We will also discuss what your next assignment will be.",
+    "value": "Я скоро встречусь с другими лидерами Альянса, чтобы обсудить эту трагедию в полном объеме. Мы также обсудим ваше следующее задание.",
     "path": "/alliancestory-intro1/text",
     "op": "replace"
   },
   {
-    "value": "Admiral Lyiin",
+    "value": "Адмирал Лийин",
     "path": "/alliancestory-intro3/senderName",
     "op": "replace"
   },
   {
-    "value": "For now, you are free to roam the galaxy as you will. Once I have more details to share with you, I will contact you again. Good luck out there, ambassador, and be careful.",
+    "value": "Пока что вы свободны странствовать по галактике как пожелаете. Как только у меня будут новые детали, я свяжусь с вами снова. Удачи вам, посол, и будьте осторожны.",
     "path": "/alliancestory-intro1/text",
     "op": "replace"
   }

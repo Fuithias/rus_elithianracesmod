@@ -1,11 +1,11 @@
 [
   {
-    "value": "A traditional Kadavan meal, a warrior's favourite.",
+    "value": "Традиционное блюдо Кадавана, любимое блюдо воинов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kadavan Meal",
+    "value": "Кадаванская еда",
     "path": "/shortdescription",
     "op": "replace"
   }

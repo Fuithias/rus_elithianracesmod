@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Personalized Warfare",
+    "value": "^green;Персонализированная Война",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Want to get your hands on some better weapon attachments? If you can prove to me that you're a good fighter, I'll open up more of my inventory to you! My challenge for you is to ^green;find and kill ^orange;20 Faryth ^green;- you'll find the green flying monsters on lush and forest planets.^reset;",
+    "value": "Хотите получить более качественные модули для оружия? Если сможете доказать мне, что вы хороший боец, я открою для вас больше своего инвентаря! Моё задание для вас - ^green;найдите и убейте ^orange;20 Фаритов ^green; - эти зелёные летающие монстры обитают на зелёных и лесных планетах.^reset;",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Well done, those Faryth aren't easy targets! You can now access a few more useful weapon attachments, but there's much more to come.",
+    "value": "Отличная работа, эти Фариты - не лёгкие цели! Теперь у вас есть доступ к нескольким более полезным модулям для оружия, но это ещё не всё.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Аберосу ^reset;в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

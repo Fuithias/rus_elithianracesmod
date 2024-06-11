@@ -1,11 +1,11 @@
 [
   {
-    "value": "A baked borato, perfect for dinner.",
+    "value": "Запеченное борато идеально подходит для ужина.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Baked Borato",
+    "value": "Запеченное борато",
     "path": "/shortdescription",
     "op": "replace"
   }

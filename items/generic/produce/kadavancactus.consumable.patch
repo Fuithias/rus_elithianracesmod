@@ -1,11 +1,11 @@
 [
   {
-    "value": "A refreshing, but somewhat tasteless, cactus.",
+    "value": "Освежающий, но несколько безвкусный кактус.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sliced Kadavan Cactus",
+    "value": "Разрезанный кактус Кадаван",
     "path": "/shortdescription",
     "op": "replace"
   }

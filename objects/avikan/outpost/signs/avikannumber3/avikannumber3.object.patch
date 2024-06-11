@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number Three",
+    "value": "Номер три",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number three, in the Avikan Script.",
+    "value": "Номер три, в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number three in an alien script.",
+    "value": "Номер три в инопланетном сценарии.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is three.",
+    "value": "Чужой номер. Я считаю, что это три.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means three.",
+    "value": "Информирован. Этот инопланетный символ означает три.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Three in some alien script.",
+    "value": "Три в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number three.",
+    "value": "Инопланетный символ числа три.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means three.",
+    "value": "Кажется, это число означает три.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number three.",
+    "value": "Номер три.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. Three.",
+    "value": "Число. Три.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. Three, Akki thinks.",
+    "value": "Номер-чужой. Три, думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

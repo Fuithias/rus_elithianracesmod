@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance TV Stand",
+    "value": "Альянс ТВ Стенд",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet often used as a TV stand.",
+    "value": "Шкаф, часто используемый как подставка для телевизора.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A stand for a television.",
+    "value": "Подставка для телевизора.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small cabinet.",
+    "value": "Небольшой кабинет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran place TV on topsss.",
+    "value": "Флоран поставь телевизор на топсссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This stand was built for a TV.",
+    "value": "Наблюдение. Эта подставка была сделана для телевизора.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A TV stand. What's inside the small storage compartment?",
+    "value": "Подставка для телевизора. Что находится внутри небольшого отсека для хранения вещей?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A space-efficient TV stand.",
+    "value": "Компактная подставка для телевизора.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "T'is just a stand for a television screen.",
+    "value": "Это просто подставка для телевизионного экрана.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A stand for the TV.",
+    "value": "Подставка для телевизора.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien table of some kind. It has some storage space too.",
+    "value": "Какой-то инопланетный стол. Там тоже есть место для хранения.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient use of space. This TV stand has a small but useful storage compartment.",
+    "value": "Эффективное использование пространства. Эта подставка для телевизора имеет небольшой, но полезный отсек для хранения.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected desk.",
+    "value": "Обнаружен письменный стол.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki place screen here.",
+    "value": "Акки поместите скрин сюда.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

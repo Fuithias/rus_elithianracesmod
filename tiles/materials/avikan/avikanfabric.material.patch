@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Fabric",
+    "value": "Авиканская Ткань",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A fabric wall sheet, for the fashionable nomad.",
+    "value": "Тканевое покрытие стены для модного кочевника.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. This wall sheet has a vibrant colour.",
+    "value": "Доволен. Это покрытие стены имеет яркий цвет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss how quickly thisss will burn...",
+    "value": "Флоран думает, как быстро это загорится...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A wall sheet made o' some sorta fabric.",
+    "value": "Покрытие стены из какой-то ткани.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. High-quality fabric wall sheet.",
+    "value": "Анализ завершен. Качественное тканевое покрытие стены.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric-soft, feels good to skin-Akki.",
+    "value": "Ткань-мягкая, приятная для кожи-акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

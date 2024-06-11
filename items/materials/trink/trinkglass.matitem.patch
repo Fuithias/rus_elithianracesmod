@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick glass.",
+    "value": "Толстое стекло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Glass",
+    "value": "Тринкян Гласс",
     "path": "/shortdescription",
     "op": "replace"
   }

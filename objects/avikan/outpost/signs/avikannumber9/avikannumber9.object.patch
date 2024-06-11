@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number Nine",
+    "value": "Номер девять",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number nine, in the Avikan Script.",
+    "value": "Номер девять в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number nine in an alien script.",
+    "value": "Номер девять в инопланетном сценарии.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is nine.",
+    "value": "Чужой номер. Я считаю, что это девять.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means nine.",
+    "value": "Информирован. Этот инопланетный символ означает девять.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Nine in some alien script.",
+    "value": "Девять в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number nine.",
+    "value": "Инопланетный символ числа девять.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means nine.",
+    "value": "Кажется, это число означает девять.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number nine.",
+    "value": "Номер девять.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. Nine.",
+    "value": "Число. Девять.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. Nine, Akki thinks.",
+    "value": "Номер-чужой. Девять, думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

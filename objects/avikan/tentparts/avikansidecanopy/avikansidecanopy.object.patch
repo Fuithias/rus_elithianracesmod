@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Side Canopy",
+    "value": "Боковой навес Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A canopy made of decorated fabric.",
+    "value": "Балдахин из декорированной ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A colourful canopy, it provides a cool shadow during the day.",
+    "value": "Красочный навес создает прохладную тень в течение дня.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful canopy.",
+    "value": "Красочный навес.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bright coloursss.",
+    "value": "Яркие цвета.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A canopy.",
+    "value": "Заявление. Навес.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful canopy.",
+    "value": "Красочный навес.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The pattern is simple, but the fabric is very well crafted.",
+    "value": "Выкройка простая, но ткань пошита очень хорошо.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A canopy that can be attached to the side of a building for additional shade.",
+    "value": "Навес, который можно прикрепить к стене здания для дополнительной тени.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A finely decorated canopy, for keeping the sun out.",
+    "value": "Изящно украшенный навес для защиты от солнца.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A canopy made of colourful fabric. Well-woven.",
+    "value": "Навес из цветной ткани. Хорошо сплетенный.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Canopy. Provides a shade in the desert.",
+    "value": "Навес. Обеспечивает тень в пустыне.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Canopy-colourful, make shadow during day.",
+    "value": "Навес разноцветный, создает тень днем.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

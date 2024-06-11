@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Vent",
+    "value": "Акрис Вент",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A ventilation fan that circulates fresh air.",
+    "value": "Вентилятор, обеспечивающий циркуляцию свежего воздуха.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A vent.",
+    "value": "Вентиляционное отверстие.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A vent to recycle air.",
+    "value": "Вентиляционное отверстие для рециркуляции воздуха.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can feel a ssslight breeze coming through here.",
+    "value": "Флоран чувствует легкий ветерок, дующий сюда.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observant. The air recycling process isn't fully functional.",
+    "value": "Наблюдательный. Процесс рециркуляции воздуха не полностью функционален.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An uninspiring vent.",
+    "value": "Скучная вентиляция.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A vent with a fan.",
+    "value": "Вытяжка с вентилятором.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "It's a vent. Still, the air feels stuffy in here.",
+    "value": "Это вентиляционное отверстие. И все же воздух здесь душный.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A ventilation fan. It circulates the air.",
+    "value": "Вентилятор. Он циркулирует воздух.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some type of vent.",
+    "value": "Какая-то вентиляция.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A reasonably efficient vent that circulates the air.",
+    "value": "Достаточно эффективное вентиляционное отверстие, обеспечивающее циркуляцию воздуха.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected air current. Detected ventilation shaft.",
+    "value": "Обнаружен поток воздуха. Обнаружена вентиляционная шахта.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Vent make air go around. Keeps fresh, Akki breathe easy.",
+    "value": "Вентиляционное отверстие заставляет воздух вращаться. Сохраняет свежесть, Акки дышат легко.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

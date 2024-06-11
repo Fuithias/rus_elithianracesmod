@@ -1,11 +1,11 @@
 [
   {
-    "value": "Worn metal plating found on the exterior of spaceships from the Rim.",
+    "value": "Изношенное металлическое покрытие, найденное на внешней стороне космических кораблей с Края.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rim Hull Panel",
+    "value": "Панель корпуса корпуса",
     "path": "/shortdescription",
     "op": "replace"
   }

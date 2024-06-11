@@ -1,11 +1,11 @@
 [
   {
-    "value": "Vhos Avha'las",
+    "value": "Вос Авха'лас",
     "path": "/destinations/name",
     "op": "replace"
   },
   {
-    "value": "Unidentified Planet",
+    "value": "Неизвестная планета",
     "path": "/destinations/planetName",
     "op": "replace"
   }

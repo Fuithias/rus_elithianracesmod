@@ -1,11 +1,11 @@
 [
   {
-    "value": "A wrapped present. Can only be obtained once every day. Hold ^green;[LMB] ^white;to open!",
+    "value": "Завернутый подарок. Можно получить только один раз в день. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Daily Present",
+    "value": "Ежедневный подарок",
     "path": "/shortdescription",
     "op": "replace"
   }

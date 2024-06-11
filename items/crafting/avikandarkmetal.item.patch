@@ -1,11 +1,11 @@
 [
   {
-    "value": "Strong metal plates made to be exceptionally heat resistant.",
+    "value": "Прочные металлические пластины, обладающие исключительной термостойкостью.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dranite Plate",
+    "value": "Дранитовая пластина",
     "path": "/shortdescription",
     "op": "replace"
   }

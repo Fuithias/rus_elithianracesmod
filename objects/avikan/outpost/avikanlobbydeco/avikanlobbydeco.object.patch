@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Lobby Tree",
+    "value": "Авикан Лобби Дерево",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A palm tree to decorate your interiors.",
+    "value": "Пальма для украшения вашего интерьера.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A palm tree.",
+    "value": "Пальма.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The leaves of these trees remind me of wings.",
+    "value": "Листья этих деревьев напоминают мне крылья.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Desert treesss.",
+    "value": "Пустынные деревья.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This palm tree has been planted in alien soil.",
+    "value": "Наблюдение. Эта пальма была посажена в чужой почве.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Cool, a palm tree for inside!",
+    "value": "Круто, пальма внутри!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Life prospers even in the harshest of environments.",
+    "value": "Жизнь процветает даже в самых суровых условиях.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This palm tree is a sign of wealth amongst the Avikan.",
+    "value": "Эта пальма является признаком богатства среди авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A tree. This was a true sign of wealth on Kadavan, where trees were rare.",
+    "value": "Дерево. Это был настоящий признак богатства на Кадаване, где деревья были редкостью.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A palm tree. The home planet of my Masters is far too cold for such a tree to survive there.",
+    "value": "Пальма. Родная планета моих Учителей слишком холодна, чтобы такое дерево могло там выжить.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Kadavan flora. Please handle with care.",
+    "value": "Обнаружена аборигенная флора Кадавана. Пожалуйста, обращаться осторожно.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tree-tall. Akki climb it?",
+    "value": "Высоким как дерево. Акки лезть туда?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Personalized Warfare IV",
+    "value": "^green;Персонализированная Война IV",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "I just received new inventory from AAE, and I think you might like these new attachments. I'll let you see the new inventory if you can do a little something for me. I've heard talk about ^orange;Akkimari drones equipped with stealth tech^reset; - ^green;take down a few of them^reset;, and I'll open up the new inventory for you.",
+    "value": "Я только что получил новый инвентарь от AAE, и думаю, вам могут понравиться эти новые модули. Я позволю вам увидеть новый инвентарь, если вы выполните небольшое задание для меня. Я слышал разговоры о ^orange;дронах Аккимари, оснащенных стелс-технологией^reset; - ^green;уничтожьте несколько из них^reset;, и я открою для вас новый инвентарь.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Well done, once again! Your fighting these drones teaches us at the Embassy a lot about this new threat, so you've more than earned access to these new weapon attachments.",
+    "value": "Отличная работа, как всегда! Ваша борьба с этими дронами многому научила нас в Посольстве об этой новой угрозе, так что вы более чем заслужили доступ к этим новым модулям для оружия.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Аберосу^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

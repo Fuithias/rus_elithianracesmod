@@ -1,21 +1,21 @@
 [
   {
-    "value": "^orange;Timer",
+    "value": "^orange;Таймер",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "You shouldn't be seeing this in your log!",
+    "value": "Вы не должны видеть это в своем журнале!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You shouldn't be seeing this in your log!",
+    "value": "Вы не должны видеть это в своем журнале!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Already received a present today!",
+    "value": "Вы уже получили подарок сегодня!",
     "path": "/scriptConfig/debugText",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Elemental assault rifle ammunition that poisons and weakens targets.",
+    "value": "Стихийные боеприпасы для штурмовой винтовки, отравляющие и ослабляющие цель.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Poison Ammo",
+    "value": "Ядовитые боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

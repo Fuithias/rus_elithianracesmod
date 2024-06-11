@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Cloth Tapestry",
+    "value": "Авиканский тканевый гобелен",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tapestry made of colourful cloth.",
+    "value": "Гобелен из разноцветной ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A cloth tapestry. What a simple pattern.",
+    "value": "Тканевый гобелен. Какой простой узор.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The colours of this tapestry are so vivid!",
+    "value": "Цвета этого гобелена такие яркие!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss Coloursss.",
+    "value": "Флорану нравятся цвета.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Such vivid colours are a sign of wealth amongst the Avikan people.",
+    "value": "Наблюдение. Такие яркие цвета являются признаком богатства народа Авикан.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple cloth tapestry. Quite colourful, though.",
+    "value": "Простой тканевый гобелен. Хотя довольно красочно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple pattern, but no less beautiful.",
+    "value": "Простой узор, но от этого не менее красивый.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A bright and colourful tapestry. It's made of cloth, not skin.",
+    "value": "Яркий и красочный гобелен. Он сделан из ткани, а не кожи.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Made of cloth, a rare resource on Kadavan.",
+    "value": "Изготовлен из ткани, редкого ресурса на Кадаване.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry. It is finely woven.",
+    "value": "Красочный гобелен. Он тонко сплетен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Material: cloth.",
+    "value": "Сканирование завершено. Материал: ткань.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tapestry-cloth, Akki use as towel.",
+    "value": "Гобелен-ткань, Акки используют как полотенце.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

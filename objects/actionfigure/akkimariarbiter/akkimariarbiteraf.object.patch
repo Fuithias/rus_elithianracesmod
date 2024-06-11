@@ -1,11 +1,11 @@
 [
   {
-    "value": "Arbiter Figurine",
+    "value": "Статуэтка Арбитра",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A drone which acts to resolve disputes between Akkimari scavengers.\"",
+    "value": "На этикетке написано: «Дрон, который разрешает споры между мусорщиками из Аккимари».",
     "path": "/description",
     "op": "replace"
   }

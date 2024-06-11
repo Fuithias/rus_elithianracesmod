@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dark metal platform.",
+    "value": "Темная металлическая платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Platform",
+    "value": "Тринкянская платформа",
     "path": "/shortdescription",
     "op": "replace"
   }

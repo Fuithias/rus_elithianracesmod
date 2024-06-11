@@ -1,36 +1,36 @@
 [
   {
-    "value": "Thelean Corpses",
+    "value": "Телеанские трупы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Dead Theleans. A lot of them.",
+    "value": "Мертвые телеанцы. Много их.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran pokesss dead bodiess with ssstickss...",
+    "value": "Флоран тыкает трупы палками...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intimidated. The one who killed these Theleans must have been incredibly powerful.",
+    "value": "Запуган. Тот, кто убил этих телеанцев, должно быть, был невероятно силен.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Dead Theleans. The best kind.",
+    "value": "Мертвые телеанцы. Лучший вид.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Theleans. Analysis: dead.",
+    "value": "Обнаружены телеанцы. Анализ: мертв.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-thieves-dead. Akki pleased.",
+    "value": "Бог-воры-мертвы. Акки доволен.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

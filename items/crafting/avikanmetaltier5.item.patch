@@ -1,11 +1,11 @@
 [
   {
-    "value": "Hardened metal plating for use in high-quality equipment.",
+    "value": "Закаленное металлическое покрытие для использования в высококачественном оборудовании.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hard Kavanite Plate",
+    "value": "Твердая каванитовая пластина",
     "path": "/shortdescription",
     "op": "replace"
   }

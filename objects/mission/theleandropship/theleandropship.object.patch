@@ -1,71 +1,71 @@
 [
   {
-    "value": "Thelean Dropship",
+    "value": "Телеанский десантный корабль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A Thelean-built dropship. Small, to Thelean standards.",
+    "value": "Десантный корабль, построенный Телеанами. Маленький, по телеанским стандартам.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "That dropship is massive!",
+    "value": "Этот десантный корабль огромен!",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien dropship - it's massive!",
+    "value": "Корабль пришельцев – он огромен!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not ssscared by giant ssshipss...",
+    "value": "Флоран не боится гигантских кораблей...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intimidated. If the dropships are this big, how big must the regular ships be?",
+    "value": "Запуган. Если десантные корабли такие большие, то насколько большими должны быть обычные корабли?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A massive dropship - how big must the regular ships be?",
+    "value": "Массивный десантный корабль – насколько большими должны быть обычные корабли?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An enormous dropship. I fear for what the regular ships must be like...",
+    "value": "Огромный десантный корабль. Я боюсь за то, какими должны быть обычные корабли...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "T'is a dropship, alright, and a big one at that!",
+    "value": "Да, это десантный корабль, и притом большой!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Thelean dropships are massive. But compared to regular Thelean ships, this one is tiny.",
+    "value": "Компактные десантные корабли огромны. Но по сравнению с обычными телеанскими кораблями этот крошечный.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A Thell dropship - its owners can't be far.",
+    "value": "Корабль Теллов — его владельцы могут быть недалеко.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A massive Thelean dropship. No use trying to hijack it - Thelean technology only works for Theleans.",
+    "value": "Огромный телеанский десантный корабль. Бесполезно пытаться его взломать — технология Thelean работает только для Thelean.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Thelean dropship. Warning: exercise extreme caution.",
+    "value": "Обнаружен телеанский десантный корабль. Предупреждение: будьте предельно осторожны.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-thief-dropship. Akki careful, look for god-thieves. Kill them.",
+    "value": "Бог-вор-десантник. Акки осторожнее, ищи богов-воров. Убей их.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

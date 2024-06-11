@@ -1,36 +1,36 @@
 [
   {
-    "value": "Borderless Avikan Fabric",
+    "value": "Ткань без границ авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A fabric wall sheet, for the fashionable nomad.",
+    "value": "Тканевая стеновая панель для модного кочевника.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. This wall sheet has a vibrant colour.",
+    "value": "Доволен. У этой стеновой панели яркий цвет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss how quickly thisss will burn...",
+    "value": "Флоран думает, как быстро это загорится...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A wall sheet made o' some sorta fabric.",
+    "value": "Стеновая панель из какой-то ткани.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. High-quality fabric wall sheet.",
+    "value": "Анализ завершен. Качественная тканевая стеновая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric-soft, feels good to skin-Akki.",
+    "value": "Ткань-мягкая, приятно к коже-акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

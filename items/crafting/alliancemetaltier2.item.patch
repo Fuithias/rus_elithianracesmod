@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bolted plate of allosteel, for additional strength.",
+    "value": "Прикрепленная болтами пластина из аллостали для дополнительной прочности.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bolted Allosteel",
+    "value": "Аллосталь с болтовым соединением",
     "path": "/shortdescription",
     "op": "replace"
   }

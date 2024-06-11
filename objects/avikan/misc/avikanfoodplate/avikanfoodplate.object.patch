@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Plate",
+    "value": "Авикан Тарелка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A plate full of food.",
+    "value": "Тарелка полная еды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dinner.",
+    "value": "Ужин.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Delicious food.",
+    "value": "Вкусная еда.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Foodsss.",
+    "value": "Едасс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A plate full of food.",
+    "value": "Наблюдение. Тарелка полная еды.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Food. Yummy food!",
+    "value": "Еда. Вкусная еда!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A well-balanced dinner.",
+    "value": "Сбалансированный ужин.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A balanced meal.",
+    "value": "Сбалансированное питание.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional meal.",
+    "value": "Традиционный обед.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan meal.",
+    "value": "Авиканское блюдо.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Nutritional value: excellent.",
+    "value": "Анализ завершен. Пищевая ценность: отличная.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plate-food, tasty.",
+    "value": "Тарелка-еда, вкусная.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

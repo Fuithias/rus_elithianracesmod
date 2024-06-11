@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Consuming the Stars IV",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Поглощение Звёзд IV",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "^green;Take the ^orange;frame Ayurin built ^green;and bring it to ^orange;Vanhas ^green;here in the ^orange;Starfarer's Refuge. ^reset;He will know how to combine the frame and the reactivated core to build a fully functional jumprifle. It's been an honour working on this project with you, Captain.",
-      "path": "/text",
-      "op": "replace"
+    "value": "^green;Возьмите ^orange;раму, которую построил Айурин ^green;и принесите её к ^orange;Ванхасу ^green;здесь, в ^orange;убежище Звездоплавателя. ^reset;Он знает, как объединить раму и реактивированное ядро, чтобы создать полностью функциональную джампрельсу. Для меня было честью работать над этим проектом вместе с вами, капитан.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "I've been expecting you, Captain. Here, I will assemble that weapon for you... Just a little longer... There! A fully restored jumprifle! Be careful where you point that thing: it delivers quite the punch.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Я ждал вас, капитан. Вот, я соберу это оружие для вас... Ещё немного... Готово! Полностью восстановленная джампрельса! Будьте осторожны, куда наводите её: она весьма мощная.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Ванхаса ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

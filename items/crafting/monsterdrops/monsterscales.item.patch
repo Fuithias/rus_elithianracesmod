@@ -1,11 +1,11 @@
 [
   {
-    "value": "Bone scales from an alien monster.",
+    "value": "Костяная чешуя инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Scales",
+    "value": "Чешуя монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

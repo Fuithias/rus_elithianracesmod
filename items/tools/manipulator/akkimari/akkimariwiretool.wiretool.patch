@@ -1,16 +1,16 @@
 [
   {
-    "value": "Built to place optical wires between input points. ^green;Quick select with [T] key.",
+    "value": "Создан для размещения оптических проводов между точками входа. ^green;Быстрый выбор клавишей [T].",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Wire Mode",
+    "value": "Проводной режим",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Tool",
+    "value": "Инструмент",
     "path": "/category",
     "op": "replace"
   }

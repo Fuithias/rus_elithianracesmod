@@ -1,56 +1,56 @@
 [
   {
-    "value": "Mech Assembly Station",
+    "value": "Станция сборки мехов",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Equip and customise your personal mech!",
+    "value": "Оборудуйте и настройте свой личный мех!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "With this station I could assemble components into a working mech suit.",
+    "value": "С помощью этой станции я мог собирать компоненты в работающий механический костюм.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This station is made for piecing together large mech vehicles.",
+    "value": "Эта станция предназначена для сборки больших механических транспортных средств.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran could make big mech with thisss station.",
+    "value": "Флоран мог бы создать большой мех на этой станции.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Astonished. This advanced assembly station is designed to make mech suits.",
+    "value": "Пораженный. Эта усовершенствованная сборочная станция предназначена для изготовления механических костюмов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This station is for building and outfitting mech suits.",
+    "value": "Эта станция предназначена для изготовления и оснащения механических костюмов.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This terminal is for customizing and outfitting mech vehicles.",
+    "value": "Этот терминал предназначен для настройки и оснащения механических транспортных средств.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This station'll let me put together a mech any way I like.",
+    "value": "Эта станция позволит мне собрать мех так, как я захочу.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected mech assembly station. Used to assemble components into functional mech suits.",
+    "value": "Обнаружена станция сборки мехов. Используется для сборки компонентов в функциональные механические костюмы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Mech assemble here. Akki ready to stomp around.",
+    "value": "Механическая сборка здесь. Акки готова топать ногами.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

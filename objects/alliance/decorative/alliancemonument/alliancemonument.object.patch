@@ -1,71 +1,71 @@
 [
   {
-    "value": "Monument of Elithia",
+    "value": "Памятник Элитии",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large monument depicting the planet Elithia.",
+    "value": "Большой памятник, изображающий планету Элития.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large monument to some planet.",
+    "value": "Большой памятник какой-то планете.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This statue depicts a planet.",
+    "value": "Эта статуя изображает планету.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Planet of the aliensss.",
+    "value": "Планета инопланетян.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What planet is this?",
+    "value": "Любопытный. Что это за планета?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A large statue depicting an alien world.",
+    "value": "Большая статуя, изображающая инопланетный мир.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This monument appears to be dedicated to a planet.",
+    "value": "Похоже, этот памятник посвящен какой-то планете.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A mighty fine piece o' art.",
+    "value": "Великолепное произведение искусства.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Elithia, my home planet, and the home of the Elithian Alliance.",
+    "value": "Элития, моя родная планета и дом Элитианского Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I believe this planet is called Elithia.",
+    "value": "Я считаю, что эта планета называется Элития.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Planet Elithia. It is where the Elithian Alliance started.",
+    "value": "Планета Элития. Именно здесь зародился Элитианский Альянс.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien monument. Database suggests the planet is called Elithia.",
+    "value": "Обнаружен памятник инопланетянам. База данных предполагает, что планета называется Элития.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki heard this planet is Elithia.",
+    "value": "Акки слышал, что эта планета — Элития.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

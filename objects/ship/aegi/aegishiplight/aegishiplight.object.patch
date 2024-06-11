@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Ship Light",
+    "value": "Корабль Альянса Свет",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple light strip.",
+    "value": "Простая световая полоска.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple light often found on ships.",
+    "value": "Простой фонарь, часто встречающийся на кораблях.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A vibrant light.",
+    "value": "Яркий свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran dissslikess ship light. Light feelss unnatural...",
+    "value": "Флорану не нравится корабельный свет. Свет кажется неестественным...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This lighting fixture generates more light than heat.",
+    "value": "Впечатленный. Этот светильник излучает больше света, чем тепла.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A pretty basic light.",
+    "value": "Довольно простой свет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A neutral light. Always useful.",
+    "value": "Нейтральный свет. Всегда полезно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This light is a lot brighter than I am. Wait, that didn't sound quite right...",
+    "value": "Этот свет намного ярче, чем я. Подожди, это прозвучало не совсем правильно...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A bright, neutrally coloured light.",
+    "value": "Яркий свет нейтрального цвета.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple light.",
+    "value": "Простой свет.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Light. It isn't as efficient as it could be.",
+    "value": "Свет. Это не так эффективно, как могло бы быть.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Light source detected.",
+    "value": "Источник света обнаружен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-simple.",
+    "value": "Легко-просто.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

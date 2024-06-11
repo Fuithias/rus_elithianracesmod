@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Support Beam",
+    "value": "Тринкская опорная балка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal support beam.",
+    "value": "Металлическая опорная балка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Impressed. This metal beam can hold a lot of weight.",
+    "value": "Впечатлен. Эта металлическая балка может выдержать большую нагрузку.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can't bend metal beamsss. Floran not happy.",
+    "value": "Флоран не может согнуть металлические балки. Флоран недоволен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A big bad support beam. Isn't gonna come down anytime soon.",
+    "value": "Большая прочная опорная балка. Не упадет в ближайшее время.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Structural support beam.",
+    "value": "Анализ завершен. Структурная опорная балка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Beam-support, keep walls standing.",
+    "value": "Балка-опора, держит стены.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

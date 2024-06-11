@@ -1,11 +1,11 @@
 [
   {
-    "value": "Starfarer's Refuge",
+    "value": "Убедище Звездохода",
     "path": "/bookmarkName",
     "op": "replace"
   },
   {
-    "value": "Beam to Ship",
+    "value": "Назад на корабль",
     "path": "/destinations/name",
     "op": "replace"
   }

@@ -1,26 +1,26 @@
 [
   {
-    "value": "Tele-2-Go Teleporter",
+    "value": "Телепорт Теле-2-Го",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter makes a great demonstration and a handy return point!",
+    "value": "Этот телепорт станет отличной демонстрацией и удобной точкой возврата!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This teleporter makes for a great demonstration and a handy return point.",
+    "value": "Наблюдение. Этот телепорт станет отличной демонстрацией и удобной точкой возврата.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Teleporter. Hazard levels: medium.",
+    "value": "Анализ. Телепорт. Уровень опасности: средний.",
     "path": "/drodenDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Generator",
+    "value": "Тринкианский генератор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A generator of Trinkian design.",
+    "value": "Генератор конструкции Тринкиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A generator of sorts.",
+    "value": "Своего рода генератор.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large generator. This could power an entire village.",
+    "value": "Большой генератор. Это могло бы обеспечить энергией всю деревню.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big box makesss energy...",
+    "value": "Большая коробка дает энергию...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Greedy. I could make good use of all this energy.",
+    "value": "Жадный. Я мог бы хорошо использовать всю эту энергию.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This generator looks like it could power an entire city block!",
+    "value": "Этот генератор выглядит так, будто он может обеспечить энергией целый городской квартал!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A generator of alien design. It looks rather powerful.",
+    "value": "Генератор инопланетного дизайна. Выглядит довольно мощно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian generators are amongst the most efficient generators in the Alliance.",
+    "value": "Тринкианские генераторы являются одними из самых эффективных генераторов в Альянсе.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A generator. It could provide energy for a significant portion of a Terve.",
+    "value": "Генератор. Он мог бы обеспечить энергией значительную часть Терве.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The efficiency of this generator can only be optimized slightly further.",
+    "value": "Эффективность этого генератора можно оптимизировать лишь незначительно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Warning. Readings indicate strong electrical fields.",
+    "value": "Предупреждение. Показания указывают на сильные электрические поля.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Generator make power, Akki use power to make things happen.",
+    "value": "Генератор производит энергию, Акки использует энергию, чтобы все происходило.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

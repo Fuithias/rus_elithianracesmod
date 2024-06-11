@@ -1,11 +1,11 @@
 [
   {
-    "value": "A wrapped present containing items from random events. Hold ^green;[LMB] ^white;to open!",
+    "value": "Упакованный подарок, содержащий предметы из случайных событий. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Landing Festival Present",
+    "value": "Фестиваль высадки в подарок",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Уникальное снаряжение",
+    "value": "Важное снаряжение",
     "path": "/title",
     "op": "replace"
   },
@@ -40,7 +40,7 @@
     "op": "replace"
   },
   {
-    "value": "Уникальная линейная винтовка, созданная для уничтожения эрразмайров.",
+    "value": "Важная линейная винтовка, созданная для уничтожения эрразмайров.",
     "path": "/collectables/avikan-errasslayerslance/description",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Уникальное оружие, созданное с использованием центенианских и авиканских технологий.",
+    "value": "Важное оружие, созданное с использованием центенианских и авиканских технологий.",
     "path": "/collectables/avikan-jumpfireprotocol/description",
     "op": "replace"
   },
@@ -100,7 +100,7 @@
     "op": "replace"
   },
   {
-    "value": "Древнее копье, созданное из осколка Ксанафира.",
+    "value": "Древнее копье, созданное из осколка ксанафира.",
     "path": "/collectables/avikan-vhaleihanspear/description",
     "op": "replace"
   },
@@ -130,7 +130,7 @@
     "op": "replace"
   },
   {
-    "value": "Клинок-переключатель до Эксодуса, изготовленный для Дроденского легиона.",
+    "value": "Клинок-переключатель до Эксодуса, изготовленный для дроденского легиона.",
     "path": "/collectables/drodenlegion/description",
     "op": "replace"
   },
@@ -315,12 +315,12 @@
     "op": "replace"
   },
   {
-    "value": "Лук Вхалакина",
+    "value": "Лук Валакина",
     "path": "/collectables/avikan-vhalakinbow/title",
     "op": "replace"
   },
   {
-    "value": "Линейный лук, созданный уединенными кланами Вхалакиса.",
+    "value": "Линейный лук, созданный уединенными кланами Валакиса.",
     "path": "/collectables/avikan-vhalakinbow/description",
     "op": "replace"
   },
@@ -375,7 +375,7 @@
     "op": "replace"
   },
   {
-    "value": "Элитианский лук",
+    "value": "Элитийский лук",
     "path": "/collectables/thea-tributebow/title",
     "op": "replace"
   },
@@ -405,12 +405,12 @@
     "op": "replace"
   },
   {
-    "value": "Длиннолук Вхалакина",
+    "value": "Длиннолук Валакина",
     "path": "/collectables/avikan-vhalakinlongbow/title",
     "op": "replace"
   },
   {
-    "value": "Тяжелый лук, созданный уединенными кланами Вхалакиса.",
+    "value": "Тяжелый лук, созданный уединенными кланами Валакиса.",
     "path": "/collectables/avikan-vhalakinlongbow/description",
     "op": "replace"
   },
@@ -735,22 +735,22 @@
     "op": "replace"
   },
   {
-    "value": "Winter's Embrace",
+    "value": "Зимнее Объятие",
     "path": "/collectables/aegi-wintersembrace/title",
     "op": "replace"
   },
   {
-    "value": "A strange chestplate imbued with the cold of winter. It freezes its surroundings.",
+    "value": "Странный нагрудник, пропитанный холодом зимы. Он замораживает окружающее пространство.",
     "path": "/collectables/aegi-wintersembrace/description",
     "op": "replace"
   },
   {
-    "value": "Fireworks Launcher",
+    "value": "Пускатель салютов",
     "path": "/collectables/thea-fireworkattachment/title",
     "op": "replace"
   },
   {
-    "value": "An underbarrel fireworks launcher to celebrate the Landing Festival!",
+    "value": "Подствольный пускатель салютов для празднования праздника Приземления!",
     "path": "/collectables/thea-fireworkattachment/description",
     "op": "replace"
   },
@@ -815,12 +815,12 @@
     "op": "replace"
   },
   {
-    "value": "Shardbreaker",
+    "value": "Осколорушитель",
     "path": "/collectables/centensbeamaxe/title",
     "op": "replace"
   },
   {
-    "value": "A Centensian artefact capable of rapidly deconstructing matter.",
+    "value": "Центенский артефакт, способный быстро разрушать материю.",
     "path": "/collectables/centensbeamaxe/description",
     "op": "replace"
   },
@@ -835,12 +835,12 @@
     "op": "replace"
   },
   {
-    "value": "Винтовка Лиина",
+    "value": "Винтовка Лийина",
     "path": "/collectables/thea-lyiinsrifle/title",
     "op": "replace"
   },
   {
-    "value": "Личное огнестрельное оружие Лиина Теймера, вдохновленное оружием инопланетян.",
+    "value": "Личное огнестрельное оружие Лийина Теймера, вдохновленное оружием инопланетян.",
     "path": "/collectables/thea-lyiinsrifle/description",
     "op": "replace"
   },

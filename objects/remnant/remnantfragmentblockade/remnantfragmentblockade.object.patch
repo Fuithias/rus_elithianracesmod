@@ -1,31 +1,31 @@
 [
   {
-    "value": "Cursed Blockage",
+    "value": "Проклятая блокировка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An unnatural-looking rock. It's blocking my path...",
+    "value": "Камень неестественного вида. Он преграждает мне путь...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran feelsss drained. Rock isss making Floran weak...",
+    "value": "Флоран чувствует себя опустошенным. Рок делает Флорана слабым...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Exhausted. This rock is making me feel weak and drained...",
+    "value": "Измученный. Этот камень заставляет меня чувствовать себя слабым и опустошенным...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "System malfunction. Energy levels draining. External interference detected.",
+    "value": "Неисправность системы. Уровни энергии истощаются. Обнаружено внешнее вмешательство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki-tired. Akki have trouble breathing... Rock-glowing feel wrong.",
+    "value": "Акки-устал. У Акки проблемы с дыханием... Светящиеся камни чувствуют себя нехорошо.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A cracked metal panel.",
+    "value": "Треснувшая металлическая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Broken Avikan Panel",
+    "value": "Сломанная панель Авикана",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Scrap metal panels acting as a floorboard.",
+    "value": "Панели из металлолома, выполняющие роль половой доски.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Floor Panel",
+    "value": "Панель пола Акрис",
     "path": "/shortdescription",
     "op": "replace"
   }

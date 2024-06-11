@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Recruitment Desk",
+    "value": "Служба вербовки Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A place to recruit new crew members from all over the Alliance.",
+    "value": "Место для набора новых членов экипажа со всего Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This place offers recruitment options.",
+    "value": "Это место предлагает варианты набора персонала.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A recruitment desk. I can hire some additional crew members here.",
+    "value": "Рекрутинговый стол. Я могу нанять здесь дополнительных членов экипажа.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran buysss friendss here.",
+    "value": "Флоран покупает здесь друзей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. This recruitment desk allows me to easily recruit new crew members.",
+    "value": "Довольный. Этот рекрутинговый стол позволяет мне легко набирать новых членов экипажа.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A recruitment desk, for recruiting new crew members.",
+    "value": "Вербовочный стол для набора новых членов экипажа.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I can hire additional crew here.",
+    "value": "Я могу нанять здесь дополнительную команду.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Lemme hire some new crew.",
+    "value": "Дайте мне нанять новую команду.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A recruitment desk offering crew members from all over the Elithian Alliance.",
+    "value": "Пункт набора персонала, предлагающий членов экипажа со всего Элитианского Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A place to hire alien crew members. Should I use it?",
+    "value": "Место для найма инопланетных членов экипажа. Должен ли я использовать его?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This recruitment office redirects recruitment requests to all members of the Alliance. It is quite efficient.",
+    "value": "Этот военкомат перенаправляет запросы на набор всем членам Альянса. Это довольно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien recruitment office. Allows for the recruitment of alien crew members.",
+    "value": "Обнаружен инопланетный военкомат. Позволяет нанимать инопланетных членов экипажа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki buy friends here.",
+    "value": "Акки покупай друзей здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

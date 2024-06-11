@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Alliance Kitchen Counter^white;",
+    "value": "^orange;Кухонная стойка Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A basic kitchen counter, complete with pans, dishes and more.",
+    "value": "Обычная кухонная стойка со сковородками, посудой и многим другим.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter.",
+    "value": "Кухонная стойка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Pans, dishes, a sink, what more do I need?",
+    "value": "Кастрюли, посуда, раковина, что еще мне нужно?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran makess food here.",
+    "value": "Флоран готовит здесь еду.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Annoyed. I don't want to do the dishes.",
+    "value": "Раздраженный. Я не хочу мыть посуду.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter, pans, dishes - it looks like home!",
+    "value": "Кухонная стойка, кастрюли, посуда – как дома!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter.",
+    "value": "Кухонная стойка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Let's do some cookin' already!",
+    "value": "Давайте уже готовить!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter with everything I need to prepare a meal.",
+    "value": "Кухонная стойка со всем необходимым для приготовления еды.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I might be able to prepare some food here, even with these alien tools.",
+    "value": "Возможно, я смогу приготовить здесь еду, даже с помощью этих инопланетных инструментов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter of Aeginian design.",
+    "value": "Кухонная стойка эгинского дизайна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected traces of organic food. Analysis: kitchen equipment.",
+    "value": "Обнаружены следы органических продуктов питания. Анализ: кухонное оборудование.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tools for cooking, Akki hungry.",
+    "value": "Инструменты для приготовления пищи, Акки голоден.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

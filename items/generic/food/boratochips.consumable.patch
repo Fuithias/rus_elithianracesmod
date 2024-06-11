@@ -1,11 +1,11 @@
 [
   {
-    "value": "Fried borato chips, crunchy and tasty.",
+    "value": "Жареные чипсы борато, хрустящие и вкусные.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Borato Chips",
+    "value": "Чипсы Борато",
     "path": "/shortdescription",
     "op": "replace"
   }

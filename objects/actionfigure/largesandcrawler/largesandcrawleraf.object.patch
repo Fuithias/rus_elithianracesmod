@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sandcrawler Figurine",
+    "value": "Фигурка песчаного краулера",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"The Sandcrawler digs in and strikes with little warning.\"",
+    "value": "На этикетке написано: «Песчаный краулер закапывается и наносит удар без всякого предупреждения».",
     "path": "/description",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A good way to make something nasty even nastier.",
+    "value": "Хороший способ сделать что-то гадкое еще гадче.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bolbohn Jam",
+    "value": "Болбон Джем",
     "path": "/shortdescription",
     "op": "replace"
   }

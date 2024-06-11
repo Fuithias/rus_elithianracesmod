@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong painkiller and healing catalyst. Restores 100 health over 1 second.",
+    "value": "Сильный болеутоляющий и катализатор заживления. Восстанавливает 100 единиц здоровья за 1 секунду.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bolbohn Extract",
+    "value": "Экстракт Болбона",
     "path": "/shortdescription",
     "op": "replace"
   }

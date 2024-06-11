@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Supply Crate",
+    "value": "Ящик с припасами Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A military-grade chest for storing weapons and other military supplies.",
+    "value": "Сундук военного образца для хранения оружия и других военных припасов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This looks like a military supply crate. There could be weapons inside!",
+    "value": "Это похоже на ящик с военными припасами. Внутри может быть оружие!",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A military-grade supply crate, built to keep its content completely safe.",
+    "value": "Ящик с припасами военного уровня, созданный для полной безопасности его содержимого.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!",
+    "value": "Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Eager. A military supply crate like this is sure to hold something of value.",
+    "value": "Жаждущий. В таком ящике с военными припасами наверняка хранится что-то ценное.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien weapon chest. Let's have a look inside!",
+    "value": "Сундук с инопланетным оружием. Давайте заглянем внутрь!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Presents are most exciting when they're still wrapped.",
+    "value": "Подарки вызывают наибольший интерес, когда они еще завернуты.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Might be some sorta weapon inside o' this chest!",
+    "value": "В этом сундуке может быть какое-то оружие!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This crate might contain some military supplies.",
+    "value": "В этом ящике могут находиться военные припасы.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A container. From the look of it, I think it might hold military supplies",
+    "value": "Контейнер. Судя по всему, я думаю, что здесь могут храниться военные припасы.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This chest is likely to contain some military equipment.",
+    "value": "В этом сундуке, скорее всего, находится какое-то военное снаряжение.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien supply crate.",
+    "value": "Обнаружен ящик с припасами инопланетян.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take supplies, use to support Kelraaki.",
+    "value": "Акки возьмет припасы и использует их для поддержки Келрааки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sturdy metal stairs.",
+    "value": "Прочная металлическая лестница.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thick Alliance Stairs",
+    "value": "Толстая лестница Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Pet Healer",
+    "value": "Лекарь-питомец Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A creature healing station used to heal captured creatures.",
+    "value": "Станция исцеления существ, используемая для лечения пойманных существ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Machines like these are used to heal captured creatures.",
+    "value": "Подобные машины используются для лечения пойманных существ.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "How useful, I can heal any creatures I capture with this.",
+    "value": "Как полезно, с его помощью я могу исцелить любых существ, которых поймаю.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can keep creaturesss healed with this.",
+    "value": "С помощью этого Флоран может исцелять существ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This device can heal any captured creatures.",
+    "value": "Впечатленный. Это устройство способно лечить любых пойманных существ.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I can use this to heal any creature I've captured. Neat!",
+    "value": "Я могу использовать это, чтобы исцелить любое пойманное мною существо. Аккуратный!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Such things are useful for ensuring excellent creature health.",
+    "value": "Такие вещи полезны для обеспечения отличного здоровья существ.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I can use this here gadget to heal captured creatures.",
+    "value": "Я могу использовать этот гаджет для лечения пойманных существ.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Captured creatures can be healed using this station.",
+    "value": "С помощью этой станции можно лечить пойманных существ.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This station will heal any creature I've captured.",
+    "value": "Эта станция исцелит любое пойманное мною существо.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This device will heal captured creatures.",
+    "value": "Это устройство будет лечить пойманных существ.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected pet healing device. Heals wounded captured creatures.",
+    "value": "Обнаружено устройство для лечения домашних животных. Лечит раненых захваченных существ.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki heal pet here.",
+    "value": "Акки исцелит питомца здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

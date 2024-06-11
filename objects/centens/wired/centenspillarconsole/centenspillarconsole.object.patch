@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Pillar Console",
+    "value": "Консоль центенского столба",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A hard holographic interface.",
+    "value": "Жесткий голографический интерфейс.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A hard holographic interface. I have no idea how this was achieved.",
+    "value": "Жесткий голографический интерфейс. Я понятия не имею, как этого удалось добиться.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "It's ancient, yet it shows no signs of age. Is this Kluex's work?",
+    "value": "Он древний, но на нем нет никаких признаков возраста. Это работа Клюкса?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssscreen feels hard, but ssscreen is only light... Floran iss confused.",
+    "value": "Экран кажется твердым, но экран всего лишь легким... Флоран в замешательстве.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amazed. This piece of technology is fascinatingly advanced.",
+    "value": "Поражен. Эта технология удивительно продвинута.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hard holographic screen. Trying to stick my hand through it is like moving through a thick jelly.",
+    "value": "Жесткий голографический экран. Пытаться просунуть сквозь него руку — все равно, что двигаться сквозь густое желе.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient console. It is quite remarkable.",
+    "value": "Древняя консоль. Это весьма примечательно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Now this is one strange device. It's made of light, but I can touch it.",
+    "value": "Вот это странное устройство. Он сделан из света, но я могу его потрогать.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This Centensian interface is a strange kind of hard hologram.",
+    "value": "Этот интерфейс Centensian представляет собой странную разновидность твердой голограммы.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Old Ones built this. It still functions, even after eons of disuse.",
+    "value": "Древние построили это. Он все еще функционирует, даже после многих лет простоя.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A hard holographic interface built by the Centens.",
+    "value": "Жесткий голографический интерфейс, созданный Centens.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Detected Centensian interface.",
+    "value": "Анализ. Обнаружен Centensian интерфейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pillar-light, interface-strange. Akki touch, pillar change!",
+    "value": "Столб-свет, интерфейс-странный. Акки прикосновение, смена столбов!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

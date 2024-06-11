@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Avikan Cooking Station^white;",
+    "value": "^orange;Кулинарная станция Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A machine which prepares food. Convenient.",
+    "value": "Машина, которая готовит еду. Удобный.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An automated cooking station. There's nothing it can't prepare.",
+    "value": "Автоматизированная кулинарная станция. Нет ничего, что он не мог бы подготовить.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This station will prepare whatever food I want.",
+    "value": "На этой станции приготовят любую еду, которую я захочу.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran disslikesss having machine prepare food.",
+    "value": "Флорану не нравится, когда еду готовит машина.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This station will automatically prepare any requested food.",
+    "value": "Заинтригован. Эта станция автоматически приготовит любую запрошенную еду.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An automated cooking station - that means no dish washing for me!",
+    "value": "Автоматизированная станция приготовления пищи – для меня это означает отсутствие мытья посуды!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This machine will prepare my food with skill and grace.",
+    "value": "Эта машина приготовит мне еду умело и изящно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This 'ere station will prepare my food for me!",
+    "value": "Эта станция приготовит для меня еду!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A cooking station. I can program it to prepare any meal imaginable.",
+    "value": "Станция приготовления пищи. Я могу запрограммировать его на приготовление любой мыслимой еды.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This cooking station can prepare almost any meal.",
+    "value": "На этой кулинарной станции можно приготовить практически любое блюдо.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An automated cooking station. It is wonderfully efficient.",
+    "value": "Автоматизированная кулинарная станция. Это удивительно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Cooking station detected. This unit can refuel using organic food.",
+    "value": "Обнаружена кулинарная станция. Этот агрегат может заправляться, используя натуральные продукты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki cook food here.",
+    "value": "Акки готовит здесь еду.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,41 +1,41 @@
 [
   {
-    "value": "Wrecked Avikan Mech",
+    "value": "Разбитый мех Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan mech, damaged beyond repair.",
+    "value": "Авиканский мех, поврежденный и не подлежащий ремонту.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal sssuit hass been destroyed.",
+    "value": "Металлический костюм был уничтожен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Alarmed. This mech was attacked and swiftly destroyed.",
+    "value": "Встревожен. Этот механизм был атакован и быстро уничтожен.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Hope the pilot made it our alright...",
+    "value": "Надеюсь, у пилота все получилось...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A wrecked Krahl. It looks like it was attacked using Thelean weapons...",
+    "value": "Разбитый Крал. Похоже, на него напали с применением телеанского оружия...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Krahl. Status: irreparable damage.",
+    "value": "Обнаружен Крал. Статус: непоправимый ущерб.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Mech-alien-wrecked. Akki wonder where pilot is.",
+    "value": "Мех-инопланетянин разрушен. Акки интересно, где пилот.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Рельсовая платформа Авикан",
+    "value": "Рельсовая платформа авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Bathroom Sink",
+    "value": "Раковина для ванной комнаты Альянс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A basic bathroom sink, complete with a wall-mounted mirror.",
+    "value": "Простая раковина для ванной комнаты с настенным зеркалом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic sink.",
+    "value": "Базовая мойка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A sink.",
+    "value": "Раковина.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Splashy sssink.",
+    "value": "Блестящая херня.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Neutral. A sink.",
+    "value": "Нейтрально. Раковина.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A sink. Maybe I should wash my hands...",
+    "value": "Раковина. Наверное, мне стоит помыть руки...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Too small to swim in.",
+    "value": "Слишком маленький, чтобы плавать.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A plain ol' sink.",
+    "value": "Обычная раковина.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple bathroom sink. I should probably wash my hands.",
+    "value": "Простая раковина для ванной. Наверное, мне следует вымыть руки.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of water basin, for washing yourself in?",
+    "value": "Какой-то таз с водой, чтобы мыться?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A waste of good water.",
+    "value": "Пустая трата хорошей воды.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien water source.",
+    "value": "Обнаружен инопланетный источник воды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki look handsome in mirror!",
+    "value": "Акки выглядит красиво в зеркале!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

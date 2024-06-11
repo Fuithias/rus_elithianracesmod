@@ -1,11 +1,11 @@
 [
   {
-    "value": "Alliance Day/Night Sensor",
+    "value": "Датчик дня/ночи Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Nothing here...",
+    "value": "Здесь ничего...",
     "path": "/description",
     "op": "replace"
   }

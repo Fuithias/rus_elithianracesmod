@@ -1,11 +1,11 @@
 [
   {
-    "value": "Vahlberries mixed with various sodas for a bizarre but delightful taste.",
+    "value": "Ягоды Валль, смешанные с различными газированными напитками, придают причудливый, но восхитительный вкус.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vahlberry Soda Mix",
+    "value": "Vahlberry Содовая смесь",
     "path": "/shortdescription",
     "op": "replace"
   }

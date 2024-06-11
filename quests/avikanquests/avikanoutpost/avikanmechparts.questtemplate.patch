@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Vanguard Mech Parts",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Запчасти для Мехов Передового отряда",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I see you have your own mech! The Vanguard has produced a number of parts that should be compatible with it, and luckily for you, I have the blueprints for them. They're all yours, if you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;. I need one to repair my own mech...",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я вижу, у вас есть собственный мех! Передовой отряд произвел несколько запчастей, которые должны быть совместимы с ним, и, к счастью для вас, у меня есть чертежи. Они все ваши, если вы ^green;найдете для меня ^orange;Спасенную Нано-Рецептор ^white;пока будете ^green;в космосе^white;. Мне нужен один, чтобы починить свой мех...",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "That's exactly what I needed, thank you. Here's the blueprints I promised you.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это именно то, что мне нужно, спасибо. Вот чертежи, которые я вам обещал.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Rehkon ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Рекхону ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

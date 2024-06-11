@@ -1,16 +1,16 @@
 [
   {
-    "value": "This pass unlocks access to the Watcher's offices in the Starfarer's Refuge.",
+    "value": "Этот пропуск открывает доступ к офисам Наблюдателей в Убежище Звездоходов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Watcher's Offices Pass^white;",
+    "value": "^#BA66FF;Проход в кабинеты наблюдателей^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Security Pass",
+    "value": "пропуск безопасности",
     "path": "/category",
     "op": "replace"
   }

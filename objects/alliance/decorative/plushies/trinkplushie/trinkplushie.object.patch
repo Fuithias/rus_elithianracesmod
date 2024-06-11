@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trink Plushie",
+    "value": "Тринк Плюшевый",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A toy Trink made of soft fabrics.",
+    "value": "Игрушка Тринк из мягких тканей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A big and round stuffed toy.",
+    "value": "Большая и круглая мягкая игрушка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Is this a stuffed robot toy?",
+    "value": "Это мягкая игрушка-робот?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss thiss one cute.",
+    "value": "Флорану это кажется милым.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Adoring. This plushie is cute.",
+    "value": "Обожаю. Этот плюшевый милый.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An adorable plushie.",
+    "value": "Очаровательный плюш.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An oddly cute toy.",
+    "value": "Необыкновенно милая игрушка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda plushie.",
+    "value": "Какая-то плюшевая штука.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Trink plushies are always adorable.",
+    "value": "Мягкие игрушки всегда очаровательны.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A soft alien toy.",
+    "value": "Мягкая инопланетная игрушка.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "It's a toy Trink. Unsettling and cute both.",
+    "value": "Это игрушка Тринк. И тревожно, и мило.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien toy.",
+    "value": "Обнаружена инопланетная игрушка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki seen real version. This cute-more.",
+    "value": "Акки видел реальную версию. Это мило-более.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

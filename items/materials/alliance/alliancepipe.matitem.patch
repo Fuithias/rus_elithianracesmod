@@ -1,11 +1,11 @@
 [
   {
-    "value": "A heavy, thick pipe. This isn't going to leak.",
+    "value": "Тяжелая, толстая труба. Это не будет утечки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Pipe",
+    "value": "Трубка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

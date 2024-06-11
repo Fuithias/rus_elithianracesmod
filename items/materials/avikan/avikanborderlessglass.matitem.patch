@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick glass from Kadavan.",
+    "value": "Толстое стекло от Кадавана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Borderless Avikan Glass",
+    "value": "Стекло Авикан без границ",
     "path": "/shortdescription",
     "op": "replace"
   }

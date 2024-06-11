@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Cargo Door",
+    "value": "Авикан Грузовая Дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door, used to protect a ship's cargo hold.",
+    "value": "Прочная металлическая дверь, используемая для защиты грузового трюма корабля.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A cargo door. If it would open now, I'd probably be dead.",
+    "value": "Грузовая дверь. Если бы она открылась сейчас, я бы, наверное, был мертв.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A strong cargo door. Good thing it is locked.",
+    "value": "Прочная грузовая дверь. Хорошо, что он заперт.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran afraid of endlesss sspace behind doorsss...",
+    "value": "Флоран боится бесконечного пространства за дверью...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relief. This cargo door won't open without prior decompression of the cargo hold.",
+    "value": "Облегчение. Эта грузовая дверь не откроется без предварительной разгерметизации грузового отсека.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not opening this before this room gets decompressed.",
+    "value": "Я не открою это, пока эта комната не разгерметизируется.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal door, and all that stands between me and the endlessness of space.",
+    "value": "Тяжелая металлическая дверь и все, что стоит между мной и бесконечностью космоса.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Sure am glad this door ain't opening anytime soon. I'd be rather annoyed if I got sucked into outer space.",
+    "value": "Конечно, я рад, что эта дверь не откроется в ближайшее время. Я бы очень разозлился, если бы меня затянуло в открытый космос.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A cargo door. It is all that stands between me and outer space...",
+    "value": "Грузовая дверь. Это все, что стоит между мной и космосом...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This door is all that stands between me and outer space. Good thing it won't open.",
+    "value": "Эта дверь — все, что стоит между мной и космосом. Хорошо, что не открывается.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Decompression of this room is needed before that door will ever open.",
+    "value": "Прежде чем дверь откроется, необходима декомпрессия этой комнаты.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Door is locked until the cargo hold is decompressed.",
+    "value": "Анализ завершен. Дверь заблокирована до тех пор, пока грузовой отсек не разгерметизируется.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki glad door won't open. If door open, Akki sucked into space and dead.",
+    "value": "Акки рада, что дверь не открывается. Если дверь откроется, Акки улетит в космос и умрет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

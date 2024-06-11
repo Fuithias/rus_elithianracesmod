@@ -1,11 +1,11 @@
 [
   {
-    "value": "Stone stairs.",
+    "value": "Каменная лестница.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Stone Stairs",
+    "value": "Каменная лестница Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Ferroverium Sample",
+    "value": "Образец ферверия",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "\"A perfect sample of a ferroverium ore.\"",
+    "value": "«Идеальный образец фервериевой руды».",
     "path": "/description",
     "op": "replace"
   }

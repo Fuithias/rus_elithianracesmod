@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Stone Forge^white;",
+    "value": "^orange;Каменная кузница^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stone smelter capable of smelting basic metal bars.",
+    "value": "Каменная плавильня, способная плавить слитки обычных металлов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A primitive stone forge. I could smelt some basic materials here.",
+    "value": "Примитивная каменная кузница. Здесь я мог почувствовать запах некоторых основных материалов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple forge for crafting at high temperatures.",
+    "value": "Простая кузница для крафта при высоких температурах.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Forge flamess hissss, burn. Floran brave it.",
+    "value": "Кузница пламя шипит, горит. Флоран выдержит это.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. This simple stone forge burns at a rather low temperature.",
+    "value": "Не впечатлен. Эта простая каменная кузница горит при довольно низкой температуре.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A basic forge. For crafting things at high temperature.",
+    "value": "Базовая кузница. Для изготовления вещей при высокой температуре.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but effective forge. There is elegance in its simplicity.",
+    "value": "Простая, но эффективная кузница. В своей простоте есть элегантность.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A basic lookin' forge.",
+    "value": "Обычная на вид кузница.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple stone forge. Not for smelting ores, but for crafting at high temperatures.",
+    "value": "Простая каменная кузница. Не для выплавки руд, а для крафта при высоких температурах.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A stone forge. The shape is somewhat odd.",
+    "value": "Каменная кузница. Форма несколько странная.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A stone forge. Not very efficient.",
+    "value": "Каменная кузница. Не очень эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone forge. Temperature insufficient for smelting ores.",
+    "value": "Анализ завершен. Каменная кузница. Температура недостаточна для плавки руд.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "value": "Акки используют тепло и куют материалы. Акки фарамасса!",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Stone Forge^white;",
+    "value": "^orange;Каменная кузница^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stone forge capable of forging basic materials.",
+    "value": "Каменная кузница, способная ковать основные материалы.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A primitive stone forge. I could smelt some basic materials here.",
+    "value": "Примитивная каменная кузница. Здесь я мог почувствовать запах некоторых основных материалов.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple forge for crafting at high temperatures.",
+    "value": "Простая кузница для крафта при высоких температурах.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Forge flamess hissss, burn. Floran brave it.",
+    "value": "Кузница пламя шипит, горит. Флоран выдержит это.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. This simple stone forge burns at a rather low temperature.",
+    "value": "Не впечатлен. Эта простая каменная кузница горит при довольно низкой температуре.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A basic forge. For crafting things at high temperature.",
+    "value": "Базовая кузница. Для изготовления вещей при высокой температуре.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but effective forge. There is elegance in its simplicity.",
+    "value": "Простая, но эффективная кузница. В своей простоте есть элегантность.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A basic lookin' forge.",
+    "value": "Обычная на вид кузница.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple stone forge. Not for smelting ores, but for crafting at high temperatures.",
+    "value": "Простая каменная кузница. Не для выплавки руд, а для крафта при высоких температурах.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A stone forge. The shape is somewhat odd.",
+    "value": "Каменная кузница. Форма несколько странная.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A stone forge. Not very efficient.",
+    "value": "Каменная кузница. Не очень эффективно.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone forge. Temperature insufficient for smelting ores.",
+    "value": "Анализ завершен. Каменная кузница. Температура недостаточна для плавки руд.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "value": "Акки используют тепло и куют материалы. Акки фарамасса!",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Compound Forge^white;",
+    "value": "^orange;Комплексная кузница^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple forge capable of forging special materials.",
+    "value": "Простая кузница, способная ковать особые материалы.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A compound forge of alien design. I should take notes.",
+    "value": "Сложная кузница инопланетного дизайна. Мне следует делать заметки.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This compound forge can be used to forge some special materials.",
+    "value": "Эту составную кузницу можно использовать для ковки некоторых особых материалов.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful. Fire will burn Floran...",
+    "value": "Флоран осторожен. Огонь сожжёт Флорана...",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. The temperature in this forge can be controlled very precisely.",
+    "value": "Впечатленный. Температуру в этой кузнице можно контролировать очень точно.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A forge with a varying temperature. It's useful for crafting special materials.",
+    "value": "Кузница с переменной температурой. Это полезно для создания специальных материалов.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I can feel my skin drying out near this forge.",
+    "value": "Я чувствую, как моя кожа сохнет возле этой кузницы.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This forge is burnin' bright.",
+    "value": "Эта кузница горит ярко.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A compound forge. The temperature can be precisely controlled.",
+    "value": "Сложная кузница. Температуру можно точно контролировать.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This forge is of alien design. It seems rather odd.",
+    "value": "Эта кузница спроектирована инопланетянами. Это кажется довольно странным.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most efficient forge overall, but the temperature control is impressive.",
+    "value": "В целом это не самая эффективная кузница, но контроль температуры впечатляет.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien forge. Variable temperature.",
+    "value": "Анализ завершен. Чужая кузница. Переменная температура.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use heat, forge materials. Akki faramassa!",
+    "value": "Акки используют тепло и куют материалы. Акки фарамасса!",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Nuclear Forge^white;",
+    "value": "^orange;Ядерная кузница^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A high-tech forge capable of forging advanced materials.",
+    "value": "Высокотехнологичная кузница, способная ковать современные материалы.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "It seems to be a sort of miniature nuclear reactor. It doesn't seem very safe...",
+    "value": "Похоже, это что-то вроде миниатюрного ядерного реактора. Кажется, это не очень безопасно...",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This forge reaches incredible temperatures... How does it contain the heat?",
+    "value": "В этой кузнице достигаются невероятные температуры... Как она удерживает тепло?",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful. Ssmall sssun will burn everything.",
+    "value": "Флоран осторожен. Маленький сссун сожжёт всё.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Alarmed. This device could easily melt my own body.",
+    "value": "Встревожен. Это устройство могло легко расплавить мое тело.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is that a mini nuclear reactor? How in the...",
+    "value": "Это мини ядерный реактор? Как в...",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I feel myself drying up just standing near this device...",
+    "value": "Я чувствую, что высыхаю, просто стоя рядом с этим устройством...",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A small star burns inside this device. 'Tis glorious!",
+    "value": "Внутри этого устройства горит маленькая звездочка. «Это великолепно!",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This forge can fuse nuclei. I'm not quite sure how it does that, though.",
+    "value": "Эта кузница может соединять ядра. Хотя я не совсем уверен, как это происходит.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Even the metals of the Old Ones won't survive the temperatures inside this device.",
+    "value": "Даже металлы Древних не выдержат температуры внутри этого устройства.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I did not expect such efficient designs from the Akkimari...",
+    "value": "Я не ожидал от Аккимари таких эффективных разработок...",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis failed. Heat signature exceding maximum values. Error.",
+    "value": "Анализ не удался. Тепловая сигнатура превышает максимальные значения. Ошибка.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki careful with forge-nuclear. Forge-hot melt anything!",
+    "value": "Акки осторожен с кузнечно-ядерным оружием. Ковать-расплавлять что угодно!",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

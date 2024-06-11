@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bottle of sparkling Le'mar, sure to brighten up your day.",
+    "value": "Бутылка игристого Le'mar обязательно скрасит ваш день.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Le'mar Bottle",
+    "value": "Лемар Бутылка",
     "path": "/shortdescription",
     "op": "replace"
   }

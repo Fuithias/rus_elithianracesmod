@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Rail Hatch",
+    "value": "Железнодорожный люк Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A thick metal hatch with a rail going through it.",
+    "value": "Толстый металлический люк, через который проходит рельс.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rail goesss through the metal hatch.",
+    "value": "Рельс проходит через металлический люк.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. This metal hatch has a rail going through it.",
+    "value": "Довольный. Через этот металлический люк проходит рельс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda hatch with a rail goin' through it.",
+    "value": "Какой-то люк, через который проходит рельса.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien hatch. Detected rail system inside.",
+    "value": "Обнаружен люк инопланетян. Внутри обнаружена железнодорожная система.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Rail goes through hatch.",
+    "value": "Рельс проходит через люк.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

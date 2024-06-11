@@ -1,66 +1,66 @@
 [
   {
-    "value": "Sandcrawler Egg",
+    "value": "Яйцо песчаного ползуна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The leathery egg of a Kadavan Sandcrawler.",
+    "value": "Кожистое яйцо кадаванского песчаного краулера.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An alien egg. It feels leathery.",
+    "value": "Инопланетное яйцо. Он кажется кожаным.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This is a rather odd egg...",
+    "value": "Это довольно странное яйцо...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Eggsss for eating?",
+    "value": "Яйца для еды?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wonder. What sort of creature might spawn from this egg?",
+    "value": "Удивляться. Какое существо могло появиться из этого яйца?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien egg. It doesn't look very edible.",
+    "value": "Инопланетное яйцо. Выглядит не очень съедобно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The spawn of new life.",
+    "value": "Зародыш новой жизни.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The egg of a worm-like creature from Kadavan.",
+    "value": "Яйцо червеобразного существа из Кадавана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A sandcrawlers's egg. Perhaps I should hatch it and raise it as my own.",
+    "value": "Яйцо песчаного ползуна. Возможно, мне стоит его высидеть и вырастить как своего.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A sandcrawler egg. Better not anger the parent.",
+    "value": "Яйцо песчаного ползуна. Лучше не злить родителя.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Sandcrawler egg. Please handle with care.",
+    "value": "Яйцо песчаного краулера. Пожалуйста, обращаться осторожно.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Egg-weird, probably taste-weird. Akki still want to eat.",
+    "value": "Странное яйцо, наверное, странный вкус. Акки все еще хочет есть.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

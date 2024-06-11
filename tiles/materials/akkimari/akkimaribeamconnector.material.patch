@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Beam Connector",
+    "value": "Соединитель балки Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy beam connector piece.",
+    "value": "Прочный соединительный элемент для балки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. This connector is a structural necessity.",
+    "value": "Наблюдение. Этот соединитель является структурной необходимостью.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Small block connectsss beamss.",
+    "value": "Малый блок соединяет балки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "It's just a beam connector piece.",
+    "value": "Это просто соединительный элемент для балки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal beam. Likely a support structure.",
+    "value": "Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Connector supports weight-great. Even Akkimari-fat.",
+    "value": "Соединитель поддерживает большой вес. Даже аккимари-толстый.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

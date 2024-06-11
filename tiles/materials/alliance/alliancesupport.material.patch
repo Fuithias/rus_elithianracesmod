@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Support Beam",
+    "value": "Поддерживающая балка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Heavy structural support beams.",
+    "value": "Тяжелые структурные опорные балки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. This is likely a structural support beam.",
+    "value": "Наблюдение. Вероятно это структурная опорная балка.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Pillarss for ssupporting heavy thingss.",
+    "value": "Колонны для поддержки тяжелых вещей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta heavy support structure.",
+    "value": "Какая-то тяжелая опорная структура.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Structural support beam.",
+    "value": "Анализ завершен. Структурная опорная балка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Support-strong, Akki build on it.",
+    "value": "Поддержка-прочная, акки строит на ней.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

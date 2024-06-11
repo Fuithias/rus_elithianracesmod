@@ -1,11 +1,11 @@
 [
   {
-    "value": "A piece of highly durable glass-like plastic.",
+    "value": "Кусок очень прочного стеклоподобного пластика.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Resoglass",
+    "value": "Резогласс",
     "path": "/shortdescription",
     "op": "replace"
   }

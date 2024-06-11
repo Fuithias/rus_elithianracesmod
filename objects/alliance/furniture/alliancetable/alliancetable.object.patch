@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Table",
+    "value": "Таблица Альянсов",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A lightweight table.",
+    "value": "Легкий стол.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic table.",
+    "value": "Базовый стол.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple metal table.",
+    "value": "Простой металлический стол.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tablesss.",
+    "value": "Столссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. A basic table.",
+    "value": "Не впечатлен. Базовый стол.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A clean metal table.",
+    "value": "Чистый металлический стол.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This table was recently cleaned.",
+    "value": "Этот стол недавно был убран.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just a table.",
+    "value": "Просто стол.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A clean table.",
+    "value": "Чистый стол.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A lightweight table.",
+    "value": "Легкий стол.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A minimalist table.",
+    "value": "Минималистичный стол.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected table.",
+    "value": "Обнаруженная таблица.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Table-alien.",
+    "value": "Стол-инопланетянин.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

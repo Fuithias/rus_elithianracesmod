@@ -1,41 +1,41 @@
 [
   {
-    "value": "Faro's Vehicle Workshop",
+    "value": "Автомобильная мастерская Фаро",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This engineer should be able to fix my vehicles.",
+    "value": "Этот инженер должен уметь ремонтировать мои машины.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran takesss broken vehicle to sstrange man. Ssstrange man fixess vehicle.",
+    "value": "Флоран отвозит сломанную машину незнакомому человеку. Странный человек чинит машину.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Delighted. This engineer can fix up any broken vehicle I present him with.",
+    "value": "Получивший удовольствие. Этот инженер может починить любую сломанную машину, которую я ему подарю.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This fella looks like he could fix up my vehicles.",
+    "value": "Похоже, этот парень сможет починить мои машины.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Faro's a skilled vehicle repairman working for Enerth Engineering. He can fix my vehicles.",
+    "value": "Фаро — опытный мастер по ремонту автомобилей, работающий в Enerth Engineering. Он может починить мои машины.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien engineer. Likely offers vehicle reparation services.",
+    "value": "Обнаружен инопланетный инженер. Вероятно, предлагает услуги по ремонту автомобилей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki bring vehicles-broken to alien. Alien fixes them.",
+    "value": "Акки приносит инопланетянам сломанные машины. Чужой их исправляет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

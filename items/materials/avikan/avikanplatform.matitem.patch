@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal platform, coloured like sand.",
+    "value": "Металлическая платформа цвета песка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Platform",
+    "value": "Платформа Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

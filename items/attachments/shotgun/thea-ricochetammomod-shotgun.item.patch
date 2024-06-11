@@ -1,6 +1,6 @@
 [
   {
-    "value": "Shotgun ammunition that pierces targets and ricochets off walls.",
+    "value": "Боеприпасы для дробовика, которые пробивают цель и рикошетят от стен.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Ricochet Ammo",
+    "value": "Рикошетные патроны",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

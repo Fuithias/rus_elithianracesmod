@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Truck",
+    "value": "Альянс Грузовик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavy transport truck.",
+    "value": "Тяжелый транспортный грузовик.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A truck, for transporting heavy goods.",
+    "value": "Грузовик, для перевозки тяжелых грузов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This vehicle is good for transporting heavy cargo.",
+    "value": "Этот автомобиль хорош для перевозки тяжелых грузов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran mussst not get in the way of ground crussher...",
+    "value": "Флоран не должен мешать измельчителю...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. This truck can easily move heavy cargo.",
+    "value": "Заявление. Этот грузовик может легко перевезти тяжелый груз.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This truck reminds me of home.",
+    "value": "Этот грузовик напоминает мне дом.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most elegant vehicle, but it will transport heavy cargo with ease.",
+    "value": "Не самый элегантный автомобиль, но он легко перевезет тяжелые грузы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A truck, for truckin' around in.",
+    "value": "Грузовик для перевозки грузов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This truck can easily transport heavy cargo.",
+    "value": "Этот грузовик может легко перевозить тяжелые грузы.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien ground vehicle. It looks like a transport vessel.",
+    "value": "Наземное транспортное средство пришельцев. Похоже на транспортное судно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The most common model of Alliance transport trucks.",
+    "value": "Самая распространенная модель транспортных грузовиков Альянса.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected unidentified vehicle.",
+    "value": "Обнаружен неопознанный автомобиль.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Vehicle-alien. Wheels-many.",
+    "value": "Транспортное средство-инопланетянин. Колеса-много.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

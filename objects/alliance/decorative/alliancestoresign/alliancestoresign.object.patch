@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Store Sign",
+    "value": "Вывеска магазина Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sign advertising a place to go shopping.",
+    "value": "Вывеска, рекламирующая место, где можно пойти за покупками.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sign for a store.",
+    "value": "Вывеска для магазина.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "It says \"store\".",
+    "value": "Там написано \"магазин\".",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssign for a store.",
+    "value": "Подпишитесь на магазин.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Comforted. A sign that indicates a store.",
+    "value": "Утешен. Вывеска, указывающая на магазин.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like the sign for a store.",
+    "value": "Похоже на вывеску магазина.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This is the sign for a store.",
+    "value": "Это вывеска магазина.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Must be a store.",
+    "value": "Должно быть, магазин.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "There is a store here, judging by the sign.",
+    "value": "Судя по вывеске, здесь есть магазин.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Is this an alien market?",
+    "value": "Это чужой рынок?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This sign can be seen from far away. It's quite effective.",
+    "value": "Этот знак можно увидеть издалека. Это довольно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien sign. Indicates the presence of a marketplace.",
+    "value": "Обнаружен инопланетный знак. Указывает на наличие торговой площадки.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki know bit of alien language. Store.",
+    "value": "Акки немного знает инопланетный язык. Магазин.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

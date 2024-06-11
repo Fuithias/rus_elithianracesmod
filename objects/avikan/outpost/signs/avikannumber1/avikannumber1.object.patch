@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number One",
+    "value": "Номер один",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number one, in the Avikan Script.",
+    "value": "Номер один, в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number one in an alien script.",
+    "value": "Номер один в инопланетном сценарии.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is one.",
+    "value": "Чужой номер. Я считаю, что это одно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means one.",
+    "value": "Информирован. Этот инопланетный символ означает один.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "One in some alien script.",
+    "value": "Один в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number one.",
+    "value": "Инопланетный символ цифры один.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means one.",
+    "value": "Кажется, это число означает один.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number one.",
+    "value": "Номер один.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. One.",
+    "value": "Число. Один.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. One, Akki thinks.",
+    "value": "Номер-чужой. «Один», думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

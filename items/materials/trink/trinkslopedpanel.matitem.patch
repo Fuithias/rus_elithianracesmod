@@ -1,11 +1,11 @@
 [
   {
-    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "value": "Прочное металлическое покрытие, часто используемое при строительстве космических станций и космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Hull Panel",
+    "value": "Тринкианская панель корпуса",
     "path": "/shortdescription",
     "op": "replace"
   }

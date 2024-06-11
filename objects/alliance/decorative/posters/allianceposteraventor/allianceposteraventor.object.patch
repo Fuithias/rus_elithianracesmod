@@ -1,36 +1,36 @@
 [
   {
-    "value": "Aventor Poster",
+    "value": "Плакат Авентора",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting Aventor.",
+    "value": "Плакат, рекламирующий Aventor.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssshiny.",
+    "value": "Ссшины.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What does this icon represent?",
+    "value": "Любопытный. Что означает этот значок?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Aventor develops the fastest spaceships in the Alliance.",
+    "value": "Aventor разрабатывает самые быстрые космические корабли Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

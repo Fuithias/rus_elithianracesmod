@@ -1,11 +1,11 @@
 [
   {
-    "value": "An old prototype for the MEGA-TRINK armour.",
+    "value": "Старый прототип брони МЕГА-ТРИНК.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "MEGA-TRINK-00 Mech Body",
+    "value": "Механический корпус MEGA-TRINK-00",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Strong spices from Kadavan.",
+    "value": "Крепкие специи из Кадавана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kadavan Spices",
+    "value": "Кадаванские специи",
     "path": "/shortdescription",
     "op": "replace"
   }

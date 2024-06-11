@@ -1,16 +1,16 @@
 [
   {
-    "value": "A contract for hiring the services of the Clanguard.",
+    "value": "Контракт на найм услуг Стражей Клана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Clanguard Contract^white;",
+    "value": "^#BA66FF;Контракт стражи клана^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Contract",
+    "value": "Договор",
     "path": "/category",
     "op": "replace"
   }

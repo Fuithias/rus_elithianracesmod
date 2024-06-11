@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sticky paste made from powdered Vrelli leaves.",
+    "value": "Липкая паста из измельченных листьев Врелли.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vrelli Paste",
+    "value": "Паста Врелли",
     "path": "/shortdescription",
     "op": "replace"
   }

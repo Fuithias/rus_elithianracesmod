@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Kitchen Sink",
+    "value": "Кухонная мойка Альянс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen counter with a built-in sink.",
+    "value": "Кухонная столешница со встроенной мойкой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A kitchen sink.",
+    "value": "Кухонная мойка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I could get drink a bit of water here.",
+    "value": "Я мог бы выпить немного воды здесь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sinksss givess Floran water.",
+    "value": "Синкссс дает Флорану воду.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A kitchen sink.",
+    "value": "Наблюдение. Кухонная мойка.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A sink, a vital part of any good kitchen.",
+    "value": "Мойка – важная часть любой хорошей кухни.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I always have time to get some water.",
+    "value": "У меня всегда есть время, чтобы набрать воды.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A sink.",
+    "value": "Раковина.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This kitchen sink should prove useful.",
+    "value": "Эта кухонная мойка должна оказаться полезной.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Aliens use water quite carelessly.",
+    "value": "Инопланетяне используют воду довольно небрежно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A kitchen sink.",
+    "value": "Кухонная мойка.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien water source.",
+    "value": "Обнаружен инопланетный источник воды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki wash hands here.",
+    "value": "Акки моет руки здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

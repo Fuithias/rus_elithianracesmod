@@ -1,11 +1,11 @@
 [
   {
-    "value": "The hide of some alien monster, cut using an Avikan hunting weapon.",
+    "value": "Шкура какого-то инопланетного монстра, разрезанная с помощью охотничьего оружия Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Hide",
+    "value": "Шкура монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

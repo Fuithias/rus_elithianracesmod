@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Crate",
+    "value": "Акрис Крейт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bulky metal container from Akris.",
+    "value": "Громоздкий металлический контейнер от Akris.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A strange kind of crate.",
+    "value": "Странный тип ящика.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bulky crate. Why is is so rounded?",
+    "value": "Громоздкий ящик. Почему он такой закругленный?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Strange crate holdsss sstrange goodiess.",
+    "value": "Странный ящик содержит странную вкуснятину.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Mystified. What's the reason for this crate's rounded design?",
+    "value": "Озадаченный. В чем причина округлой формы этого ящика?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A strange kind of crate.",
+    "value": "Странный тип ящика.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A bulky, somewhat rounded crate.",
+    "value": "Громоздкий, несколько округлый ящик.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A crate, something's odd 'bout it.",
+    "value": "Ящик, что-то в нем странное.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "It looks like an Akkimari-built crate.",
+    "value": "Похоже на ящик, построенный Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strangely designed alien crate.",
+    "value": "Ящик с пришельцами странного дизайна.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most efficient design for a crate.",
+    "value": "Не самая эффективная конструкция ящика.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crate-bulky, for storing items.",
+    "value": "Ящик-громоздкий, для хранения вещей.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

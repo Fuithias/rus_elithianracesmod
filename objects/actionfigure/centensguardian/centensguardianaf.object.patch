@@ -1,11 +1,11 @@
 [
   {
-    "value": "Ce'Tennan Oculus Figurine",
+    "value": "Фигурка Се'Теннан Окулус",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"An automated defence system built by the Ce'Tennan.\"",
+    "value": "На этикетке написано: «Автоматизированная система защиты, созданная Се'Теннаном».",
     "path": "/description",
     "op": "replace"
   }

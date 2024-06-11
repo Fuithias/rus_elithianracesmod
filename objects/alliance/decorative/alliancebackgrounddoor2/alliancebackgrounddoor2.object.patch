@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Background Door",
+    "value": "Фоновая дверь Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A closed sliding door.",
+    "value": "Закрытая раздвижная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss where door goesss...",
+    "value": "Флорану интересно, куда идет дверь...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. I wonder where this door leads...",
+    "value": "Любопытный. Интересно, куда ведет эта дверь...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder where this door leads...",
+    "value": "Интересно, куда ведет эта дверь...",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning failed. Unable to determine where this door leads.",
+    "value": "Сканирование не удалось. Невозможно определить, куда ведет эта дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki curious where door leads...",
+    "value": "Акки любопытно, куда ведет дверь...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

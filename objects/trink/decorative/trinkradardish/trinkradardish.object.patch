@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Radar Dish",
+    "value": "Тринкианская радиолокационная антенна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A radar dish of Trinkian design.",
+    "value": "Радарная антенна конструкции Тринкиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large radar dish. Looks powerful.",
+    "value": "Большая радиолокационная тарелка. Выглядит мощно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Nothing gets past this radar.",
+    "value": "Ничто не проходит мимо этого радара.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Isss thiss a big metal flower?",
+    "value": "Это большой металлический цветок?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This radar dish can detect spaceships in deep space.",
+    "value": "Очарованный. Эта радиолокационная тарелка может обнаруживать космические корабли в глубоком космосе.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A big bad radar dish.",
+    "value": "Большая плохая радиолокационная тарелка.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large radar dish. Whoever controls it must have seen my spaceship coming long before I arrived.",
+    "value": "Большая радиолокационная тарелка. Тот, кто им управляет, должно быть, увидел приближающийся мой космический корабль задолго до моего прибытия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian radar dish, one of the best in the Alliance.",
+    "value": "Тринкианская радиолокационная антенна, одна из лучших в Альянсе.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large radar dish.",
+    "value": "Большая радиолокационная тарелка.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A powerful radar dish of Trinkian design. Carefully calibrated.",
+    "value": "Мощная радиолокационная антенна конструкции Тринкиана. Тщательно откалиброван.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis: radar dish.",
+    "value": "Анализ: радиолокационная тарелка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Dish-big, Akki intercept signal! Akki want to know what aliens say.",
+    "value": "Большая тарелка, сигнал перехвата Акки! Акки хочет знать, что говорят инопланетяне.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

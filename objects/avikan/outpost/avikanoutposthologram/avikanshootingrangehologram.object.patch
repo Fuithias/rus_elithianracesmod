@@ -1,71 +1,71 @@
 [
   {
-    "value": "Virtual Guide Azana",
+    "value": "Виртуальный гид Азана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A holographic Avikan interface.",
+    "value": "Голографический интерфейс Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A holographic interface. Perhaps she might tell me about this place?",
+    "value": "Голографический интерфейс. Возможно, она расскажет мне об этом месте?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Perhaps this holographic interface can show me the way.",
+    "value": "Возможно, этот голографический интерфейс покажет мне путь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran talkss to light persson. Light perssson iss nice.",
+    "value": "Флоран разговаривает со светлым человеком. Легкая личность - это здорово.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Eager. Perhaps this holographic interface can show me the way.",
+    "value": "Жаждущий. Возможно, этот голографический интерфейс покажет мне путь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A holographic interface. She looks lovely.",
+    "value": "Голографический интерфейс. Она выглядит прекрасно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A holographic interface. She might be able to guide me.",
+    "value": "Голографический интерфейс. Возможно, она сможет меня направить.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This hologram shines like the mornin' sun. Perhaps I should talk to her.",
+    "value": "Эта голограмма сияет, как утреннее солнце. Возможно, мне стоит поговорить с ней.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A holographic guide. She might be able to tell me more about this place.",
+    "value": "Голографический гид. Возможно, она сможет рассказать мне больше об этом месте.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A virtual guide, programmed to teach newcomers about this place. I might learn something from her myself.",
+    "value": "Виртуальный гид, созданный для того, чтобы рассказать новичкам об этом месте. Возможно, я сам чему-то у нее научусь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A holographic guide. She might be able to tell me more about this place.",
+    "value": "Голографический гид. Возможно, она сможет рассказать мне больше об этом месте.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Virtual guide detected. Recommend interaction to learn valuable intel.",
+    "value": "Обнаружен виртуальный гид. Рекомендуйте взаимодействие, чтобы получить ценную информацию.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Lady-light-alien. Seem friendly.",
+    "value": "Леди-свет-инопланетянка. Выглядеть дружелюбно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

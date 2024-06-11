@@ -13,7 +13,8 @@
     "value": "Патрон за очередь:",
     "path": "/roundsPerBurstTitleLabel/value",
     "op": "replace"
-  },  {
+  },
+  {
     "value": "Скорость стрельбы:",
     "path": "/speedTitleLabel/value",
     "op": "replace"

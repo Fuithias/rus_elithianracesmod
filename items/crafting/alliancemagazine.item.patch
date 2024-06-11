@@ -1,11 +1,11 @@
 [
   {
-    "value": "A vital part of any Alliance ballistic rifle.",
+    "value": "Жизненно важная часть любой баллистической винтовки Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Magazine",
+    "value": "Журнал Альянс",
     "path": "/shortdescription",
     "op": "replace"
   }

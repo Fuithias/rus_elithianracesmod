@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Bed",
+    "value": "Альянс Кровать",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable bed.",
+    "value": "Удобная кровать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A comfortable bed with clean sheets.",
+    "value": "Удобная кровать с чистыми простынями.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This bed is quite comfortable.",
+    "value": "Эта кровать довольно удобна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran rarely ssleep in ssuch nice bed.",
+    "value": "Флоран редко с-спит в такой красивой постели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Tired. I should lie down for a while.",
+    "value": "Усталый. Мне следует прилечь на некоторое время.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but comfortable bed.",
+    "value": "Простая, но удобная кровать.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A good place to close one's eyes.",
+    "value": "Хорошее место, чтобы закрыть глаза.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A decent place to get some shut-eye.",
+    "value": "Достойное место, чтобы немного поспать.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A nice and comfortable bed.",
+    "value": "Хорошая и удобная кровать.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This bed looks quite comfortable.",
+    "value": "Эта кровать выглядит довольно удобной.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A bed. I prefer a repair pod.",
+    "value": "Кровать. Я предпочитаю ремонтную капсулу.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien bedding detected.",
+    "value": "Обнаружено инопланетное постельное белье.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki sleep here. Tired-very...",
+    "value": "Акки спит здесь. Устал-очень...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

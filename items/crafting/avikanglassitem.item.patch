@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong pane of glass used for crafting.",
+    "value": "Прочное стекло, используемое для изготовления предметов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Glass",
+    "value": "Авикан Стекло",
     "path": "/shortdescription",
     "op": "replace"
   }

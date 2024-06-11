@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Fence",
+    "value": "Авиканский Забор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal fence.",
+    "value": "Прочный металлический забор.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. A sturdy fence like this will keep out any unwanted creatures.",
+    "value": "Доволен. Прочный забор, как этот, не пустит нежеланных существ.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Sssturdy fence.",
+    "value": "Прочный забор.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A strong lookin' metal fence. Might be useful for buildin' a ranch.",
+    "value": "Прочный металлический забор. Может пригодиться для строительства ранчо.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal fencing.",
+    "value": "Анализ завершен. Металлическое ограждение.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fence-sturdy, keep Akki from tumbling off the edge.",
+    "value": "Забор-прочный, удерживает акки от падения.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

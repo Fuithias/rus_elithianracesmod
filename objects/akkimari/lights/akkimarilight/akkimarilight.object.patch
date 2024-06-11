@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Table Light",
+    "value": "Акрис Настольный Светильник",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A gentle table lamp.",
+    "value": "Нежная настольная лампа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A table lamp. It pulsates softly.",
+    "value": "Настольная лампа. Он мягко пульсирует.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This table lamp makes me feel calm.",
+    "value": "Эта настольная лампа заставляет меня чувствовать себя спокойно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Pulsssing light.",
+    "value": "Пульсирующий свет.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Calm. This pulsating light is relaxing.",
+    "value": "Спокойствие. Этот пульсирующий свет расслабляет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsating light.",
+    "value": "Пульсирующий свет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This pulsating light evokes a feeling of calmness.",
+    "value": "Этот пульсирующий свет вызывает ощущение спокойствия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A small table lamp, pulsating lightly.",
+    "value": "Маленькая настольная лампа, слегка пульсирующая.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsating light. It calms the Akkimari down.",
+    "value": "Пульсирующий свет. Это успокаивает аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien lamp. The light is odd somehow.",
+    "value": "Инопланетная лампа. Свет какой-то странный.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsating light.",
+    "value": "Пульсирующий свет.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected pulsating light source.",
+    "value": "Обнаружен пульсирующий источник света.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki like light-pulsating. Akki feel calm.",
+    "value": "Акки словно светится пульсирующим светом. Акки чувствует себя спокойно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

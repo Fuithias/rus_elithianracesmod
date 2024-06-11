@@ -1,66 +1,66 @@
 [
   {
-    "value": "Covered Avikan Keff",
+    "value": "Крытый Авикан Кефф",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan vehicle, covered in a large leather sheet.",
+    "value": "Автомобиль «Авикан», обтянутый большим кожаным полотном.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Some sort of vehicle is hidden beneath those sheets.",
+    "value": "Под этими простынями спрятано какое-то транспортное средство.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "What wonders might lie hidden here?.",
+    "value": "Какие чудеса могут скрываться здесь?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather ssheetsss hide big metal thingsss...",
+    "value": "Кожаные простыни скрывают большие металлические вещи...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wonder. What might this be?.",
+    "value": "Удивляться. Что это может быть?.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is this what I think it is?",
+    "value": "Это то, что я думаю?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This leather sheet protects whatever lies below it.",
+    "value": "Этот кожаный лист защищает все, что находится под ним.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of vehicle, covered by a large leather sheet.",
+    "value": "Что-то вроде машины, покрытой большим кожаным полотном.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A keff that hasn't seen use in a while.",
+    "value": "Кефф, который уже давно не использовался.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A vehicle covered by a large leather sheet.",
+    "value": "Автомобиль, покрытый большим кожаным полотном.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning. Detected keff.",
+    "value": "Сканирование. Обнаружен кефф.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sheet protects vehicle-alien from the desert.",
+    "value": "Лист защищает транспортное средство-инопланетянин от пустыни.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

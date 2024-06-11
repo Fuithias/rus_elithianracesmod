@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Acidic Warfare",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Кислотная Война",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I found a large container full of Vaash acid, previously used by a Justicar to power its weapons. ^green;I should find an Akkimari who knows their way around Vaash weapons ^white;- perhaps they can fashion a new weapon for me using this container.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я нашёл большой контейнер, полный кислоты Вааш, ранее использовавшейся Юстикаром для питания его оружия. ^green;Мне следует найти Аккимари, который знает своё дело с оружием Вааш ^white;- возможно, он сможет сделать для меня новое оружие, используя этот контейнер.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Chacharra impressed! Justicar difficult to take down, container a good prize. Chacharra can make weapon from it, for price.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Чачарра впечатлён! Юстикар трудно было свалить, контейнер хорошая добыча. Чачарра может сделать оружие из него, за плату.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Чачарру ^reset;в ^orange;Посольстве Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

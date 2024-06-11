@@ -1,11 +1,11 @@
 [
   {
-    "value": "A root with a strong taste that few enjoy.",
+    "value": "Корень с сильным вкусом, который нравится немногим.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bolbohn",
+    "value": "Болбон",
     "path": "/shortdescription",
     "op": "replace"
   }

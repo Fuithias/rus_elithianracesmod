@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Column",
+    "value": "Столетняя колонна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A massive column.",
+    "value": "Массивная колонна.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large metal column. Or is it a pillar?",
+    "value": "Большая металлическая колонна. Или это столб?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A massive, ancient column. It's incredible that it's still standing.",
+    "value": "Массивная древняя колонна. Невероятно, что он до сих пор стоит.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can't break thisss metal. Floran mad.",
+    "value": "Флоран не может сломать этот металл. Флоран злится.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. My readings indicate that this column has stood here for tens of thousands of years, maybe more.",
+    "value": "Очарованный. Мои показания показывают, что эта колонна простояла здесь десятки тысяч лет, а может и больше.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Now THAT's a column!",
+    "value": "Вот ЭТО колонка!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Columns are common in many forms of alien architecture. They present an image of strength and serenity.",
+    "value": "Колонны распространены во многих формах инопланетной архитектуры. Они представляют собой образ силы и спокойствия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's quite the column.",
+    "value": "Это именно та колонка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian-built column. It's quite massive.",
+    "value": "Колонна, построенная в Сентенсе. Это довольно массивно.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Old Ones built many impressive structures.",
+    "value": "Древние построили множество впечатляющих сооружений.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A large column. These are often used for support, but given that the Centens built it, it likely only serves as decoration.",
+    "value": "Большая колонна. Их часто используют в качестве опоры, но, учитывая, что их построили Центены, скорее всего, они служат лишь украшением.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian column.",
+    "value": "Обнаружен центенский столбец.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Column-great, supports weight-great.",
+    "value": "Колонка-отлично, вес держит-отлично.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

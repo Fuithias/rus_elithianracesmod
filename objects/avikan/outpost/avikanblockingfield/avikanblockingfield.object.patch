@@ -1,31 +1,31 @@
 [
   {
-    "value": "Avikan Blocking Field",
+    "value": "Блокирующее поле Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An energy field that keeps out unwanted guests.",
+    "value": "Энергетическое поле, защищающее от нежелательных гостей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thiss wall of light keepss Floran out...",
+    "value": "Эта стена света не пускает Флорана...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This field will keep out most large objects and entities, but allows projectiles through.",
+    "value": "Информирован. Это поле не пропускает большинство крупных объектов и сущностей, но пропускает снаряды.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Blocking field detected. Analysis: only projectiles can pass through.",
+    "value": "Обнаружено блокирующее поле. Анализ: пройти могут только снаряды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Field-energy. Akki not get through easily.",
+    "value": "Поле-энергия. Акки нелегко пройти.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

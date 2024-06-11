@@ -1,31 +1,31 @@
 [
   {
-    "value": "Droden Mannequin",
+    "value": "Дроден Манекен",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Display and easily equip your Droden-themed armour sets!",
+    "value": "Покажите и легко экипируйте свои наборы брони в стиле Дродена!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Mannequin for disssplaying armour.",
+    "value": "Манекен для демонстрации доспехов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A mannequin tailored to an alien species.",
+    "value": "Наблюдение. Манекен, созданный для инопланетного вида.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected mannequin. Tailored to Droden shape.",
+    "value": "Обнаружен манекен. Адаптирован к форме Дродена.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki put armour on mannequin, look at armour-pretty.",
+    "value": "Акки одел броню на манекен, посмотрите, броня красивая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

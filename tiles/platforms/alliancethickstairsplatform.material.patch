@@ -1,42 +1,42 @@
 [
   {
-    "value": "Thick Alliance Stairs",
+    "value": "Толстые ступени Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Sturdy metal stairs.",
+    "value": "Прочные металлические ступени.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. These stairs appear to be very sturdy.",
+    "value": "Наблюдение. Эти ступени кажутся очень прочными.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ssstairss are for climbing. Floran knowsss thiss.",
+    "value": "Ступени для подъема. Флоран знает это.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A set of sturdy metal stairs.",
+    "value": "Набор прочных металлических ступеней.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal stairs.",
+    "value": "Анализ завершен. Металлические ступени.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Stairs-thick, Akki careful not to stub toe.",
+    "value": "Ступени-Толстые, акки осторожен, чтобы не споткнуться.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

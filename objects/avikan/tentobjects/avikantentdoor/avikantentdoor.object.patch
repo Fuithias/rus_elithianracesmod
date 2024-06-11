@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Tent Door",
+    "value": "Дверь для палатки Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather tent door.",
+    "value": "Простая кожаная дверь для палатки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic leather tent door.",
+    "value": "Обычная кожаная дверь для палатки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bland leather tent door.",
+    "value": "Мягкая кожаная дверь палатки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather makesss Floran want to huntsss.",
+    "value": "Кожа вызывает у Флорана желание охотиться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A primitive leather tent door.",
+    "value": "Наблюдение. Примитивная кожаная дверь палатки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather tent door. Not very interesting.",
+    "value": "Простая кожаная дверь для палатки. Не очень интересно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather tent door.",
+    "value": "Простая кожаная дверь для палатки.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tent door. Simple, but very useful.",
+    "value": "Кожаная дверь в палатку. Просто, но очень полезно.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tent door. It provides us with ample protection against the desert winds.",
+    "value": "Кожаная дверь в палатку. Это обеспечивает нам достаточную защиту от ветров пустыни.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tent door.",
+    "value": "Кожаная дверь в палатку.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected door. Material: leather.",
+    "value": "Обнаружена дверь. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door to tent.",
+    "value": "Дверь в палатку.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

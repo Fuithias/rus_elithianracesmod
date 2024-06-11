@@ -1,11 +1,11 @@
 [
   {
-    "value": "A mysterious Centensian artefact, the core of a Jumpgate device.",
+    "value": "Таинственный центенский артефакт, ядро ​​устройства Jumpgate.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Jumpgate Core",
+    "value": "Ядро прыжковых врат",
     "path": "/shortdescription",
     "op": "replace"
   }

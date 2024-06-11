@@ -1,11 +1,11 @@
 [
   {
-    "value": "An interface screen integrated into a wall panel.",
+    "value": "Экран интерфейса интегрирован в настенную панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Interface Wall",
+    "value": "Стена интерфейса Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

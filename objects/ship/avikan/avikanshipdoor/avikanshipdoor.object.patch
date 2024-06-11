@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Ship Door",
+    "value": "Дверь корабля Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door, oft found on Avikan ships.",
+    "value": "Прочная металлическая дверь, часто встречающаяся на кораблях Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door.",
+    "value": "Прочная металлическая дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny door.",
+    "value": "Блестящая дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A metal door.",
+    "value": "Заявление. Металлическая дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Cool door.",
+    "value": "Классная дверь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal door. Effective at keeping things out.",
+    "value": "Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fine door made of strong metal. Ain't nothing coming through here.",
+    "value": "Хорошая дверь из прочного металла. Здесь ничего не проходит.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan ship door.",
+    "value": "Дверь корабля Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strong door from home, built for use on ships.",
+    "value": "Прочная дверь из дома, созданная для использования на кораблях.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A mechanical door.",
+    "value": "Механическая дверь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected door. Analysis: Ship model.",
+    "value": "Обнаружена дверь. Анализ: Модель корабля.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-ship, special-not.",
+    "value": "Дверь-корабль, спец-нет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

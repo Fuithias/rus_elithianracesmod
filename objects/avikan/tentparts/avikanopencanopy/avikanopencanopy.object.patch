@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Canopy",
+    "value": "Авикан Навес",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy, to provide some shadow out in the desert.",
+    "value": "Кожаный навес, создающий тень в пустыне.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather canopy. Effective, but not very pretty.",
+    "value": "Кожаный балдахин. Эффектно, но не очень красиво.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bland leather canopy.",
+    "value": "Мягкий кожаный балдахин.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather makesss Floran want to huntsss.",
+    "value": "Кожа вызывает у Флорана желание охотиться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A simple leather canopy.",
+    "value": "Наблюдение. Простой кожаный балдахин.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy, simple but effective.",
+    "value": "Кожаный навес, простой, но эффективный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy. Simple but effective.",
+    "value": "Кожаный балдахин. Простой, но эффективный.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather canopy, to provide some shade when the sun is out.",
+    "value": "Простой кожаный навес, обеспечивающий тень в солнечную погоду.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Out in the desert, a simple canopy like this is a blessing during the day.",
+    "value": "В пустыне такой простой навес станет благословением в течение дня.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic, but efficient, leather canopy.",
+    "value": "Упрощенный, но эффективный кожаный навес.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected leather canopy. Provides shade during the day.",
+    "value": "Обнаружен кожаный балдахин. Обеспечивает тень в течение дня.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Canopy for shade, Akki protected from sun.",
+    "value": "Навес для тени, Акки защищает от солнца.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

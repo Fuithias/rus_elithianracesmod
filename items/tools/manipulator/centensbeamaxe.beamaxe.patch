@@ -1,16 +1,16 @@
 [
   {
-    "value": "A Centensian artefact capable of rapidly deconstructing matter.",
+    "value": "Центенсианский артефакт, способный быстро деконструировать материю.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Shardbreaker^white;",
+    "value": "^orange;Осколок^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Artefact",
+    "value": "Артефакт",
     "path": "/category",
     "op": "replace"
   }

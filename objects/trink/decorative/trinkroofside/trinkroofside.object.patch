@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Side Roof",
+    "value": "Тринкиан Боковая Крыша",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The side of a Trinkian roof. For building modular structures.",
+    "value": "Сторона крыши Тринкиана. Для строительства модульных конструкций.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large modular roof.",
+    "value": "Большая модульная крыша.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large, modular roof decorated with green lights.",
+    "value": "Большая модульная крыша, украшенная зелеными огнями.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran seesss big roof. Floran wonderss why roof iss so big.",
+    "value": "Флоран видит большую крышу. Флоран задается вопросом, почему крыша такая большая.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This modular roof piece is packed with sensors.",
+    "value": "Очарованный. Эта модульная часть крыши наполнена датчиками.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A large metal pyramid for a roof? Cool!",
+    "value": "Большая металлическая пирамида для крыши? Прохладный!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A grand metal roof. Surpisingly, it is packed with sensors and communication systems.",
+    "value": "Большая металлическая крыша. Удивительно, но он напичкан датчиками и системами связи.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinks are big fans of modular buildings. This roof will fit on pretty much every Trinkian home.",
+    "value": "Тринки — большие поклонники модульных зданий. Эта крыша подойдет практически к каждому дому Тринкиана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large metal roof, built by machines.",
+    "value": "Большая металлическая крыша, построенная машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian roofs are modular, and fit on top of almost any Trinkian structure.",
+    "value": "Крыши Trinkian являются модульными и подходят практически к любой конструкции Trinkian.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Readings indicate high amounts of sensors inside this structure.",
+    "value": "Показания указывают на большое количество датчиков внутри этой структуры.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Roof-metal.",
+    "value": "Крыша-металл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

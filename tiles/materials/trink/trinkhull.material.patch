@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Hull",
+    "value": "Тринкская обшивка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strong metal hull for ships and buildings alike.",
+    "value": "Прочный металлический корпус для кораблей и зданий.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Thick and heavy hull plating. Very reliable protection.",
+    "value": "Наблюдение. Толстое и тяжелое обшивочное покрытие. Очень надежная защита.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Thick hull for making placess sssafe...",
+    "value": "Толстая обшивка для создания безопасных мест...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A thick plate o' metal, like some sorta big safe.",
+    "value": "Толстая металлическая пластина, как некий большой сейф.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal plating is multiple units thick.",
+    "value": "Анализ завершен. Металлическая обшивка состоит из нескольких слоев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hull-thick, keeps Akkimari safe.",
+    "value": "Обшивка-толстая, держит акки в безопасности.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Watcher Tapestry",
+    "value": "Гобелен Наблюдателя",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Wall tapestry decorated in the style of the Watchers.",
+    "value": "Настенные гобелены оформлены в стиле Дозорных.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A black tapestry adorned with an eye. It creeps me out.",
+    "value": "Черный гобелен, украшенный глазом. Меня это пугает.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I'm a bit creeped out by this tapestry.",
+    "value": "Меня немного пугает этот гобелен.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss not afraid of large eyesss.",
+    "value": "Флоран не боится больших глаз.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Uneasy. I feel like I'm being watched.",
+    "value": "Непросто. Я чувствую, что за мной наблюдают.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is this supposed to be an all-seing eye?",
+    "value": "Это должно быть всевидящее око?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry makes me feel uncomfortable.",
+    "value": "Этот гобелен заставляет меня чувствовать себя некомфортно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A large white eye on a black canvas. Creepy.",
+    "value": "Большой белый глаз на черном холсте. Противный.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry belongs to the Avikan secret service, the Watchers.",
+    "value": "Этот гобелен принадлежит секретной службе Авикана «Наблюдатели».",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A tapestry adorned with the Watcher's Eye.",
+    "value": "Гобелен, украшенный Глазом Наблюдателя.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tapestry decorated in the style of the Avikan Watchers.",
+    "value": "Гобелен, оформленный в стиле Авиканских наблюдателей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Watchers' wall decoration.",
+    "value": "Сканирование завершено. Украшение стен наблюдателей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Decoration, eye-large.",
+    "value": "Украшение, глаз большой.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Small Avikan Container",
+    "value": "Маленький Авикан Контейнер",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal container. For storing items.",
+    "value": "Прочный металлический контейнер. Для хранения вещей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A well crafted metal chest.",
+    "value": "Хорошо сделанный металлический сундук.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny metal container. What's inside?",
+    "value": "Блестящий металлический контейнер. Что внутри?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Chestsss full of goodiesss!",
+    "value": "Сундуки полны вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A sophisticated metal chest.",
+    "value": "Наблюдение. Изысканный металлический сундук.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal container. Might be full of goodies!",
+    "value": "Металлический контейнер. Наверное, полно вкусностей!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal container, for storing your belongings.",
+    "value": "Металлический контейнер для хранения ваших вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An oddly shaped metal chest.",
+    "value": "Металлический сундук странной формы.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal chest. Perfect for saving our rarest possessions.",
+    "value": "Прочный металлический сундук. Идеально подходит для спасения наших самых редких вещей.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This metal chest is inefficient in its usage of space.",
+    "value": "Этот металлический сундук неэффективно использует пространство.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chest-tiny. Akki not store much inside.",
+    "value": "Грудь-крошечная. Акки не хранит многого внутри.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

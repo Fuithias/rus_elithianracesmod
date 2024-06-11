@@ -1,11 +1,11 @@
 [
   {
-    "value": "This device can remotely control a jumpgate installed onto your ship.",
+    "value": "Это устройство может удаленно управлять прыжковыми воротами, установленными на вашем корабле.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Jumpgate Controller",
+    "value": "Контроллер прыжковых врат",
     "path": "/shortdescription",
     "op": "replace"
   }

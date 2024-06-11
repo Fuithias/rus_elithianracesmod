@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Irrigation System",
+    "value": "Ирригационная система Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An automated soil watering solution.",
+    "value": "Автоматизированное решение для полива почвы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sort of sprinkler, but for more efficient than regular ones.",
+    "value": "Своего рода разбрызгиватели, но более эффективные, чем обычные.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "It's a machine that waters crops automatically.",
+    "value": "Это машина, которая автоматически поливает посевы.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Waters cropss..",
+    "value": "Воды посевы..",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+    "value": "Не впечатлен. Это автоматизированное решение для полива почвы. Мне нравится поливать растения вручную.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's like a sprinkler, but more efficient. This is no fun to run through!",
+    "value": "Это как разбрызгиватель, но более эффективный. Пробегать через это неинтересно!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "It is used to water crops. Simple, but rather clever.",
+    "value": "Его используют для полива сельскохозяйственных культур. Просто, но довольно умно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Waterin' crops made simple.",
+    "value": "Поливать посевы стало проще.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan are quite careful with their water supply. Even the sprinklers use only little water.",
+    "value": "Авиканцы весьма осторожны с водоснабжением. Даже разбрызгиватели расходуют мало воды.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some consider such irrigation systems a waste of water, but the value of automated irrigation is worth the cost of the water.",
+    "value": "Некоторые считают такие ирригационные системы пустой тратой воды, но ценность автоматизированного орошения оправдывает стоимость воды.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly efficient irrigation system. The Avikan are careful whenever water is involved.",
+    "value": "Удивительно эффективная система орошения. Авиканцы осторожны, когда дело касается воды.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected irrigation system. Water usage efficiency levels at 98%.",
+    "value": "Обнаружена ирригационная система. Уровень эффективности использования воды составляет 98%.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Irrigation-automated, keep plants watered. Otherwise plants die, Akkimari no food.",
+    "value": "Полив автоматизирован, обеспечивает полив растений. В противном случае растения погибнут, у Аккимари не будет еды.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

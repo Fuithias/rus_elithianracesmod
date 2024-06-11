@@ -1,71 +1,71 @@
 [
   {
-    "value": "Globe of Elithia",
+    "value": "Сфера Элитии",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small floating globe of Elithia.",
+    "value": "Небольшой летающий шар Элитии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A globe of some planet.",
+    "value": "Глобус какой-то планеты.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A globe. What planet is it?",
+    "value": "Глобус. Какая это планета?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tiny world makess Floran feel ssstrong!",
+    "value": "Крошечный мир заставляет Флорана чувствовать себя сильным!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What world is this?",
+    "value": "Любопытный. Что это за мир?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Looks a bit like Earth.",
+    "value": "Немного похоже на Землю.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A globe of a seemingly bountiful planet.",
+    "value": "Глобус с, казалось бы, изобильной планеты.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda globe.",
+    "value": "Какой-то глобус.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A globe of Elithia, our home planet.",
+    "value": "Глобус Элитии, нашей родной планеты.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien world. I've heard someone call it Elithia.",
+    "value": "Чужой мир. Я слышал, что кто-то назвал это Элитией.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A small floating globe representing Elithia.",
+    "value": "Небольшой парящий глобус, изображающий Элитию.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected miniature globe. Planet unknown.",
+    "value": "Обнаружен миниатюрный глобус. Планета неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Planet-tiny. Akki feel giant now!",
+    "value": "Планета-крошечная. Акки теперь чувствует себя гигантом!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

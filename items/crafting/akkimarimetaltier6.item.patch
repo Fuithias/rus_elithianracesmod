@@ -1,11 +1,11 @@
 [
   {
-    "value": "High quality scrap metal integrated with Akkimari tech.",
+    "value": "Высококачественный металлолом, интегрированный с технологией Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Integrated Scrap Metal",
+    "value": "Комплексный металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

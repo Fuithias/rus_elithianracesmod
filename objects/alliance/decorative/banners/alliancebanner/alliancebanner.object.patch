@@ -1,31 +1,31 @@
 [
   {
-    "value": "Elithian Alliance Banner",
+    "value": "Знамя Элитианского Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Elithian Alliance.",
+    "value": "Знамя, украшенное эмблемой Элитианского Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Elithian Alliance iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Элитского Альянса.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki know this symbol! Alliance-Elithian.",
+    "value": "Акки знает этот символ! Альянс-Элитиан.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

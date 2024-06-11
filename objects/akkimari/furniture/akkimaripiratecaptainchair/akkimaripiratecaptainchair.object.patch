@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Pirate Captain Chair",
+    "value": "Кресло Akris Pirate Captain",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A scrappy chair suspended with strong silken threads.",
+    "value": "Неряшливый стул, подвешенный на крепких шелковых нитях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A scrap metal chair hung from some ropes.",
+    "value": "Стул из металлолома висел на веревках.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A strange chair hung from some ropes.",
+    "value": "Странный стул висел на веревках.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wonderss why thisss chair iss hanging.",
+    "value": "Флоран задается вопросом, почему это кресло висит.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A scrappy hanging chair.",
+    "value": "Заявление. Небрежный подвесной стул.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This chair looks pretty cool.",
+    "value": "Это кресло выглядит очень круто.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like the chair of a commander.",
+    "value": "Похоже на кресло командира.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This don't look safe to sit in...",
+    "value": "Сидеть здесь небезопасно...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A scavenger's throne.",
+    "value": "Трон мусорщика.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strange but comfortable chair suspended using some sort of ropes.",
+    "value": "Странный, но удобный стул, подвешенный на каких-то веревках.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A chair built from scrap. It looks intimidating.",
+    "value": "Стул, сделанный из металлолома. Это выглядит устрашающе.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien chair. Silken threads exceed material strength expectations.",
+    "value": "Обнаружен стул пришельца. Шелковые нити превосходят ожидания прочности материала.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chair for chieftain. Respect-great for chieftain-strong.",
+    "value": "Кресло для вождя. Уважение-большое для вождя-сильного.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

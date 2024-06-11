@@ -1,36 +1,36 @@
 [
   {
-    "value": "Scrap Metal",
+    "value": "Металлолом",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heap of scrap metal.",
+    "value": "Куча металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Uninterested. A heap of junk.",
+    "value": "Без интереса. Куча хлама.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran seesss only junk.",
+    "value": "Флоран видит только хлам.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "That's some junk alright.",
+    "value": "Это точно хлам.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected scrap metal. Material value is minimal.",
+    "value": "Обнаружен металлолом. Материальная ценность минимальна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take scrap, make things!",
+    "value": "Акки берет металлолом, делает вещи!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

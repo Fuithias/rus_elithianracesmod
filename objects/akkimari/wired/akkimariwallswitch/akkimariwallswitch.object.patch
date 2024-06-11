@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Wall Switch",
+    "value": "Настенный переключатель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small wall-mounted switch.",
+    "value": "Небольшой настенный выключатель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssswitch!",
+    "value": "Переключись!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A switch.",
+    "value": "Заявление. Переключатель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Switch. Used to power on and off various objects.",
+    "value": "Анализ. Выключатель. Используется для включения и выключения различных объектов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki flip switch, see what happens.",
+    "value": "Акки переключи переключатель, посмотри, что произойдет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

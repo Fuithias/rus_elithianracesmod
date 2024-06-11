@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Alarm",
+    "value": "Сигнализация Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A flashing red alarm light with accompanying siren.",
+    "value": "Мигающий красный сигнал тревоги с сопровождающей сиреной.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "These are used as a deterrent, but also as security.",
+    "value": "Они используются в качестве сдерживающего фактора, а также в качестве обеспечения безопасности.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This flashing light will alert everyone to misdeeds.",
+    "value": "Этот мигающий свет предупредит всех о проступках.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Thisss will alert all the guardsss.",
+    "value": "Это предупредит всю охрану.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Alarmed. This will alert many, I should be careful.",
+    "value": "Встревожен. Это насторожит многих, мне следует быть осторожным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "If this was a movie I bet this would go off just as I left.",
+    "value": "Если бы это был фильм, я готов поспорить, что он взорвался бы, как только я ушел.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alarm. Used to alert guards to ruffians.",
+    "value": "Сигнализация. Используется для предупреждения охранников о хулиганах.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This here alarm sure will make getting away with loot hard.",
+    "value": "Эта сигнализация наверняка заставит вас скрыться с добычей.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An alarm light. It will also activate a siren when triggered.",
+    "value": "Световой сигнал тревоги. При срабатывании он также активирует сирену.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alarm will alert the guards to any criminal activity.",
+    "value": "Эта сигнализация предупредит охранников о любой преступной деятельности.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An alarm installed. It will alert anyone nearby to danger.",
+    "value": "Установлена ​​сигнализация. Он предупредит всех, кто находится поблизости, об опасности.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien alarm system. Recommend caution.",
+    "value": "Обнаружена инопланетная сигнализация. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "If Akki hear alarm, Akki run to safety.",
+    "value": "Если Акки услышит сигнал тревоги, Акки бежит в безопасное место.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

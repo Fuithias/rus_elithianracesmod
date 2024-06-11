@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Rough Bricks",
+    "value": "Грубые кирпичи Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Heavy stone bricks, roughened with age.",
+    "value": "Тяжелые каменные кирпичи, состаренные.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Rough stone bricks.",
+    "value": "Наблюдение. Грубые каменные кирпичи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran like the feel of sstone under feet.",
+    "value": "Флоран любит ощущение камня под ногами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Stone bricks, rough and cracked.",
+    "value": "Каменные кирпичи, грубые и потрескавшиеся.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Old stone bricks.",
+    "value": "Анализ завершен. Старые каменные кирпичи.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Stone feel good under feet-Akki.",
+    "value": "Камень хорошо ощущается под ногами-акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

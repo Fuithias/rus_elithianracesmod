@@ -1,31 +1,31 @@
 [
   {
-    "value": "Mysterious Merchant",
+    "value": "Таинственный торговец",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This merchant has a sense of mystery and wonder about him...",
+    "value": "У этого купца есть чувство тайны и удивления, связанное с ним...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not know thiss persson...",
+    "value": "Флоран не знает этого человека...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. This merchant has a sense of wrongness about him.",
+    "value": "Осторожный. Этот торговец чувствует себя неправым.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Error. Identification failed. Scanner malfunction. Field disruption detected. Error. Error. Error.",
+    "value": "Ошибка. Идентификация не удалась. Неисправность сканера. Обнаружено нарушение поля. Ошибка. Ошибка. Ошибка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Person-shady remind Akki of something. Akki no focus...",
+    "value": "Лица-тени о чем-то напоминают Акки. Акки, нет фокуса...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

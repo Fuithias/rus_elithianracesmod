@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Banner",
+    "value": "Акрис Баннер",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A slightly torn banner used to decorate Akkimari buildings.",
+    "value": "Слегка порванное знамя, которым украшали здания Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A torn banner. I don't recognize the iconography.",
+    "value": "Порванное знамя. Я не узнаю иконографию.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bright red banner, it's seen better days.",
+    "value": "Ярко-красное знамя, оно видало лучшие дни.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss who tore the bannerss.",
+    "value": "Флорану интересно, кто порвал знамя.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What does this icon represent?",
+    "value": "Любопытный. Что означает этот значок?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal ring with a torn banner hanging from it.",
+    "value": "Металлическое кольцо, на котором свисает разорванное знамя.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A torn banner suspended from a metal ring. How quaint.",
+    "value": "Разорванное знамя подвешено на металлическом кольце. Как странно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A ragged banner.",
+    "value": "Рваное знамя.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of Akkimari banner.",
+    "value": "Что-то вроде знамени Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien banner. It's not in the best condition.",
+    "value": "Чужеродное знамя. Он не в лучшем состоянии.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A typical display of Akkimari carelessness. The banner is all torn up.",
+    "value": "Типичное проявление невнимательности Аккимари. Баннер весь порван.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning iconography database. Zero results. Iconography unknown.",
+    "value": "Сканирование базы данных иконографии. Ноль результатов. Иконография неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki like banners. Make Akki feel connected.",
+    "value": "Акки любят баннеры. Заставьте Акки почувствовать связь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

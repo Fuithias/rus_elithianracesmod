@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Explosive Smash",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

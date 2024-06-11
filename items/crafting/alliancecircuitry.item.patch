@@ -1,11 +1,11 @@
 [
   {
-    "value": "Basic, all-purpose circuitry for use in Alliance electronics.",
+    "value": "Базовая универсальная схема для использования в электронике Alliance.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Circuitry",
+    "value": "Схема Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

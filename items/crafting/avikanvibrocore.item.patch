@@ -1,11 +1,11 @@
 [
   {
-    "value": "A vital part of Vanguard vibroblade weapons.",
+    "value": "Важнейшая часть виброклинков Vanguard.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Vibro Core",
+    "value": "Авикан Вибро Ядро",
     "path": "/shortdescription",
     "op": "replace"
   }

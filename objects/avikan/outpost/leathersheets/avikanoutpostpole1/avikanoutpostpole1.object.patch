@@ -1,36 +1,36 @@
 [
   {
-    "value": "Metal Pole",
+    "value": "Металлический столб",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A thin metal pole.",
+    "value": "Тонкий металлический столб.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran ussse metal poless as ssspears?",
+    "value": "Флоран уссс метал без шеста как ссспирс?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Bored. A simple metal pole.",
+    "value": "Скучающий. Простой металлический столб.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal pole, thin as a branch.",
+    "value": "Металлический столб, тонкий, как ветка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Metal pole detected.",
+    "value": "Обнаружен металлический столб.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pole-metal.",
+    "value": "Полюс-металл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

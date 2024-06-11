@@ -1,11 +1,11 @@
 [
   {
-    "value": "Loftbread filled with vahlberry jam for a fresh, delicious taste.",
+    "value": "Хлебцы с начинкой из валберничного джема для свежего и восхитительного вкуса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vahlberry Bread",
+    "value": "Валберри Хлеб",
     "path": "/shortdescription",
     "op": "replace"
   }

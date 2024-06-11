@@ -1,11 +1,11 @@
 [
   {
-    "value": "Fibers of the basbron plant, soft and fluffy.",
+    "value": "Волокна растения басброн, мягкие и пушистые.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Basbron Fibers",
+    "value": "Басброновые волокна",
     "path": "/shortdescription",
     "op": "replace"
   }

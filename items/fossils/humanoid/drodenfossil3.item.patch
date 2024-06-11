@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised pair of Droden legs.",
+    "value": "Окаменевшая пара ног дродена.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Droden Legs",
+    "value": "Дроден Ноги",
     "path": "/shortdescription",
     "op": "replace"
   }

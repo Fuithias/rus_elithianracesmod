@@ -1,11 +1,11 @@
 [
   {
-    "value": "Возвращение в Элитианский Альянс",
+    "value": "Возвращение в Элитийский Альянс",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Я получил передачу от ^orange;адмирала Лиина^reset;, пока вы были заняты разведкой. ^green;Я могу передать её вам сейчас, если у вас есть время.^reset;",
+    "value": "Я получил передачу от ^orange;адмирала Лийина^reset;, пока вы были заняты разведкой. ^green;Я могу передать её вам сейчас, если у вас есть время.^reset;",
     "path": "/text",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/0/senderName",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/1/senderName",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/2/senderName",
     "op": "replace"
   },
@@ -45,7 +45,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/3/senderName",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/4/senderName",
     "op": "replace"
   },
@@ -65,7 +65,7 @@
     "op": "replace"
   },
   {
-    "value": "Слушайте передачу ^orange;адмирала Лиина^reset;...",
+    "value": "Слушайте передачу ^orange;адмирала Лийина^reset;...",
     "path": "/scriptConfig/description",
     "op": "replace"
   },

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Ship Door",
+    "value": "Дверь корабля Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door, oft found on Avikan ships.",
+    "value": "Прочная металлическая дверь, часто встречающаяся на кораблях Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A metal door that won't budge.",
+    "value": "Металлическая дверь, которая не сдвинется с места.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This door is locked tight.",
+    "value": "Эта дверь плотно заперта.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This door is locked.",
+    "value": "Наблюдение. Эта дверь закрыта.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "There's no way I'm getting through this door.",
+    "value": "У меня нет возможности пройти через эту дверь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This door is momentarily out of order. Someone should look into fixing it.",
+    "value": "Эта дверь на мгновение вышла из строя. Кто-то должен заняться исправлением этого.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This here door ain't opening anytime soon.",
+    "value": "Эта дверь откроется не скоро.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A door that won't budge.",
+    "value": "Дверь, которая не сдвинется с места.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This door won't open.",
+    "value": "Эта дверь не откроется.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This door won't budge.",
+    "value": "Эта дверь не сдвинется с места.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Door. Ship model. Analysis: locked.",
+    "value": "Дверь. Модель корабля. Анализ: заблокирован.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-locked.",
+    "value": "Дверь закрыта.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

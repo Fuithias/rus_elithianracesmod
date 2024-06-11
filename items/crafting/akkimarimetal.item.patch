@@ -1,11 +1,11 @@
 [
   {
-    "value": "Low-grade scrap metal scavenged from various sources.",
+    "value": "Низкосортный металлолом, собранный из различных источников.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Broken Scrap Metal",
+    "value": "Сломанный металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

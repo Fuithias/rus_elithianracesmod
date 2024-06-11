@@ -1,11 +1,11 @@
 [
   {
-    "value": "Rusted bits of scrap metal scavenged from various sources.",
+    "value": "Ржавые куски металлолома, собранные из разных источников.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rusty Scrap Metal",
+    "value": "Ржавый металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

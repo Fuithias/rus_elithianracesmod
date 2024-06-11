@@ -1,11 +1,11 @@
 [
   {
-    "value": "A hardy crop, found growing in arid locations.",
+    "value": "Выносливая культура, растущая в засушливых местах.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dunestalk",
+    "value": "Дюнесталк",
     "path": "/shortdescription",
     "op": "replace"
   }

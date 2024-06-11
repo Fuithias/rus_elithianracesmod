@@ -1,11 +1,11 @@
 [
   {
-    "value": "A full meal preferred by the Aegi.",
+    "value": "Полноценный обед, предпочитаемый Эги.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Aeginian Meal",
+    "value": "Эгинская трапеза",
     "path": "/shortdescription",
     "op": "replace"
   }

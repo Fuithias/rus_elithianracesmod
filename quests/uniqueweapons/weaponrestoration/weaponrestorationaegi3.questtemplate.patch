@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Excalibur Reborn III",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Воскрешение Экскалибура III",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I can't extract the Shard from this relic myself, but Barnos has picked up a few tricks over the years. Collecting exotic weapons requires you to delve into ancient ruins, it seems. ^green;Bring the ^orange;Centensian Relic ^green;to ^orange;Barnos^green; at the shooting range^reset;, and he can extract the Shard for you.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я не могу самостоятельно извлечь осколок из этой реликвии, но Барнос за эти годы набрался парочки хитростей. Похоже, для сбора экзотического оружия нужно исследовать древние руины. ^green;Принесите ^orange;центенскую реликвию ^green;к ^orange;Барносу^green; на стрельбище^reset;, и он сможет извлечь осколок для вас.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Ah, so Hadaeko sent you? She's right, I know how to open those ancient relics. Here you go: a small Xanafian Shard.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Ах, значит Хадаеко вас послала? Она права, я знаю, как открыть эти древние реликвии. Вот вам: маленький Ксанафианский осколок.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Barnos ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Барноса ^reset;в ^orange;посольстве Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

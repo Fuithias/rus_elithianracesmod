@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Prod Rack",
+    "value": "Тринкиан Прод Стойка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A collection of Trinkian long prods.",
+    "value": "Коллекция длинных штырей Тринкиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Long prods. For cattle, or for enemies?",
+    "value": "Длинные подталкивания. Для скота или для врагов?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Electrifying prods. Far stronger than those used to herd cattle.",
+    "value": "Электрифицирующие продукты. Гораздо сильнее тех, что использовались для выпаса скота.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran think sspearsss look ssstrange...",
+    "value": "Флорану кажется, что это-с-с-странно выглядит...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Alien prods.",
+    "value": "Наблюдение. Инопланетные продукты.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wouldn't want to get zapped by one of these prods.",
+    "value": "Я бы не хотел, чтобы меня ударил один из этих толчков.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Long electric prods. For defensive combat.",
+    "value": "Длинные электрические штыри. Для оборонительного боя.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian prods. They deliver quite the sting.",
+    "value": "Тринкиан подталкивает. Они доставляют немало жала.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien weaponry. The Nomada might have a use for this.",
+    "value": "Инопланетное вооружение. Кочевникам это могло бы пригодиться.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian longprods are excellent weapons for defensive combat.",
+    "value": "Тринкианские длинные иглы — отличное оружие для оборонительного боя.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Detected alien weaponry. Electric generators detected.",
+    "value": "Анализ завершен. Обнаружено инопланетное вооружение. Обнаружены электрические генераторы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Prods-electric, for herding cattle?",
+    "value": "Щитки-электрические, для выпаса скота?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

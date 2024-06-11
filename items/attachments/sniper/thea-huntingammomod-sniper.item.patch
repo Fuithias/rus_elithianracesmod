@@ -1,6 +1,6 @@
 [
   {
-    "value": "Sniper ammunition that allows meat and hides to be harvested from targets.",
+    "value": "Снайперские боеприпасы, позволяющие собирать мясо и шкуры с целей.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Hunting Ammo",
+    "value": "Охотничьи патроны",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

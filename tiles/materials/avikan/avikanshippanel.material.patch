@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Ship Panel",
+    "value": "Панель Корабля авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A hollow metal panel, perfect for wall insulation.",
+    "value": "Полая металлическая панель, идеально подходящая для утепления стен.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Informed. This metal panel is hollow, making it perfect for insulation.",
+    "value": "Информативно. Эта металлическая панель полая, что делает её идеальной для утепления.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran knowsss thiss panel is hollow by knocking on it. Floran iss sssmart.",
+    "value": "Флоран знает, что эта панель полая, постучав по ней. Флоран умный.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A hollow metal panel, sure is good for insulation.",
+    "value": "Полая металлическая панель, хороша для утепления.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Hollow metal panel.",
+    "value": "Анализ завершён. Полая металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panels-metal, nothing special.",
+    "value": "Панели - металлические, ничего особенного.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

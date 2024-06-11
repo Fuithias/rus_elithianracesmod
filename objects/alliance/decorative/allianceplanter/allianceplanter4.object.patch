@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Planter",
+    "value": "Плантатор Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A long planter filled with native Elithian flora.",
+    "value": "Длинный горшок с местной элитийской флорой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran is opposed to putting plantsss in boxess.",
+    "value": "Флоран против того, чтобы складывать растения в ящики.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A long planter full of plantlife.",
+    "value": "Наблюдение. Длинный горшок, полный растений.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plants-alien.",
+    "value": "Растения-инопланетяне.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,211 +1,211 @@
 [
   {
-    "value": "^orange;Avikan Tanning Rack^white;",
+    "value": "^orange;Стойка для загара Avikan^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "value": "Дубильная стойка используется для изготовления изделий из кожи монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "value": "Простой стенд для загара. Здесь я могу изготовить изделия из кожи.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "value": "Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "value": "Флоран использует дубильный станок для изготовления кожи из кожи монстра...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "value": "Недовольный. Дубление кожи – очень трудоемкий процесс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "value": "Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "value": "Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A tannin' rack? Let's go make me some new boots!",
+    "value": "Стойка для загара? Пойдем, сделаем мне новые ботинки!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "All the equipment you need for crafting leather items.",
+    "value": "Все необходимое оборудование для изготовления изделий из кожи.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "value": "Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "value": "Стойка для загара. Он выполняет свою работу, но не очень эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "value": "Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki tan hides here.",
+    "value": "Здесь прячется Акки Тан.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Avikan Tanning Rack^white;",
+    "value": "^orange;Стойка для загара Avikan^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "value": "Дубильная стойка используется для изготовления изделий из кожи монстра.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "value": "Простой стенд для загара. Здесь я могу изготовить изделия из кожи.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "value": "Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "value": "Флоран использует дубильный станок для изготовления кожи из кожи монстра...",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "value": "Недовольный. Дубление кожи – очень трудоемкий процесс.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "value": "Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "value": "Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A tannin' rack? Let's go make me some new boots!",
+    "value": "Стойка для загара? Пойдем, сделаем мне новые ботинки!",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "All the equipment you need for crafting leather items.",
+    "value": "Все необходимое оборудование для изготовления изделий из кожи.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "value": "Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "value": "Стойка для загара. Он выполняет свою работу, но не очень эффективно.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "value": "Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki tan hides here.",
+    "value": "Здесь прячется Акки Тан.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Avikan Leatherworking Station^white;",
+    "value": "^orange;Кожевенная станция Авикан^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The leatherworking station is used for constructing items made of monster leather.",
+    "value": "Кожевенная станция используется для изготовления предметов из кожи монстров.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "This automated leatherworking station can create a large variety of leather items.",
+    "value": "Эта автоматизированная кожевенная станция позволяет создавать самые разнообразные изделия из кожи.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Leatherworking has never been so easy! Automated crafting really is the future.",
+    "value": "Работа с кожей еще никогда не была такой простой! За автоматизированным производством действительно будущее.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran tellsss machine to make leather... Machine obeys Floran!",
+    "value": "Флоран велит машине делать кожу... Машина подчиняется Флорану!",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. This station will craft almost any leather item I request.",
+    "value": "Взволнованный. Эта станция изготовит практически любую кожаную вещь, которую я запрошу.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Automated tanning and leatherworking. Convenient!",
+    "value": "Автоматизированное дубление и кожевенное производство. Удобный!",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This machine processes leather far more efficiently than any person ever could.",
+    "value": "Эта машина обрабатывает кожу гораздо эффективнее, чем когда-либо мог сделать человек.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "So, this 'ere machine will craft me leather items? Can it make me a new hat, too?",
+    "value": "Итак, эта машина будет шить мне кожаные изделия? Может, мне тоже сделают новую шляпу?",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "High-quality leather items can be crafted here.",
+    "value": "Здесь можно изготовить высококачественные кожаные изделия.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This machine allows me to craft leather items of an even higher quality.",
+    "value": "Эта машина позволяет мне создавать кожаные изделия еще более высокого качества.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Machines are far more efficient at leatherworking than any organic ever could be.",
+    "value": "Машины гораздо более эффективны при обработке кожи, чем любые органические продукты.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Leatherworking station. Used to construct equipment and other items made of leather.",
+    "value": "Анализ завершен. Кожевенная станция. Используется для изготовления снаряжения и других предметов из кожи.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki put hides is, machine make items-leather.",
+    "value": "Акки ставил шкуры, машина шила-кожу.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

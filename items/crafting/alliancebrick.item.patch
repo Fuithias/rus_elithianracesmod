@@ -1,11 +1,11 @@
 [
   {
-    "value": "A heavy and extremely hard stone brick.",
+    "value": "Тяжелый и чрезвычайно твердый каменный кирпич.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Brick",
+    "value": "Альянс Брик",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,16 +1,16 @@
 [
   {
-    "value": "An ancient, otherworldly stone with a corrupting aura.",
+    "value": "Древний потусторонний камень с развращающей аурой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Blighted Stone Core^white;",
+    "value": "^orange;Осквернённое каменное ядро^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

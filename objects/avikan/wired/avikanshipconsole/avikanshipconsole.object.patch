@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Ship Console",
+    "value": "Консоль корабля «Авикан»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer console for wiring circuits together.",
+    "value": "Компьютерная консоль для соединения цепей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A console for controlling parts of a ship.",
+    "value": "Пульт управления частями корабля.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This panel controls certain parts of the ship.",
+    "value": "Эта панель управляет определенными частями корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny buttonsss, Floran presss?",
+    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Interested. This control system is unfamiliar to me.",
+    "value": "Заинтересовано. Эта система управления мне незнакома.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A control panel, the interface is new to me.",
+    "value": "Панель управления, интерфейс для меня новый.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A console sporting a fancy interface. I don't understand any of it.",
+    "value": "Консоль с необычным интерфейсом. Я ничего в этом не понимаю.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan-designed console. Its interface is too complicated for me.",
+    "value": "Консоль, разработанная Avikan. Для меня его интерфейс слишком сложен.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A console for interfacing with various systems.",
+    "value": "Консоль для взаимодействия с различными системами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This console's interface was designed for Avikan hands.",
+    "value": "Интерфейс этой консоли был разработан для рук Авикан.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Console. Used for interfacing with various systems.",
+    "value": "Анализ. Консоль. Используется для взаимодействия с различными системами.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Console-small, for controlling things-small?",
+    "value": "Пульт-маленький, для управления вещами-маленький?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

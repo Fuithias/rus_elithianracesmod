@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sweets modeled after ancient candy, perfect for celebrating the Harrowing!",
+    "value": "Сладости, созданные по образцу древних конфет, идеально подходят для празднования Терзания!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Harrowing Candy",
+    "value": "Мучительные конфеты",
     "path": "/shortdescription",
     "op": "replace"
   }

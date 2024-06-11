@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akkimari Vaash Barrel",
+    "value": "Аккимари Вааш Бочка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A reinforced container built to hold Vaash.",
+    "value": "Усиленный контейнер, предназначенный для хранения Вааша.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A barrel full of some sort of glowing substance.",
+    "value": "Бочка, полная какого-то светящегося вещества.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This barrel's contents don't look very safe...",
+    "value": "Содержимое этой бочки выглядит не очень безопасным...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Green water in barrelsss. Floran ssshould not drink it.",
+    "value": "Зеленая вода в бочках. Флорану не следует это пить.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Concerned. The contents of this barrel look dangerous.",
+    "value": "Обеспокоенный. Содержимое этой бочки выглядит опасным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "There's a weird glowing liquid inside. I think I shouldn't touch it.",
+    "value": "Внутри странная светящаяся жидкость. Я думаю, мне не стоит его трогать.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A strange substance is found inside.",
+    "value": "Внутри обнаружено странное вещество.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A barrel built to hold something fierce.",
+    "value": "Бочка, созданная для хранения чего-то жестокого.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A barrel of Vaash. It's not a substance I'd recommend touching.",
+    "value": "Бочка Вааша. Это не то вещество, к которому я бы советовал прикасаться.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The strange green liquid inside glows brightly. Better not touch it.",
+    "value": "Странная зеленая жидкость внутри ярко светится. Лучше не трогайте.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This barrel was made to hold Vaash, a substance that burns away flesh and metal both.",
+    "value": "Эта бочка была создана для хранения Вааша, вещества, сжигающего и плоть, и металл.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected unidentified substance within. Recommending extreme caution.",
+    "value": "Внутри обнаружено неопознанное вещество. Рекомендую крайнюю осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Barrel hold Vaash, so Akki don't burn.",
+    "value": "Бочку придержи Вааша, чтобы Акки не сгорела.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

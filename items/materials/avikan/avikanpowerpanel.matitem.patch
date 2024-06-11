@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal panel with power cables embedded in its plating.",
+    "value": "Металлическая панель со встроенными в ее обшивку силовыми кабелями.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Power Panel",
+    "value": "Панель питания Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

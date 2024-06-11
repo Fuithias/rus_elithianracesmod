@@ -1,11 +1,11 @@
 [
   {
-    "value": "A vital part of any of the Vanguard's ballistic rifles.",
+    "value": "Важнейшая часть любой баллистической винтовки Vanguard.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Magazine",
+    "value": "Журнал Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

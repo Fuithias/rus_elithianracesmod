@@ -1,11 +1,11 @@
 [
   {
-    "value": "Violated Elite Drahl Figurine",
+    "value": "Оскверненная элитная статуэтка Драла",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"An Avikan Elite Drahl, corrupted by Thelean Vesomeyr.\"",
+    "value": "На этикетке написано: «Авиканский элитный Драл, испорченный Телеаном Весомейром».",
     "path": "/description",
     "op": "replace"
   }

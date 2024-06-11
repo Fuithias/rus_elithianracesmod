@@ -1,11 +1,11 @@
 [
   {
-    "value": "Quicksand. Don't get stuck in it!",
+    "value": "Зыбучие пески. Не застревайте в этом!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Quicksand",
+    "value": "Зыбучие пески",
     "path": "/shortdescription",
     "op": "replace"
   }

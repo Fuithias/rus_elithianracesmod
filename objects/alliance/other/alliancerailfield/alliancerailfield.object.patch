@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Blocking Field",
+    "value": "Блокирующее поле Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This energy field will prevent certain entities from passing through.",
+    "value": "Это энергетическое поле будет препятствовать прохождению определенных сущностей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Some entitiesss can not passs through here.",
+    "value": "Некоторые сущности не могут пройти сюда.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This blocking field will prevent certain entities from passing through.",
+    "value": "Информирован. Это блокирующее поле предотвратит прохождение определенных объектов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected blocking field. Prevents specific entities from passing through.",
+    "value": "Обнаружено блокирующее поле. Предотвращает прохождение определенных объектов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki can pass through. Others can not.",
+    "value": "Акки может пройти. Другие не могут.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

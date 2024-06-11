@@ -1,6 +1,6 @@
 [
   {
-    "value": "An elemental arrow that slows down targets.",
+    "value": "Стихийная стрела, замедляющая цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Ice Arrow",
+    "value": "Ледяная стрела",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Arrow Mod",
+    "value": "Стрела Мод",
     "path": "/category",
     "op": "replace"
   }

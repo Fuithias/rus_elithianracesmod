@@ -1,71 +1,71 @@
 [
   {
-    "value": "Nomada Missile Turret",
+    "value": "Ракетная турель «Кочевник»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A turret that will automatically defend areas. Can only be placed once.",
+    "value": "Турель, которая будет автоматически защищать территории. Можно разместить только один раз.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An automated defense turret. The rebels could use this.",
+    "value": "Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This turret will defend any location from attacks by monsters and bandits.",
+    "value": "Эта турель защитит любую локацию от нападений монстров и бандитов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Turret fightsss for Floran. Floran likesss turret.",
+    "value": "Турель сражается за Флорана. Флорану нравится турель.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. I hope this turret won't target me.",
+    "value": "Осторожный. Надеюсь, эта турель не нацелится на меня.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An automated security system.",
+    "value": "Автоматизированная система безопасности.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "No unconscious machine should ever be given the power to kill.",
+    "value": "Ни одна бессознательная машина никогда не должна иметь право убивать.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fine turret for defending your base!",
+    "value": "Прекрасная турель для защиты вашей базы!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An automated Nomada Defense Turret. Highly efective.",
+    "value": "Автоматизированная защитная турель «Кочевник». Высокоэффективный.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Such turrets are often used to protect Avikan colonies from attacks.",
+    "value": "Такие турели часто используются для защиты колоний Авикан от атак.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan-built turret. I hope its targeting system won't see me as a threat.",
+    "value": "Турель, построенная Авиканом. Надеюсь, его система нацеливания не увидит во мне угрозу.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-approved Automated Defense Turret.",
+    "value": "Обнаружена одобренная Nomada автоматизированная защитная турель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Turret, shoot rockets.",
+    "value": "Турель, стреляйте ракетами.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

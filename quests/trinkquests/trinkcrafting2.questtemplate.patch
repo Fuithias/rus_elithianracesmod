@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Trinkian Crafting Techniques II",
+    "value": "^green;Техники изготовления Тринкианцев II",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "The file size for this ^orange;Trinkian Crafting Guide ^white;is substantially larger than I thought... I'll need a ^orange;Circuit Data Drive ^white;to download it all. Trinkian merchants often sell these items: ^green;I should check around the settlement for someone selling such a drive^white;.",
+    "value": "Размер файла для этого ^orange;Руководства по изготовлению Тринкианцев ^white;значительно больше, чем я думал... Мне понадобится ^orange;Диск Данных Цепи ^white;для скачивания всего. Торговцы Тринкианцев часто продают такие предметы: ^green;Мне следует проверить поселение в поисках кого-то, кто продаёт такой диск^white;.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "The download is finished! I can now craft a variety of Trinkian items, and it looks like there's a blueprint for a new, ^orange;unique weapon ^white;in here, too!",
+    "value": "Скачивание завершено! Теперь я могу изготовить множество предметов Тринкианцев, и кажется, что здесь также есть чертёж для нового, ^orange;уникального оружия ^white;!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to a ^orange;Central Circuit Terminal ^reset;in a ^orange;Trinkian Settlement^reset;",
+    "value": "Вернитесь к ^orange;Центральному Терминалу Цепи ^reset;в ^orange;Поселении Тринкианцев^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

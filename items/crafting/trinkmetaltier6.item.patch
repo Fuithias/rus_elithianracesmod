@@ -1,11 +1,11 @@
 [
   {
-    "value": "An augmented metal cube, easily stored and ready for crafting.",
+    "value": "Увеличенный металлический куб, который легко хранить и можно использовать для изготовления.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sublime Trinkian Metal",
+    "value": "Возвышенный тринкианский металл",
     "path": "/shortdescription",
     "op": "replace"
   }

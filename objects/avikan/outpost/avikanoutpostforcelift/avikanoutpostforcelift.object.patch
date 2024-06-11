@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Force Lift",
+    "value": "Авикан Форс Лифт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strange mechanism provides a continous upwards force to anything nearby.",
+    "value": "Странный механизм обеспечивает непрерывную направленную вверх силу всему, что находится поблизости.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An impressive piece of technology.",
+    "value": "Впечатляющая технология.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A device that makes people fly. I love it!",
+    "value": "Устройство, которое заставляет людей летать. Я люблю это!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran sscared of flying.",
+    "value": "Флоран боится летать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This technology is like nothing I have observed before.",
+    "value": "Очарованный. Эта технология не похожа ни на что, что я видел раньше.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of hoverlift. It's awesome!",
+    "value": "Какой-то ховерлифт. Это потрясающе!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A device crafted to ascend people to greater heights.",
+    "value": "Устройство, созданное для подъема людей на большую высоту.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A force lift. It must be based on Centensian technology.",
+    "value": "Силовой лифт. Он должен быть основан на технологии Centensian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A force lift. Few of us actually understand how these things function.",
+    "value": "Силовой лифт. Мало кто из нас на самом деле понимает, как работают эти вещи.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A force lift. Impressively efficient.",
+    "value": "Силовой лифт. Впечатляюще эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Particle accelerator detected. Please exercise caution.",
+    "value": "Обнаружен ускоритель частиц. Пожалуйста, соблюдайте осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Lift-light, Akki go up and down like magic.",
+    "value": "Лифт-свет, Акки поднимаются и опускаются, как по волшебству.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

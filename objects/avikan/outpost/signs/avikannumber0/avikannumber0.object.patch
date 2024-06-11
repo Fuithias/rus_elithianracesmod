@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number Zero",
+    "value": "Номер Ноль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number zero, in the Avikan Script.",
+    "value": "Номер ноль в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number zero in an alien script.",
+    "value": "Номер ноль в инопланетном письме.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is zero.",
+    "value": "Чужой номер. Я считаю, что это ноль.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means zero.",
+    "value": "Информирован. Этот инопланетный символ означает ноль.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Zero in some alien script.",
+    "value": "Ноль в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number zero.",
+    "value": "Инопланетный символ числа ноль.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means zero.",
+    "value": "Кажется, это число означает ноль.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number zero.",
+    "value": "Номер ноль.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. Zero.",
+    "value": "Число. Нуль.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. Zero, Akki thinks.",
+    "value": "Номер-чужой. Ноль, думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Droden head.",
+    "value": "Окаменевшая голова друдена.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Droden Head",
+    "value": "Дроден Хед",
     "path": "/shortdescription",
     "op": "replace"
   }

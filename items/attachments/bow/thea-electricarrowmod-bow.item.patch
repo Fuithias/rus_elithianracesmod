@@ -1,6 +1,6 @@
 [
   {
-    "value": "An elemental arrow that electrifies targets.",
+    "value": "Стихийная стрела, электризующая цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Electric Arrow",
+    "value": "Электрическая стрела",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Arrow Mod",
+    "value": "Стрела Мод",
     "path": "/category",
     "op": "replace"
   }

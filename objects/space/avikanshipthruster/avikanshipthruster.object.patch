@@ -1,31 +1,31 @@
 [
   {
-    "value": "Damaging Small Booster Flame",
+    "value": "Повреждение малого пламени-ускорителя",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A powerful ship thruster. Better not get too close.",
+    "value": "Мощный корабельный двигатель. Лучше не подходить слишком близко.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran sshould sstay away from big flame. Flame will burn Floran.",
+    "value": "Флорану следует держаться подальше от большого пламени. Пламя сожжет Флорана.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Careful. I shouldn't get too close to this exhaust flame.",
+    "value": "Осторожный. Мне не следует приближаться слишком близко к этому пламени выхлопных газов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected active thruster flame. Temperature levels spiking. Recommend caution.",
+    "value": "Обнаружено активное пламя двигателя. Уровень температуры зашкаливает. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki no touch, or Akki burn!",
+    "value": "Акки не трогай, или Акки сожги!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

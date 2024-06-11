@@ -1,16 +1,16 @@
 [
   {
-    "value": "Manipulates anything that matters. ^green;Quick select with [R] key.",
+    "value": "Манипулирует всем, что имеет значение. ^green;Быстрый выбор клавишей [R].",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Matter Manipulator",
+    "value": "Манипулятор материи",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Tool",
+    "value": "Инструмент",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Vhos Avha'las",
+    "value": "Вос Авха'лас",
     "path": "/bookmarkName",
     "op": "replace"
   },
   {
-    "value": "Beam to Ship",
+    "value": "Назад на корабль",
     "path": "/destinations/name",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Metal bars.",
+    "value": "Металлические прутья.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Sewage Bars",
+    "value": "Канализационные бары Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

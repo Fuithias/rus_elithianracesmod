@@ -1,36 +1,36 @@
 [
   {
-    "value": "Kadavan Rock",
+    "value": "Кадаван Рок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rock. Plain and simple.",
+    "value": "Камень. Легко и просто.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rocksss for basshing skullsss!",
+    "value": "Роксс за избиение черепов!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Rock.",
+    "value": "Наблюдение. Камень.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A Kadavan rock.",
+    "value": "Скала Кадаван.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected rock.",
+    "value": "Обнаружен камень.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki uninterested. Rock-boring.",
+    "value": "Акки это не интересует. Рок-скучный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

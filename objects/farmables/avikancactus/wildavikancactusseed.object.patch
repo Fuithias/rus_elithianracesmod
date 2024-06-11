@@ -1,66 +1,66 @@
 [
   {
-    "value": "Kadavan Cactus Seed",
+    "value": "Семена кактуса Кадаван",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Cacti originating from the desert planet of Kadavan.",
+    "value": "Кактусы родом с пустынной планеты Кадаван.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A juicy cactus. It looks better than it tastes.",
+    "value": "Сочный кактус. Выглядит лучше, чем на вкус.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Colourful cacti. Not very tasty.",
+    "value": "Красочные кактусы. Не очень вкусно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Juicccy green plantsss.",
+    "value": "Сочные зеленые растения.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. Cactus spines make for excellent projectiles.",
+    "value": "Заявление. Из шипов кактуса получаются отличные снаряды.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Alien cacti. I prefer those from Earth.",
+    "value": "Инопланетные кактусы. Я предпочитаю тех, кто с Земли.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A plant filled with water. A relief to any who live in the desert.",
+    "value": "Растение, наполненное водой. Облегчение для всех, кто живет в пустыне.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A cactus originally found on the Avikan homeplanet Kadavan.",
+    "value": "Кактус, первоначально найденный на родной планете Авикан Кадаван.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A cactus from home. Vital for life in the desert.",
+    "value": "Кактус из дома. Жизненно важно для жизни в пустыне.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This plant stores a great deal of water, and is vital to organic life in the desert.",
+    "value": "Это растение хранит много воды и жизненно важно для органической жизни в пустыне.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Kadavan flora. Cactus confirmed.",
+    "value": "Обнаружена аборигенная флора Кадавана. Кактус подтвердил.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant full of water. Akki drink?",
+    "value": "Растение полно воды. Акки пьешь?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

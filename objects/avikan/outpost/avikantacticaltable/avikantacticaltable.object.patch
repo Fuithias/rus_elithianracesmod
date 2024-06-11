@@ -1,41 +1,41 @@
 [
   {
-    "value": "Avikan Tactical Table",
+    "value": "Тактический стол Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tactical holographic display.",
+    "value": "Тактический голографический дисплей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran cannot ssstab light cubess. Floran iss frussstrated.",
+    "value": "Флоран не может нанести удар световым кубом. Флоран расстроен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What does this holographic table display?",
+    "value": "Любопытный. Что отображает этот голографический стол?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta tiny city made of light.",
+    "value": "Какой-то крошечный город из света.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A holographic table used to plan mission strategies.",
+    "value": "Голографический стол, используемый для планирования стратегии миссии.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Holographic display table detected.",
+    "value": "Обнаружен стол с голографическим дисплеем.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Table-tactical. Plan mission here.",
+    "value": "Стол-тактический. Планируйте миссию здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

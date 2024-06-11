@@ -1,11 +1,11 @@
 [
   {
-    "value": "Creon Embassy",
+    "value": "Посольство Креона",
     "path": "/bookmarkName",
     "op": "replace"
   },
   {
-    "value": "Beam to Ship",
+    "value": "Назад на корабль",
     "path": "/destinations/name",
     "op": "replace"
   }

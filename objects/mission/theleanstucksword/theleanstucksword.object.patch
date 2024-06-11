@@ -1,36 +1,36 @@
 [
   {
-    "value": "Thelean Sword",
+    "value": "Телеанский меч",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The sword of a dead Thelean. It's stuck far too tigthly to get it out.",
+    "value": "Меч мертвого Телеана. Он застрял слишком сильно, чтобы его можно было вытащить.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran wantsss to take ssword, but Floran not ssstrong enough...",
+    "value": "Флоран хочет взять меч, но Флоран недостаточно силен...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Weak. I do not have the strength to pull this sword out of the rocks.",
+    "value": "Слабый. У меня нет сил вытащить этот меч из скал.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This sword must have killed many of my kind.",
+    "value": "Этот меч, должно быть, убил многих представителей моего вида.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Thelean weaponry. Analysis: stuck.",
+    "value": "Обнаружено телеанское вооружение. Анализ: застрял.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sword of god-thief. Akki take sword, use to kill god-thief.",
+    "value": "Меч бога-вора. Акки возьми меч и убей бога-вора.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

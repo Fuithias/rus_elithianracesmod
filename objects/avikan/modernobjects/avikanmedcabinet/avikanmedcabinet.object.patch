@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Med-store",
+    "value": "Авикан Мед-магазин",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wall-mounted cabinet full of medical supplies.",
+    "value": "Настенный шкаф, полный медикаментов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A metal cabinet, probably for medical supplies.",
+    "value": "Металлический шкаф, вероятно, для медикаментов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like a first-aid cabinet.",
+    "value": "Это похоже на аптечку первой помощи.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what iss insside?",
+    "value": "Флорану интересно, что там внутри?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. Medical supplies are always welcome.",
+    "value": "С облегчением. Медицинские товары всегда приветствуются.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I suppose this must be a medical cabinet of sorts.",
+    "value": "Полагаю, это что-то вроде медицинского кабинета.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This cabinet contains painkillers and other anodynes.",
+    "value": "В этом шкафу лежат обезболивающие и другие анодирующие средства.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet for stayin' healthy.",
+    "value": "Кабинет для поддержания здоровья.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A cabinet containing some Avikan medicine.",
+    "value": "Шкаф с лекарствами Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These Med-stores carry medical supplies for emergency use.",
+    "value": "В этих медицинских магазинах продаются медикаменты для экстренного использования.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An emergency medical kit can be probably be found inside.",
+    "value": "Внутри, вероятно, можно найти аптечку неотложной медицинской помощи.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-approved Med-store. Contains emergency medical supplies.",
+    "value": "Обнаружен одобренный Nomada магазин Med. Содержит предметы первой необходимости.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cabinet-medicine. Akki not want healing-alien.",
+    "value": "Кабинет-медицина. Акки не хочет исцеления-инопланетянина.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "State-of-the-art mech boosters built by Enerth Engineering.",
+    "value": "Ультрасовременные ускорители мехов, созданные компанией Enerth Engineering.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Guardian Mech Boosters",
+    "value": "Усилители мехов-защитников",
     "path": "/shortdescription",
     "op": "replace"
   }

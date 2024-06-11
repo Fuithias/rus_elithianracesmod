@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Leather Bed",
+    "value": "Кожаная Кровать Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly comfortable leather bed.",
+    "value": "Удивительно удобная кожаная кровать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather bed. Quite comfortable, somehow.",
+    "value": "Кожаная кровать. Как-то очень удобно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A leather bed. Surpisingly comfortable.",
+    "value": "Кожаная кровать. На удивление удобно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bedsss for sssleeping!",
+    "value": "Кровати для сна!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. This primitive leather bed is quite comfortable.",
+    "value": "Удивлен. Эта примитивная кожаная кровать довольно удобна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive but comfortable leather bed. Time for a nap!",
+    "value": "Примитивная, но удобная кожаная кровать. Время вздремнуть!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This leather bed is surprisingly comfortable.",
+    "value": "Эта кожаная кровать удивительно удобна.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable leather bed.",
+    "value": "Удобная кожаная кровать.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet covering piles of raw leather. It makes me think of home.",
+    "value": "Кожаный лист, покрывающий стопки сырой кожи. Это заставляет меня думать о доме.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather bed.",
+    "value": "Простая кожаная кровать.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. This bed consists of leather pillows covered by a leather sheet.",
+    "value": "Анализ завершен. Эта кровать состоит из кожаных подушек, покрытых кожаной простыней.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki sleep here, need rest.",
+    "value": "Акки спит здесь, мне нужен отдых.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

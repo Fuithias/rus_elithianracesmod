@@ -1,31 +1,31 @@
 [
   {
-    "value": "Potted Elithian Plant",
+    "value": "Горшечное Элитианское Растение",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A plant native to Elithia.",
+    "value": "Растение родом из Элитии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran doess not like putting plantss in potsss.",
+    "value": "Флоран не любит сажать растения в горшки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A plant.",
+    "value": "Наблюдение. Растение.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant-small, strange-very.",
+    "value": "Растение-маленькое, странное-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

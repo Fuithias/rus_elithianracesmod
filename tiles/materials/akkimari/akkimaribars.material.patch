@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Bars",
+    "value": "Прутья Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Incredibly sturdy metal bars.",
+    "value": "Невероятно прочные металлические прутья.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Relieved. Anyone locked behind these bars is sure to stay locked.",
+    "value": "Облегчение. Любой, кто заперт за этими прутьями, останется запертым.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal bars make perfect ssspears and sshivsss.",
+    "value": "Металлические прутья делают отличные копья и ножи.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "No outlaw's gonna break these bars.",
+    "value": "Ни один преступник не сломает эти прутья.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal bar. Highly durable.",
+    "value": "Анализ завершен. Металлический прут. Высокая прочность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki lock away Akkimari-bad. Better for Akkimari.",
+    "value": "Акки запирают плохих аккимари. Лучше для аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

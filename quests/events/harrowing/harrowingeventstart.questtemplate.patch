@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;The Harrowing",
+    "value": "^green;Ужасный Праздник",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "During the Harrowing, we remember those we lost, but we also have fun with masks, costumes and sweet candy! If you can ^green;prove to me you're not scared of ghosts ^reset;by ^green;bringing me ^orange;20 Phase Matter^reset;, I'll give you some cool Harrowing items to get you started!",
+    "value": "Во время Ужасного Праздника мы помним тех, кого потеряли, но также развлекаемся с масками, костюмами и сладостями! Если ты сможешь ^green;доказать, что не боишься призраков ^reset;принеся мне ^green;20 фазовой материи^reset;, я дам тебе несколько крутых предметов для Ужасного Праздника!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You don't scare easily, that's for sure! Here's some items to get you in the mood for the Harrowing!",
+    "value": "Ты явно не пугаешься легко, это точно! Вот несколько предметов, чтобы ты проникся настроением Ужасного Праздника!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Ayala ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Айала ^reset;в ^orange;Посольство Креон^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

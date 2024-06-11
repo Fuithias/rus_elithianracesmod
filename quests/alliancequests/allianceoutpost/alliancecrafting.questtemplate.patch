@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Alliance Crafting Techniques",
+    "value": "^green;Техники Крафта Альянса",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Can you help me out with a small task? I'm doing some research on the Faryth, and need more samples of their scales. ^green;Find me ^orange;5 Faryth Scales^green;, and I'll give you an ^orange;Alliance Crafting Guide^reset;. I'll even throw in a bonus blueprint for an ^orange;Erito Security weapon^reset;!",
+    "value": "Можете помочь мне с небольшим заданием? Я провожу исследования о Фаритах и нуждаюсь в дополнительных образцах их чешуи. ^green;Найдите для меня ^orange;5 чешуек Фаритов^green;, и я дам вам ^orange;Руководство по Крафту Альянса^reset;. Я даже добавлю бонусный чертеж для оружия охраны Эрито!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Outstanding work, these scales will prove incredibly useful for my research! Here you go, the crafting guide and weapon blueprint I promised you.",
+    "value": "Отличная работа, эти чешуйки окажутся невероятно полезными для моих исследований! Вот вам руководство по крафту и чертеж оружия, который я вам обещал.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Aviira ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Авиире^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

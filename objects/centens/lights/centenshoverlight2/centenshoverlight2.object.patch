@@ -5,62 +5,62 @@
     "op": "replace"
   },
   {
-    "value": "A levitating light. Ancient, yet still functional.",
+    "value": "Левитирующий свет. Древний, но все еще функциональный.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A hovering light. Fancy.",
+    "value": "Парящий свет. Изысканный.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A pretty, hovering light.",
+    "value": "Красивый, парящий свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not understand how light floatsss.",
+    "value": "Флоран не понимает, как плывет свет.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This hovering light uses technology beyond ours.",
+    "value": "Впечатленный. Этот парящий свет использует технологии, превосходящие наши.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. Don't bump your head!",
+    "value": "Парящий свет. Не ударяйся головой!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. A feat of technology, but unnecessary underwater.",
+    "value": "Парящий свет. Технический подвиг, но ненужный под водой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light, built by the Centens. Still functional.",
+    "value": "Парящий свет, созданный Centens. Все еще функционален.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This light still burns after eons of use, and will keep burning until the star that fuels it is exhausted.",
+    "value": "Этот свет все еще горит после тысячелетий использования и будет гореть до тех пор, пока звезда, питающая его, не иссякнет.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light, built by the Centens.",
+    "value": "Парящий свет, созданный Centens.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian technology. Hovering light confirmed.",
+    "value": "Обнаружена центенская технология. Парящий свет подтвержден.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-maker make light-floating.",
+    "value": "Бог-творец сделал свет парящим.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

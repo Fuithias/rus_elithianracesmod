@@ -1,16 +1,16 @@
 [
   {
-    "value": "An ancient, otherworldly fragment of stone.",
+    "value": "Древний, потусторонний фрагмент камня.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Blighted Stone Fragment",
+    "value": "Осколок заражённого камня",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

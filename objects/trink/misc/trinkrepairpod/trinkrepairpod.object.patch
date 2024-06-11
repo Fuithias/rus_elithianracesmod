@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Repair Pod",
+    "value": "Тринкианская ремонтная капсула",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A repair pod for quickly repairing damaged Trink units.",
+    "value": "Ремонтная капсула для быстрого ремонта поврежденных устройств Тринка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A repair pod of sorts.",
+    "value": "Своего рода ремонтный отсек.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can't imagine this being comfortable for anything but machines.",
+    "value": "Я не могу себе представить, чтобы это было удобно для чего-либо, кроме машин.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal box for sssitting?",
+    "value": "Металлический ящик для сидения?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascination. This repair pod can repair almost all damage.",
+    "value": "Очарование. Эта ремонтная капсула может устранить практически все повреждения.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A repair pod for robots. Oddly enough, it also works for humans.",
+    "value": "Ремонтная капсула для роботов. Как ни странно, это работает и для людей.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A repair pod capable of repairing nearly any damage sustained in combat.",
+    "value": "Ремонтная капсула, способная устранить практически любые повреждения, полученные в бою.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian repair pod. Efficient, as always.",
+    "value": "Тринкианская ремонтная капсула. Эффективно, как всегда.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A repair pod for machines. I should probably disable it.",
+    "value": "Ремонтная капсула для машин. Наверное, мне следует отключить его.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This repair pod will repair any damage my frame sustained.",
+    "value": "Эта ремонтная капсула устранит любые повреждения, полученные моей рамой.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Repair pod detected. Provides automated repair of alien synthetics. Recommend disabling of device.",
+    "value": "Обнаружен ремонтный модуль. Обеспечивает автоматизированный ремонт инородной синтетики. Рекомендую отключить устройство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Machines repair here. Akki sabotage, make it break machines!",
+    "value": "Ремонт машин здесь. Акки саботаж, заставь ломать машины!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

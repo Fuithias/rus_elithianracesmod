@@ -1,11 +1,11 @@
 [
   {
-    "value": "The crystalized deposit of an otherworldy material.",
+    "value": "Кристаллизованное отложение потустороннего материала.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hyverium Ore",
+    "value": "Гивериевая руда",
     "path": "/shortdescription",
     "op": "replace"
   }

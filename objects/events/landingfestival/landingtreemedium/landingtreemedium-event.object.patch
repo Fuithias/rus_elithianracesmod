@@ -1,12 +1,7 @@
 [
   {
-    "value": "Landing Festival Tree (Event)",
+    "value": "Высадка Фестивального Дерева (Ивент)",
     "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
     "op": "replace"
   }
 ]

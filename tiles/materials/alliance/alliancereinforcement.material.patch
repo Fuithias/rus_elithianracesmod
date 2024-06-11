@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Reinforcement",
+    "value": "Усиление Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strong metal block, used to reinforce larger structures.",
+    "value": "Прочный металлический блок, используемый для усиления крупных структур.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. This block likely serves to support a large weight.",
+    "value": "Наблюдение. Этот блок вероятно служит для поддержки большого веса.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ssstrong metal blockss.",
+    "value": "Прочные металлические блоки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like support to me.",
+    "value": "Похоже на поддержку.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Structural reinforcement.",
+    "value": "Анализ завершен. Структурное усиление.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Reinforcement-strong.",
+    "value": "Усиление-прочное.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

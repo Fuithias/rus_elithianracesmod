@@ -1,36 +1,36 @@
 [
   {
-    "value": "Elithian Alliance Poster",
+    "value": "Плакат Элитианского Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting the Elithian Alliance.",
+    "value": "Плакат, рекламирующий Элитианский Альянс.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran hass seen thisss ssymbol before.",
+    "value": "Флоран уже видел этот символ раньше.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What is this Elithian Alliance?",
+    "value": "Любопытный. Что это за Элитианский Альянс?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The Elithian Alliance is an alliance between many different spacefaring nations.",
+    "value": "Элитианский Альянс — это союз множества различных космических держав.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Alien symbolism.",
+    "value": "Сканирование завершено. Инопланетная символика.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Froza Can",
+    "value": "Фроза Банка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A can of Froza.",
+    "value": "Банка Фрозы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A can of soda.",
+    "value": "Банка содовой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A full can of soda.",
+    "value": "Полная банка газировки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Drinksss.",
+    "value": "Пью.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A soda can.",
+    "value": "Наблюдение. Банка из-под газировки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I love this alien soda!",
+    "value": "Обожаю эту инопланетную газировку!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly nutritional soda.",
+    "value": "Удивительно питательная сода.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Drink up.",
+    "value": "Выпить.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A can of soda.",
+    "value": "Банка содовой.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien drink. Not sure if I should try it.",
+    "value": "Инопланетный напиток. Не уверен, стоит ли мне это пробовать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This is quite a popular soda amongst the Aegi.",
+    "value": "Это довольно популярная газировка среди эги.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien drink.",
+    "value": "Анализ завершен. Чужой напиток.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki thirsty.",
+    "value": "Акки хочет пить.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

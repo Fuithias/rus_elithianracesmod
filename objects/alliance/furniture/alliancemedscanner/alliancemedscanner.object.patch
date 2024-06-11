@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Medical Scanner",
+    "value": "Медицинский сканер Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bed used to analyze a patient's medical condition.",
+    "value": "Кровать, используемая для анализа состояния здоровья пациента.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This medical bed looks like a place I could rest a minute.",
+    "value": "Эта медицинская кровать выглядит как место, где я могу минутку отдохнуть.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Laying on this bed surrounded by these scanners would make me quite uncomfortable.",
+    "value": "Лежать на этой кровати среди этих сканеров мне было бы очень некомфортно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Fancy lightsss all around this metal bed.",
+    "value": "Вокруг этой металлической кровати причудливое освещение.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. I wonder if this medical bed can account for Glitch anatomy.",
+    "value": "Любопытный. Интересно, может ли эта медицинская кровать объяснить анатомию Глитча?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like some sort of medical scanner bed, but I guess it's still a place to lay down.",
+    "value": "Выглядит как кровать для медицинского сканера, но, думаю, это еще место, где можно прилечь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This medical bed was likely designed to assist doctors or researchers.",
+    "value": "Эта медицинская кровать, вероятно, была предназначена для помощи врачам или исследователям.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some fancy lookin' bed surrounded by bright lights.",
+    "value": "Какая-то причудливая кровать, окруженная яркими огнями.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This medical scanner can detect all sorts of medical issues in a patient.",
+    "value": "Этот медицинский сканер может обнаружить у пациента все виды медицинских проблем.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some type of scanner surrounding a bed. It's likely for medical examinations.",
+    "value": "Какой-то сканер вокруг кровати. Вероятно, это для медицинских осмотров.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A medical scanner. It is of little use to robotic lifeforms.",
+    "value": "Медицинский сканер. Для роботизированных форм жизни от него мало пользы.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien scanner. Electric field interference detected.",
+    "value": "Обнаружен сканер инопланетян. Обнаружены помехи в электрическом поле.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki disturbed. Looks like device-torture.",
+    "value": "Акки встревожен. Похоже на устройство-пытка.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Durable plating made from assorted scrap metal.",
+    "value": "Прочная обшивка из различного металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Scrap Plating",
+    "value": "Акрис Металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

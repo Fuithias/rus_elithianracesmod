@@ -1,31 +1,31 @@
 [
   {
-    "value": "Federal Union Banner",
+    "value": "Знамя Федерального Союза",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Aeginian Federal Union.",
+    "value": "Знамя, украшенное гербом Эгинского федерального союза.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Aeginian Federal Union iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эгинского Федерального Союза.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki believe this is Union-Aegi symbol.",
+    "value": "Акки считают, что это символ Союза-Эги.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

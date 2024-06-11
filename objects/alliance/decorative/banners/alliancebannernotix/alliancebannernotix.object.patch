@@ -1,31 +1,31 @@
 [
   {
-    "value": "Notician Federation Banner",
+    "value": "Знамя Федерации уведомлений",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Notician Federation.",
+    "value": "Знамя, украшенное эмблемой Федерации Нотикианов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Notician Federation iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Notician Federation.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Icon for Federation-Notix.",
+    "value": "Иконка для Федерации-Notix.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

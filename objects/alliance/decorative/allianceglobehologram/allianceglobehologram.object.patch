@@ -1,71 +1,71 @@
 [
   {
-    "value": "Hologram of Elithia",
+    "value": "Голограмма Элитии",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large holographic display of Elithia.",
+    "value": "Большой голографический дисплей Элитии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large hologram. Is this the planet Elithia?",
+    "value": "Большая голограмма. Это планета Элития?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large planetary hologram.",
+    "value": "Большая планетарная голограмма.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Planet made of lightsss.",
+    "value": "Планета из огней.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amazed. What a beautiful planet.",
+    "value": "Поражен. Какая красивая планета.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's quite the holographic display.",
+    "value": "Это настоящий голографический дисплей.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This hologram instills a sense of serenity in me.",
+    "value": "Эта голограмма вселяет во меня чувство спокойствия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Now that's a hologram.",
+    "value": "Теперь это голограмма.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A hologram displaying real-time information about Elithia.",
+    "value": "Голограмма, отображающая информацию об Элитии в реальном времени.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Nomada might learn something from this projection.",
+    "value": "Кочевники могли бы чему-то научиться из этой проекции.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A large holographic projection of Elithia.",
+    "value": "Большая голографическая проекция Элитии.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected holographic projection. Analyzing. Reporting findings to Nomada command.",
+    "value": "Обнаружена голографическая проекция. Анализируем. Доклад о результатах командованию Номады.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hologram-great of Elithia. Akki impressed.",
+    "value": "Голограмма-великая Элитии. Акки впечатлил.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Racing Gate",
+    "value": "Авикан Гоночные ворота",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A gate used for racing. It sends out a signal whenever a vehicle passes through it.",
+    "value": "Ворота, используемые для гонок. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A racing gate. It's probably a checkpoint or something.",
+    "value": "Гоночные ворота. Наверное, это КПП или что-то в этом роде.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This racing gate might act as a checkpoint during races.",
+    "value": "Эти гоночные ворота могут служить контрольно-пропускным пунктом во время гонок.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran thinksss thiss is a race checkpoint.",
+    "value": "Флоран думает, что это контрольно-пропускной пункт гонки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What will happen when I ride past this?",
+    "value": "Любопытный. Что произойдет, когда я проеду мимо этого?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's a racing gate.",
+    "value": "Это гоночные ворота.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This appears to be a checkpoint marker for vehicle races.",
+    "value": "Похоже, это контрольно-пропускной пункт для автомобильных гонок.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda glowing marker.",
+    "value": "Какой-то светящийся маркер.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This gate will activate when a vehicle passes by.",
+    "value": "Эти ворота активируются, когда мимо проезжает транспортное средство.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A gate that activates when vehicles pass by.",
+    "value": "Ворота, которые активируются, когда мимо проезжают машины.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tall marker to designate racing checkpoints.",
+    "value": "Высокий маркер для обозначения контрольных точек гонок.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected racing gate. Likely purpose: checkpoint.",
+    "value": "Обнаружены гоночные ворота. Вероятная цель: КПП.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Gate-checkpoint. Akki race through!",
+    "value": "Ворота-пропускные пункты. Акки мчится вперед!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

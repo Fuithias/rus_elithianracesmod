@@ -1,71 +1,71 @@
 [
   {
-    "value": "Landing Festival Tree",
+    "value": "Посадка фестивального дерева",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pine tree decorated for the Landing Festival.",
+    "value": "Сосна, украшенная к Фестивалю Десанта.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A decorated pine tree.",
+    "value": "Украшенная сосна.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This tree is full of shiny goods!",
+    "value": "Это дерево полно блестящих вещей!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny tree makes Floran sssparkle!",
+    "value": "Блестящее дерево заставляет Флорана сверкать!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. How did the tradition of decorating pine trees start?",
+    "value": "Любопытный. Как зародилась традиция украшать сосны?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A Christmas tree! There's something off about it though...",
+    "value": "Новогодняя елка! Хотя что-то в этом не так...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A majestic tree decorated with shiny trinkets. How quaint.",
+    "value": "Величественное дерево, украшенное блестящими безделушками. Как странно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Who hung all this gold in a tree?",
+    "value": "Кто повесил все это золото на дерево?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The traditional Landing Festival tree, complete with gifts and decorations aplenty!",
+    "value": "Традиционная елка Фестиваля высадки с множеством подарков и украшений!",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant decorated in golden trinkets. Aliens are weird.",
+    "value": "Инопланетное растение, украшенное золотыми безделушками. Инопланетяне странные.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I don't fully understand why the Aegi decorate their trees.",
+    "value": "Я не совсем понимаю, зачем Эги украшают свои деревья.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien plantlife. Detected multiple metal trinkets attached to branches. Purpose unknown.",
+    "value": "Анализ завершен. Чужеродная растительная жизнь. Обнаружено множество металлических безделушек, прикрепленных к ветвям. Цель неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tree-alien full of gold! Akki want, want want!",
+    "value": "Древесный пришелец полон золота! Акки хочу, хочу хочу!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

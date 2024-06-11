@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Monolith",
+    "value": "Центенсийский монолит",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A monolith of pure Centensian metal.",
+    "value": "Монолит из чистого центенского металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A monolith of some odd metal. Who would have built such a thing?",
+    "value": "Монолит из какого-то странного металла. Кто бы мог построить такое?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny monolith. I get an odd sensation just standing near it...",
+    "value": "Блестящий монолит. У меня странное ощущение, просто стоя рядом с ним...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Monolith makess Floran feel funny insside...",
+    "value": "Монолит заставляет Флорана чувствовать себя странно внутри...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. This monolith is somehow interfering with my sensors.",
+    "value": "Осторожный. Этот монолит каким-то образом мешает моим сенсорам.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A monolith of sorts. Why does it make me feel so odd?",
+    "value": "Монолит какой-то. Почему я чувствую себя так странно?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A monolith made of an unknown metal - how mysterious!",
+    "value": "Монолит из неизвестного металла – как загадочно!",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a fine monolith right there.",
+    "value": "Вот прекрасный монолит.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian monolith. We never managed to figure out the purpose of these slabs.",
+    "value": "Центенсийский монолит. Нам так и не удалось выяснить назначение этих плит.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This monolith of the Old Ones is an object of great importance in the Rhaiod religion.",
+    "value": "Этот монолит Древних является объектом огромной важности в религии Райод.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian-built monolith. What could its purpose be?",
+    "value": "Монолит, построенный в Сентенсиане. Какова может быть его цель?",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian Monolith. Age calculation failed.",
+    "value": "Обнаружен центенский монолит. Расчет возраста не удался.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Artefact-strange, monolith of god-maker.",
+    "value": "Артефакт-странный монолит бога-творца.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "^orange;Тяжелый лук, созданный уединенными кланами Вхалакиса.",
+    "value": "^orange;Тяжелый лук, созданный уединенными кланами Валакиса.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Длиннолук Вхалакина^white;",
+    "value": "^orange;Длиннолук Валакина^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

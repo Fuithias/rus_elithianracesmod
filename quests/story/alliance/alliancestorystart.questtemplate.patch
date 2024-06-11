@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/startMessage/senderName",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/secondMessage/senderName",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/thirdMessage/senderName",
     "op": "replace"
   },
@@ -45,7 +45,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/fourthMessage/senderName",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Адмирал Лиин",
+    "value": "Адмирал Лийин",
     "path": "/scriptConfig/radioMessages/endMessage/senderName",
     "op": "replace"
   },

@@ -1,16 +1,16 @@
 [
   {
-    "value": "A Centensian relic. It appears to be a container, but it won't open.",
+    "value": "Центенсийская реликвия. Кажется, это контейнер, но он не открывается.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Centensian Relic^white;",
+    "value": "^#BA66FF;Центенсийская реликвия^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

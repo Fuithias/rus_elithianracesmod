@@ -1,11 +1,11 @@
 [
   {
-    "value": "A long-lasting glow stick, cheap to produce but not as bright as a flare.",
+    "value": "Долговечная светящаяся палочка, дешевая в производстве, но не такая яркая, как вспышка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Nomada Glowstick",
+    "value": "Номада Светящаяся палочка",
     "path": "/shortdescription",
     "op": "replace"
   }

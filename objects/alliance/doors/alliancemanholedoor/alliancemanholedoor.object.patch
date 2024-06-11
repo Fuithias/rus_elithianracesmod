@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Manhole Cover",
+    "value": "Крышка люка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal manhole cover.",
+    "value": "Крышка люка из тяжелого металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A manhole cover. To stop fools falling down a hole.",
+    "value": "Крышка люка. Чтобы дураки не упали в яму.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A manhole cover.",
+    "value": "Крышка люка.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Manhole cover, iss ssomething hiding beneath?",
+    "value": "Крышка люка, под ней что-то скрывается?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. A manhole cover.",
+    "value": "Удивлен. Крышка люка.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A manhole cover, just waiting for someone to fall down in comical fashion.",
+    "value": "Крышка люка, ожидающая, пока кто-нибудь комично упадет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A manhole cover, what lurks beneath?",
+    "value": "Крышка люка, что скрывается под ней?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda manhole cover, what's it hidin'?",
+    "value": "Какая-то крышка люка, что там скрывается?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large manhole cover. It might lead to some sewers.",
+    "value": "Большая крышка люка. Это может привести к канализации.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A door of some kind. Where does it lead?",
+    "value": "Дверь какая-то. Куда это ведет?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A manhole cover. It keeps people from falling into the sewers.",
+    "value": "Крышка люка. Это предохраняет людей от падения в канализацию.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected metal door. Scanning for passages underneath...",
+    "value": "Обнаружена металлическая дверь. Ищем проходы внизу...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door in ground. Akki curious.",
+    "value": "Дверь в земле. Акки любопытно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

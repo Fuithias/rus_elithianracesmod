@@ -1,36 +1,36 @@
 [
   {
-    "value": "Covered Vehicle",
+    "value": "Крытый автомобиль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what sort of vehicle is hidden underneath this sheet of leather?",
+    "value": "Интересно, что за транспортное средство спрятано под этим листом кожи?",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what thiss sheet iss hiding?",
+    "value": "Флорану интересно, что скрывает этот лист?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What sort of vehicle might this be?",
+    "value": "Любопытный. Что это может быть за транспортное средство?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta vehicle hidden from view by a large sheet o' leather.",
+    "value": "Какое-то транспортное средство, скрытое от глаз большим кожаным полотном.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada vehicle. Type unknown.",
+    "value": "Обнаружен автомобиль Nomada. Тип неизвестен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki wonder what vehicle is beneath sheet-leather.",
+    "value": "Акки интересно, что за машина скрывается под листом кожи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

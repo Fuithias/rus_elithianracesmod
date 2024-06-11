@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick, smelly jelly from an unusual plant.",
+    "value": "Густое, пахнущее желе из необычного растения.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Achvass Jelly",
+    "value": "Ачвасс Желе",
     "path": "/shortdescription",
     "op": "replace"
   }

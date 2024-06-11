@@ -1,16 +1,16 @@
 [
   {
-    "value": "A targeting chip for small missiles.",
+    "value": "Чип наведения для небольших ракет.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Erito Targeting Chip^white;",
+    "value": "^#BA66FF;Чип наведения Эрито^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

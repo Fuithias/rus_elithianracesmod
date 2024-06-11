@@ -1,71 +1,71 @@
 [
   {
-    "value": "Inactive Arbiter",
+    "value": "Неактивный арбитр",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An inactive Akkimari Arbiter-type drone.",
+    "value": "Неактивный дрон типа «Аккимари Арбитр».",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This drone looks ready for combat.",
+    "value": "Этот дрон выглядит готовым к бою.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A medium-sized, rounded drone.",
+    "value": "Округлый дрон среднего размера.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Dronesss for combat.",
+    "value": "Дронесс для боя.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An alien drone.",
+    "value": "Наблюдение. Инопланетный дрон.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A drone. It looks funny, and somehow cute.",
+    "value": "Дрон. Выглядит забавно и как-то мило.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This drone has an elegant design to it.",
+    "value": "Этот дрон имеет элегантный дизайн.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta drone.",
+    "value": "Какой-то дрон.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A law enforcement drone of Akkimari design.",
+    "value": "Правоохранительный дрон конструкции Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alien drone looks a bit sturdier than a Drahl.",
+    "value": "Этот инопланетный дрон выглядит немного крепче, чем Драл.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A sleeping drone.",
+    "value": "Спящий дрон.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien-built drone. Arbiter model.",
+    "value": "Обнаружен дрон, построенный пришельцами. Модель арбитра.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not disturb Arbiter-dreaming.",
+    "value": "Акки не мешай Арбитру мечтать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

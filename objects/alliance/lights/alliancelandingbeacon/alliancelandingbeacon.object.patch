@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Landing Beacon",
+    "value": "Посадочный маяк Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A light used to guide in incoming ships.",
+    "value": "Свет, используемый для указания приближающихся кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Some sort of landing guidance.",
+    "value": "Что-то вроде руководства по посадке.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A light used to guide ships safely to the ground.",
+    "value": "Свет, используемый для безопасного спуска кораблей на землю.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Light for guiding ssshipss.",
+    "value": "Свет для направления корабля.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. This light will help guide ships safely to the ground.",
+    "value": "С облегчением. Этот свет поможет безопасно спустить корабли на землю.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's a landing beacon.",
+    "value": "Это посадочный маяк.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A light to guide ships to safety.",
+    "value": "Свет, направляющий корабли в безопасное место.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A bright blinkin' light for guidin' ships.",
+    "value": "Яркий мигающий свет для управления кораблями.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon will guide incoming ships safely to the ground.",
+    "value": "Этот маяк будет безопасно направлять приближающиеся корабли на землю.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I think it is a landing beacon.",
+    "value": "Я думаю, что это посадочный маяк.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple light for guiding ships at night. Quite an efficient solution.",
+    "value": "Простой фонарь для навигации кораблей в ночное время. Вполне эффективное решение.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected blinking light. Expected purpose is to guide incoming ships at night.",
+    "value": "Обнаружен мигающий свет. Ожидаемая цель - направлять прибывающие корабли в ночное время.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light guides to safety.",
+    "value": "Световые путеводители по безопасности.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

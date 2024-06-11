@@ -1,11 +1,11 @@
 [
   {
-    "value": "A compact battery packing a lot of power.",
+    "value": "Компактный аккумулятор с большой мощностью.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Battery",
+    "value": "Авикан Батарея",
     "path": "/shortdescription",
     "op": "replace"
   }

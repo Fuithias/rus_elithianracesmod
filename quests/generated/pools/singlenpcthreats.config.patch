@@ -1,11 +1,11 @@
 [
   {
-    "value": "rogue Captain",
+    "value": "капитан-изгой",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Thelean infiltrator",
+    "value": "инфильтратор Тилиан",
     "path": "/0/1/-/1/name",
     "op": "replace"
   }

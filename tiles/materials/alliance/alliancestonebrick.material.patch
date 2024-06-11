@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Stone Bricks",
+    "value": "Каменные кирпичи Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Heavy stone bricks.",
+    "value": "Тяжелые каменные кирпичи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Stone bricks.",
+    "value": "Наблюдение. Каменные кирпичи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran like the feel of sstone under feet.",
+    "value": "Флоран любит ощущение камня под ногами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Stone bricks, plain an' simple.",
+    "value": "Каменные кирпичи, простые и понятные.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone bricks.",
+    "value": "Анализ завершен. Каменные кирпичи.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Stone feel good under feet-Akki.",
+    "value": "Камень хорошо ощущается под ногами-акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

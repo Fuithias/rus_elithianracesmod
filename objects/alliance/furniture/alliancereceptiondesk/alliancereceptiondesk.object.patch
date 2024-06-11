@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Reception Desk",
+    "value": "Стойка регистрации Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A desk often seen in corporate lobbies.",
+    "value": "Стол, который часто можно увидеть в корпоративных вестибюлях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A reception desk. Perhaps I can learn something here.",
+    "value": "Стойка регистрации. Возможно, я смогу здесь чему-то научиться.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A receptionist's desk.",
+    "value": "Стол администратора.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Dessk for greeting people.",
+    "value": "Стол для приветствия людей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A reception desk.",
+    "value": "Наблюдение. Стойка регистрации.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A reception desk. Am I supposed to check in here?",
+    "value": "Стойка регистрации. Я должен здесь зарегистрироваться?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple reception desk. From the looks of it, it was recently cleaned.",
+    "value": "Простая стойка регистрации. Судя по всему, его недавно чистили.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Might be I can get some info here.",
+    "value": "Возможно, здесь я смогу получить некоторую информацию.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A reception desk. It's often the first place new visitors go to.",
+    "value": "Стойка регистрации. Часто это первое место, куда приходят новые посетители.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien desk. Is this just for greeting people?",
+    "value": "Инопланетный стол. Это просто для приветствия людей?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A reception desk. I may learn something here.",
+    "value": "Стойка регистрации. Возможно, я здесь чему-то научусь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien desk.",
+    "value": "Обнаружен стол пришельца.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki ask questions here.",
+    "value": "Акки задавайте вопросы здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

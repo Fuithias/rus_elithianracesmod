@@ -1,16 +1,16 @@
 [
   {
-    "value": "A shard of the Xanafir. It was once part of a famous weapon.",
+    "value": "Осколок Ксанафира. Когда-то это была часть знаменитого оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Shard of Fame^white;",
+    "value": "^orange;Осколок славы^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

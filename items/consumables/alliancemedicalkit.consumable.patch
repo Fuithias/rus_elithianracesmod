@@ -1,11 +1,11 @@
 [
   {
-    "value": "Restores 100 health over 10 seconds and cures most status effects.",
+    "value": "Восстанавливает 100 единиц здоровья за 10 секунд и снимает большинство статусных эффектов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Medical Kit",
+    "value": "Медицинская аптечка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

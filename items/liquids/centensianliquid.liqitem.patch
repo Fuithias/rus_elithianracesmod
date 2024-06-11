@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strange, thick liquid that feels like it doesn't belong in this universe.",
+    "value": "Странная густая жидкость, которая, кажется, не принадлежит этой вселенной.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Liquid",
+    "value": "Центенсийская жидкость",
     "path": "/shortdescription",
     "op": "replace"
   }

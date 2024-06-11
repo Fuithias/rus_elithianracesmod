@@ -1,16 +1,16 @@
 [
   {
-    "value": "This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!",
+    "value": "Эта мотыга позволяет вспахивать почву. Обработанную почву можно использовать для выращивания самых разных культур!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Hoe",
+    "value": "Тринкиан Мотыга",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Tool",
+    "value": "Инструмент",
     "path": "/category",
     "op": "replace"
   }

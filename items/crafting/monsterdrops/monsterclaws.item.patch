@@ -1,11 +1,11 @@
 [
   {
-    "value": "The claws of an alien monster.",
+    "value": "Когти инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Claws",
+    "value": "Когти монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

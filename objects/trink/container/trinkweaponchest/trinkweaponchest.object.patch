@@ -1,71 +1,71 @@
 [
   {
-    "value": "Circuit Supply Crate",
+    "value": "Ящик с цепями питания",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A high-grade military supply crate.",
+    "value": "Высококачественный ящик с военными припасами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I think there might be weapons inside!",
+    "value": "Я думаю, внутри может быть оружие!",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This supply crate uses materials of the best quality.",
+    "value": "В этом ящике с припасами используются материалы самого высокого качества.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!",
+    "value": "Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. A supply crate like this is likely to hold valuables.",
+    "value": "Взволнованный. В таком ящике с припасами, скорее всего, будут храниться ценные вещи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like a military weapons cache. Let's open it!",
+    "value": "Это похоже на тайник с военным оружием. Давайте откроем его!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A supply crate built for transporting weaponry.",
+    "value": "Ящик с припасами, предназначенный для перевозки оружия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Let's look inside o' it already!",
+    "value": "Давайте уже заглянем внутрь!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This seems to be a Circuit supply crate.",
+    "value": "Похоже, это ящик с электросхемами.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A machine-built supply crate. It might offer me an advantage.",
+    "value": "Машинный ящик с припасами. Это может дать мне преимущество.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This Circuit supply crate might hold weapons.",
+    "value": "В этом ящике с припасами Circuit может храниться оружие.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected machine-built supply crate. Recommend salvaging for parts.",
+    "value": "Обнаружен ящик с припасами машинной сборки. Рекомендую разобрать на запчасти.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chest-military. Akki find weapons inside?",
+    "value": "Грудь-военный. Акки нашел внутри оружие?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

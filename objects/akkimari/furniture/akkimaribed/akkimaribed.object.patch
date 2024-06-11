@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Bed",
+    "value": "Акрис Кровать",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable bed.",
+    "value": "Удобная кровать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bed with an unusual design. It's comfortable, but I miss the bedsheet.",
+    "value": "Кровать необычного дизайна. Это удобно, но мне не хватает простыни.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A strangely comfortable bed.",
+    "value": "Необычно удобная кровать.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran rarely ssleep in ssuch nice bed.",
+    "value": "Флоран редко с-спит в такой красивой постели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Tired. I should lie down for a while.",
+    "value": "Усталый. Мне следует прилечь на некоторое время.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An unusual bed. It's a lot more comfortable than it looks, but it's a bit cold.",
+    "value": "Необычная кровать. Здесь намного удобнее, чем кажется, но немного холодно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A place to rest. It would be better with a bedsheet.",
+    "value": "Место для отдыха. Лучше бы с простыней.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A decent place to get some shut-eye.",
+    "value": "Достойное место, чтобы немного поспать.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari-made bed. It's incredibly soft.",
+    "value": "Кровать, сделанная Аккимари. Он невероятно мягкий.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien bed. It's uncommonly comfortable.",
+    "value": "Инопланетная кровать. Это необычайно удобно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari bed. I suppose other aliens could find it comfortable.",
+    "value": "Кровать Аккимари. Полагаю, что другим инопланетянам это будет удобно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien bedding detected.",
+    "value": "Обнаружено инопланетное постельное белье.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki sleep here. Wake up stronger!",
+    "value": "Акки спит здесь. Просыпайтесь сильнее!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

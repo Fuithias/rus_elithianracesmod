@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Элитианский лук^white;",
+    "value": "^orange;Элитийский лук^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

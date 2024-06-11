@@ -1,6 +1,6 @@
 [
   {
-    "value": "Elemental assault rifle ammunition that electrifies targets.",
+    "value": "Элементальные боеприпасы для штурмовой винтовки, электризующие цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Electric Ammo",
+    "value": "Электрические боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trimmed Avikan Leather",
+    "value": "Обработанная авиканская кожа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather wallsheet decorated with various symbols.",
+    "value": "Кожаное покрытие стены, украшенное различными символами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observative. There are many different symbols painted onto this wall sheet.",
+    "value": "Наблюдательный. На этой стеновой покрытии нарисовано много разных символов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not undersstand ssymbols.",
+    "value": "Флоран не понимает символов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Those ar' some odd-looking symbols on the wall.",
+    "value": "Это какие-то странные символы на стене.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. These symbols describe events from Avikan history.",
+    "value": "Анализ завершен. Эти символы описывают события из истории авикан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki no read the letters-alien. Akki not interested.",
+    "value": "Акки не читает чужие буквы. Акки не интересует.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

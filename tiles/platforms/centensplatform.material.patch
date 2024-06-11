@@ -1,42 +1,42 @@
 [
   {
-    "value": "Centensian Platform",
+    "value": "центенская платформа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A platform built by the mysterious Centens.",
+    "value": "Платформа, построенная загадочными Центенами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Curious. What ancient being created this?",
+    "value": "Любопытно. Какое древнее существо создало это?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Platform isss old. Very old...",
+    "value": "Платформа старая. Очень старая...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient platform of sorts.",
+    "value": "Древняя платформа какого-то рода.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Centensian platform.",
+    "value": "Анализ завершен. центенская платформа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Platform made by god-makers.",
+    "value": "Платформа, сделанная создателями богов.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

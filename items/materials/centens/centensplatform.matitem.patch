@@ -1,11 +1,11 @@
 [
   {
-    "value": "An ancient metal platform.",
+    "value": "Древняя металлическая платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Platform",
+    "value": "Центенсианская платформа",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Large Avikan Container",
+    "value": "Большой Авикан Контейнер",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal container. For storing items.",
+    "value": "Прочный металлический контейнер. Для хранения вещей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large metal cabinet.",
+    "value": "Большой металлический шкаф.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny metal container. What's inside?",
+    "value": "Блестящий металлический контейнер. Что внутри?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Containersss full of goodiesss!",
+    "value": "Контейнеры полны вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A large metal cabinet.",
+    "value": "Наблюдение. Большой металлический шкаф.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal container. Might be full of goodies!",
+    "value": "Металлический контейнер. Наверное, полно вкусностей!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal container, for storing your belongings.",
+    "value": "Металлический контейнер для хранения ваших вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather bag, for storage.",
+    "value": "Простая кожаная сумка для хранения.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large metal container, for storing personal belongings.",
+    "value": "Большой металлический контейнер для хранения личных вещей.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal cabinet. Its shape makes for an inefficient use of space.",
+    "value": "Металлический шкаф. Его форма приводит к неэффективному использованию пространства.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki open, look inside.",
+    "value": "Акки открой, загляни внутрь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

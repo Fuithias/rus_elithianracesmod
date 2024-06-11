@@ -1,11 +1,11 @@
 [
   {
-    "value": "A concentrated extract harvested from a selvas herb.",
+    "value": "Концентрированный экстракт травы сельвы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Selvas Extract",
+    "value": "Экстракт сельвы",
     "path": "/shortdescription",
     "op": "replace"
   }

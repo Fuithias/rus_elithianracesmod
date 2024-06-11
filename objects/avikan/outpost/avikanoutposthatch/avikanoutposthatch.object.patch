@@ -1,36 +1,36 @@
 [
   {
-    "value": "Nomada Hatch",
+    "value": "Номада Хэтч",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal hatch providing access to the pipelines.",
+    "value": "Металлический люк, обеспечивающий доступ к трубопроводам.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran can crawl up the hatch and into the pipesss.",
+    "value": "Флоран может залезть в люк и попасть в трубу.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Uncertain. I am not sure if I'll fit into those pipes...",
+    "value": "Неуверенно. Не уверен, что влезу в эти трубы...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Gettin' into those pipes is gonna be a tight squeeze.",
+    "value": "Проникнуть в эти трубы будет непросто.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Pipeline access hatch. This unit is unlikely to fit through.",
+    "value": "Люк для доступа к трубопроводу. Этот агрегат вряд ли подойдет.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki go into pipes from here.",
+    "value": "Акки иди отсюда в трубы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

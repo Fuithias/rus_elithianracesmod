@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Desk",
+    "value": "Стол Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple but functional desk.",
+    "value": "Простой, но функциональный стол.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A desk.",
+    "value": "Стол.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic desk.",
+    "value": "Базовый письменный стол.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not want to ssit at dessk.",
+    "value": "Флоран не хочет сидеть за столом.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. A simple but functional desk.",
+    "value": "Довольный. Простой, но функциональный стол.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Time to go to work, I guess?",
+    "value": "Полагаю, пора идти на работу?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One could get much work done at such a desk.",
+    "value": "За таким столом можно было сделать много работы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Bah, it's just a desk.",
+    "value": "Ба, это просто стол.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple desk, with some drawers for storing small items.",
+    "value": "Простой письменный стол с ящиками для хранения мелких вещей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A desk of some kind.",
+    "value": "Стол какой-то.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This desk offers minimal storage space.",
+    "value": "Этот стол предлагает минимальное пространство для хранения.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected desk.",
+    "value": "Обнаружен письменный стол.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Table-alien, has storage-small.",
+    "value": "Стол-чужой, есть хранилище-маленькое.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

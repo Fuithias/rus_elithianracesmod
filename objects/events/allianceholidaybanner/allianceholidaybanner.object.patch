@@ -1,6 +1,6 @@
 [
   {
-    "value": "Event Banner",
+    "value": "Баннер мероприятия",
     "path": "/shortdescription",
     "op": "replace"
   },

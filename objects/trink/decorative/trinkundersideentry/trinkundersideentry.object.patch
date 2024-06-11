@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Underside Entry",
+    "value": "Вход в Тринкиан снизу",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An underside entrance piece of modular Trinkian buildings.",
+    "value": "Нижний вход в модульные тринкианские здания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A modular underside entrance.",
+    "value": "Модульный вход снизу.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An underside entrance decorated with green lights.",
+    "value": "Нижний вход украшен зелеными огнями.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran seesss upside down roof. Floran wonderss why upside down.",
+    "value": "Флоран видит перевернутую крышу. Флорану интересно, почему вверх тормашками.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This modular underside entrance piece is packed with sensors.",
+    "value": "Очарованный. Эта модульная нижняя входная часть заполнена датчиками.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An inverted metal pyramid? Strangely cool!",
+    "value": "Перевернутая металлическая пирамида? Странно круто!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal underside entrance. Surpisingly, it is packed with sensors and communication systems.",
+    "value": "Металлический вход снизу. Удивительно, но он напичкан датчиками и системами связи.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinks are big fans of modular buildings. This underside entrance will fit on pretty much every suitable Trinkian construction.",
+    "value": "Тринки — большие поклонники модульных зданий. Этот нижний вход подойдет практически к любой подходящей конструкции Тринкиана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal underside entrance, built by machines.",
+    "value": "Металлический нижний вход, построенный машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian underside entrances are modular, and fit beneath of almost any suitable Trinkian structure.",
+    "value": "Нижние входы Trinkian являются модульными и подходят практически к любой подходящей конструкции Trinkian.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Readings indicate high amounts of sensors inside this structure.",
+    "value": "Показания указывают на большое количество датчиков внутри этой структуры.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki enter building here.",
+    "value": "Акки входит в здание здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

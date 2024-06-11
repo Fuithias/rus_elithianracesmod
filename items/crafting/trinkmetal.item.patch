@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal cube, easily stored and ready for crafting.",
+    "value": "Металлический куб, легко хранится и готов к изготовлению.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Metal",
+    "value": "Тринкян Металл",
     "path": "/shortdescription",
     "op": "replace"
   }

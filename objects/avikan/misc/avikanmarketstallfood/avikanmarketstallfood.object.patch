@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Food Stall",
+    "value": "Продуктовый ларек Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall full of alien food.",
+    "value": "Рыночный прилавок, полный инопланетной еды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A selection of alien food.",
+    "value": "Выбор инопланетной еды.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Alien meat, spices and other foods. Looks delicious.",
+    "value": "Чужеродное мясо, специи и другие продукты. Выглядит вкусно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Good meatsss, but bad greensss.",
+    "value": "Хорошее мясо, но плохая зелень.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wondering. What would this food taste like?",
+    "value": "Интересный. Каким будет вкус этой еды?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Alien food. It looks delicious, but I'm not sure if I should eat it.",
+    "value": "Инопланетная еда. Выглядит вкусно, но я не уверена, стоит ли это есть.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A varied meal is a blessing to all.",
+    "value": "Разнообразная еда – это счастье для всех.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This market stall has a wide array of Avikan food available.",
+    "value": "На этом рыночном прилавке представлен широкий выбор продуктов питания Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Traditional Kadavan food. The best there is.",
+    "value": "Традиционная еда Кадавана. Лучшее, что есть.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Avikan food. It has no value to non-organics.",
+    "value": "Авиканская еда. Он не имеет никакой ценности для неорганики.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected organic food.",
+    "value": "Обнаружены органические продукты питания.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki steal food here.",
+    "value": "Акки ворует здесь еду.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

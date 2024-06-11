@@ -1,71 +1,71 @@
 [
   {
-    "value": "Thelean Va'rahk",
+    "value": "Телеан Варак",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small Thelean scouting ship.",
+    "value": "Небольшой телеанский разведывательный корабль.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This ship looks unsettling. I hope it isn't some new Miniknog design.",
+    "value": "Этот корабль выглядит тревожно. Надеюсь, это не какой-то новый дизайн Miniknog.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wouldn't want to meet whatever piloted this ship...",
+    "value": "Я бы не хотел встретиться с тем, кто пилотировал этот корабль...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran dissslike sstrange shipss.",
+    "value": "Флорану не нравятся странные корабли.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Frightened. This ship looks ominous.",
+    "value": "Испуганный. Этот корабль выглядит зловеще.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm getting a bad feeling from this ship...",
+    "value": "У меня плохое предчувствие от этого корабля...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This ship feels like a bad omen. Nothing good will come of its presence here.",
+    "value": "Этот корабль кажется плохим предзнаменованием. Ничего хорошего от его присутствия здесь не получится.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I generally like spaceships, but this one creeps me out.",
+    "value": "Мне вообще нравятся космические корабли, но этот меня пугает.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Thelean Va'rahk. Officially a scouting ship, but it can easily tear through a Destroyer...",
+    "value": "Телеанский Варак. Официально это разведывательный корабль, но он легко может прорваться через Разрушитель...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "It's a Thell ship. This does not bode well...",
+    "value": "Это корабль Теллов. Это не сулит ничего хорошего...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "If only we understood how these Thelean ships function, we might be able to devise an efficient countermeasure.",
+    "value": "Если бы мы только поняли, как функционируют эти телеанские корабли, мы могли бы разработать эффективные меры противодействия.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Warning: Detected Thelean ship. Recommending extreme caution.",
+    "value": "Внимание: обнаружен телеанский корабль. Рекомендую крайнюю осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-thieves here, Akki careful. Sneak up, kill them all.",
+    "value": "Здесь боги-воры, Акки осторожнее. Подкрадитесь, убейте их всех.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

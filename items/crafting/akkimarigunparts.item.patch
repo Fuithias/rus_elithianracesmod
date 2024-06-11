@@ -1,11 +1,11 @@
 [
   {
-    "value": "Bits and pieces of a gun, retrieved from a dismantled ranged weapon.",
+    "value": "Части пистолета, извлеченные из разобранного оружия дальнего боя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Gun Parts",
+    "value": "Части оружия",
     "path": "/shortdescription",
     "op": "replace"
   }

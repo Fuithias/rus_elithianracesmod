@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Speaker's Platform",
+    "value": "Платформа спикера Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A platform.",
+    "value": "Платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "He who sspeaksss sstandsss here...",
+    "value": "Тот, кто-с-говор-с-стоит здесь...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A platform from which to address the public.",
+    "value": "Наблюдение. Платформа, с которой можно обращаться к публике.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A platform from which to address the public.",
+    "value": "Платформа, с которой можно обращаться к публике.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Platform. Used by Speakers to adress the public.",
+    "value": "Платформа. Используется ораторами для обращения к публике.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki stand here, talk to Akkimari.",
+    "value": "Акки встань здесь и поговори с Аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

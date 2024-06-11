@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised pair of Trink eyes.",
+    "value": "Окаменевшая пара глаз Тринка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trink Eyes",
+    "value": "Тринк глаз",
     "path": "/shortdescription",
     "op": "replace"
   }

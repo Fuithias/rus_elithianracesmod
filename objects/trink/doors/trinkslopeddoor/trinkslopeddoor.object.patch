@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Sloped Door",
+    "value": "Наклонная дверь Тринкиан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy sloped metal door of Trinkian design.",
+    "value": "Прочная наклонная металлическая дверь дизайна Trinkian.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy sloped metal door.",
+    "value": "Прочная наклонная металлическая дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny sloped door.",
+    "value": "Блестящая наклонная дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A sloped metal door.",
+    "value": "Заявление. Наклонная металлическая дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Cool sloped door.",
+    "value": "Классная наклонная дверь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy sloped metal door. Effective at keeping things out.",
+    "value": "Тяжелая наклонная металлическая дверь. Эффективен для защиты от ненужных вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fine sloped door made of strong metal. Ain't nothing coming through here.",
+    "value": "Красивая наклонная дверь из прочного металла. Здесь ничего не проходит.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A sloped door of Trinkian design.",
+    "value": "Наклонная дверь дизайна Trinkian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A sloped metal door built by machines.",
+    "value": "Наклонная металлическая дверь, построенная машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient way to seal off an entire compartment.",
+    "value": "Эффективный способ изолировать весь отсек.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected door. Analysis: Sloped model.",
+    "value": "Обнаружена дверь. Анализ: Наклонная модель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-sloped, slippery-very.",
+    "value": "Дверь-покосившаяся, скользкая-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

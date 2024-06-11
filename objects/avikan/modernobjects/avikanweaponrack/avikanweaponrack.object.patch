@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Weapon Rack",
+    "value": "Стойка для оружия Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wall-mounted weapons rack with a magnetic lock. There's place for more.",
+    "value": "Настенная оружейная стойка с магнитным замком. Есть место для большего.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not want to hang weaponss here. Floran keepss their weaponsss.",
+    "value": "Флоран не хочет вешать сюда оружие. Флоран сохраняет свое оружие.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. This is a type of wall-mounted weapon storage.",
+    "value": "Заявление. Это разновидность настенного хранилища оружия.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This wall-mounted weapons rack uses a magnetic lock to keep the weapons secure.",
+    "value": "В этой настенной стойке для оружия используется магнитный замок, обеспечивающий безопасность оружия.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-approved weapons rack. Analysis indicates one weapon has been signed out.",
+    "value": "Обнаружена стойка с оружием, одобренная Nomada. Анализ показывает, что одно оружие было снято с учета.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons-alien. Akki take them, use against aliens. Akki laugh!",
+    "value": "Оружие-инопланетное. Акки возьми их, используй против инопланетян. Акки смейся!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

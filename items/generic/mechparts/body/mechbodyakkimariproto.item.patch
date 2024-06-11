@@ -1,11 +1,11 @@
 [
   {
-    "value": "A basic mech body built by Akkimari scavengers.",
+    "value": "Базовый корпус робота, созданный мусорщиками Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Crusader-00 Mech Body",
+    "value": "Механическое тело Крестоносца-00",
     "path": "/shortdescription",
     "op": "replace"
   }

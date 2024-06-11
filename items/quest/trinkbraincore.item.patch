@@ -1,16 +1,16 @@
 [
   {
-    "value": "The brain core of a Trink unit.",
+    "value": "Мозговое ядро ​​устройства Trink.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Brain Core",
+    "value": "Тринкианское мозговое ядро",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

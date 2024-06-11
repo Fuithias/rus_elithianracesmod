@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Harnessing the Corruption III",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Использование Порчи III",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "The core you brought me won't do anything unless it's wired up using Thelean wiring, so I need you to gather some samples for me. Hunt down some Theleans or Violated Droden and Drahl, and bring me ^orange;4 Thelean Tendrils ^white; and ^orange;5 Thelean Metal Fragments^white;.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Ядро, которое вы принесли, не будет работать, пока оно не будет подключено с использованием телеанской проводки, так что мне нужно, чтобы вы собрали для меня образцы. Охотьтесь на телеанцев или поражённых дроденов и дралов, и принесите мне ^orange;4 телеанских сухожилия^white; и ^orange;5 телеанских металлических обломков^white;.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "With these samples, I can finish constructing the weapon... Here you go, Captain! Just be careful with that thing, alright?",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "С этими образцами я смогу закончить создание оружия... Вот, капитан! Будьте осторожны с этой штукой, ладно?",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Alliance Light Strip",
+    "value": "Световая полоса Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple light strip.",
+    "value": "Простая световая полоска.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple light strip.",
+    "value": "Простая световая полоска.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A light.",
+    "value": "Свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Light. Ssshiny.",
+    "value": "Свет. Ссшины.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A simple light.",
+    "value": "Наблюдение. Простой свет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A standard light.",
+    "value": "Стандартный свет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple light.",
+    "value": "Простой свет.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A slim, bright light, useful for when there isn't much space.",
+    "value": "Тонкий, яркий светильник, полезный, когда мало места.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient light.",
+    "value": "Эффективный свет.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Light.",
+    "value": "Свет.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Light.",
+    "value": "Свет.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-simple.",
+    "value": "Легко-просто.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

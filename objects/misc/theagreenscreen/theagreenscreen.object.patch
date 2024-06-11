@@ -1,11 +1,11 @@
 [
   {
-    "value": "Green Screen",
+    "value": "Зеленый экран",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "It isn't green at all!",
+    "value": "Он совсем не зеленый!",
     "path": "/description",
     "op": "replace"
   }

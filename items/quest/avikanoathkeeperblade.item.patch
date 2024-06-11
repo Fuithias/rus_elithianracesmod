@@ -1,16 +1,16 @@
 [
   {
-    "value": "The broken blade of a once-famous sword. Its still very sharp.",
+    "value": "Сломанное лезвие некогда знаменитого меча. Он все еще очень острый.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Broken Blade of Fame^white;",
+    "value": "^#BA66FF;Сломанный клинок славы^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

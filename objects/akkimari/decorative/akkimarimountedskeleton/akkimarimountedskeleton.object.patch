@@ -1,71 +1,71 @@
 [
   {
-    "value": "Mounted Akkimari Skeleton",
+    "value": "Конный скелет Аккимари",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A dead Akkimari brutally mounted on a spike.",
+    "value": "Мертвый Аккимари жестоко восседает на пике.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A dead alien, displayed in a cruel manner.",
+    "value": "Мертвый инопланетянин, изображенный в жестокой манере.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This is extremely dishonorable towards the dead...",
+    "value": "Это крайне непорядочно по отношению к мертвым...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssspike would make for good weapon. Jussst have to remove boness firssst.",
+    "value": "Ссспайк мог бы стать хорошим оружием. Просто сначала надо удалить кости.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Disgusted. Who would make such a thing?",
+    "value": "Отвращение. Кто бы сделал такое?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A barbaric display.",
+    "value": "Варварское зрелище.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This is just barbaric. Who would display a skeleton like this?",
+    "value": "Это просто варварство. Кто бы выставил напоказ такой скелет?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda dead alien. They didn't die well, I reckon.",
+    "value": "Какой-то мертвый инопланетянин. Думаю, они умерли не очень хорошо.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This is a barbaric display, even for the Akkimari.",
+    "value": "Это варварское зрелище даже для аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Aliens can be so brutal...",
+    "value": "Инопланетяне могут быть такими жестокими...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These were once the bones of a living and breathing Akkimari.",
+    "value": "Когда-то это были кости живого и дышащего Аккимари.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien remains. Analysis: Akkimari bones.",
+    "value": "Обнаружены останки инопланетянина. Анализ: кости Аккимари.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Spike-metal for Akkimari-dead.",
+    "value": "Шип-металл для Аккимари-мертв.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

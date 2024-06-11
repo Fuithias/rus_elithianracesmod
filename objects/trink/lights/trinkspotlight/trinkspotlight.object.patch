@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Spotlight",
+    "value": "Тринкян Прожектор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A directional light, for highlighting areas of interest.",
+    "value": "Направленный свет для освещения интересующих областей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "It's a light, it's sole purpose is to point at that thing.",
+    "value": "Это свет, его единственная цель — указать на эту штуку.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I should check out what the light is pointing at, it might be more interesting.",
+    "value": "Надо посмотреть, на что указывает свет, это может быть интереснее.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bright light shinesss on pretty objects.",
+    "value": "Яркий свет сияет на красивых предметах.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Humbled. This light is diligently performing it's one purpose.",
+    "value": "Смиренный. Этот свет усердно выполняет свою единственную цель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I should probably be more interested in what this light is aimed at.",
+    "value": "Наверное, меня больше должно интересовать, на что направлен этот свет.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This light is here to illuminate a subject more worthy of my interest than itself.",
+    "value": "Этот свет здесь, чтобы осветить предмет, более достойный моего интереса, чем он сам.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what this light could be pointin' at?",
+    "value": "Интересно, на что может указывать этот свет?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Perhaps I should be looking at whatever this light is pointing at.",
+    "value": "Возможно, мне следует смотреть на то, на что указывает этот свет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A bright light made to highlight something. Perhaps I should look at that something instead.",
+    "value": "Яркий свет, призванный что-то выделить. Возможно, мне стоит посмотреть на это что-то вместо этого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most efficient way to highlight something, but it does look good.",
+    "value": "Не самый эффективный способ выделить что-то, но выглядит хорошо.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Directional light. Recommend observing the highlighted area.",
+    "value": "Направленный свет. Рекомендуем обратить внимание на выделенную область.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki point light at things-important.",
+    "value": "Акки направляет свет на важные вещи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

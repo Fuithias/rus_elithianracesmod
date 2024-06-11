@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Excalibur Reborn II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Возрождение Экскалибура II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Now comes the hard part... You will need to obtain a small ^orange;Xanafian Shard^reset;. It powers the weapon, and without it, this magnificent blade is just that: a blade. ^green;Explore the galaxy and find a ^orange;Centensian Relic ^reset;- a small hovering cube - in one of those ^orange;old ruins^reset;. It should contain a Shard.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Теперь начинается самое сложное... Вам нужно будет достать небольшой ^orange;осколок ксанафира^reset;. Он питает оружие, и без него этот великолепный клинок просто клинок. ^green;Исследуйте галактику и найдите ^orange;центенскую реликвию^reset; - маленький парящий куб - в одной из тех ^orange;старых руин^reset;. Внутри должен быть осколок.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "That's exactly what we were looking for! Now to actually extract the Shard from the relic...",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это именно то, что мы искали! Теперь надо действительно извлечь осколок из реликвии...",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Хадаеко ^reset;в ^orange;посольстве Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

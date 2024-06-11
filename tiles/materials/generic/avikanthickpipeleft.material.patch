@@ -1,36 +1,36 @@
 [
   {
-    "value": "Big Pipe Left",
+    "value": "Большая труба Слева",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The left half of a very thick pipe.",
+    "value": "Левая половина очень толстой трубы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. A lot could fit inside such a pipe.",
+    "value": "Наблюдение. В такую трубу много что может поместиться.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Big pipess...",
+    "value": "Большие трубы...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A bigg'r pipe than any I've seen before.",
+    "value": "Труба больше, чем я когда-либо видел.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Large pipe.",
+    "value": "Анализ завершен. Большая труба.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pipe-large, Akki could almost crawl through.",
+    "value": "Труба-большая, акки мог бы почти проползти через неё.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

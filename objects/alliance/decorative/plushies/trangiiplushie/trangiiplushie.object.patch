@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trangii Plushie",
+    "value": "Трангии Плюшевые",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A toy Trangii made of soft fabrics.",
+    "value": "Игрушка Трангии из мягких тканей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A stuffed animal Not sure what animal this is supposed to be, though.",
+    "value": "Чучело животного. Хотя я не уверен, что это за животное.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A stuffed animal. A toy for young ones.",
+    "value": "Чучело животного. Игрушка для самых маленьких.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss thiss one cute.",
+    "value": "Флорану это кажется милым.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Adoring. This plushie is cute.",
+    "value": "Обожаю. Этот плюшевый милый.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's like a plushie space dog. I love it!",
+    "value": "Это как плюшевая космическая собака. Я люблю это!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A strange but adorable creature.",
+    "value": "Странное, но очаровательное существо.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda dog.",
+    "value": "Какая-то собака.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A plushie Trangii. Quite popular in the Union.",
+    "value": "Плюшевый Транги. Довольно популярный в Союзе.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A toy version of an alien animal.",
+    "value": "Игрушечная версия инопланетного животного.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Toys provide entertainment, and this stuffed Trangii does not disappoint.",
+    "value": "Игрушки доставляют удовольствие, и эта мягкая игрушка Трангии не разочаровывает.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien toy.",
+    "value": "Обнаружена инопланетная игрушка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Look like food-good.",
+    "value": "Вроде еда-хорошая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

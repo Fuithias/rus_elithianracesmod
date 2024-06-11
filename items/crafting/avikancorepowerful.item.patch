@@ -1,11 +1,11 @@
 [
   {
-    "value": "The power core of an Avikan armour piece. Increases the user's strength.",
+    "value": "Силовое ядро ​​авиканской брони. Увеличивает силу пользователя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Powerful Power Core",
+    "value": "Мощное силовое ядро",
     "path": "/shortdescription",
     "op": "replace"
   }

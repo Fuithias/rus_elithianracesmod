@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Personalized Warfare II",
+    "value": "^green;Персонализированная Война II",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "I've got some more weapon attachments in store for you, if you can beat my next challenge. I want you to ^green;find and kill ^orange;5 Sandspitters^reset;, but it won't be easy! ^green;You can find the large worm-like beasts on desert worlds ^reset;- watch out for the sand they spit at you!",
+    "value": "У меня есть еще несколько дополнительных модулей для оружия, если вы справитесь с моим следующим испытанием. Я хочу, чтобы вы ^green;нашли и убили ^orange;5 Пескоструев^reset;, но это будет нелегко! ^green;Этих больших червеобразных существ можно найти на пустынных мирах^reset; - остерегайтесь песка, который они плюют!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "I wasn't sure if you'd beat that one, but I guess I was wrong to doubt you! You've earned yourself access to a few more powerful weapon attachments!",
+    "value": "Я сомневался, что вы справитесь, но, похоже, ошибся! Вы заслужили доступ к нескольким более мощным дополнительным модулям для оружия!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Аберосу^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

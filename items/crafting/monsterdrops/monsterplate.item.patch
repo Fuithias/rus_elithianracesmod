@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong bone plate from an alien monster.",
+    "value": "Прочная костяная пластина инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Plate",
+    "value": "Монстр Тарелка",
     "path": "/shortdescription",
     "op": "replace"
   }

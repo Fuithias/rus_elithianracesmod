@@ -1,71 +1,71 @@
 [
   {
-    "value": "Union Pride Flag",
+    "value": "Флаг гордости Союза",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Aeginian Federal Union flag that represents unity and inclusivity. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "value": "Флаг Эгинского федерального союза, олицетворяющий единство и инклюзивность. Используйте ^green;[E]^white; чтобы добавить в закладки место телепортации.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A Union flag. I can use this as a waypoint for teleportation.",
+    "value": "Флаг Союза. Я могу использовать это как точку для телепортации.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This Union flag can be bookmarked as a destination for my ship teleporter.",
+    "value": "Этот флаг Союза можно добавить в закладки как пункт назначения для телепорта моего корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Union flag makess good point to teleport back to ussing teleporter!",
+    "value": "Флаг Союза дает хороший повод телепортироваться обратно с помощью телепорта!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observant. A small locator module attached to this Union flag allows it to be bookmarked for teleportation.",
+    "value": "Наблюдательный. Небольшой модуль локатора, прикрепленный к этому флагу Союза, позволяет добавить его в закладки для телепортации.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This Union flag can be saved as a location for my teleporter. Then I can return to it any time.",
+    "value": "Этот флаг Союза можно сохранить как место для моего телепорта. Тогда я смогу вернуться к нему в любой момент.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This Union flag can act as a way point, enabling me to return to this point using a teleporter.",
+    "value": "Этот флаг Союза может выступать в качестве промежуточной точки, позволяя мне вернуться в эту точку с помощью телепорта.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I can bookmark this Union flag for quick teleportin'.",
+    "value": "Я могу добавить этот флаг Союза в закладки, чтобы быстро телепортироваться.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Union flag. My ship's teleporter can sync with its location so I can return here later.",
+    "value": "Флаг Союза. Телепорт моего корабля может синхронизироваться с его местоположением, чтобы я мог вернуться сюда позже.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Union flag. The ship's teleporter can lock on to the locator module inside it, so I can return here later.",
+    "value": "Флаг Союза. Телепорт корабля может зафиксироваться на модуле локатора внутри него, так что я смогу вернуться сюда позже.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A locator module inside this Union flag allows my ship's teleporter to bookmark this location.",
+    "value": "Модуль локатора внутри этого флага Союза позволяет телепорту моего корабля добавить это место в закладки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Union flag. Detected locator module. Ship teleportation system can lock on to this location.",
+    "value": "Флаг Союза. Обнаружен модуль локатора. Система телепортации корабля может зафиксироваться на этом месте.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Flag of Union-Aegi, colourful and pretty.",
+    "value": "Флаг Союза-Эги, красочный и красивый.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

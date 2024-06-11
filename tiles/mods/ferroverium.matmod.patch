@@ -1,31 +1,31 @@
 [
   {
-    "value": "Some Ferroverium ore. Quite a find!",
+    "value": "Ферровериевая руда. Отличная находка!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Excited. This looks like Ferroverium ore.",
+    "value": "Возбужден. Похоже на ферровериевую руду.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss fasscinated by sshiny oress.",
+    "value": "Флоран очарован блестящими рудами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ferroverium, if I ain't mistaken.",
+    "value": "Ферроверий, если не ошибаюсь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected ferroverium ore deposit. Recommend immediate extraction.",
+    "value": "Обнаружено месторождение ферровериевой руды. Рекомендуется немедленная добыча.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki mine ferroverium, make materials-new.",
+    "value": "Акки добывает ферроверий, делает новые материалы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

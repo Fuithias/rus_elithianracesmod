@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Ceiling Monitor",
+    "value": "Потолочный монитор Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A ceiling-mounted monitor.",
+    "value": "Потолочный монитор.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sleek monitor.",
+    "value": "Шикарный монитор.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This monitor shines.",
+    "value": "Этот монитор блестит.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny sscreen.",
+    "value": "Сс блестящий экран.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A ceiling-mounted monitor.",
+    "value": "Наблюдение. Потолочный монитор.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a monitor mounted to the ceiling.",
+    "value": "Это монитор, прикрепленный к потолку.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A sleek ceiling-mounted monitor.",
+    "value": "Элегантный потолочный монитор.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some monitor.",
+    "value": "Какой-то монитор.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A sleek monitor.",
+    "value": "Шикарный монитор.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien-built monitor.",
+    "value": "Монитор, созданный инопланетянами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A ceiling-mounted monitor.",
+    "value": "Потолочный монитор.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien interface.",
+    "value": "Обнаружен инопланетный интерфейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screen-shiny.",
+    "value": "Экран-блестящий.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

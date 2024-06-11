@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Antenna",
+    "value": "Авикан Антенна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An antenna, for sending and receiving radio messages.",
+    "value": "Антенна для отправки и получения радиосообщений.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A high antenna, it must have a very long range.",
+    "value": "Высокая антенна, она должна иметь очень большую дальность действия.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna adorned with a leather sheet. Odd.",
+    "value": "Антенна, украшенная кожаным полотном. Странный.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal antenna makesss for good spearsss...",
+    "value": "Металлическая антенна хороша для хорошего копья...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Alarmed. This device is causing my communication systems to malfunction.",
+    "value": "Встревожен. Это устройство вызывает сбои в моей системе связи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A long antenna. What's that leather sheet for?",
+    "value": "Длинная антенна. Для чего нужен этот кожаный лист?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna like this wouldn't function underwater.",
+    "value": "Такая антенна не будет работать под водой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A large antenna. I wonder what the leather sheet is for?",
+    "value": "Большая антенна. Интересно, для чего нужен кожаный лист?",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Antennas like these allow our colonies to contact the fleet.",
+    "value": "Подобные антенны позволяют нашим колониям связываться с флотом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This antenna is jamming my own radio transmitters.",
+    "value": "Эта антенна глушит мои собственные радиопередатчики.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Receiving radio signal. Analyzing.",
+    "value": "Прием радиосигнала. Анализируем.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Antenna-strong, receive signals.",
+    "value": "Антенна мощная, принимает сигналы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

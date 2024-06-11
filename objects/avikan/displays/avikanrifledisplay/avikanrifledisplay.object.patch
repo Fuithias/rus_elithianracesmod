@@ -1,66 +1,66 @@
 [
   {
-    "value": "Vanguard Rifle Display",
+    "value": "Выставка винтовок «Авангард»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan assault rifle on display.",
+    "value": "На выставке представлен автомат Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An alien weapon on display. It looks intimidating.",
+    "value": "На выставке представлено инопланетное оружие. Это выглядит устрашающе.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An assault rifle designed by an alien race.",
+    "value": "Штурмовая винтовка, созданная инопланетной расой.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not understand how ssshoot ssticks works...",
+    "value": "Флоран не понимает, как работает сссшотсстикс...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysing. This weapon is built from an unusual metal alloy.",
+    "value": "Анализ. Это оружие изготовлено из необычного металлического сплава.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien assault rifle. I wouldn't like being on the receiving end of this gun.",
+    "value": "Инопланетная штурмовая винтовка. Мне бы не хотелось оказаться под прицелом этого пистолета.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien weapon. Its design is rather unusual.",
+    "value": "Инопланетное оружие. Его дизайн довольно необычен.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan assault rifle, no longer in service.",
+    "value": "Автомат «Авикан», больше не находится на вооружении.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A Vanguard assault rifle. A tool of freedom.",
+    "value": "Автомат Авангарда. Инструмент свободы.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This Avikan weapon uses a surprisingly efficient feeding mechanism.",
+    "value": "В этом оружии Авикан используется удивительно эффективный механизм подачи.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Vanguard Assault Rifle detected. Owner: unknown.",
+    "value": "Обнаружена штурмовая винтовка Vanguard. Владелец: неизвестен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Gun-alien, for killing. Akki like.",
+    "value": "Инопланетянин, за убийство. Акки вроде.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

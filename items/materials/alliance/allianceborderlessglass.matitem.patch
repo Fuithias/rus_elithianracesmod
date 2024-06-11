@@ -1,11 +1,11 @@
 [
   {
-    "value": "Triple-pane glass-like plastic, perfectly insulated.",
+    "value": "Трехслойный пластик, напоминающий стекло, с отличной изоляцией.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Borderless Alliance Glass",
+    "value": "Стекло Альянса без границ",
     "path": "/shortdescription",
     "op": "replace"
   }

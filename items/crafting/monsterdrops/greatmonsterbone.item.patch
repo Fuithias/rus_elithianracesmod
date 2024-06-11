@@ -1,11 +1,11 @@
 [
   {
-    "value": "High quality bones from an alien monster.",
+    "value": "Высококачественные кости инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Great Monster Bone",
+    "value": "Большая кость монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

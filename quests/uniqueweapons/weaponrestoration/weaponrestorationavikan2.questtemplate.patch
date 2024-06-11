@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Restoring The Past II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Восстановление Прошлого II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Now that we have a shard of the Xanafir, we can start repairing the weapon. The weaponsmith, Ayurin, can help us with that. ^green;Take your ^orange;Broken Spear ^green;and the ^orange;Xanafian Shard ^green;to Ayurin^white;, and he'll tell you what he needs to make the repairs.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Теперь, когда у нас есть осколок ксанафира, мы можем начать ремонт оружия. Оружейник Айурин может помочь нам с этим. ^green;Возьмите своё ^orange;Сломанное копьё ^green;и ^orange;Ксанафианский Осколок ^green;к Айурину^white;, и он скажет вам, что ему нужно для ремонта.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Is that truly a Vha'leihan Spear? Incredible! I would be honoured to repair it for you, Captain!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это действительно копьё Вха'лейхана? Невероятно! Для меня будет честью починить его для вас, капитан!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Visit ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Посетите ^orange;Айурина ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

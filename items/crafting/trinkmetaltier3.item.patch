@@ -1,11 +1,11 @@
 [
   {
-    "value": "A hardened metal cube, easily stored and ready for crafting.",
+    "value": "Куб из закаленного металла, легко хранится и готов к изготовлению.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hard Trinkian Metal",
+    "value": "Твердый тринкианский металл",
     "path": "/shortdescription",
     "op": "replace"
   }

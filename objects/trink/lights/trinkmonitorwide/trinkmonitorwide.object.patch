@@ -1,66 +1,66 @@
 [
   {
-    "value": "Wide Trinkian Monitor",
+    "value": "Широкий монитор Тринкиан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A monitor displaying some information.",
+    "value": "Монитор, отображающий некоторую информацию.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I guess this monitor shows a lot of information, but I don't understand any of it.",
+    "value": "Я думаю, этот монитор показывает много информации, но я ничего в ней не понимаю.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what all these lines mean?",
+    "value": "Интересно, что означают все эти строки?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesn't underssstand ssshiny ssscreen...",
+    "value": "Флоран не понимает сссшный экран...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Incapability. I am unable to read this information.",
+    "value": "Недееспособность. Я не могу прочитать эту информацию.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Mhm. Yeah. I have no idea what all this information means.",
+    "value": "Мм. Ага. Я понятия не имею, что означает вся эта информация.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This monitor displays some information, but what it means is a mystery to me.",
+    "value": "Этот монитор отображает какую-то информацию, но что она означает, для меня загадка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian monitor displaying encoded information.",
+    "value": "Тринкианский монитор, отображающий закодированную информацию.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This monitor displays information in a way I don't understand.",
+    "value": "Этот монитор отображает информацию так, как я не понимаю.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This monitor displays over a 128GBs of data per second. Few can decrypt it all at the same rate.",
+    "value": "Этот монитор отображает более 128 ГБ данных в секунду. Мало кто сможет расшифровать все это с одинаковой скоростью.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien interface detected. Unable to translate.",
+    "value": "Обнаружен инопланетный интерфейс. Невозможно перевести.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screen-alien, Akki no read...",
+    "value": "Экранно-чужой, Акки не читает...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akkimari Skulls",
+    "value": "Аккимари Черепа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pile of Akkimari skulls.",
+    "value": "Куча черепов Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alien skulls. Kinda creepy.",
+    "value": "Чужие черепа. Своего рода жутко.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A creepy pile of skulls.",
+    "value": "Жуткая куча черепов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Skullsss on top of sskullsss.",
+    "value": "Черепа поверх сскаллсс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appalled. What happened here?",
+    "value": "Потрясен. Что здесь случилось?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Someone's been on a killing spree...",
+    "value": "Кто-то устроил убийство...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The skulls of deceased aliens. What a sad sight...",
+    "value": "Черепа умерших инопланетян. Какое печальное зрелище...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Strange skulls, piled on top of each other.",
+    "value": "Странные черепа, сложенные друг на друга.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Akkimari skulls. What a shame.",
+    "value": "Черепа Аккимари. Какой позор.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Strange alien skulls.",
+    "value": "Странные черепа пришельцев.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These are Akkimari skulls. I should be careful around here...",
+    "value": "Это черепа Аккимари. Мне здесь следует быть осторожным...",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien remains. Analysis: Akkimari skulls.",
+    "value": "Обнаружены останки инопланетянина. Анализ: черепа Аккимари.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akkimari dead now. Skulls remain.",
+    "value": "Аккимари уже мертв. Черепа остались.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

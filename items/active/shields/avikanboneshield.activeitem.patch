@@ -1,6 +1,6 @@
 [
   {
-    "value": "^gray;Плита с кости чудовища.",
+    "value": "^gray;Плита с кости монстра.",
     "path": "/description",
     "op": "replace"
   },

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A heap of scrap metal.",
+    "value": "Куча металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Scrap Metal",
+    "value": "Металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

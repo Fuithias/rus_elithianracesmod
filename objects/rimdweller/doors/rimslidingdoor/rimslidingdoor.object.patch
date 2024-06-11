@@ -1,71 +1,71 @@
 [
   {
-    "value": "Rim Sliding Door",
+    "value": "Раздвижная дверь с ободом",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sleek sliding door.",
+    "value": "Изящная раздвижная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple sliding door.",
+    "value": "Простая раздвижная дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This door will slide into the wall when opened.",
+    "value": "Эта дверь упирается в стену при открытии.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssliding door is ssneaky.",
+    "value": "Раздвижная дверь хреновая.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Practical. Sliding doors save a lot of space.",
+    "value": "Практичный. Раздвижные двери экономят много места.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I hate it when these doors don't open quickly enough...",
+    "value": "Ненавижу, когда эти двери не открываются достаточно быстро...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A practical sliding door.",
+    "value": "Практичная раздвижная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I always liked these types of sliding doors.",
+    "value": "Мне всегда нравились такие раздвижные двери.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A rusty-looking sliding door.",
+    "value": "Ржавая на вид раздвижная дверь.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien sliding door.",
+    "value": "Инопланетная раздвижная дверь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient sliding door.",
+    "value": "Эффективная раздвижная дверь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected sliding door.",
+    "value": "Обнаружена раздвижная дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki open door, make woosh-woosh sound!",
+    "value": "Акки, открой дверь, издай звук «вуш-вуш»!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

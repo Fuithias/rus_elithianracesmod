@@ -1,11 +1,11 @@
 [
   {
-    "value": "Wetlands Microformer",
+    "value": "Микроформер для водно-болотных угодий",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Transforms an area of a planet into a wetland full of quicksand.",
+    "value": "Превращает часть планеты в заболоченную местность, полную зыбучих песков.",
     "path": "/description",
     "op": "replace"
   }

@@ -1,311 +1,311 @@
 [
   {
-    "value": "Don't cause trouble.",
+    "value": "Не создавай проблем.",
     "path": "/hail/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "The clan has its eye on you.",
+    "value": "Клан следит за тобой.",
     "path": "/hail/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Rhadeis watches you. Behave yourself.",
+    "value": "Радейс наблюдает за тобой. Веди себя прилично.",
     "path": "/hail/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Move along, stranger.",
+    "value": "Проходи дальше, незнакомец.",
     "path": "/hail/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Watch yourself here, stranger.",
+    "value": "Будь осторожен здесь, незнакомец.",
     "path": "/hail/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "I've got my eye on you.",
+    "value": "Я слежу за тобой.",
     "path": "/hail/avikan/default/5",
     "op": "replace"
   },
   {
-    "value": "Hail, Captain.",
+    "value": "Приветствую, капитан.",
     "path": "/hail/avikan/avikan/0",
     "op": "replace"
   },
   {
-    "value": "Rhadeis watches us all, Captain.",
+    "value": "Радейс наблюдает за нами всеми, капитан.",
     "path": "/hail/avikan/avikan/1",
     "op": "replace"
   },
   {
-    "value": "Behave yourself here, Captain.",
+    "value": "Веди себя прилично здесь, капитан.",
     "path": "/hail/avikan/avikan/2",
     "op": "replace"
   },
   {
-    "value": "Is the perimeter secure?",
+    "value": "Периметр в безопасности?",
     "path": "/hail/avikan/avikan/3",
     "op": "replace"
   },
   {
-    "value": "Captain.",
+    "value": "Капитан.",
     "path": "/hail/avikan/avikan/4",
     "op": "replace"
   },
   {
-    "value": "The Clanguard will keep the peace here.",
+    "value": "Клангард обеспечит мир здесь.",
     "path": "/hail/avikan/avikan/5",
     "op": "replace"
   },
   {
-    "value": "Walk well, Captain.",
+    "value": "Иди с миром, капитан.",
     "path": "/hail/avikan/avikan/6",
     "op": "replace"
   },
   {
-    "value": "Greetings, stranger.",
+    "value": "Приветствую, незнакомец.",
     "path": "/hail/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am watching you.",
+    "value": "Я слежу за тобой.",
     "path": "/hail/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "You are welcome here, so long as you cause no trouble.",
+    "value": "Ты здесь желанный гость, если не будешь создавать проблем.",
     "path": "/hail/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "The Circuit greets you.",
+    "value": "Синтетический Союз приветствует тебя.",
     "path": "/hail/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "Behave yourself here.",
+    "value": "Веди себя прилично здесь.",
     "path": "/hail/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Don't cause any trouble.",
+    "value": "Не создавай проблем.",
     "path": "/hail/trink/default/5",
     "op": "replace"
   },
   {
-    "value": "Don't get any crazy ideas while you're here.",
+    "value": "Не строй безумных планов, пока ты здесь.",
     "path": "/hail/trink/avikan/0",
     "op": "replace"
   },
   {
-    "value": "I am watching you.",
+    "value": "Я слежу за тобой.",
     "path": "/hail/trink/avikan/1",
     "op": "replace"
   },
   {
-    "value": "We tolerate your kind, so long as you remain calm.",
+    "value": "Мы терпим таких, как ты, если ты остаешься спокойным.",
     "path": "/hail/trink/avikan/2",
     "op": "replace"
   },
   {
-    "value": "The Circuit watches you.",
+    "value": "Синтетический Союз наблюдает за тобой.",
     "path": "/hail/trink/avikan/3",
     "op": "replace"
   },
   {
-    "value": "Behave yourself here.",
+    "value": "Веди себя прилично здесь.",
     "path": "/hail/trink/avikan/4",
     "op": "replace"
   },
   {
-    "value": "Don't cause any trouble.",
+    "value": "Не создавай проблем.",
     "path": "/hail/trink/avikan/5",
     "op": "replace"
   },
   {
-    "value": "Please make certain you do not break any Circuit laws.",
+    "value": "Пожалуйста, убедись, что ты не нарушаешь законы Синтетического Союза.",
     "path": "/hail/trink/trink/0",
     "op": "replace"
   },
   {
-    "value": "The Circuit watches.",
+    "value": "Синтетический Союз наблюдает.",
     "path": "/hail/trink/trink/1",
     "op": "replace"
   },
   {
-    "value": "The Masters will know if you cause trouble.",
+    "value": "Хозяева узнают, если ты создашь проблемы.",
     "path": "/hail/trink/trink/2",
     "op": "replace"
   },
   {
-    "value": "Welcome, fellow Trink.",
+    "value": "Добро пожаловать, товарищ тринк.",
     "path": "/hail/trink/trink/3",
     "op": "replace"
   },
   {
-    "value": "Greetings, fellow Trink.",
+    "value": "Приветствую, товарищ тринк.",
     "path": "/hail/trink/trink/4",
     "op": "replace"
   },
   {
-    "value": "You are subject to the same laws as all of us, despite your status.",
+    "value": "Ты подчиняешься тем же законам, что и мы все, несмотря на твой статус.",
     "path": "/hail/trink/trink/5",
     "op": "replace"
   },
   {
-    "value": "Do not cause trouble. This unit is combat ready.",
+    "value": "Не создавай проблем. Этот юнит готов к бою.",
     "path": "/hail/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Detected suspicious individual.",
+    "value": "Обнаружен подозрительный субъект.",
     "path": "/hail/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "This unit will monitor your behaviour.",
+    "value": "Этот юнит будет следить за твоим поведением.",
     "path": "/hail/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Detected unknown individual. Monitoring behaviour.",
+    "value": "Обнаружен неизвестный субъект. Следим за поведением.",
     "path": "/hail/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "This unit is watching you.",
+    "value": "Этот юнит следит за тобой.",
     "path": "/hail/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Potential hazard detected. Monitoring behaviour.",
+    "value": "Обнаружена потенциальная угроза. Следим за поведением.",
     "path": "/hail/droden/default/5",
     "op": "replace"
   },
   {
-    "value": "Captain detected. Monitoring.",
+    "value": "Обнаружен капитан. Следим.",
     "path": "/hail/droden/avikan/0",
     "op": "replace"
   },
   {
-    "value": "This unit will guard the people.",
+    "value": "Этот юнит будет охранять людей.",
     "path": "/hail/droden/avikan/1",
     "op": "replace"
   },
   {
-    "value": "Detected civilian. Detected Captain status. Greeting.",
+    "value": "Обнаружен гражданский. Статус капитана подтвержден. Приветствую.",
     "path": "/hail/droden/avikan/2",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada Captain. Welcome.",
+    "value": "Обнаружен капитан Номада. Добро пожаловать.",
     "path": "/hail/droden/avikan/3",
     "op": "replace"
   },
   {
-    "value": "This unit is at your service.",
+    "value": "Этот юнит к вашим услугам.",
     "path": "/hail/droden/avikan/4",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih.",
+    "value": "Вас Вха'лейх.",
     "path": "/hail/droden/avikan/5",
     "op": "replace"
   },
   {
-    "value": "Unit is on duty. Please do not disturb.",
+    "value": "Юнит на дежурстве. Пожалуйста, не беспокоить.",
     "path": "/hail/droden/avikan/6",
     "op": "replace"
   },
   {
-    "value": "Detected Droden unit. Monitoring behaviour.",
+    "value": "Обнаружен юнит дродена. Следим за поведением.",
     "path": "/hail/droden/droden/0",
     "op": "replace"
   },
   {
-    "value": "Detected Droden unit.",
+    "value": "Обнаружен юнит дродена.",
     "path": "/hail/droden/droden/1",
     "op": "replace"
   },
   {
-    "value": "This unit stands vigil.",
+    "value": "Этот юнит стоит на страже.",
     "path": "/hail/droden/droden/2",
     "op": "replace"
   },
   {
-    "value": "Do not cause trouble. This unit is combat ready.",
+    "value": "Не создавай проблем. Этот юнит готов к бою.",
     "path": "/hail/droden/droden/3",
     "op": "replace"
   },
   {
-    "value": "Droden unit detected. Monitoring.",
+    "value": "Обнаружен юнит дродена. Следим.",
     "path": "/hail/droden/droden/4",
     "op": "replace"
   },
   {
-    "value": "Warning. Criminal behaviour will result in immediate termination.",
+    "value": "Предупреждение. Преступное поведение приведет к немедленной ликвидации.",
     "path": "/hail/droden/droden/5",
     "op": "replace"
   },
   {
-    "value": "Keep to the rules, alright?",
+    "value": "Соблюдай правила, ладно?",
     "path": "/hail/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm here to keep the peace.",
+    "value": "Я здесь, чтобы поддерживать порядок.",
     "path": "/hail/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Standing guard gets rather boring sometimes...",
+    "value": "Стоять на страже иногда становится довольно скучно...",
     "path": "/hail/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Move along.",
+    "value": "Проходи мимо.",
     "path": "/hail/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Disrespect the law, and you disrespect me.",
+    "value": "Неуважение к закону – это неуважение ко мне.",
     "path": "/hail/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Behave yourself while you're here, okay?",
+    "value": "Веди себя прилично, пока ты здесь, хорошо?",
     "path": "/hail/aegi/default/5",
     "op": "replace"
   },
   {
-    "value": "Akki keep place-this safe.",
+    "value": "Акки охраняет это место.",
     "path": "/hail/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki on duty-guard. Bugger off.",
+    "value": "Акки на дежурстве. Отвали.",
     "path": "/hail/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki guarding. Akki busy.",
+    "value": "Акки охраняет. Акки занят.",
     "path": "/hail/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "You move along. Akki busy guarding.",
+    "value": "Ты проходи мимо. Акки занят охраной.",
     "path": "/hail/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Duty-guard boring. Akki want something to happen.",
+    "value": "Дежурство скучное. Акки хочет, чтобы что-то произошло.",
     "path": "/hail/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Akki keep Akkimari safe. You no worry.",
+    "value": "Акки защитит аккимари. Не волнуйся.",
     "path": "/hail/akkimari/default/5",
     "op": "replace"
   }

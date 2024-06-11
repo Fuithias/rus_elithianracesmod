@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Avikan Crafting Techniques",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Техники Крафта Авикан",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "How would you like to learn more about Avikan crafting techniques? ^green;Gather special materials from a ^orange;Sandspitter^green;, ^orange;Sandcrawler^green;, ^orange;Stingwing Swarm^green;, and a ^orange;Valahr^white;, and I will give you an ^orange;Avikan Crafting Guide^white;, plus a ^orange;special blueprint ^white;for a weapon I'm working on.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Хотите узнать больше о техниках крафта Авикан? ^green;Соберите специальные материалы с ^orange;Пескоплюя^green;, ^orange;Пескокраба^green;, ^orange;Роя Жалокрыла^green; и ^orange;Валаара^white;, и я дам вам ^orange;Руководство по Крафту Авикан^white; и ^orange;специальный чертеж ^white;оружия, над которым я работаю.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Here you go, Captain. An Avikan Crafting Guide, and a blueprint for a truly unique weapon!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Вот, капитан. Руководство по Крафту Авикан и чертеж по-настоящему уникального оружия!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

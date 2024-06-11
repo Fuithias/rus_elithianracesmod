@@ -1,11 +1,11 @@
 [
   {
-    "value": "Toss these on some damp tilled soil to grow valval, a grass native to Akris.",
+    "value": "Бросьте их во влажную вспаханную почву, чтобы вырастить вальваль, траву, произрастающую в Акрисе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Valval Seeds",
+    "value": "Семена Вальвала",
     "path": "/shortdescription",
     "op": "replace"
   }

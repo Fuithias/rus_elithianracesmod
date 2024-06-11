@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dark metal found inside Centensian structures.",
+    "value": "Темный металл, найденный внутри центенсианских построек.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Reinforcement",
+    "value": "Центенсианское подкрепление",
     "path": "/shortdescription",
     "op": "replace"
   }

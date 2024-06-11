@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Drink",
+    "value": "Авикан Напиток",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A glass of Kadavan Cactus Juice.",
+    "value": "Стакан сока кактуса Кадаван.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Prickly cactus juice. Are there spines floating in it?",
+    "value": "Сок колючего кактуса. В нем плавают шипы?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Cactus juice, I think. There's some sort of thorns floating in it...",
+    "value": "Думаю, сок кактуса. В нем плавают какие-то шипы...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Drinksss.",
+    "value": "Пью.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Concerned. There are still spines in this cactus juice.",
+    "value": "Обеспокоенный. В соке кактуса еще есть колючки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not sure I want to drink that...",
+    "value": "Я не уверен, что хочу это пить...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A glass of cactus juice. The spines floating in it worry me.",
+    "value": "Стакан сока кактуса. Меня беспокоят плавающие в нем шипы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Cactus juice. It tastes alright, the those spines floating in it are painful.",
+    "value": "Кактусовый сок. На вкус он нормальный, но эти шипы, плавающие в нем, вызывают боль.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A glass of delicious cactus juice.",
+    "value": "Стакан вкусного сока кактуса.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Cactus juice. I am not sure why the Avikan like these better when there's spines in the juice.",
+    "value": "Кактусовый сок. Я не уверен, почему Авиканам они нравятся больше, если в соке есть шипы.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Kadavan cactus juice. Cactus spines included.",
+    "value": "Анализ завершен. Сок кактуса Кадаван. Колючки кактуса в комплекте.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki drink juice. Akki thirsty.",
+    "value": "Акки пьет сок. Акки хочет пить.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

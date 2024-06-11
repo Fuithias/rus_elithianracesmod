@@ -1,11 +1,11 @@
 [
   {
-    "value": "Trinkian-built electronic parts.",
+    "value": "Электронные компоненты производства Trinkian.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Electronics",
+    "value": "Тринкян Электроникс",
     "path": "/shortdescription",
     "op": "replace"
   }

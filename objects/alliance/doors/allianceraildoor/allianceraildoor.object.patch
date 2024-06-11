@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Rail Door",
+    "value": "Железнодорожная дверь Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A thick metal door with a rail going through it.",
+    "value": "Толстая металлическая дверь с проходящей через нее поручнем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rail goesss through the metal door.",
+    "value": "Рельс проходит через металлическую дверь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. This metal door has a rail going through it.",
+    "value": "Довольный. Через эту металлическую дверь проходит рельс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda door with a rail goin' through it.",
+    "value": "Какая-то дверь, через которую проходит рельс.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien door. Detected rail system inside.",
+    "value": "Обнаружена инопланетная дверь. Внутри обнаружена железнодорожная система.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Rail goes through door.",
+    "value": "Рельс проходит через дверь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

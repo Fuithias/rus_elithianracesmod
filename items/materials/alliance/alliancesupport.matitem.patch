@@ -1,11 +1,11 @@
 [
   {
-    "value": "Heavy structural support beams.",
+    "value": "Тяжелые опорные балки конструкции.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Support Beam",
+    "value": "Луч поддержки Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Large Alliance Crate",
+    "value": "Большой ящик Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large standardized metal container.",
+    "value": "Большой стандартизированный металлический контейнер.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A metal crate. Not much else to it.",
+    "value": "Металлический ящик. Ничего особенного.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what this crate might hold?",
+    "value": "Интересно, что может храниться в этом ящике?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Cratesss full of goodiesss!",
+    "value": "Красссс полон вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Bored. A simple metal crate.",
+    "value": "Скучающий. Простой металлический ящик.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is there loot inside?",
+    "value": "Внутри есть добыча?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A standardized metal crate. Sturdy, but relatively lightweight too.",
+    "value": "Стандартный металлический ящик. Прочный, но относительно легкий.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A crate. Quite basic.",
+    "value": "Ящик. Довольно простой.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standardized cargo crate. It's used throughout the Alliance.",
+    "value": "Стандартный грузовой ящик. Он используется во всем Альянсе.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal crate of alien design.",
+    "value": "Металлический ящик инопланетного дизайна.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Alliance uses efficiently-designed crates.",
+    "value": "Альянс использует эффективно спроектированные ящики.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crate. Akki store stuff here.",
+    "value": "Ящик. Akki хранит здесь вещи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

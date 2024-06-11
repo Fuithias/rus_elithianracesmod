@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Rail",
+    "value": "Акрисовый рельс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rail made of assorted scrap metal.",
+    "value": "Рельс, сделанный из разного металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Concerned. This rail does not look very sturdy.",
+    "value": "Обеспокоен. Этот рельс не выглядит очень прочным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal railsss made of sscrap.",
+    "value": "Металлические рельсы из металлолома.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Rusty ol' rails, that won't do.",
+    "value": "Ржавые старые рельсы, это не годится.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected rails. Material analysis: assorted scrap metal.",
+    "value": "Обнаружены рельсы. Материальный анализ: разный металлолом.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki ride rails, Akki have fun.",
+    "value": "Акки ездит по рельсам, акки веселится.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

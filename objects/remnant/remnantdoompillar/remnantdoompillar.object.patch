@@ -1,31 +1,31 @@
 [
   {
-    "value": "Cursed Pillar",
+    "value": "Проклятый столб",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This rock is not natural. I feel drained nearby it...",
+    "value": "Этот камень не природный. Я чувствую себя опустошенным рядом с ним...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran feelsss drained. Rock isss making Floran weak...",
+    "value": "Флоран чувствует себя опустошенным. Рок делает Флорана слабым...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Exhausted. This rock is making me feel weak and drained...",
+    "value": "Измученный. Этот камень заставляет меня чувствовать себя слабым и опустошенным...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "System malfunction. Energy levels draining. External interference detected.",
+    "value": "Неисправность системы. Уровни энергии истощаются. Обнаружено внешнее вмешательство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki-tired. Akki have trouble breathing... Rock-glowing feel wrong.",
+    "value": "Акки-устал. У Акки проблемы с дыханием... Светящиеся камни чувствуют себя нехорошо.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

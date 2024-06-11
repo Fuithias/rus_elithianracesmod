@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Excalibur Reborn IV",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Воскрешение Экскалибура IV",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "^green;You should head back to ^orange;Hadaeko^reset;, she'll want to have that Shard so you can finish your little project. Make sure to show me the weapon once it's finished - I'd love to see a true Excalibur-class shieldblade!",
-      "path": "/text",
-      "op": "replace"
+    "value": "^green;Вам следует вернуться к ^orange;Хадаеко^reset;, ей понадобится этот осколок, чтобы завершить ваш маленький проект. Обязательно покажите мне оружие, когда оно будет готово - я бы с удовольствием увидел настоящий Экскалибур-классовый щит-клинок!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "I knew Barnos would get the job done! Let me just assemble everything... Here you go: your fully restored Excalibur-class shieldblade!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Я знал, что Барнос справится с задачей! Дайте мне только собрать всё... Вот, держите: ваш полностью восстановленный экскалибур-классовый щит-меч!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Хадаеко ^reset;в ^orange;посольстве Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

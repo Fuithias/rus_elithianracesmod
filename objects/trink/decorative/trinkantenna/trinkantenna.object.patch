@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Antenna",
+    "value": "Тринкианская антенна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An antenna of Trinkian design.",
+    "value": "Антенна конструкции Тринкиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An antenna, for boosting radio signals.",
+    "value": "Антенна для усиления радиосигналов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A signal-boosting antenna.",
+    "value": "Антенна, усиливающая сигнал.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can use thiss as metal spearsss...",
+    "value": "Флоран может использовать это как металлическое копье...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Careful. This antenna is jamming some of my sensors.",
+    "value": "Осторожный. Эта антенна глушит некоторые из моих датчиков.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna. I wouldn't want to be poked with something this sharp.",
+    "value": "Антенна. Я бы не хотел, чтобы меня ткнули чем-то настолько острым.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna of sorts. I am not sure what the box below it does.",
+    "value": "Антенна какая-то. Я не уверен, что делает поле под ним.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian antenna. It can boost communication signals.",
+    "value": "Тринкианская антенна. Это может усилить сигналы связи.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna. It seems unnecessarily large.",
+    "value": "Антенна. Он кажется неоправданно большим.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A modern antenna, built for efficiency.",
+    "value": "Современная антенна, созданная для повышения эффективности.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Radio signal detected. Failed to decode message.",
+    "value": "Радиосигнал обнаружен. Не удалось декодировать сообщение.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Antenna-alien, send and receive signals from away-far.",
+    "value": "Антенна-инопланетянка, отправляющая и принимающая сигналы издалека.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

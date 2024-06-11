@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dark metal panel.",
+    "value": "Темная металлическая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dark Avikan Floor",
+    "value": "Темный Авикан Пол",
     "path": "/shortdescription",
     "op": "replace"
   }

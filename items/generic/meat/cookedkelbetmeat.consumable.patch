@@ -1,11 +1,11 @@
 [
   {
-    "value": "This delicious venison is illegal in most Union territories.",
+    "value": "Эта вкусная оленина запрещена законом на большинстве территорий Союза.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Cooked Kelbet Venison",
+    "value": "Приготовленная оленина Келбет",
     "path": "/shortdescription",
     "op": "replace"
   }

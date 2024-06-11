@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Tech Stall",
+    "value": "Технический ларек Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall full of Avikan tech.",
+    "value": "Рыночный прилавок, полный техники Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alien technology for sale? This might be useful...",
+    "value": "Инопланетные технологии продаются? Это может быть полезно...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A market stall! What are they selling?",
+    "value": "Рыночная палатка! Что они продают?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal birdsss for sssale.",
+    "value": "Металлические птицы на продажу.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. What sort of drones are these?",
+    "value": "Заинтригован. Что это за дроны?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Drones! The perfect toys for spying on your neighbors!",
+    "value": "Дроны! Идеальные игрушки для слежки за соседями!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A collection of alien technology.",
+    "value": "Коллекция инопланетных технологий.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A market stall full of alien tech.",
+    "value": "Рыночный прилавок, полный инопланетных технологий.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An assortment of Avikan technology.",
+    "value": "Ассортимент техники Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Whoever owns this stall sells Drahls, Droden and other tech.",
+    "value": "Тот, кто владеет этим ларьком, торгует Дралами, Дроденами и другими технологиями.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Despite their anti-AI culture, the Avikan use drones and other robots extensively.",
+    "value": "Несмотря на свою анти-ИИ-культуру, Авикан широко используют дроны и других роботов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected market stall. Scanning for nearby merchants...",
+    "value": "Обнаружен рыночный ларек. Сканирование ближайших торговцев...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki steal drones-alien here. Not buy.",
+    "value": "Акки воруют здесь дронов-инопланетян. Не покупай.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

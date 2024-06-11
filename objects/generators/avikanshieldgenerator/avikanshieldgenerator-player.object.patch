@@ -1,71 +1,71 @@
 [
   {
-    "value": "Nomada Shield Generator",
+    "value": "Генератор щита Кочевника",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A shield generator capable of protecting structures you've built from damage.",
+    "value": "Генератор щита, способный защитить построенные вами постройки от повреждений.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A shield generator.",
+    "value": "Генератор щита.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This generates a shield.",
+    "value": "Это создает щит.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Shieldsss!",
+    "value": "Щитсс!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Comforted. A shield generator.",
+    "value": "Утешен. Генератор щита.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This'll keep me safe!",
+    "value": "Это защитит меня!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A crude protection device.",
+    "value": "Грубое защитное устройство.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Who needs a shield anyhow?",
+    "value": "Кому вообще нужен щит?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A shield generator used for protecting colonies.",
+    "value": "Генератор щита, используемый для защиты колоний.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This shield generator will protect the Terve from damage.",
+    "value": "Этот генератор щита защитит Терве от повреждений.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This device will generate a shield to defend colonies from damage.",
+    "value": "Это устройство создаст щит для защиты колоний от повреждений.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected shield generator. Generates a shield to protect the surrounding area.",
+    "value": "Обнаружен генератор щита. Создает щит для защиты окружающей территории.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Generator-shield, protect regions from destruction.",
+    "value": "Генератор-щит, защищающий регионы от разрушения.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Juicy, tasteful berries full of vitamins.",
+    "value": "Сочные, вкусные ягоды, полные витаминов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vahlberries",
+    "value": "Валберри",
     "path": "/shortdescription",
     "op": "replace"
   }

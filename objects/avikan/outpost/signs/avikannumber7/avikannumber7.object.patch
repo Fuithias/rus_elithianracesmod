@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number Seven",
+    "value": "Номер семь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number seven, in the Avikan Script.",
+    "value": "Номер семь в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number seven in an alien script.",
+    "value": "Номер семь в инопланетном сценарии.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is seven.",
+    "value": "Чужой номер. Я считаю, что это семь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means seven.",
+    "value": "Информирован. Этот инопланетный символ означает семь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Seven in some alien script.",
+    "value": "Семь в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number seven.",
+    "value": "Инопланетный символ числа семь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means seven.",
+    "value": "Кажется, это число означает семь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number seven.",
+    "value": "Номер семь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. Seven.",
+    "value": "Число. Семь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. Seven, Akki thinks.",
+    "value": "Номер-чужой. Семь, думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal cube of an otherwordly material.",
+    "value": "Металлический куб из потустороннего материала.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Metal",
+    "value": "Центенсийский металл",
     "path": "/shortdescription",
     "op": "replace"
   }

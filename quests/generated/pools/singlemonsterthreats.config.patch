@@ -1,21 +1,21 @@
 [
   {
-    "value": "Giant Sandspitter",
+    "value": "Гигантский Пескоплев",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Elite Drahl",
+    "value": "Элитный Драл",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Akkimari Justicar",
+    "value": "Судья Аккимари",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Ce'Tennan Oculus",
+    "value": "Це'Теннан Окулус",
     "path": "/0/1/-/1/name",
     "op": "replace"
   }

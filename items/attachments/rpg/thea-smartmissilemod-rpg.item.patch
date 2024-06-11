@@ -1,6 +1,6 @@
 [
   {
-    "value": "Rocket launcher ammunition that tracks targets autonomously.",
+    "value": "Боеприпасы для ракетной установки, автономно сопровождающие цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Smart Missile",
+    "value": "Умная ракета",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Metal plating used as an inner wall.",
+    "value": "В качестве внутренней стены используется металлическая обшивка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Inner Wall",
+    "value": "Акрис Внутренняя Стена",
     "path": "/shortdescription",
     "op": "replace"
   }

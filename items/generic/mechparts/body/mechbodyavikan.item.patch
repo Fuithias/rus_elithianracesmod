@@ -1,11 +1,11 @@
 [
   {
-    "value": "A highly durable mech body, designed by the Vanguard.",
+    "value": "Очень прочный корпус робота, разработанный Vanguard.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vanguard Mech Body",
+    "value": "Авангардное тело меха",
     "path": "/shortdescription",
     "op": "replace"
   }

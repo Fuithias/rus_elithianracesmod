@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Bounty Nanoprojector",
+    "value": "Акрис Баунти Нанопроектор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A nanoprojector displaying a notice about a bounty.",
+    "value": "Нанопроектор, отображающий уведомление о награде.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A strange device. It looks like a holographic projector, but the image seems to be physical...",
+    "value": "Странное устройство. Похоже на голографический проектор, но изображение кажется физическим...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of hologram? There's something off about it.",
+    "value": "Какая-то голограмма? В этом есть что-то неладное.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran confussed. Looksss like hologram, but Floran can touch it.",
+    "value": "Флоран растерялся. Выглядит как голограмма, но Флоран может ее потрогать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Baffled. This looked like a hologram at first, but it seems to be a physical display.",
+    "value": "Сбит с толку. Сначала это выглядело как голограмма, но похоже, что это физический дисплей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of odd holographic projection. I can actually feel the image when I touch it!",
+    "value": "Какая-то странная голографическая проекция. Я действительно чувствую изображение, когда прикасаюсь к нему!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I thought it was a hologram, but there is something off about it.",
+    "value": "Я думал, что это голограмма, но что-то в этом не так.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's no hologram. I sense tiny particles inside the projection!",
+    "value": "Это не голограмма. Я чувствую крошечные частицы внутри проекции!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A hologram-like projection. It seems to be about a bounty placed on some Thelean...",
+    "value": "Проекция, похожая на голограмму. Кажется, речь идет о награде, назначенной на какого-то телеанца...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strange alien holographic display. It's saying something about the Thell.",
+    "value": "Странный инопланетный голографический дисплей. Это что-то говорит о Телле.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This projector is surprisingly efficient. It doesn't create a traditional hologram, but rather releases nanites to form an image in the air.",
+    "value": "Этот проектор удивительно эффективен. Он не создает традиционную голограмму, а выделяет наниты, формирующие изображение в воздухе.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected holographic display. Error. Further analysis suggests device emits nanites. Detected Thelean imagery. Error.",
+    "value": "Обнаружен голографический дисплей. Ошибка. Дальнейший анализ показывает, что устройство излучает наниты. Обнаружены телеанские изображения. Ошибка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki see bounty, Akki hunt down Thellar. Akki like the hunt!",
+    "value": "Акки видит награду, Акки выслеживает Теллара. Акки любит охоту!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

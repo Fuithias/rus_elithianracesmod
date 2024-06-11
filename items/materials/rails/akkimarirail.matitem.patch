@@ -1,11 +1,11 @@
 [
   {
-    "value": "A rail made of assorted scrap metal.",
+    "value": "Рельс из разного металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akkimari Rail",
+    "value": "Аккимари Железная дорога",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Sheet",
+    "value": "Авикан Лист",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet attached to the side of buildings.",
+    "value": "Кожаный лист, прикрепленный к стене здания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple leather sheet.",
+    "value": "Простой кожаный лист.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet. Rather dull.",
+    "value": "Кожаный лист. Довольно скучно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather makesss Floran want to huntsss.",
+    "value": "Кожа вызывает у Флорана желание охотиться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A simple leather sheet.",
+    "value": "Наблюдение. Простой кожаный лист.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet, plain and simple.",
+    "value": "Кожаный лист, простой и простой.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic leather sheet.",
+    "value": "Простой кожаный лист.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet, plain 'n simple.",
+    "value": "Кожаный лист, простой и понятный.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple sheet of leather, to be attached to the side of a building.",
+    "value": "Простой лист кожи, который можно прикрепить к стене здания.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet. It is mostly decorative.",
+    "value": "Кожаный лист. В основном он носит декоративный характер.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet.",
+    "value": "Кожаный лист.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected leather sheet.",
+    "value": "Обнаружен кожаный лист.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sheet-leather.",
+    "value": "Лист-кожа.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Alliance Server Rack",
+    "value": "Серверная стойка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rack filled with Alliance data servers.",
+    "value": "Стойка, заполненная серверами данных Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A server rack. I wonder what sort of data it contains?",
+    "value": "Серверная стойка. Интересно, какие данные он содержит?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny server rack. What might it be processing?",
+    "value": "Блестящая серверная стойка. Что это может быть за обработка?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not underssstand beepy boxess...",
+    "value": "Флоран не понимает гудящих коробок...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Interested. This server rack must process incredible amounts of data.",
+    "value": "Заинтересовано. Эта серверная стойка должна обрабатывать невероятные объемы данных.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A server rack with internal cooling. Awesome!",
+    "value": "Серверная стойка с внутренним охлаждением. Потрясающий!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A server rack. What sort of fascinating things might it be processing?",
+    "value": "Серверная стойка. Какие интересные вещи он может обрабатывать?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A large server rack. The control console can be locked behind a gate.",
+    "value": "Большая серверная стойка. Пульт управления можно запереть за воротами.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A bunch of computers strapped together in a single construction.",
+    "value": "Связка компьютеров в единую конструкцию.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A server rack. It isn't quite as efficient as Trinkian alternatives, but it does its job well enough.",
+    "value": "Серверная стойка. Он не так эффективен, как альтернативы Тринкиана, но выполняет свою работу достаточно хорошо.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien data server rack. Hacking attempt failed.",
+    "value": "Обнаружена стойка сервера данных пришельцев. Попытка взлома не удалась.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Computers-alien. Akki learn things-many here!",
+    "value": "Компьютеры-инопланетяне. Акки учится вещам - их здесь много!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,56 +1,56 @@
 [
   {
-    "value": "^orange;Mech Part Crafting Table^white;",
+    "value": "^orange;Стол для изготовления деталей меха^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Used to produce modular mech components.",
+    "value": "Используется для производства модульных компонентов мехов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This table can be used to produce modular mech components.",
+    "value": "Этот стол можно использовать для изготовления модульных компонентов мехов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "With this table I can assemble modular mech components.",
+    "value": "С помощью этого стола я могу собирать модульные компоненты мехов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting ssstation for making mech parts.",
+    "value": "Крафтовая станция для изготовления деталей мехов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. This station is designed to assemble modular mech components",
+    "value": "Взволнованный. Эта станция предназначена для сборки модульных компонентов мехов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I can assemble modular mech components at this station.",
+    "value": "На этой станции я могу собирать модульные компоненты мехов.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This industrial looking table produces modular mech components.",
+    "value": "Этот стол промышленного вида производит модульные компоненты механизмов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "With this here table I could build some mech parts.",
+    "value": "С помощью этого стола я мог бы построить некоторые детали механизма.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected mech crafting station. Used to produce new mech parts.",
+    "value": "Обнаружена станция создания мехов. Используется для производства новых деталей мехов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki build parts-new here.",
+    "value": "Akki строит здесь новые детали.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

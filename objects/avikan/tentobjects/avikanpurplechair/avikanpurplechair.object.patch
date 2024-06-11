@@ -1,71 +1,71 @@
 [
   {
-    "value": "Rhaiod Cushion",
+    "value": "Подушка Райода",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather cushion.",
+    "value": "Простая кожаная подушка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A comfortable leather cushion.",
+    "value": "Удобная кожаная подушка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A leather cushion. Simple, but quite comfortable.",
+    "value": "Кожаная подушка. Просто, но довольно удобно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Cussshionsss for sssitting!",
+    "value": "Спасибо за сидение!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. This primitive leather cushion is quite comfortable.",
+    "value": "Удивлен. Эта примитивная кожаная подушка довольно удобна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple, comfortable cushion.",
+    "value": "Простая и удобная подушка.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly comfortable leather cushion.",
+    "value": "Удивительно удобная кожаная подушка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A leather cushion, eh?",
+    "value": "Кожаная подушка, да?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable leather cushion.",
+    "value": "Удобная кожаная подушка.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple collection of leather sheets piled onto each other.",
+    "value": "Простая коллекция кожаных листов, сложенных друг на друга.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather cushion.",
+    "value": "Простая кожаная подушка.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Common leather cushion.",
+    "value": "Анализ завершен. Обычная кожаная подушка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cushion-coloured, pretty-very.",
+    "value": "Цвета подушки, очень-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Storage Locker",
+    "value": "Шкафчик для хранения Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A nice, spacious, wall-mounted storage solution.",
+    "value": "Красивое, просторное настенное решение для хранения вещей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A locker made from metal.",
+    "value": "Шкафчик из металла.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A place to keep your things.",
+    "value": "Место для хранения ваших вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can ssstuff things into locker.",
+    "value": "Флоран может сспрятать вещи в шкафчик.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Neutral. A metallic storage locker.",
+    "value": "Нейтрально. Металлический шкафчик для хранения вещей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's an industrial looking storage locker.",
+    "value": "Это шкаф для хранения вещей промышленного вида.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Somewhere to store personal belongings.",
+    "value": "Где-то хранить личные вещи.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A locker in the wall.",
+    "value": "Шкафчик в стене.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A metal storage locker.",
+    "value": "Металлический шкафчик для хранения вещей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A storage locker built into the wall.",
+    "value": "Шкафчик для хранения вещей, встроенный в стену.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This storage locker is an efficient use of space.",
+    "value": "Этот шкафчик для хранения вещей позволяет эффективно использовать пространство.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected storage locker.",
+    "value": "Обнаружен шкафчик для хранения вещей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chest-wall, efficient.",
+    "value": "Грудная клетка, эффективная.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

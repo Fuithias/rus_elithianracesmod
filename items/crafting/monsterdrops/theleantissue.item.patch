@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sample of Thelean muscle tissue. It still moves.",
+    "value": "Образец телиальной мышечной ткани. Оно все еще движется.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thelean Tendril",
+    "value": "Телеанский усик",
     "path": "/shortdescription",
     "op": "replace"
   }

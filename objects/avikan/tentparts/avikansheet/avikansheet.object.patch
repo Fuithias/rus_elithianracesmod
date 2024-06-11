@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Sheet",
+    "value": "Авикан Лист",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sheet of leather, often hung between walls to provide a bit of shadow.",
+    "value": "Лист кожи, который часто вешают между стенами, чтобы создать немного тени.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sheet of leather, it casts a cool shadow during the day.",
+    "value": "Лист кожи, отбрасывающий прохладную тень днем.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Looks simple, but the shadow it casts is priceless.",
+    "value": "Выглядит просто, но тень, которую он отбрасывает, бесценна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sheetsss block out sssun...",
+    "value": "Листы блокируют ссссун...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This sheet is used to block out the sun during warm days.",
+    "value": "Наблюдение. Эта простыня используется для защиты от солнца в теплые дни.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple sheet, but the shadow it casts is welcome during the day.",
+    "value": "Простая простыня, но тень, которую она отбрасывает, приветствуется в течение дня.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A practical way to block out the sun during warm days.",
+    "value": "Практичный способ защититься от солнца в теплые дни.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A sheet of leather, used in the desert to block out the sun and provide a cool shadow.",
+    "value": "Лист кожи, используемый в пустыне для защиты от солнца и создания прохладной тени.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Sheets like these are essential in keeping our city streets from getting too hot.",
+    "value": "Подобные простыни необходимы для предотвращения перегрева на городских улицах.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This leather sheet can provide a cooling shadow by blocking out the desert's sun.",
+    "value": "Эта кожаная простыня может создать прохладную тень, защищая от солнца пустыни.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. This sheet can provide shade in the desert.",
+    "value": "Анализ. Этот лист может обеспечить тень в пустыне.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sheet-leather, cast a shadow.",
+    "value": "Лист-кожа, отбрасывающий тень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

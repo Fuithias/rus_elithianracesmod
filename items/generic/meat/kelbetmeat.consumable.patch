@@ -1,11 +1,11 @@
 [
   {
-    "value": "Raw venison banned from sale in most Union territories.",
+    "value": "Сырая оленина запрещена к продаже на большинстве территорий Союза.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Raw Kelbet Venison",
+    "value": "Сырая оленина Келбет",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Rhaiod Top Sheet",
+    "value": "Верхний лист Райода",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tent roof decorated in the style of the Rhaiod.",
+    "value": "Крыша шатра, оформленная в стиле Райода.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A purple tent roof.",
+    "value": "Фиолетовая крыша шатра.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tent roof made of purple fabric.",
+    "value": "Крыша шатра из фиолетовой ткани.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Purple tent roofsss.",
+    "value": "Фиолетовая палатка на крыше.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A purple-coloured tent roof.",
+    "value": "Наблюдение. Крыша шатра фиолетового цвета.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A sheet of purple fabric, it functions as a tent roof.",
+    "value": "Лист фиолетовой ткани выполняет функцию крыши палатки.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This tent roof is coloured an odd purple.",
+    "value": "Крыша этой палатки окрашена в странный фиолетовый цвет.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A top sheet decorated with the colours of the Rhaiod.",
+    "value": "Верхний лист украшен цветами Райода.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The top sheet of a Rhaiod tent. It always stands out in our camps.",
+    "value": "Верхний лист палатки Райод. В наших лагерях это всегда выделяется.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This top sheetis decorated with the colours of the Rhaiod.",
+    "value": "Этот верхний лист украшен цветами Райода.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Top sheet. Colour suggests this tent belongs to the Rhaiod.",
+    "value": "Верхний лист. Цвет предполагает, что эта палатка принадлежит Райоду.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sheet-top, for building tent.",
+    "value": "Листовой, для строительства палатки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

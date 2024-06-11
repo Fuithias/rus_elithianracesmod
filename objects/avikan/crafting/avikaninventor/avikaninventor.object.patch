@@ -1,211 +1,211 @@
 [
   {
-    "value": "^orange;Avikan Workman's Table^white;",
+    "value": "^orange;Стол рабочего Авикана^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Workman's table is used to construct various specialized crafting tables.",
+    "value": "Стол рабочего используется для создания различных специализированных верстаков.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A table with a bunch of bone craftman's tools.",
+    "value": "Стол с кучей инструментов мастера по кости.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "These crafting tools may be primitive, but they do their job perfectly.",
+    "value": "Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran ussse table to make more tablesss.",
+    "value": "Стол Floran Ussse, чтобы сделать больше столов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting table for crafting specialized crafting tables. Crafty!",
+    "value": "Верстак для изготовления специализированных верстаков. Лукаво!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A worktable used by the Avikan. One could craft more specialized equipment here.",
+    "value": "Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A workman's table. I can craft more specialized crafting tools here.",
+    "value": "Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting table used to craft other crafting tables. An inefficient solution.",
+    "value": "Верстак, используемый для изготовления других верстаков. Неэффективное решение.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workman's table. Used to construct various specialized crafting tables.",
+    "value": "Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use blueprint to craft things-many.",
+    "value": "Акки использует чертежи для создания многих вещей.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Avikan Workman's Table^white;",
+    "value": "^orange;Стол рабочего Авикана^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Workman's table is used to construct various specialized crafting tables.",
+    "value": "Стол рабочего используется для создания различных специализированных верстаков.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A table with a bunch of bone craftman's tools.",
+    "value": "Стол с кучей инструментов мастера по кости.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "These crafting tools may be primitive, but they do their job perfectly.",
+    "value": "Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran ussse table to make more tablesss.",
+    "value": "Стол Floran Ussse, чтобы сделать больше столов.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting table for crafting specialized crafting tables. Crafty!",
+    "value": "Верстак для изготовления специализированных верстаков. Лукаво!",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A worktable used by the Avikan. One could craft more specialized equipment here.",
+    "value": "Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A workman's table. I can craft more specialized crafting tools here.",
+    "value": "Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting table used to craft other crafting tables. An inefficient solution.",
+    "value": "Верстак, используемый для изготовления других верстаков. Неэффективное решение.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workman's table. Used to construct various specialized crafting tables.",
+    "value": "Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use blueprint to craft things-many.",
+    "value": "Акки использует чертежи для создания многих вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Avikan Artisan's Station^white;",
+    "value": "^orange;Станция ремесленников Авикан^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Artisan's station is used to construct various specialized crafting tables.",
+    "value": "Станция ремесленника используется для создания различных специализированных верстаков.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A modern artisan's workstation. The screen displays some complex blueprint.",
+    "value": "Рабочее место современного мастера. На экране отображается какой-то сложный чертеж.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A workstation where one could craft specialized crafting equipment.",
+    "value": "Рабочая станция, где можно было создавать специализированное ремесленное оборудование.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran ussse worksstation to make crafting toolss.",
+    "value": "Рабочая станция Floran Ussse для изготовления инструментов для крафта.",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. A true artisan could craft magnificent items here.",
+    "value": "Вдохновленный. Настоящий ремесленник сможет создать здесь великолепные изделия.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A high-tech artisan's table, for the modern craftsman.",
+    "value": "Высокотехнологичный стол для современного мастера.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "While the machine helps, only a true artisan can craft here.",
+    "value": "Хотя машина помогает, здесь может работать только настоящий ремесленник.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fancy screen to replace fragile blueprints. Very useful indeed.",
+    "value": "Причудливый экран на замену хрупких чертежей. Действительно очень полезно.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A workstation for Avikan artisans.",
+    "value": "Рабочее место для мастеров Авикан.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I can craft specialized crafting tools here.",
+    "value": "Здесь я могу изготовить специальные инструменты для крафта.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This machine makes the process of creating and archiving blueprints much more efficient.",
+    "value": "Эта машина делает процесс создания и архивирования чертежей намного более эффективным.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Artisan's station. Used to construct various specialized crafting tables.",
+    "value": "Анализ завершен. Станция Ремесленника. Используется для изготовления различных специализированных верстаков.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screen shows blueprints, useful for Akki.",
+    "value": "На экране показаны чертежи, полезные для Akki.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

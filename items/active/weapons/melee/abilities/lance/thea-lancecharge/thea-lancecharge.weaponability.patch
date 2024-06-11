@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Charge",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

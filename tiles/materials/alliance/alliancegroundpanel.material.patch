@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Ground Panel",
+    "value": "Наземная панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal panel often used to cover the floor.",
+    "value": "Металлическая панель, часто используемая для покрытия пола.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Informed. Such panels often serves as floorboards.",
+    "value": "Сообщение. Такие панели часто используются в качестве полов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran thinksss thiss panel iss for walking on.",
+    "value": "Флоран думает, что эта панель для хождения.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A metal floorboard... I prefer the sound of boots on wood.",
+    "value": "Металлический пол... Мне больше нравится звук ботинок по дереву.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal floorboard.",
+    "value": "Анализ завершен. Металлический пол.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panels for floor, Akki walk on.",
+    "value": "Панели для пола, акки ходит по ним.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

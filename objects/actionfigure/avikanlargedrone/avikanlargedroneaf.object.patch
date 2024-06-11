@@ -1,11 +1,11 @@
 [
   {
-    "value": "Elite Drahl Figurine",
+    "value": "Элитная статуэтка Драла",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A massive combat drone for supporting Avikan soldiers on the field.\"",
+    "value": "На этикетке написано: «Огромный боевой дрон для поддержки солдат Авикана на поле боя».",
     "path": "/description",
     "op": "replace"
   }

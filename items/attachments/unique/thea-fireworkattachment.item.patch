@@ -1,6 +1,6 @@
 [
   {
-    "value": "An underbarrel fireworks launcher to celebrate the Landing Festival!",
+    "value": "Подствольный фейерверк в честь Фестиваля высадки!",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Fireworks Launcher^reset;",
+    "value": "^orange;Панель запуска салюта^reset;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Explosive Barrel",
+    "value": "Авиканская взрывчатая бочка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal barrel filled with explosive fuel.",
+    "value": "Металлическая бочка, наполненная взрывчатым топливом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A barrel filled with explosive fuel. I'd better be careful.",
+    "value": "Бочка, наполненная взрывчатым топливом. Мне лучше быть осторожным.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This container is filled with explosive fuel.",
+    "value": "Этот контейнер наполнен взрывоопасным топливом.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran afraid of fire barrelsss...",
+    "value": "Флоран боится огня, бочка...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This container is filled with a highly explosive compound, most likely some alien spaceship fuel.",
+    "value": "Наблюдение. Этот контейнер наполнен взрывоопасным соединением, скорее всего, топливом инопланетного космического корабля.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "If my videogame experiences have taught me anything, it's that this will likely blow up if I shoot it.",
+    "value": "Если мой опыт видеоигр и научил меня чему-то, так это тому, что, если я выстрелю в него, он, скорее всего, взорвется.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This barrel is shut for a good reason. Its content might be explosive.",
+    "value": "Эта бочка закрыта по уважительной причине. Его содержание может быть взрывоопасным.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like alien dynamite, this'll make a big bad boom.",
+    "value": "Похоже на инопланетный динамит, это вызовет сильный взрыв.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A barrel full of explosive fuel...",
+    "value": "Бочка, полная взрывчатого топлива...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The fuel inside is highly flammable. This barrel makes for a good makeshift bomb.",
+    "value": "Топливо внутри легко воспламеняется. Из этой бочки получится хорошая самодельная бомба.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A fuel-filled barrel. It could ignite if the barrel is broken.",
+    "value": "Бочка, наполненная топливом. Он может воспламениться, если ствол сломан.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Explosive substance detected.",
+    "value": "Обнаружено взрывчатое вещество.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Barrel-fuel. Akki ignite, then big boom!",
+    "value": "Бочка-топливо. Акки зажгись, а потом большой бум!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Snowman",
+    "value": "Снеговик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple snowman adorned with an Elithian Alliance hat.",
+    "value": "Простой снеговик в шляпе Элитского Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A snowman with a funny hat.",
+    "value": "Снеговик в забавной шапке.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "It's a snowman. It could use some wings!",
+    "value": "Это снеговик. Ему не помешали бы крылья!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Man made of sssnow.",
+    "value": "Человек из снега.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Joyful. Snow always brings people together.",
+    "value": "Радостный. Снег всегда объединяет людей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a snow man!",
+    "value": "Это снежный человек!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but well-made snowman.",
+    "value": "Простой, но хорошо сделанный снеговик.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's some sorta snow-man.",
+    "value": "Это что-то вроде снежного человека.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A snowman. I love making these!",
+    "value": "Снеговик. Я люблю это делать!",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Is that... an alien? Made of frozen water? The people here really are odd.",
+    "value": "Это... инопланетянин? Сделано из замерзшей воды? Люди здесь действительно странные.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A silly snowman, but it's efficient in making people feel happy.",
+    "value": "Глупый снеговик, но он помогает людям чувствовать себя счастливыми.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing construct. Detected frozen water source. Recommend immediate harvesting.",
+    "value": "Анализирующая конструкция. Обнаружен источник замерзшей воды. Рекомендуется немедленный сбор урожая.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Alien made of snow. Aliens fun!",
+    "value": "Инопланетянин из снега. Инопланетяне веселятся!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

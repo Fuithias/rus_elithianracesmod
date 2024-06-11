@@ -1,71 +1,71 @@
 [
   {
-    "value": "Mounted Akkimari Skull",
+    "value": "Конный череп Аккимари",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The skull of a deceased Akkimari, mounted on a scrap metal spike.",
+    "value": "Череп умершего Аккимари, закрепленный на металлоломе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This alien was brutally murdered by the looks of it...",
+    "value": "Судя по всему, этот инопланетянин был жестоко убит...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A rusty metal spike with an alien skull mounted on top.",
+    "value": "Ржавый металлический шип с черепом инопланетянина наверху.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sspear goesss through sskull, very sssharp.",
+    "value": "Копье пронзило череп, очень осто.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Revolted. A truly gruesome display.",
+    "value": "Возмутился. Действительно ужасное зрелище.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This alien didn't die well.",
+    "value": "Этот инопланетянин умер нехорошо.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A gruesome display. Why would anyone mount a skull like this?",
+    "value": "Ужасное зрелище. Зачем кому-то устанавливать такой череп?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems there's bandits about.",
+    "value": "Кажется, здесь бандиты.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A gruesome sight. The Akkimari can be brutal...",
+    "value": "Ужасное зрелище. Аккимари могут быть жестокими...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A mounted alien skull. I don't want to meet whoever put this up.",
+    "value": "Установленный череп инопланетянина. Я не хочу встречаться с тем, кто это подложил.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The lifeless skull of an Akkimari.",
+    "value": "Безжизненный череп аккимари.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected scrap metal spike. Detected alien skull.",
+    "value": "Обнаружен шип металлолома. Обнаружен череп инопланетянина.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Skull on spike-metal. Dead for sure.",
+    "value": "Череп на металлическом шипе. Мертв наверняка.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

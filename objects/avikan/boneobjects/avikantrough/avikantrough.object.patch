@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Bone Trough",
+    "value": "Авикан Костяное Корыто",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bone trough, for feeding livestock and mounts.",
+    "value": "Костяная корыта для кормления скота и животных.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bone trough full of food and water.",
+    "value": "Костяное корыто, полное еды и воды.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This trough is full of raw food. Great for livestock, but bad for people.",
+    "value": "Эта корыта полна сырой еды. Отлично подходит для скота, но вреден для людей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran ssmell food. Floran eatsss food?",
+    "value": "Флоран нюхает еду. Флоран ест еду?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Confused. Why is this trough made of bone?",
+    "value": "Смущенный. Почему это корыто сделано из кости?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Livestock and mounts come to eat and drink here.",
+    "value": "Сюда приходят есть и пить скот и конные животные.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This trough is used to feed livestock and mounts.",
+    "value": "Эту кормушку используют для кормления скота и животных.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A perfect place to feed a mighty steed. Or just livestock.",
+    "value": "Идеальное место, чтобы покормить могучего коня. Или просто домашний скот.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional Avikan-made trough. They use it to feed their Gad'hur.",
+    "value": "Традиционное корыто производства Авикан. Они используют его, чтобы накормить своего Гад'хура.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Gad'hur kept by our clans are fed using these troughs.",
+    "value": "Гад'хуры, которых содержат наши кланы, кормятся из этих кормушек.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive bone trough.",
+    "value": "Примитивное костяное корыто.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected trough. Contains food for mounts.",
+    "value": "Обнаружено корыто. Содержит еду для маунтов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Trough for feeding animals.",
+    "value": "Кормушка для кормления животных.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

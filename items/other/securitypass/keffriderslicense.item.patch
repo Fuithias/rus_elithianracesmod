@@ -1,16 +1,16 @@
 [
   {
-    "value": "This license is official proof of your status as Keffrider.",
+    "value": "Эта лицензия является официальным подтверждением вашего статуса как Keffrider.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Keffrider's License^white;",
+    "value": "^#BA66FF;Лицензия Кеффрайдера^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Security Pass",
+    "value": "пропуск безопасности",
     "path": "/category",
     "op": "replace"
   }

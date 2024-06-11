@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sandspitter Figurine",
+    "value": "Фигурка песочника",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"The Sandspitter spits sand to slow down its foes.\"",
+    "value": "На этикетке написано: «Песчаник плюет песок, чтобы замедлить своих врагов».",
     "path": "/description",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Sewage Bars",
+    "value": "Канализационные решетки Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Metal bars.",
+    "value": "Металлические прутья.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Bars of metal.",
+    "value": "Наблюдение. Металлические прутья.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal barsss.",
+    "value": "Металлические прутья.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Those are metal bars.",
+    "value": "Это металлические прутья.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal bars.",
+    "value": "Анализ завершен. Металлические прутья.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bars-metal. Icky-very.",
+    "value": "Прутья-металлические. Очень грязные.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

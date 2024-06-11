@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Akkimari torso.",
+    "value": "Окаменелый торс Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akkimari Torso",
+    "value": "Аккимари Торс",
     "path": "/shortdescription",
     "op": "replace"
   }

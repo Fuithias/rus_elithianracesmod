@@ -1,11 +1,11 @@
 [
   {
-    "value": "A powerful railgun for use on modular mech suits.",
+    "value": "Мощный рельсотрон для использования на модульных механических костюмах.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Railgun Mech Arm",
+    "value": "Механическая рука с рельсотроном",
     "path": "/shortdescription",
     "op": "replace"
   }

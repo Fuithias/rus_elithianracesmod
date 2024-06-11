@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bone from an alien monster.",
+    "value": "Кость инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Bone",
+    "value": "Кость монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

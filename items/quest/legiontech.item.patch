@@ -1,16 +1,16 @@
 [
   {
-    "value": "A unique switch gear used in rare Droden weaponry.",
+    "value": "Уникальный переключатель, используемый в редком вооружении дроденов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Legion Switch Gear^white;",
+    "value": "^orange;Переключатель Легиона^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

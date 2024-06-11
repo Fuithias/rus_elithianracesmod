@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Table",
+    "value": "Акрис Стол",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rounded table.",
+    "value": "Круглый стол.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple round table.",
+    "value": "Простой круглый стол.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A round metal table.",
+    "value": "Круглый металлический стол.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tablesss.",
+    "value": "Столссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. A basic table.",
+    "value": "Не впечатлен. Базовый стол.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A dirty table.",
+    "value": "Грязный стол.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A heavily stained table.",
+    "value": "Сильно запятнанный стол.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just a table.",
+    "value": "Просто стол.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A table. It hasn't been cleaned in a while.",
+    "value": "Стол. Давно его не чистили.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien table. The design isn't very alien, though.",
+    "value": "Инопланетный стол. Хотя дизайн не очень инопланетный.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic table. The design of tables doesn't change too much between species.",
+    "value": "Упрощенная таблица. Дизайн столов не сильно меняется в зависимости от вида.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien table.",
+    "value": "Обнаружен стол пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki place things on table. Table strong enough.",
+    "value": "Акки кладет вещи на стол. Стол достаточно прочный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

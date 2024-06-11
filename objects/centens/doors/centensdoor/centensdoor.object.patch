@@ -1,66 +1,66 @@
 [
   {
-    "value": "Centensian Door",
+    "value": "Центенсианская дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient metal door.",
+    "value": "Древняя металлическая дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An ancient door.",
+    "value": "Древняя дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "How has this ancient door remained in such a fine state?",
+    "value": "Как эта древняя дверь сохранилась в таком прекрасном состоянии?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Old metal doorsss. It ssshinesss...",
+    "value": "Старые металлические двери. Это тсссс...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An ancient door.",
+    "value": "Наблюдение. Древняя дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what lies beyond this ancient door...",
+    "value": "Интересно, что находится за этой древней дверью...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This ancient door has somehow survived for eons.",
+    "value": "Эта древняя дверь каким-то образом сохранилась на протяжении веков.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This Centensian door is eons old, yet it is still intact.",
+    "value": "Этой центенской двери много веков назад, но она все еще цела.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strong door built by the Old Ones.",
+    "value": "Прочная дверь, построенная Древними.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A strong metal door built by the Centens. It is eons old.",
+    "value": "Прочная металлическая дверь, построенная Centens. Этому много веков назад.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Door. Origin: Centensian.",
+    "value": "Анализ. Дверь. Происхождение: Центенсийское.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-ancient, built by god-makers.",
+    "value": "Дверь-древняя, построенная боготворцами.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

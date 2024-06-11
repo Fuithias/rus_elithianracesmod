@@ -1,36 +1,36 @@
 [
   {
-    "value": "Glowing Centensian Panel",
+    "value": "Светящаяся центенская панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient, glowing panel. It has no visible power source.",
+    "value": "Древняя, светящаяся панель. У нее нет видимого источника питания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This ancient panel still glows bright.",
+    "value": "Заворожен. Эта древняя панель все еще ярко светится.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Thisss panel glowsss.",
+    "value": "Эта панель светится.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Somehow this 'ere panel glows, yet there's no source of power connected to it.",
+    "value": "Как-то эта панель светится, хотя нет подключенного источника питания.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Detected Centensian lighting technology.",
+    "value": "Анализ завершен. Обнаружена центенская технология освещения.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-glowing, Akki entranced.",
+    "value": "Панель-светящаяся, акки в восторге.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

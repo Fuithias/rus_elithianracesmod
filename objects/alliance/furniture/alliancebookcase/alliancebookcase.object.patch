@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Bookcase",
+    "value": "Книжный шкаф Альянс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tall bookcase.",
+    "value": "Высокий книжный шкаф.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic metal bookcase.",
+    "value": "Обычный металлический книжный шкаф.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Just a bookcase.",
+    "value": "Просто книжный шкаф.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssimple bookcase.",
+    "value": "Простой книжный шкаф.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Uninterested. Just a bookcase.",
+    "value": "Неинтересно. Просто книжный шкаф.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A regular bookcase.",
+    "value": "Обычный книжный шкаф.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The best place to store books.",
+    "value": "Лучшее место для хранения книг.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A bookcase.",
+    "value": "Книжный шкаф.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic bookcase.",
+    "value": "Обычный книжный шкаф.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of storage for scrolls and such.",
+    "value": "Что-то вроде хранилища для свитков и тому подобного.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A bookcase.",
+    "value": "Книжный шкаф.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien scrolls.",
+    "value": "Обнаружены свитки пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Books-many. Akki not read all.",
+    "value": "Книг-много. Акки не все читал.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

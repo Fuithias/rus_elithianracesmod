@@ -1,11 +1,11 @@
 [
   {
-    "value": "^#BA66FF;Нож легендарного охотника Теллхантера.",
+    "value": "^#BA66FF;Нож легендарного охотника Теллобоя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Нож Теллхантера^white;",
+    "value": "^#BA66FF;Нож Теллобоя^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

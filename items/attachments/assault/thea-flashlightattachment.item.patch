@@ -1,6 +1,6 @@
 [
   {
-    "value": "An underbarrel flash light.",
+    "value": "Подствольная вспышка.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Flashlight",
+    "value": "Фонарик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

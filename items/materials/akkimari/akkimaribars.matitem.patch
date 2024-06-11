@@ -1,11 +1,11 @@
 [
   {
-    "value": "Incredibly sturdy metal bars.",
+    "value": "Невероятно прочные металлические прутья.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Bars",
+    "value": "Акрис Барс",
     "path": "/shortdescription",
     "op": "replace"
   }

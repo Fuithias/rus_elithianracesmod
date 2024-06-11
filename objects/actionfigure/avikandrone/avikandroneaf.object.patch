@@ -1,11 +1,11 @@
 [
   {
-    "value": "Vanguard Drahl Figurine",
+    "value": "Фигурка Авангарда Драла",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"An Avikan reconnaissance drone capable of minor combat support.\"",
+    "value": "На этикетке написано: «Разведывательный дрон Авикан, способный оказывать незначительную боевую поддержку».",
     "path": "/description",
     "op": "replace"
   }

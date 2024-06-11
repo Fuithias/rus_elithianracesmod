@@ -1,11 +1,11 @@
 [
   {
-    "value": "Technology used in the creation of Centensian artefacts.",
+    "value": "Технология, используемая при создании центенских артефактов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Tech",
+    "value": "Центенсианская технология",
     "path": "/shortdescription",
     "op": "replace"
   }

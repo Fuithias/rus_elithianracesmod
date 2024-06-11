@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;A Shielded Eye II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Щитовой Глаз II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "The shield generator is still in pristine condition, but all of the connections were fried, and there's no power source for the shield. ^green;Find me ^orange;8 pieces of Centensian Tech^green; and ^orange;16 pieces of Centensian Metal^reset;, and I should be able to build a functional casing for the generator.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Генератор щита в отличном состоянии, но все соединения сгорели, и у него нет источника питания. ^green;Найдите для меня ^orange;8 кусочков Центенсианской Технологии ^green;и ^orange;16 кусочков Центенсианского Металла^reset;, и я смогу создать рабочий корпус для генератора.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Here you go, Captain. This shield is starting to come together quite well!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Вот, капитан. Этот щит начинает выглядеть довольно хорошо!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

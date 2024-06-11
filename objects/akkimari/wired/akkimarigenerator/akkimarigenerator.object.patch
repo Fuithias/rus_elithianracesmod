@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akkimari Generator",
+    "value": "Генератор Аккимари",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavy generator that can power other objects.",
+    "value": "Тяжелый генератор, способный питать другие объекты.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A generator of some kind. The design is unfamiliar to me.",
+    "value": "Генератор какой-то. Дизайн мне незнаком.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A generator. It looks odd.",
+    "value": "Генератор. Это выглядит странно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not recognize thisss generator.",
+    "value": "Флоран не распознает этот генератор.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Judgmental. This generator is very polluting.",
+    "value": "Судебный. Этот генератор очень загрязняет окружающую среду.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of weird alien generator. It's very hot to the touch.",
+    "value": "Какой-то странный инопланетный генератор. Он очень горячий на ощупь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Not a very elegant generator.",
+    "value": "Не очень элегантный генератор.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just some kinda generator.",
+    "value": "Просто какой-то генератор.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A generator, likely built by the Akkimari.",
+    "value": "Генератор, вероятно, построенный Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Is this a generator? It looks strange.",
+    "value": "Это генератор? Это выглядит странно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A very inefficient generator.",
+    "value": "Очень неэффективный генератор.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien generator. Fuel source unknown.",
+    "value": "Обнаружен генератор пришельцев. Источник топлива неизвестен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Generator makes power. Power makes light. Light makes life.",
+    "value": "Генератор вырабатывает мощность. Сила рождает свет. Свет делает жизнь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

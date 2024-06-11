@@ -1,11 +1,11 @@
 [
   {
-    "value": "An Akkimari armour power core. Increases the user's strength.",
+    "value": "Силовое ядро ​​брони Аккимари. Увеличивает силу пользователя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Deflector Core r.M",
+    "value": "Дефлектор Core RM",
     "path": "/shortdescription",
     "op": "replace"
   }

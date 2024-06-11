@@ -1,11 +1,11 @@
 [
   {
-    "value": "A vital component of any Vanguard-approved energy weapon.",
+    "value": "Жизненно важный компонент любого энергетического оружия, одобренного Vanguard.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Capacitor",
+    "value": "Авикан Конденсатор",
     "path": "/shortdescription",
     "op": "replace"
   }

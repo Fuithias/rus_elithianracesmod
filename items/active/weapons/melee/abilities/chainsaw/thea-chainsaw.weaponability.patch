@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Cut",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

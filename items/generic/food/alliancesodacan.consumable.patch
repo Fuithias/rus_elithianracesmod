@@ -1,11 +1,11 @@
 [
   {
-    "value": "A can of refreshing Froza.",
+    "value": "Банка освежающей Фрозы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Froza Can",
+    "value": "Фроза Банка",
     "path": "/shortdescription",
     "op": "replace"
   }

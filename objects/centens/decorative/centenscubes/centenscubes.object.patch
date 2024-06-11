@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Cubes",
+    "value": "Центенсианские кубики",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Simplistic metal cubes, but with an enthralling aura.",
+    "value": "Упрощенные металлические кубики, но с завораживающей аурой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Simple metal cubes, but there's something enthralling about them.",
+    "value": "Простые металлические кубики, но есть в них что-то захватывающее.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "There is something oddly enthralling about these cubes.",
+    "value": "Есть в этих кубиках что-то странно захватывающее.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran sstaress at cubes. Floran doess not know why...",
+    "value": "Флоран смотрит на кубики. Флоран не знает почему...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Enthralled. These cubes have something mysterious to them.",
+    "value": "В восторге. В этих кубиках есть что-то загадочное.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I don't know why, but I'm finding it hard to get my eyes off these cubes.",
+    "value": "Не знаю почему, но мне трудно оторвать взгляд от этих кубиков.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Somehow, these cubes make me feel serene. They're enthralling.",
+    "value": "Каким-то образом эти кубики вызывают у меня чувство умиротворения. Они захватывают.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I'm oddly enthralled by these simple cubes... What is this magic?",
+    "value": "Меня как-то завораживают эти простые кубики... Что это за волшебство?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Metal cubes, built by the Centens. They are oddly enthralling...",
+    "value": "Металлические кубы, построенные Centens. Они как-то странно завораживают...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These artefacts of the Old Ones are enthralling. I just keep staring at them.",
+    "value": "Эти артефакты Древних завораживают. Я просто продолжаю смотреть на них.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "My systems are picking up an odd interference around these cubes.",
+    "value": "Мои системы улавливают странные помехи вокруг этих кубов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian artefacts. Error. Error. Error.",
+    "value": "Обнаружены центенские артефакты. Ошибка. Ошибка. Ошибка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki near cubes, Akki feel calm. Akki feel strange...",
+    "value": "Акки возле кубиков, Акки чувствуют себя спокойно. Акки чувствует себя странно...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

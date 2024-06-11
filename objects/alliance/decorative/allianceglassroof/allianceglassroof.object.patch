@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Glass Roof",
+    "value": "Стеклянная крыша Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large, slanted glass roof.",
+    "value": "Большая наклонная стеклянная крыша.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran confused by glasss roof.",
+    "value": "Флорана смущает стеклянная крыша.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amazed. This window is extraordinarily strong.",
+    "value": "Поражен. Это окно необычайно прочное.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Glass.",
+    "value": "Анализ. Стекло.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Roof-glass.",
+    "value": "Крыша-стекло.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

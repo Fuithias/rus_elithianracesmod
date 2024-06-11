@@ -1,42 +1,42 @@
 [
   {
-    "value": "Alliance Stone Platform",
+    "value": "Каменная платформа Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stone platform.",
+    "value": "Каменная платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. A thick stone platform.",
+    "value": "Наблюдение. Толстая каменная платформа.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ssstone platformss.",
+    "value": "Каменные платформы.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A thick, heavy stone platform. Study for sure.",
+    "value": "Толстая, тяжелая каменная платформа. Определенно прочная.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone platform.",
+    "value": "Анализ завершен. Каменная платформа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Platform-stone.",
+    "value": "Платформа-камень.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

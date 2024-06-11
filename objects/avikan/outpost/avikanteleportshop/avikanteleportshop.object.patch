@@ -1,31 +1,31 @@
 [
   {
-    "value": "Nomada Translocator Store",
+    "value": "Магазин транслокаторов Nomada",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This shop offers personal teleporters in a variety of styles.",
+    "value": "Этот магазин предлагает персональные телепорты в самых разных стилях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Teleporter sshop offersss many choicesss...",
+    "value": "Магазин Teleporter предлагает много вариантов...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. This teleporter shop offers a variety of personal teleporters.",
+    "value": "Взволнованный. Этот магазин телепортов предлагает множество персональных телепортов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected merchant. Offers various personal teleporters.",
+    "value": "Обнаружен торговец. Предлагает различные персональные телепорты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki buy teleporters here.",
+    "value": "Акки покупайте телепорты здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

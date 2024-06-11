@@ -1,41 +1,41 @@
 [
   {
-    "value": "Scanner error. Out of range.",
+    "value": "Ошибка сканера. Вне диапазона.",
     "path": "/outOfRangeText/droden/0",
     "op": "replace"
   },
   {
-    "value": "Error. Maximum scanner range exceeded.",
+    "value": "Ошибка. Превышен максимальный диапазон сканера.",
     "path": "/outOfRangeText/droden/1",
     "op": "replace"
   },
   {
-    "value": "Error. Signal strength insufficient.",
+    "value": "Ошибка. Уровень сигнала недостаточен.",
     "path": "/outOfRangeText/droden/2",
     "op": "replace"
   },
   {
-    "value": "No signal. Please reduce distance to target.",
+    "value": "Нет сигнала. Пожалуйста, сократите расстояние до цели.",
     "path": "/outOfRangeText/droden/3",
     "op": "replace"
   },
   {
-    "value": "Error. Invalid target.",
+    "value": "Ошибка. Неверная цель.",
     "path": "/nothingThereText/droden/0",
     "op": "replace"
   },
   {
-    "value": "Error. No item of interest.",
+    "value": "Ошибка. Нет предмета интереса.",
     "path": "/nothingThereText/droden/1",
     "op": "replace"
   },
   {
-    "value": "Unable to read target.",
+    "value": "Невозможно прочитать цель.",
     "path": "/nothingThereText/droden/2",
     "op": "replace"
   },
   {
-    "value": "Error. Empty.",
+    "value": "Ошибка. Пустой.",
     "path": "/nothingThereText/droden/3",
     "op": "replace"
   }

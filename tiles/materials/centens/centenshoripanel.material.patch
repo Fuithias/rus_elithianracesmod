@@ -1,36 +1,36 @@
 [
   {
-    "value": "Horizontal Centensian Panel",
+    "value": "Горизонтальная центенская панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A lightweight but incredibly strong metal panel.",
+    "value": "Легкая, но невероятно прочная металлическая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This metal panel is stronger and lighter than anything I've encountered before.",
+    "value": "Заворожен. Эта металлическая панель прочнее и легче всего, что я когда-либо встречал.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran is confused. Metal isss light and so sstrong Floran can't scratch it...",
+    "value": "Флоран в замешательстве. Металл такой легкий и такой прочный, что Флоран не может его поцарапать...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "I'm baffled by how light and strong this 'ere metal here.",
+    "value": "Меня озадачивает, как легок и прочен этот металл.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Centensian metal panel detected.",
+    "value": "Анализ завершен. Обнаружена центенская металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-strong, made by god-makers.",
+    "value": "Панель-прочная, создана создателями богов.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

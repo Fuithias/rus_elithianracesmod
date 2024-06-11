@@ -1,6 +1,6 @@
 [
   {
-    "value": "Elemental assault rifle ammunition that burns targets.",
+    "value": "Элементальные боеприпасы для штурмовой винтовки, сжигающие цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Fire Ammo",
+    "value": "Огненные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

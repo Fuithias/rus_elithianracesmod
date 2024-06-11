@@ -1,36 +1,36 @@
 [
   {
-    "value": "Rim Panel",
+    "value": "Панель из Края",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Rusty old metal panels.",
+    "value": "Ржавые старые металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Displeased. Someone should polish this plating.",
+    "value": "Недоволен. Кто-то должен отполировать эту панель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Russsty metal platess are good for back rubsss.",
+    "value": "Ржавые металлические панели хороши для массажа.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A metal panel that needs polishin'.",
+    "value": "Металлическая панель, нуждающаяся в полировке.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal panel. Moderate deterioration detected.",
+    "value": "Анализ завершен. Металлическая панель. Обнаружено умеренное ухудшение.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-rusted, Akki no clean it.",
+    "value": "Панель-ржавая, акки не сможет её очистить.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

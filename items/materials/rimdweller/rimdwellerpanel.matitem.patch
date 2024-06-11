@@ -1,11 +1,11 @@
 [
   {
-    "value": "Rusty old metal panels.",
+    "value": "Ржавые старые металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rim Panel",
+    "value": "Ободная панель",
     "path": "/shortdescription",
     "op": "replace"
   }

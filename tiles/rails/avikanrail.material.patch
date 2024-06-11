@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Rail",
+    "value": "Авиканский рельс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strong reinforced rail.",
+    "value": "Прочный усиленный рельс.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. The material this rail is made from makes it very strong.",
+    "value": "Удовлетворен. Материал этого рельса делает его очень прочным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny metal rails.",
+    "value": "Блестящие металлические рельсы.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+    "value": "Прочные рельсы, хочется на них покататься.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-built rail.",
+    "value": "Обнаружен рельс, построенный Номада.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want to bend rails-metal.",
+    "value": "Акки хочет согнуть металлические рельсы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

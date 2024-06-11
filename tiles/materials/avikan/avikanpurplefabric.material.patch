@@ -1,36 +1,36 @@
 [
   {
-    "value": "Rhaiod Fabric",
+    "value": "Ткань Рхаиод",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A fabric wall sheet decorated in the style of the Rhaiod.",
+    "value": "Тканевое покрытие стены, украшенное в стиле Рхаиод.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Neutral. I am uncertain what to think of this colour.",
+    "value": "Нейтральный. Я не уверен, что думать об этом цвете.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss how quickly thisss will burn...",
+    "value": "Флоран думает, как быстро это загорится...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A purple sheet of fabric. Makes a good tent wall.",
+    "value": "Фиолетовая ткань. Отлично подходит для палатки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Rhaiod-decorated tent wall.",
+    "value": "Анализ завершен. Ткань для палатки, украшенная в стиле Рхаиод.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric-coloured, Akki like colour.",
+    "value": "Ткань-цветная, акки нравится цвет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

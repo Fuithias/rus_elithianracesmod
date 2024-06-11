@@ -1,11 +1,11 @@
 [
   {
-    "value": "A can of tasty Corus.",
+    "value": "Банка вкусного Коруса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Corus Can",
+    "value": "Корус Кан",
     "path": "/shortdescription",
     "op": "replace"
   }

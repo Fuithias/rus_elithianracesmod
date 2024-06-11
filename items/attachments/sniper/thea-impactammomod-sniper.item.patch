@@ -1,6 +1,6 @@
 [
   {
-    "value": "Sniper ammunition that causes significant knockback to targets.",
+    "value": "Снайперские боеприпасы, вызывающие значительную отдачу цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Impact Ammo",
+    "value": "Ударные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

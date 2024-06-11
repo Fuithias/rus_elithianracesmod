@@ -1,31 +1,31 @@
 [
   {
-    "value": "Avikan Switch",
+    "value": "Авикан Свитч",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small switch.",
+    "value": "Небольшой переключатель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssswitch!",
+    "value": "Переключись!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A switch.",
+    "value": "Заявление. Переключатель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Switch. Used to power on and off various objects.",
+    "value": "Анализ. Выключатель. Используется для включения и выключения различных объектов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki flip switch, make nice noise. Flip, flip, flip again!",
+    "value": "Переключатель Akki, издает приятный шум. Переверните, переверните, еще раз переверните!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

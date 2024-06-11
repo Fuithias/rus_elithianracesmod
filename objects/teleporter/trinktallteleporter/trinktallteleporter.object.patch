@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Teleporter",
+    "value": "Тринкианский телепорт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "value": "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation: This teleporter was built in an alien style.",
+    "value": "Наблюдение: Этот телепорт был построен в инопланетном стиле.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian teleporter, it's very efficient in its energy usage.",
+    "value": "Тринкианский телепорт, очень эффективно использует энергию.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter was built by and for machines.",
+    "value": "Этот телепорт был построен машинами и для машин.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter allows fast travel between linked locations. An efficient way to transports Trink units.",
+    "value": "Этот телепорт позволяет быстро перемещаться между связанными локациями. Эффективный способ транспортировки юнитов Тринка.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien teleportation technology. Please exercise caution.",
+    "value": "Обнаружена технология телепортации пришельцев. Пожалуйста, соблюдайте осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter-alien, look fancy.",
+    "value": "Телепорт-инопланетянин, выгляди причудливо.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

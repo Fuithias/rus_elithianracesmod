@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal platform.",
+    "value": "Металлическая платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Platform",
+    "value": "Платформа Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

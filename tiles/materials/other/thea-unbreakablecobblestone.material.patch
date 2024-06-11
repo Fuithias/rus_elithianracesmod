@@ -1,26 +1,26 @@
 [
   {
-    "value": "Cobblestone",
+    "value": "Булыжник",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Hard cobblestones, smooth to the touch.",
+    "value": "Твердые булыжники, гладкие на ощупь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Facinated. These cobblestones are naturally smooth.",
+    "value": "Заворожен. Эти булыжники естественно гладкие.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ssmooth cobblessstone rockss.",
+    "value": "Гладкие булыжные камни.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ain't uncommon to run across cobblestone rocks like this.",
+    "value": "Нередко можно встретить такие булыжные камни.",
     "path": "/novakidDescription",
     "op": "replace"
   }

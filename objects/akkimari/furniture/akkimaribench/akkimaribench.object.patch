@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Bench",
+    "value": "Акрис Бенч",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable open-backed bench.",
+    "value": "Удобная скамейка с открытой спинкой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A strange bench with an open back.",
+    "value": "Странная скамейка с открытой спинкой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This bench is comfortable, but the back is missing for some reason.",
+    "value": "Эта скамейка удобная, но почему-то отсутствует спинка.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran thinksss thiss bench is ssstrange.",
+    "value": "Флоран думает, что эта скамейка странная.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Confused. Why does this bench have supports on the sides but not the back?",
+    "value": "Смущенный. Почему у этой скамьи есть опоры по бокам, а не сзади?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A strange bench. It's also strangely comfortable.",
+    "value": "Странная скамейка. Это также странно удобно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An unusual design that is equally unusually comfortable.",
+    "value": "Необычный дизайн и одновременно необычайно удобный.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I don't even know how to properly sit in this thing.",
+    "value": "Я даже не знаю, как правильно сидеть в этой штуке.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An odd design for sure. It's quite comfortable, though.",
+    "value": "Странный дизайн, конечно. Хотя это довольно удобно.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alien bench is quite comfortable. The open back is great for my tail.",
+    "value": "Эта инопланетная скамейка довольно удобна. Открытая спина отлично подходит для моего хвоста.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An unusual Akkimari-built bench. It seems inefficient with those side plates.",
+    "value": "Необычная скамейка, построенная Аккимари. С этими боковыми пластинами это кажется неэффективным.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien bench.",
+    "value": "Обнаружена скамейка пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bench for sitting. Akki likes.",
+    "value": "Скамейка для сидения. Акки нравится.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

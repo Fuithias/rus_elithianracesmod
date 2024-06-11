@@ -1,16 +1,16 @@
 [
   {
-    "value": "This pass unlocks access to security consoles in the Starfarer's Refuge.",
+    "value": "Этот пропуск открывает доступ к консолям безопасности в Убежище Звездных Путешественников.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Starfarer's Refuge Pass^white;",
+    "value": "^#BA66FF;Пропуск в убежище звездного путешественника^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Security Pass",
+    "value": "пропуск безопасности",
     "path": "/category",
     "op": "replace"
   }

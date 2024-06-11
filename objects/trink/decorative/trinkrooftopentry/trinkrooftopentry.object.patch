@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Rooftop Entry",
+    "value": "Вход на крышу Тринкиана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small rooftop entrance piece of modular Trinkian buildings.",
+    "value": "Небольшой вход на крышу модульных тринкианских зданий.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A small modular rooftop entrance.",
+    "value": "Небольшой модульный вход на крыше.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small, rooftop entrance decorated with green lights.",
+    "value": "Небольшой вход на крыше, украшенный зелеными огнями.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran seesss upside down roof. Floran wonderss why upside down.",
+    "value": "Флоран видит перевернутую крышу. Флорану интересно, почему вверх тормашками.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This modular rooftop entrance piece is packed with sensors.",
+    "value": "Очарованный. Этот модульный вход на крышу оснащен датчиками.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An inverted metal pyramid? Strangely cool!",
+    "value": "Перевернутая металлическая пирамида? Странно круто!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal rooftop entrance. Surpisingly, it is packed with sensors and communication systems.",
+    "value": "Металлический вход на крышу. Удивительно, но он напичкан датчиками и системами связи.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinks are big fans of modular buildings. This small rooftop entrance will fit on pretty much every Trinkian construction.",
+    "value": "Тринки — большие поклонники модульных зданий. Этот небольшой вход на крыше подойдет практически к любой постройке Тринкиана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A small metal rooftop entrance, built by machines.",
+    "value": "Небольшой металлический вход на крыше, построенный машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian rooftop entrances are modular, and fit ontop of almost any Trinkian structure.",
+    "value": "Входы на крыше Trinkian являются модульными и подходят практически к любому строению Trinkian.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Readings indicate high amounts of sensors inside this structure.",
+    "value": "Показания указывают на большое количество датчиков внутри этой структуры.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki enter through roof here.",
+    "value": "Акки входит сюда через крышу.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Faryth Figurine",
+    "value": "Фигурка Фарита",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A flying creature from Elithia, the Faryth is a fast and nimble predator.\"",
+    "value": "На этикетке написано: «Летающее существо из Элитии, Фарит — быстрый и проворный хищник».",
     "path": "/description",
     "op": "replace"
   }

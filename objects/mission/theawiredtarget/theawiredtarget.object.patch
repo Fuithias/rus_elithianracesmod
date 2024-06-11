@@ -1,56 +1,56 @@
 [
   {
-    "value": "Wired Target",
+    "value": "Проводная цель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This practice target outputs a wire signal until broken.",
+    "value": "Эта тренировочная мишень выдает проводной сигнал, пока не сломается.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This practice target passes wire signal until broken.",
+    "value": "Эта тренировочная мишень пропускает проводной сигнал, пока не сломается.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Practice targets like this can be connected to wired objects.",
+    "value": "Подобные тренировочные мишени можно подключать к проводным объектам.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny target isss just begging to be broken.",
+    "value": "Блестящая мишень просто умоляет, чтобы ее сломали.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Interested. This appears to be a practice target, which could be connected to something.",
+    "value": "Заинтересовано. Похоже, это тренировочная мишень, которая может быть с чем-то связана.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This practice target can pass a wired signal until it's broken.",
+    "value": "Эта тренировочная мишень может передавать проводной сигнал, пока не сломается.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This practice target is hypnotising, breaking it may trigger something.",
+    "value": "Эта тренировочная цель гипнотизирует, нарушение ее может что-то спровоцировать.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just what I need for shootin' practice. Wonder if breaking this target does somethin'.",
+    "value": "Как раз то, что мне нужно для тренировок по стрельбе. Интересно, даст ли что-нибудь достижение этой цели?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected practice target. Unit can fire at it to complete a circuit.",
+    "value": "Обнаружена тренировочная цель. Юнит может выстрелить по нему, чтобы замкнуть цепь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki shoot target, target break. Target break, something happens!",
+    "value": "Акки стреляет в цель, пробивает цель. Прорыв цели, что-то происходит!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

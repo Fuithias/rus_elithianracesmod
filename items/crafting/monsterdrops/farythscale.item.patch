@@ -1,11 +1,11 @@
 [
   {
-    "value": "The hard but flexible scales of a Faryth.",
+    "value": "Твердая, но гибкая чешуя Фарита.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Faryth Scales",
+    "value": "Фарит Весы",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,291 +1,291 @@
 [
   {
-    "value": "I need help!",
+    "value": "Мне нужна помощь!",
     "path": "/helpme/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I've been attacked!",
+    "value": "На меня напали!",
     "path": "/helpme/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Alert the clan, there's hostiles!",
+    "value": "Оповести клан, враги!",
     "path": "/helpme/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Rhadeis, help me!",
+    "value": "Радеис, помоги мне!",
     "path": "/helpme/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "We're being invaded!",
+    "value": "Нас вторгаются!",
     "path": "/helpme/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "You'll not get me!",
+    "value": "Ты меня не возьмешь!",
     "path": "/helpme/avikan/default/5",
     "op": "replace"
   },
   {
-    "value": "It's safe again...",
+    "value": "Теперь снова безопасно...",
     "path": "/safe/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I should remember to carry weapons on me next time...",
+    "value": "Мне помнить носить оружие в следующий раз...",
     "path": "/safe/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I survived, thank Rhadeis!",
+    "value": "Я выжил, спасибо Радеису!",
     "path": "/safe/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Rhadeis saved me...",
+    "value": "Радеис спас меня...",
     "path": "/safe/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "That was quite the ordeal.",
+    "value": "Это было серьезное испытание.",
     "path": "/safe/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "I'm glad that's over with.",
+    "value": "Я рад, что это закончилось.",
     "path": "/safe/avikan/default/5",
     "op": "replace"
   },
   {
-    "value": "I need help!",
+    "value": "Мне нужна помощь!",
     "path": "/helpme/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I've been attacked!",
+    "value": "На меня напали!",
     "path": "/helpme/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "I was not built for combat!",
+    "value": "Я не был создан для боя!",
     "path": "/helpme/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Please, stop this!",
+    "value": "Пожалуйста, прекратите это!",
     "path": "/helpme/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "I am unable to defend myself!",
+    "value": "Я не могу себя защитить!",
     "path": "/helpme/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Help!",
+    "value": "Помогите!",
     "path": "/helpme/trink/default/5",
     "op": "replace"
   },
   {
-    "value": "I am glad that is over.",
+    "value": "Я рад, что это закончилось.",
     "path": "/safe/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I require minor repairs.",
+    "value": "Мне нужны мелкие ремонты.",
     "path": "/safe/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "It appears to be safe again.",
+    "value": "Кажется, снова безопасно.",
     "path": "/safe/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Are the hostiles gone?",
+    "value": "Враги ушли?",
     "path": "/safe/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "I was never meant for combat...",
+    "value": "Я никогда не предназначался для боя...",
     "path": "/safe/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Is the situation under control again?",
+    "value": "Ситуация снова под контролем?",
     "path": "/safe/trink/default/5",
     "op": "replace"
   },
   {
-    "value": "Unit under attack. Requesting help.",
+    "value": "Юнит под атакой. Запрашиваю помощь.",
     "path": "/helpme/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Battle detected. Requesting backup.",
+    "value": "Обнаружен бой. Запрашиваю подмогу.",
     "path": "/helpme/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Hostile detected. Activating flight module.",
+    "value": "Обнаружен враг. Активирую модуль полета.",
     "path": "/helpme/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Unable to load battle modules. Fleeing.",
+    "value": "Невозможно загрузить боевые модули. Бегу.",
     "path": "/helpme/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Battle modules corrupted. Disengaging.",
+    "value": "Боевые модули повреждены. Прекращаю бой.",
     "path": "/helpme/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Disengaging. Battle terminated.",
+    "value": "Прекращаю бой. Бой завершен.",
     "path": "/safe/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Threat levels normal.",
+    "value": "Уровни угрозы нормальные.",
     "path": "/safe/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Unit confirms escape.",
+    "value": "Юнит подтверждает побег.",
     "path": "/safe/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Escape confirmed.",
+    "value": "Побег подтвержден.",
     "path": "/safe/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Flight protocols terminating.",
+    "value": "Протоколы полета завершаются.",
     "path": "/safe/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "I need help!",
+    "value": "Мне нужна помощь!",
     "path": "/helpme/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Help me!",
+    "value": "Помогите мне!",
     "path": "/helpme/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I'm under attack!",
+    "value": "Я под атакой!",
     "path": "/helpme/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Guards, please help me!",
+    "value": "Охрана, пожалуйста, помогите мне!",
     "path": "/helpme/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Call the guards!",
+    "value": "Позовите охрану!",
     "path": "/helpme/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "Stop this madness!",
+    "value": "Прекратите это безумие!",
     "path": "/helpme/aegi/default/5",
     "op": "replace"
   },
   {
-    "value": "I think it's safe now.",
+    "value": "Кажется, теперь безопасно.",
     "path": "/safe/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I hate fights...",
+    "value": "Я ненавижу драки...",
     "path": "/safe/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I'm no good in a fight...",
+    "value": "Я плох в драках...",
     "path": "/safe/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "I hope that's the end of it.",
+    "value": "Надеюсь, это конец.",
     "path": "/safe/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Glad that's over with.",
+    "value": "Рад, что это закончилось.",
     "path": "/safe/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "I got out safely...",
+    "value": "Я выбрался невредим...",
     "path": "/safe/aegi/default/5",
     "op": "replace"
   },
   {
-    "value": "Akki no have weapon. No fair!",
+    "value": "Акки без оружия. Нечестно!",
     "path": "/helpme/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki need some help here!",
+    "value": "Акки нужна помощь!",
     "path": "/helpme/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Gah, you surprised me. Akki no prepared for fight!",
+    "value": "Гах, ты меня удивил. Акки не был готов к бою!",
     "path": "/helpme/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Akki unarmed! Bugger off!",
+    "value": "Акки безоружен! Убирайся!",
     "path": "/helpme/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "You gonna regret this soon! Just wait for Akki to find a weapon!",
+    "value": "Ты скоро пожалеешь об этом! Подожди, пока Акки найдет оружие!",
     "path": "/helpme/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Stop this madness!",
+    "value": "Прекратите это безумие!",
     "path": "/helpme/akkimari/default/5",
     "op": "replace"
   },
   {
-    "value": "Akki safe again now.",
+    "value": "Акки снова в безопасности.",
     "path": "/safe/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki should prepare better. Always have weapon ready...",
+    "value": "Акки должен быть лучше подготовлен. Всегда иметь оружие наготове...",
     "path": "/safe/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You better run! Akki gonna find a weapon soon...",
+    "value": "Лучше беги! Акки скоро найдет оружие...",
     "path": "/safe/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Attacker-coward. Scared of Akki, huh?",
+    "value": "Атакующий-трус. Боишься Акки, да?",
     "path": "/safe/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Akki fine now.",
+    "value": "Акки в порядке теперь.",
     "path": "/safe/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Gah, Akki was just about to fight back.",
+    "value": "Гах, Акки только собирался драться.",
     "path": "/safe/akkimari/default/5",
     "op": "replace"
   }

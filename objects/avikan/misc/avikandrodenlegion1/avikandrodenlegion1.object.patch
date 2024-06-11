@@ -1,71 +1,71 @@
 [
   {
-    "value": "Inactive Droden Frame",
+    "value": "Неактивный кадр Дродена",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An inactive robot.",
+    "value": "Неактивный робот.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An inactive robot of sorts.",
+    "value": "Какой-то неактивный робот.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive robot of sorts.",
+    "value": "Какой-то неактивный робот.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss if robot iss sssleeping...",
+    "value": "Флоран задается вопросом, спит ли робот...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An inactive robot of sorts.",
+    "value": "Наблюдение. Какой-то неактивный робот.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive robot of sorts.",
+    "value": "Какой-то неактивный робот.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive robot of sorts.",
+    "value": "Какой-то неактивный робот.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive robot of sorts.",
+    "value": "Какой-то неактивный робот.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An inactive Droden. I'm not sure if this one is an AI, or just a droid.",
+    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Droden unit detected. Analysis: Deactivated.",
+    "value": "Обнаружен отряд Дродена. Анализ: Деактивирован.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Robot-sleeping. Akki salvage metals?",
+    "value": "Робот-спящий. Акки утилизировать металл?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

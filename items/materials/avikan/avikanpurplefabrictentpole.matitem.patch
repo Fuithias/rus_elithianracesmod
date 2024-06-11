@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sturdy metal tent pole.",
+    "value": "Прочный металлический столб для палатки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rhaiod Tent Pole",
+    "value": "Столб для палатки Райод",
     "path": "/shortdescription",
     "op": "replace"
   }

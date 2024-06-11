@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Hull Panel",
+    "value": "Авиканская Обшивочная панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "value": "Прочная металлическая обшивка, часто используемая при строительстве космических станций и космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observant. This material is durable enough for use in the construction of spacefaring vessels.",
+    "value": "Наблюдательный. Этот материал достаточно прочный для использования при строительстве космических судов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny sssmooth space metal.",
+    "value": "Блестящий гладкий космический металл.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some thick metal plating, looks mighty solid.",
+    "value": "Толстая металлическая обшивка, выглядит очень надежно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Hull plating. Generally used in the construction of spaceborne structures.",
+    "value": "Анализ завершен. Обшивка корпуса. Обычно используется при строительстве космических структур.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panels-heavy for making ships.",
+    "value": "Панели-тяжелые для создания кораблей.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

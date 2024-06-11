@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Tapestry Roll",
+    "value": "Гобелен Авикан в рулоне",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rolled up leather tapestry.",
+    "value": "Свернутый кожаный гобелен.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A rolled up leather tapestry.",
+    "value": "Свернутый кожаный гобелен.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple, rolled up tapestry.",
+    "value": "Простой, свернутый гобелен.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tapesstry iss rolled up.",
+    "value": "Гобелен скручен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A neatly rolled up leather tapestry.",
+    "value": "Наблюдение. Аккуратно свернутый кожаный гобелен.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A rolled up tapestry.",
+    "value": "Свернутый гобелен.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Such a tapestry might look good as home decoration.",
+    "value": "Такой гобелен может хорошо смотреться в качестве украшения дома.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry.",
+    "value": "Кожаный гобелен.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry, rolled up for storage.",
+    "value": "Кожаный гобелен, свернутый для хранения.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry would look great in my home.",
+    "value": "Этот гобелен отлично смотрелся бы у меня дома.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A rolled up leather tapestry.",
+    "value": "Свернутый кожаный гобелен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Material: leather.",
+    "value": "Сканирование завершено. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tapestry-leather, all rolled up.",
+    "value": "Гобелен-кожа, весь свернут.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Hovercar",
+    "value": "Альянс Ховеркар",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A luxury personal transportation vehicle.",
+    "value": "Роскошный личный транспорт.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A highly advanced hover car.",
+    "value": "Высокотехнологичная машина на воздушной подушке.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "How does this thing achieve flight?",
+    "value": "Как эта штука может летать?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not undersstand how it fliess.",
+    "value": "Флоран не понимает, как он летает.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wondering. How does this vehicle achieve lift-off?",
+    "value": "Интересный. Как этот автомобиль достигает взлета?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like a luxury hovercar. Cool!",
+    "value": "Выглядит как роскошный ховеркар. Прохладный!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegant hover vehicle.",
+    "value": "Элегантный летающий аппарат.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Flies like a charm.",
+    "value": "Летает как шарм.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Aventor Galliot, one of the most popular personal transportation vehicles.",
+    "value": "Aventor Galliot — один из самых популярных личных транспортных средств.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alien vehicle looks fast.",
+    "value": "Этот инопланетный автомобиль выглядит быстрым.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Aventor creates fascinating vehicles.",
+    "value": "Aventor создает увлекательные автомобили.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien hovercraft.",
+    "value": "Обнаружено инопланетное судно на воздушной подушке.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki ride vehicle-alien-fast!",
+    "value": "Акки ездит на машине-инопланетянин-быстро!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

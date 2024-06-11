@@ -1,71 +1,71 @@
 [
   {
-    "value": "Inactive Drahl",
+    "value": "Неактивный Драл",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An inactive combat and reconnaissance drone.",
+    "value": "Неактивный боевой и разведывательный дрон.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A drone. It's equipped with some basic weaponry.",
+    "value": "Дрон. Он оснащен некоторым базовым вооружением.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wish I could fly like this drone can.",
+    "value": "Я бы хотел летать так, как умеет этот дрон.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Can Floran ride on top of dronesss?",
+    "value": "Сможет ли Флоран оседлать дронсссс?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Eager. I would love to have a drone like this accompany me on my journeys.",
+    "value": "Жаждущий. Мне бы очень хотелось, чтобы такой дрон сопровождал меня в моих путешествиях.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A drone capable of reconnaissance and combat both.",
+    "value": "Дрон, способный вести разведку и вести бой.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A versatile drone. It's quick, durable and efficient all.",
+    "value": "Универсальный дрон. Это быстро, надежно и эффективно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A drone. Not sure if it'll be flyin' any longer.",
+    "value": "Дрон. Не уверен, что он будет летать дальше.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan call these drone Drahls.",
+    "value": "Авиканцы называют этих дронов Дралами.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A Drahl like this would be a useful companion, I'm sure.",
+    "value": "Я уверен, что такой Драл был бы полезным компаньоном.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This drone's energy usage is surprisingly efficient.",
+    "value": "Энергопотребление этого дрона удивительно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Drahl unit. Status: inactive.",
+    "value": "Обнаружен отряд Драла. Статус: неактивен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Drone-small, Akki fight?",
+    "value": "Дрон-маленький, Акки бой?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

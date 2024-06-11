@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Antenna Box",
+    "value": "Антенный блок Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A powerful antenna.",
+    "value": "Мощная антенна.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An antenna of an unusual design.",
+    "value": "Антенна необычной конструкции.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic antenna.",
+    "value": "Базовая антенна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal ssticks receive ssignals from far away.",
+    "value": "Металлические палочки принимают сигналы издалека.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An antenna.",
+    "value": "Наблюдение. Антенна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An antenna, obviously.",
+    "value": "Антенна, очевидно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy antenna.",
+    "value": "Прочная антенна.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta antenna.",
+    "value": "Какая-то антенна.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A powerful antenna.",
+    "value": "Мощная антенна.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien antenna.",
+    "value": "Инопланетная антенна.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This antenna is reasonably efficient.",
+    "value": "Эта антенна достаточно эффективна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien antenna. Unable to decode signal.",
+    "value": "Обнаружена антенна пришельца. Невозможно декодировать сигнал.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Antenna-alien. Akki curious what it's sending.",
+    "value": "Антенна-инопланетянка. Акки любопытно, что он отправляет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

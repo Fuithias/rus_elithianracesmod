@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Frigate Engine",
+    "value": "Акрис Фрегат Двигатель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The large propulsion engine of an Akris frigate.",
+    "value": "Большой двигатель фрегата Акрис.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A propulsion engine for a small ship.",
+    "value": "Гребной двигатель для небольшого корабля.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This propulsion engine is likely for a frigate.",
+    "value": "Эта маршевая машина, скорее всего, для фрегата.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssship engine. Fire hazzzard...",
+    "value": "Корабельный двигатель. Опасность пожара...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A propulsion engine for a small ship.",
+    "value": "Наблюдение. Гребной двигатель для небольшого корабля.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A small ship engine.",
+    "value": "Небольшой корабельный двигатель.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but elegantly designed propulsion engine.",
+    "value": "Простой, но элегантный двигатель.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An engine for a small ship.",
+    "value": "Двигатель для небольшого корабля.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The engine of an Akkimari frigate.",
+    "value": "Двигатель фрегата Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien-built propulsion engine.",
+    "value": "Двигатель, построенный инопланетянами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient ship engine.",
+    "value": "Эффективный корабельный двигатель.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected ship engine. Calculating thrust capacity.",
+    "value": "Обнаружен корабельный двигатель. Расчет тяговой мощности.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Engine for flying ship, make ship go fast!",
+    "value": "Двигатель для летающего корабля, заставь корабль двигаться быстрее!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

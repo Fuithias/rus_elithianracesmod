@@ -1,66 +1,66 @@
 [
   {
-    "value": "Jumprifle Display",
+    "value": "Показ прыжковых винтовок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian jumprifle on display.",
+    "value": "На выставке представлена ​​центенсийская прыгунная винтовка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An ancient weapon, seems it no longer fires.",
+    "value": "Древнее оружие, похоже, больше не стреляет.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient rifle of some sort. No longer fires.",
+    "value": "Какая-то древняя винтовка. Больше не горит.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Old gunsss shootsss no more...",
+    "value": "Старый пистолет больше не стреляет...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This weapon is ancient, and no longer functional.",
+    "value": "Наблюдение. Это оружие древнее и больше не работает.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient weapon! Doesn't seem to fire any longer...",
+    "value": "Древнее оружие! Вроде больше не стреляет...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient rifle. Its firing mechanism is broken.",
+    "value": "Древняя винтовка. У него сломан ударно-спусковой механизм.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This ancient jumprifle no longer fires.",
+    "value": "Эта древняя прыжковая винтовка больше не стреляет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A jumprifle, built by the Old Ones. Seems it no longer fires.",
+    "value": "Прыжковая винтовка, созданная Древними. Кажется, он больше не горит.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient jumprifle. In mint condition, but it no longer fires.",
+    "value": "Древняя прыжковая винтовка. В отличном состоянии, но больше не горит.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian jumpgate technology. Status: inactive.",
+    "value": "Обнаружена технология Centensian Jumpgate. Статус: неактивен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Weapon-solar, fire plasma. Akki melt enemies!",
+    "value": "Оружие-солнечное, огненно-плазменное. Акки растопит врагов!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

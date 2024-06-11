@@ -50,11 +50,6 @@
     "op": "replace"
   },
   {
-    "value": "???",
-    "path": "/thea-peculiaranomaly/parameters/displayName",
-    "op": "replace"
-  },
-  {
     "value": "Обнаружены весьма необычные показатели энергии, но небесные помехи не позволяют провести детальное сканирование. Необходимо провести обследование.",
     "path": "/thea-peculiaranomaly/parameters/description",
     "op": "replace"

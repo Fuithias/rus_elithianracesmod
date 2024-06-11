@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Sandcrawler's Delight",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Удовольствие Пескокраба",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "In the deep deserts, we have to be creative with our food. I need a few more samples before my new ^orange;Crawler Dunebun ^reset;recipe is ready... ^green;Could you go and capture a ^orange;Sandcrawler^reset;, then return the data to me? That'll help me finish the recipe!",
-      "path": "/text",
-      "op": "replace"
+    "value": "В глубоких пустынях мы должны быть креативными с нашей едой. Мне нужно еще несколько образцов, прежде чем мой новый рецепт ^orange;пескокрабовой булочки^reset будет готов... ^green;Не могли бы вы поймать ^orange;Пескокраба^reset, а затем вернуть данные мне? Это поможет мне завершить рецепт!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Vas Vha'leih, my friend. You gave me exactly what I needed. Here's some Tokens of Merit for your trouble, and a copy of the recipe so you can make your own ^orange;Crawler Dunebuns^reset;!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Vas Vha'leih, мой друг. Вы дали мне именно то, что нужно. Вот несколько Токенов Заслуг за ваши труды и копия рецепта, чтобы вы могли приготовить свои собственные ^orange;пескокрабовые булочки^reset!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Arravas ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Арравасу^reset в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

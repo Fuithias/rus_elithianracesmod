@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Bone Table",
+    "value": "Костяной стол Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A table made of bone.",
+    "value": "Стол из кости.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A table made of bone.",
+    "value": "Стол из кости.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive table.",
+    "value": "Примитивный стол.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tablesss made of bonesss.",
+    "value": "Столы из костей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A table made of bone.",
+    "value": "Заявление. Стол из кости.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A table made of bone. How lovely.",
+    "value": "Стол из кости. Как мило.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A table made of a monster's bones. Primitive, but surprisingly sturdy.",
+    "value": "Стол из костей монстра. Примитивный, но на удивление крепкий.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple bone table.",
+    "value": "Простой костяной стол.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional bone table.",
+    "value": "Традиционный костяной стол.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive bone table.",
+    "value": "Примитивный костяной стол.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Table. Bone.",
+    "value": "Стол. Кость.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Table-bone.",
+    "value": "Столовая кость.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

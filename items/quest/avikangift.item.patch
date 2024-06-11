@@ -1,16 +1,16 @@
 [
   {
-    "value": "A small metal trinket, a token of gratitude amongst the Avikan.",
+    "value": "Небольшая металлическая безделушка, знак благодарности Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Gift",
+    "value": "Авикан Гифт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

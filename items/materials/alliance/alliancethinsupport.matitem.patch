@@ -1,11 +1,11 @@
 [
   {
-    "value": "Light structural support beams.",
+    "value": "Легкие опорные балки конструкции.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Support Grid",
+    "value": "Сетка поддержки Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

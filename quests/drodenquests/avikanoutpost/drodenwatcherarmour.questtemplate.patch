@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Droden of the Watchers",
+    "value": "^green;Дроден Смотрителей",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Detected Droden unit registered to the Watchers. Logs indicate recent interaction with Commander Zaheed. Watcher armour received. ^green;This unit can trade ^orange;Avikan-fitted Watcher armour ^green;for ^orange;Watcher-themed Droden part replacements.^reset; Return with full set to complete trade.",
+    "value": "Обнаружен дроден, зарегистрированный на Смотрителей. Логи показывают недавнее взаимодействие с Командиром Захидом. Получена броня Смотрителей. ^green;Этот юнит может обменять ^orange;авиканскую броню Смотрителей ^green;на ^orange;замену частей дродена в стиле Смотрителей.^reset; Вернитесь с полным комплектом, чтобы завершить обмен.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Trade accepted. Handing over Watcher-themed Droden part replacements. Ending conversation.",
+    "value": "Обмен принят. Передача замененных частей дродена в стиле Смотрителей. Завершение разговора.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Lens-88 ^reset;in the ^orange;Starfarer's Refuge^reset;",
+    "value": "Вернитесь к ^orange;Ленс-88 ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

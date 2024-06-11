@@ -1,11 +1,11 @@
 [
   {
-    "value": "Leather tapestry for wall decoration and insulation.",
+    "value": "Кожаный гобелен для отделки и утепления стен.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trimmed Avikan Leather",
+    "value": "Отделанная кожей Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

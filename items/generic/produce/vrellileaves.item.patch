@@ -1,11 +1,11 @@
 [
   {
-    "value": "The bright red leaves of the Vrelli plant.",
+    "value": "Ярко-красные листья растения Врелли.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vrelli Leaves",
+    "value": "Листья Врелли",
     "path": "/shortdescription",
     "op": "replace"
   }

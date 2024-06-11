@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Farming Block",
+    "value": "Фермерский блок Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal container filled with fertile dirt, ready for farming.",
+    "value": "Металлический контейнер, заполненный плодородной землей, готовый для сельского хозяйства.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. Dirt captured in a metal container, for indoor farming.",
+    "value": "Заявление. Земля в металлическом контейнере, для внутреннего земледелия.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Dirt isss for farming.",
+    "value": "Земля для земледелия.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some dirty lookin' metal panel.",
+    "value": "Грязная металлическая панель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Fertile dirt captured in a metal container.",
+    "value": "Анализ завершен. Плодородная земля в металлическом контейнере.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Container for dirt, grow plants here.",
+    "value": "Контейнер для земли, здесь можно выращивать растения.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

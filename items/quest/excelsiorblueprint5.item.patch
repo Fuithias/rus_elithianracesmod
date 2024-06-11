@@ -1,16 +1,16 @@
 [
   {
-    "value": "A fragment of a weapon blueprint.",
+    "value": "Фрагмент чертежа оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Blueprint Fragment 5^white;",
+    "value": "^#BA66FF;Фрагмент чертежа 5^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

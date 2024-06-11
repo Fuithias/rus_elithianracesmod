@@ -1,6 +1,6 @@
 [
   {
-    "value": "A special bolt that explodes on contact.",
+    "value": "Специальный болт, который взрывается при контакте.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Explosive Bolt",
+    "value": "Взрывной болт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Bolt Mod",
+    "value": "Болт Мод",
     "path": "/category",
     "op": "replace"
   }

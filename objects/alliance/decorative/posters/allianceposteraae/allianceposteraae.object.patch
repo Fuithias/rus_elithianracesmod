@@ -1,36 +1,36 @@
 [
   {
-    "value": "AAE Poster",
+    "value": "Плакат ААЭ",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting the AAE.",
+    "value": "Плакат, рекламирующий ААЕ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss the green.",
+    "value": "Флорану нравится зелень.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. AAE stands for Advanced Aeginian Engineering.",
+    "value": "Информирован. AAE означает «Передовая эгинская инженерия».",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The AAE manufactures many things, from military equipment to household items and city power grids.",
+    "value": "ААЭ производит множество товаров: от военной техники до предметов домашнего обихода и городских электросетей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,12 +1,7 @@
 [
   {
-    "value": "Harrowing Pumpkin (Event)",
+    "value": "Мучительная тыква (Ивент)",
     "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
     "op": "replace"
   }
 ]

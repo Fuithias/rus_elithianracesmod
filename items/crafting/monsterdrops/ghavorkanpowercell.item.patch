@@ -1,11 +1,11 @@
 [
   {
-    "value": "A power cell torn from a Ghavorkan's body.",
+    "value": "Энергетический элемент, вырванный из тела Гаворкана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ghavorkan Power Cell",
+    "value": "Гаворканская энергетическая ячейка",
     "path": "/shortdescription",
     "op": "replace"
   }

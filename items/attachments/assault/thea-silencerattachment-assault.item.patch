@@ -1,6 +1,6 @@
 [
   {
-    "value": "Silences shots and allows projectiles to pierce targets.",
+    "value": "Заглушает выстрелы и позволяет снарядам пробивать цели.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Silencer",
+    "value": "Глушитель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

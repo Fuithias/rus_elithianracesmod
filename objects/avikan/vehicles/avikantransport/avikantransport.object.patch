@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Transport",
+    "value": "Авикан Транспорт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan-built vehicle for transporting cargo.",
+    "value": "Автомобиль компании «Авикан» для перевозки грузов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A big and bulky hovering transport vehicle.",
+    "value": "Большой и громоздкий парящий транспорт.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering transport vehicle... Where are the wings?",
+    "value": "Парящий транспортник... Где крылья?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran puts goodsss into flying box, then Floran fliess away!",
+    "value": "Флоран складывает товары в летающий ящик, а затем Флоран улетает!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This hovering vehicle has a far greater carrying capacity than a mechanical horse.",
+    "value": "Впечатленный. Это парящее транспортное средство имеет гораздо большую грузоподъемность, чем механическая лошадь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering transport vehicle... What's it carrying?",
+    "value": "Парящая транспортная машина... Что она несет?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering cargo transport. It flies with grace.",
+    "value": "Парящий грузовой транспорт. Он летит с изяществом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Like most Avikan vehicles, this cargo transport hovers using Centensian technology.",
+    "value": "Как и большинство автомобилей «Авикан», этот грузовой транспорт парит по технологии Centensian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The vehicle of choice for transporting cargo between Terves in the desert.",
+    "value": "Транспортное средство для перевозки грузов между Тервесами в пустыне.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Hovering transport vehicles are an efficient tool for moving cargo.",
+    "value": "Парящие транспортные средства являются эффективным средством перемещения грузов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Nomada Cargo Transport. Analysis: cargo crates empty.",
+    "value": "Номада Грузовой Транспорт. Анализ: грузовые ящики пусты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Vehicle-alien, transport goods around.",
+    "value": "Транспортное средство-инопланетянин, перевозите грузы по округе.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Vanguard Skiprifle Display",
+    "value": "Дисплей скиприфлов Vanguard",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan skiprifle on display.",
+    "value": "На выставке представлена ​​винтовка Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Some sort of alien pistol.",
+    "value": "Какой-то инопланетный пистолет.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This pistol was designed by aliens.",
+    "value": "Этот пистолет был разработан инопланетянами.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran use thisss to sstab?",
+    "value": "Флоран использовал это, чтобы нанести удар?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysing. This weapon is called a skiprifle by its creators, because its rounds skip off hard surfaces.",
+    "value": "Анализ. Создатели этого оружия называют скипвинтовкой, потому что его патроны отскакивают от твердых поверхностей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien pistol. Imagine dual-wielding this beast!",
+    "value": "Инопланетный пистолет. Представьте, что вы владеете этим зверем двумя оружиями!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "It is unfortunate that violence, and with it, weapons, are a necessity in this universe.",
+    "value": "К сожалению, насилие, а вместе с ним и оружие, являются необходимостью в этой вселенной.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This Avikan skiprifle fires a burst of bullets designed to skip off surfaces.",
+    "value": "Эта винтовка Авикан стреляет очередью пуль, предназначенных для отскакивания от поверхностей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Small but deadly, a skiprifle is an essential tool for Avikan explorers.",
+    "value": "Маленькая, но смертоносная винтовка — незаменимый инструмент для исследователей Авикана.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A small and lightweight pistol, but exceptionally efficient at killing.",
+    "value": "Маленький и легкий пистолет, но исключительно эффективный для убийства.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Vanguard Skiprifle detected. Ammunition depleted.",
+    "value": "Обнаружен скиприфл Vanguard. Боеприпасы исчерпаны.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pistol-small. Akki find it puny.",
+    "value": "Пистолет-маленький. Акки находит это ничтожным.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

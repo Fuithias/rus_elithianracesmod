@@ -1,16 +1,16 @@
 [
   {
-    "value": "^green;Custom Tailoring",
+    "value": "^green;Индивидуальный пошив",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "The Alliance sent me a classic ASA hat adorned with the Protectorate emblem, to symbolize our newfound friendship. It should be waiting for me in my locker.",
+    "value": "Альянс прислал мне классическую шляпу ASA, украшенную эмблемой Протектората, чтобы символизировать нашу новую дружбу. Она должна ждать меня в моем шкафчике.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "This'll fit my Protectorate uniform nicely. Better not lose it - it's truly one of a kind.",
+    "value": "Это отлично подойдет к моей униформе Протектората. Лучше не терять её - она действительно уникальна.",
     "path": "/completionText",
     "op": "replace"
   }

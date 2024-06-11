@@ -1,11 +1,11 @@
 [
   {
-    "value": "A reinforced metal cube, easily stored and ready for crafting.",
+    "value": "Усиленный металлический куб, легко хранится и готов к изготовлению.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Superb Trinkian Metal",
+    "value": "Превосходный тринкиан-метал",
     "path": "/shortdescription",
     "op": "replace"
   }

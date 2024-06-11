@@ -1,11 +1,11 @@
 [
   {
-    "value": "Provides a shield that absorbs a moderate amount of damage before breaking.",
+    "value": "Создает щит, который поглощает умеренное количество урона, прежде чем сломаться.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bubble Shield Augment II",
+    "value": "Улучшение Пузырчатого Щита II",
     "path": "/shortdescription",
     "op": "replace"
   }

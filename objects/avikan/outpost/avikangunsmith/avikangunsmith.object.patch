@@ -1,36 +1,36 @@
 [
   {
-    "value": "Ayurin's Weapon Workshop",
+    "value": "Оружейная мастерская Аюрина",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "It seems that Ayurin is the local gunsmith. Maybe he could craft me some new weapons.",
+    "value": "Кажется, Аюрин — местный оружейник. Возможно, он сможет изготовить для меня какое-нибудь новое оружие.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Gunssmith craftss new weaponsss for Floran?",
+    "value": "Оружейник создает новое оружие для Флорана?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Anticipation. This gunsmith might be able to provide me with new weapons.",
+    "value": "Ожидание. Этот оружейник, возможно, сможет предоставить мне новое оружие.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A gunsmith? Might be gettin' some new rifles here.",
+    "value": "Оружейник? Возможно, здесь купят новые винтовки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard-certified gunsmith. Unit can acquire new schematics for weapons here.",
+    "value": "Обнаружен сертифицированный оружейник Vanguard. Здесь отряд может приобрести новые схемы оружия.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki purchase blueprints, make things-new.",
+    "value": "Акки покупает чертежи, делает вещи новыми.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

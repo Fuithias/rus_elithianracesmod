@@ -1,11 +1,11 @@
 [
   {
-    "value": "Polished metal panels.",
+    "value": "Полированные металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Panel",
+    "value": "Панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

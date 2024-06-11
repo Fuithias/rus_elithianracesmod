@@ -1,16 +1,16 @@
 [
   {
-    "value": "A contract for hiring the services of Alliance crew members.",
+    "value": "Контракт на найм услуг членов экипажа Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Alliance Crew Contract^white;",
+    "value": "^#BA66FF;Контракт экипажа Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Contract",
+    "value": "Договор",
     "path": "/category",
     "op": "replace"
   }

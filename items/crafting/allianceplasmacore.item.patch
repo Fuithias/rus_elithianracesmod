@@ -1,11 +1,11 @@
 [
   {
-    "value": "The core of any plasma-infused Alliance rifle.",
+    "value": "Ядро любой плазменной винтовки Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Plasma Injector",
+    "value": "Плазменный инжектор",
     "path": "/shortdescription",
     "op": "replace"
   }

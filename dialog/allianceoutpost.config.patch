@@ -1,471 +1,471 @@
 [
   {
-    "value": "I have nothing to say to you.",
+    "value": "Мне нечего вам сказать.",
     "path": "/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Hi there.",
+    "value": "О, привет.",
     "path": "/converse/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Isn't this place great? It's got everything I'd ever need!",
+    "value": "Разве это место не замечательное? Здесь есть все, что мне только может понадобиться!",
     "path": "/converse/aegi/generic/0",
     "op": "replace"
   },
   {
-    "value": "The Creon Embassy is really something, huh? It's such a great place to visit.",
+    "value": "Посольство Креона это действительно нечто, да? Это такое замечательное место, которое стоит посетить",
     "path": "/converse/aegi/generic/1",
     "op": "replace"
   },
   {
-    "value": "There's people of all kinds of species here.",
+    "value": "Здесь есть люди самых разных видов.",
     "path": "/converse/aegi/generic/2",
     "op": "replace"
   },
   {
-    "value": "Have you been to the top level of the embassy? There's a locked door there. I wonder what's behind it?",
+    "value": "Вы были на верхнем уровне правительства? Там есть запертая дверь. Интересно, что за ней?",
     "path": "/converse/aegi/generic/3",
     "op": "replace"
   },
   {
-    "value": "There's a mechanic in the embassy's hangars who fixes up broken vehicles.",
+    "value": "В ангарах посольства есть механик, который чинит сломанные машины.",
     "path": "/converse/aegi/generic/4",
     "op": "replace"
   },
   {
-    "value": "The lady at the embassy's reception desk was actually quite helpful to me.",
+    "value": "Женщина на стойке регистрации в посольстве была мне очень полезна.",
     "path": "/converse/aegi/generic/5",
     "op": "replace"
   },
   {
-    "value": "I wish I was an ambassador too. The places I'd get to visit...",
+    "value": "Я бы тоже хотел быть послом. Какие места я бы посетил...",
     "path": "/converse/aegi/generic/6",
     "op": "replace"
   },
   {
-    "value": "Seeing the city in the distance always makes me feel happy.",
+    "value": "Видя город вдали, я всегда чувствую себя счастливым.",
     "path": "/converse/aegi/generic/7",
     "op": "replace"
   },
   {
-    "value": "The banners in the embassy are so cool. Makes us all feel connected.",
+    "value": "Баннеры в посольстве - это так здорово. Заставляют нас всех чувствовать связь.",
     "path": "/converse/aegi/generic/8",
     "op": "replace"
   },
   {
-    "value": "I've been inside the sewers beneath the town once. It's kinda scary in there.",
+    "value": "Однажды я побывал в канализации под городом. Там страшновато.",
     "path": "/converse/aegi/generic/9",
     "op": "replace"
   },
   {
-    "value": "I heard strange noises in the sewers below the town. Maybe I should report them to P-ASA...",
+    "value": "Я слышал странные звуки в канализации под городом. Может, мне стоит сообщить о них в П-АСБ...",
     "path": "/converse/aegi/generic/10",
     "op": "replace"
   },
   {
-    "value": "I've seen some weird people here. I was kinda freaked out.",
+    "value": "Я видел здесь странных людей. Я был немного напуган.",
     "path": "/converse/aegi/generic/11",
     "op": "replace"
   },
   {
-    "value": "The gardens here are so pretty.",
+    "value": "Сады здесь такие красивые.",
     "path": "/converse/aegi/generic/12",
     "op": "replace"
   },
   {
-    "value": "There's an awesome gift shop in the town.",
+    "value": "В городе есть замечательный сувенирный магазин.",
     "path": "/converse/aegi/generic/13",
     "op": "replace"
   },
   {
-    "value": "There's a shop in the town that sells posters. I wanted the NSI poster, but it's kinda expensive.",
+    "value": "В городе есть магазин, где продают плакаты. Я хотел плакат НСИ, но он довольно дорогой.",
     "path": "/converse/aegi/generic/14",
     "op": "replace"
   },
   {
-    "value": "What brings you to the embassy today?",
+    "value": "Что привело вас сегодня в посольство?",
     "path": "/converse/aegi/generic/15",
     "op": "replace"
   },
   {
-    "value": "Do you visit here often?",
+    "value": "Вы часто здесь бываете?",
     "path": "/converse/aegi/generic/16",
     "op": "replace"
   },
   {
-    "value": "You must have seen some incredible places.",
+    "value": "Вы, должно быть, видели невероятные места.",
     "path": "/converse/aegi/generic/17",
     "op": "replace"
   },
   {
-    "value": "I forgot where I parked my hovercar again. Hope I didn't leave it on a roof like last time...",
+    "value": "Я опять забыл, где припарковал свой экраноплан. Надеюсь, я не оставил его на крыше, как в прошлый раз...",
     "path": "/converse/aegi/generic/18",
     "op": "replace"
   },
   {
-    "value": "The Kelbet here are so peaceful.",
+    "value": "Кельбет здесь такой спокойный.",
     "path": "/converse/aegi/generic/19",
     "op": "replace"
   },
   {
-    "value": "I want a Trangii.",
+    "value": "Я хочу транджи.",
     "path": "/converse/aegi/generic/20",
     "op": "replace"
   },
   {
-    "value": "My pet Trangii should be around here somewhere.",
+    "value": "Мой питомец транджи должен быть где-то здесь.",
     "path": "/converse/aegi/generic/21",
     "op": "replace"
   },
   {
-    "value": "The vehicle dealership in the town has some great rides for sale.",
+    "value": "В автосалоне города продается несколько отличных автомобилей.",
     "path": "/converse/aegi/generic/22",
     "op": "replace"
   },
   {
-    "value": "The bookstore in town is small, but pretty good.",
+    "value": "Книжный магазин в городе небольшой, но довольно хороший.",
     "path": "/converse/aegi/generic/23",
     "op": "replace"
   },
   {
-    "value": "I wonder why the sewers are off-limits?",
+    "value": "Интересно, почему канализация запрещена?",
     "path": "/converse/aegi/generic/24",
     "op": "replace"
   },
   {
-    "value": "Wanna go grab a drink?",
+    "value": "Хочешь выпить?",
     "path": "/converse/aegi/generic/25",
     "op": "replace"
   },
   {
-    "value": "I've got a home in the big city. You can actually see it from here.",
+    "value": "У меня есть дом в большом городе. Вы можете увидеть его отсюда.",
     "path": "/converse/aegi/generic/26",
     "op": "replace"
   },
   {
-    "value": "I wish I lived in the big city.",
+    "value": "Я бы хотела жить в большом городе.",
     "path": "/converse/aegi/generic/27",
     "op": "replace"
   },
   {
-    "value": "Creon is a fascinating city.",
+    "value": "Креон - удивительный город.",
     "path": "/converse/aegi/generic/28",
     "op": "replace"
   },
   {
-    "value": "The town is officially called the Embassy Village. It's not actually part of Creon, but it's right on the edge.",
+    "value": "Город официально называется посольской деревней. На самом деле он не является частью Креона, но на самом краю.",
     "path": "/converse/aegi/generic/29",
     "op": "replace"
   },
   {
-    "value": "There's so many elevators in the embassy.",
+    "value": "В посольстве так много лифтов.",
     "path": "/converse/aegi/generic/30",
     "op": "replace"
   },
   {
-    "value": "I want to go home and play some games.",
+    "value": "Я хочу пойти домой и поиграть в какую-нибудь игру.",
     "path": "/converse/aegi/generic/31",
     "op": "replace"
   },
   {
-    "value": "I recently graduated!",
+    "value": "Я недавно закончила школу!",
     "path": "/converse/aegi/generic/32",
     "op": "replace"
   },
   {
-    "value": "Watching the hovercars in the distance is so soothing.",
+    "value": "Наблюдение за экранопланами вдали успокаивает.",
     "path": "/converse/aegi/generic/33",
     "op": "replace"
   },
   {
-    "value": "I wonder how high that tower in the distance really is?",
+    "value": "Интересно, насколько высока та башня вдалеке?",
     "path": "/converse/aegi/generic/34",
     "op": "replace"
   },
   {
-    "value": "The Creon Embassy is such a large building.",
+    "value": "Посольство Креона - это такое большое здание.",
     "path": "/converse/aegi/generic/35",
     "op": "replace"
   },
   {
-    "value": "I want to visit the colonies one day.",
+    "value": "Однажды я хочу посетить колонии.",
     "path": "/converse/aegi/generic/36",
     "op": "replace"
   },
   {
-    "value": "Have you ever been to one of the Union colonies? What was it like?",
+    "value": "Вы когда-нибудь бывали в одной из колоний Союза? Что там было?",
     "path": "/converse/aegi/generic/37",
     "op": "replace"
   },
   {
-    "value": "The parks here are incredibly peaceful.",
+    "value": "В здешних парках невероятно спокойно.",
     "path": "/converse/aegi/generic/38",
     "op": "replace"
   },
   {
-    "value": "My hayfever is acting up again.",
+    "value": "У меня снова началась сенная лихорадка.",
     "path": "/converse/aegi/generic/39",
     "op": "replace"
   },
   {
-    "value": "The climate here is really comfortable. Even the rain isn't too bad.",
+    "value": "Климат здесь очень комфортный. Даже дождь не страшен.",
     "path": "/converse/aegi/generic/40",
     "op": "replace"
   },
   {
-    "value": "My cousin got a new Aventor Galliot the other day. I'm a bit jealous.",
+    "value": "Мой двоюродный брат на днях получил новый Авентор Галлиот. Я немного завидую.",
     "path": "/converse/aegi/generic/41",
     "op": "replace"
   },
   {
-    "value": "I used to be a traveler like you, but I got bored of that life.",
+    "value": "Когда-то я был таким же путешественником, как и вы, но мне наскучила такая жизнь.",
     "path": "/converse/aegi/generic/42",
     "op": "replace"
   },
   {
-    "value": "I heard something awful happened to Earth.",
+    "value": "Я слышал, что с Землей случилось что-то ужасное.",
     "path": "/converse/aegi/generic/43",
     "op": "replace"
   },
   {
-    "value": "I want to visit Scii some day.",
+    "value": "Я хочу когда-нибудь посетить Скию.",
     "path": "/converse/aegi/generic/44",
     "op": "replace"
   },
   {
-    "value": "The Creon Embassy may not be the largest embassy, but it is one of the best.",
+    "value": "Может быть, посольство Креона и не самое большое, но одно из лучших.",
     "path": "/converse/aegi/generic/45",
     "op": "replace"
   },
   {
-    "value": "I want to visit Scii some day.",
+    "value": "Я хочу когда-нибудь посетить Скию.",
     "path": "/converse/aegi/generic/46",
     "op": "replace"
   },
   {
-    "value": "I love those globes of Elithia. Makes me feel small.",
+    "value": "Мне нравятся эти глобусы Элитии. Они заставляют меня чувствовать себя маленькой.",
     "path": "/converse/aegi/generic/47",
     "op": "replace"
   },
   {
-    "value": "The embassy actually has a gun range. You need a special pass to access it though.",
+    "value": "В посольстве действительно есть стрельбище. Но для доступа к нему нужен специальный пропуск.",
     "path": "/converse/aegi/generic/48",
     "op": "replace"
   },
   {
-    "value": "There's this one Avikan fellow in the embassy. I hope they join the Alliance at some point, too.",
+    "value": "В посольстве есть один авиканский парень. Надеюсь, они тоже когда-нибудь присоединятся к Альянсу.",
     "path": "/converse/aegi/generic/49",
     "op": "replace"
   },
   {
-    "value": "I saw this strange alien in the embassy, an Akkimari I think. Made me feel uneasy.",
+    "value": "В посольстве я увидел странного пришельца, кажется, аккимари. Мне стало не по себе.",
     "path": "/converse/aegi/generic/50",
     "op": "replace"
   },
   {
-    "value": "There's some great Trinkian engineers and mechanics in the embassy's hangar.",
+    "value": "В ангаре посольства есть отличные тринкианские инженеры и механики.",
     "path": "/converse/aegi/generic/51",
     "op": "replace"
   },
   {
-    "value": "I love the fish in the embassy's pools.",
+    "value": "Мне нравятся рыбки в бассейнах посольства.",
     "path": "/converse/aegi/generic/52",
     "op": "replace"
   },
   {
-    "value": "Have you been to the recruitment office yet? You can easily find more crewmembers there.",
+    "value": "Вы уже были в офисе по набору персонала? Там можно легко найти больше членов экипажа.",
     "path": "/converse/aegi/generic/53",
     "op": "replace"
   },
   {
-    "value": "I lost my keys somewhere. Perhaps the lost and found booth can help me.",
+    "value": "Я где-то потерял ключи. Возможно, в будке находок мне помогут.",
     "path": "/converse/aegi/generic/54",
     "op": "replace"
   },
   {
-    "value": "I heard there's a Trink in the sewers by the name of 'the Bolter'. Sounds sketchy.",
+    "value": "Я слышал, что в канализации живет тринк по кличке Болтер. Звучит заманчиво.",
     "path": "/converse/aegi/generic/55",
     "op": "replace"
   },
   {
-    "value": "I saw this chest way up on the tower. I wonder what's in it?",
+    "value": "Я видел этот сундук на башне. Интересно, что в нем?",
     "path": "/converse/aegi/generic/56",
     "op": "replace"
   },
   {
-    "value": "Want to come with me and visit the Hötbrod stand?",
+    "value": "Хотите пойти со мной и посетить стенд Hotbrod?",
     "path": "/converse/aegi/generic/57",
     "op": "replace"
   },
   {
-    "value": "I'm glad the embassy has plenty of public toilets.",
+    "value": "Я рад, что в посольстве много общественных туалетов.",
     "path": "/converse/aegi/generic/58",
     "op": "replace"
   },
   {
-    "value": "I saw soldiers way up in the embassy tower. I wonder why they're there?",
+    "value": "Я видел солдат на башне посольства. Интересно, зачем они там?",
     "path": "/converse/aegi/generic/59",
     "op": "replace"
   },
   {
-    "value": "Huh? Oh, hi there!",
+    "value": "А? О, привет!",
     "path": "/converse/aegi/generic/60",
     "op": "replace"
   },
   {
-    "value": "I love seeing the city lights turn on at night.",
+    "value": "Мне нравится видеть, как ночью загораются городские огни.",
     "path": "/converse/aegi/generic/61",
     "op": "replace"
   },
   {
-    "value": "I think I saw something up on those cliffs near the town.",
+    "value": "Мне кажется, я что-то видел на тех скалах возле города.",
     "path": "/converse/aegi/generic/62",
     "op": "replace"
   },
   {
-    "value": "Greetings.",
+    "value": "Приветствую вас.",
     "path": "/converse/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "This place is quite fascinating.",
+    "value": "Это место просто завораживает.",
     "path": "/converse/trink/generic/0",
     "op": "replace"
   },
   {
-    "value": "This embassy is a good representation of the Elithian Alliance.",
+    "value": "Это посольство является хорошим представителем Элитийского Альянса.",
     "path": "/converse/trink/generic/1",
     "op": "replace"
   },
   {
-    "value": "I hope that Avikan in the embassy isn't here to hunt down machines...",
+    "value": "Надеюсь, авикан в посольстве не охотится за машинами...",
     "path": "/converse/trink/generic/2",
     "op": "replace"
   },
   {
-    "value": "I helped design the embassy's power grid. It is very efficient.",
+    "value": "Я помогал проектировать электросеть посольства. Она очень эффективна.",
     "path": "/converse/trink/generic/3",
     "op": "replace"
   },
   {
-    "value": "There are many Trinkian engineers in the embassy hangars. It's good to see more of my kind here.",
+    "value": "В ангарах посольства много тринкианских инженеров. Рад видеть здесь больше таких, как я.",
     "path": "/converse/trink/generic/4",
     "op": "replace"
   },
   {
-    "value": "Is this your first time visiting Elithia?",
+    "value": "Вы впервые посещаете Элитию?",
     "path": "/converse/trink/generic/5",
     "op": "replace"
   },
   {
-    "value": "The embassy always offers exceptional connection to the Allied Interstellar Network.",
+    "value": "Посольство всегда предлагает исключительную связь с Союзной Межзвездной сетью.",
     "path": "/converse/trink/generic/6",
     "op": "replace"
   },
   {
-    "value": "I've heard of you! You are <entityname>, right?",
+    "value": "Я слышал о вас! Вы <entityname>, верно?",
     "path": "/converse/trink/generic/7",
     "op": "replace"
   },
   {
-    "value": "Do not go into the sewers. You can easily get lost in there.",
+    "value": "Не заходите в канализацию. Там можно легко заблудиться.",
     "path": "/converse/trink/generic/8",
     "op": "replace"
   },
   {
-    "value": "The Aegi are big fans of Hötbrod, but I don't really get the fascination.",
+    "value": "Аеги - большие поклонники Hotbrod, но я не понимаю, чем они так очарованы.",
     "path": "/converse/trink/generic/9",
     "op": "replace"
   },
   {
-    "value": "The P-ASA officers here are very vigilant.",
+    "value": "Офицеры П-АСБ здесь очень бдительны.",
     "path": "/converse/trink/generic/10",
     "op": "replace"
   },
   {
-    "value": "Have you been to the Trinkian embassy yet?",
+    "value": "Вы уже были в Тринкианском посольстве?",
     "path": "/converse/trink/generic/11",
     "op": "replace"
   },
   {
-    "value": "The elevators in the embassy run very efficiently.",
+    "value": "Лифты в посольстве работают очень эффективно.",
     "path": "/converse/trink/generic/12",
     "op": "replace"
   },
   {
-    "value": "It is fascinating to see the trees growing on top of Aeginian buildings. It's a very efficient use of space.",
+    "value": "Завораживает вид деревьев, растущих на вершинах аегианских зданий.. Это очень эффективное использование пространства.",
     "path": "/converse/trink/generic/13",
     "op": "replace"
   },
   {
-    "value": "It is odd to see so much wildlife here. They are not exactly afraid of us.",
+    "value": "Странно видеть здесь так много диких животных. Они нас не боятся.",
     "path": "/converse/trink/generic/14",
     "op": "replace"
   },
   {
-    "value": "I heard there are plans to expand the embassy even further. I am curious to see what will be added next.",
+    "value": "Я слышал, что посольство планируют расширить еще больше. Мне интересно посмотреть, что будет добавлено дальше.",
     "path": "/converse/trink/generic/15",
     "op": "replace"
   },
   {
-    "value": "Greetings, traveler.",
+    "value": "Приветствую тебя, путешественник.",
     "path": "/converse/trink/generic/16",
     "op": "replace"
   },
   {
-    "value": "There is a Union Admiral in the embassy's upper levels. I haven't been allowed to speak to him yet.",
+    "value": "На верхних уровнях посольства находится Адмирал Союза. Мне еще не разрешили с ним поговорить.",
     "path": "/converse/trink/generic/17",
     "op": "replace"
   },
   {
-    "value": "I tried to enter an Aventor Galliot once. I didn't quite fit.",
+    "value": "Однажды я пытался войти в Авентор Галлиот. Я не совсем вписался.",
     "path": "/converse/trink/generic/18",
     "op": "replace"
   },
   {
-    "value": "It is good to see that the Aegi rely more on public transportation than personal transportation. It's quite efficient.",
+    "value": "Приятно видеть, что аеги больше полагаются на общественный транспорт, чем на личный.. Это очень эффективно.",
     "path": "/converse/trink/generic/19",
     "op": "replace"
   },
   {
-    "value": "One of those Trangii barked at me earlier. I don't think it likes me.",
+    "value": "Один из этих Транджи лаял на меня раньше. Не думаю, что я ему нравлюсь.",
     "path": "/converse/trink/generic/20",
     "op": "replace"
   },
   {
-    "value": "I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly.",
+    "value": "Однажды один из кельбетов ударил меня головой. Бедняжка очень сильно поранилась.",
     "path": "/converse/trink/generic/21",
     "op": "replace"
   },
   {
-    "value": "The town has some good shops in it, but most of it isn't very relevant to me.",
+    "value": "В городе есть несколько хороших магазинов, но большинство из них не имеют для меня особого значения.",
     "path": "/converse/trink/generic/22",
     "op": "replace"
   },
   {
-    "value": "I have a pass to enter the embassy gun range. No, you can't have it.",
+    "value": "У меня есть пропуск на территорию посольства. Нет, вы не можете его получить.",
     "path": "/converse/trink/generic/23",
     "op": "replace"
   },
   {
-    "value": "I hitchhiked my way here.",
+    "value": "Я добирался сюда автостопом.",
     "path": "/converse/trink/generic/24",
     "op": "replace"
   },
   {
-    "value": "Do you know the meaning of life?",
+    "value": "Знаете ли вы смысл жизни?",
     "path": "/converse/trink/generic/25",
     "op": "replace"
   },
   {
-    "value": "Have you ever tried hitchhiking? It's great fun.",
+    "value": "Вы когда-нибудь пробовали путешествовать автостопом? Это очень весело.",
     "path": "/converse/trink/generic/26",
     "op": "replace"
   },
   {
-    "value": "Many of the embassy's lights only turn on at night. I like the efficiency of the system.",
+    "value": "Многие светильники в посольстве включаются только ночью. Мне нравится эффективность этой системы.",
     "path": "/converse/trink/generic/27",
     "op": "replace"
   }

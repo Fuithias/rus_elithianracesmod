@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Vending Machine",
+    "value": "Торговый автомат Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A vending machine filled with popular beverages.",
+    "value": "Торговый автомат с популярными напитками.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "It's full of all sorts of soft drinks.",
+    "value": "Там полно всяких безалкогольных напитков.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The drinks in here look a little sweet for my taste...",
+    "value": "Напитки здесь кажутся мне немного сладкими...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran dissslike over-sweet drinks.",
+    "value": "Флоран не любит слишком сладкие напитки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. I wouldn't mind trying some of these foreign beverages.",
+    "value": "Заинтригован. Я бы не отказался попробовать некоторые из этих иностранных напитков.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The machine is selling soft drinks.",
+    "value": "Автомат по продаже безалкогольных напитков.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "There is no Reef-Cola in here, unfortunately.",
+    "value": "К сожалению, здесь нет Риф-Колы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Never been a great fan of fizzy drinks.",
+    "value": "Никогда не был большим поклонником газированных напитков.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A vending machine full of beverages.",
+    "value": "Торговый автомат, полный напитков.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This machine dispenses drinks. What a strange thing.",
+    "value": "Эта машина раздает напитки. Какая странная вещь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The most popular sodas in the Union can be purchased here.",
+    "value": "Здесь можно приобрести самые популярные газированные напитки в Союзе.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien device. Analysis: dispenses drinks in exchange for currency.",
+    "value": "Обнаружено инопланетное устройство. Анализ: раздает напитки в обмен на валюту.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want drink. Akki smash glass?",
+    "value": "Акки хочет выпить. Акки разбила стекло?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

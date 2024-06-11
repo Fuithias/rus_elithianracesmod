@@ -1,16 +1,16 @@
 [
   {
-    "value": "The heatsink of a small but powerful weapon, designed by AEG-Corps.",
+    "value": "Радиатор небольшого, но мощного оружия, разработанного AEG-Corps.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Excelsior Heatsink^white;",
+    "value": "^orange;Радиатор Excelsior^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

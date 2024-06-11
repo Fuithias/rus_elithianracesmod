@@ -1,31 +1,31 @@
 [
   {
-    "value": "^orange;Chacharra's Stealth Tech II",
+    "value": "^orange;Скрытная Технология Чачарры II",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Before you get tech, Chacharra make sure you know how tech works. ^green;Go to ^orange;testing course ^green;Chacharra made^reset;, then ^orange;Stealth Tech ^reset;yours forever!",
+    "value": "Прежде чем вы получите технологию, Чачарра должен убедиться, что вы знаете, как она работает. ^green;Пройдите ^orange;тестовый курс ^green;Чачарры^reset;, тогда ^orange;Скрытная Технология ^reset;будет вашей навсегда!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Chacharra impressed, you skilled! You keep ^orange;Stealth Tech^reset;, use to sneak past many enemies...",
+    "value": "Чачарра впечатлен, вы умелы! Вы сохраняете ^orange;Скрытную Технологию^reset;, используйте её, чтобы прокрасться мимо многих врагов...",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Talk to ^orange;Chacharra^reset; to enter the ^orange;testing course^reset;",
+    "value": "Поговорите с ^orange;Чачаррой^reset;, чтобы войти в ^orange;тестовый курс^reset;",
     "path": "/scriptConfig/descriptions/enterInstance",
     "op": "replace"
   },
   {
-    "value": "Complete the ^orange;Stealth Tech testing course^reset;",
+    "value": "Пройдите ^orange;тестовый курс Скрытной Технологии^reset;",
     "path": "/scriptConfig/descriptions/findGoal",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольстве Креона^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

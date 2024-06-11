@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal panel often used to cover the floor.",
+    "value": "Металлическая панель часто используется для покрытия пола.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Ground Panel",
+    "value": "Наземная панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

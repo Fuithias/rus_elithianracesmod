@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Vehicle Jumpgate",
+    "value": "Авиканский автомобильный трамплин",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A jumpgate built to transport vehicles off and onto ships in orbit.",
+    "value": "Переходные ворота, построенные для транспортировки транспортных средств на корабли на орбите.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This device looks like some sort of teleporter.",
+    "value": "Это устройство похоже на какой-то телепорт.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Is this a teleporter? Better not get too close...",
+    "value": "Это телепорт? Лучше не подходить слишком близко...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wonderss what thisss isss...",
+    "value": "Флорану интересно, что это такое...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This device can teleport vehicles using a teleportation method unknown to me.",
+    "value": "Очарованный. Это устройство может телепортировать транспортные средства, используя неизвестный мне метод телепортации.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter for teleporting vehicles? Neat!",
+    "value": "Телепорт для телепортации транспортных средств? Аккуратный!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleportation device is powered by technologies far beyond me.",
+    "value": "Это телепортационное устройство создано на основе технологий, превосходящих мои возможности.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This jumpgate seems to have been built solely to transport vehicles.",
+    "value": "Похоже, эти прыжковые ворота были построены исключительно для перевозки транспортных средств.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A jumpgate for transporting vehicles. It's ready to move that Keff anywhere it needs to go.",
+    "value": "Ворота для перевозки транспортных средств. Он готов переместить Кеффа куда угодно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This jumpgate allows its owner to transport vehicles from a ship in orbit to a planet's surface, and vice-versa.",
+    "value": "Эти прыжковые ворота позволяют их владельцу переносить транспортные средства с корабля на орбите на поверхность планеты и наоборот.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected jumpgate technology.",
+    "value": "Обнаружена технология перехода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter for vehicle.",
+    "value": "Телепорт для автомобиля.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

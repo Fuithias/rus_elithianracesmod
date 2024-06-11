@@ -1,11 +1,11 @@
 [
   {
-    "value": "The MEGA-TRINK armour is designed for use by Trinkian operators.",
+    "value": "Броня MEGA-TRINK предназначена для использования операторами Тринкиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "MEGA-TRINK Mech Body",
+    "value": "МЕГА-ТРИНК Механический корпус",
     "path": "/shortdescription",
     "op": "replace"
   }

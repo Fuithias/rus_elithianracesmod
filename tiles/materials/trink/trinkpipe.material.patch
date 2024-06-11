@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Pipe",
+    "value": "Тринкская труба",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A big pipe for transporting liquids.",
+    "value": "Большая труба для транспортировки жидкостей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. A pipe.",
+    "value": "Утверждение. Труба.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wonderss what iss inside pipes?",
+    "value": "Флорану интересно, что внутри труб?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A big pipe for moving about liquids. Hope there isn't any poop in there.",
+    "value": "Большая труба для перемещения жидкостей. Надеюсь, там нет фекалий.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis failed. Unable to scan pipe contents.",
+    "value": "Анализ не удался. Невозможно просканировать содержимое трубы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki no want to know what flows through pipe...",
+    "value": "Акки не хочет знать, что течет через трубу...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

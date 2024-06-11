@@ -1,17 +1,17 @@
 [
   {
-      "value": "^orange;Prime Circuit IV",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Схема прайм IV",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Now that I have all the components, I should ^green;return to a Circuit Fabricator and construct the finished ^orange;Prime Circuit^white;.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Теперь, когда у меня есть все компоненты, я должен ^green;вернуться к Фабрикатору схем и создать готовый ^orange;Схема прайм^white;.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "The Prime Circuit is finally finished! NivRAM would be proud of my accomplishment.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Схема прайм наконец готов! НивОЗУ был бы горд моим достижением.",
+    "path": "/completionText",
+    "op": "replace"
   }
 ]

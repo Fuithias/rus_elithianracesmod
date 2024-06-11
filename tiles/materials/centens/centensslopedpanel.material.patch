@@ -1,36 +1,36 @@
 [
   {
-    "value": "Centensian Sloped Panel",
+    "value": "Центенская наклонная панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sloped panel built with a lightweight but incredibly strong metal.",
+    "value": "Наклонная панель, сделанная из легкого, но невероятно прочного металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This metal panel is stronger and lighter than anything I've encountered before.",
+    "value": "Заворожен. Эта металлическая панель прочнее и легче всего, что я когда-либо встречал.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran is confused. Metal isss light and so sstrong Floran can't scratch it...",
+    "value": "Флоран в замешательстве. Металл такой легкий и такой прочный, что Флоран не может его поцарапать...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Those are metal wall panels alright.",
+    "value": "Это металлические настенные панели.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Centensian metal plating detected.",
+    "value": "Анализ завершен. Обнаружено Центенамское металлическое покрытие.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-sloped. Slippery-very, Akki careful.",
+    "value": "Панель-наклонная. Очень скользкая, акки осторожен.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Sniper ammunition that explodes on proximity to enemies.",
+    "value": "Снайперские боеприпасы, взрывающиеся при приближении к врагам.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Prox Ammo",
+    "value": "Прокс-боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

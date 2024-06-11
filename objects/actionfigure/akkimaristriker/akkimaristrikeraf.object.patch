@@ -1,11 +1,11 @@
 [
   {
-    "value": "Striker Figurine",
+    "value": "Фигурка нападающего",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A stealth combat drone in employ of the Akkimari.\"",
+    "value": "На этикетке написано: «Боевой дрон-невидимка, используемый Аккимари».",
     "path": "/description",
     "op": "replace"
   }

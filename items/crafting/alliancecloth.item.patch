@@ -1,11 +1,11 @@
 [
   {
-    "value": "A small piece of woven cloth.",
+    "value": "Небольшой кусок плетеной ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Woven Cloth",
+    "value": "Тканая ткань",
     "path": "/shortdescription",
     "op": "replace"
   }

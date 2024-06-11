@@ -1,71 +1,71 @@
 [
   {
-    "value": "Vanguard Keypad",
+    "value": "Авангардная клавиатура",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A programmable keypad for locking doors with a passcode.",
+    "value": "Программируемая клавиатура для запирания дверей паролем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A keypad. I don't recognize any of the symbols on it.",
+    "value": "Клавиатура. Я не узнаю ни одного символа на нем.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien keypad using alien symbols...",
+    "value": "Инопланетная клавиатура с инопланетными символами...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran presssess buttonss, Floran unlockss doorss!",
+    "value": "Флоран нажимает кнопки, Флоран открывает двери!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Puzzled. I know none of these symbols.",
+    "value": "Озадачен. Я не знаю ни одного из этих символов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This keypad uses strange symbols instead of numbers. Or are they alien numbers?",
+    "value": "На этой клавиатуре вместо цифр используются странные символы. Или это чужие цифры?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A keypad using an alien interface.",
+    "value": "Клавиатура с инопланетным интерфейсом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I've never been good at remembering passcodes.",
+    "value": "Я никогда не хорошо запоминал пароли.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This keypad may use Avikan numbers, but its layout is universal.",
+    "value": "На этой клавиатуре могут использоваться номера Авикан, но ее раскладка универсальна.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This keypad can be used to lock doors with a passcode.",
+    "value": "Эту клавиатуру можно использовать для блокировки дверей с помощью пароля.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan numerical system isn't the most logical system.",
+    "value": "Система счисления Авикан не самая логичная.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard-approved security keypad.",
+    "value": "Обнаружена клавиатура безопасности, одобренная Vanguard.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki enter code, door unlocks.",
+    "value": "Акки вводит код, дверь открывается.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

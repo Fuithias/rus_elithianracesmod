@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dark metal panel.",
+    "value": "Темная металлическая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Support Panel",
+    "value": "Панель поддержки Тринкиан",
     "path": "/shortdescription",
     "op": "replace"
   }

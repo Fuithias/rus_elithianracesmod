@@ -1,11 +1,11 @@
 [
   {
-    "value": "Trinkian Drone Figurine",
+    "value": "Фигурка тринкианского дрона",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A utility drone with minor combat capabilities.\"",
+    "value": "На этикетке написано: «Универсальный дрон с незначительными боевыми возможностями».",
     "path": "/description",
     "op": "replace"
   }

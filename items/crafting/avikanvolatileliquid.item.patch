@@ -1,11 +1,11 @@
 [
   {
-    "value": "A highly volatile liquid, for crafting high explosives.",
+    "value": "Очень летучая жидкость, используемая для изготовления взрывчатых веществ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Volatile Liquid",
+    "value": "Летучая жидкость",
     "path": "/shortdescription",
     "op": "replace"
   }

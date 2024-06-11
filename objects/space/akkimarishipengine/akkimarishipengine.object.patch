@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Cruiser Engine",
+    "value": "Акрис Круизер Двигатель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The massive propulsion engine of an Akris cruiser.",
+    "value": "Массивный двигатель крейсера Акрис.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A massive propulsion engine.",
+    "value": "Массивный двигатель.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A massive engine for a massive ship.",
+    "value": "Мощный двигатель для огромного корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big engine for ssship.",
+    "value": "Большой двигатель для корабля.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Awed. This is a massive engine.",
+    "value": "Благоговейный трепет. Это массивный двигатель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Now THAT's an engine!",
+    "value": "Вот ЭТО двигатель!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A massive propulsion engine, for an equally massive ship.",
+    "value": "Массивный двигатель для столь же массивного корабля.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A huge engine.",
+    "value": "Огромный двигатель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A massive engine for a large Akkimari cruiser.",
+    "value": "Массивный двигатель для большого крейсера Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A massive engine for a large alien ship.",
+    "value": "Массивный двигатель для большого инопланетного корабля.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A massive engine. It's surprisingly efficient.",
+    "value": "Массивный двигатель. Это удивительно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected ship engine. Detected unusual proportions.",
+    "value": "Обнаружен корабельный двигатель. Обнаружены необычные пропорции.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Engine-massive for flying ship. Take fuel-much, give thrust-more.",
+    "value": "Двигатель-мощный для летающего корабля. Бери топлива-много, давай тягу-больше.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Locked Nomada Door",
+    "value": "Запертая дверь Кочевника",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A blast door. It's locked.",
+    "value": "Взрывная дверь. Закрыто.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran frussstrated. Thisss door won't open.",
+    "value": "Флоран расстроен. Эта дверь не открывается.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Annoyed. This door will not open.",
+    "value": "Раздраженный. Эта дверь не откроется.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I ain't gonna get through that door anytime soon. It's locked tight.",
+    "value": "В ближайшее время я не пройду через эту дверь. Оно плотно заперто.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected locked door. Unable to force open.",
+    "value": "Обнаружена запертая дверь. Невозможно принудительно открыть.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-locked. Akki not get through.",
+    "value": "Дверь закрыта. Акки не пройти.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

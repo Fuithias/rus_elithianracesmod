@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Alliance Workshop^white;",
+    "value": "^orange;Мастерская Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An all-in-one workshop for creating a variety of items.",
+    "value": "Универсальный мастер-класс для создания самых разных предметов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A workshop full of tools.",
+    "value": "Мастерская, полная инструментов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An all-in-one workshop. I can create many things here.",
+    "value": "Мастер-класс «все в одном». Я могу создать здесь много вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Let's craft something!",
+    "value": "Взволнованный. Давайте что-нибудь придумаем!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop filled with various tools and devices.",
+    "value": "Мастерская, наполненная различными инструментами и приспособлениями.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop with tools for every craft.",
+    "value": "Мастерская с инструментами для любого ремесла.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These tools are just waitin' to be used.",
+    "value": "Эти инструменты просто ждут, чтобы их использовали.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop, but it has all the tools I'll ever need.",
+    "value": "Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I still find it odd how carelessly others use wood.",
+    "value": "Мне до сих пор кажется странным, как небрежно другие обращаются с деревом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A compact workshop with various tools. Quite an effective use of space and materials.",
+    "value": "Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tools-many. Akki use to craft things.",
+    "value": "Инструментов-много. Акки используется для создания вещей.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Alliance Workshop^white;",
+    "value": "^orange;Мастерская Альянса^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An all-in-one workshop for creating a variety of items.",
+    "value": "Универсальный мастер-класс для создания самых разных предметов.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A workshop full of tools.",
+    "value": "Мастерская, полная инструментов.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An all-inone workshop. I can create many things here.",
+    "value": "Полноценный семинар. Я могу создать здесь много вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Let's craft something!",
+    "value": "Взволнованный. Давайте что-нибудь придумаем!",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop filled with various tools and devices.",
+    "value": "Мастерская, наполненная различными инструментами и приспособлениями.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop with tools for every craft.",
+    "value": "Мастерская с инструментами для любого ремесла.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These tools are just waitin' to be used.",
+    "value": "Эти инструменты просто ждут, чтобы их использовали.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop, but it has all the tools I'll ever need.",
+    "value": "Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I still find it odd how carelessly others use wood.",
+    "value": "Мне до сих пор кажется странным, как небрежно другие обращаются с деревом.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A compact workshop with various tools. Quite an effective use of space and materials.",
+    "value": "Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tools-many. Akki use to craft things.",
+    "value": "Инструментов-много. Акки используется для создания вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Alliance 3D Printer^white;",
+    "value": "^orange;3D-принтер Alliance^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An advanced 3D printer capable of producing various items.",
+    "value": "Усовершенствованный 3D-принтер, способный производить различные предметы.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A 3D printer capable of printing in various materials.",
+    "value": "3D-принтер, способный печатать различными материалами.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This device can print many things.",
+    "value": "Это устройство может печатать многое.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Machine makesss thingss for Floran. Floran iss satissfied.",
+    "value": "Машина делает вещи для Флорана. Флоран доволен.",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This device will produce whatever I ask for.",
+    "value": "Заинтригован. Это устройство произведет все, что я попрошу.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I've always liked seeing 3D printers in action.",
+    "value": "Мне всегда нравилось видеть 3D-принтеры в действии.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Machinery takes away the grace of a skilled craftsman.",
+    "value": "Машины отнимают грацию искусного мастера.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This machine will print things for me. It's great.",
+    "value": "Эта машина будет печатать для меня. Это здорово.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Enerth Engineering 3D printer. It can produce many things.",
+    "value": "3D-принтер Enerth Engineering. Он может производить много вещей.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some type of crafting device. I'm not entirely certain how it works.",
+    "value": "Какой-то тип крафтового устройства. Я не совсем уверен, как это работает.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient 3D printer.",
+    "value": "Эффективный 3D-принтер.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Crafting device. Automatically produces various items.",
+    "value": "Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Device prints item. Akki need no tools!",
+    "value": "Устройство печатает элемент. Акки не нужны инструменты!",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Alliance Multi-fabricator^white;",
+    "value": "^orange;Мультипроизводитель Alliance^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A highly advanced fabrication unit capable of producing a variety of items.",
+    "value": "Высокоразвитое производственное подразделение, способное производить разнообразные изделия.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "This looks like some kind of 3D printer.",
+    "value": "Это похоже на какой-то 3D-принтер.",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A device capable of creating various items.",
+    "value": "Устройство, способное создавать различные предметы.",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Machine makesss thingss for Floran. Floran iss satissfied.",
+    "value": "Машина делает вещи для Флорана. Флоран доволен.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This device will produce whatever I ask for.",
+    "value": "Заинтригован. Это устройство произведет все, что я попрошу.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's some type of highly advanced printer, I think.",
+    "value": "Я думаю, это какой-то продвинутый принтер.",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Machinery takes away the grace of a skilled craftsman.",
+    "value": "Машины отнимают грацию искусного мастера.",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This machine will print things for me. It's great.",
+    "value": "Эта машина будет печатать для меня. Это здорово.",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Enerth Engineering's latest fabricator unit. It can fabricate almost anything out of raw materials.",
+    "value": "Новейшее производственное подразделение Enerth Engineering. Из сырья можно изготовить практически всё.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some type of crafting device. I'm not entirely certain how it works.",
+    "value": "Какой-то тип крафтового устройства. Я не совсем уверен, как это работает.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient fabricator unit. Enerth should be praised for their ingenuity.",
+    "value": "Высокоэффективное производственное подразделение. Enerth следует похвалить за изобретательность.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Crafting device. Automatically produces various items.",
+    "value": "Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not sure how device construct items. Akki will find out.",
+    "value": "Акки не знает, как устройство конструирует предметы. Акки узнает.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

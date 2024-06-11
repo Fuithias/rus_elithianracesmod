@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Tent",
+    "value": "Авикан Палатка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tent used by Avikan nomads.",
+    "value": "Палатка, используемая кочевниками-авиканами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large leather tent.",
+    "value": "Большая кожаная палатка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A temporary house.",
+    "value": "Временный дом.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big brown house...",
+    "value": "Большой коричневый дом...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Content. This tent has plenty of room.",
+    "value": "Содержание. В этой палатке достаточно места.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ooh, a tent! Is anyone inside?",
+    "value": "Ох, палатка! Есть кто-нибудь внутри?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I am not too proud to sleep in a tent.",
+    "value": "Я не слишком горжусь тем, что ночую в палатке.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan tent, made of leather. Very durable, even in harsh environments.",
+    "value": "Палатка Авикан, кожаная. Очень прочный, даже в суровых условиях.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional nomad's tent. Easy to set up and break down again.",
+    "value": "Традиционная палатка кочевника. Легко настроить и снова сломать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A number of rolled up leather tapestries.",
+    "value": "Несколько свернутых кожаных гобеленов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Tent. Mobile home. Material: leather.",
+    "value": "Анализ завершен. Палатка. Мобильный дом. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tent-leather, Akki sleep here for the night.",
+    "value": "Палатка-кожа, Акки здесь ночует.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

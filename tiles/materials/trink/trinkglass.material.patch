@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Glass",
+    "value": "Тринкское стекло",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Thick, strong glass.",
+    "value": "Толстое, прочное стекло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. Glass.",
+    "value": "Утверждение. Стекло.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran look pretty in glasssss.",
+    "value": "Флоран красиво выглядит в стекле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "value": "Толстое стекло, но я все равно могу видеть насквозь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick glass.",
+    "value": "Анализ завершен. Толстое стекло.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Glass-green, like crystal.",
+    "value": "Стекло-зеленое, как кристалл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

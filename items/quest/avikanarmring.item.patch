@@ -1,16 +1,16 @@
 [
   {
-    "value": "A small metal arm ring, its owner is probably looking for it.",
+    "value": "Небольшой металлический перстень на руку, вероятно, его ищет владелец.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Avikan Arm Ring^white;",
+    "value": "^#BA66FF;Кольцо «Авикан»^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

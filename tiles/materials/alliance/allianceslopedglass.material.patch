@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Sloped Glass",
+    "value": "Наклонное стекло Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Thick and strong glass-like plastic often used on board spaceships.",
+    "value": "Толстый и прочный пластик, часто используемый на борту космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Impressed. This plastic looks exactly like glass.",
+    "value": "Впечатлен. Этот пластик выглядит точно как стекло.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran look pretty in glasssss.",
+    "value": "Флоран красиво смотрится в стекле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "value": "Толстое стекло, но я все равно вижу насквозь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick plastic used on spaceships.",
+    "value": "Анализ завершен. Толстый пластик, используемый на космических кораблях.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plastic-clear, Akki surprised by strength.",
+    "value": "Пластик-прозрачный, акки удивлен его прочностью.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

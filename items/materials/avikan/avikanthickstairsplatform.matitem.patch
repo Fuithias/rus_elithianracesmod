@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sturdy metal stairs.",
+    "value": "Прочная металлическая лестница.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thick Avikan Stairs",
+    "value": "Толстая лестница Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

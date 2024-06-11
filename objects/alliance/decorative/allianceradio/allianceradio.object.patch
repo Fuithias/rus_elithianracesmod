@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Radio",
+    "value": "Альянс Радио",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A radio tuned to a musical channel.",
+    "value": "Радио настроено на музыкальный канал.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sleek radio.",
+    "value": "Шикарное радио.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A radio playing some music.",
+    "value": "Радио, играющее музыку.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss thiss music.",
+    "value": "Флорану нравится эта музыка.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Energetic. I feel like dancing.",
+    "value": "Энергичный. Мне хочется танцевать.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I love this song!",
+    "value": "Я люблю эту песню!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegantly designed radio.",
+    "value": "Радио с элегантным дизайном.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just a music box.",
+    "value": "Просто музыкальная шкатулка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A small radio built by Enerth Engineering.",
+    "value": "Небольшой радиоприемник, созданный компанией Enerth Engineering.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien music is quite odd.",
+    "value": "Музыка пришельцев довольно странная.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A small radio.",
+    "value": "Небольшое радио.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien radio. Analyzing frequencies.",
+    "value": "Обнаружено инопланетное радио. Анализ частот.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Radio-alien. Make music-nice.",
+    "value": "Радио-инопланетянин. Делайте музыку приятной.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

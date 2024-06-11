@@ -1,71 +1,71 @@
 [
   {
-    "value": "Basbron Seed",
+    "value": "Семя басброна",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A cactus producing soft fibers, useful for making cloth.",
+    "value": "Кактус, производящий мягкие волокна, пригодные для изготовления ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "If you can get past the spines, this plant produces excellent cloth fibers.",
+    "value": "Если вам удастся пройти мимо колючек, из этого растения получится превосходное тканое волокно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A cactus producing fibers for cloth-weaving.",
+    "value": "Кактус, производящий волокна для ткачества ткани.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran take fluff, make cloth. Floran sssmart.",
+    "value": "Флоран возьми пух и сделай ткань. Флоран умный.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Careless. These spines won't hurt me.",
+    "value": "Беспечный. Эти шипы мне не повредят.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A cotton cactus. How odd.",
+    "value": "Хлопковый кактус. Как странно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I believe these fibers would make for an excellent cloth material.",
+    "value": "Я считаю, что из этих волокон может получиться отличный тканевый материал.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Soft fluffy fibers. Now that's the good stuff.",
+    "value": "Мягкие пушистые волокна. Вот это и хорошо.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A cactus from Kadavan. It produces fibers useful for making cloth.",
+    "value": "Кактус из Кадавана. Из него производятся волокна, полезные для изготовления ткани.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The fibers produced by this plant make for excellent cloth-weaving material.",
+    "value": "Волокна, производимые этим заводом, являются отличным материалом для ткачества.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These plants are harvested by the Avikan for their soft fluffy fibers.",
+    "value": "Авикан собирает эти растения из-за их мягких пушистых волокон.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected fiber-rich plant. Recommend harvest.",
+    "value": "Обнаружено богатое клетчаткой растение. Рекомендую урожай.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Fibers-soft, for weaving cloth.",
+    "value": "Волокна мягкие, для плетения полотна.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Back to the Creon Embassy",
+    "value": "Назад в посольство Креона",
     "path": "/destinations/name",
     "op": "replace"
   },
   {
-    "value": "Return to Elithia",
+    "value": "Вернуться в Элитию",
     "path": "/destinations/planetName",
     "op": "replace"
   }

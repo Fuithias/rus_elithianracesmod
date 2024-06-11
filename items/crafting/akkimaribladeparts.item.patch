@@ -1,11 +1,11 @@
 [
   {
-    "value": "Bits and pieces of a blade, retrieved from a dismantled melee weapon or bow.",
+    "value": "Части клинка, извлеченные из разобранного оружия ближнего боя или лука.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Blade Parts",
+    "value": "Части лезвия",
     "path": "/shortdescription",
     "op": "replace"
   }

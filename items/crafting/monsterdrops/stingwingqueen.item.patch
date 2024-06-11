@@ -1,11 +1,11 @@
 [
   {
-    "value": "The queen of a Kadavan Stingwing swarm.",
+    "value": "Королева стаи Жалокрылов Кадавана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Stingwing Queen",
+    "value": "Королева Жалокрылов",
     "path": "/shortdescription",
     "op": "replace"
   }

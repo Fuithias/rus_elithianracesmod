@@ -1,11 +1,11 @@
 [
   {
-    "value": "Polished plates of scrap metal scavenged from high quality sources.",
+    "value": "Полированные пластины из металлолома, собранного из высококачественных источников.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Polished Scrap Metal",
+    "value": "Полированный металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Borderless Avikan Glass",
+    "value": "Стекло без границ авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Thick, strong glass.",
+    "value": "Толстое, прочное стекло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. Glass.",
+    "value": "Заявление. Стекло.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran look pretty in glasssss.",
+    "value": "Флоран красиво смотрится в стекле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "value": "Толстое стекло, но я все равно вижу насквозь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick glass.",
+    "value": "Анализ завершен. Толстое стекло.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Glass-thick.",
+    "value": "Стекло-толстое.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

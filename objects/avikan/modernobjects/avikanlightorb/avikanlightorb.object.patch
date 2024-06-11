@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Light Orb",
+    "value": "Световая сфера Авикана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A levitating light. Provides both light and warmth.",
+    "value": "Левитирующий свет. Обеспечивает и свет, и тепло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A hovering light. Fancy.",
+    "value": "Парящий свет. Изысканный.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A pretty, hovering light.",
+    "value": "Красивый, парящий свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not understand how light floatsss.",
+    "value": "Флоран не понимает, как плывет свет.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This hovering light uses an organic battery for levitation and light both.",
+    "value": "Впечатленный. Этот парящий фонарь использует органическую батарею для левитации и освещения.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. Don't bump your head!",
+    "value": "Парящий свет. Не ударяйся головой!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. A feat of technology, but unnecessary underwater.",
+    "value": "Парящий свет. Технический подвиг, но ненужный под водой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. It seems to be based on Centensian technology.",
+    "value": "Парящий свет. Похоже, что он основан на технологии Centensian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This light is efficient, lightweight and very versatile.",
+    "value": "Этот светильник эффективен, легок и очень универсален.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A hovering light. I wonder how this effect was achieved.",
+    "value": "Парящий свет. Интересно, как был достигнут такой эффект?",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected light orb.",
+    "value": "Обнаружен световой шар.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-floating.",
+    "value": "Легкоплавучий.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

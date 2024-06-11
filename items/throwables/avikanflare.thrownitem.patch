@@ -1,11 +1,11 @@
 [
   {
-    "value": "A flare often used by the Nomada to signal important locations, or to light an area.",
+    "value": "Сигнальная ракета, которую кочевники часто используют для обозначения важных мест или для освещения территории.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Nomada Flare",
+    "value": "Номада Флер",
     "path": "/shortdescription",
     "op": "replace"
   }

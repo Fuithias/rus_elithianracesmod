@@ -1,41 +1,41 @@
 [
   {
-    "value": "Drifter's Emporium",
+    "value": "Эмпориум Дрифтера",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This person looks a bit shady...",
+    "value": "Этот человек выглядит немного подозрительно...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssshady looking man can ssell Floran many goodsss.",
+    "value": "С-с-с-с-с-шшшш-выглядящий мужчина может-с-с-с продать Флорану много товаров.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Hesitant. I am not sure if I should be dealing with such shady figures.",
+    "value": "Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A shady lookin' fella. Gotta be a black market of sorts.",
+    "value": "Странный на вид парень. Должно быть, это своего рода черный рынок.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I highly doubt this person's shop is legal...",
+    "value": "Я очень сомневаюсь, что магазин этого человека является законным...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected unregistered merchant. Recommending caution.",
+    "value": "Обнаружен незарегистрированный торговец. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Alien-shady. Akki-shady too. Friends?",
+    "value": "Чужой-теневой. Акки-шейди тоже. Друзья?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

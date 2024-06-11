@@ -1,61 +1,61 @@
 [
   {
-    "value": "Broken Trink Ship Light",
+    "value": "Сломанный корабельный фонарь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A malfunctioning light.",
+    "value": "Неисправный свет.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This light isn't getting enough power.",
+    "value": "Этому свету не хватает мощности.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A flickering light.",
+    "value": "Мерцающий свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Light make dizzy!",
+    "value": "Свет кружит голову!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. This light is malfunctioning.",
+    "value": "Анализ. Этот свет неисправен.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This light's on the blink.",
+    "value": "Этот свет мигает.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An underpowered light.",
+    "value": "Недостаточно мощный свет.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A broken light.",
+    "value": "Сломанный свет.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This light isn't performing optimally.",
+    "value": "Этот свет работает не оптимально.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Light detected. Status: broken.",
+    "value": "Обнаружен свет. Статус: сломан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-broken, make Akki agitated...",
+    "value": "Разбитый светом, взволнуй Акки...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Vanguard Tapestry",
+    "value": "Гобелен Авикан Авангард",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bright tapestry displaying the Vanguard's emblem.",
+    "value": "Яркий гобелен с эмблемой «Авангарда».",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Красочный гобелен с яркой эмблемой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Красочный гобелен с яркой эмблемой.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bold alien mark all over thisss tapessstry...",
+    "value": "Жирный инопланетный знак по всей этой ленте...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Наблюдение. Красочный гобелен с яркой эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Красочный гобелен с яркой эмблемой.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Красочный гобелен с яркой эмблемой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tapestry displaying a bold-looking emblem.",
+    "value": "Красочный гобелен с яркой эмблемой.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry shows the emblem of the Vanguard, the Avikian military fleet.",
+    "value": "На этом гобелене изображена эмблема Авангарда, военного флота Авики.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry shows the emblem of our grand military fleet, the Vanguard.",
+    "value": "На этом гобелене изображена эмблема нашего великого военного флота «Авангард».",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This tapestry shows the emblem of the Vanguard, the Avikian military fleet.",
+    "value": "На этом гобелене изображена эмблема Авангарда, военного флота Авики.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard emblem.",
+    "value": "Обнаружена эмблема Авангарда.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tapestry with symbol. Symbol for Vanguard.",
+    "value": "Гобелен с символом. Символ Авангарда.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A transmitter capable of communicating with the Central Avikan Network.",
+    "value": "Передатчик, способный связываться с центральной сетью Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Transmitter",
+    "value": "Авикан Передатчик",
     "path": "/shortdescription",
     "op": "replace"
   }

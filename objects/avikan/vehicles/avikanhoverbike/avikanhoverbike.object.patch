@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Keff",
+    "value": "Авикан Кефф",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A vehicle built for crossing the desert at high speed.",
+    "value": "Автомобиль, созданный для пересечения пустыни на высокой скорости.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A reliable hoverbike. I believe its makers call it a keff.",
+    "value": "Надежный ховербайк. Я думаю, что его создатели называют это кеффом.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Driving such hoverbikes makes me feel like I am flying.",
+    "value": "Вождение таких ховербайков вызывает у меня ощущение полета.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big metal fly thingss. Fassst.",
+    "value": "Большие металлические летающие вещи. Фассст.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amazement. This hoverbike features incredibly advanced technologies.",
+    "value": "Изумление. Этот ховербайк оснащен невероятно передовыми технологиями.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hoverbike. This is so cool!",
+    "value": "Ховербайк. Это так круто!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hoverbike built for use in the desert. Not for underwater use.",
+    "value": "Ховербайк, созданный для использования в пустыне. Не для использования под водой.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan build some of the most reliable vehicles there are.",
+    "value": "Авикан производит одни из самых надежных автомобилей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A reliable keff. Like us, it can withstand extreme conditions.",
+    "value": "Надежный кефф. Как и мы, он может противостоять экстремальным условиям.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A hoverbike of Avikan design, it is incredibly reliable.",
+    "value": "Ховербайк конструкции Авикан, он невероятно надежен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Keff detected. Owner: unknown.",
+    "value": "Кефф обнаружен. Владелец: неизвестен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bike-alien, looks fast.",
+    "value": "Мотоцикл-инопланетянин, выглядит быстрым.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

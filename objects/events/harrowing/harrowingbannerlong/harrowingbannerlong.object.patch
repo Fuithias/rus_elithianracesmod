@@ -1,71 +1,71 @@
 [
   {
-    "value": "Harrowing Banner",
+    "value": "Мучительное знамя",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner for celebrating the Harrowing.",
+    "value": "Знамя в честь Терзания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A banner decorated with a carved pumpkin.",
+    "value": "Баннер, украшенный резной тыквой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A spooky banner.",
+    "value": "Жуткий баннер.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran will laugh if sssilly children get sscared by thiss!",
+    "value": "Флоран будет смеяться, если глупые дети этим испугаются!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A banner for the Harrowing.",
+    "value": "Наблюдение. Знамя Терзания.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like a Halloween banner, but it's a bit off...",
+    "value": "Это похоже на баннер Хэллоуина, но это немного не так...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A torn banner adorned with a pumpkin face.",
+    "value": "Порванное знамя, украшенное тыквенным лицом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This banner ain't spookin' me.",
+    "value": "Этот баннер меня не пугает.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A banner for the Harrowing. I love seeing these.",
+    "value": "Знамя Терзания. Мне нравится видеть это.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien banner with some odd design.",
+    "value": "Баннер пришельцев с каким-то странным дизайном.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tattered banner. The Aegi put these out during the Harrowing.",
+    "value": "Порванное знамя. Эги выставили их во время Терзания.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien banner. Symbology unknown.",
+    "value": "Обнаружен инопланетный баннер. Символика неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Banner-tattered has face-funny on it. Akki like.",
+    "value": "На рваном знамени написано смешное лицо. Акки вроде.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

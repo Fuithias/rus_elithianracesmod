@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Hoverbike",
+    "value": "Альянс Ховербайк",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A personal transportation hover vehicle.",
+    "value": "Личный транспорт на воздушной подушке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A compact hoverbike.",
+    "value": "Компактный ховербайк.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This hoverbike is quite compact.",
+    "value": "Этот ховербайк довольно компактен.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran goess sssick when flying ssmall bikess.",
+    "value": "Флорана тошнит, когда он летает на маленьком мотоцикле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A compact personal transportation vehicle.",
+    "value": "Наблюдение. Компактный личный транспорт.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I've always loved hoverbikes!",
+    "value": "Мне всегда нравились ховербайки!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hoverbike, compact in form but powerful in performance.",
+    "value": "Ховербайк, компактный по форме, но мощный по характеристикам.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A ride on one o' these is sure to get wild!",
+    "value": "Поездка на одном из них обязательно вызовет восторг!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A hoverbike built by Veronas, Aventor's largest competitor.",
+    "value": "Ховербайк, построенный компанией Veronas, крупнейшим конкурентом Aventor.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I think it is an alien hoverbike, but the design is very different from our own.",
+    "value": "Я думаю, что это инопланетный ховербайк, но его дизайн сильно отличается от нашего.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The efficiently compact design of this vehicle is quite pleasing.",
+    "value": "Эффективно компактный дизайн этого автомобиля весьма приятен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien hovercraft.",
+    "value": "Обнаружено инопланетное судно на воздушной подушке.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki fly on vehicle-alien! Akki free!",
+    "value": "Акки летай на транспортном средстве-инопланетянине! Акки бесплатно!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

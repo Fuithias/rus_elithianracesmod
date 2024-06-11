@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal wall panel.",
+    "value": "Металлическая стеновая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Backpanel",
+    "value": "Задняя панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

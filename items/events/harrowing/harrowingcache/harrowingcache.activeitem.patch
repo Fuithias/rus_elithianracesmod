@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sealed cache containing Harrowing event items. Hold ^green;[LMB] ^white;to open!",
+    "value": "Запечатанный тайник, содержащий предметы события «Мучение». Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Harrowing Cache",
+    "value": "Мучительный тайник",
     "path": "/shortdescription",
     "op": "replace"
   }

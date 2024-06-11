@@ -1,36 +1,36 @@
 [
   {
-    "value": "Smooth Avikan Panel",
+    "value": "Гладкая авиканская панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Smoothly polished metal plating.",
+    "value": "Гладко отполированная металлическая обшивка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Curious. Why does this panel have such a sand-like appearance?",
+    "value": "Любопытный. Почему эта панель имеет такой песчаный вид?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss it hard to see difference with sssand...",
+    "value": "Флорану трудно увидеть разницу с песком...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Someone tried real hard to make this metal look like sand.",
+    "value": "Кто-то очень старался сделать этот металл похожим на песок.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal panel.",
+    "value": "Анализ завершен. Металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-smooth. Akki no climb it.",
+    "value": "Панель-гладкая. Акки не может по ней взобраться.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

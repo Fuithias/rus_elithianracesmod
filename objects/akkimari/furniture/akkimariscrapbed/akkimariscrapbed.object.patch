@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Scrap Bed",
+    "value": "Кровать из лома Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple bed made of scrap metal plates and a soft cover.",
+    "value": "Простая кровать из металлолома и мягкого чехла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A crude bed made out of plates of scrap metal. At least the cover is soft.",
+    "value": "Грубая кровать, сделанная из пластин металлолома. По крайней мере, чехол мягкий.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This bed was very crudely made.",
+    "value": "Эта кровать была заправлена ​​очень грубо.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesssn't like thiss bed.",
+    "value": "Флорану не нравится эта кровать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appalled. Who would sleep on such a bed?",
+    "value": "Потрясен. Кто будет спать на такой кровати?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like some sorta prison bunk, if the prison was made of scrap metal.",
+    "value": "Это похоже на тюремную койку, если тюрьма была сделана из металлолома.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This is not a very pleasant bed. The cover is soft, but it's far too thin.",
+    "value": "Это не очень приятная кровать. Обложка мягкая, но слишком тонкая.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I'd rather not spend the night on this.",
+    "value": "Я бы предпочел не тратить на это ночь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "While the cover is soft, the rest of this bed is extremely shoddy.",
+    "value": "Хотя покрытие мягкое, остальная часть этой кровати крайне дрянная.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alien bed is highly uncomfortable.",
+    "value": "Эта инопланетная кровать крайне неудобна.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A bed consisting of scrap metal plates with a soft sheet placed on top.",
+    "value": "Кровать, состоящая из пластин металлолома, сверху уложена мягкая простыня.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien bedding detected. Low-quality materials detected.",
+    "value": "Обнаружено инопланетное постельное белье. Обнаружены материалы низкого качества.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not mind bed-scrappy. Cover soft enough.",
+    "value": "Акки не против того, чтобы постель была лоскутной. Чехол достаточно мягкий.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Stone slabs used as pavement.",
+    "value": "В качестве покрытия использовались каменные плиты.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Pavement Slabs",
+    "value": "Тротуарная плитка Альянс",
     "path": "/shortdescription",
     "op": "replace"
   }

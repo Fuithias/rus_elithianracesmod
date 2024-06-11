@@ -1,6 +1,6 @@
 [
   {
-    "value": "Minigun ammunition that explodes on impact.",
+    "value": "Боеприпасы для минигана, взрывающиеся при ударе.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Blast Ammo",
+    "value": "Взрывные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A miniature Trinkian power generator.",
+    "value": "Миниатюрный тринкианский генератор энергии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Power Core",
+    "value": "Тринкианское энергетическое ядро",
     "path": "/shortdescription",
     "op": "replace"
   }

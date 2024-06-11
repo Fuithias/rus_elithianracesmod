@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Alliance Stove^white;",
+    "value": "^orange;Плита Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A standard model stove, for cooking food.",
+    "value": "Стандартная модель печи для приготовления пищи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A multifunctional stove, for cooking and baking.",
+    "value": "Многофункциональная плита для приготовления пищи и выпечки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I could bake some bread in here.",
+    "value": "Я мог бы испечь здесь хлеб.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran once climbed insside stove. Wasss not pleassant...",
+    "value": "Флоран однажды залез в печь. Как не приятно...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Apreciative. This multifunctional stove allows me to prepare a variety of foods.",
+    "value": "Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A stove, just like the ones we had back home.",
+    "value": "Печь, такая же, как у нас дома.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A multifunctional stove.",
+    "value": "Многофункциональная печь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Let's do some bakin'!",
+    "value": "Давайте займемся выпечкой!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standard model stove, found in almost any Aeginian kitchen.",
+    "value": "Печь стандартной модели, встречающаяся практически на любой эгинской кухне.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien stove, but I'm certain I can get it to work.",
+    "value": "Инопланетная печь, но я уверен, что смогу заставить ее работать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Like many Aeginian machines, this stove is unusually efficient.",
+    "value": "Как и многие эгинские машины, эта печь необычайно эффективна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien stove. Organic food can be used as unit fuel.",
+    "value": "Обнаружена инопланетная плита. Органические продукты питания можно использовать в качестве топлива.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki cook food, make tasty-more.",
+    "value": "Акки готовь еду, делай вкусно-больше.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

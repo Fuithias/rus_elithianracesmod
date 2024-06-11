@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Droden chassis.",
+    "value": "Окаменевшее шасси Дродена.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Droden Chassis",
+    "value": "Дроден шасси",
     "path": "/shortdescription",
     "op": "replace"
   }

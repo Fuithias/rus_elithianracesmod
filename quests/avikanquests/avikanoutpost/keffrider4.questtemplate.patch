@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Keffrider IV",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Кеффоход IV",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "That ^orange;Vehicle Jumpgate^white; can transport your Keff from your ship's cargo hold to the field, but it's useless if you can't remotely control it. ^green;Build yourself a ^orange;Jumpgate Controller^green; using the ^orange;Avikan Transmitter^green; I gave you^white;, and you'll be ready to ride your very own Keff!",
-      "path": "/text",
-      "op": "replace"
+    "value": "Эти ^orange;врата для транспорта^white; могут перемещать вашего кеффа из грузового отсека вашего корабля на поле, но они бесполезны, если вы не можете управлять ими удаленно. ^green;Создайте свой собственный ^orange;контроллер врат ^green;с помощью ^orange;авиканского передатчика^green;, который я вам дал^white;, и вы будете готовы ездить на своем собственном кеффе!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Congratulations, Keffrider! Your Keff is now ready to be summoned at any time, so go and ride, my friend!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Поздравляю, кеффоход! Теперь ваш кефф готов к вызову в любое время, так что садитесь и езжайте, мой друг!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ветури ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

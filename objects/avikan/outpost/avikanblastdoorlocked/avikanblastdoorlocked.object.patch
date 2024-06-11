@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Blast Door",
+    "value": "Взрывная дверь Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door, locked with an intricate lock system.",
+    "value": "Прочная металлическая дверь, запертая сложной системой замков.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door. It's locked...",
+    "value": "Прочная металлическая противовзрывная дверь. Закрыто...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A locked door. I wonder what lies beyond it.",
+    "value": "Запертая дверь. Интересно, что лежит за этим?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A locked blast door.",
+    "value": "Наблюдение. Запертая взрывоопасная дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A locked blast door. I wish I could blow it open somehow...",
+    "value": "Запертая взрывоопасная дверь. Хотелось бы как-нибудь его взорвать...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A locked blast door. It must be protecting something valuable.",
+    "value": "Запертая взрывоопасная дверь. Должно быть, он защищает что-то ценное.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A locked blast door. There doesn't seem to be any way past it.",
+    "value": "Запертая взрывоопасная дверь. Кажется, нет никакого способа обойти это.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A thick blast door, locked with a complex lock system. Nothing gets past this.",
+    "value": "Толстая взрывоопасная дверь, запертая сложной замковой системой. Ничто не проходит мимо этого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This door is locked.",
+    "value": "Эта дверь закрыта.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Locked. Unit is unable to force open.",
+    "value": "Анализ. Заблокировано. Устройство не может принудительно открыться.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-locked. Akki try to break, Akki fail.",
+    "value": "Дверь закрыта. Акки пытаются сломать, Акки терпят неудачу.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

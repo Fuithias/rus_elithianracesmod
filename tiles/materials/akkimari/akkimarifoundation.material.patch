@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Inner Wall",
+    "value": "Внутренняя стена Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Metal plating, likely used as an inner wall.",
+    "value": "Металлическая обшивка, вероятно используемая как внутренняя стена.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. This metal plating likely serves as an inner wall.",
+    "value": "Заявление. Эта металлическая обшивка вероятно служит внутренней стеной.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal wallsss.",
+    "value": "Металлические стены.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda metal wall.",
+    "value": "Какая-то металлическая стена.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal inner wall.",
+    "value": "Анализ завершен. Металлическая внутренняя стена.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Wall-plates-inner. Houses-Akkimari need them.",
+    "value": "Стены-пластины-внутренние. Дома-аккимари нуждаются в них.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

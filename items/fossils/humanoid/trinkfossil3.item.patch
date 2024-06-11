@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised pair of Trink legs.",
+    "value": "Окаменевшая пара ног Тринка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trink Legs",
+    "value": "Тринк Ноги",
     "path": "/shortdescription",
     "op": "replace"
   }

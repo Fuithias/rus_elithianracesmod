@@ -1,71 +1,71 @@
 [
   {
-    "value": "Harrowing Pumpkin",
+    "value": "Мучительная тыква",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A carved pumpkin for celebrating the Harrowing.",
+    "value": "Резная тыква для празднования Терзания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A pumpkin with a face carved into it.",
+    "value": "Тыква с вырезанным на ней лицом.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not spooked by this pumpkin!",
+    "value": "Меня не пугает эта тыква!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran carve ssscary facess in pumpkinss to ssspook children!",
+    "value": "Флоран вырежет-ссстрашные лица из тыкв, чтобы напугать детей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Spooked. Yikes!",
+    "value": "Напуган. Ура!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a Halloween pumpkin! I think...",
+    "value": "Это тыква на Хэллоуин! Я думаю...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large pumpkin with a crudely carved face.",
+    "value": "Большая тыква с грубо вырезанным лицом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like it's meant to spook folks. It ain't working for me.",
+    "value": "Похоже, это сделано для того, чтобы напугать людей. У меня это не работает.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A pumpkin carved for the Harrowing! I've heard this tradition predates our arrival on Elithia.",
+    "value": "Тыква, вырезанная для Терзания! Я слышал, что эта традиция возникла еще до нашего прибытия на Элитию.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant with a weird face carved into it. Why waste such good food?",
+    "value": "Инопланетное растение с вырезанным на нем странным лицом. Зачем тратить такую ​​хорошую еду?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This plant is oddly shaped. It almost resembles a Trink.",
+    "value": "Это растение имеет необычную форму. Это почти похоже на Тринк.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien plantlife. Detected symmetrical carvings. Purpose unknown.",
+    "value": "Анализ завершен. Чужеродная растительная жизнь. Обнаружены симметричные резьбы. Цель неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want to taste plant-alien! Akki not worried of getting sick.",
+    "value": "Акки хочу попробовать инопланетное растение! Акки не боялся заболеть.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

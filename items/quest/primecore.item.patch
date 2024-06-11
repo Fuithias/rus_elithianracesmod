@@ -1,16 +1,16 @@
 [
   {
-    "value": "An experimental mobile generator using state-of-the-art Trinkian technology.",
+    "value": "Экспериментальный мобильный генератор, использующий современную технологию Тринкиан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Prime Core^white;",
+    "value": "^orange;Прайм Ядро^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

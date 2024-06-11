@@ -1,21 +1,21 @@
 [
   {
-    "value": "Report back to Commander Zaheed",
+    "value": "Отчитайтесь перед Командиром Захидом",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Earth and the Protectorate are gone. My mission to infiltrate the organization is over. ^green;It's time for me to head back to the ^orange;Starfarer's Refuge ^green;and report to ^orange;Commander Zaheed ^green;of the Watchers.^reset;",
+    "value": "Земля и Протекторат больше не существуют. Моя миссия по внедрению в организацию завершена. ^green;Пришло время вернуться в ^orange;Убежище Звездоплавателя ^green;и отчитаться перед ^orange;Командиром Захидом ^green;из Смотрителей.^reset;",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You have done well, Captain. The Watchers are grateful for your efforts. You are free to do as you please while I discuss your findings with the Iris. I will contact you again when I have a new assignment for you.",
+    "value": "Вы хорошо справились, Капитан. Смотрители благодарны за ваши усилия. Вы свободны делать, что пожелаете, пока я обсуждаю ваши находки с Ирисом. Я свяжусь с вами, когда у меня будет новое задание для вас.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Report to ^orange;Zaheed ^reset;in the ^orange;Starfarer's Refuge^reset;",
+    "value": "Отчитайтесь перед ^orange;Захидом ^reset;в ^orange;Убежище Звездоплавателя^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

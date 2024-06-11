@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Captain's Chair",
+    "value": "Акрис Капитанское кресло",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Captain sits here to fly the ship.",
+    "value": "Капитан сидит здесь и управляет кораблем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The portal to freedom. This Captain's chair allows access to the ship's navigation console.",
+    "value": "Портал к свободе. Это кресло капитана обеспечивает доступ к навигационной консоли корабля.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The Captain's chair grants power over the wings of the ship.",
+    "value": "Кресло капитана дает власть над крыльями корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssmells of alien butt.",
+    "value": "Пахнет инопланетной задницей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Anticipation. Where shall the ship go next?",
+    "value": "Ожидание. Куда корабль пойдет дальше?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Another Captain's chair? I feel a bit tempted to try and hijack it...",
+    "value": "Еще одно капитанское кресло? Я чувствую небольшой соблазн попытаться угнать его...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The Captain's chair. It is the gateway to many an adventure.",
+    "value": "Капитанское кресло. Это ворота ко многим приключениям.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Captain's chair. Whoever sits here gets to decide where this ship's gonna go.",
+    "value": "Капитанское кресло. Тот, кто здесь сидит, сам решает, куда направится этот корабль.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This Captain's chair grants access to the navigation console.",
+    "value": "Кресло капитана предоставляет доступ к навигационной консоли.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Captain's chair - it is a true honour to sit on one of these.",
+    "value": "Кресло капитана – сидеть на нем – настоящая честь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This Captain's chair has specialized sensors, allowing only its owner to use the navigator.",
+    "value": "В этом капитанском кресле есть специализированные датчики, позволяющие пользоваться навигатором только его владельцу.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Captain's chair. Grants access to navigation console.",
+    "value": "Обнаружено капитанское кресло. Предоставляет доступ к навигационной консоли.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki sit, control ship. Fly to raid, find Kel'chis.",
+    "value": "Акки сиди, управляй кораблем. Летите в рейд, найдите Кельчиса.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

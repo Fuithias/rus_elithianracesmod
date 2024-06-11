@@ -1,21 +1,21 @@
 [
   {
-    "value": "^orange;Chacharra's Stealth Tech I",
+    "value": "^orange;Скрытная Технология Чачарры I",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Chacharra has tech, useful tech to go invisible. You can have tech, for price... ^green;Bring Chacharra ^orange;5 Diamonds^reset;, then Chacharra show you test course for ^orange;Stealth Tech^reset;.",
+    "value": "У Чачарры есть технология, полезная технология для становления невидимым. Вы можете получить её за цену... ^green;Принесите Чачарре ^orange;5 Алмазов^reset;, тогда Чачарра покажет вам тестовый курс для ^orange;Скрытной Технологии^reset;.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You make Chacharra happy, happy Akki help you! ^orange;Stealth Tech ^reset;almost yours now...",
+    "value": "Вы делаете Чачарру счастливым, счастливый Акки помогает вам! ^orange;Скрытная Технология ^reset;почти ваша...",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольстве Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

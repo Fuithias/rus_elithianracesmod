@@ -1,6 +1,6 @@
 [
   {
-    "value": "An underbarrel laser sight with a green colour.",
+    "value": "Подствольный лазерный прицел зеленого цвета.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Green Laser Sight",
+    "value": "Зеленый лазерный прицел",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

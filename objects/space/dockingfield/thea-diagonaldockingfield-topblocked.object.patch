@@ -1,71 +1,71 @@
 [
   {
-    "value": "Docking Field - Top Blocked",
+    "value": "Стыковочное поле – верх заблокирован",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This energy field can contain both atmosphere and artificial gravity.",
+    "value": "Это энергетическое поле может содержать как атмосферу, так и искусственную гравитацию.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A space docking field, this energy contains the atmosphere inside.",
+    "value": "Космическое стыковочное поле, эта энергия содержит атмосферу внутри.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The energy in this docking field contains air and gravity inside.",
+    "value": "Энергия в этом стыковочном поле содержит внутри себя воздух и гравитацию.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "This crackling energy containsss air inside.",
+    "value": "Эта потрескивающая энергия содержит внутри воздух.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This field is a special energy type meant to contain atmosphere and artificial gravity.",
+    "value": "Информирован. Это поле представляет собой особый тип энергии, предназначенный для сдерживания атмосферы и искусственной гравитации.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This type of energy field can contain atmosphere and gravity inside space structures.",
+    "value": "Этот тип энергетического поля может содержать атмосферу и гравитацию внутри космических структур.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Docking fields like this are common in space, they make quite effective airlocks.",
+    "value": "Подобные стыковочные поля часто встречаются в космосе, они представляют собой весьма эффективные шлюзы.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This here energy field keeps air and gravity inside and space outside.",
+    "value": "Это энергетическое поле удерживает воздух и гравитацию внутри, а пространство снаружи.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A docking field. It acts as a barrier between the void of space, and the inside of a ship.",
+    "value": "Стыковочное поле. Он действует как барьер между пустотой космоса и внутренней частью корабля.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This energy field will keep the air inside, while still allowing ships to pass through.",
+    "value": "Это энергетическое поле будет удерживать воздух внутри, позволяя кораблям проходить сквозь него.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient airlock solution. It keeps air inside, whole solid objects can still pass through.",
+    "value": "Высокоэффективное решение для шлюзов. Он удерживает воздух внутри, сквозь него могут проходить целые твердые предметы.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Docking field detected. Creates a barrier between space and a ship's atmosphere.",
+    "value": "Обнаружено стыковочное поле. Создает барьер между космосом и атмосферой корабля.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Field-blocking, keep air in ship.",
+    "value": "Блокировка поля, держите воздух в корабле.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

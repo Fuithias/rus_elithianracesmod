@@ -1,11 +1,11 @@
 [
   {
-    "value": "Flic Figurine",
+    "value": "Фигурка Флик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A small drone used for Akkimari law enforcement.\"",
+    "value": "На этикетке написано: «Небольшой дрон, используемый правоохранительными органами Аккимари».",
     "path": "/description",
     "op": "replace"
   }

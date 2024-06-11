@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Watchers' Tapestry",
+    "value": "Гобелен Авиканских наблюдателей",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A black tapestry displaying the Watchers' emblem.",
+    "value": "Черный гобелен с эмблемой Наблюдателей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran feelsss watched by large eye...",
+    "value": "Флоран чувствует, что за ним наблюдают большие глаза...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Наблюдение. Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. The eye it displays is intriguing.",
+    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. It displays the emblem of the Avikan Watchers.",
+    "value": "Темный кожаный гобелен. На нем изображена эмблема Авиканских наблюдателей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This black tapestry displays the emblem of our Watchers, the forces that protect us from the Thell.",
+    "value": "На этом черном гобелене изображена эмблема наших Наблюдателей, сил, защищающих нас от Теллов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A dark leather tapestry. It displays the emblem of the Avikan Watchers.",
+    "value": "Темный кожаный гобелен. На нем изображена эмблема Авиканских наблюдателей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Watchers' Eye emblem.",
+    "value": "Обнаружена эмблема Глаза Наблюдателя.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Watchers watching Akki.",
+    "value": "Наблюдатели наблюдают за Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

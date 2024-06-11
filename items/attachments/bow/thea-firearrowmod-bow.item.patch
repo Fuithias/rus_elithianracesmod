@@ -1,6 +1,6 @@
 [
   {
-    "value": "An elemental arrow that burns targets.",
+    "value": "Стихийная стрела, сжигающая цель.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Fire Arrow",
+    "value": "Огненная стрела",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Arrow Mod",
+    "value": "Стрела Мод",
     "path": "/category",
     "op": "replace"
   }

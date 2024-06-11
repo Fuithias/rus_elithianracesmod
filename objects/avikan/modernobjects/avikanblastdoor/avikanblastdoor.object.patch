@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Blast Door",
+    "value": "Взрывная дверь Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door.",
+    "value": "Прочная металлическая противовзрывная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door.",
+    "value": "Прочная металлическая противовзрывная дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny blast door.",
+    "value": "Блестящая взрывоопасная дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A blast door.",
+    "value": "Наблюдение. Взрывная дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal blast door. Cool.",
+    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal blast door.",
+    "value": "Металлическая взрывозащитная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A thick blast door.",
+    "value": "Толстая взрывоопасная дверь.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A thick blast door. It serves its Terve well.",
+    "value": "Толстая взрывоопасная дверь. Он хорошо служит своей терве.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A strong blast door.",
+    "value": "Мощная взрывоопасная дверь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Blast door. Structural integrity: 98 percent.",
+    "value": "Взрывная дверь. Структурная целостность: 98 процентов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door seals room.",
+    "value": "Уплотнители дверей комнаты.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

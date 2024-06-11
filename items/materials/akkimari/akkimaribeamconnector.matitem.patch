@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sturdy beam connector piece.",
+    "value": "Прочный соединительный элемент балки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Beam Connector",
+    "value": "Соединитель балки Акрис",
     "path": "/shortdescription",
     "op": "replace"
   }

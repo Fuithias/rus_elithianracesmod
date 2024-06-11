@@ -1,11 +1,11 @@
 [
   {
-    "value": "Soft fluffy fibers harvested from the ambrum plant.",
+    "value": "Мягкие пушистые волокна, полученные из растения амбрум.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ambrum Fiber",
+    "value": "Янтарное волокно",
     "path": "/shortdescription",
     "op": "replace"
   }

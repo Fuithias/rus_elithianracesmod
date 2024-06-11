@@ -1,11 +1,11 @@
 [
   {
-    "value": "Allosteel with a high concentration of ferroverium.",
+    "value": "Аллосталь с высокой концентрацией ферроверия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Reinforced Allosteel",
+    "value": "Армированная аллосталь",
     "path": "/shortdescription",
     "op": "replace"
   }

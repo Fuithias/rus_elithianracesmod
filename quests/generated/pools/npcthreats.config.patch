@@ -1,26 +1,26 @@
 [
   {
-    "value": "Avikan rogues",
+    "value": "изгои Авикан",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "violated Droden",
+    "value": "нарушенные дродены",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Akkimari scavengers",
+    "value": "мусорщики Аккимари",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Akkimari cloakers",
+    "value": "маскировщики Аккимари",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Rimdweller mercenaries",
+    "value": "наемники Жителей Окраин",
     "path": "/0/1/-/1/name",
     "op": "replace"
   }

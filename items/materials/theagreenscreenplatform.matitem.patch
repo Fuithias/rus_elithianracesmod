@@ -1,11 +1,11 @@
 [
   {
-    "value": "No description.",
+    "value": "Без описания.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Green Screen Platform",
+    "value": "Платформа зеленого экрана",
     "path": "/shortdescription",
     "op": "replace"
   }

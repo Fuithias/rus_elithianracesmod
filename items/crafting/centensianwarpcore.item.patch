@@ -1,11 +1,11 @@
 [
   {
-    "value": "A Centensian artefact, part of a teleportation device.",
+    "value": "Центенсийский артефакт, часть устройства телепортации.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Warp Core",
+    "value": "Ядро варпа",
     "path": "/shortdescription",
     "op": "replace"
   }

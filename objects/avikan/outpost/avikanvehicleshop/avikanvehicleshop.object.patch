@@ -1,41 +1,41 @@
 [
   {
-    "value": "Jahkar's Licensed Vehicles",
+    "value": "Лицензированные автомобили Джакара",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "It seems that vehicles can be purchased here.",
+    "value": "Кажется, здесь можно приобрести транспортные средства.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran can buy vehicless here.",
+    "value": "Флоран может покупать здесь транспортные средства.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This merchant appears to be selling vehicles.",
+    "value": "Наблюдение. Похоже, этот торговец продает автомобили.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Seems like the right place to buy me a new metal steed.",
+    "value": "Кажется, это подходящее место, чтобы купить мне нового металлического скакуна.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Nomada-certified vehicle distributor. I'll need a license for most purchases, though.",
+    "value": "Дистрибьютор автомобилей, сертифицированный Nomada. Однако для большинства покупок мне понадобится лицензия.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Merchant detected. Offers Nomada-certified vehicles.",
+    "value": "Торговец обнаружен. Предлагает автомобили, сертифицированные Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki get vehicles-new, ride around, fly around.",
+    "value": "Акки возьми новые машины, катайся, летай.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

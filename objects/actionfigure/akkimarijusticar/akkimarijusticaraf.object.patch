@@ -1,11 +1,11 @@
 [
   {
-    "value": "Justicar Figurine",
+    "value": "Фигурка юстикара",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A large Akkimari Justicar, the leader of a pack of Akkimari.\"",
+    "value": "На этикетке написано: «Большой юстикар Аккимари, лидер стаи Аккимари».",
     "path": "/description",
     "op": "replace"
   }

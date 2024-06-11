@@ -1,71 +1,71 @@
 [
   {
-    "value": "Small Booster Flame",
+    "value": "Маленькое пламя-ускоритель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This thruster keeps the ship in orbit.",
+    "value": "Этот двигатель удерживает корабль на орбите.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thrusters like these have been known to malfunction and eplode...",
+    "value": "Известно, что подобные двигатели выходят из строя и взрываются...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This thruster is like a wing, keeping the ship in orbit.",
+    "value": "Этот двигатель похож на крыло, удерживая корабль на орбите.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssscary fire.",
+    "value": "Страшный огонь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analyse. Temperature too high to measure.",
+    "value": "Анализируйте. Температура слишком высока для измерения.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These vertical thrusters will keep the ship in orbit.",
+    "value": "Эти вертикальные двигатели будут удерживать корабль на орбите.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This thruster keeps the ship in orbit. The flame seems excessive.",
+    "value": "Этот двигатель удерживает корабль на орбите. Пламя кажется чрезмерным.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a big bad flame right there. Oughta keep us in orbit.",
+    "value": "Вот это большое плохое пламя. Должен держать нас на орбите.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This thruster should keep the ship in a nice and smooth orbit.",
+    "value": "Этот двигатель должен поддерживать корабль на красивой и плавной орбите.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Without these vertical thrusters, this ship would quickly fall from orbit.",
+    "value": "Без этих вертикальных двигателей этот корабль быстро упал бы с орбиты.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This thruster is a decently efficient tool for keeping the ship in orbit.",
+    "value": "Этот двигатель — достаточно эффективный инструмент для удержания корабля на орбите.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Heat signature detected. Vertical thruster confirmed.",
+    "value": "Обнаружена тепловая сигнатура. Вертикальное подруливающее устройство подтверждено.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Thruster-small keep ship in orbit.",
+    "value": "Двигатель-маленький, удерживающий корабль на орбите.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

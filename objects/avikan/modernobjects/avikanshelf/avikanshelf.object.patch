@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Shelf",
+    "value": "Авикан Шельф",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal shelf.",
+    "value": "Прочная металлическая полка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple shelf.",
+    "value": "Простая полка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A wall-mounted metal shelf.",
+    "value": "Металлическая полка настенная.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran putsss trophiess on sshelves.",
+    "value": "Флоран раскладывает трофеи по полкам.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Content. This shelf is firmly attached to the wall.",
+    "value": "Содержание. Эта полка прочно крепится к стене.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This shelf is firmly attached to the wall.",
+    "value": "Эта полка прочно крепится к стене.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic, but functional, wall shelf.",
+    "value": "Простая, но функциональная настенная полка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "T'is a shelf.",
+    "value": "Это полка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A metal shelf mounted to the wall.",
+    "value": "Металлическая полка, прикрепленная к стене.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This shelf is firmly mounted to the wall.",
+    "value": "Эта полка прочно крепится к стене.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This shelf is firmly attached to the wall.",
+    "value": "Эта полка прочно крепится к стене.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected wall-mounted shelf. Firmly attached to the wall.",
+    "value": "Обнаружена настенная полка. Прочно прикреплен к стене.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Shelf on wall.",
+    "value": "Полка на стене.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

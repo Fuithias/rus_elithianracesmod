@@ -1,11 +1,11 @@
 [
   {
-    "value": "A mech arm with a built-in linecharge system.",
+    "value": "Механическая рука со встроенной системой линейного заряда.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Linerifle Mech Arm",
+    "value": "Механическая рука линейной винтовки",
     "path": "/shortdescription",
     "op": "replace"
   }

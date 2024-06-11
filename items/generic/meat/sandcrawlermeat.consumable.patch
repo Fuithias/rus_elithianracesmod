@@ -1,11 +1,11 @@
 [
   {
-    "value": "Slices of Sandcrawler meat. It's better to clean it first...",
+    "value": "Кусочки мяса песчаного краулера. Лучше сначала почистить...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sandcrawler Meat",
+    "value": "Мясо песчаного краулера",
     "path": "/shortdescription",
     "op": "replace"
   }

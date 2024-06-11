@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Avikan Stove^white;",
+    "value": "^orange;Плита Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stove for preparing food.",
+    "value": "Печь для приготовления еды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A multifunctional stove, for cooking and baking.",
+    "value": "Многофункциональная плита для приготовления пищи и выпечки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I could bake some bread in here.",
+    "value": "Я мог бы испечь здесь хлеб.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran once climbed insside stove. Wasss not pleassant...",
+    "value": "Флоран однажды залез в печь. Как не приятно...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Apreciative. This multifunctional stove allows me to prepare a variety of foods.",
+    "value": "Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It looks like a stove, but I don't understand the controls at all...",
+    "value": "Похоже на печку, но я вообще не понимаю в управлении...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A multifunctional stove.",
+    "value": "Многофункциональная печь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Let's do some bakin'!",
+    "value": "Давайте займемся выпечкой!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan multifunctional stove, used to prepare various types of food.",
+    "value": "Многофункциональная плита Авикан, предназначенная для приготовления различных блюд.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I can prepare many types of food here.",
+    "value": "Здесь я могу приготовить множество блюд.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A somewhat inefficient stove.",
+    "value": "Несколько неэффективная печь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected stove. Organic food can be used as unit fuel.",
+    "value": "Обнаружена печка. Органические продукты питания можно использовать в качестве топлива.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki cook, make food tasty-more.",
+    "value": "Акки готовь, делай еду вкуснее-больше.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

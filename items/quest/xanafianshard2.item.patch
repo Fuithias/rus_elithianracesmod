@@ -1,16 +1,16 @@
 [
   {
-    "value": "A shard of the Xanafir, containing a sliver of its nearly infinite power.",
+    "value": "Осколок Ксанафира, содержащий частицу его почти бесконечной силы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Xanafian Shard^white;",
+    "value": "^orange;Ксанафийский осколок^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

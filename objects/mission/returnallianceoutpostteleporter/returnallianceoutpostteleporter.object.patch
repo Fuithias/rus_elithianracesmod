@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Teleporter",
+    "value": "Телепорт Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter should take me back to the Creon Embassy.",
+    "value": "Этот телепорт должен вернуть меня в посольство Креона.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Teleportss Floran back to the Creon Embassy.",
+    "value": "Телепортируйте Флорана обратно в посольство Креона.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. This teleporter will take me back to the Creon Embassy.",
+    "value": "С облегчением. Этот телепорт доставит меня обратно в посольство Креона.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter configuration confirmed. Destination: Creon Embassy.",
+    "value": "Конфигурация телепорта подтверждена. Пункт назначения: посольство Креона.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use teleporter. Akki back at Creon Embassy.",
+    "value": "Акки использует телепорт. Акки возвращается в посольство Креона.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

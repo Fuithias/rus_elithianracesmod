@@ -1,11 +1,11 @@
 [
   {
-    "value": "^green;Авикане. ^white;Маска Дродена для празднования Ужасающего!",
+    "value": "^green;Авикане. ^white;Маска дродена для празднования Ужасающего!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Маска Дродена",
+    "value": "Маска дродена",
     "path": "/shortdescription",
     "op": "replace"
   }

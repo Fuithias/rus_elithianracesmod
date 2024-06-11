@@ -1,11 +1,11 @@
 [
   {
-    "value": "Ce'Tennan Keeper Figurine",
+    "value": "Фигурка Хранителя Се'Теннан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A Ce'Tennan construct built to safeguard their creations.\"",
+    "value": "На этикетке написано: «Конструкция Ce'Tennan, созданная для защиты их творений».",
     "path": "/description",
     "op": "replace"
   }

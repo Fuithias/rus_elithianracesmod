@@ -1,6 +1,6 @@
 [
   {
-    "value": "Shotgun ammunition that acts like a cluster of mini-grenades.",
+    "value": "Боеприпасы для дробовика, действующие как связка мини-гранат.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Grenade Ammo",
+    "value": "Граната Боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

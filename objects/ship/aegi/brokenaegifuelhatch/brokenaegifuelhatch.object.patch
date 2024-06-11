@@ -1,66 +1,66 @@
 [
   {
-    "value": "Broken FTL Fuel Hatch",
+    "value": "Сломанный сверхсветовой топливный люк",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A broken FTL fuel hatch. This won't do!",
+    "value": "Сломанный люк сверхсветового топлива. Это не пойдет!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This fuel hatch is broken.",
+    "value": "Этот люк бензобака сломан.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This will have to be fixed before we can go anywhere with this ship.",
+    "value": "Это нужно будет исправить, прежде чем мы сможем куда-нибудь отправиться на этом корабле.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Fuel hatch isss broken...",
+    "value": "Лючок бензобака сломан...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Once fixed, this fuel hatch will acccept fuel again and I'll be off to the stars!",
+    "value": "Взволнованный. Как только этот люк починят, он снова будет принимать топливо, и я отправлюсь к звездам!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A fuel panel. Broken, but not beyond repair.",
+    "value": "Топливная панель. Сломан, но не подлежит ремонту.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A broken fuel hatch.",
+    "value": "Сломанный люк бензобака.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The ship isn't going anywhere before this fuel hatch gets fixed.",
+    "value": "Корабль никуда не денется, пока не починят топливный люк.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The fuel input station is broken. Let's repair it.",
+    "value": "Станция подачи топлива сломана. Давайте отремонтируем его.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A broken fuel hatch. Repairs are in order.",
+    "value": "Сломанный люк бензобака. Ремонт в порядке.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Fuel input station detected. Status: broken.",
+    "value": "Обнаружена станция подачи топлива. Статус: сломан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki no fuel ship while panel is broken.",
+    "value": "Акки не заправляет топливо, пока панель сломана.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

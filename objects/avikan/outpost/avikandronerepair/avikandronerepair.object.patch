@@ -1,36 +1,36 @@
 [
   {
-    "value": "Drahl Repair Station",
+    "value": "Ремонтная станция Драль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This station can repair drones damaged in combat.",
+    "value": "Эта станция может ремонтировать дроны, поврежденные в бою.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran placess broken drone on table, table repairss drone!",
+    "value": "Флоран кладет сломанный дрон на стол, дрон для ремонта стола!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. If I ever have a damaged drone, I can repair it here.",
+    "value": "С облегчением. Если у меня когда-нибудь окажется поврежденный дрон, я смогу отремонтировать его здесь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Might be able to repair drones here.",
+    "value": "Возможно, здесь смогут починить дроны.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Drahl repair station. Capable of repairing Drahl units damaged in combat.",
+    "value": "Обнаружена ремонтная станция Драла. Способен ремонтировать юниты Драла, поврежденные в бою.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki repair drones here.",
+    "value": "Акки ремонтируют дроны здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

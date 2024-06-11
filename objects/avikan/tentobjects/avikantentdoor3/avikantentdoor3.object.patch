@@ -1,66 +1,66 @@
 [
   {
-    "value": "Rhaiod Tent Door",
+    "value": "Дверь палатки Райод",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tent door decorated in the style of the Rhaiod.",
+    "value": "Дверь палатки оформлена в стиле Райода.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A pruple tent door.",
+    "value": "Пурпурная дверь палатки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tent door made of a purple fabric.",
+    "value": "Дверь палатки из фиолетовой ткани.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric doorsss can't ssstop Floran.",
+    "value": "Тканевые двери не смогут остановить Флорана.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A tent door made of an unusual fabric.",
+    "value": "Наблюдение. Дверь палатки из необычной ткани.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A fabric tent door coloured in an odd shade of purple.",
+    "value": "Тканевая дверь палатки странного фиолетового цвета.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistically decorated tent door.",
+    "value": "Упрощенно оформленная дверь палатки.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A tent door decorated in the style of the Rhaiod.",
+    "value": "Дверь палатки оформлена в стиле Райода.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The door to a Rhaiod tent.",
+    "value": "Дверь в палатку Райода.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The door to a tent.",
+    "value": "Дверь в палатку.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected tent door. Colour suggests this tent belongs to the Rhaiod.",
+    "value": "Обнаружена дверь палатки. Цвет предполагает, что эта палатка принадлежит Райоду.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-purple. Sway in the wind.",
+    "value": "Дверь-фиолетовая. Качаться на ветру.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

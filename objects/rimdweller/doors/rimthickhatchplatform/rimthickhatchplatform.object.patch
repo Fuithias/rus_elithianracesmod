@@ -1,36 +1,36 @@
 [
   {
-    "value": "Thick Rim Platform Hatch",
+    "value": "Люк платформы с толстым ободом",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal hatch with a built-in platform.",
+    "value": "Металлический люк со встроенной площадкой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal hatchesss hass platform insside.",
+    "value": "Внутри металлическая платформа с люком и хассом.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. This metal hatch doubles as a platform when opened.",
+    "value": "Довольный. Этот металлический люк при открытии служит платформой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This hatch acts as a platform when open. Now that's useful!",
+    "value": "Этот люк в открытом состоянии действует как платформа. Вот это полезно!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien hatch. Design incorporates built-in platform.",
+    "value": "Обнаружен люк инопланетян. Конструкция включает в себя встроенную платформу.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hatch. Akki stand on platform even when hatch-open.",
+    "value": "Люк. Акки стоит на платформе, даже когда люк открыт.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

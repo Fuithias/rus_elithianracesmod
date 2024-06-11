@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dunebun shaped like a Sandcrawler. It makes you smell like a Sandcrawler, too!",
+    "value": "Дюнный кролик в форме песчаного краулера. От тебя тоже пахнет Песчаным краулером!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Crawler Dunebun",
+    "value": "Гусеничный Дюнебун",
     "path": "/shortdescription",
     "op": "replace"
   }

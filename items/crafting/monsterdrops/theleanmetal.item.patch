@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strange, self-regenerating metal fragment.",
+    "value": "Странный самовосстанавливающийся металлический фрагмент.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thelean Metal Fragment",
+    "value": "Телеанский металлический фрагмент",
     "path": "/shortdescription",
     "op": "replace"
   }

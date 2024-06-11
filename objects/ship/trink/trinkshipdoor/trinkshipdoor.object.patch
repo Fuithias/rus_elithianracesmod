@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Ship Door",
+    "value": "Тринкианская дверь корабля",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door, generally used to seal off individual Trink ship compartments.",
+    "value": "Прочная металлическая дверь, обычно используемая для изоляции отдельных отсеков корабля Тринка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door.",
+    "value": "Прочная металлическая дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny door.",
+    "value": "Блестящая дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A metal door.",
+    "value": "Заявление. Металлическая дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Cool door.",
+    "value": "Классная дверь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal door. Effective at keeping things out.",
+    "value": "Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fine door made of strong metal. Ain't nothing coming through here.",
+    "value": "Хорошая дверь из прочного металла. Здесь ничего не проходит.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An ship door of Trinkian design.",
+    "value": "Корабельная дверь дизайна Тринкиана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal door built by machines.",
+    "value": "Металлическая дверь, построенная машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient way to seal off an entire ship compartment.",
+    "value": "Эффективный способ изолировать весь отсек корабля.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected door. Analysis: Ship model.",
+    "value": "Обнаружена дверь. Анализ: Модель корабля.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Ship-door, shiny.",
+    "value": "Корабельная дверь, блестящая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

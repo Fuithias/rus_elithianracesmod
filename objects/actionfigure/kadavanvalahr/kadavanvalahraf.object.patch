@@ -1,11 +1,11 @@
 [
   {
-    "value": "Val'ahr Figurine",
+    "value": "Фигурка Вал'ара",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A highly aggressive cave dweller, the Val'ahr has evolved wings to help it navigate Kadavan's cave systems.\"",
+    "value": "На этикетке написано: «Очень агрессивный пещерный житель, Вал'ар развил крылья, которые помогают ему перемещаться по пещерным системам Кадавана».",
     "path": "/description",
     "op": "replace"
   }

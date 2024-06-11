@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Hanging Storage",
+    "value": "Акрис Подвесное Хранение",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Various items suspended in a large net.",
+    "value": "Различные предметы подвешены в большой сети.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Items stored in a net hung from the ceiling.",
+    "value": "Вещи, хранящиеся в сетке, свисали с потолка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A net for storing items.",
+    "value": "Сетка для хранения вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Netsss for sstoring thingss.",
+    "value": "Netsss для хранения вещей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Various items are suspended in a large net here.",
+    "value": "Наблюдение. Здесь в большую сеть подвешены различные предметы.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Storing your stuff on the ceiling. I like it!",
+    "value": "Хранение вещей на потолке. Мне это нравится!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "It must be a pain to get anything out of this net again.",
+    "value": "Должно быть, очень больно снова вытащить что-нибудь из этой сети.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta storage hangin' from the ceiling.",
+    "value": "Что-то вроде хранилища, свисающего с потолка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Akkimari often store their possessions in nets like these.",
+    "value": "Аккимари часто хранят свое имущество в таких сетях.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of net filled with alien curios.",
+    "value": "Какая-то сеть, наполненная инопланетными диковинками.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Hanging items from the ceiling is actually an efficient means of storage.",
+    "value": "Подвешивание предметов к потолку на самом деле является эффективным средством хранения.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning contents of net. Detected empty Vaash barrel. Detected machinery components. Detected drone chassis.",
+    "value": "Сканирование содержимого сети. Обнаружена пустая бочка Вааша. Обнаружены компоненты техники. Обнаружено шасси дрона.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki hang items out of the way. Akki not need them now.",
+    "value": "Акки развешивает предметы в стороне. Акки они сейчас не нужны.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

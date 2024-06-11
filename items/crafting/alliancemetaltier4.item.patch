@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong and hard allosteel alloy.",
+    "value": "Прочный и твердый сплав аллостали.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hardened Allosteel",
+    "value": "Закаленная аллосталь",
     "path": "/shortdescription",
     "op": "replace"
   }

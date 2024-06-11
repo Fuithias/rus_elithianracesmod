@@ -1,26 +1,26 @@
 [
   {
-    "value": "Small Hyverium Rock",
+    "value": "Маленькая гивериевая скала",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A fragile rock full of Hyverium ore. Maybe I could break it.",
+    "value": "Хрупкая скала, наполненная гивериевой рудой. Возможно, я смогу сломать его.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssshiny rock. Sssmash it!",
+    "value": "Сссшный камень. Разрушьте это!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observant. This rock contains Hyverium, and is covered in cracks. It should be easy to break.",
+    "value": "Наблюдательный. Эта скала содержит гивериум и покрыта трещинами. Его должно быть легко сломать.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Akki break rock, get Hyverium.",
+    "value": "Акки разбей камень, добудь Хайвериум.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

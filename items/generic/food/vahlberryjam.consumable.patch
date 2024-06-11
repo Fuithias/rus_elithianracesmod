@@ -1,11 +1,11 @@
 [
   {
-    "value": "A delicious jam full of vitamins.",
+    "value": "Вкусное и витаминное варенье.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vahlberry Jam",
+    "value": "Валберри Джем",
     "path": "/shortdescription",
     "op": "replace"
   }

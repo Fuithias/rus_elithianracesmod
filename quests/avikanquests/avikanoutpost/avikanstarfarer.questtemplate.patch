@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;A Starfarer's Request",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Запрос Звездоплавателя",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Would you help out a fellow Starfarer, friend? I'm in need of a ^orange;Sandspitter's Sack ^white;and a ^orange;Sandcrawler's Tooth ^white;for a little experiment of mine, but I am stuck here while my ship is being repaired... If you could ^green;hunt down a Sandspitter and a Sandcrawler on a desert planet^white;, I would be most grateful!",
-      "path": "/text",
-      "op": "replace"
+    "value": "Поможете ли вы товарищу Звездоплавателю, друг? Мне нужен ^orange;мешок Пескоплюя ^white;и ^orange;зуб Пескокраба ^white;для моего небольшого эксперимента, но я застрял здесь, пока мой корабль ремонтируют... Если вы сможете ^green;поймать Пескоплюя и Пескокраба на пустынной планете^white;, я буду вам очень благодарен!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Thank you, my fellow Starfarer! This is exactly what I was looking for. Take this helmet and these tokens - you have earned them!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Спасибо, мой товарищ Звездоплаватель! Это именно то, что я искал. Возьмите этот шлем и эти токены - вы заслужили их!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Nenehki ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ненехки^reset в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Уникальный тайник Альянса^white;",
+    "value": "^orange;Важный тайник Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

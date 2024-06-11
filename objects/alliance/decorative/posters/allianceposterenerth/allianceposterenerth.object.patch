@@ -1,36 +1,36 @@
 [
   {
-    "value": "Enerth Engineering Poster",
+    "value": "Энергетический инженерный плакат",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting Enerth Engineering.",
+    "value": "Плакат, рекламирующий Enerth Engineering.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Blue makesss Floran think of the ssky.",
+    "value": "Синий заставляет Флорана думать о небе.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Confused. What does Enerth Engineering manufacture?",
+    "value": "Смущенный. Что производит «Энерт Инжиниринг»?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Enerth Engineering produces many of the Union's vehicles, but also its modular homes, and some household equipment.",
+    "value": "Enerth Engineering производит многие автомобили Союза, а также модульные дома и некоторую бытовую технику.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

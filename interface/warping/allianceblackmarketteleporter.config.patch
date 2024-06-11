@@ -1,11 +1,11 @@
 [
   {
-    "value": "Bolter's Bazaar",
+    "value": "Базар Болтера",
     "path": "/bookmarkName",
     "op": "replace"
   },
   {
-    "value": "Beam to Ship",
+    "value": "Назад на корабль",
     "path": "/destinations/name",
     "op": "replace"
   }

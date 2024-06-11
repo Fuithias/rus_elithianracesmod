@@ -1,11 +1,11 @@
 [
   {
-    "value": "Slices of cooked mellowroot. Highly nutritional.",
+    "value": "Кусочки приготовленного тыквенного корня. Очень питательный.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Mellowroot Chops",
+    "value": "Отбивные из тыквы",
     "path": "/shortdescription",
     "op": "replace"
   }

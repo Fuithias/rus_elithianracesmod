@@ -1,11 +1,11 @@
 [
   {
-    "value": "Strong metal plating, for the best protection.",
+    "value": "Прочное металлическое покрытие для лучшей защиты.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Plating",
+    "value": "Авикан Плейтинг",
     "path": "/shortdescription",
     "op": "replace"
   }

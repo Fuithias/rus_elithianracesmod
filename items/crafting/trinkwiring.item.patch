@@ -1,11 +1,11 @@
 [
   {
-    "value": "Copper wiring, for use in electronics.",
+    "value": "Медная проводка для использования в электронике.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Wiring",
+    "value": "Тринкианская проводка",
     "path": "/shortdescription",
     "op": "replace"
   }

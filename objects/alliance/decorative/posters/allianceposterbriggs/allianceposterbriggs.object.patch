@@ -1,36 +1,36 @@
 [
   {
-    "value": "Briggs Shipbuilding Poster",
+    "value": "Плакат о судостроении Бриггса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting Briggs Shipbuilding.",
+    "value": "Плакат, рекламирующий судостроение компании Briggs.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran thinksss thiss posster iss boring.",
+    "value": "Флоран думает, что этот плакат скучный.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. Briggs Shipbuilding is a manufacturer of mining and construction vessels.",
+    "value": "Информирован. Briggs Shipbuilding — производитель горнодобывающих и строительных судов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Briggs Shipbuilding manufactures most of the Union's construction and mining vessels.",
+    "value": "Briggs Shipbuilding производит большую часть строительных и горнодобывающих судов Союза.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

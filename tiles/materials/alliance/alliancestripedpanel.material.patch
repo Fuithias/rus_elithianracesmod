@@ -1,36 +1,36 @@
 [
   {
-    "value": "Striped Alliance Panel",
+    "value": "Полосатая панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A polished metal panel, decorated by a colourful stripe.",
+    "value": "Полированная металлическая панель, украшенная цветной полосой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. This panel is highly polished.",
+    "value": "Доволен. Эта панель сильно отполирована.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran enjoysss the colourss.",
+    "value": "Флоран наслаждается цветами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A decorated metal panel.",
+    "value": "Украшенная металлическая панель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Decorated metal panel.",
+    "value": "Анализ завершен. Украшенная металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki like decoration-colourful.",
+    "value": "Акки нравится украшение-цветное.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

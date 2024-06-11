@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Space Heater",
+    "value": "Космический обогреватель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small space heater.",
+    "value": "Небольшой обогреватель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic space heater.",
+    "value": "Базовый обогреватель.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This should keep a home warm and cozy.",
+    "value": "Это должно сделать дом теплым и уютным.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal box makesss roomss warm.",
+    "value": "Металлический короб делает помещения теплыми.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A space heater.",
+    "value": "Наблюдение. Обогреватель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Just a space heater.",
+    "value": "Просто обогреватель.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This will keep a home at a comfortable temperature.",
+    "value": "Это позволит поддерживать в доме комфортную температуру.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I don't need no space heater.",
+    "value": "Мне не нужен обогреватель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standard space heater, built by Enerth Engineering.",
+    "value": "Стандартный обогреватель, произведенный компанией Enerth Engineering.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This device emits heat.",
+    "value": "Это устройство излучает тепло.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly efficient space heater.",
+    "value": "Удивительно эффективный обогреватель.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected heating device.",
+    "value": "Обнаружено нагревательное устройство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Device make heat.",
+    "value": "Устройство нагревает.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

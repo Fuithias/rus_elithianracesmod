@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Sprinkler",
+    "value": "Разбрызгиватель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An automated soil watering solution.",
+    "value": "Автоматизированное решение для полива почвы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sprinkler. Quite a clever way to water crops.",
+    "value": "Разбрызгиватель. Довольно умный способ полива сельскохозяйственных культур.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "It's a machine that waters crops automatically.",
+    "value": "Это машина, которая автоматически поливает посевы.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Waters cropss..",
+    "value": "Воды посевы..",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+    "value": "Не впечатлен. Это автоматизированное решение для полива почвы. Мне нравится поливать растения вручную.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a sprinkler for watering crops! Running through sprinklers makes me feel nostalgic.",
+    "value": "Это разбрызгиватель для полива сельскохозяйственных культур! Пробежка по разбрызгивателям вызывает у меня ностальгию.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "It is used to water crops. Simple, but rather clever.",
+    "value": "Его используют для полива сельскохозяйственных культур. Просто, но довольно умно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Waterin' crops made simple.",
+    "value": "Поливать посевы стало проще.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standard ceiling sprinkler.",
+    "value": "Стандартный потолочный спринклер.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "What a waste of water...",
+    "value": "Какая трата воды...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most efficient sprinkler.",
+    "value": "Не самый эффективный разбрызгиватель.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien irrigation system.",
+    "value": "Обнаружена инопланетная ирригационная система.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sprinkler-alien. Sprays water!",
+    "value": "Разбрызгиватель-инопланетянин. Разбрызгивает воду!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

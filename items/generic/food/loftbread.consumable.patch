@@ -1,11 +1,11 @@
 [
   {
-    "value": "Bread made using loftgrain. Very tasty.",
+    "value": "Хлеб, приготовленный из лофтзерна. Очень вкусно.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Loftbread",
+    "value": "Лофтхлеб",
     "path": "/shortdescription",
     "op": "replace"
   }

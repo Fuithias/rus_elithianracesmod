@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Harnessing the Corruption",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Использование Порчи",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I found the core of a Violated Elite Drahl's ion cannon. The weapon itself is damaged beyond repair, but perhaps this core can still be repurposed. ^green;I should visit the weaponsmith in the Starfarer's Refuge ^white;- if anyone can build a weapon with this, it is Ayurin.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я нашёл ядро ионной пушки элитного поражённого драла. Само оружие повреждено до неузнаваемости, но, возможно, это ядро ещё можно использовать. ^green;Мне следует посетить оружейника в убежище Звездоплавателя^white; - если кто и сможет создать оружие из этого, так это Айурин.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "I have never seen anything like this before, Captain! I can try to build a weapon from it, but it will be a challenge.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Я никогда не видел ничего подобного, капитан! Я могу попробовать создать оружие из этого, но это будет вызов.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Айурина ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Weapon Locker",
+    "value": "Ящик с оружием Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A locked filled with weapons.",
+    "value": "Замок, наполненный оружием.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "These weapons would be of great use to the rebels.",
+    "value": "Это оружие могло бы оказаться очень полезным для повстанцев.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A weapons locked.",
+    "value": "Оружие заблокировано.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wantsss these weaponss.",
+    "value": "Флорану нужно это оружие.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Careful. These weapons could be dangerous. Better keep the cabinet locked.",
+    "value": "Осторожный. Это оружие может быть опасным. Лучше держите шкаф запертым.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A locked full of awesome guns!",
+    "value": "Замок, полный классного оружия!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A collection of alien firearms.",
+    "value": "Коллекция инопланетного огнестрельного оружия.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A closet for my guns.",
+    "value": "Шкаф для моего оружия.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A military weapons locker.",
+    "value": "Шкафчик для военного оружия.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Storage for alien weaponry.",
+    "value": "Хранилище инопланетного оружия.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The weapons locker has multiple safety features. It's quite efficient.",
+    "value": "Шкафчик для оружия имеет множество функций безопасности. Это довольно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien weaponry storage. Scanning items.",
+    "value": "Обнаружено хранилище инопланетного оружия. Сканирование предметов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take weapons-alien?",
+    "value": "Акки взять оружие-инопланетянин?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

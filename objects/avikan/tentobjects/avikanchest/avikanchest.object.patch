@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Bag",
+    "value": "Авикан Сумка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather bag, perfect for storing your goodies!",
+    "value": "Кожаная сумка идеально подходит для хранения ваших вкусностей!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A poorly crafted leather bag.",
+    "value": "Плохо сделанная кожаная сумка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather bag. What's inside?",
+    "value": "Простая кожаная сумка. Что внутри?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bagsss full of goodiesss!",
+    "value": "Сумки полны вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A primitive leather bag.",
+    "value": "Наблюдение. Примитивная кожаная сумка.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather bag. Might be full of goodies!",
+    "value": "Кожаная сумка. Наверное, полно вкусностей!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive leather bag, for storing your belongings.",
+    "value": "Примитивная кожаная сумка для хранения вещей.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather bag, for storage.",
+    "value": "Простая кожаная сумка для хранения.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A leather bag. Not as well protected as a chest, but much cheaper.",
+    "value": "Кожаная сумка. Не так хорошо защищен, как сундук, но гораздо дешевле.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather bag.",
+    "value": "Простая кожаная сумка.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scanning content.",
+    "value": "Сканирование контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bag-leather, easy to steal.",
+    "value": "Сумка-кожа, легко украсть.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

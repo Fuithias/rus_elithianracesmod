@@ -1,41 +1,41 @@
 [
   {
-    "value": "Sandcrawlers",
+    "value": "Пескоползни",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Valahr",
+    "value": "Валар",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Wild Faryths",
+    "value": "Дикие Фариты",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Hacked Drahls",
+    "value": "Взломанные Дралы",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Violated Drahls",
+    "value": "Нарушенные Дралы",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Hacked Trinkian Drones",
+    "value": "Взломанные дроны Тринкианцев",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Akkimari Arbiters",
+    "value": "Арбитры Аккимари",
     "path": "/0/1/-/1/name",
     "op": "replace"
   },
   {
-    "value": "Thelean drones",
+    "value": "дроны Тилиан",
     "path": "/0/1/-/1/name",
     "op": "replace"
   }

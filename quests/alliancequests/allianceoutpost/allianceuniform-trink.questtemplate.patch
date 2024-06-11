@@ -1,16 +1,16 @@
 [
   {
-    "value": "^orange;Suiting Up",
+    "value": "^orange;Экипировка",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Greetings, ambassador! I have your Alliance body mods ready for you: here you are.",
+    "value": "Приветствую, посол! У меня готовы ваши модификации тела Альянса: вот, держите.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "I received my official Elithian Alliance body mods. Let's install them!",
+    "value": "Я получил свои официальные модификации тела Элитийского Альянса. Давайте установим их!",
     "path": "/completionText",
     "op": "replace"
   }

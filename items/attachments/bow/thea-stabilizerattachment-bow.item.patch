@@ -1,6 +1,6 @@
 [
   {
-    "value": "A bow stabilizer that increases accuracy and reduces draw time.",
+    "value": "Стабилизатор лука, повышающий точность и сокращающий время натяжения.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Stabilizer",
+    "value": "Стабилизатор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

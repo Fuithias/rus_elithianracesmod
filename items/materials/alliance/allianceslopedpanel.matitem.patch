@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sloped metal panel, perfect for buildings walls with.",
+    "value": "Наклонная металлическая панель, идеально подходящая для стен зданий.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Sloped Panel",
+    "value": "Наклонная панель Alliance",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Rhaiod Awning",
+    "value": "Райод Тент",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tent awning decorated in the style of the Rhaiod.",
+    "value": "Тент-палатка, оформленная в стиле Райода.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Purple is an odd colour for such a tent.",
+    "value": "Фиолетовый — странный цвет для такой палатки.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A decorated tent awning.",
+    "value": "Украшенный тент для палатки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Purple colourss make Floran feel odd.",
+    "value": "Фиолетовые цвета заставляют Флорана чувствовать себя странно.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A tent entrance.",
+    "value": "Наблюдение. Вход в палатку.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The fabric of this tent awning was woven with great care.",
+    "value": "Ткань этого палаточного тента была соткана с особой тщательностью.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An oddly coloured tent awning.",
+    "value": "Тент от палатки странного цвета.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An awning for Rhaiod tents.",
+    "value": "Тент для палатки Райод.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The quality and colour of this awning clearly marks this tent as a Rhaiod temple.",
+    "value": "Качество и цвет этого тента ясно указывают на то, что эта палатка принадлежит к храму Райода.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The quality of this fabric is unusually high for Avikan tents.",
+    "value": "Качество этой ткани необычайно высокое для палаток «Авикан».",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric tent awning. Colour suggests this tent belongs to the Rhaiod.",
+    "value": "Тент для палатки из ткани. Цвет предполагает, что эта палатка принадлежит Райоду.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Awning for tent, Akki go inside.",
+    "value": "Тент для палатки, Акки заходим внутрь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

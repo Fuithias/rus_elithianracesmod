@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Computer Screen",
+    "value": "Экран компьютера Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A standard computer-and-screen in one.",
+    "value": "Стандартный компьютер и экран в одном.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This screen is also a computer.",
+    "value": "Этот экран также является компьютером.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A computer and a screen in one.",
+    "value": "Компьютер и экран в одном.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not know how to use computer...",
+    "value": "Флоран не умеет пользоваться компьютером...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A personal computer and screen in one.",
+    "value": "Наблюдение. Персональный компьютер и экран в одном.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This screen is also a computer. Clever.",
+    "value": "Этот экран также является компьютером. Умный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A screen and computer in one.",
+    "value": "Экран и компьютер в одном.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Computers aren't my thing.",
+    "value": "Компьютеры - это не мое.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic computer and screen in one.",
+    "value": "Простой компьютер и экран в одном.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A type of alien computer and screen combo.",
+    "value": "Тип инопланетного компьютера и экрана.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Combining a computer and screen in one is quite efficient.",
+    "value": "Совместить компьютер и экран в одном довольно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien interface detected. Translating...",
+    "value": "Обнаружен инопланетный интерфейс. Идет перевод...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not sure what it means. Interface-strange.",
+    "value": "Акки не уверен, что это значит. Интерфейс-странный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

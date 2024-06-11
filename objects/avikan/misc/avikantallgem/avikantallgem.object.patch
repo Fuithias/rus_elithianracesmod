@@ -1,71 +1,71 @@
 [
   {
-    "value": "Tall Avikan Gemstone",
+    "value": "Высокий авиканский самоцвет",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pretty gemstone.",
+    "value": "Симпатичный драгоценный камень.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A fine gemstone.",
+    "value": "Прекрасный драгоценный камень.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A fabulous gemstone. So shiny!",
+    "value": "Сказочный драгоценный камень. Такой блестящий!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Shinysss worth moneysss.",
+    "value": "Блеск стоит денег.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A gemstone from deep within the bedrock.",
+    "value": "Наблюдение. Драгоценный камень, добытый из глубины скальной породы.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny gemstone. Pretty.",
+    "value": "Блестящий драгоценный камень. Симпатичный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A gemstone of splendid quality.",
+    "value": "Драгоценный камень великолепного качества.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A shinin' gemstone.",
+    "value": "Сияющий драгоценный камень.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A gemstone. The Avikan seem to really like these.",
+    "value": "Драгоценный камень. Авиканам, кажется, это очень нравится.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A gemstone mined from Kadavan's bedrock.",
+    "value": "Драгоценный камень, добытый в скалах Кадавана.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A gemstone. The Avikan appears to value it very highly.",
+    "value": "Драгоценный камень. Авикан, кажется, ценит это очень высоко.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected mineral substance. Origin: Kadavan.",
+    "value": "Обнаружено минеральное вещество. Происхождение: Кадаван.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crystal-large. Can Akki eat?",
+    "value": "Кристалл-большой. Может ли Акки есть?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

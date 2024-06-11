@@ -1,16 +1,16 @@
 [
   {
-    "value": "The core of an Avikan jumpgate. A modified piece of Centensian technology.",
+    "value": "Ядро прыжковых врат Авикан. Модифицированная часть технологии Centensian.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Avikan Jumpgate Core^white;",
+    "value": "^#BA66FF;Ядро прыжковых врат Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

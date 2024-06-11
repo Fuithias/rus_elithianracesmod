@@ -1,66 +1,66 @@
 [
   {
-    "value": "Vanguard Krahl",
+    "value": "Авангард Крал",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A Vanguard vehicle built for combat purposes.",
+    "value": "Автомобиль «Авангард», созданный для боевых целей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This mech looks durable.",
+    "value": "Этот механизм выглядит долговечным.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A mech! Can it fly?",
+    "value": "Механика! Это может летать?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big metal man... Metal man ssmash!",
+    "value": "Большой металлический человек... Металлический человек ссмэш!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intimidated. I would not like to be on the receiving end of this mech's weapons.",
+    "value": "Запуган. Мне бы не хотелось оказаться под огнем этого меха.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien mech! Let's hijack it!",
+    "value": "Инопланетный механизм! Давайте угоним его!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A mech built for combat. A tool for violence, or defence?",
+    "value": "Мех, созданный для боя. Инструмент насилия или защиты?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This mech might not have the best weaponry, but its armour is superb.",
+    "value": "Возможно, у этого меха не самое лучшее вооружение, но его броня превосходна.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Vanguard only dispatches mechs like this one in truly dire situations.",
+    "value": "Авангард отправляет подобных роботов только в действительно тяжелых ситуациях.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A reliable combat mech, it has thick armour and decent weaponry.",
+    "value": "Надежный боевой мех, имеет толстую броню и достойное вооружение.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Vanguard Mech detected. Status: Inactive.",
+    "value": "Обнаружен Мех Авангарда. Статус: Неактивен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Mech-alien, Akki control! Akki stomp around, step on puny aliens!",
+    "value": "Мех-инопланетянин, контроль Акки! Акки топчется, наступает на щуплых инопланетян!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

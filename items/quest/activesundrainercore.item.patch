@@ -1,16 +1,16 @@
 [
   {
-    "value": "The core of an ancient weapon. Strong energies radiate from the mechanism.",
+    "value": "Ядро древнего оружия. От механизма исходит сильная энергия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Reactivated Weapon Core^white;",
+    "value": "^orange;Реактивированное ядро ​​оружия^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

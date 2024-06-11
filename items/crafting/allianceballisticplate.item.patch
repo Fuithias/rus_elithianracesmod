@@ -1,11 +1,11 @@
 [
   {
-    "value": "A ballistic plate capable of absorbing powerful blows.",
+    "value": "Баллистическая пластина, способная поглощать мощные удары.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ballistic Plate",
+    "value": "Баллистическая пластина",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Combo Strike",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

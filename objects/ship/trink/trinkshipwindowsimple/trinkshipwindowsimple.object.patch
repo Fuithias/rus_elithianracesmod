@@ -1,71 +1,71 @@
 [
   {
-    "value": "Simple Trinkian Ship Window",
+    "value": "Простое окно корабля Тринкиана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A monitor used by the Trinks as a replacement for windows.",
+    "value": "Монитор, используемый Тринками вместо окон.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This seems to be some sort of digital window.",
+    "value": "Кажется, это какое-то цифровое окно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A digital window? I prefer actual windows.",
+    "value": "Цифровое окно? Я предпочитаю настоящие окна.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesn't underssstand ssshiny ssscreen...",
+    "value": "Флоран не понимает сссшный экран...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This monitor srves as a digital window, to replace actual windows.",
+    "value": "Заинтригован. Этот монитор служит цифровым окном, заменяющим настоящие окна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A digital window? How awesome is that?",
+    "value": "Цифровое окно? Насколько это здорово?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A digital window to circumvent the structural weakpoints created by real windows.",
+    "value": "Цифровое окно, позволяющее обойти структурные слабые места, созданные настоящими окнами.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "What sort of mockery is this? Is this supposed to some sorta window?",
+    "value": "Что это за издевательство? Это должно быть какое-то окно?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A digital Trinkian window. It's connected to sensors all around the ship.",
+    "value": "Цифровое окно Тринкиана. Он подключен к датчикам по всему кораблю.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Is this supposed to be a window?",
+    "value": "Это должно быть окно?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Us Trinks have no need for actual windows. These monitors display all the information we need about our surroundings.",
+    "value": "Нам, Тринкам, не нужны настоящие окна. Эти мониторы отображают всю необходимую нам информацию о нашем окружении.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien interface detected. Unable to translate.",
+    "value": "Обнаружен инопланетный интерфейс. Невозможно перевести.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "This window-no, just screen.",
+    "value": "Это окно - нет, просто экран.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

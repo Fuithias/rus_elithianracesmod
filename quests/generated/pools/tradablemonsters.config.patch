@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sandcrawler",
+    "value": "Пескоползень",
     "path": "/0/1/-/name",
     "op": "replace"
   },
   {
-    "value": "Trangii",
+    "value": "Трангии",
     "path": "/0/1/-/name",
     "op": "replace"
   }

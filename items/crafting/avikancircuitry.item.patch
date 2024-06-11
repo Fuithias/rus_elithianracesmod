@@ -1,11 +1,11 @@
 [
   {
-    "value": "The core of any modern electronic device.",
+    "value": "Ядро любого современного электронного устройства.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Circuitry",
+    "value": "Авикан Схема",
     "path": "/shortdescription",
     "op": "replace"
   }

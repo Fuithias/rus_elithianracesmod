@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Alliance Mech Parts",
+    "value": "^green;Запчасти для Мехов Альянса",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "You look like a mech enthusiast! I've got some Enerth mech blueprints you might like, but I can't just give them away for free... If you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;, I'll give you the blueprints and some armour to boot!",
+    "value": "Вы выглядите как энтузиаст мехов! У меня есть чертежи мехов Энерта, которые могут вам понравиться, но я не могу просто так их отдать... Если вы ^green;найдете для меня ^orange;Спасенный Нано-Приемник ^white;пока будете ^green;в космосе^white;, я отдам вам чертежи и броню в придачу!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "I knew you'd get the job done! Here you are, the armour and blueprints I promised you!",
+    "value": "Я знал, что вы справитесь! Вот броня и чертежи, которые я вам обещал!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Azurii ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Азурии ^reset;в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

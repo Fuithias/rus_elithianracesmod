@@ -1,11 +1,11 @@
 [
   {
-    "value": "Strong, sand-coloured metal plating.",
+    "value": "Прочное металлическое покрытие песочного цвета.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kavanite Plate",
+    "value": "Каванитовая пластина",
     "path": "/shortdescription",
     "op": "replace"
   }

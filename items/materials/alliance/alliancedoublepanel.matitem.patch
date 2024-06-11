@@ -1,11 +1,11 @@
 [
   {
-    "value": "Multi-layered metal panels.",
+    "value": "Многослойные металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Double Alliance Panel",
+    "value": "Двойная панель альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

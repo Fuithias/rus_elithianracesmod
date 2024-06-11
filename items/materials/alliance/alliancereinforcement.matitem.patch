@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong metal block, used to reinforce larger structures.",
+    "value": "Прочный металлический блок, используемый для усиления более крупных конструкций.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Reinforcement",
+    "value": "Подкрепление Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

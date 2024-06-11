@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Fountain",
+    "value": "Фонтан Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A beautiful water fountain.",
+    "value": "Красивый фонтан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A pretty fountain. The sound of the water is soothing.",
+    "value": "Симпатичный фонтан. Звук воды успокаивает.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large fountain. Reminds me of a birdbath.",
+    "value": "Большой фонтан. Напоминает купальню для птиц.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Water is bringer of life for Floran.",
+    "value": "Вода – источник жизни для Флорана.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relaxed. The sounds of this water is calming.",
+    "value": "Расслабился. Звуки этой воды успокаивают.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "If I had a penny I'd throw it in.",
+    "value": "Если бы у меня была копейка, я бы ее бросил.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Beautiful clear water. Sometimes I miss the ocean.",
+    "value": "Красивая чистая вода. Иногда я скучаю по океану.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda splashy statue spoutin' water.",
+    "value": "Какая-то блестящая статуя, извергающая воду.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A fountain. The sound of it always managed to calm me.",
+    "value": "Фонтан. Его звук всегда успокаивал меня.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Aliens waste water in many ways...",
+    "value": "Инопланетяне тратят воду разными способами...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This fountain wastes almost no water. It's quite efficient.",
+    "value": "Этот фонтан почти не тратит воду. Это довольно эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected water source. Recommend extraction.",
+    "value": "Обнаружен источник воды. Рекомендую экстракцию.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Water flows. Akki grows thirsty.",
+    "value": "Вода течет. Акки испытывает жажду.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

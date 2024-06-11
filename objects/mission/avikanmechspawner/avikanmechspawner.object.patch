@@ -1,71 +1,71 @@
 [
   {
-    "value": "Vanguard Krahl Bay",
+    "value": "Авангард Крал Бэй",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A station for repairing and maintaining Vanguard Krahls.",
+    "value": "Станция ремонта и обслуживания Vanguard Krahls.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A mech bay of some kind.",
+    "value": "Механический отсек какой-то.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A mech bay.",
+    "value": "Механический отсек.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Thiss isss a mech bay. Floran Ssmart.",
+    "value": "Это мехотсек. Флоран Смарт.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An alien mech bay.",
+    "value": "Наблюдение. Механический отсек пришельцев.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like a mech bay.",
+    "value": "Это похоже на механический отсек.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A workstation where one can repair and maintain mechs.",
+    "value": "Рабочая станция, где можно ремонтировать и обслуживать мехов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon it's some kinda mech bay.",
+    "value": "Я думаю, это что-то вроде механического отсека.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A mech bay built for Avikan Krahls.",
+    "value": "Механический отсек, построенный для Авикан Кралс.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This station allows for easy maintenance on Krahls.",
+    "value": "Эта станция позволяет легко обслуживать Krahls.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A decently efficient mech bay.",
+    "value": "Достаточно эффективный мехотсек.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard Krahl Bay. Allows for easy maintenance on Krahls.",
+    "value": "Обнаружен залив Авангард Крал. Позволяет легко обслуживать Krahls.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Bay-mech-alien. Akki steal mech, scavenge for parts?",
+    "value": "Бэй-механик-инопланетянин. Акки украл механизм и разыскал запчасти?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

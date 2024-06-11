@@ -1,16 +1,16 @@
 [
   {
-    "value": "A missile pod, broken off from an Elite Drahl unit. It could still be repaired.",
+    "value": "Ракетная установка, отколовшаяся от элитного подразделения «Драл». Его еще можно было починить.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Broken Missile Pod^white;",
+    "value": "^#BA66FF;Сломанная ракетная установка^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

@@ -1,42 +1,42 @@
 [
   {
-    "value": "Dark Avikan Platform",
+    "value": "Темная авиканская платформа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A dark metal platform.",
+    "value": "Темная металлическая платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. A dark-coloured metal platform.",
+    "value": "Утверждение. Темная металлическая платформа.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal platform iss dark.",
+    "value": "Металлическая платформа темная.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A dark-lookin' platform.",
+    "value": "Темная платформа.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. A dark metal platform.",
+    "value": "Анализ завершен. Темная металлическая платформа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki stand on platform-dark, make Akki look light.",
+    "value": "Акки стоит на темной платформе, делает акки светлее.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Nomada Blast Door",
+    "value": "Взрывная дверь Номада",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door.",
+    "value": "Прочная металлическая противовзрывная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal door iss hard to break open.",
+    "value": "Металлическую дверь сложно взломать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A metal blast door.",
+    "value": "Наблюдение. Металлическая взрывозащитная дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A blast door. It's blasted hard to break through.",
+    "value": "Взрывная дверь. Прорваться через него чертовски сложно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected blast door.",
+    "value": "Обнаружена взрывоопасная дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door.",
+    "value": "Дверь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

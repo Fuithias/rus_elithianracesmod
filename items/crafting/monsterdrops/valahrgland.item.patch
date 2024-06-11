@@ -1,11 +1,11 @@
 [
   {
-    "value": "An organ used by the Valahr to create potent poisons.",
+    "value": "Орган, используемый Валарами для создания сильнодействующих ядов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Valahr Poison Gland",
+    "value": "Ядовитая железа Валара",
     "path": "/shortdescription",
     "op": "replace"
   }

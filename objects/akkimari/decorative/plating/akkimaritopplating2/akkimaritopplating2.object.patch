@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Top Plate",
+    "value": "Акрис Верхняя пластина",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Metal plating found on the outside of Akkimari structures.",
+    "value": "Металлические обшивки обнаружены снаружи построек Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal plating. It looks primitive.",
+    "value": "Металлическое покрытие. Выглядит примитивно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Scrap metal plating.",
+    "value": "Покрытие металлоломом.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssscrap metal platess.",
+    "value": "Металлические пластины из металлолома.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A metal skeleton plated with scrap metal.",
+    "value": "Наблюдение. Металлический каркас, покрытый металлоломом.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like scrap metal. Kinda primitive.",
+    "value": "Это похоже на металлолом. Как-то примитивно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Scrap metal plating. Not very elegant.",
+    "value": "Покрытие металлоломом. Не очень элегантно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A wall o' junk.",
+    "value": "Стена из мусора.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A wall built from scrap metal.",
+    "value": "Стена, построенная из металлолома.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This wall looks like it was made from scrap metal.",
+    "value": "Эта стена выглядит так, будто ее сделали из металлолома.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This scrap metal wall is surprisingly well insulated.",
+    "value": "Эта стена из металлолома на удивление хорошо изолирована.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected scrap metal wall plating.",
+    "value": "Обнаружен металлолом обшивки стен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akkimari knows wall will hold.",
+    "value": "Аккимари знает, что стена выдержит.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

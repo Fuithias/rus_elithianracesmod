@@ -1,11 +1,11 @@
 [
   {
-    "value": "The tooth of a Kadavan Sandcrawler.",
+    "value": "Зуб кадаванского песчаного краулера.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sandcrawler's Tooth",
+    "value": "Зуб песчаного краулера",
     "path": "/shortdescription",
     "op": "replace"
   }

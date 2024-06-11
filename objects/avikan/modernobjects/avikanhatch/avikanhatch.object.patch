@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Hatch",
+    "value": "Авикан Хэтч",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal hatch, for closing off vertical compartments.",
+    "value": "Металлический люк, закрывающий вертикальные отсеки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal hatchesss.",
+    "value": "Металлический люк.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observative. This is a metal hatch.",
+    "value": "Наблюдательный. Это металлический люк.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal hatch, like a modern trapdoor.",
+    "value": "Металлический люк, похожий на современный люк.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-built hatch.",
+    "value": "Обнаружен люк, построенный Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hatch-metal.",
+    "value": "Люк-металл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

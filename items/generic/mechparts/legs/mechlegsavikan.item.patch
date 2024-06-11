@@ -1,11 +1,11 @@
 [
   {
-    "value": "Durable mech legs built by the Vanguard.",
+    "value": "Прочные ноги робота, созданные Авангардом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vanguard Mech Legs",
+    "value": "Ноги меха Авангарда",
     "path": "/shortdescription",
     "op": "replace"
   }

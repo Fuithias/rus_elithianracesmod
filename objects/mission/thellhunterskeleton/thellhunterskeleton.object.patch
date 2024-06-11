@@ -1,36 +1,36 @@
 [
   {
-    "value": "Thellhunter's Skeleton",
+    "value": "Скелет Охотника за Теллом",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The legendary Thellhunter himself...",
+    "value": "Сам легендарный Теллхантер...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Old boness, boness of the Thellhunter...",
+    "value": "Старые кости, кости Теллхантера...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. This skeleton belonged to the legendary Thellhunter himself.",
+    "value": "Анализ. Этот скелет принадлежал самому легендарному Теллхантеру.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The skeleton of the great Thellhunter himself...",
+    "value": "Скелет самого великого Охотника на Теллов...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Avikan bones. Analysis: DNA traces match Thellhunter's profile.",
+    "value": "Обнаружены кости Авикана. Анализ: Следы ДНК совпадают с профилем Теллхантера.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Alien-dead. Look like Thellhunter.",
+    "value": "Инопланетянин-мертв. Похож на Теллхантера.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A purple dye often used by the Rhaiod.",
+    "value": "Фиолетовый краситель, часто используемый Райодами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rhaiod Dyes",
+    "value": "Райод Дайес",
     "path": "/shortdescription",
     "op": "replace"
   }

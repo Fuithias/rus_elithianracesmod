@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Container",
+    "value": "Тринкианский контейнер",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy cargo container.",
+    "value": "Прочный грузовой контейнер.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy cargo container. It's an odd size.",
+    "value": "Прочный грузовой контейнер. Это странный размер.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "What might this container contain?",
+    "value": "Что может содержаться в этом контейнере?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Containersss large enough to hold peopless.",
+    "value": "Контейнеры достаточно большие, чтобы вместить людей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Questioning. Why doesn't this crate adhere to the universal standard container size?",
+    "value": "Допрос. Почему этот ящик не соответствует универсальному стандартному размеру контейнера?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A reasonably large cargo container. It's an odd size.",
+    "value": "Достаточно большой грузовой контейнер. Это странный размер.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A cargo container for transporting goods of all kinds.",
+    "value": "Грузовой контейнер для перевозки грузов всех видов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinkian cargo container is built to fit into Trinkian cargo holds perfectly.",
+    "value": "Грузовой контейнер Trinkian идеально вписывается в грузовые отсеки Trinkian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This machine-built container can hold many items.",
+    "value": "Этот контейнер машинного изготовления может вместить множество предметов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinkian standard-issue cargo container is exactly four times the size of a crate.",
+    "value": "Стандартный грузовой контейнер «Тринкиан» ровно в четыре раза превышает размер ящика.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Storage unit detected. Content scan unavailable.",
+    "value": "Обнаружен блок хранения. Сканирование контента недоступно.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crate-alien, has lights-fancy.",
+    "value": "Ящик-инопланетянин, имеет причудливую подсветку.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

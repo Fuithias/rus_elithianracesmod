@@ -1,11 +1,11 @@
 [
   {
-    "value": "A very thick metal pipe.",
+    "value": "Очень толстая металлическая труба.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Big Pipe Bottom",
+    "value": "Большая труба внизу",
     "path": "/shortdescription",
     "op": "replace"
   }

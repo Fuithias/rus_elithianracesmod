@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal platform built from plates of scrap metal.",
+    "value": "Металлическая платформа, построенная из пластин металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Platform",
+    "value": "Платформа Акрис",
     "path": "/shortdescription",
     "op": "replace"
   }

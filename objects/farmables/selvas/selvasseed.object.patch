@@ -1,71 +1,71 @@
 [
   {
-    "value": "Selvas Seed",
+    "value": "Семя Сельваса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small herb with medicinal values.",
+    "value": "Небольшая трава с лечебными свойствами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "These herbs should prove useful in my adventures.",
+    "value": "Эти травы должны пригодиться в моих приключениях.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The smell of these herbs is incredible!",
+    "value": "Запах этих трав невероятный!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss the ssmell of thiss plant.",
+    "value": "Флорану нравится запах этого растения.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Knowledgable. This herb has many medicinal uses.",
+    "value": "Знающий. Эта трава имеет множество медицинских применений.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This herb smells great, and it has many medicinal uses too.",
+    "value": "Эта трава прекрасно пахнет и имеет множество медицинских применений.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A small but beautiful plant. It smells great.",
+    "value": "Небольшое, но красивое растение. Он пахнет великолепно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A small medicinal herb.",
+    "value": "Небольшое лекарственное растение.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A small selvas herb. it has many medicinal uses, and smells great too.",
+    "value": "Небольшая трава сельвы. он имеет множество медицинских применений, а также прекрасно пахнет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant with an odd smell.",
+    "value": "Инопланетное растение со странным запахом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A medicinal herb with many uses. How efficient.",
+    "value": "Лекарственное растение, имеющее множество применений. Насколько эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien flora. Potential medicinal uses.",
+    "value": "Обнаружена чужеродная флора. Возможное медицинское применение.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Flowers-blue, contain substance-medicinal.",
+    "value": "Цветки голубые, содержат лекарственные вещества.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

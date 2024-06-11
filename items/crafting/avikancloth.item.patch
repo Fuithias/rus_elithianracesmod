@@ -1,11 +1,11 @@
 [
   {
-    "value": "Colourful fabric, used to craft various objects.",
+    "value": "Красочная ткань, используемая для изготовления различных предметов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Fabric",
+    "value": "Авикан Ткань",
     "path": "/shortdescription",
     "op": "replace"
   }

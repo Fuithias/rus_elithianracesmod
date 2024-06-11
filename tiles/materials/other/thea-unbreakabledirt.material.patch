@@ -1,26 +1,26 @@
 [
   {
-    "value": "Dirt",
+    "value": "Грязь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Dirty looking dirt.",
+    "value": "Грязная на вид земля.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Indifferent. This is basic soil.",
+    "value": "Равнодушен. Это обычная почва.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Filthy dirt!",
+    "value": "Грязная земля!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Dirty lookin' dirt.",
+    "value": "Грязная на вид земля.",
     "path": "/novakidDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A lightweight panel.",
+    "value": "Легкая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Centensian Floor",
+    "value": "Столетний этаж",
     "path": "/shortdescription",
     "op": "replace"
   }

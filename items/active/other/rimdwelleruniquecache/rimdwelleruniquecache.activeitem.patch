@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Уникальный тайник Рубежа^white;",
+    "value": "^orange;Важный тайник Рубежа^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Durable allosteel with integrated circuitry and wiring.",
+    "value": "Прочная аллосталь со встроенной схемой и проводкой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Integrated Allosteel",
+    "value": "Интегрированный Аллостил",
     "path": "/shortdescription",
     "op": "replace"
   }

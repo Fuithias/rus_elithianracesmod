@@ -1,11 +1,11 @@
 [
   {
-    "value": "A basic self-repair module. Restores 500 health over 30 seconds.",
+    "value": "Базовый модуль самовосстановления. Восстанавливает 500 единиц здоровья за 30 секунд.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Repair Module",
+    "value": "Модуль ремонта Тринкиана",
     "path": "/shortdescription",
     "op": "replace"
   }

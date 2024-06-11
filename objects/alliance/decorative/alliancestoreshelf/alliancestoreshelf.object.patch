@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Store Shelf",
+    "value": "Полка магазина Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A shelf full of Elithian goods.",
+    "value": "Полка, полная элитианских товаров.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A varied assortments of goods.",
+    "value": "Разнообразный ассортимент товаров.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "There's food here, but also trinkets and materials.",
+    "value": "Здесь есть еда, а также безделушки и материалы.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshelf full of goodiess.",
+    "value": "Полка полна вкусностей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. This shelf is filled with various goods.",
+    "value": "Заявление. Эта полка заполнена различными товарами.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This shelf has an odd combination of goods on it.",
+    "value": "На этой полке странное сочетание товаров.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what that food will taste like.",
+    "value": "Интересно, какой будет вкус у этой еды?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A bunch of random goods, it seems to me.",
+    "value": "Куча случайного товара, мне кажется.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A shelf full of common goods from Elithia.",
+    "value": "Полка, полная обычных товаров из Элитии.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A shelf full of alien goods.",
+    "value": "Полка, полная инопланетных товаров.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This shelf is decently organized, but I could do better.",
+    "value": "Эта полка организована прилично, но я мог бы сделать лучше.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected store shelf. Scanning for nearby merchants.",
+    "value": "Обнаружена полка магазина. Сканирование ближайших торговцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki steal food?",
+    "value": "Акки крадет еду?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Pipe (Hollow)",
+    "value": "Труба Альянса (Полая)",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavy, thick pipe. Liquids can flow through it.",
+    "value": "Тяжелая, толстая труба. Жидкости могут через нее течь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. With piping like this, I'll not have to worry about leakages.",
+    "value": "Доволен. С такой трубой я не буду беспокоиться о протечках.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Pipe isss big, but Floran can't fit through...",
+    "value": "Труба большая, но Флоран не пролезет...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Not sure what this 'ere pipe is carrying, but I'm guessin' its dangerous.",
+    "value": "Не уверен, что несет эта труба, но думаю, что это опасно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis failed. Unable to scan pipe contents.",
+    "value": "Анализ не удался. Невозможно сканировать содержимое трубы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pipe carry liquids. Akki hope it's not poop.",
+    "value": "Труба несет жидкости. Акки надеется, что это не фекалии.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,16 +1,16 @@
 [
   {
-    "value": "A shield built with Centensian components. The power source is still busted...",
+    "value": "Щит, построенный из центенских компонентов. Источник питания все еще сломан...",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Centensian Shield Casing^white;",
+    "value": "^orange;Оболочка центенского щита^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

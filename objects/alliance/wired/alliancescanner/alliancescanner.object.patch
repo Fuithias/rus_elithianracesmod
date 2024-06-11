@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Proximity Scanner",
+    "value": "Сканер приближения Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A proximity scanner which will activate when it senses entities nearby.",
+    "value": "Сканер приближения, который активируется, когда обнаруживает объекты поблизости.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "It's a proximity device. It'll sense when I get close to it.",
+    "value": "Это бесконтактное устройство. Оно почувствует, когда я приблизлюсь к нему.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A proximity device. It could trigger something if I'm near.",
+    "value": "Бесконтактное устройство. Если я буду рядом, это может что-то спровоцировать.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssscanning eye on the wall. It's looking at me!",
+    "value": "Ссссканирующий глаз на стене. Оно смотрит на меня!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Suspicious. This proximity scanner might be aware of me.",
+    "value": "Подозрительный. Этот бесконтактный сканер может знать обо мне.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A proximity sensor. It can tell when I'm near.",
+    "value": "Датчик приближения. Он может сказать, когда я рядом.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This scanning device can tell when I'm present.",
+    "value": "Это сканирующее устройство может определить мое присутствие.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A proximity scanner. Is it watching me right now?",
+    "value": "Сканер приближения. Он наблюдает за мной прямо сейчас?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A proximity sensor. It will activate when I come close.",
+    "value": "Датчик приближения. Он активируется, когда я подойду близко.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This proximity sensor will activate when I come close.",
+    "value": "Этот датчик приближения активируется, когда я приближаюсь.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This proximity scanner scans for both organic and synthetic creatures.",
+    "value": "Этот бесконтактный сканер сканирует как органических, так и синтетических существ.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected proximity scanner. Activation will occur when this unit is nearby.",
+    "value": "Обнаружен сканер приближения. Активация произойдет, когда этот объект окажется поблизости.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "If Akki comes close, sensor activates.",
+    "value": "Если Акки приближается, датчик активируется.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

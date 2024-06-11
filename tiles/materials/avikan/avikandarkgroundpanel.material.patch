@@ -1,36 +1,36 @@
 [
   {
-    "value": "Dark Avikan Floor",
+    "value": "Темный пол авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A floor panel made of dark metal.",
+    "value": "Пол из темного металла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. A floor panel made of dark metal.",
+    "value": "Заявление. Пол из темного металла.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Panelsss for floor.",
+    "value": "Панели для пола.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A floor panel thick as a safe.",
+    "value": "Пол такой же толстый, как сейф.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Floor panel.",
+    "value": "Анализ завершен. Половая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-floor, Akki walk on it.",
+    "value": "Панель-пол, акки ходит по ней.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

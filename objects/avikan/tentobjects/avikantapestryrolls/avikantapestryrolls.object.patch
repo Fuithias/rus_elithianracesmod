@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Tapestry Rolls",
+    "value": "Гобелены Авикан в рулонах",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A couple of rolled up leather tapestries.",
+    "value": "Пара свернутых кожаных гобеленов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rolls of leather tapestry.",
+    "value": "Рулоны кожаного гобелена.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Dull tapestries.",
+    "value": "Тусклые гобелены.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather wasss once skinsss.",
+    "value": "Кожа была однажды шкурой.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A number of neatly rolled up leather tapestries.",
+    "value": "Наблюдение. Несколько аккуратно свернутых кожаных гобеленов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These tapestries would look better with a bit of colour.",
+    "value": "Эти гобелены будут выглядеть лучше, если добавить немного цвета.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Leather tapestries. Useful as decoration.",
+    "value": "Кожаные гобелены. Полезен в качестве украшения.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A number of leather tapestries, rolled up so they are easier to store.",
+    "value": "Несколько кожаных гобеленов, свернутых в рулоны, чтобы их было легче хранить.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Where shall I put these tapestries?",
+    "value": "Куда мне положить эти гобелены?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A number of rolled up leather tapestries.",
+    "value": "Несколько свернутых кожаных гобеленов.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Material: leather.",
+    "value": "Сканирование завершено. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Rolls-leather, in the way.",
+    "value": "Роллс-кожаный, кстати.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A soft, juicy vegetable.",
+    "value": "Мягкий, сочный овощ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Mellowroot",
+    "value": "Меллорут",
     "path": "/shortdescription",
     "op": "replace"
   }

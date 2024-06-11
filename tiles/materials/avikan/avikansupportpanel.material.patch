@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Support Beam",
+    "value": "Авиканская опорная балка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Part of a support beam.",
+    "value": "Часть опорной балки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. Panels like these are often used in support beams.",
+    "value": "Заявление. Такие панели часто используются в опорных балках.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "If Floran remove sssupport beamss, will the houssse fall apart?",
+    "value": "Если Флоран уберет опорные балки, развалится ли дом?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A support beam, for supportin' stuff.",
+    "value": "Опорная балка, для поддержки конструкций.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Support beam, a vital structural piece.",
+    "value": "Анализ завершен. Опорная балка, важный структурный элемент.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Beam for support.",
+    "value": "Балка для поддержки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

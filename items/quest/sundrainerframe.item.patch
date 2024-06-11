@@ -1,16 +1,16 @@
 [
   {
-    "value": "Part of the frame of an ancient and powerful weapon.",
+    "value": "Часть корпуса древнего и мощного оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Ancient Weapon Frame^white;",
+    "value": "^orange;Рамка древнего оружия^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

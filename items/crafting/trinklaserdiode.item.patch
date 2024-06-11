@@ -1,11 +1,11 @@
 [
   {
-    "value": "A Trinkian laser diode, the core of all Trinkian laser weapons.",
+    "value": "Тринкианский лазерный диод, основа всего тринкианского лазерного оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Laser Diode",
+    "value": "Лазерный диод Тринкиана",
     "path": "/shortdescription",
     "op": "replace"
   }

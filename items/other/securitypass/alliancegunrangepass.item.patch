@@ -1,16 +1,16 @@
 [
   {
-    "value": "A security pass granting access to the Creon Embassy's gun range.",
+    "value": "Пропуск, дающий доступ на стрельбище посольства Креона.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Embassy Gun Range Pass^white;",
+    "value": "^#BA66FF;Посольский пропуск на стрельбище^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Security Pass",
+    "value": "пропуск безопасности",
     "path": "/category",
     "op": "replace"
   }

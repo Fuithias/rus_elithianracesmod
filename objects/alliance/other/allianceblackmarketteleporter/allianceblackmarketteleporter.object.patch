@@ -1,31 +1,31 @@
 [
   {
-    "value": "Bolter's Teleporter",
+    "value": "Телепорт Болтера",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter makes for a useful shortcut.",
+    "value": "Этот телепорт представляет собой полезный ярлык.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This teleporter makes for a useful shortcut.",
+    "value": "Наблюдение. Этот телепорт представляет собой полезный ярлык.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Teleporter. Hazard levels: medium.",
+    "value": "Анализ. Телепорт. Уровень опасности: средний.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter make Akki feel weird.",
+    "value": "Телепорт заставляет Акки чувствовать себя странно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Large Trinkian Console",
+    "value": "Большая тринкианская консоль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer console for controlling Trink systems.",
+    "value": "Компьютерная консоль для управления системами Trink.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A console with an odd interface.",
+    "value": "Консоль со странным интерфейсом.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This console controls something. But what?",
+    "value": "Эта консоль чем-то управляет. Но что?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny buttonsss, Floran presss?",
+    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Interested. This control system is unfamiliar to me.",
+    "value": "Заинтересовано. Эта система управления мне незнакома.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A control panel, the interface is new to me.",
+    "value": "Панель управления, интерфейс для меня новый.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian console. I wonder what is is linked to?",
+    "value": "Тринкианская консоль. Интересно, с чем это связано?",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A control panel built by machines. Could I sabotage it?",
+    "value": "Панель управления, построенная машинами. Могу ли я саботировать это?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This console allows me to interact with various systems.",
+    "value": "Эта консоль позволяет мне взаимодействовать с различными системами.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien interface detected. Recommend sabotage.",
+    "value": "Обнаружен инопланетный интерфейс. Рекомендую диверсию.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki press buttons-all!",
+    "value": "Акки нажимаю кнопки-все!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

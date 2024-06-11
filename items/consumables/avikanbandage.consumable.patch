@@ -1,11 +1,11 @@
 [
   {
-    "value": "A leather bandage for healing minor wounds. Restores 50 health over 1 second.",
+    "value": "Кожаная повязка для заживления небольших ран. Восстанавливает 50 единиц здоровья за 1 секунду.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Leather Bandage",
+    "value": "Кожаная повязка",
     "path": "/shortdescription",
     "op": "replace"
   }

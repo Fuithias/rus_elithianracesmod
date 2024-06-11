@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Stone Smelter^white;",
+    "value": "^orange;Камнеплавильный завод^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stone smelter capable of smelting basic metal bars.",
+    "value": "Каменная плавильня, способная плавить слитки обычных металлов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A primitive furnace. I can smelt things here.",
+    "value": "Примитивная печь. Я чувствую запахи здесь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic furnace perfect for smelting ore.",
+    "value": "Обычная печь, идеально подходящая для плавки руды.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A smelting furnace. Looks hot.",
+    "value": "Плавильная печь. Выглядит жарко.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hot, imposing furnace.",
+    "value": "Горячая, внушительная печь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "value": "Обычная печь для плавки руды.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A compact stone smelter, for smelting low-temperature alloys.",
+    "value": "Компактная каменная печь для выплавки низкотемпературных сплавов.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple stone furnace, for smelting ores.",
+    "value": "Простая каменная печь для плавки руд.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive construct for smelting ores.",
+    "value": "Примитивная конструкция для выплавки руд.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone smelter. Basic ore smelting functionality.",
+    "value": "Анализ завершен. Каменный завод. Базовая функциональность плавки руды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace-stone, for smelting metals.",
+    "value": "Печь-каменная, для выплавки металлов.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Stone Smelter^white;",
+    "value": "^orange;Камнеплавильный завод^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A stone smelter capable of smelting basic metal bars.",
+    "value": "Каменная плавильня, способная плавить слитки обычных металлов.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A primitive furnace. I can smelt things here.",
+    "value": "Примитивная печь. Я чувствую запахи здесь.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic furnace perfect for smelting ore.",
+    "value": "Обычная печь, идеально подходящая для плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
+    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A smelting furnace. Looks hot.",
+    "value": "Плавильная печь. Выглядит жарко.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hot, imposing furnace.",
+    "value": "Горячая, внушительная печь.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "value": "Обычная печь для плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A compact stone smelter, for smelting low-temperature alloys.",
+    "value": "Компактная каменная печь для выплавки низкотемпературных сплавов.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple stone furnace, for smelting ores.",
+    "value": "Простая каменная печь для плавки руд.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive construct for smelting ores.",
+    "value": "Примитивная конструкция для выплавки руд.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone smelter. Basic ore smelting functionality.",
+    "value": "Анализ завершен. Каменный завод. Базовая функциональность плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace-stone, for smelting metals.",
+    "value": "Печь-каменная, для выплавки металлов.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Alliance Smelter^white;",
+    "value": "^orange;Плавильный завод Альянса^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A high-tech smelter capable of reaching high temperatures.",
+    "value": "Высокотехнологичная плавильная печь, способная достигать высоких температур.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A high-tech smelter of alien design. I should take notes.",
+    "value": "Высокотехнологичная плавильная печь инопланетного дизайна. Мне следует делать заметки.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A smelter burning bright as the sun.",
+    "value": "Плавильный завод, пылающий ярко, как солнце.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful. Fire will burn Floran...",
+    "value": "Флоран осторожен. Огонь сожжёт Флорана...",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This smelter burns incredibly hot.",
+    "value": "Впечатленный. Эта плавильная печь горит невероятно жарко.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This furnace is unusually hot. Better handle it carefully.",
+    "value": "Эта печь необычайно горячая. Лучше обращаться с этим аккуратно.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The heat of this furnace is uncomfortable to me.",
+    "value": "Жар этой печи мне неприятен.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This smelter's burnin' bright.",
+    "value": "Этот плавильный завод горит ярко.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This smelter was made specifically for smelting specific types of low-grade allosteel.",
+    "value": "Этот плавильный завод был изготовлен специально для выплавки определенных видов низкосортной аллостали.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien smelter. It's incredibly hot.",
+    "value": "Инопланетная плавильная печь. Невероятно жарко.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient smelter. The Circuit helped design it.",
+    "value": "Высокоэффективный плавильный завод. Схема помогла его спроектировать.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien smelter. Temperature levels rising above safety regulations.",
+    "value": "Анализ завершен. Чужая плавильня. Уровни температуры превышают нормы безопасности.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki careful. Temperatures-high, Akki not burn self.",
+    "value": "Акки осторожен. Температура высокая, Акки не обожгутся.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Fusion Chamber^white;",
+    "value": "^orange;Сварочная камера^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A compact fusion chamber capable of smelting hyverianites.",
+    "value": "Компактная плавильная камера, способная плавить гиверианиты.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "Some type of compact fusion chamber. Nothing will survive that heat.",
+    "value": "Какой-то тип компактной термоядерной камеры. Ничто не выдержит такой жары.",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This device burns brighter than the sun! How is that possible?",
+    "value": "Этот прибор горит ярче солнца! Как это возможно?",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful. Ssmall sssun will burn everything.",
+    "value": "Флоран осторожен. Маленький сссун сожжёт всё.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Alarmed. This device could easily melt my own body.",
+    "value": "Встревожен. Это устройство могло легко расплавить мое тело.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A compact fusion chamber! How does it contain all that heat?",
+    "value": "Компактная термоядерная камера! Как он удерживает все это тепло?",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I feel myself drying up just standing near this device...",
+    "value": "Я чувствую, что высыхаю, просто стоя рядом с этим устройством...",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A small star burns inside this device. 'Tis glorious!",
+    "value": "Внутри этого устройства горит маленькая звездочка. «Это великолепно!",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A compact fusion chamber. Nothing less will do when smelting hyverianites.",
+    "value": "Компактная термоядерная камера. Ничто меньшее не подойдет при плавке гиверианитов.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Even the metals of the Old Ones won't survive the temperatures inside this device.",
+    "value": "Даже металлы Древних не выдержат температуры внутри этого устройства.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Aegi truly outdid themselves designing this fusion chamber.",
+    "value": "Эги действительно превзошли самих себя, спроектировав эту термоядерную камеру.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis failed. Heat signature exceding maximum values. Error.",
+    "value": "Анализ не удался. Тепловая сигнатура превышает максимальные значения. Ошибка.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Like forge-nuclear, hot-very. Melt things-many!",
+    "value": "Вроде кузница-ядерная, горячая-очень. Растопить вещи - много!",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

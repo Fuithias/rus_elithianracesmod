@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised pair of Akkimari legs.",
+    "value": "Окаменевшая пара ног Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akkimari Legs",
+    "value": "Аккимари Ноги",
     "path": "/shortdescription",
     "op": "replace"
   }

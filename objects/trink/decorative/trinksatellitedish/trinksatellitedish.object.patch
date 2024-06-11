@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Satellite Dish",
+    "value": "Тринкянская спутниковая тарелка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A satellite dish for receiving signals.",
+    "value": "Спутниковая антенна для приема сигналов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A satellite dish. What purpose does the box below it fulfill?",
+    "value": "Спутниковая антенна. Какую цель выполняет поле под ним?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny satellite dish. Could it receive a message from home?",
+    "value": "Блестящая спутниковая тарелка. Может ли он получить сообщение из дома?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal dissshhh goesss round and round and round...",
+    "value": "Металлический шшш шшш стучит по кругу и по кругу...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Worried. This satellite dish generates and electromagnetic field which may disturb my sensors.",
+    "value": "Волновался. Эта спутниковая антенна генерирует электромагнитное поле, которое может помешать моим сенсорам.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple satellite dish.",
+    "value": "Простая спутниковая тарелка.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A satellite dish. I wonder what sort of cryptic messages it's receiving?",
+    "value": "Спутниковая антенна. Интересно, какие загадочные сообщения он получает?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Trinkian satellite dish. A simple but effective tool for receiving signals from outer space.",
+    "value": "Тринкианская спутниковая антенна. Простой, но эффективный инструмент для приема сигналов из космоса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal satellite dish. Avikan antennas are far more powerful than this.",
+    "value": "Металлическая спутниковая антенна. Антенны Авикан гораздо мощнее этой.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This satellite dish is used to receive messages from ships in orbit, amongst others.",
+    "value": "Эта спутниковая антенна используется, среди прочего, для приема сообщений от кораблей, находящихся на орбите.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis: satellite dish. Provides access to global communications systems.",
+    "value": "Анализ: спутниковая антенна. Обеспечивает доступ к глобальным коммуникационным системам.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Dish-radar goes around, around, around.",
+    "value": "Блюдо-радар ходит вокруг, вокруг, вокруг.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

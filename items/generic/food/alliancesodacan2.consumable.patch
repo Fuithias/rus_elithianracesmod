@@ -1,11 +1,11 @@
 [
   {
-    "value": "A can of sparkling Le'mar.",
+    "value": "Банка игристого Le'mar.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Le'mar Can",
+    "value": "Лемар Кан",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Equipment Infusion Station",
+    "value": "Оборудование Инфузионная станция",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient construct overflowing with energy. Perhaps my equipment can be strengthened here.",
+    "value": "Древняя конструкция, наполненная энергией. Возможно, здесь можно усилить мое снаряжение.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This construct is overflowing with energy. Maybe I can strengthen my equipment here.",
+    "value": "Эта конструкция переполнена энергией. Возможно, я смогу укрепить здесь свое снаряжение.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This almost looks like an ancient alien altar. Some of my equipment seems to pulse as I come closer.",
+    "value": "Это почти похоже на древний алтарь пришельцев. Кажется, что часть моего оборудования пульсирует, когда я подхожу ближе.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran make weaponss ssstronger here.",
+    "value": "Флоран сделай здесь оружие сильнее.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Compelled. Something about this construct draws me closer...",
+    "value": "Вынужден. Что-то в этой конструкции меня сближает...",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some of my equipment is starting to pulsate. It's like this construct is resonating with my gear.",
+    "value": "Часть моего оборудования начинает пульсировать. Как будто эта конструкция резонирует с моим снаряжением.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This mysterious construct overflows with energy. My equipment starts to pulsate as I come closer...",
+    "value": "Эта загадочная конструкция переполнена энергией. Мое оборудование начинает пульсировать, когда я подхожу ближе...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Like some kinda star forge, I bet that this construct can strengthen my equipment.",
+    "value": "Держу пари, что эта конструкция, словно какая-то звездная кузница, укрепит мое снаряжение.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Some of my gear is starting to pulsate, as though this construct is calling to it.",
+    "value": "Часть моего снаряжения начинает пульсировать, как будто эта конструкция зовет его.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient construct left behind by the Old Ones. Some of my powerful equipment is resonating with its energy.",
+    "value": "Древняя конструкция, оставленная Древними. Часть моего мощного оборудования резонирует с его энергией.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The energy of this Centensian construct is resonating with some of my equipment.",
+    "value": "Энергия этой центенской конструкции резонирует с частью моего оборудования.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Centensian construct. Energy may be used to strengthen specific equipment.",
+    "value": "Анализ завершен. Центенсианская конструкция. Энергия может быть использована для усиления конкретного оборудования.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Energy-strange flowing here. Weapons-Akki resonate. Bathe them in the light?",
+    "value": "Энергия-странная течет здесь. Оружие-акки резонируют. Купать их в свете?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

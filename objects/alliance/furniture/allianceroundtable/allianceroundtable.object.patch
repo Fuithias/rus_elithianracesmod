@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Conference Table",
+    "value": "Стол переговоров Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large rounded conference table.",
+    "value": "Большой круглый стол для переговоров.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large conference table.",
+    "value": "Большой стол для переговоров.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large round table.",
+    "value": "Большой круглый стол.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tablesss.",
+    "value": "Столссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. The size suggests this is a conference table.",
+    "value": "Наблюдение. Размер предполагает, что это стол для переговоров.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's quite the table.",
+    "value": "Это вполне стол.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large conference table.",
+    "value": "Большой стол для переговоров.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A table big enough for a whole crew.",
+    "value": "Стол, достаточно большой, чтобы вместить целую команду.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large conference table.",
+    "value": "Большой стол для переговоров.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of large table. Perhaps aliens meet here.",
+    "value": "Какой-то большой стол. Возможно, здесь встречаются инопланетяне.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A table fit for meetings between leaders.",
+    "value": "Стол, подходящий для встреч лидеров.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected large table.",
+    "value": "Обнаружен большой стол.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki can't steal table-large.",
+    "value": "Акки не может украсть большой стол.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

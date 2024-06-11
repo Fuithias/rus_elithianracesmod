@@ -1,12 +1,7 @@
 [
   {
-    "value": "Hidden Material",
+    "value": "Скрытый материал",
     "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
     "op": "replace"
   }
 ]

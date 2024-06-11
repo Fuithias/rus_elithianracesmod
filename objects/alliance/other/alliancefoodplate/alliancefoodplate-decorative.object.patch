@@ -1,71 +1,71 @@
 [
   {
-    "value": "Aeginian Plate",
+    "value": "Эгинская плита",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A plate full of food.",
+    "value": "Тарелка полная еды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dinner.",
+    "value": "Ужин.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Delicious food.",
+    "value": "Вкусная еда.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Foodsss.",
+    "value": "Едасс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A healthy meal.",
+    "value": "Наблюдение. Здоровая еда.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Food. Yummy food!",
+    "value": "Еда. Вкусная еда!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A well-balanced dinner.",
+    "value": "Сбалансированный ужин.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Food.",
+    "value": "Еда.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A balanced meal.",
+    "value": "Сбалансированное питание.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien dish.",
+    "value": "Инопланетное блюдо.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A standard Aeginian meal.",
+    "value": "Стандартная эгинская еда.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Nutritional value: excellent.",
+    "value": "Анализ завершен. Пищевая ценность: отличная.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki hungry.",
+    "value": "Акки голоден.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

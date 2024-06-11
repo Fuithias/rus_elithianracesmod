@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Drehk",
+    "value": "Авикан Дрек",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A personal flying vehicle of Avikan origin.",
+    "value": "Персональный летательный аппарат производства Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bulky vehicle, but it flies surprisingly nimbly.",
+    "value": "Громоздкое транспортное средство, но летает на удивление шустро.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A flying vehicle? I wish it had wings...",
+    "value": "Летающее средство? Я бы хотел, чтобы у него были крылья...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big metal fly thingss. Fliesss.",
+    "value": "Большие металлические летающие вещи. Флиссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wonder. I do not know how this vehicle achieves flight.",
+    "value": "Удивляться. Я не знаю, как эта машина достигает полета.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A personal flying vehicle? No way!",
+    "value": "Личный летательный аппарат? Ни за что!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This vehicle can fly in unusual ways.",
+    "value": "Этот автомобиль может летать необычными способами.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "For a species that often lives underground, the Avikan have an unusual love for flight.",
+    "value": "Для вида, который часто живет под землей, авиканцы обладают необычной любовью к полету.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A well balanaced drehk, built for scouting.",
+    "value": "Хорошо сбалансированный дрек, созданный для разведки.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A personal flying vehicle. An inefficient means of transporting people.",
+    "value": "Персональный летательный аппарат. Неэффективный способ перевозки людей.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Drehk detected. Status: out of fuel.",
+    "value": "Дрек обнаружил. Статус: закончилось топливо.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Vehicle-alien, like Chaseflight.",
+    "value": "Транспортное средство-инопланетянин, вроде Chaseflight.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

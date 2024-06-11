@@ -1,16 +1,16 @@
 [
   {
-    "value": "^#b9b5b2;BLUEPRINTS",
+    "value": "^#b9b5b2;ЧЕРТЕЖИ",
     "path": "/paneLayout/lblSchematics/value",
     "op": "replace"
   },
   {
-    "value": "^#b9b5b2;PRODUCT",
+    "value": "^#b9b5b2;ПРОДУКТ",
     "path": "/paneLayout/lblProducttitle/value",
     "op": "replace"
   },
   {
-    "value": "MATERIALS AVAILABLE",
+    "value": "ИМЕЮЩИЕСЯ МАТЕРИАЛЫ",
     "path": "/paneLayout/lblProduct/value",
     "op": "replace"
   }

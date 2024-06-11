@@ -1,11 +1,11 @@
 [
   {
-    "value": "Colourful yellow and orange dyes, used to create Avikan cloth.",
+    "value": "Красочные желтые и оранжевые красители, используемые для создания ткани Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Dyes",
+    "value": "Авикан Красители",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Glass",
+    "value": "Авиканское Стекло",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Thick, strong glass.",
+    "value": "Толстое, прочное стекло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. Glass.",
+    "value": "Заявление. Стекло.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran look pretty in glasssss.",
+    "value": "Флоран красиво выглядит в стекле.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thick glass for sure, but I can still see right through to th'other side.",
+    "value": "Толстое стекло, но я все еще могу видеть сквозь него.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick glass.",
+    "value": "Анализ завершен. Толстое стекло.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Glass-thick, strong-very.",
+    "value": "Стекло-толстое, очень прочное.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

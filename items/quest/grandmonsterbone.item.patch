@@ -1,16 +1,16 @@
 [
   {
-    "value": "An incredibly rare bone harvested using specialized tools.",
+    "value": "Невероятно редкая кость, собранная с помощью специальных инструментов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Grand Monster Bone^white;",
+    "value": "^#BA66FF;Большая кость монстра^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

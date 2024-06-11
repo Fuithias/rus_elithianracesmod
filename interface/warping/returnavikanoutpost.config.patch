@@ -1,11 +1,11 @@
 [
   {
-    "value": "Back to the Starfarer's Refuge",
+    "value": "Назад в Убедище Звездохода",
     "path": "/destinations/name",
     "op": "replace"
   },
   {
-    "value": "Nomada Fleet",
+    "value": "Флот Номада",
     "path": "/destinations/planetName",
     "op": "replace"
   }

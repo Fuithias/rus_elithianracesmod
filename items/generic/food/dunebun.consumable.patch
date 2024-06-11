@@ -1,11 +1,11 @@
 [
   {
-    "value": "Almost like bread, but it tastes sort of odd.",
+    "value": "Почти как хлеб, но вкус какой-то странный.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dunebun",
+    "value": "Дюнебун",
     "path": "/shortdescription",
     "op": "replace"
   }

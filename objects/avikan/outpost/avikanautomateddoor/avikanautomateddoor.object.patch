@@ -1,36 +1,36 @@
 [
   {
-    "value": "Automated Nomada Door",
+    "value": "Автоматизированная дверь Номада",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An automated blast door.",
+    "value": "Автоматическая взрывоопасная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss how door openss on itsss own?",
+    "value": "Флорану интересно, как дверь открывается сама по себе?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This door opens and closes automatically.",
+    "value": "Наблюдение. Эта дверь открывается и закрывается автоматически.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This door opens when I get near, and closes behind my back. It's magic!",
+    "value": "Эта дверь открывается, когда я приближаюсь, и закрывается за моей спиной. Это магия!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected automated blast door.",
+    "value": "Обнаружена автоматическая взрывоопасная дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-automated.",
+    "value": "Дверь-автомат.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

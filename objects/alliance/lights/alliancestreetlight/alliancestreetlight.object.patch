@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Street Light",
+    "value": "Уличный фонарь Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A bright but efficient street light.",
+    "value": "Яркий, но эффективный уличный фонарь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bright street light.",
+    "value": "Яркий уличный свет.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bright light on top of a long pole.",
+    "value": "Яркий свет на вершине длинного шеста.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can't reach the lightsss.",
+    "value": "Флоран не может дотянуться до света.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Glad. This light will make venturing out at night much safer.",
+    "value": "Радостный. Благодаря такому освещению выходить на улицу в ночное время будет намного безопаснее.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A street light.",
+    "value": "Уличный фонарь.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegant street light.",
+    "value": "Элегантный уличный фонарь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a street light.",
+    "value": "Это уличный фонарь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This light will make the streets much safer at night.",
+    "value": "Этот свет сделает улицы намного безопаснее в ночное время.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A bright light on top of a long pole.",
+    "value": "Яркий свет на вершине длинного шеста.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly efficient street light.",
+    "value": "Удивительно эффективный уличный фонарь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Light source detected.",
+    "value": "Источник света обнаружен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-tall, for lighting street.",
+    "value": "Световысокий, для освещения улицы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "^green;Аеги. ^white;Маска Центенов для празднования Ужасающего!",
+    "value": "^green;Аеги. ^white;Маска центенов для празднования Ужасающего!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Маска Центенов",
+    "value": "Маска центенов",
     "path": "/shortdescription",
     "op": "replace"
   }

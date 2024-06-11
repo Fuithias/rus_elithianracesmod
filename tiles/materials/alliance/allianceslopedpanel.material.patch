@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Sloped Panel",
+    "value": "Наклонная панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sloped metal panel, perfect for buildings walls with.",
+    "value": "Наклонная металлическая панель, идеально подходит для строительства стен.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. A metal wall panel.",
+    "value": "Наблюдение. Металлическая стеновая панель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Metal panel ssshines.",
+    "value": "Металлическая панель сверкает.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Those are metal wall panels alright.",
+    "value": "Это металлические стеновые панели.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Durable metal wall panels.",
+    "value": "Анализ завершен. Прочные металлические стеновые панели.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-strong, for building buildings.",
+    "value": "Панель-прочная, для строительства.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Provides a slowly recharging shield that pushes away enemies and projectiles when broken.",
+    "value": "Создает медленно перезаряжающийся щит, который при разрушении отталкивает врагов и снаряды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Force Shield Augment I",
+    "value": "Улучшение силового щита I",
     "path": "/shortdescription",
     "op": "replace"
   }

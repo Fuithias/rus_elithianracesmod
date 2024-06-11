@@ -1,11 +1,11 @@
 [
   {
-    "value": "A small piece of ballistic fiber.",
+    "value": "Небольшой кусочек баллистического волокна.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ballistic Fiber",
+    "value": "Баллистическое волокно",
     "path": "/shortdescription",
     "op": "replace"
   }

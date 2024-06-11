@@ -1,11 +1,11 @@
 [
   {
-    "value": "Prickly, somewhat bland cactus juice.",
+    "value": "Колючий, несколько пресный сок кактуса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kadavan Cactus Juice",
+    "value": "Кадаванский кактусовый сок",
     "path": "/shortdescription",
     "op": "replace"
   }

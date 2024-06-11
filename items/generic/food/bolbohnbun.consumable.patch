@@ -1,11 +1,11 @@
 [
   {
-    "value": "A slice of dunebun covered with bolbohn jam.",
+    "value": "Кусочек дюнной булочки, покрытый джемом болбон.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Bolbohn Bun",
+    "value": "Болбонская булочка",
     "path": "/shortdescription",
     "op": "replace"
   }

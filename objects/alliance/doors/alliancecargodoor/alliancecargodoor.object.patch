@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Cargo Door",
+    "value": "Грузовая дверь Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large, heavily reinforced cargo door.",
+    "value": "Большая, усиленная грузовая дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A massive cargo door.",
+    "value": "Массивная грузовая дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A large cargo door. What cargo could possibly need such a large door?",
+    "value": "Большая грузовая дверь. Какому грузу может понадобиться такая большая дверь?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss why door iss so large...",
+    "value": "Флоран задается вопросом, почему дверь такая большая...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. That is a very large cargo door.",
+    "value": "Впечатленный. Это очень большая грузовая дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A massive cargo door. Even a small spaceship might fit through it.",
+    "value": "Массивная грузовая дверь. Через него мог бы пройти даже небольшой космический корабль.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A door large enough for a gentle giant.",
+    "value": "Дверь, достаточно большая для нежного великана.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Now that's a massive door!",
+    "value": "Вот это массивная дверь!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large cargo door. Even a shuttlecraft should be able to fit through.",
+    "value": "Большая грузовая дверь. Даже шаттл сможет пройти.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large alien cargo door. A Skoff should fit through.",
+    "value": "Большая грузовая дверь пришельцев. Скофф должен пройти.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This cargo door isn't very space-efficient.",
+    "value": "Эта грузовая дверь не очень компактна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Cargo door. Alien design is remarkably familiar.",
+    "value": "Грузовая дверь. Дизайн инопланетян удивительно знаком.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-large. Vehicle-large fit through.",
+    "value": "Дверь-большая. Транспортное средство-большое место.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

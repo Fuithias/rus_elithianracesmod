@@ -1,11 +1,11 @@
 [
   {
-    "value": "Hardened plates of scrap metal scavenged from medium quality sources.",
+    "value": "Закаленные пластины металлолома, собранные из источников среднего качества.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Hardened Scrap Metal",
+    "value": "Закаленный металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

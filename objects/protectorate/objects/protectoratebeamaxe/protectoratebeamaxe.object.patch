@@ -1,51 +1,51 @@
 [
   {
-    "value": "The Matter Manipulator! I feel bad for taking it this way, but it was always my mission to obtain this.",
+    "value": "Манипулятор Материи! Мне жаль, что я так поступил, но моей миссией всегда было добиться этого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I've got to get moving. My ship is waiting!",
+    "value": "Мне пора двигаться. Мой корабль ждет!",
     "path": "/pickedUpParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "etected Matter Manipulator. Mission Objective confirmed.",
+    "value": "обнаружен Манипулятор Материи. Цель миссии подтверждена.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Retrieved Mission Objective. Unit must return to the Watchers.",
+    "value": "Получена цель миссии. Отряд должен вернуться к Наблюдателям.",
     "path": "/pickedUpParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "There's no time to lose. I should pick up this Matter Manipulator and get out of here.",
+    "value": "Нельзя терять время. Мне следует подобрать этот Манипулятор Материи и уйти отсюда.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "To linger here would be terribly inefficient.",
+    "value": "Задерживаться здесь было бы ужасно неэффективно.",
     "path": "/pickedUpParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "I should take the Matter Manipulator and get to safety. Perhaps the Union can send help to these people.",
+    "value": "Мне нужно взять Манипулятор Материи и добраться до безопасного места. Возможно, Союз сможет послать помощь этим людям.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I'll return with help.",
+    "value": "Я вернусь с помощью.",
     "path": "/pickedUpParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take Matter Manipulator now, then Akki run!",
+    "value": "Акки немедленно возьми Манипулятор Материи, а затем Акки беги!",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "Akki return to help later!",
+    "value": "Акки вернется, чтобы помочь позже!",
     "path": "/pickedUpParameters/akkimariDescription",
     "op": "replace"
   }

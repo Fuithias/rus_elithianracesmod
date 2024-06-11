@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trinkian Cooled Storage",
+    "value": "Охлаждаемое хранилище Тринкиан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A cooled storage unit, for keeping food fresh.",
+    "value": "Охлаждаемый складской блок для сохранения продуктов свежими.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A cooled storage unit, perfect for keeping bananas fresh.",
+    "value": "Охлаждаемое хранилище, идеально подходящее для хранения бананов свежими.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A fridge, I think.",
+    "value": "Думаю, холодильник.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss curiousss. What'ss insside?",
+    "value": "Флоран это любопытно. Что внутри?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Is there any food in the fridge?",
+    "value": "Взволнованный. Есть ли еда в холодильнике?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "My stomach is rumbling with excitement!",
+    "value": "Мой желудок урчит от волнения!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A cooled storage device. Food won't spoil quickly in here.",
+    "value": "Охлаждаемое запоминающее устройство. Здесь еда не испортится быстро.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This machine si cold to the touch. Is it some sorta fridge?",
+    "value": "Эта машина холодна на ощупь. Это какой-то холодильник?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Trink don't usually keep food, unless they expect organic visitors.",
+    "value": "Тринк обычно не хранит еду, если только не ожидает посетителей-органиков.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A machine-built cooling device. Far too cold for my liking.",
+    "value": "Машинное охлаждающее устройство. На мой взгляд, слишком холодно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient cooling device. Useful for storing organic matter.",
+    "value": "Высокоэффективное охлаждающее устройство. Полезно для хранения органических веществ.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Cooled storage device detected. Device will keep organic matter from decaying.",
+    "value": "Обнаружено охлаждаемое запоминающее устройство. Устройство предохранит органику от разложения.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Storage-cold, keeps food fresh.",
+    "value": "Хранение в холодильнике, сохраняет продукты свежими.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

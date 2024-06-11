@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Drone",
+    "value": "Альянс Дрон",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small drone.",
+    "value": "Небольшой дрон.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A small drone.",
+    "value": "Небольшой дрон.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "That's just a small drone.",
+    "value": "Это всего лишь небольшой дрон.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran seesss a drone, Floran wantss to fly it.",
+    "value": "Флоран видит дрон, Флоран хочет им управлять.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A small drone.",
+    "value": "Наблюдение. Небольшой дрон.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Awesome, it's a drone!",
+    "value": "Круто, это дрон!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A drone. It can hover very quietly.",
+    "value": "Дрон. Он может парить очень тихо.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A small hoverin' construct.",
+    "value": "Небольшая парящая конструкция.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A small drone built by AAE.",
+    "value": "Небольшой дрон, построенный компанией AAE.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien vehicle. It looks a bit like the Drahl.",
+    "value": "Инопланетное транспортное средство. Это немного похоже на Драла.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient drone design.",
+    "value": "Эффективная конструкция дрона.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien vehicle. Similarities to Vanguard Drahl units noted.",
+    "value": "Обнаружен инопланетный автомобиль. Отмечено сходство с подразделениями Vanguard Drahl.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Drone-small, for flying. Akki use to spy?",
+    "value": "Дрон-маленький, для полетов. Акки используют для шпионажа?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

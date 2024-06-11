@@ -1,16 +1,16 @@
 [
   {
-    "value": "A single-use projector that temporarily hides the user from view.",
+    "value": "Одноразовый проектор, который временно скрывает пользователя из поля зрения.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Cloaking Projector",
+    "value": "Маскирующий проектор Akris",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Consumable",
+    "value": "Расходный материал",
     "path": "/category",
     "op": "replace"
   }

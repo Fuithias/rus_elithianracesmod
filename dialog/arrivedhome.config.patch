@@ -1,251 +1,251 @@
 [
   {
-    "value": "You called for me?",
+    "value": "Вы звали меня?",
     "path": "/beacon/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Can I help you with something?",
+    "value": "Могу я вам чем-то помочь?",
     "path": "/beacon/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Greetings, friend. Did you need me?",
+    "value": "Приветствую тебя, друг. Я тебе понадобился?",
     "path": "/beacon/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Is there anything you'd like to discuss?",
+    "value": "Вы хотели бы что-нибудь обсудить?",
     "path": "/beacon/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih, my friend.",
+    "value": "Вас Вха'лейх, мой друг",
     "path": "/beacon/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Here, take this! I've been very happy with your service.",
+    "value": "Вот, возьмите! Я был очень доволен вашим сервисом.",
     "path": "/rent/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "The Nomada needs more people like you. Please, accept this token of gratitude.",
+    "value": "Номаде нужно больше таких людей, как вы. Пожалуйста, примите этот знак благодарности.",
     "path": "/rent/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Thank you for taking in a traveller like me. Please, take this.",
+    "value": "Спасибо, что приютили такого путешественника, как я. Пожалуйста, возьмите это.",
     "path": "/rent/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "You've been a good friend. Here, take this.",
+    "value": "Ты был хорошим другом. Вот, возьми.",
     "path": "/rent/avikan/default/3",
     "op": "replace"
   },
   {
-    "value": "I've a small gift for you. A token of my gratitude.",
+    "value": "У меня есть для вас небольшой подарок. В знак моей благодарности.",
     "path": "/rent/avikan/default/4",
     "op": "replace"
   },
   {
-    "value": "Did you require my aid?",
+    "value": "Вам нужна моя помощь?",
     "path": "/beacon/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Did you call for me?",
+    "value": "Вы меня звали?",
     "path": "/beacon/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Did you need to talk?",
+    "value": "Вам нужно было поговорить?",
     "path": "/beacon/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "Are my services required?",
+    "value": "Требуются ли мои услуги?",
     "path": "/beacon/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "Hello again.",
+    "value": "И снова здравствуйте.",
     "path": "/beacon/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "Take this. It is a token of my gratitude.",
+    "value": "Возьмите это. Это знак моей благодарности.",
     "path": "/rent/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "You have been kind to me. Take this.",
+    "value": "Вы были добры ко мне. Возьми это.",
     "path": "/rent/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "You've been incredibly helpful. Here's a gift for you.",
+    "value": "Вы были невероятно полезны. Вот вам подарок.",
     "path": "/rent/trink/default/2",
     "op": "replace"
   },
   {
-    "value": "A gift, for your troubles.",
+    "value": "Подарок за ваши хлопоты.",
     "path": "/rent/trink/default/3",
     "op": "replace"
   },
   {
-    "value": "For all you have done for me, take this.",
+    "value": "За все, что ты для меня сделал, возьми это.",
     "path": "/rent/trink/default/4",
     "op": "replace"
   },
   {
-    "value": "This unit has received your call.",
+    "value": "Этот отряд принял ваш вызов.",
     "path": "/beacon/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Do you have need of this unit's services?",
+    "value": "Вам нужны услуги этого отряда?",
     "path": "/beacon/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Call received. Unit has arrived as requested.",
+    "value": "Вызов принят. Отряд прибыл, как и просили.",
     "path": "/beacon/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "Call heeded. Is this unit needed?",
+    "value": "Звонок принят. Нужен ли этот отряд?",
     "path": "/beacon/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih.",
+    "value": "Вас Вха'лейх.",
     "path": "/beacon/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Satisfied with service. Presenting gift.",
+    "value": "Довольны обслуживанием. Преподношу подарок.",
     "path": "/rent/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Presenting gift. Your service has been admirable.",
+    "value": "Вручение подарка. Ваша служба была достойна восхищения.",
     "path": "/rent/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Your actions deserve a reward. Take this.",
+    "value": "Ваши действия заслуживают награды. Возьмите это.",
     "path": "/rent/droden/default/2",
     "op": "replace"
   },
   {
-    "value": "You have been meritful. Presenting gift.",
+    "value": "Вы получили заслугу. Вручаю подарок.",
     "path": "/rent/droden/default/3",
     "op": "replace"
   },
   {
-    "value": "Presenting a token of gratitude. Take it.",
+    "value": "Вручаю знак благодарности. Возьмите его.",
     "path": "/rent/droden/default/4",
     "op": "replace"
   },
   {
-    "value": "Did you call for me?",
+    "value": "Вы меня звали?",
     "path": "/beacon/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Can I help?",
+    "value": "Чем могу помочь?",
     "path": "/beacon/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Did you need me?",
+    "value": "Я вам нужен?",
     "path": "/beacon/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "Hey! What did you call me for?",
+    "value": "Эй! Зачем ты мне звонил?",
     "path": "/beacon/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Want to talk?",
+    "value": "Хотите поговорить?",
     "path": "/beacon/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "You're an excellent landlord. Here, take this.",
+    "value": "Вы отличный домовладелец. Вот, возьмите.",
     "path": "/rent/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I think you'll like this!",
+    "value": "Думаю, вам понравится!",
     "path": "/rent/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "The house is great! Please, take this.",
+    "value": "Дом замечательный! Пожалуйста, возьмите это.",
     "path": "/rent/aegi/default/2",
     "op": "replace"
   },
   {
-    "value": "I have something for you!",
+    "value": "У меня есть кое-что для вас!",
     "path": "/rent/aegi/default/3",
     "op": "replace"
   },
   {
-    "value": "Keep up the great service, and I'll keep paying my rent.",
+    "value": "Продолжайте оказывать отличные услуги, а я буду продолжать платить за квартиру",
     "path": "/rent/aegi/default/4",
     "op": "replace"
   },
   {
-    "value": "You call, Akki come!",
+    "value": "Ты зовешь, акки приходит!",
     "path": "/beacon/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Call for Akki, Akki here.",
+    "value": "Позовите акки, акки здесь.",
     "path": "/beacon/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Call for Akki?",
+    "value": "Вызвать акки?",
     "path": "/beacon/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Yeeesss?",
+    "value": "Дааа?",
     "path": "/beacon/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "What you want? Akki listen!",
+    "value": "Чего ты хочешь? Акки, послушай!",
     "path": "/beacon/akkimari/default/4",
     "op": "replace"
   },
   {
-    "value": "Akki pleased with home-Akki. You take reward!",
+    "value": "Акки доволен домом-акки. Прими награду!",
     "path": "/rent/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Home-Akki make Akki happy. Akki-happy give gifts!",
+    "value": "Дом-акки делает акки счастливым. Акки-счастливый дарит подарки!",
     "path": "/rent/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You make house-good. Akki give gift.",
+    "value": "Вы делаете дом хорошим. Акки дарит подарок.",
     "path": "/rent/akkimari/default/2",
     "op": "replace"
   },
   {
-    "value": "Akki pleased, it true-true. Akki make you happy, too!",
+    "value": "Акки радуют, это правда-правда. Акки тоже сделает вас счастливыми!",
     "path": "/rent/akkimari/default/3",
     "op": "replace"
   },
   {
-    "value": "Akki pay rent, Akki tenant-good. Now go back to what Akki was doing.",
+    "value": "Акки платит за аренду, акки снимать жилье - хорошо. А теперь к тому, что делать акки",
     "path": "/rent/akkimari/default/4",
     "op": "replace"
   }

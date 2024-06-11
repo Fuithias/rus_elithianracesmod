@@ -1,12 +1,7 @@
 [
   {
-    "value": "Crowd Sounds Source",
+    "value": "Источник звуков толпы",
     "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
     "op": "replace"
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "value": "^green;Авикане. ^white;Легкий и обтекаемый шлем, который носят кеффрайдеры.",
+    "value": "^green;Авикане. ^white;Легкий и обтекаемый шлем, который носят кеффоходы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Шлем кеффрайдера",
+    "value": "Шлем кеффохода",
     "path": "/shortdescription",
     "op": "replace"
   }

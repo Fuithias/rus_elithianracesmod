@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Weapons Store",
+    "value": "Магазин оружия Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This store sells a variety of weapons.",
+    "value": "В этом магазине продается разнообразное оружие.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssshop for weaponss.",
+    "value": "Магазин оружия.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A weapons store.",
+    "value": "Наблюдение. Оружейный магазин.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Could get m'self a new gun here.",
+    "value": "Мог бы купить себе новый пистолет здесь.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien weapon store.",
+    "value": "Обнаружен магазин инопланетного оружия.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki buy weapons-new.",
+    "value": "Акки куплю оружие-новое.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

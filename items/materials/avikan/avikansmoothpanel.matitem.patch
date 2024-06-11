@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal panel, coloured like sand.",
+    "value": "Металлическая панель цвета песка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Smooth Avikan Panel",
+    "value": "Гладкая панель Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

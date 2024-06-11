@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Nomada Tanning Rack^white;",
+    "value": "^orange;Стойка для загара Nomada^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The tanning rack is used for constructing items made of monster leather.",
+    "value": "Дубильная стойка используется для изготовления изделий из кожи монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple tanning rack. I can craft items made of leather here.",
+    "value": "Простой стенд для загара. Здесь я могу изготовить изделия из кожи.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Tanning racks are primitive tools, but they're still very usable.",
+    "value": "Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran use tanning rack to craft leather from monsster sskin...",
+    "value": "Флоран использует дубильный станок для изготовления кожи из кожи монстра...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Displeased. Tanning leather is a very time consuming practise.",
+    "value": "Недовольный. Дубление кожи – очень трудоемкий процесс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive tool, but this tanning rack should allow me to craft some nice leather items.",
+    "value": "Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature.",
+    "value": "Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A tannin' rack? Let's go make me some new boots!",
+    "value": "Стойка для загара? Пойдем, сделаем мне новые ботинки!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "All the equipment you need for crafting leather items.",
+    "value": "Все необходимое оборудование для изготовления изделий из кожи.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A traditional tanning rack. I can craft many leather items here.",
+    "value": "Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tanning rack. It does its job, but not very efficiently.",
+    "value": "Стойка для загара. Он выполняет свою работу, но не очень эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather.",
+    "value": "Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki tan hides, make leather.",
+    "value": "Акки дублит шкуры, производит кожу.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

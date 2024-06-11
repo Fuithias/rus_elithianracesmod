@@ -1,11 +1,11 @@
 [
   {
-    "value": "Sturdy metal stairs.",
+    "value": "Прочная металлическая лестница.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Rim Stairs",
+    "value": "Ободная лестница",
     "path": "/shortdescription",
     "op": "replace"
   }

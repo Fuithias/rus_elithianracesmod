@@ -1,71 +1,71 @@
 [
   {
-    "value": "Booster Flame",
+    "value": "Ускоренное пламя",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A spaceship's engine exhaust flame.",
+    "value": "Пламя выхлопных газов двигателя космического корабля.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A booster. These have been known to malfunction and explode.",
+    "value": "Усилитель. Известно, что они выходят из строя и взрываются.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A booster, the wings of a ship.",
+    "value": "Ракета-носитель, крылья корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssscary fire.",
+    "value": "Страшный огонь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analyse. Temperature too high to measure.",
+    "value": "Анализируйте. Температура слишком высока для измерения.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This thing eats through fuel.",
+    "value": "Эта штука жрет топливо.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Propulsion.",
+    "value": "Движение.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A large flaming exhaust. It'll sling this ship from one star right to another.",
+    "value": "Большой пылающий выхлоп. Он перенесет корабль от одной звезды к другой.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "These engines provide an incredible amount of force.",
+    "value": "Эти двигатели обеспечивают невероятную силу.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The exhaust flame of a spaceship engine is hot. Very hot.",
+    "value": "Выхлопное пламя двигателя космического корабля горячее. Очень горячо.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This ship's engine is more efficient than the flames would suggest.",
+    "value": "Двигатель этого корабля более эффективен, чем можно предположить по пламени.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Heat signature detected. Spaceship propulsion confirmed.",
+    "value": "Обнаружена тепловая сигнатура. Движение космического корабля подтверждено.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Exhaust-hot, Akki burn if Akki touch.",
+    "value": "Выхлоп горячий, Акки сгорит, если Акки коснется.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

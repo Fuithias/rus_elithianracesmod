@@ -1,11 +1,11 @@
 [
   {
-    "value": "A basic weapon upgrade kit. Upgrades weapons to level 2.",
+    "value": "Базовый комплект улучшения оружия. Улучшает оружие до уровня 2.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Upgrade Kit L.2",
+    "value": "Комплект обновления L.2",
     "path": "/shortdescription",
     "op": "replace"
   }

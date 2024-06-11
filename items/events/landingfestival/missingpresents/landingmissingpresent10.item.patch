@@ -1,16 +1,16 @@
 [
   {
-    "value": "A Landing Festival present that went missing. Return it to the Pathfinder!",
+    "value": "Пропавший подарок Фестиваля высадки. Верните его Следопыту!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Missing Present 10",
+    "value": "Пропал подарок 10",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

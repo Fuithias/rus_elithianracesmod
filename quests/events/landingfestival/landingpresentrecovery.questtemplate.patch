@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;The Lost Presents",
+    "value": "^green;Потерянные Подарки",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Hohoho, happy Landing Festival! I, err... have run into a small problem: someone has stolen some of the presents meant for visitors of the Festival Hall! Would you be a dear and ^green;recover them for me^reset;? There are ^orange;ten large, purple presents ^green;in total, scattered across the ^orange;Festival Hall ^green;and the ^orange;Creon Embassy^reset;!",
+    "value": "Хо-хо-хо, с Праздником Приземления! У меня, эээ... возникла небольшая проблема: кто-то украл несколько подарков, предназначенных для посетителей Зала Фестиваля! Не мог бы ты ^green;найти их для меня^reset;? Всего десять больших, фиолетовых подарков, разбросанных по ^orange;Залу Фестиваля ^green;и ^orange;Посольству Креон^reset;!",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You have done well! I will make sure that these presents are distributed fairly. Here's a present for you, as thanks for helping me bring others a happy Landing Festival!",
+    "value": "Ты справился на отлично! Я позабочусь о том, чтобы эти подарки были справедливо распределены. Вот подарок для тебя в знак благодарности за то, что помог принести радость другим на Праздник Приземления!",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;the Pathfinder ^reset;in the ^orange;Festival Hall^reset;",
+    "value": "Вернитесь к ^orange;Путеводителю ^reset;в ^orange;Зал Фестиваля^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

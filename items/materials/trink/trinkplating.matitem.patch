@@ -1,11 +1,11 @@
 [
   {
-    "value": "A smooth, dark metal plate.",
+    "value": "Гладкая темная металлическая пластина.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Plating",
+    "value": "Тринкианское покрытие",
     "path": "/shortdescription",
     "op": "replace"
   }

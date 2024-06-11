@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Hammock",
+    "value": "Акрис Гамак",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple but comfortable hammock.",
+    "value": "Простой, но удобный гамак.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "It's not exactly luxurious, but it's a decent place to sleep.",
+    "value": "Это не совсем роскошно, но вполне приличное место для сна.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A simple hammock.",
+    "value": "Простой гамак.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Hammock iss a sssimple bed.",
+    "value": "Гамак — это простая кровать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Afraid. I hope I won't fall out while I sleep.",
+    "value": "Испуганный. Надеюсь, я не выпаду, пока сплю.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's just a hammock, though the material is soft and silky smooth.",
+    "value": "Это всего лишь гамак, хотя материал мягкий и гладкий, как шелк.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic but elegant hammock.",
+    "value": "Простой, но элегантный гамак.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I've never much liked the idea of a hammock.",
+    "value": "Мне никогда не нравилась идея гамака.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A soft, comfortable hammock made of Akkimari silk.",
+    "value": "Мягкий, удобный гамак из шелка Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These aliens suspend their beds from the ceiling.",
+    "value": "Эти инопланетяне подвешивают свои кровати к потолку.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Hammocks like these make efficient use of the available space.",
+    "value": "Подобные гамаки позволяют эффективно использовать доступное пространство.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien bedding detected.",
+    "value": "Обнаружено инопланетное постельное белье.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki like hammocks. Sleep away from the ground, away from things-nasty.",
+    "value": "Акки любят гамаки. Спать подальше от земли, подальше от вещей – противно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

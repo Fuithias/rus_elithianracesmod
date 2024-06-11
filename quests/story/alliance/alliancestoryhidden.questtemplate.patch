@@ -1,16 +1,16 @@
 [
   {
-    "value": "Alliance Story - Initial Setup",
+    "value": "История Альянса - Начальная Настройка",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "value": "Этот квест является предпосылкой к сюжету Альянса. Вы не должны видеть это в своем журнале.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "value": "Этот квест является предпосылкой к сюжету Альянса. Вы не должны видеть это в своем журнале.",
     "path": "/completionText",
     "op": "replace"
   }

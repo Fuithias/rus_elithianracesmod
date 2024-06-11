@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Weapons Stall",
+    "value": "Лавка с оружием Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall full of bone weapons.",
+    "value": "Рыночный прилавок, полный костяного оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A selection of bone weapons.",
+    "value": "Выбор костяного оружия.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons made of bone. Surprisingly sharp.",
+    "value": "Оружие из кости. Удивительно острый.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Bonesss make good swordsss.",
+    "value": "Из Бонессов получаются хорошие фехтовальщики.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Amazed. These bone weapons are sharper than many metal alternatives.",
+    "value": "Поражен. Это костяное оружие острее многих металлических альтернатив.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons of bone. How did they get them so sharp?",
+    "value": "Оружие из костей. Как им удалось сделать их такими острыми?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons made of bones. Primitive and cruel, but also effective.",
+    "value": "Оружие из костей. Примитивно и жестоко, но и эффективно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Primitive bone weapons in appearance, but they make for excellent hunting tools.",
+    "value": "Примитивное костяное оружие на вид, но из него получаются отличные охотничьи инструменты.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Bone weapons are still the favourites of our people, even though we can craft them of metal now.",
+    "value": "Костяное оружие по-прежнему любимо нашим народом, хотя теперь мы можем изготавливать его из металла.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This bone weaponry outmatches many more modern weapons.",
+    "value": "Это костяное оружие превосходит многие другие современные виды оружия.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "This equipment predates this unit's technology.",
+    "value": "Это оборудование предшествует технологии этого устройства.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons-bone, not strong-very.",
+    "value": "Оружие-кость, не сильное-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

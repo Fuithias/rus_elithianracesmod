@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Fridge",
+    "value": "Альянс Холодильник",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A refrigerator, for keeping food fresh.",
+    "value": "Холодильник, для сохранения продуктов свежими.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The perfect place to store some bananas.",
+    "value": "Идеальное место для хранения бананов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A fridge. I hope there's some breadcrumbs in there.",
+    "value": "Холодильник. Надеюсь, там есть немного панировочных сухарей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss curiousss. What'ss insside?",
+    "value": "Флоран это любопытно. Что внутри?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Satisfied. This fridge will prevent my food from going foul.",
+    "value": "Удовлетворен. Этот холодильник не даст моей еде испортиться.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Just a fridge, nothing special.",
+    "value": "Просто холодильник, ничего особенного.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A basic but functional fridge.",
+    "value": "Простой, но функциональный холодильник.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A clean lookin' fridge.",
+    "value": "Чистый на вид холодильник.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standard model fridge.",
+    "value": "Холодильник стандартной модели.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien refrigerator.",
+    "value": "Инопланетный холодильник.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient fridge.",
+    "value": "Эффективный холодильник.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Refrigerated storage detected.",
+    "value": "Обнаружено холодильное хранилище.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Storage-cold, for keeping food-fresh.",
+    "value": "Холодильник для хранения, для сохранения продуктов свежими.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

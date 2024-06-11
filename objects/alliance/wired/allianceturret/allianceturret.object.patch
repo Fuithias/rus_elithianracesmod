@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Defense Turret",
+    "value": "Защитная турель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A turret that will automatically defend areas. Can only be placed once.",
+    "value": "Турель, которая будет автоматически защищать территории. Можно разместить только один раз.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An automated defense turret. The rebels could use this.",
+    "value": "Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This turret will defend any location from attacks by monsters and bandits.",
+    "value": "Эта турель защитит любую локацию от нападений монстров и бандитов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Turret fightsss for Floran. Floran likesss turret.",
+    "value": "Турель сражается за Флорана. Флорану нравится турель.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Cautious. I hope this turret won't target me.",
+    "value": "Осторожный. Надеюсь, эта турель не нацелится на меня.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An automated security system.",
+    "value": "Автоматизированная система безопасности.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "No unconscious machine should ever be given the power to kill.",
+    "value": "Ни одна бессознательная машина никогда не должна иметь право убивать.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A fine turret for defending your base!",
+    "value": "Прекрасная турель для защиты вашей базы!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient, automated defense turret.",
+    "value": "Эффективная автоматизированная защитная турель.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A turret built to defend an alien colony.",
+    "value": "Турель, построенная для защиты инопланетной колонии.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient automated turret design.",
+    "value": "Высокоэффективная конструкция автоматизированной башни.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected machine-built turret. Recommend sabotage.",
+    "value": "Обнаружена турель машинного изготовления. Рекомендую диверсию.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Gun-automated. Akki careful here...",
+    "value": "Пистолет-автомат. Акки, осторожнее...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

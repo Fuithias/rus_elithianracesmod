@@ -1,71 +1,71 @@
 [
   {
-    "value": "FTL Fuel Hatch",
+    "value": "Топливный люк сверхсветовой скорости",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Accepts Liquid Erchius as fuel for the ship's FTL drive.",
+    "value": "Принимает жидкий Эрчиус в качестве топлива для сверхсветового привода корабля.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The FTL drive fuel hatch. Converts fuel into freedom.",
+    "value": "Топливный люк привода сверхсветовых двигателей. Превращает топливо в свободу.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The FTL fuel hatch. Let's load it up and take to the stars!",
+    "value": "Топливный люк сверхсветовой мощности. Давайте загрузим его и отправимся к звездам!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Fuel hatch for FTL drive. Let'ss fill it up!",
+    "value": "Топливный люк для сверхсветового привода. Давайте наполним его!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system.",
+    "value": "Взволнованный. Этот люк питает сверхсветовой двигатель, чтобы я мог посещать планеты за пределами этой системы.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system.",
+    "value": "Топливный люк корабля. Имея топливо для сверхсветового двигателя, я могу исследовать пределы этой системы.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
+    "value": "Скромный сверхсветовой топливный люк. Топливо — это источник жизненной силы исследований.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "FTL fuel goes in here!",
+    "value": "Сюда поступает сверхсветовое топливо!",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A hatch for inserting FTL fuel. Handy.",
+    "value": "Люк для заливки сверхсветового топлива. Удобный.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This hatch is connected to the ship's main FTL fuel container.",
+    "value": "Этот люк соединен с основным сверхсветовым топливным контейнером корабля.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This hatch grants access to the ship's supply of FTL fuel.",
+    "value": "Этот люк предоставляет доступ к корабельным запасам сверхсветового топлива.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "FTL fuel hatch detected. Please refuel.",
+    "value": "Обнаружен люк сверхсветового топлива. Пожалуйста, дозаправьтесь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki put in fuel, shipfly farther.",
+    "value": "Акки заправился топливом и лети дальше.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

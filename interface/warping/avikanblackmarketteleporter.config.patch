@@ -1,11 +1,11 @@
 [
   {
-    "value": "Drifter's Emporium",
+    "value": "Эмпориум Дрифтера",
     "path": "/bookmarkName",
     "op": "replace"
   },
   {
-    "value": "Beam to Ship",
+    "value": "Назад на корабль",
     "path": "/destinations/name",
     "op": "replace"
   }

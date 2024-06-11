@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Laptop",
+    "value": "Альянс Ноутбук",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A portable personal computer.",
+    "value": "Портативный персональный компьютер.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A personal computer. The Miniknog might be monitoring it.",
+    "value": "Персональный компьютер. Миникног, возможно, следит за ним.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small computer, easy to transport.",
+    "value": "Небольшой компьютер, легко транспортировать.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not know how to use computer...",
+    "value": "Флоран не умеет пользоваться компьютером...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A personal computer.",
+    "value": "Наблюдение. Персональный компьютер.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A laptop. Whoever used it forgot to erase their browsing history...",
+    "value": "Ноутбук. Тот, кто им пользовался, забыл стереть историю посещений...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A small personal computer.",
+    "value": "Небольшой персональный компьютер.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Never could get the hang of those keyboards...",
+    "value": "Никогда не мог разобраться с этими клавиатурами...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A standard model laptop. Every Union citizen receives one of these.",
+    "value": "Ноутбук стандартной модели. Каждый гражданин Союза получает один из них.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some kind of computer, but unusually small.",
+    "value": "Какой-то компьютер, но необычно маленький.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The battery in this laptop is quite efficient.",
+    "value": "Аккумулятор в этом ноутбуке довольно эффективный.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien interface detected. Translating...",
+    "value": "Обнаружен инопланетный интерфейс. Идет перевод...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know interface-alien. Confusing-very.",
+    "value": "Акки не знает, интерфейс-чужой. Смущающе-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

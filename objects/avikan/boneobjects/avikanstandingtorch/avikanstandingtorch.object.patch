@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Standing Torch",
+    "value": "Авикан Постоянный факел",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tall standing torch giving off a warm glow.",
+    "value": "Высокий стоячий факел, излучающий теплое сияние.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A raised bone torch.",
+    "value": "Поднятый костяной факел.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tall flickering torch.",
+    "value": "Высокий мерцающий факел.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "High torch holdss fire.",
+    "value": "Высокий факел держит огонь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Serene. A tall torch, the flame flickers.",
+    "value": "Безмятежный. Высокий факел, пламя мерцает.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A crackling torch.",
+    "value": "Потрескивающий факел.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A raised torch provides light for a large area.",
+    "value": "Поднятый факел обеспечивает освещение большой площади.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The flame is cracklin' away.",
+    "value": "Пламя потрескивает.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple torch, with a bone stand.",
+    "value": "Простой факел на костяной подставке.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A torch. They make me feel at home.",
+    "value": "Факел. Они заставляют меня чувствовать себя как дома.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly inefficient way to light your surroundings.",
+    "value": "Крайне неэффективный способ освещения вашего окружения.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Fire hazard detected.",
+    "value": "Обнаружена опасность пожара.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Torch-tall, made of bone. Akki like.",
+    "value": "Высоким как факел, сделанный из кости. Акки вроде.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Weapon Attachment Bench",
+    "value": "Скамья для крепления оружия",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A workshop that allows attachments and mods to be applied to compatible weapons.",
+    "value": "Мастерская, позволяющая применять насадки и моды к совместимому оружию.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The rebels could make good use of weapon attachments.",
+    "value": "Повстанцы могли бы с пользой использовать оружейные приспособления.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can attach mods to my weapons here. If only I could attach wings to myself...",
+    "value": "Здесь я могу прикрепить моды на свое оружие. Если бы я только мог прикрепить себе крылья...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran addsss thingss to weaponss here.",
+    "value": "Флоран добавляет здесь к оружию вещи.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Creative. I can attach all sorts of mods to my weapons here.",
+    "value": "Творческий. Здесь я могу прикрепить к своему оружию всевозможные моды.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I can attach mods to my weapons here. Let the fun begin!",
+    "value": "Здесь я могу прикрепить моды на свое оружие. Пусть веселье начнется!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can express their creativity here.",
+    "value": "Здесь можно выразить свое творчество.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon I could add some explosive firepower to my guns here.",
+    "value": "Думаю, здесь я мог бы добавить немного взрывной огневой мощи к своим орудиям.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I can attach mods to compatible weapons here.",
+    "value": "Здесь я могу прикрепить моды на совместимое оружие.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Tools for attaching mods to weapons.",
+    "value": "Инструменты для установки модов на оружие.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Compatible weapons can be equipped with mods here. Quite an efficient system.",
+    "value": "Совместимое оружие можно оснастить модами здесь. Вполне эффективная система.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Allows for the modification of compatible weapons using various mods.",
+    "value": "Анализ завершен. Мастерская. Позволяет модифицировать совместимое оружие с помощью различных модов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki modify weapons. Make deadly-more.",
+    "value": "Акки модифицируют оружие. Сделать смертоноснее-более.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

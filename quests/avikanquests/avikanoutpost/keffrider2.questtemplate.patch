@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Keffrider II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Кеффоход II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Keffriders are vital to the defence of our clans. Use the ^orange;Keffrider's Spear ^white;I gave you to ^green;hunt down an Adult Poptop and bring me its ^orange;Grand Monster Bone^white;. Do this, and you'll prove you have the strength of a Keffrider.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Кеффоходы играют важную роль в защите наших кланов. Используйте ^orange;копье кеффохода ^white;, которое я вам дал, чтобы ^green;охотиться на взрослого поптопа и принести мне его ^orange;великую костяную кость^white;. Сделайте это, и вы докажете, что обладаете силой кеффохода.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Well done, Captain! You have proven your merit and your strength, but there is one more task for you to complete.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Молодец, Капитан! Вы доказали свои заслуги и свою силу, но у вас осталось еще одно задание.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ветури ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "value": "An alien monster's spine.",
+    "value": "Позвоночник инопланетного монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Spine",
+    "value": "Позвоночник монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

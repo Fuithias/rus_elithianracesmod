@@ -1,31 +1,31 @@
 [
   {
-    "value": "Potted Elithian Shrub",
+    "value": "Элитианский кустарник в горшке",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A shrub native to Elithia.",
+    "value": "Кустарник, произрастающий в Элитии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran doess not like putting plantss in potsss.",
+    "value": "Флоран не любит сажать растения в горшки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A plant.",
+    "value": "Наблюдение. Растение.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant-small, not like Akris.",
+    "value": "Растение-небольшое, не похожее на Акрис.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

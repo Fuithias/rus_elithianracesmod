@@ -1,71 +1,71 @@
 [
   {
-    "value": "Starfarer's Teleporter",
+    "value": "Телепорт Звездного Путешественника",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter linked to the Starfarer's Refuge. \n^red;Destroyed when broken.",
+    "value": "Телепорт, связанный с Убежищем Звездных Путешественников. ^red;Уничтожается при поломке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location.",
+    "value": "Этот телепорт привязан к заданному местоположению.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location.",
+    "value": "Этот телепорт привязан к заданному местоположению.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. This teleporter is linked to a set location.",
+    "value": "Анализ. Этот телепорт привязан к заданному местоположению.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location.",
+    "value": "Этот телепорт привязан к заданному местоположению.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location.",
+    "value": "Этот телепорт привязан к заданному местоположению.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location.",
+    "value": "Этот телепорт привязан к заданному местоположению.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This Avikan teleporter is linked directly to their Starfarer's Refuge.",
+    "value": "Этот телепорт Авикан напрямую связан с их Убежищем Звездных Путешественников.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked directly to the Starfarer's Refuge.",
+    "value": "Этот телепорт напрямую связан с Убежищем Звездных Путешественников.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked to a set location. Let's see where it leads.",
+    "value": "Этот телепорт привязан к заданному местоположению. Посмотрим, куда это приведет.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Readings indicate that this teleporter links directly to the Starfarer's Refuge.",
+    "value": "Анализ. Показания показывают, что этот телепорт напрямую связан с Убежищем Звездоходов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter-alien, linked to Refuge-Starfarers.",
+    "value": "Телепорт-инопланетянин, связанный с Refuge-Starfarers.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

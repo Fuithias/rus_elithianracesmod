@@ -1,36 +1,36 @@
 [
   {
-    "value": "Smooth Trinkian Panel",
+    "value": "Гладкая тринкская панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple metal panel.",
+    "value": "Простая металлическая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. A metal panel.",
+    "value": "Утверждение. Металлическая панель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Dark metal panelsss.",
+    "value": "Темные металлические панели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A metal panel, plain an' simple.",
+    "value": "Металлическая панель, просто и понятно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal plating.",
+    "value": "Анализ завершен. Металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-metal.",
+    "value": "Панель-металл.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Dented plates of scrap metal scavenged from low quality sources.",
+    "value": "Помятые пластины из металлолома, собранного из источников низкого качества.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dented Scrap Metal",
+    "value": "Помятый металлолом",
     "path": "/shortdescription",
     "op": "replace"
   }

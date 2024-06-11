@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Decorative Plant",
+    "value": "Декоративный завод Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A collection of exotic plants and grasses.",
+    "value": "Коллекция экзотических растений и трав.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fresh green plants. A symbol of freedom.",
+    "value": "Свежие зеленые растения. Символ свободы.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Simple plants.",
+    "value": "Простые растения.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Plantsss without flowerss.",
+    "value": "Растения без цветов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. These plants smell incredibly fresh.",
+    "value": "Довольный. Эти растения пахнут невероятно свежестью.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Indoor plants always lighten my mood.",
+    "value": "Комнатные растения всегда поднимают мне настроение.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "These plants are being cared for with great effort.",
+    "value": "За этими растениями ухаживают с большим трудом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Green plants. That's normal, right?",
+    "value": "Зеленые растения. Это нормально, да?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan take great care of what few plants they have.",
+    "value": "Авикан очень заботятся о тех немногих растениях, которые у них есть.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Healthy plants are a sign of wealth.",
+    "value": "Здоровые растения – признак богатства.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These plants use their water very efficiently.",
+    "value": "Эти растения очень эффективно используют воду.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected plants. State: healthy.",
+    "value": "Обнаруженные растения. Состояние: здоров.",
     "path": "/drodenDescription",
     "op": "replace"
   }

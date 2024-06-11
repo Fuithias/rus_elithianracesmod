@@ -1,11 +1,11 @@
 [
   {
-    "value": "Prickly cactus juice blended with poorly cooked meat. What could go wrong?",
+    "value": "Колючий сок кактуса, смешанный с плохо приготовленным мясом. Что может пойти не так?",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Kadavan Meat Juice",
+    "value": "Мясной сок Кадаван",
     "path": "/shortdescription",
     "op": "replace"
   }

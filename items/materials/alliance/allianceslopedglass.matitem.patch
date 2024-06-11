@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick and strong glass-like plastic often used on board spaceships.",
+    "value": "Толстый и прочный стеклоподобный пластик, часто используемый на борту космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Sloped Glass",
+    "value": "Наклонное стекло Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

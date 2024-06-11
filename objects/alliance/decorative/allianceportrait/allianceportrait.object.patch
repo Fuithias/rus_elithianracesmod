@@ -1,71 +1,71 @@
 [
   {
-    "value": "Portrait of Admiral Lyiin",
+    "value": "Портрет адмирала Лиина",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large portrait of Admiral Lyiin Atmaera.",
+    "value": "Большой портрет адмирала Лиина Атмаэры.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A large portrait of some important person.",
+    "value": "Большой портрет какого-то важного человека.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This person must be quite important.",
+    "value": "Этот человек, должно быть, очень важный.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Large picture of important perssson.",
+    "value": "Большая фотография важного человека.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Who is this?",
+    "value": "Любопытный. Кто это?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta important person.",
+    "value": "Какой-то важный человек.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This person has an aura of responsibility and authority to them.",
+    "value": "Этот человек обладает аурой ответственности и власти.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Soma kinda important guy.",
+    "value": "Сома очень важный парень.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A portrait of Lyiin Atmaera, the admiral stationed at the Creon Embassy.",
+    "value": "Портрет Лиина Атмаэры, адмирала посольства Креона.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This must be an alien leader.",
+    "value": "Должно быть, это инопланетный лидер.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A portrait of Lyiin Atmaera. He is the admiral stationed at the Creon Embassy.",
+    "value": "Портрет Лиина Атмаэры. Он адмирал посольства Креона.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien portrait.",
+    "value": "Обнаружен портрет инопланетянина.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki think this is person-important.",
+    "value": "Акки считает, что это важно для человека.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

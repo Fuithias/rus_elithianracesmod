@@ -1,36 +1,36 @@
 [
   {
-    "value": "Locked Nomada Hatch",
+    "value": "Запертый люк кочевника",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This access hatch is locked tight.",
+    "value": "Этот люк доступа плотно заперт.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran can't open hatch. Floran frussstrated.",
+    "value": "Флоран не может открыть люк. Флоран расстроен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Displeased. I cannot open this hatch.",
+    "value": "Недовольный. Я не могу открыть этот люк.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A hatch, locked like a vault. Ain't gettin' in there.",
+    "value": "Люк, запертый, как хранилище. Туда не попаду.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Pipeline access hatch. Analysis: locked.",
+    "value": "Люк для доступа к трубопроводу. Анализ: заблокирован.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hatch-locked, Akki not get in here.",
+    "value": "Люк заперт, Акки сюда не пролезет.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bottle of tasty Valassa, made with the Union's best Vahlberries.",
+    "value": "Бутылка вкусного вина Valassa, приготовленного из лучших ягод Vahlberry Союза.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Valassa Bottle",
+    "value": "Бутылка Валасса",
     "path": "/shortdescription",
     "op": "replace"
   }

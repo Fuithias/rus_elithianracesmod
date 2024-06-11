@@ -1,66 +1,66 @@
 [
   {
-    "value": "Centensian Console",
+    "value": "Центенсианская консоль",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer console.",
+    "value": "Компьютерная консоль.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An old but highly advanced console.",
+    "value": "Старая, но очень продвинутая консоль.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient computer terminal, still functional.",
+    "value": "Древний компьютерный терминал, до сих пор работающий.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny ssscreen.",
+    "value": "Сссшный сссскрин.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This console still functions after eons of disuse.",
+    "value": "Очарованный. Эта консоль все еще работает после многолетнего простоя.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "No holographic screen? I'm disappointed.",
+    "value": "Нет голографического экрана? Я разочарован.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "These ancient computers are always a mystery. How exciting.",
+    "value": "Эти древние компьютеры всегда остаются загадкой. Как здорово.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian console.",
+    "value": "Центенсийская консоль.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A console created by the Old Ones.",
+    "value": "Консоль, созданная Древними.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This console was created by the Centens.",
+    "value": "Эта консоль была создана Centens.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Detected Centensian interface.",
+    "value": "Анализ. Обнаружен Centensian интерфейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Computer-ancient, god-maker-made.",
+    "value": "Древний компьютер, созданный богом.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

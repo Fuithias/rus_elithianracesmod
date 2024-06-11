@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Уникальный тайник Тринков^white;",
+    "value": "^orange;Важный тайник Тринков^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

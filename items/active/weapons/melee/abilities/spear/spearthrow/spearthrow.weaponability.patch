@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Spear Throw",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

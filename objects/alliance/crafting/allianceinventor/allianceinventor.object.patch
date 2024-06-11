@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Planning Table^white;",
+    "value": "^orange;Планировочный стол^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wooden workbench with room for blueprints, perfect for planning out new constructs.",
+    "value": "Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A basic crafting bench with some blueprints to get me started.",
+    "value": "Базовый верстак с чертежами, с которых можно начать.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A wooden crafting bench and some basic tools.",
+    "value": "Деревянный верстак и несколько основных инструментов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic planning table, complete with all the tools I need to get started with crafting.",
+    "value": "Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A wooden crafting table. It seems like such a waste of good trees.",
+    "value": "Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The use of wood in crafting is often highly inefficient.",
+    "value": "Использование древесины в ремеслах часто бывает крайне неэффективным.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Wooden planning table.",
+    "value": "Анализ завершен. Деревянный стол для планирования.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use blueprint. Craft things-alien.",
+    "value": "Акки использует чертеж. Создавать вещи-инопланетяне.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Planning Table^white;",
+    "value": "^orange;Планировочный стол^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A wooden workbench with room for blueprints, perfect for planning out new constructs.",
+    "value": "Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A basic crafting bench with some blueprints to get me started.",
+    "value": "Базовый верстак с чертежами, с которых можно начать.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A wooden crafting bench and some basic tools.",
+    "value": "Деревянный верстак и несколько основных инструментов.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic planning table, complete with all the tools I need to get started with crafting.",
+    "value": "Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A wooden crafting table. It seems like such a waste of good trees.",
+    "value": "Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The use of wood in crafting is often highly inefficient.",
+    "value": "Использование древесины в ремеслах часто бывает крайне неэффективным.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Wooden planning table.",
+    "value": "Анализ завершен. Деревянный стол для планирования.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki use blueprint. Craft things-alien.",
+    "value": "Акки использует чертеж. Создавать вещи-инопланетяне.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Designer's Table^white;",
+    "value": "^orange;Стол дизайнера^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A workbench and blueprints for the modern designer.",
+    "value": "Верстак и чертежи для современного дизайнера.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "Perhaps these blueprints could be used by the rebellion.",
+    "value": "Возможно, эти чертежи могут быть использованы восставшими.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can show my crafting skill here.",
+    "value": "Здесь я могу показать свое мастерство.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft all new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A designer's table, complete with tools and blueprints.",
+    "value": "Стол дизайнера с инструментами и чертежами.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien tools and blueprints. What do they craft here?",
+    "value": "Инопланетные инструменты и чертежи. Что здесь создают?",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A slim, lightweight planning table. Quite efficient.",
+    "value": "Тонкий и легкий стол для планирования. Довольно эффективно.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Lightweight crafting table.",
+    "value": "Анализ завершен. Легкий рабочий стол.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tools for crafting, blueprint for ideas.",
+    "value": "Инструменты для творчества, чертежи идей.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Artificer's Table^white;",
+    "value": "^orange;Стол Ремесленника^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A modern workplace with access to advanced blueprints.",
+    "value": "Современное рабочее место с доступом к передовым чертежам.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "I wonder if I can download these blueprints for the rebellion.",
+    "value": "Интересно, смогу ли я скачать эти чертежи восстания?",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can display a variety of blueprints on this screen.",
+    "value": "На этом экране я могу отображать различные чертежи.",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Board of light tellsss Floran how to make thingss.",
+    "value": "Доска света рассказывает Флорану, как делать вещи.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This display is full of interesting blueprints.",
+    "value": "Вдохновленный. Эта выставка полна интересных чертежей.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A modern workstation.",
+    "value": "Современное рабочее место.",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This screen shows all sorts of blueprints an' such.",
+    "value": "На этом экране показаны всевозможные чертежи и тому подобное.",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This workstation is perfect for experienced artificers.",
+    "value": "Эта рабочая станция идеально подходит для опытных мастеров.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A screen displaying blueprints for some alien devices.",
+    "value": "Экран с чертежами некоторых инопланетных устройств.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This workstation uses power quite efficiently.",
+    "value": "Эта рабочая станция довольно эффективно использует электроэнергию.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Lightweight crafting table.",
+    "value": "Анализ завершен. Легкий рабочий стол.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screen-fancy, show blueprints-alien.",
+    "value": "Экран-навороченный, чертежи покажи-инопланетянин.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

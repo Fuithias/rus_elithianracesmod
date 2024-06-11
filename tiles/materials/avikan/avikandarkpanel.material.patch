@@ -1,36 +1,36 @@
 [
   {
-    "value": "Dark Avikan Panel",
+    "value": "Темная панель авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A dark metal panel, perfect for room decoration.",
+    "value": "Темная металлическая панель, идеально подходит для украшения комнаты.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. This panel could look good as room decoration.",
+    "value": "Заявление. Эта панель могла бы хорошо смотреться как украшение комнаты.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Panelsss would look good in Floran sship.",
+    "value": "Панели будут хорошо смотреться в корабле Флорана.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Just some kinda metal panel.",
+    "value": "Просто какая-то металлическая панель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Dark metal panel.",
+    "value": "Анализ завершен. Темная металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-dark, smooth-very.",
+    "value": "Панель-темная, очень гладкая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

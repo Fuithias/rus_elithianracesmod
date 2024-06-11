@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian Crate",
+    "value": "Тринкианский ящик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A compact cargo crate.",
+    "value": "Компактный грузовой ящик.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A compact cargo crate. Built to be stackable.",
+    "value": "Компактный грузовой ящик. Создан для штабелирования.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny metal crate. What is it carrying?",
+    "value": "Блестящий металлический ящик. Что оно несет?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Cratesss full of goodiesss!",
+    "value": "Красссс полон вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wondering. What goods might be within?",
+    "value": "Интересный. Какие товары могут находиться внутри?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A cargo crate. What might be inside?",
+    "value": "Грузовой ящик. Что может быть внутри?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A compact metal crate. Ideal for transportation and storage.",
+    "value": "Компактный металлический ящик. Идеально подходит для транспортировки и хранения.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Trinkian crates are built with efficiency in mind.",
+    "value": "Ящики Trinkian созданы с учетом эффективности.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A cargo crate built by machines.",
+    "value": "Грузовой ящик, построенный машинами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This standard issue cargo crate is built to fit inside any Trinkian cargo hold.",
+    "value": "Этот стандартный грузовой ящик предназначен для размещения в любом грузовом отсеке Тринкиана.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Storage unit detected. Content scan unavailable.",
+    "value": "Обнаружен блок хранения. Сканирование контента недоступно.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crate-alien, has lights-fancy.",
+    "value": "Ящик-инопланетянин, имеет причудливую подсветку.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

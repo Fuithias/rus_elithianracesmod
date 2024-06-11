@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Escape Hatch",
+    "value": "Эвакуационный люк Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A reinforced metal hatch often seen in escape tunnels.",
+    "value": "Усиленный металлический люк, часто встречающийся в эвакуационных туннелях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran can esscape through the hatch.",
+    "value": "Флоран может сбежать через люк.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Relieved. This hatch might lead to an escape tunnel!",
+    "value": "С облегчением. Этот люк может вести к эвакуационному туннелю!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal hatch, like a modern trapdoor.",
+    "value": "Металлический люк, похожий на современный люк.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada-built hatch.",
+    "value": "Обнаружен люк, построенный Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Hatch-metal, for escaping.",
+    "value": "Люк металлический, для побега.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,31 +1,31 @@
 [
   {
-    "value": "Trink Circuit Banner",
+    "value": "Баннер цепи Тринка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Trink Circuit.",
+    "value": "Баннер, украшенный эмблемой трассы Тринк.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Trink Circuit iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Trink Circuit.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Symbol means it belongs to Circuit-Trink.",
+    "value": "Символ означает, что он принадлежит Circuit-Trink.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

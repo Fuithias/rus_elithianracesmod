@@ -1,211 +1,211 @@
 [
   {
-    "value": "^orange;Droden Frame Workshop^white;",
+    "value": "^orange;Мастерская каркасов Дродена^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Frame replacements for Droden units can be crafted here.",
+    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A workshop for new robot parts.",
+    "value": "Мастерская по изготовлению новых деталей для роботов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop is rather basic, but it has all the necessary tools.",
+    "value": "Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This type of robot is new to me.",
+    "value": "Заинтригован. Этот тип роботов для меня новый.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple workshop for building robot parts.",
+    "value": "Простой мастер-класс по сборке деталей робота.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop, built for the creation of new robot parts.",
+    "value": "Мастерская, построенная для создания новых деталей роботов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop for creatin' robot parts.",
+    "value": "Мастерская по созданию деталей роботов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop where new Droden frames are made.",
+    "value": "Базовая мастерская, где изготавливаются новые рамы Droden.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop has some specilized tools used to create new Droden frames.",
+    "value": "В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop is very basic, but it has all the tools it requires.",
+    "value": "Этот мастер-класс очень простой, но в нем есть все необходимые инструменты.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Frame workshop. Used to create and install new frames onto Droden units.",
+    "value": "Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki make frames-Droden here... Why would Akki?",
+    "value": "Акки сделай кадры-Дроден сюда... Зачем Акки?",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Droden Frame Workbench^white;",
+    "value": "^orange;Каркасный верстак Дродена^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Frame replacements for Droden units can be crafted here.",
+    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A workshop for new robot parts.",
+    "value": "Мастерская по изготовлению новых деталей для роботов.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop is rather basic, but it has all the necessary tools.",
+    "value": "Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This type of robot is new to me.",
+    "value": "Заинтригован. Этот тип роботов для меня новый.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple workshop for building robot parts.",
+    "value": "Простой мастер-класс по сборке деталей робота.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop, built for the creation of new robot parts.",
+    "value": "Мастерская, построенная для создания новых деталей роботов.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop for creatin' robot parts.",
+    "value": "Базовая мастерская по созданию деталей роботов.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop where new Droden frames are made.",
+    "value": "Базовая мастерская, где изготавливаются новые рамы Droden.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop has some specilized tools used to create new Droden frames.",
+    "value": "В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop is very basic, but it has all the essentials.",
+    "value": "Этот мастер-класс очень простой, но в нем есть все необходимое.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Frame workbench. Used to create and install new frames onto Droden units.",
+    "value": "Анализ завершен. Каркасный верстак. Используется для создания и установки новых рам на устройства Droden.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki make frames-Droden here... Why would Akki?",
+    "value": "Акки сделай кадры-Дроден сюда... Зачем Акки?",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Droden Frame Workshop^white;",
+    "value": "^orange;Мастерская каркасов Дродена^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Frame replacements for Droden units can be crafted here.",
+    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A larger workshop, with more space and better tools for creating high-quality robot parts.",
+    "value": "Мастерская большего размера, с большим пространством и лучшими инструментами для создания высококачественных деталей роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A fully utilized robot part workshop.",
+    "value": "Полностью загруженная мастерская по изготовлению деталей для роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metalman makesss more metalmen here. Floran prefersss Floran reproduction...",
+    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Motivated. This workshop has all the tools needed to create new robot parts.",
+    "value": "Мотивированный. В этой мастерской есть все инструменты, необходимые для создания новых деталей роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A true workshop, it has all the tools one needs when crafting robot parts.",
+    "value": "Настоящая мастерская, в которой есть все инструменты, необходимые для изготовления деталей роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "New robot parts can be created using this workshop.",
+    "value": "С помощью этой мастерской можно создавать новые детали роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon someone with the right skills could craft some fancy robot parts here.",
+    "value": "Я считаю, что кто-то с нужными навыками сможет изготовить здесь некоторые причудливые детали роботов.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A small furnace and plenty of tools, this workshop has it all.",
+    "value": "Небольшая печь и множество инструментов — все это есть в этой мастерской.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A fully laid out Droden frame workshop.",
+    "value": "Полностью спланированная каркасная мастерская Дродена.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A poorly optimized workshop. The tool placement is hardly efficient.",
+    "value": "Плохо оптимизированный семинар. Размещение инструмента вряд ли эффективно.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Frame workshop. Used to create and install new frames onto Droden units.",
+    "value": "Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Workshop-large, Akki craft Droden.",
+    "value": "Мастерская-большая, Акки крафт Дродэн.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
@@ -215,67 +215,67 @@
     "op": "replace"
   },
   {
-    "value": "Frame replacements for Droden units can be crafted here.",
+    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A miniature automated robot factory. Better not let the Miniknog get their hands on one of these.",
+    "value": "Миниатюрная автоматизированная фабрика роботов. Лучше не позволять Миникногам заполучить один из них.",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small robot factory. It only creates one type of robot.",
+    "value": "Небольшая фабрика роботов. Он создает только один тип робота.",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Thiss factory makess metalmen? Floran isss not ssure what to think of it.",
+    "value": "Это завод делает металлистов? Флоран не знаю, что об этом думать.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Philosophical. Was I created in a similar type of factory?",
+    "value": "Философский. Был ли я создан на подобной фабрике?",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A small, largely automated factory. It produces robots of outstanding quality.",
+    "value": "Небольшой, в значительной степени автоматизированный завод. Она производит роботов выдающегося качества.",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A small factory like this can do the work of a dozen individuals at once.",
+    "value": "Такая маленькая фабрика может одновременно выполнять работу дюжины человек.",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta factory for creatin' robots.",
+    "value": "Какая-то фабрика по созданию роботов.",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Droden frame factory, for creating high-quality frames.",
+    "value": "Рамочная фабрика «Дроден» по созданию высококачественных рам.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A largely automated Droden frame factory. These were commonplace before the Droden war.",
+    "value": "Полностью автоматизированный завод по производству каркасов в Дродене. Это было обычным явлением до войны с Дроденом.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient Droden factory unit.",
+    "value": "Эффективное заводское подразделение Дродена.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Frame factory. Used to create and install new frames onto Droden units.",
+    "value": "Анализ завершен. Каркасный завод. Используется для создания и установки новых рам на устройства Droden.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Machine make frames-Droden. Akki not have to do work themselves.",
+    "value": "Машина производства Рамы-Дроден. Акки не придется делать работу самостоятельно.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

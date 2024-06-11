@@ -1,21 +1,21 @@
 [
   {
-    "value": "Report to Admiral Lyiin",
+    "value": "Отчитайтесь перед Адмиралом Лиином",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "^orange;Admiral Lyiin ^reset;has requested that you ^green;join him in the ^orange;Command Center^reset;, ambassador. Please go and visit him as soon as possible, and make sure you bring your ^orange;Ambassador's Pass ^reset;with you.",
+    "value": "^orange;Адмирал Лиин ^reset;попросил вас ^green;присоединиться к нему в ^orange;Командном Центре^reset;, посол. Пожалуйста, посетите его как можно скорее и не забудьте взять с собой ^orange;Пропуск Посла^reset;.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Welcome back to Creon, Ambassador. Please accept this: it's a shield adorned with the Alliance's emblem. It was meant as a gift to the Protectorate, but now that they are gone, I wanted you to have it.",
+    "value": "Добро пожаловать обратно в Креон, Посол. Пожалуйста, примите это: это щит, украшенный эмблемой Альянса. Он был предназначен в подарок Протекторату, но теперь, когда их больше нет, я хотел, чтобы он достался вам.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Report to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Отчитайтесь перед ^orange;Адмиралом Лиином ^reset;в ^orange;Посольстве Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

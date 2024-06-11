@@ -1,31 +1,31 @@
 [
   {
-    "value": "Broken Avikan Panel",
+    "value": "Сломанная панель авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This panel looks broken. Perhaps I can break through.",
+    "value": "Эта панель выглядит сломанной. Возможно, я смогу ее пробить.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Destructive. I could break through these metal panels.",
+    "value": "Разрушительно. Я мог бы пробить эти металлические панели.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran breaksss through panelss with crackss. Floran is ssstrong.",
+    "value": "Флоран пробивает панели с трещинами. Флоран силен.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Damaged metal panel. Unit might be able to break through.",
+    "value": "Анализ завершен. Поврежденная металлическая панель. Единица может пробить.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-damaged, close to breaking.",
+    "value": "Панель-поврежденная, близка к поломке.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

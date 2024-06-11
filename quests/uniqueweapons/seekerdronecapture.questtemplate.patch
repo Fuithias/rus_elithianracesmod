@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;The Seekers' Research Project",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Исследовательский Проект Искателей",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I'm doing research on Ce'Tennan drones for the Seekers, and I could use some help. Can you ^green;capture a ^orange;Ce'Tennan Oculus ^green;and a ^orange;Ce'Tennan Keeper ^reset;for me? I only need the data, so you can keep the drones yourself! I'll give you some newly developed ^orange;prototype weapons ^reset;in exchange.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я провожу исследования дронов Цетенна для Искателей и мне нужна помощь. Можете ли вы ^green;захватить ^orange;Цетеннанский Окулус ^green;и ^orange;Цетеннанского Хранителя^reset; для меня? Мне нужны только данные, так что дроны можете оставить себе! В обмен я дам вам несколько новых ^orange;прототипных оружий^reset;.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Vas Vha'leih, my friend. The data you collected off of those drones will help the Keepers' research immensely. Take these prototype weapons as thanks! I'm sure you'll find them useful on your travels.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Вас Вха'лейх, мой друг. Данные, которые вы собрали с этих дронов, значительно помогут исследованиям Хранителей. Возьмите эти прототипные оружия в знак благодарности! Уверен, они пригодятся вам в путешествиях.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ванхасу ^reset;в ^orange;Убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

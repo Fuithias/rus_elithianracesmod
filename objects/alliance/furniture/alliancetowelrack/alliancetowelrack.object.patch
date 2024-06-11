@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Towel Rack",
+    "value": "Вешалка для полотенец Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rack for hanging your towels on.",
+    "value": "Вешалка для полотенец.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A rack with a clean towel.",
+    "value": "Вешалка с чистым полотенцем.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Clean cloth to dry yourself with.",
+    "value": "Чистая ткань, чтобы вытереться.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran usesss cloth to dry.",
+    "value": "Флоран сушит ткань.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This towel is quite clean.",
+    "value": "Наблюдение. Это полотенце довольно чистое.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A clean white towel. Useful.",
+    "value": "Чистое белое полотенце. Полезный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This towel was recently washed.",
+    "value": "Это полотенце недавно было постирано.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Gotta be careful not to burn this towel.",
+    "value": "Надо быть осторожным, чтобы не сжечь это полотенце.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A clean towel to dry yourself with after taking a shower.",
+    "value": "Чистое полотенце, которым можно вытереться после душа.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of cleaning cloth.",
+    "value": "Какая-то тряпочка для чистки.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A towel rack.",
+    "value": "Вешалка для полотенец.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected cloth hanging rack.",
+    "value": "Обнаружена вешалка для одежды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "If Akki wet, Akki dry here.",
+    "value": "Если Акки мокрая, Акки здесь сухая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

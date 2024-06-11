@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Personalized Warfare III",
+    "value": "^green;Персонализированная Война III",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "I've got one final challenge for you! I want you to ^green;find and destroy a ^orange;Ce'Tennan Oculus^reset;, and you'll earn yourself access to the best weapon attachments I have. ^green;I've heard the ancient drones can be found in highly peculiar space anomalies ^reset;- you'd better come prepared, as it'll put up a heck of a fight.",
+    "value": "У меня для вас последнее испытание! Я хочу, чтобы вы ^green;нашли и уничтожили ^orange;Окулус Це'Теннан^reset;, и вы получите доступ к лучшим дополнительным модулям для оружия, которые у меня есть. ^green;Я слышал, что эти древние дроны можно найти в очень необычных космических аномалиях^reset; - лучше подготовьтесь, так как это будет серьёзная битва.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "You're a master at fighting alright! You can now access my best weapon attachments - you've more than earned it.",
+    "value": "Вы настоящий мастер боевых искусств! Теперь у вас есть доступ к моим лучшим дополнительным модулям для оружия - вы более чем заслужили это.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Аберосу^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

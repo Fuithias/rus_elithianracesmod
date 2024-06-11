@@ -1,16 +1,16 @@
 [
   {
-    "value": "pieces of ^orange;Avikan furniture",
+    "value": "предметы ^orange;мебели Авикан^reset;",
     "path": "/0/1/-/name",
     "op": "replace"
   },
   {
-    "value": "pieces of ^orange;Alliance furniture",
+    "value": "предметы ^orange;мебели Альянса^reset;",
     "path": "/0/1/-/name",
     "op": "replace"
   },
   {
-    "value": "pieces of ^orange;Trinkian furniture",
+    "value": "предметы ^orange;мебели Тринкианцев^reset;",
     "path": "/0/1/-/name",
     "op": "replace"
   }

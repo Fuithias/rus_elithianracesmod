@@ -1,11 +1,11 @@
 [
   {
-    "value": "A tasty plant rich in calories.",
+    "value": "Вкусное и калорийное растение.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Borato",
+    "value": "Борато",
     "path": "/shortdescription",
     "op": "replace"
   }

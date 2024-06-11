@@ -1,71 +1,71 @@
 [
   {
-    "value": "Inactive Flic",
+    "value": "Неактивный фильм",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An inactive Akkimari Flic-type drone.",
+    "value": "Неактивный дрон типа Аккимари Флик.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A tiny drone.",
+    "value": "Крошечный дрон.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A small drone.",
+    "value": "Небольшой дрон.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssmall drone.",
+    "value": "Маленький дрон.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A small drone.",
+    "value": "Наблюдение. Небольшой дрон.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A tiny drone. How cute!",
+    "value": "Крошечный дрон. Как мило!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple, small drone.",
+    "value": "Простой небольшой дрон.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just some tiny drone.",
+    "value": "Просто какой-то крошечный дрон.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I think these are called flics: small law enforcement drones of the Akkimari.",
+    "value": "Кажется, это называются флики: маленькие правоохранительные дроны Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A tiny drone. Not too different from a Drahlid.",
+    "value": "Крошечный дрон. Не слишком отличается от Дралида.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A drone. It's sleeping.",
+    "value": "Дрон. Оно спит.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien-built drone. Flic model.",
+    "value": "Обнаружен дрон, построенный пришельцами. Модель Флик.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Flic-tiny, keep Akkimari under control.",
+    "value": "Флик-крошка, держи Аккимари под контролем.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

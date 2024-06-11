@@ -1,16 +1,16 @@
 [
   {
-    "value": "Creates a temporary gravity field distortion that pushes away projectiles.",
+    "value": "Создает временное искажение гравитационного поля, отталкивающее снаряды.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Gravity Field Distorter",
+    "value": "Искажитель гравитационного поля",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Consumable",
+    "value": "Расходный материал",
     "path": "/category",
     "op": "replace"
   }

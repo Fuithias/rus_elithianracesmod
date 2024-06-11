@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sturdy metal tent pole.",
+    "value": "Прочный металлический столб для палатки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Tent Pole",
+    "value": "Стойка для палатки Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

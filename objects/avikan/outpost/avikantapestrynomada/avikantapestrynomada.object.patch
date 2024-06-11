@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Nomada Tapestry",
+    "value": "Гобелен Авикан Кочевник",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry displaying the Nomada's emblem.",
+    "value": "Кожаный гобелен с эмблемой Кочевника.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tapessstry hasss alien mark all over it...",
+    "value": "На гобеленах повсюду следы инопланетян...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Наблюдение. Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry. It has an alien emblem embedded into it.",
+    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large leather tapestry showing the Avikan Nomada's emblem.",
+    "value": "Большой кожаный гобелен с эмблемой Авикан Кочевника.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large leather tapestry showing our grand Nomada's emblem.",
+    "value": "Большой кожаный гобелен с эмблемой нашего великого Кочевника.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A large leather tapestry showing the Avikan Nomada's emblem.",
+    "value": "Большой кожаный гобелен с эмблемой Авикан Кочевника.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Avikan Nomada emblem.",
+    "value": "Обнаружена эмблема Авикан Номада.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Banner-large, for Nomada.",
+    "value": "Баннер-большой, для Номады.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

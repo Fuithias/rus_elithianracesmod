@@ -1,11 +1,11 @@
 [
   {
-    "value": "A glowing panel.",
+    "value": "Светящаяся панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Glowing Centensian Panel",
+    "value": "Светящееся центинское панно",
     "path": "/shortdescription",
     "op": "replace"
   }

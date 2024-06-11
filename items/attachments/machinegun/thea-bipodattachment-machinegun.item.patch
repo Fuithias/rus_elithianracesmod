@@ -1,6 +1,6 @@
 [
   {
-    "value": "More accuracy gain while crouched, but less accuracy while moving.",
+    "value": "Больше точности при приседании, но меньше при движении.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Bipod",
+    "value": "Сошка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

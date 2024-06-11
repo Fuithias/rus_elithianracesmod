@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Makeshift Workstation^white;",
+    "value": "^orange;Импровизированная рабочая станция^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple workstation with a blueprint board and space to craft items.",
+    "value": "Простое рабочее место с доской для чертежей и местом для изготовления предметов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A workstation with space for my blueprints.",
+    "value": "Рабочая станция с местом для моих чертежей.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workstation. I could craft some simple things here.",
+    "value": "Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A crude workstation. I'd better be careful I don't cut myself on the edges...",
+    "value": "Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A scrappy workstation. Poorly built and poolry designed.",
+    "value": "Убогая рабочая станция. Плохо построен и спроектирован бассейн.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A poorly designed crafting table. It looks like it was hastily put together.",
+    "value": "Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Makeshift crafting table.",
+    "value": "Анализ завершен. Импровизированный стол для творчества.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take blueprint, make things here.",
+    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Makeshift Workstation^white;",
+    "value": "^orange;Импровизированная рабочая станция^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple workstation with a blueprint board and space to craft items.",
+    "value": "Простое рабочее место с доской для чертежей и местом для изготовления предметов.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A workstation with space for my blueprints.",
+    "value": "Рабочая станция с местом для моих чертежей.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workstation. I could craft some simple things here.",
+    "value": "Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A crude workstation. I'd better be careful I don't cut myself on the edges...",
+    "value": "Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края...",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A scrappy workstation. Poorly built and poolry designed.",
+    "value": "Убогая рабочая станция. Плохо построен и спроектирован бассейн.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A poorly designed crafting table. It looks like it was hastily put together.",
+    "value": "Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Makeshift crafting table.",
+    "value": "Анализ завершен. Импровизированный стол для творчества.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take blueprint, make things here.",
+    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Kelraaki Workstation^white;",
+    "value": "^orange;Рабочая станция Келрааки^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A blueprint board built in the style of the Kelraaki.",
+    "value": "Доска для чертежей, построенная в стиле Келрааки.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "Perhaps these blueprints could be used by the rebellion.",
+    "value": "Возможно, эти чертежи могут быть использованы восставшими.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can show my crafting skill here.",
+    "value": "Здесь я могу показать свое мастерство.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can make new thingsss here.",
+    "value": "Флоран может делать здесь что-то новое.",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This table might allow me to craft some new crafting tables.",
+    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These blueprints aren't too complicated. Let's get started!",
+    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A craftin' table for craftin' more craftin' tables. Right.",
+    "value": "Верстак для крафта новых верстаков. Верно.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple blueprint board.",
+    "value": "Простая доска для чертежей.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien tools and blueprints. What do they craft here?",
+    "value": "Инопланетные инструменты и чертежи. Что здесь создают?",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A rather crudely built workstation.",
+    "value": "Довольно грубо построенная рабочая станция.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Makeshift crafting table.",
+    "value": "Анализ завершен. Импровизированный стол для творчества.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take blueprint, make things here.",
+    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Akris Workstation^white;",
+    "value": "^orange; Рабочая станция Akris^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A high-tech blueprint system fashioned after the technological marvels of Akris.",
+    "value": "Высокотехнологичная система чертежей, созданная на основе технологических чудес Акриса.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "I wonder if I can download these blueprints for the rebellion.",
+    "value": "Интересно, смогу ли я скачать эти чертежи восстания?",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can display a variety of blueprints on these screens.",
+    "value": "На этих экранах я могу отображать различные чертежи.",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Board of light tellsss Floran how to make thingss.",
+    "value": "Доска света рассказывает Флорану, как делать вещи.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. This display is full of interesting blueprints.",
+    "value": "Вдохновленный. Эта выставка полна интересных чертежей.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A modern workstation.",
+    "value": "Современное рабочее место.",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One can display their crafting prowess here.",
+    "value": "Здесь можно продемонстрировать свое мастерство.",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These screens show all sorts of blueprints an' such.",
+    "value": "На этих экранах показаны всевозможные чертежи и тому подобное.",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An expertly-built workstation. The screens are odd, but highly detailed.",
+    "value": "Созданная экспертами рабочая станция. Экраны странные, но очень подробные.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These screns display blueprints for all sorts of alien technology.",
+    "value": "На этих экранах отображаются чертежи всех видов инопланетных технологий.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These screens are surprisingly efficient in design.",
+    "value": "Эти экраны удивительно эффективны по дизайну.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Modern crafting table.",
+    "value": "Анализ завершен. Современный верстак.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki take blueprint, make things here.",
+    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Store Counter",
+    "value": "Прилавок магазина Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A store counter.",
+    "value": "Прилавок магазина.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A store counter. I should confirm my purchases here.",
+    "value": "Прилавок магазина. Я должен подтвердить свои покупки здесь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Simply a store counter.",
+    "value": "Просто прилавок магазина.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssstore counter.",
+    "value": "Прилавок магазина.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A store counter.",
+    "value": "Наблюдение. Прилавок магазина.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A store counter.",
+    "value": "Прилавок магазина.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This is where purchases are made final.",
+    "value": "Здесь покупки совершаются окончательные.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Did I get all of my groceries?",
+    "value": "Собрала ли я все свои продукты?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A store counter.",
+    "value": "Прилавок магазина.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of alien desk. Maybe the merchants sit here?",
+    "value": "Какой-то инопланетный стол. Может быть, здесь сидят торговцы?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A store counter. It also offers space for displaying products.",
+    "value": "Прилавок магазина. Также имеется место для демонстрации продукции.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien counter.",
+    "value": "Обнаружен счетчик пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not pay. Akki steal!",
+    "value": "Акки не платят. Акки воруй!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Statue of Rhadeis",
+    "value": "Статуя Радеиса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A statue depicting Rhadeis, the deity of Avikan religion.",
+    "value": "Статуя, изображающая Радеиса, божества религии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The Miniknog won't approve of a statue such as this.",
+    "value": "Миникног не одобрит такую ​​статую.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A statue depicting a god. It's quite detailed.",
+    "value": "Статуя, изображающая бога. Это довольно подробно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big sstatue of alien godsss.",
+    "value": "Большая статуя инопланетных богов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Wonder. This statue looks an awful lot like an actual creature, not some metaphysical being.",
+    "value": "Удивляться. Эта статуя очень похожа на настоящее существо, а не на какое-то метафизическое существо.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A big statue dedicated to some god.",
+    "value": "Большая статуя, посвященная какому-то богу.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This statue seems to be dedicated to an alien god of sorts.",
+    "value": "Эта статуя, кажется, посвящена своего рода инопланетному богу.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Now that's a mighty fine piece of art right there.",
+    "value": "Вот это прекрасное произведение искусства.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A beautifully crafted statue. I believe it depicts Rhadeis greeting the Avikan people.",
+    "value": "Прекрасно выполненная статуя. Я считаю, что на нем изображен Радейс, приветствующий народ Авикана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Rhadeis, our Uplifter. This grand statue honours him.",
+    "value": "Радеис, наш Возвышающий. Эта величественная статуя чтит его.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Rhadeis, god of the Avikan. The statue's quality shows how much the Avikan honour him.",
+    "value": "Радеис, бог Авикан. Качество статуи показывает, насколько Авикан чтят его.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected statue of Rhadeis. This unit is reverent.",
+    "value": "Обнаружена статуя Радеиса. Эта единица трепетна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Statue of god-maker.",
+    "value": "Статуя бога-творца.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

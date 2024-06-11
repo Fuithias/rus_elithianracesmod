@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Panel",
+    "value": "Панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Polished metal panels.",
+    "value": "Полированные металлические панели.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. This metal panel has been properly polished.",
+    "value": "Доволен. Эта металлическая панель хорошо отполирована.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wantsss to sscratch perfect metal panelss.",
+    "value": "Флоран хочет поцарапать идеальные металлические панели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A metal panel polished real hard.",
+    "value": "Металлическая панель сильно отполирована.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal panel.",
+    "value": "Анализ завершен. Металлическая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-smooth.",
+    "value": "Панель-гладкая.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Colourful fireworks to celebrate the Landing Festival!",
+    "value": "Красочный фейерверк в честь Фестиваля Приземления!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Purple Fireworks",
+    "value": "Фиолетовый фейерверк",
     "path": "/shortdescription",
     "op": "replace"
   }

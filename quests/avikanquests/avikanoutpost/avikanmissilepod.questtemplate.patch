@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Explosive Firepower",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Взрывная огневая мощь",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I found the broken missile pod of an Elite Drahl. Perhaps it can still be repaired... ^green;I should try to look for a weaponsmith in the Starfarer's Refuge ^white;- they'll know if the missile pod can still be repaired.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Я нашел сломанный ракетный отсек Элитного Драля. Возможно, его еще можно починить... ^green;Мне следует поискать оружейника в Прибежище Звездоплавателя ^white;- они знают, можно ли еще починить этот ракетный отсек.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "This is quite the find, Captain. I think I can still repair this missile pod, but we'll need some materials.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это находка, Капитан. Я думаю, я могу починить этот ракетный отсек, но нам понадобятся некоторые материалы.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Find ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Найдите ^orange;Айурина ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Scrap Table",
+    "value": "Стол для лома Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A table made of various scrap metal plates.",
+    "value": "Стол из различных пластин металлолома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A poorly built table. It's not even completely flat!",
+    "value": "Плохо сделанный стол. Он даже не совсем плоский!",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Plates of scrap metal assembled like a table. It's not very good.",
+    "value": "Плиты металлолома собраны как стол. Это не очень хорошо.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sscrappy table.",
+    "value": "Неряшливый стол.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appalled. This table is just a few plates of scrap metal!",
+    "value": "Потрясен. Этот стол — всего лишь несколько пластин металлолома!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's not much of a table, really...",
+    "value": "На самом деле это не совсем стол...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "It's just plates of scrap metal assembled like a table...",
+    "value": "Это просто листы металлолома, собранные как стол...",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda really poorly made table.",
+    "value": "Какой-то очень плохо сделанный стол.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This table is surprisingly sturdy for just being a couple of plates of scrap metal.",
+    "value": "Этот стол на удивление прочен, поскольку представляет собой всего лишь пару пластин металлолома.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A poorly assembled table. It's sturdy, but the top isn't even flat.",
+    "value": "Плохо собранный стол. Он прочный, но верх даже не плоский.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These are just a few plates of scrap metal on a pole.",
+    "value": "Это всего лишь несколько пластин металлолома на столбе.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien table. Structural sturdiness exceeds initial expectations.",
+    "value": "Обнаружен стол пришельцев. Структурная прочность превосходит первоначальные ожидания.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki could make table-better, but Akki not have time.",
+    "value": "Акки мог бы сделать стол лучше, но у Акки нет времени.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Infospire",
+    "value": "Информационный Шпиль Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Several monitors mounted to a large central processing unit.",
+    "value": "Несколько мониторов, прикрепленных к большому центральному процессору.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "That's quite a few screens.",
+    "value": "Это довольно много экранов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny screens.",
+    "value": "Блестящие экраны.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny sscreenss.",
+    "value": "Сссшные сскрины.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Several monitors attached to a central processing unit.",
+    "value": "Наблюдение. Несколько мониторов, подключенных к центральному процессору.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That's quite the monitor array.",
+    "value": "Это вполне массив мониторов.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large and bulky monitor array.",
+    "value": "Большой и громоздкий массив мониторов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Lots of screens.",
+    "value": "Много экранов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Infospire, it shows real-time information about the entire Elithian economy.",
+    "value": "Infospire отображает в режиме реального времени информацию обо всей элитанской экономике.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what all of this information really means...",
+    "value": "Интересно, что на самом деле означает вся эта информация...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficient solution to collecting and displaying economical information.",
+    "value": "Эффективное решение для сбора и отображения экономической информации.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien interface.",
+    "value": "Обнаружен инопланетный интерфейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screens-shiny, Akki steal?",
+    "value": "Экраны-блестящие, Акки воруют?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

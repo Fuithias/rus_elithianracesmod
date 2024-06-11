@@ -1,66 +1,66 @@
 [
   {
-    "value": "Centensian Terminal",
+    "value": "Сентенский терминал",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer terminal.",
+    "value": "Компьютерный терминал.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A computer terminal. Looks old, yet highly advanced.",
+    "value": "Компьютерный терминал. Выглядит старым, но очень продвинутым.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient computer terminal, still functional.",
+    "value": "Древний компьютерный терминал, до сих пор работающий.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny screensss.",
+    "value": "Ссс блестящие скрины.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. This ancient computer terminal still functions.",
+    "value": "Удивлен. Этот древний компьютерный терминал все еще функционирует.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Odd. I though all ancient technology used holographic screens.",
+    "value": "Странный. Я думал, что во всех древних технологиях использовались голографические экраны.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient and mysterious computer console. What does that text mean?",
+    "value": "Древняя и загадочная компьютерная консоль. Что означает этот текст?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A computer terminal, built by the Centens many eons ago.",
+    "value": "Компьютерный терминал, построенный Центенами много веков назад.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A computer terminal left behind by the Old Ones.",
+    "value": "Компьютерный терминал, оставленный Древними.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian terminal. I am unable to process the information it displays.",
+    "value": "Центенсийский терминал. Я не могу обработать отображаемую информацию.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Detected Centensian interface.",
+    "value": "Анализ. Обнаружен Centensian интерфейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Terminal for controlling things. Akki push buttons-all!",
+    "value": "Терминал для управления вещами. Акки нажимай кнопки-все!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

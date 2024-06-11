@@ -1,32 +1,32 @@
 [
   {
-      "value": "^orange;Ayurin's Supplies",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Поставки Айурина",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "I've been having issues with thieves intercepting my supplies... I managed to track the thieves to their hideout, but I can't go in there myself. Could you help me out? ^green;Take out their ^orange;leader^reset;, and I'll reward you with one of my latest ^orange;prototype weapons^reset;!",
-      "path": "/text",
-      "op": "replace"
+    "value": "У меня проблемы с ворами, перехватывающими мои поставки... Я смог отследить их до их логова, но не могу пойти туда сам. Не могли бы вы помочь мне? ^green;Уничтожьте их ^orange;лидера^reset;, и я вознагражу вас одним из моих последних ^orange;прототипных оружий^reset;!",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Vas Vha'leih, my friend! You've done me a great service today. Here's the prototype weapon I promised you: I call it ^orange;Ayurin's Wrath^reset;!",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Вас Вха'лейх, мой друг! Вы оказали мне большую услугу сегодня. Вот обещанное прототипное оружие: я называю его ^orange;Гнев Айурина^reset;!",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Talk to ^orange;Ayurin^reset; to warp down to the ^orange;thieves' hideout^reset;",
-      "path": "/scriptConfig/descriptions/enterInstance",
-      "op": "replace"
+    "value": "Поговорите с ^orange;Айурином^reset;, чтобы перенестись в ^orange;логово воров^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
   },
   {
-      "value": "Defeat the ^orange;Bandit Leader^reset;",
-      "path": "/scriptConfig/descriptions/findGoal",
-      "op": "replace"
+    "value": "Победите ^orange;Лидера Бандитов^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin^reset; in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/descriptions/turnIn",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
   }
 ]

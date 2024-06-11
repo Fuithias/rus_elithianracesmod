@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Interface Wall",
+    "value": "Интерфейсная стена Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An interface screen integrated into a wall panel.",
+    "value": "Экран интерфейса, встроенный в стеновую панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. An integrated screen.",
+    "value": "Наблюдение. Встроенный экран.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss why sscreen iss inssside wallss.",
+    "value": "Флоран не понимает, зачем экран в стене.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda screen inside a wall. Neat.",
+    "value": "Какой-то экран внутри стены. Интересно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Integrated interface panel.",
+    "value": "Анализ завершен. Встроенная панель интерфейса.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Screen-clean, built into wall.",
+    "value": "Экран чистый, встроен в стену.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

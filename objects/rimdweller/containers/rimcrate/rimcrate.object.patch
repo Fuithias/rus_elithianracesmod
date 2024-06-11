@@ -1,71 +1,71 @@
 [
   {
-    "value": "Rim Crate",
+    "value": "Ободной ящик",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple metal container.",
+    "value": "Простой металлический контейнер.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A metal crate. Not much else to it.",
+    "value": "Металлический ящик. Ничего особенного.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what this crate might hold?",
+    "value": "Интересно, что может храниться в этом ящике?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Cratesss full of goodiesss!",
+    "value": "Красссс полон вкусностей!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Bored. A simple metal crate.",
+    "value": "Скучающий. Простой металлический ящик.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is there loot inside?",
+    "value": "Внутри есть добыча?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal crate.",
+    "value": "Прочный металлический ящик.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A crate. Quite basic.",
+    "value": "Ящик. Довольно простой.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A storage crate created in the Rim.",
+    "value": "Ящик для хранения, созданный на Ободке.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A metal crate of alien design.",
+    "value": "Металлический ящик инопланетного дизайна.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Rim produces very sturdy products.",
+    "value": "Компания Rim производит очень прочную продукцию.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Crate-alien, has goodies inside?",
+    "value": "Ящик-инопланетянин, внутри есть вкусности?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

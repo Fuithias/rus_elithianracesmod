@@ -1,36 +1,36 @@
 [
   {
-    "value": "Leather Sheet",
+    "value": "Кожаный лист",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sheet of leather.",
+    "value": "Лист кожи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Sssimple leather ssheet.",
+    "value": "Простая кожаная простыня.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. This is a leather sheet.",
+    "value": "Заявление. Это кожаный лист.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet, plain 'n simple.",
+    "value": "Кожаный лист, простой и понятный.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected leather sheet.",
+    "value": "Обнаружен кожаный лист.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sheet-leather. Not interesting.",
+    "value": "Лист-кожа. Не интересно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

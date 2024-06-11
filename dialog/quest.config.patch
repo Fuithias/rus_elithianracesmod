@@ -1,1171 +1,1171 @@
 [
   {
-    "value": "Would you take this reply back to <questGiver> for me?",
+    "value": "Не могли бы вы передать этот ответ <questGiver> вместо меня?",
     "path": "/share_secret/pleaseTakeReply/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Don't hurt me with that <item>! Tell <questGiver> I will do as they ask!",
+    "value": "Не причиняй мне вреда этим <предметом>! Скажи <questGiver>, что я сделаю, как они просят!",
     "path": "/intimidate/intimidated/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Why should I do what <questGiver> wants?",
+    "value": "Почему я должен делать то, что хочет <questGiver>?",
     "path": "/intimidate/notIntimidated/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I've faced worse than you or <questGiver>.",
+    "value": "Я сталкивался с худшими ситуациями, чем ты или <questGiver>.",
     "path": "/intimidate/notIntimidated/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "So <questGiver> is resorting to bribes now? Very well, then, bring them my thanks.",
+    "value": "Значит, <questGiver> теперь прибегает к взяткам? Хорошо, тогда передайте им мою благодарность.",
     "path": "/bribe/giftAccepted/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Did <questGiver> send this gift? Or is it more of a bribe?",
+    "value": "<questGiver> отправил этот подарок? Или это больше взятка?",
     "path": "/bribe/giftAccepted/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I wonder what <questGiver> wants from me though...",
+    "value": "Хотя мне интересно, чего от меня хочет <questGiver>...",
     "path": "/bribe/giftAccepted2/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm certain this gift would look great in my home. Could you place it for me?",
+    "value": "Я уверена, что этот подарок будет отлично смотреться у меня дома. Не могли бы вы разместить это для меня?",
     "path": "/bribe/requestAdditionToHouse/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Could you place this gift in my home? I'm certain it would look great!",
+    "value": "Не могли бы вы разместить этот подарок у меня дома? Я уверен, что это будет выглядеть великолепно!",
     "path": "/bribe/requestAdditionToHouse/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "This gift is very nice! Please thank <questGiver> for me!",
+    "value": "Этот подарок очень хорош! Пожалуйста, поблагодарите <questGiver> от меня!",
     "path": "/gift/giftAccepted/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Could you thank <questGiver> for me? This gift is wonderful!",
+    "value": "Не могли бы вы поблагодарить <questGiver> от меня? Этот подарок прекрасен!",
     "path": "/gift/giftAccepted/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is a good friend.",
+    "value": "<questGiver> — хороший друг.",
     "path": "/gift/giftAccepted2/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is an honourable person.",
+    "value": "<questGiver> — благородный человек.",
     "path": "/gift/giftAccepted2/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I'm certain this gift would look great in my home. Could you place it for me?",
+    "value": "Я уверена, что этот подарок будет отлично смотреться у меня дома. Не могли бы вы разместить это для меня?",
     "path": "/gift/requestAdditionToHouse/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Could you place this gift in my home? I'm certain it would look great!",
+    "value": "Не могли бы вы разместить этот подарок у меня дома? Я уверен, что это будет выглядеть великолепно!",
     "path": "/gift/requestAdditionToHouse/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I swear on my honour, that <item> was acquired legally!",
+    "value": "Клянусь честью, что <предмет> приобретен законным путем!",
     "path": "/return_stolen/objectTaken/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I borrowed that <item> with permission - I swear it!",
+    "value": "Я позаимствовал этот <предмет> с разрешения — клянусь!",
     "path": "/return_stolen/objectTaken/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I'll pay the fine, alright...",
+    "value": "Я заплачу штраф, хорошо...",
     "path": "/collect_fine/fineCollected/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm not looking for trouble. I'll pay the fine.",
+    "value": "Я не ищу неприятностей. Я заплачу штраф.",
     "path": "/collect_fine/fineCollected/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> you requested. I hope it's what <questGiver> needed.",
+    "value": "Вот запрошенный вами <item>. Надеюсь, это то, что нужно <questGiver>.",
     "path": "/collect_gift/giftProvided/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> that <questGiver> asked for.",
+    "value": "Вот <item>, который запросил <questGiver>.",
     "path": "/collect_gift/giftProvided/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> you asked me to make.",
+    "value": "Вот <item>, который вы просили меня сделать.",
     "path": "/request_craft/giftProvided/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I made this <item> earlier. Please, take it!",
+    "value": "Я сделал этот <item> ранее. Пожалуйста, возьмите это!",
     "path": "/request_craft/giftProvided/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Sure, I will lend <questGiver> my <item>.",
+    "value": "Конечно, я одолжу <questGiver> свой <item>.",
     "path": "/borrow/giftProvided/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "If <questGiver> has need of my <item>, they can certainly borrow it.",
+    "value": "Если <questGiver> понадобится мой <item>, он, безусловно, сможет его одолжить.",
     "path": "/borrow/giftProvided/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I know when I'm defeated... Take my <item> then, but leave me alone!",
+    "value": "Я знаю, когда потерплю поражение... Тогда возьми мой <предмет>, но оставь меня в покое!",
     "path": "/extort/giftProvided/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> lost their honour. Fine then, take the <item>!",
+    "value": "<questGiver> потеряли свою честь. Хорошо, тогда возьми <предмет>!",
     "path": "/extort/giftProvided/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "You've secured the materials? Hold a moment, I'll get to work immediately...",
+    "value": "Вы закрепили материалы? Подожди минутку, я немедленно приступлю к работе...",
     "path": "/hat/crafting/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I see you have everything we need! Hold a moment, I just need some time to craft...",
+    "value": "Я вижу, у тебя есть все, что нам нужно! Подожди минутку, мне просто нужно немного времени, чтобы создать...",
     "path": "/hat/crafting/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Here you go! Please, take this to <questGiver> for me.",
+    "value": "Ну вот! Пожалуйста, отнесите это <questGiver> для меня.",
     "path": "/hat/crafted/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm all done! Take this to <questGiver>, would you?",
+    "value": "Я закончил! Отнеси это <questGiver>, ладно?",
     "path": "/hat/crafted/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "You've secured the materials? Hold a moment, I'll get to work immediately...",
+    "value": "Вы закрепили материалы? Подожди минутку, я немедленно приступлю к работе...",
     "path": "/helmet/crafting/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I see you have everything we need! Hold a moment, I just need some time to craft...",
+    "value": "Я вижу, у тебя есть все, что нам нужно! Подожди минутку, мне просто нужно немного времени, чтобы создать...",
     "path": "/helmet/crafting/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Here you go! Please, take this to <questGiver> for me.",
+    "value": "Ну вот! Пожалуйста, отнесите это <questGiver> для меня.",
     "path": "/helmet/crafted/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm all done! Take this to <questGiver>, would you?",
+    "value": "Я закончил! Отнеси это <questGiver>, ладно?",
     "path": "/helmet/crafted/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Thank you for delivering this. Here's what <questGiver> needed.",
+    "value": "Спасибо, что доставили это. Вот что нужно <questGiver>.",
     "path": "/new_stock/trade/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "You were sent by Rhadeis! Thank you for rescuing me!",
+    "value": "Тебя послал Радеис! Спасибо, что спасли меня!",
     "path": "/kidnapping/kidnappersDead/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Thank you for getting me out of that mess!",
+    "value": "Спасибо, что вытащили меня из этого беспорядка!",
     "path": "/kidnapping/kidnappersDead/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Could you please take me back home to <questGiver>?",
+    "value": "Не могли бы вы отвезти меня домой в <questGiver>?",
     "path": "/kidnapping/followHome/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I'll need some time to recover from this... Could you take me to <questGiver>?",
+    "value": "Мне понадобится время, чтобы прийти в себя... Не могли бы вы отвезти меня в <questGiver>?",
     "path": "/kidnapping/followHome/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I'm think I'm lost... Could you take me back to <questGiver>?",
+    "value": "Кажется, я заблудился... Не могли бы вы отвезти меня обратно в <questGiver>?",
     "path": "/escort/found/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I've lost my way... Could you please take me back to <questGiver>?",
+    "value": "Я заблудился... Не могли бы вы отвезти меня обратно в <questGiver>?",
     "path": "/escort/found/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "Thank you for bringing me these goods. Here's the <receivedItems> <questGiver> needed.",
+    "value": "Спасибо, что привезли мне эти товары. Вот необходимый <receivedItems> <questGiver>.",
     "path": "/barter/trade/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Do you have a delivery for me?",
+    "value": "У вас есть доставка для меня?",
     "path": "/escort_trade/collectDelivery/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Here's your goods. Do enjoy them!",
+    "value": "Вот ваш товар. Наслаждайтесь ими!",
     "path": "/escort_trade/provideDelivery/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih. <questGiver> asked me to help you fight the <enemy>.",
+    "value": "Вас Вха'лейх. <questGiver> попросил меня помочь вам сразиться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "Greetings. <questGiver> has asked me to help you fight the <enemy>.",
+    "value": "Привет. <questGiver> попросил меня помочь вам сразиться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "I know when I'm defeated! Put your weapon away, please!",
+    "value": "Я знаю, когда я побежден! Уберите оружие, пожалуйста!",
     "path": "/kill_npc/surrender/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "I surrender! Please, put your weapon away!",
+    "value": "Я подчиняюсь! Пожалуйста, уберите оружие!",
     "path": "/kill_npc/surrender/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "You're a fool!",
+    "value": "Ты дурак!",
     "path": "/kill_npc/betray/avikan/default/0",
     "op": "replace"
   },
   {
-    "value": "My trap has worked again!",
+    "value": "Моя ловушка снова сработала!",
     "path": "/kill_npc/betray/avikan/default/1",
     "op": "replace"
   },
   {
-    "value": "You've been tricked!",
+    "value": "Вас обманули!",
     "path": "/kill_npc/betray/avikan/default/2",
     "op": "replace"
   },
   {
-    "value": "Please take this reply back to <questGiver>.",
+    "value": "Пожалуйста, верните этот ответ <questGiver>.",
     "path": "/share_secret/pleaseTakeReply/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Put that <item> away! Tell <questGiver> I will comply!",
+    "value": "Уберите этот <предмет>! Скажи <questGiver>, что я подчинюсь!",
     "path": "/intimidate/intimidated/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I see no reason to do as <questGiver> wants.",
+    "value": "Я не вижу причин поступать так, как хочет <questGiver>.",
     "path": "/intimidate/notIntimidated/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver>'s request is illogical. I will not comply.",
+    "value": "Запрос <questGiver> нелогичен. Я не буду подчиняться.",
     "path": "/intimidate/notIntimidated/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Accepting <questGiver>'s bribery is the most efficient solution.",
+    "value": "Принятие взятки со стороны <questGiver> — наиболее эффективное решение.",
     "path": "/bribe/giftAccepted/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am uncertain what <questGiver> wants from me...",
+    "value": "Я не уверен, чего хочет от меня <questGiver>...",
     "path": "/bribe/giftAccepted2/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, could you place this gift somewhere in my residence?",
+    "value": "Пожалуйста, не могли бы вы разместить этот подарок где-нибудь в моем доме?",
     "path": "/bribe/requestAdditionToHouse/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "This gift will fit my residence well. Could you place it down somewhere?",
+    "value": "Этот подарок хорошо впишется в мой дом. Не могли бы вы положить его куда-нибудь?",
     "path": "/bribe/requestAdditionToHouse/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "This gift is more than satisfactory. Thank <questGiver> for me!",
+    "value": "Этот подарок более чем удовлетворительный. Спасибо <questGiver> от меня!",
     "path": "/gift/giftAccepted/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, thank <questGiver> for me!",
+    "value": "Пожалуйста, поблагодарите <questGiver> от меня!",
     "path": "/gift/giftAccepted/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is a good person.",
+    "value": "<questGiver> — хороший человек.",
     "path": "/gift/giftAccepted2/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, could you place this gift somewhere in my residence?",
+    "value": "Пожалуйста, не могли бы вы разместить этот подарок где-нибудь в моем доме?",
     "path": "/gift/requestAdditionToHouse/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "This gift will fit my residence well. Could you place it down somewhere?",
+    "value": "Этот подарок хорошо впишется в мой дом. Не могли бы вы положить его куда-нибудь?",
     "path": "/gift/requestAdditionToHouse/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "I tell you the truth. That <item> was acquired with permission!",
+    "value": "Я говорю вам правду. Этот <предмет> был приобретен с разрешения!",
     "path": "/return_stolen/objectTaken/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "That <item> was taken with permission, truly!",
+    "value": "Этот <предмет> был взят с разрешения, правда!",
     "path": "/return_stolen/objectTaken/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Paying the fine is the most efficient solution.",
+    "value": "Оплата штрафа является наиболее эффективным решением.",
     "path": "/collect_fine/fineCollected/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> <questGiver> requested.",
+    "value": "Вот запрошенный <item> <questGiver>.",
     "path": "/collect_gift/giftProvided/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> that <questGiver> requested.",
+    "value": "Вот <item>, который запросил <questGiver>.",
     "path": "/collect_gift/giftProvided/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> you asked me to make.",
+    "value": "Вот <item>, который вы просили меня сделать.",
     "path": "/request_craft/giftProvided/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Take this <item>. It should fulfill your request.",
+    "value": "Возьмите этот <предмет>. Оно должно удовлетворить ваш запрос.",
     "path": "/request_craft/giftProvided/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Very well, I will lend my <item> to <questGiver>.",
+    "value": "Хорошо, я одолжу свой <item> <questGiver>.",
     "path": "/borrow/giftProvided/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "If my <item> can help <questGiver>, then they may certainly use it.",
+    "value": "Если мой <item> может помочь <questGiver>, то они наверняка им воспользуются.",
     "path": "/borrow/giftProvided/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Take this <item> then, but leave me alone.",
+    "value": "Тогда возьми этот <предмет>, но оставь меня в покое.",
     "path": "/extort/giftProvided/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> has chosen an inefficient path, but I will comply. Take the <item>.",
+    "value": "<questGiver> выбрал неэффективный путь, но я подчинюсь. Возьмите <предмет>.",
     "path": "/extort/giftProvided/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "With these materials, I have everything I need. Please, wait a moment.",
+    "value": "Благодаря этим материалам у меня есть все, что мне нужно. Пожалуйста, подождите несколько секунд.",
     "path": "/hat/crafting/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "That is all we need. Wait a moment, please.",
+    "value": "Это все, что нам нужно. Погодите секунду.",
     "path": "/hat/crafting/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "All done. Please, take this to <questGiver>.",
+    "value": "Все сделано. Пожалуйста, отнесите это <questGiver>.",
     "path": "/hat/crafted/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am finished. Take this to <questGiver>, please.",
+    "value": "Я закончил. Отнесите это <questGiver>, пожалуйста.",
     "path": "/hat/crafted/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "With these materials, I have everything I need. Please, wait a moment.",
+    "value": "Благодаря этим материалам у меня есть все, что мне нужно. Пожалуйста, подождите несколько секунд.",
     "path": "/helmet/crafting/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "That is all we need. Wait a moment, please.",
+    "value": "Это все, что нам нужно. Погодите секунду.",
     "path": "/helmet/crafting/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "All done. Please, take this to <questGiver>.",
+    "value": "Все сделано. Пожалуйста, отнесите это <questGiver>.",
     "path": "/helmet/crafted/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I am finished. Take this to <questGiver>, please.",
+    "value": "Я закончил. Отнесите это <questGiver>, пожалуйста.",
     "path": "/helmet/crafted/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "This is just what I needed. Here's <questGiver>'s order.",
+    "value": "Это как раз то, что мне нужно. Вот приказ <questGiver>.",
     "path": "/new_stock/trade/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "You arrived just in time! Thank you for freeing me.",
+    "value": "Вы прибыли как раз вовремя! Спасибо, что освободил меня.",
     "path": "/kidnapping/kidnappersDead/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "You dealt this this situation efficiently. Thank you.",
+    "value": "Вы эффективно справились с этой ситуацией. Спасибо.",
     "path": "/kidnapping/kidnappersDead/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Could you take me back to <questGiver>?",
+    "value": "Не могли бы вы отвезти меня обратно в <questGiver>?",
     "path": "/kidnapping/followHome/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, would you accompany me back to <questGiver>?",
+    "value": "Пожалуйста, не могли бы вы сопровождать меня обратно в <questGiver>?",
     "path": "/kidnapping/followHome/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "It appears my GPS is broken. Could you take me back to <questGiver>?",
+    "value": "Похоже, у меня сломался GPS. Не могли бы вы отвезти меня обратно в <questGiver>?",
     "path": "/escort/found/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "These goods are exactly what I needed. Here's the <receivedItems> <questGiver> requested.",
+    "value": "Этот товар именно то, что мне было нужно. Вот запрошенный <receivedItems> <questGiver>.",
     "path": "/barter/trade/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Do you have a delivery for me?",
+    "value": "У вас есть доставка для меня?",
     "path": "/escort_trade/collectDelivery/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Here's your goods. Make efficient use of them.",
+    "value": "Вот ваш товар. Эффективно используйте их.",
     "path": "/escort_trade/provideDelivery/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "Greetings. <questGiver> requested that I help you fight the <enemy>.",
+    "value": "Привет. <questGiver> попросил меня помочь вам сразиться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> requested me to assist you in fighting the <enemy>.",
+    "value": "<questGiver> попросил меня помочь вам в борьбе с <врагом>.",
     "path": "/kill_npcs/assistantIntro/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "I have been defeated. Please, I wish to fight no more.",
+    "value": "Я потерпел поражение. Пожалуйста, я больше не хочу драться.",
     "path": "/kill_npc/surrender/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "I surrender! Please, let us stop this.",
+    "value": "Я подчиняюсь! Пожалуйста, давайте прекратим это.",
     "path": "/kill_npc/surrender/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Feigning my surrender was an efficient trick!",
+    "value": "Симулировать мою капитуляцию было эффективным трюком!",
     "path": "/kill_npc/betray/trink/default/0",
     "op": "replace"
   },
   {
-    "value": "You made a mistake!",
+    "value": "Вы сделали ошибку!",
     "path": "/kill_npc/betray/trink/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting forwarding of this reply to <questGiver>.",
+    "value": "Запрашиваю пересылку этого ответа <questGiver>.",
     "path": "/share_secret/pleaseTakeReply/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Hazardous <item> detected. This unit surrenders to <questGiver>.",
+    "value": "Обнаружен опасный <предмет>. Этот отряд сдается <questGiver>.",
     "path": "/intimidate/intimidated/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "This unit will not surrender to <questGiver>.",
+    "value": "Этот отряд не сдастся <questGiver>.",
     "path": "/intimidate/notIntimidated/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Unit will not comply to <questGiver>'s demands.",
+    "value": "Юнит не будет выполнять требования <questGiver>.",
     "path": "/intimidate/notIntimidated/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Bribery detected. Accepting.",
+    "value": "Обнаружено взяточничество. Принятие.",
     "path": "/bribe/giftAccepted/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Error. Failed to determine <questGiver>'s motives.",
+    "value": "Ошибка. Не удалось определить мотивы <questGiver>.",
     "path": "/bribe/giftAccepted2/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Gift accepted. Requesting item to be placed within the residence.",
+    "value": "Подарок принят. Запрос на размещение предмета в доме.",
     "path": "/bribe/requestAdditionToHouse/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Please place this item inside the residence.",
+    "value": "Пожалуйста, поместите этот предмет внутри дома.",
     "path": "/bribe/requestAdditionToHouse/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Gift accepted. Please return message of appreciation to <questGiver>.",
+    "value": "Подарок принят. Пожалуйста, отправьте благодарственное письмо <questGiver>.",
     "path": "/gift/giftAccepted/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is meritful.",
+    "value": "<questGiver> заслуживает внимания.",
     "path": "/gift/giftAccepted2/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Gift accepted. Requesting item to be placed within the residence.",
+    "value": "Подарок принят. Запрос на размещение предмета в доме.",
     "path": "/gift/requestAdditionToHouse/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Please place this item inside the residence.",
+    "value": "Пожалуйста, поместите этот предмет внутри дома.",
     "path": "/gift/requestAdditionToHouse/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "This unit acquired <item> legally.",
+    "value": "Это подразделение приобрело <предмет> на законных основаниях.",
     "path": "/return_stolen/objectTaken/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Returning <item> to original owner.",
+    "value": "Возвращение <предмета> первоначальному владельцу.",
     "path": "/return_stolen/objectTaken/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "This unit will pay the requested fine.",
+    "value": "Это подразделение заплатит запрошенный штраф.",
     "path": "/collect_fine/fineCollected/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Requested <item> is ready for delivery. Return to <questGiver>.",
+    "value": "Запрошенный <товар> готов к доставке. Вернитесь к <questGiver>.",
     "path": "/collect_gift/giftProvided/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Requesting delivery of <item> back to <questGiver>.",
+    "value": "Запрос на доставку <item> обратно в <questGiver>.",
     "path": "/collect_gift/giftProvided/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Construction of <item> completed. Proffering.",
+    "value": "Строительство <объекта> завершено. Предложение.",
     "path": "/request_craft/giftProvided/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Unit grants <questGiver> permission to take the <item>.",
+    "value": "Юнит предоставляет <questGiver> разрешение взять <item>.",
     "path": "/borrow/giftProvided/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "This unit is unable to resist. Proffering <item>.",
+    "value": "Это подразделение не способно сопротивляться. Предложение <предмет>.",
     "path": "/extort/giftProvided/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "This unit can not resist <questGiver>. Proffering <item>.",
+    "value": "Этот отряд не сможет противостоять <questGiver>. Предложение <предмет>.",
     "path": "/extort/giftProvided/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Detected requested materials. Constructing item.",
+    "value": "Обнаружены запрошенные материалы. Строительный предмет.",
     "path": "/hat/crafting/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Please wait. Unit is constructing item.",
+    "value": "Пожалуйста, подождите. Юнит конструирует предмет.",
     "path": "/hat/crafting/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting delivery of item to <questGiver>.",
+    "value": "Запрос на доставку предмета <questGiver>.",
     "path": "/hat/crafted/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Detected requested materials. Constructing item.",
+    "value": "Обнаружены запрошенные материалы. Строительный предмет.",
     "path": "/helmet/crafting/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Please wait. Unit is constructing item.",
+    "value": "Пожалуйста, подождите. Юнит конструирует предмет.",
     "path": "/helmet/crafting/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting delivery of item to <questGiver>.",
+    "value": "Запрос на доставку предмета <questGiver>.",
     "path": "/helmet/crafted/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Detected requested items. Proffering <questGiver>'s order.",
+    "value": "Обнаружены запрошенные элементы. Предлагает приказ <questGiver>.",
     "path": "/new_stock/trade/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "This unit is grateful.",
+    "value": "Этот аппарат благодарен.",
     "path": "/kidnapping/kidnappersDead/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Hazard levels stabilizing.",
+    "value": "Уровень опасности стабилизируется.",
     "path": "/kidnapping/kidnappersDead/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Requesting escort to <questGiver>.",
+    "value": "Запрашиваю сопровождение к <questGiver>.",
     "path": "/kidnapping/followHome/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Droden Navigation System unavailable. Requesting escort to <questGiver>.",
+    "value": "Навигационная система Droden недоступна. Запрашиваю сопровождение к <questGiver>.",
     "path": "/escort/found/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Droden Navigation System corrupted. Requesting escort to <questGiver>.",
+    "value": "Навигационная система Дродена повреждена. Запрашиваю сопровождение к <questGiver>.",
     "path": "/escort/found/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Accepting delivery of goods. Proffering <receivedItems> requested by <questGiver>.",
+    "value": "Прием доставки товара. Предложение <receivedItems> по запросу <questGiver>.",
     "path": "/barter/trade/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Expecting delivery.",
+    "value": "Ожидаем доставку.",
     "path": "/escort_trade/collectDelivery/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Providing delivery.",
+    "value": "Обеспечение доставки.",
     "path": "/escort_trade/provideDelivery/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Vas Vha'leih. This unit was ordered by <questGiver> to fight the <enemy>.",
+    "value": "Вас Вха'лейх. <questGiver> приказал этому отряду сражаться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> ordered this unit to offer assistance in fighting the <enemy>.",
+    "value": "<questGiver> приказал этому отряду оказать помощь в борьбе с <врагом>.",
     "path": "/kill_npcs/assistantIntro/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Unit surrenders. Requesting assailant to cease attacking.",
+    "value": "Отряд сдается. Просьба к нападавшему прекратить нападение.",
     "path": "/kill_npc/surrender/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Overwriting surrender. Engaging.",
+    "value": "Перезапись капитуляции. Привлечение.",
     "path": "/kill_npc/betray/droden/default/0",
     "op": "replace"
   },
   {
-    "value": "Surrender protocol corrupted. Re-engaging.",
+    "value": "Протокол сдачи поврежден. Повторное вовлечение.",
     "path": "/kill_npc/betray/droden/default/1",
     "op": "replace"
   },
   {
-    "value": "Please take this reply back to <questGiver>.",
+    "value": "Пожалуйста, верните этот ответ <questGiver>.",
     "path": "/share_secret/pleaseTakeReply/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Put that <item> away! Tell <questGiver> I'll do whatever they want!",
+    "value": "Уберите этот <предмет>! Скажите <questGiver>, что я сделаю все, что они захотят!",
     "path": "/intimidate/intimidated/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Why would I do what <questGiver> wants? Go bother someone else.",
+    "value": "Зачем мне делать то, что хочет <questGiver>? Иди беспокой кого-нибудь другого.",
     "path": "/intimidate/notIntimidated/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver>'s being an idiot. I'll not do as they say.",
+    "value": "<questGiver> ведет себя идиотом. Я не буду делать, как они говорят.",
     "path": "/intimidate/notIntimidated/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Well, if <questGiver> is really willing to go this far, I guess I'll take it.",
+    "value": "Что ж, если <questGiver> действительно готов зайти так далеко, думаю, я приму это.",
     "path": "/bribe/giftAccepted/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I still don't know what <questGiver> wants from me...",
+    "value": "Я до сих пор не знаю, чего хочет от меня <questGiver>...",
     "path": "/bribe/giftAccepted2/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Hey, could you place this somewhere in my home?",
+    "value": "Эй, не мог бы ты разместить это где-нибудь у меня дома?",
     "path": "/bribe/requestAdditionToHouse/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "This will go great with the rest of my things! Can you place it down somewhere?",
+    "value": "Это будет отлично сочетаться с остальными моими вещами! Можете ли вы положить его куда-нибудь?",
     "path": "/bribe/requestAdditionToHouse/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Wow, thanks! Be sure to give my thanks to <questGiver>!",
+    "value": "Вау, спасибо! Обязательно передайте мою благодарность <questGiver>!",
     "path": "/gift/giftAccepted/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, tell <questGiver> I really love their gift!",
+    "value": "Пожалуйста, скажите <questGiver>, что мне очень понравился их подарок!",
     "path": "/gift/giftAccepted/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is such an awesome person!",
+    "value": "<questGiver> такой замечательный человек!",
     "path": "/gift/giftAccepted2/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Hey, could you place this gift somewhere amongst my things?",
+    "value": "Эй, не мог бы ты положить этот подарок куда-нибудь среди моих вещей?",
     "path": "/gift/requestAdditionToHouse/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Would you place this gift in my home somewhere?",
+    "value": "Вы бы поместили этот подарок где-нибудь у меня дома?",
     "path": "/gift/requestAdditionToHouse/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Please take this <item> back! I never meant to steal, only borrow it!",
+    "value": "Пожалуйста, заберите этот <предмет> обратно! Я никогда не хотел воровать, только одолжить!",
     "path": "/return_stolen/objectTaken/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Alright, you got me! Just take this <item> back already...",
+    "value": "Хорошо, ты меня понял! Просто заберите уже этот <предмет> обратно...",
     "path": "/return_stolen/objectTaken/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I'll pay the fine, alright.",
+    "value": "Я заплачу штраф, хорошо.",
     "path": "/collect_fine/fineCollected/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> that <questGiver> asked for.",
+    "value": "Вот <item>, который запросил <questGiver>.",
     "path": "/collect_gift/giftProvided/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Please, take this. It's the <item> that <questGiver> wanted.",
+    "value": "Пожалуйста, возьмите это. Это тот <item>, который хотел <questGiver>.",
     "path": "/collect_gift/giftProvided/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Here is the <item> you asked me for.",
+    "value": "Вот <item>, о котором вы меня просили.",
     "path": "/request_craft/giftProvided/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Take this <item>. I think it'll do the job.",
+    "value": "Возьмите этот <предмет>. Я думаю, что это сработает.",
     "path": "/request_craft/giftProvided/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Sure thing, let <questGiver> know they can borrow the <item> for as long as they need.",
+    "value": "Конечно, сообщите <questGiver>, что они могут одолжить <item> на столько, сколько им нужно.",
     "path": "/borrow/giftProvided/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "If <questGiver> needs my <item>, they borrow it for sure.",
+    "value": "Если <questGiver> понадобится мой <item>, он обязательно его одолжит.",
     "path": "/borrow/giftProvided/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Just take this <item>! I just want to be left alone!",
+    "value": "Просто возьми этот <предмет>! Я просто хочу, чтобы меня оставили в покое!",
     "path": "/extort/giftProvided/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Why won't <questGiver> leave me alone!? Just take the <item> already!",
+    "value": "Почему <questGiver> не оставляет меня в покое!? Просто возьмите уже <предмет>!",
     "path": "/extort/giftProvided/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I have everything I need now! I'll be just a moment.",
+    "value": "Теперь у меня есть все, что мне нужно! Я буду на минутку.",
     "path": "/hat/crafting/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I'll have it ready in a bit!",
+    "value": "Я приготовлю его чуть позже!",
     "path": "/hat/crafting/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Here you go, take this back to <questGiver>.",
+    "value": "Вот, отнеси это <questGiver>.",
     "path": "/hat/crafted/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Alright, I'm done! Take this back to <questGiver>, please.",
+    "value": "Хорошо, я закончил! Отнесите это <questGiver>, пожалуйста.",
     "path": "/hat/crafted/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "I have everything I need now! I'll be just a moment.",
+    "value": "Теперь у меня есть все, что мне нужно! Я буду на минутку.",
     "path": "/helmet/crafting/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I'll have it ready in a bit!",
+    "value": "Я приготовлю его чуть позже!",
     "path": "/helmet/crafting/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Here you go, take this back to <questGiver>.",
+    "value": "Вот, отнеси это <questGiver>.",
     "path": "/helmet/crafted/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Alright, I'm done! Take this back to <questGiver>, please.",
+    "value": "Хорошо, я закончил! Отнесите это <questGiver>, пожалуйста.",
     "path": "/helmet/crafted/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "This is exactly what I was looking for. Here's <questGiver>'s order.",
+    "value": "Это именно то, что я искал. Вот приказ <questGiver>.",
     "path": "/new_stock/trade/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "My hero! Thank you for the rescue!",
+    "value": "Мой герой! Спасибо за спасение!",
     "path": "/kidnapping/kidnappersDead/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I wouldn't have made it without you, thanks!",
+    "value": "Без вас я бы не справился, спасибо!",
     "path": "/kidnapping/kidnappersDead/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "Could you take me back to <questGiver>?",
+    "value": "Не могли бы вы отвезти меня обратно в <questGiver>?",
     "path": "/kidnapping/followHome/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I'm still a bit shaken... Could you accompany me back to <questGiver>?",
+    "value": "Я все еще немного потрясен... Не могли бы вы проводить меня обратно в <questGiver>?",
     "path": "/kidnapping/followHome/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "The batteries on my pathfinder ran out... Can you bring me back to <questGiver>?",
+    "value": "Батарейки в моем следопыте разрядились... Можете ли вы вернуть меня в <questGiver>?",
     "path": "/escort/found/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "That's all I needed, thanks! Take the <receivedItems> <questGiver> needed.",
+    "value": "Это все, что мне было нужно, спасибо! Возьмите необходимый <receivedItems> <questGiver>.",
     "path": "/barter/trade/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Do you have a package for me?",
+    "value": "У вас есть посылка для меня?",
     "path": "/escort_trade/collectDelivery/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Here's the goods you asked for. Take good care of it!",
+    "value": "Вот товар, который вы просили. Позаботьтесь об этом!",
     "path": "/escort_trade/provideDelivery/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Hey there. <questGiver> asked me to help you fight the <enemy>.",
+    "value": "Привет. <questGiver> попросил меня помочь вам сразиться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> hired me to help you fight the <enemy>.",
+    "value": "<questGiver> нанял меня, чтобы я помог вам сразиться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "You've defeated me! Please, I surrender!",
+    "value": "Ты победил меня! Пожалуйста, я сдаюсь!",
     "path": "/kill_npc/surrender/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "I don't want to fight any longer! I surrender!",
+    "value": "Я не хочу больше драться! Я подчиняюсь!",
     "path": "/kill_npc/surrender/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "You fool, I'd never surrender!",
+    "value": "Дурак, я бы никогда не сдался!",
     "path": "/kill_npc/betray/aegi/default/0",
     "op": "replace"
   },
   {
-    "value": "Ha! Didn't expect this, did you?",
+    "value": "Ха! Не ожидал этого, да?",
     "path": "/kill_npc/betray/aegi/default/1",
     "op": "replace"
   },
   {
-    "value": "You take reply back to <questGiver>. Akki grateful!",
+    "value": "Вы возвращаете ответ <questGiver>. Акки благодарен!",
     "path": "/share_secret/pleaseTakeReply/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Get <item> out of face-Akki! Akki do what <questGiver> want!",
+    "value": "Убери <предмет> от лица-Акки! Акки делает то, что хочет <questGiver>!",
     "path": "/intimidate/intimidated/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki no do what <questGiver> wants. Bugger off.",
+    "value": "Акки нет, делай то, что хочет <questGiver>. Отвали.",
     "path": "/intimidate/notIntimidated/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is fool. Akki no do what they want. Akki do what Akki want!",
+    "value": "<questGiver> дурак. Акки нет, делай, что хотят. Акки делай то, что хочет Акки!",
     "path": "/intimidate/notIntimidated/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki accept bribe-<questGiver>. Akki like being paid.",
+    "value": "Акки принимает взятку-<questGiver>. Акки нравится, когда ему платят.",
     "path": "/bribe/giftAccepted/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki still no know what <questGiver> want...",
+    "value": "Акки до сих пор не знает, чего хочет <questGiver>...",
     "path": "/bribe/giftAccepted2/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You place this is home-Akki. Akki grateful.",
+    "value": "Вы размещаете это дом-Акки. Акки благодарен.",
     "path": "/bribe/requestAdditionToHouse/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "This fit in home-Akki. You place it somewhere, yes?",
+    "value": "Это вписывается в дом-Акки. Вы поместите его куда-нибудь, да?",
     "path": "/bribe/requestAdditionToHouse/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki happy! You thank <questGiver>!",
+    "value": "Акки счастлива! Вы благодарите <questGiver>!",
     "path": "/gift/giftAccepted/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You tell <questGiver> Akki like-like it!",
+    "value": "Ты скажи <questGiver> Акки, что понравилось!",
     "path": "/gift/giftAccepted/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "<questGiver> is person-good. Nokki make Akki happy!",
+    "value": "<questGiver> хорош для человека. Нокки сделай Акки счастливой!",
     "path": "/gift/giftAccepted2/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You place gift-Akki in home-Akki, yes?",
+    "value": "Ты поместишь подарок-Акки в дом-Акки, да?",
     "path": "/gift/requestAdditionToHouse/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki like gift! You place in home-Akki?",
+    "value": "Акки как подарок! Вы размещаете в доме-Акки?",
     "path": "/gift/requestAdditionToHouse/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki no steal <item>! Only borrow!",
+    "value": "Акки, не укради <предмет>! Только взаймы!",
     "path": "/return_stolen/objectTaken/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki stole <item>, yes... Now you catch Akki, take <item> back. Akki done with it anyway.",
+    "value": "Акки украл <предмет>, да... Теперь ты поймаешь Акки и заберешь <предмет> обратно. Акки все равно с этим покончил.",
     "path": "/return_stolen/objectTaken/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki pay fine, but Akki no happy about it.",
+    "value": "Акки платит штраф, но Акки этому не рад.",
     "path": "/collect_fine/fineCollected/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take <item> that <questGiver> want.",
+    "value": "Вы берете <item>, который хочет <questGiver>.",
     "path": "/collect_gift/giftProvided/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki give you <item>. <questGiver> want it.",
+    "value": "Акки даст тебе <предмет>. <questGiver> хочет этого.",
     "path": "/collect_gift/giftProvided/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki finish <item>. You take it now, yes?",
+    "value": "Акки закончил <предмет>. Вы возьмете это сейчас, да?",
     "path": "/request_craft/giftProvided/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take <item>. Akki just finish it.",
+    "value": "Вы берете <предмет>. Акки, просто закончи это.",
     "path": "/request_craft/giftProvided/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki let <questGiver> borrow <item>.",
+    "value": "Акки позволил <questGiver> одолжить <предмет>.",
     "path": "/borrow/giftProvided/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "If <questGiver> want <item>, <questGiver> can have it. For now.",
+    "value": "Если <questGiver> нужен <item>, <questGiver> может его получить. На данный момент.",
     "path": "/borrow/giftProvided/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You take <item>! Akki just want to be left alone!",
+    "value": "Вы берете <предмет>! Акки просто хочет, чтобы ее оставили в покое!",
     "path": "/extort/giftProvided/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> should leave Akki alone! You take <item>, Akki no want it anyway!",
+    "value": "<questGiver> должен оставить Акки в покое! Ты берешь <предмет>, Акки все равно не хочет его!",
     "path": "/extort/giftProvided/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "That all Akki need. You wait.",
+    "value": "Это все, что нужно Акки. Подожди.",
     "path": "/hat/crafting/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You wait while Akki work.",
+    "value": "Подожди, пока Акки поработает.",
     "path": "/hat/crafting/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki done now! You take it back to <questGiver>.",
+    "value": "Акки готово! Вы возвращаете его <questGiver>.",
     "path": "/hat/crafted/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take this to <questGiver>, Akki done crafting.",
+    "value": "Отнеси это <questGiver>, Акки закончил работу.",
     "path": "/hat/crafted/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "That all Akki need. You wait.",
+    "value": "Это все, что нужно Акки. Подожди.",
     "path": "/helmet/crafting/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You wait while Akki work.",
+    "value": "Подожди, пока Акки поработает.",
     "path": "/helmet/crafting/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki done now! You take it back to <questGiver>.",
+    "value": "Акки готово! Вы возвращаете его <questGiver>.",
     "path": "/helmet/crafted/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take this to <questGiver>, Akki done crafting.",
+    "value": "Отнеси это <questGiver>, Акки закончил работу.",
     "path": "/helmet/crafted/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki wanted that! You take order-<questGiver>.",
+    "value": "Акки хотел этого! Вы принимаете заказ-<questGiver>.",
     "path": "/new_stock/trade/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You hero! Akki safe now, Akki grateful.",
+    "value": "Ты герой! Акки теперь в безопасности, Акки благодарен.",
     "path": "/kidnapping/kidnappersDead/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki unarmed, you help! Akki like you.",
+    "value": "Акки безоружный, ты помоги! Акки, как ты.",
     "path": "/kidnapping/kidnappersDead/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki lost now. You take Akki to <questGiver>?",
+    "value": "Акки проиграл. Ты отвозишь Акки к <questGiver>?",
     "path": "/kidnapping/followHome/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take Akki to <questGiver>? Akki no know the way home...",
+    "value": "Ты отвозишь Акки к <questGiver>? Акки не знает дороги домой...",
     "path": "/kidnapping/followHome/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki wandering around, then suddenly Akki lost... You take Akki to <questGiver>?",
+    "value": "Акки бродит вокруг, а потом внезапно Акки теряется... Ты отвозишь Акки к <questGiver>?",
     "path": "/escort/found/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki wanted that, grateful. You take <receivedItems> to <questGiver>.",
+    "value": "Акки хотела этого и была благодарна. Вы передаете <receivedItems> <questGiver>.",
     "path": "/barter/trade/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You have package for Akki?",
+    "value": "У вас есть пакет для Акки?",
     "path": "/escort_trade/collectDelivery/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "You take these!",
+    "value": "Ты возьми это!",
     "path": "/escort_trade/provideDelivery/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki help you fight <enemy>! <questGiver> sent for Akki.",
+    "value": "Акки поможет тебе сразиться с <врагом>! <questGiver> послал за Акки.",
     "path": "/kill_npcs/assistantIntro/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> sent Akki to fight <enemy>.",
+    "value": "<questGiver> отправил Акки сражаться с <врагом>.",
     "path": "/kill_npcs/assistantIntro/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "Akki beaten! Akki give up, you win...",
+    "value": "Акки побит! Акки сдавайся, ты победил...",
     "path": "/kill_npc/surrender/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki no want to die! You win, Akki give up...",
+    "value": "Акки не хочу умирать! Ты выиграл, Акки сдавайся...",
     "path": "/kill_npc/surrender/akkimari/default/1",
     "op": "replace"
   },
   {
-    "value": "You fool, Akki trick you! Akki kill you now!",
+    "value": "Дурак, Акки тебя обманывает! Акки убью тебя сейчас!",
     "path": "/kill_npc/betray/akkimari/default/0",
     "op": "replace"
   },
   {
-    "value": "Akki trickster, fool you! You dead now!",
+    "value": "Акки обманщик, дурак! Ты теперь мертв!",
     "path": "/kill_npc/betray/akkimari/default/1",
     "op": "replace"
   }

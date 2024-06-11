@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Hull Panel",
+    "value": "Панель корпуса Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "value": "Прочные металлические пластины, часто используемые для строительства космических станций и кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observant. This material is durable enough for use in the construction of spacefaring vessels.",
+    "value": "Наблюдение. Этот материал достаточно прочный для использования в строительстве космических кораблей.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny sssmooth space metal.",
+    "value": "Блестящий гладкий космический металл.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some thick metal plating, looks mighty solid.",
+    "value": "Толстые металлические пластины, выглядят очень солидно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Hull plating. Generally used in the construction of spaceborne structures.",
+    "value": "Анализ завершен. Обшивочные панели. Обычно используются для строительства космических структур.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-hull for ships. Keeps Akki safe from the void.",
+    "value": "Панель корпуса для кораблей. Защищает акки от пустоты.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

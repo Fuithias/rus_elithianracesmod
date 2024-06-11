@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Goblet",
+    "value": "Акрис Кубок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A goblet filled with a nutritious liquid.",
+    "value": "Кубок, наполненный питательной жидкостью.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A goblet full of some weird liquid. I'm not sure if it's safe to drink.",
+    "value": "Кубок, полный какой-то странной жидкости. Я не уверен, что это безопасно пить.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Whatever's in this goblet, I'm not drinking it.",
+    "value": "Что бы ни было в этом кубке, я это не пью.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Drink looksss odd. Floran ssshould not drink it.",
+    "value": "Напиток выглядит странно. Флорану не следует это пить.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Disgusted. The liquid in this goblet smells too strongly.",
+    "value": "Отвращение. Жидкость в этом кубке пахнет слишком сильно.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I really shouldn't drink that.",
+    "value": "Мне действительно не следует это пить.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I do not think this is safe to drink.",
+    "value": "Я не думаю, что это безопасно пить.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I shouldn't drink this.",
+    "value": "Я не должен это пить.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This does not look safe to drink.",
+    "value": "Это не выглядит безопасным для питья.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of alien drink. The smell alone sickens me.",
+    "value": "Какой-то инопланетный напиток. Один только запах меня тошнит.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I can't identify the liquid in this goblet.",
+    "value": "Я не могу определить жидкость в этом кубке.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Alien drink. Highly incompatible with Avikan biology.",
+    "value": "Анализ завершен. Чужой напиток. Крайне несовместим с биологией Авикан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki thirsty. Drink-delicious!",
+    "value": "Акки хочет пить. Напиток-вкусно!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

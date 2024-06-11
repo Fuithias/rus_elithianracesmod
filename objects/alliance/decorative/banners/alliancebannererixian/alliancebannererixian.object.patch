@@ -1,31 +1,31 @@
 [
   {
-    "value": "Erixian Republic Banner",
+    "value": "Знамя Эриксийской Республики",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Erixian Republic.",
+    "value": "Знамя, украшенное гербом Эриксийской Республики.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Erixian Republic iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эриксийской Республики.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki know this is symbol Republic-Erixian.",
+    "value": "Акки знаю, что это символ Республики-Эриксиан.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

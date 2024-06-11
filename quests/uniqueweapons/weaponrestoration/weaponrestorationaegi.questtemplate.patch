@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Excalibur Reborn",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Возрождение Экскалибура",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Let me see that weapon of yours! It's an old Excalibur-class shieldblade, one of only very few ever made... I could repair it for you, if you have the right materials. ^green;Bring me ^orange;12 pieces of Integrated Allosteel^reset;, and I will start reforging the blade.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Позвольте мне взглянуть на это оружие! Это старый щит-меч класса экскалибур, один из немногих когда-либо созданных... Я мог бы его починить, если у вас есть нужные материалы. ^green;Принесите мне ^orange;12 кусков интегрированной аллостали^reset;, и я начну перековывать лезвие.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "That's just what I needed, thanks! I'll start working on the blade, but I need you to find some more materials before I can completely restore this weapon to its former glory.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Это именно то, что мне нужно, спасибо! Я начну работать над лезвием, но мне нужно, чтобы вы нашли ещё несколько материалов, прежде чем я смогу полностью восстановить это оружие в его былую славу.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Хадаеко ^reset;в ^orange;посольстве Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

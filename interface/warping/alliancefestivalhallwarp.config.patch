@@ -1,11 +1,11 @@
 [
   {
-    "value": "Landing Festival Hall",
+    "value": "Зал праздника Приземления",
     "path": "/destinations/name",
     "op": "replace"
   },
   {
-    "value": "Elithia",
+    "value": "Элития",
     "path": "/destinations/planetName",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Fabric Awning",
+    "value": "Тканевый тент Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A decorated tent awning, made of fabric.",
+    "value": "Украшенный тент-палатка из ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A colourful tent awning.",
+    "value": "Яркий тент-палатка.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tent awning, decorated with a simple pattern.",
+    "value": "Палаточный тент, украшенный простым узором.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss bright coloursss.",
+    "value": "Флорану нравятся яркие цвета.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A tent entrance.",
+    "value": "Наблюдение. Вход в палатку.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful tent awning. The fabric is quite well crafted.",
+    "value": "Яркий тент-палатка. Ткань сделана достаточно хорошо.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Such vivid colours.",
+    "value": "Такие яркие цвета.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A tent awning, made of colourful fabric.",
+    "value": "Тент-палатка из цветной ткани.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Made of fabric, this sort of awning is often used in the tents of our Elders.",
+    "value": "Тканевый тент такого типа часто используется в палатках наших Старейшин.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A tent awning made of fabric. It features vivid colours.",
+    "value": "Тент-палатка из ткани. Он отличается яркими цветами.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric awning. Provides protection against desert winds.",
+    "value": "Тканевый тент. Обеспечивает защиту от ветров пустыни.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Awning for tent, Akki go inside.",
+    "value": "Тент для палатки, Акки заходим внутрь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

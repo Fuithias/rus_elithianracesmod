@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Leather Stall",
+    "value": "Кожаный ларек Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall full of leather and fabric.",
+    "value": "Рыночный прилавок, полный кожи и ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Leather rags and pieces of colourful fabric.",
+    "value": "Кожаные тряпки и кусочки разноцветной ткани.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "So much fabric!.",
+    "value": "Столько ткани!.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leathersss for Floran?",
+    "value": "Кожасс для Флорана?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A lot of leather and fabric.",
+    "value": "Заявление. Много кожи и ткани.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what I could craft with all of this?",
+    "value": "Интересно, что из всего этого можно сделать?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "There's much that can be crafted with this.",
+    "value": "С помощью этого можно многое сделать.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder how many animals had to be slain to find this much leather...",
+    "value": "Интересно, сколько животных пришлось убить, чтобы найти такое количество кожи...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Leather and fabric, for crafting clothes, tents and so much more.",
+    "value": "Кожа и ткань для изготовления одежды, палаток и многого другого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This market stall offers various leather items.",
+    "value": "Этот рыночный прилавок предлагает различные изделия из кожи.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Leather items detected: Avikan clothing. Rugs. Tapestries. Sheets.",
+    "value": "Обнаружены кожаные изделия: Одежда Авикан. Коврики. Гобелены. Листы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cloth and leather. Akki use for weaving.",
+    "value": "Ткань и кожа. Акки использую для плетения.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

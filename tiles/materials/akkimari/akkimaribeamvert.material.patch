@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Beam Vertical",
+    "value": "Вертикальная балка Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A strong metal beam.",
+    "value": "Прочная металлическая балка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. This metal beam looks very sturdy.",
+    "value": "Наблюдение. Эта металлическая балка выглядит очень прочной.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Long beamsss made of metal.",
+    "value": "Длинные балки из металла.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Just a big metal beam.",
+    "value": "Просто большая металлическая балка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal beam. Likely a support structure.",
+    "value": "Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Beams-strong keep houses-Akkimari standing.",
+    "value": "Балка-прочная держит дома-аккимари стоящими.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

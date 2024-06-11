@@ -1,31 +1,31 @@
 [
   {
-    "value": "Starsight Inn Bar",
+    "value": "Старсайт Инн Бар",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The perfect place to get a drink.",
+    "value": "Идеальное место, чтобы выпить.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Let'sss get a drink.",
+    "value": "Давай выпьем.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Perhaps this bar offers more than just drinks.",
+    "value": "Любопытный. Возможно, этот бар предлагает больше, чем просто напитки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Starsight Inn Bar. Popularity: high.",
+    "value": "Анализ. Бар Старсайт Инн. Популярность: высокая.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki get some drink here. Get drunk, have fun.",
+    "value": "Акки, выпей здесь. Напивайтесь, веселитесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

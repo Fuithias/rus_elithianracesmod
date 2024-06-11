@@ -1,11 +1,11 @@
 [
   {
-    "value": "A power core for Circuit armour. Increases the user's energy reserves.",
+    "value": "Силовое ядро ​​для кольцевой брони. Увеличивает запасы энергии пользователя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Circuit Core-A",
+    "value": "Цепь Core-A",
     "path": "/shortdescription",
     "op": "replace"
   }

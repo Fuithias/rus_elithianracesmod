@@ -1,71 +1,71 @@
 [
   {
-    "value": "Small Akris Table",
+    "value": "Маленький стол Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small scrappy table.",
+    "value": "Маленький обшарпанный столик.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A small table.",
+    "value": "Небольшой столик.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Just a small table.",
+    "value": "Просто маленький столик.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssimple table.",
+    "value": "Простая таблица.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Bored. Just a basic table.",
+    "value": "Скучающий. Просто базовый стол.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This table is really dirty.",
+    "value": "Этот стол очень грязный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Someone should clean this table.",
+    "value": "Кто-то должен убрать этот стол.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some small table. Look like someone spilled their drink here.",
+    "value": "Какой-то маленький столик. Похоже, кто-то пролил здесь свой напиток.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This small table is in need of some cleaning.",
+    "value": "Этот маленький столик нуждается в чистке.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple table. It looks rough.",
+    "value": "Простой стол. Это выглядит грубо.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A small, simple but scrappy table.",
+    "value": "Маленький, простой, но лоскутный столик.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien table.",
+    "value": "Обнаружен стол пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Table-small, but table-strong. Akki knows.",
+    "value": "Стол-маленький, но стол-крепкий. Акки знает.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

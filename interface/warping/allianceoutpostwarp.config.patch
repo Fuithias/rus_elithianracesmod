@@ -1,11 +1,11 @@
 [
   {
-    "value": "Creon Embassy",
+    "value": "Посольство Креона",
     "path": "/destinations/name",
     "op": "replace"
   },
   {
-    "value": "Elithia",
+    "value": "Элития",
     "path": "/destinations/planetName",
     "op": "replace"
   }

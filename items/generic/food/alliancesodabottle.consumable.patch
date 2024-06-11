@@ -1,11 +1,11 @@
 [
   {
-    "value": "An ice-cold bottle of Froza, the Union's most popular soda.",
+    "value": "Ледяная бутылка «Фрозы», самой популярной газировки в Союзе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Froza Bottle",
+    "value": "Бутылка Фрозы",
     "path": "/shortdescription",
     "op": "replace"
   }

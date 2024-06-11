@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Consuming the Stars III",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Поглощение Звёзд III",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Now comes the hard part: you will need to reactivate that weapon core. You can only do so at a ^orange;Jumpgate Uplink Station^reset;, but few still exist. I have heard rumours of a place called ^orange;Vhos Avha'las ^reset;that might hold such a station. ^green;Perhaps you can find it by exploring space and looking for peculiar anomalies.^reset;",
-      "path": "/text",
-      "op": "replace"
+    "value": "Теперь начинается самое сложное: вам нужно будет реактивировать ядро этого оружия. Вы можете сделать это только на ^orange;Станции Связи скачврат^reset;, но таких осталось немного. Я слышал слухи о месте под названием ^orange;Вос Авха'лас^reset;, где может быть такая станция. ^green;Возможно, вы сможете найти его, исследуя космос и ища странные аномалии.^reset;",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Incredible, you managed to reactivate the core! Now all that is left is to assemble the final weapon.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Невероятно, вам удалось реактивировать ядро! Теперь осталось только собрать окончательное оружие.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Адако ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

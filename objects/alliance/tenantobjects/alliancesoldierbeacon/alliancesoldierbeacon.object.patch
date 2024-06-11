@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Soldier Beacon",
+    "value": "Маяк солдата Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This beacon could attract an armed Alliance tenant in combination with a colony deed.",
+    "value": "Этот маяк может привлечь вооруженного арендатора Альянса в сочетании с документом о колонии.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A beacon of some sort. It only seems to attract tenants.",
+    "value": "Маяк какой-то. Это только кажется, что привлекает арендаторов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon attracts armed tenants. How convenient!",
+    "value": "Этот маяк привлекает вооруженных арендаторов. Как удобно!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Beacon callss armed tenantss.",
+    "value": "Маяк вызывает вооруженных жильцов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. The signal coming from this beacon will attract armed tenants.",
+    "value": "Наблюдение. Сигнал, исходящий от этого маяка, привлечет вооруженных жильцов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon will attract armed tenants. I could build my own army!",
+    "value": "Этот маяк привлечет вооруженных арендаторов. Я мог бы построить свою собственную армию!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon will attract an alien warrior. Perhaps I might learn some new skills from them.",
+    "value": "Этот маяк привлечет инопланетного воина. Возможно, я смогу научиться у них некоторым новым навыкам.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A beacon for callin' armed tenants.",
+    "value": "Маяк для вызова вооруженных арендаторов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon will attract armed Alliance tenants.",
+    "value": "Этот маяк привлечет вооруженных арендаторов Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A beacon for summoning an armed alien tenant. I'd better be careful.",
+    "value": "Маяк для вызова вооруженного инопланетного арендатора. Мне лучше быть осторожным.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This beacon summons Alliance guards. I am not sure if it's a good idea to use it.",
+    "value": "Этот маяк призывает стражу Альянса. Я не уверен, стоит ли его использовать.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected beacon. Use in combination with a colony deed to summon armed Alliance tenants.",
+    "value": "Обнаружен маяк. Используйте в сочетании с документом о колонии для вызова вооруженных арендаторов Альянса.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Beacon call in tenants, tenants fight for Akki.",
+    "value": "Маяк звонит жильцам, жильцы борются за Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

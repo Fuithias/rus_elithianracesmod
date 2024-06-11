@@ -1,42 +1,42 @@
 [
   {
-    "value": "Thick Alliance Platform",
+    "value": "Толстая платформа Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A thick metal platform. Very sturdy.",
+    "value": "Толстая металлическая платформа. Очень прочная.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Measuring. This platform is thicker than most.",
+    "value": "Измерение. Эта платформа толще большинства.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Thick platform, for basshing skulsss into.",
+    "value": "Толстая платформа, для разбивания черепов.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Seems like a mighty thick platform.",
+    "value": "Похоже, это очень толстая платформа.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Thick metal platform.",
+    "value": "Анализ завершен. Толстая металлическая платформа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Platform-thick, must be heavy.",
+    "value": "Платформа-Толстая, должно быть тяжелая.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
     "op": "replace",
     "path": "/category",
-    "value": "Supports"
+    "value": "Поддержки"
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "value": "Прочное металлическое покрытие, часто используемое при строительстве космических станций и космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Hull Panel Variant",
+    "value": "Вариант панели корпуса Авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

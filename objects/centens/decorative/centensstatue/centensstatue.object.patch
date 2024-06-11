@@ -1,71 +1,71 @@
 [
   {
-    "value": "Ce'tennan Statue",
+    "value": "Статуя Се'теннан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A statue depicting a Centensian.",
+    "value": "Статуя, изображающая центенсиана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A statue of an alien. I can't say that I know this species.",
+    "value": "Статуя инопланетянина. Не могу сказать, что знаю этот вид.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "What sort of creature does this depict?",
+    "value": "Что за существо здесь изображено?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny sstatue...",
+    "value": "Сс блестящая статуя...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What sort of metal is this statue made of?",
+    "value": "Любопытный. Из какого металла сделана эта статуя?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A nicely crafted statue - I could use something like this as home decoration!",
+    "value": "Красиво сделанная статуя — я мог бы использовать что-то подобное в качестве украшения дома!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Such craftsmanship! This statue must have taken years to carve!",
+    "value": "Такое мастерство! Должно быть, на создание этой статуи ушли годы!",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "What sort of creature might this be, then?",
+    "value": "Что же это за существо тогда может быть?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Centens were master craftsmen - this statue alone is proof of it.",
+    "value": "Центены были искусными мастерами, и одна эта статуя является тому подтверждением.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An Old One, immortalized in a Hyverium statue. It will never decay.",
+    "value": "Старик, увековеченный в статуе Гивериума. Оно никогда не развалится.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Statues of the Centens will never decay - Hyverium makes certain of that.",
+    "value": "Статуи Центенсов никогда не разрушатся – в этом уверен Гивериум.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing statue. Detected Centensian craftsmanship.",
+    "value": "Анализ статуи. Обнаружено центенское мастерство.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-maker-statue, pretty-very.",
+    "value": "Статуя бога-творца, очень-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Wall Mounted TV",
+    "value": "Альянс Настенный Телевизор",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A TV showing an Alliance Network news channel.",
+    "value": "Телевизор показывает новостной канал Alliance Network.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A TV playing a news channel.",
+    "value": "Телевизор, транслирующий новостной канал.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A TV tuned to a news network.",
+    "value": "Телевизор, настроенный на новостную сеть.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sscreen showss pretty sscenes.",
+    "value": "На экране показаны красивые сцены.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. The locations shown on this channel are beautiful!",
+    "value": "Взволнованный. Локации, показанные на этом канале, прекрасны!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I would like to visit the places shown on this channel.",
+    "value": "Я хотел бы посетить места, показанные на этом канале.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A news channel, with pictures of beautiful locations.",
+    "value": "Новостной канал с фотографиями красивых мест.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A news channel, boring...",
+    "value": "Новостной канал, скучный...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This TV is tuned to an Alliance Network news channel.",
+    "value": "Этот телевизор настроен на новостной канал Alliance Network.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien monitor showing pictures of various locations. Wait, is that an Avikan colony?",
+    "value": "Инопланетный монитор, показывающий изображения различных локаций. Подождите, это колония Авикан?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This TV is stuck on a single channel.",
+    "value": "Этот телевизор застрял на одном канале.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien monitor. Forwarding information to the Vanguard.",
+    "value": "Обнаружен инопланетный монитор. Передача информации в Авангард.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Footage-alien, shows places-alien. Akki want to go there.",
+    "value": "Кадры-инопланетные, места показаны-инопланетные. Акки хочет туда поехать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

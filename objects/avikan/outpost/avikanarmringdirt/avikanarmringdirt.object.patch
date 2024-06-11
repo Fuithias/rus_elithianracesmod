@@ -1,36 +1,36 @@
 [
   {
-    "value": "Lost Arm Ring",
+    "value": "Потерянное кольцо на руке",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pile of dirty muck. Perhaps there's something in it?",
+    "value": "Куча грязной грязи. Возможно, в этом что-то есть?",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "If Floran digss through muck, Floran might find something?",
+    "value": "Если Флоран покопается в грязи, Флоран сможет что-нибудь найти?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Disgusted. I'd rather not touch that muck.",
+    "value": "Отвращение. Я бы предпочел не трогать эту гадость.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is it just me, or do I see somethin' shiny in that pile o' muck?",
+    "value": "Мне кажется, или я вижу что-то блестящее в этой куче дерьма?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected sewage waste. Scanning for additional items...",
+    "value": "Обнаружены канализационные отходы. Сканирование дополнительных элементов...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Muck-icky. Akki not want to get hands-dirty.",
+    "value": "Отвратительно. Акки не хочет пачкать руки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

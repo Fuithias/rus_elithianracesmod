@@ -1,11 +1,11 @@
 [
   {
-    "value": "A polished metal panel, decorated by a colourful stripe.",
+    "value": "Полированная металлическая панель, украшенная разноцветной полосой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Striped Alliance Panel",
+    "value": "Полосатая панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

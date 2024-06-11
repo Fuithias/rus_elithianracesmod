@@ -1,36 +1,36 @@
 [
   {
-    "value": "Froza Poster",
+    "value": "Плакат «Фроза»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting Froza soda.",
+    "value": "Плакат, рекламирующий газировку «Фроза».",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran wantsss to know what Froza iss.",
+    "value": "Флоран хочет знать, что такое Фроза.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Thirsty. I've heard Froza makes great soda.",
+    "value": "Испытывающий жажду. Я слышал, что Фроза делает отличную газировку.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Froza is probably the most popular soda in the Union.",
+    "value": "«Фроза», наверное, самая популярная газировка в Союзе.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

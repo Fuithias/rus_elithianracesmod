@@ -1,11 +1,11 @@
 [
   {
-    "value": "A transparent multi-coloured crystal.",
+    "value": "Прозрачный разноцветный кристалл.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Glass",
+    "value": "Акрис Гласс",
     "path": "/shortdescription",
     "op": "replace"
   }

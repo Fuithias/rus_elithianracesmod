@@ -1,71 +1,71 @@
 [
   {
-    "value": "^orange;Avikan Cooking Plate^white;",
+    "value": "^orange;Плита для приготовления пищи Авикан^белая;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Used to prepare various food items.",
+    "value": "Используется для приготовления различных блюд.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A bone plate and some fire. I guess that'll do for cooking...",
+    "value": "Костяная пластина и немного огня. Думаю, для готовки этого хватит...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I could prepare a good meal here.",
+    "value": "Я мог бы приготовить здесь хорошую еду.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran prepare food with bare handsss. Fire only makesss food tasste better.",
+    "value": "Флоран готовит еду голыми руками. Огонь только делает еду вкуснее.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Inspired. I can prepare great dishes using this cooking plate!",
+    "value": "Вдохновленный. С помощью этой плиты я могу готовить великолепные блюда!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A pretty basic setup, but it's enough to prepare a good variety of dishes.",
+    "value": "Довольно простая установка, но ее достаточно, чтобы приготовить разнообразные блюда.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Not the most graceful solution, but this plate should still suffice for cooking.",
+    "value": "Не самое изящное решение, но для приготовления еды этой тарелки все равно должно хватить.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I could cook up a storm on this 'ere thing.",
+    "value": "Я мог бы устроить бурю из-за этой штуки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Many would call such a cooking plate priminitive, but I can still prepare plenty of food here.",
+    "value": "Многие назовут такую ​​плиту примитивной, но я все равно могу приготовить здесь много еды.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Cooking in the style of my nomadic ancestors. They would be proud.",
+    "value": "Готовлю в стиле моих предков-кочевников. Они бы гордились.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A very basic cooking solution, but I cannot deny its effectiveness.",
+    "value": "Очень простое кулинарное решение, но я не могу отрицать его эффективность.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected cooking plate. This unit can refuel using organic food.",
+    "value": "Обнаружена плита для приготовления пищи. Этот агрегат может заправляться, используя натуральные продукты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plate-bone for cooking food.",
+    "value": "Пластина-косточка для приготовления пищи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

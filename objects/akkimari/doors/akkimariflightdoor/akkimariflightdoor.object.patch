@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Flight Door",
+    "value": "Акрис Полетная Дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large metal door used in Akkimari flight bays. It only opens for vehicles.",
+    "value": "Большая металлическая дверь, используемая в полетных отсеках Аккимари. Он открывается только для транспортных средств.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A door that opens to vehicles.",
+    "value": "Дверь, открывающаяся для транспортных средств.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal door. It'll open for vehicles only.",
+    "value": "Прочная металлическая дверь. Он будет открыт только для транспортных средств.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran musst use vehicle to open thisss door.",
+    "value": "Флоран должен использовать машину, чтобы открыть эту дверь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. These doors only open to vehicles.",
+    "value": "Информирован. Эти двери открываются только для транспортных средств.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Looks like a door for a flight bay.",
+    "value": "Похоже на дверь в полетный отсек.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A rather crude metal door. I should be careful not to cut myself.",
+    "value": "Довольно грубая металлическая дверь. Мне следует быть осторожным, чтобы не порезаться.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This here door only opens to vehicles.",
+    "value": "Эта дверь открывается только для транспортных средств.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari flight bay door. It'll open only for vehicles.",
+    "value": "Дверь полетного отсека Аккимари. Он будет открыт только для транспортных средств.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien-built door. I'll need a vehicle to open it.",
+    "value": "Дверь, построенная пришельцами. Мне понадобится машина, чтобы открыть его.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Not very efficient, but this scrap metal door is quite effective.",
+    "value": "Не очень эффективно, но эта дверь из металлолома вполне эффективна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected flight bay door.",
+    "value": "Обнаружена дверь полетного отсека.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akkimari can fly Chaseflight through here.",
+    "value": "Аккимари может пролететь здесь на самолете Chaseflight.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

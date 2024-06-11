@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Chest",
+    "value": "Акрис Сундук",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rounded metal container from Akris.",
+    "value": "Закругленный металлический контейнер от Akris.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A rounded metal crate. How odd.",
+    "value": "Металлический ящик округлой формы. Как странно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This chest is like a metal bird nest.",
+    "value": "Этот сундук похож на металлическое птичье гнездо.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Strange crate holdsss sstrange goodiess.",
+    "value": "Странный ящик содержит странную вкуснятину.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. Why is this chest so rounded?",
+    "value": "Заинтригован. Почему эта грудь такая округлая?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Now that's an odd-looking chest.",
+    "value": "Вот это странный сундук.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A strange but elegant chest.",
+    "value": "Странный, но элегантный сундук.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda weird alien container. Not sure if I should open it.",
+    "value": "Какой-то странный инопланетный контейнер. Не уверен, стоит ли мне его открывать.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Akkimari chest, from the looks of it.",
+    "value": "Судя по всему, сундук Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This chest has a strange alien design.",
+    "value": "Этот сундук имеет странный инопланетный дизайн.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This container is not very efficient in its use of space.",
+    "value": "Этот контейнер не очень эффективно использует пространство.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chest-metal from home. Akkimari find goods inside.",
+    "value": "Сундук-металл из дома. Аккимари находит внутри товары.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

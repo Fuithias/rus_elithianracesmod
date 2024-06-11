@@ -1,11 +1,11 @@
 [
   {
-    "value": "A highly corrosive organic substance.",
+    "value": "Очень агрессивное органическое вещество.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vaash",
+    "value": "Вааш",
     "path": "/shortdescription",
     "op": "replace"
   }

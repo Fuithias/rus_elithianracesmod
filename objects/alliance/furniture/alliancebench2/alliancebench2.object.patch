@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Soft Bench",
+    "value": "Мягкая скамья Альянс",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable two-seater.",
+    "value": "Комфортный двухместный автомобиль.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The padding on this bench looks new.",
+    "value": "Обивка этой скамейки выглядит новой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Simplistic, but still comfortable.",
+    "value": "Упрощенно, но все же удобно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran preferss wooden bench.",
+    "value": "Флоран предпочитает деревянную скамейку.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Appreciative. I could use some rest.",
+    "value": "Благодарен. Мне не помешало бы немного отдохнуть.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A good old bench. Let's rest for a bit.",
+    "value": "Старая добрая скамейка. Давайте немного отдохнем.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A minimalistic, but very comfortable, bench.",
+    "value": "Минималистичная, но очень удобная скамейка.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I should rest a while.",
+    "value": "Мне следует немного отдохнуть.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simple, comfortable bench.",
+    "value": "Простая и удобная скамейка.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I don't like alien chairs much.",
+    "value": "Мне не очень нравятся инопланетные стулья.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This bench is in good condition.",
+    "value": "Эта скамейка в хорошем состоянии.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien chair.",
+    "value": "Обнаружен стул пришельца.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki sit, Akki relax.",
+    "value": "Акки сядь, Акки расслабься.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

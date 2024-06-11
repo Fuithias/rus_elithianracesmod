@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fast-growing grain harvested by the Union.",
+    "value": "Быстрорастущее зерно, собранное Союзом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Loftgrain",
+    "value": "Лофтгрейн",
     "path": "/shortdescription",
     "op": "replace"
   }

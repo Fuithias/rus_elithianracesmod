@@ -1,41 +1,41 @@
 [
   {
-    "value": "Nomada Token Exchange",
+    "value": "Обмен токенов Nomada",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "It seems I can exchange my materials for tokens of merit here.",
+    "value": "Кажется, здесь я могу обменять свои материалы на знаки отличия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran give materialss, Floran getsss tokenss here!",
+    "value": "Флоран дает материалы, Флоран получает жетоны здесь!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This merchant will exchange my materials for tokens of merit.",
+    "value": "Информирован. Этот торговец обменяет мои материалы на знаки отличия.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon this fella will give me tokens of merit for my materials.",
+    "value": "Думаю, этот парень наградит меня наградами за мои материалы.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This Droden will exchange my materials for tokens of merit.",
+    "value": "Этот Дроден обменяет мои материалы на знаки отличия.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Merchant detected. Offers tokens of merit for exchanged materials.",
+    "value": "Торговец обнаружен. Предлагает знаки отличия за обмененные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Robot give Akki tokens, if Akki give robot materials.",
+    "value": "Робот дает жетоны Акки, если Акки дает роботу материалы.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

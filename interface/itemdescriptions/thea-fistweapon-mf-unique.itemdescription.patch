@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Уникальный",
+    "value": "Важный",
     "path": "/customRarityLabel/value",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Arrak'ash Figurine",
+    "value": "Фигурка Аррак'аша",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A small, aggressive drone built to overwhelm the enemy in swarms.\"",
+    "value": "На этикетке написано: «Маленький агрессивный дрон, созданный для того, чтобы сокрушать противника стаями».",
     "path": "/description",
     "op": "replace"
   }

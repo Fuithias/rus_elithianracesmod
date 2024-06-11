@@ -1,11 +1,11 @@
 [
   {
-    "value": "A fossilised Trink body.",
+    "value": "Окаменевшее тело Тринка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trink Body",
+    "value": "Тринк для тела",
     "path": "/shortdescription",
     "op": "replace"
   }

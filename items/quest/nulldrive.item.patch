@@ -1,11 +1,11 @@
 [
   {
-    "value": "A unique line rifle drive, capable of near-instantenous charging.",
+    "value": "Уникальный привод линейной винтовки, обеспечивающий практически мгновенную зарядку.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Null-Drive^white;",
+    "value": "^orange;Нулевой привод^white;",
     "path": "/shortdescription",
     "op": "replace"
   }

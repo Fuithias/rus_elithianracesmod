@@ -1,11 +1,11 @@
 [
   {
-    "value": "A transmitter capable of communicating with the Central Trink Circuit.",
+    "value": "Передатчик, способный связываться с центральной магистральной цепью.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Trinkian Transmitter",
+    "value": "Тринкианский передатчик",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Ship Railing",
+    "value": "Авикан Корабельные перила",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Part of a metal safety railing.",
+    "value": "Часть металлических перил безопасности.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This railing looks rather sturdy.",
+    "value": "Эти перила выглядят довольно прочными.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "If I had wings, I could easily leap over this railing.",
+    "value": "Если бы у меня были крылья, я бы легко перепрыгнул через эти перила.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran is sssure Floran could jump this fence! But Floran won't try.",
+    "value": "Флоран уверен, что Флоран сможет перепрыгнуть этот забор! Но Флоран не будет пытаться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This railing is sturdy despite its thin frame.",
+    "value": "Впечатленный. Несмотря на тонкую раму, эти перила прочные.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm sure this railing is here for a purpose. Better not try to jump over it.",
+    "value": "Я уверен, что эти перила здесь не просто так. Лучше не пытайтесь перепрыгнуть через него.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal railing. A basic safety measure.",
+    "value": "Металлические перила. Основная мера безопасности.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A basic safety railing.",
+    "value": "Базовые перила безопасности.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A thin but sturdy safety railing.",
+    "value": "Тонкие, но прочные перила безопасности.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This railing is a basic but effective safety measure.",
+    "value": "Эти перила являются базовой, но эффективной мерой безопасности.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected safety railing.",
+    "value": "Обнаружены перила безопасности.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Railing-safety, keep Akki from falling.",
+    "value": "Перила-безопасность, не дают Акки упасть.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,16 +1,16 @@
 [
   {
-    "value": "A shard of the Xanafir, somehow broken and corrupted. It was once part of an infamous weapon.",
+    "value": "Осколок Ксанафира, каким-то образом сломанный и испорченный. Когда-то это была часть печально известного оружия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Broken Shard of Infamy^white;",
+    "value": "^orange;Сломанный осколок позора^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

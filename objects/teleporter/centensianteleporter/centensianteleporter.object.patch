@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Teleporter",
+    "value": "Центенсийский телепорт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "value": "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation: This teleporter was built in an alien style.",
+    "value": "Наблюдение: Этот телепорт был построен в инопланетном стиле.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian teleporter. The portal it creates almost seems to suck you in...",
+    "value": "Центенсийский телепорт. Портал, который он создает, кажется, почти засасывает вас...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built by the Old Ones. I wonder where it leads?",
+    "value": "Телепорт, построенный Древними. Интересно, куда это ведет?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian teleporter. It pulses with energy.",
+    "value": "Центенсийский телепорт. Он пульсирует энергией.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian teleportation device. Energy signatures marked and archived for Nomada study.",
+    "value": "Обнаружено центенское телепортационное устройство. Энергетические сигнатуры отмечены и заархивированы для изучения Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki feels drawn to teleporter-ancient. Akki feels strange.",
+    "value": "Акки тянет к древнему телепорту. Акки чувствует себя странно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

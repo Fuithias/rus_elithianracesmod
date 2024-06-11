@@ -1,31 +1,31 @@
 [
   {
-    "value": "Akris Wall Button",
+    "value": "Настенная кнопка Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A touch-screen button.",
+    "value": "Кнопка сенсорного экрана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Presss it!",
+    "value": "Давит!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What will happen if I press this button?",
+    "value": "Любопытный. Что произойдет, если я нажму эту кнопку?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Button. Used to temporarily activate circuits.",
+    "value": "Анализ. Кнопка. Используется для временной активации цепей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki press, things happen.",
+    "value": "Акки пресс, всякое случается.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

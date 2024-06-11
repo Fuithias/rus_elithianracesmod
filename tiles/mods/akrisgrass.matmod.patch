@@ -1,31 +1,31 @@
 [
   {
-    "value": "Strangely coloured grass.",
+    "value": "Странно окрашенная трава.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Red grass.",
+    "value": "Наблюдение. Красная трава.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss why grasss iss red.",
+    "value": "Флоран интересуется, почему трава красная.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Strangely coloured grass.",
+    "value": "Странно окрашенная трава.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien grass.",
+    "value": "Обнаружена инопланетная трава.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Valval-soft, feel good on feet-Akki.",
+    "value": "Мягкая, приятно чувствовать на ногах — акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

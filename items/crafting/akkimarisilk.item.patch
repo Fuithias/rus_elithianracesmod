@@ -1,11 +1,11 @@
 [
   {
-    "value": "A long string of silk from an Akkimari silk gland.",
+    "value": "Длинная шелковая нить из шелковой железы Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akkimari Silk",
+    "value": "Аккимари Шелк",
     "path": "/shortdescription",
     "op": "replace"
   }

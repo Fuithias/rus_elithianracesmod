@@ -1,61 +1,61 @@
 [
   {
-    "value": "Number Two",
+    "value": "Номер два",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Number two, in the Avikan Script.",
+    "value": "Номер два, в сценарии Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Number two in an alien script.",
+    "value": "Номер два в инопланетном сценарии.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien number. I believe it is two.",
+    "value": "Чужой номер. Я считаю, что это два.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what alien ssymbol meansss.",
+    "value": "Флоран не знает, что означает инопланетный символ.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This alien symbol means two.",
+    "value": "Информирован. Этот инопланетный символ означает два.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Two in some alien script.",
+    "value": "Двое в каком-то инопланетном сценарии.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An alien symbol for the number two.",
+    "value": "Инопланетный символ числа два.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Seems this number means two.",
+    "value": "Кажется, это число означает два.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Number two.",
+    "value": "Номер два.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Number. Two.",
+    "value": "Число. Два.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Number-alien. Two, Akki thinks.",
+    "value": "Номер-чужой. «Два», думает Акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

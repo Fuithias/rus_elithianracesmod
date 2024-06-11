@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Prefab Wall",
+    "value": "Стеновая панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Part of a pre-fabricated wall.",
+    "value": "Часть сборной стены.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Statement. This is part of a pre-fabricated wall.",
+    "value": "Заявление. Это часть сборной стены.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Wallss were made in factoriess.",
+    "value": "Стены сделаны на заводах.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some sturdy metal plating.",
+    "value": "Некоторые прочные металлические пластины.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Pre-fabricated wall piece.",
+    "value": "Анализ завершен. Сборная стеновая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Wall-prefabricated, for houses-modular.",
+    "value": "Стеновая панель-модульная.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

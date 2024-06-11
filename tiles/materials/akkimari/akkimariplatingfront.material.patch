@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Plating (Front)",
+    "value": "Пластина Акрис (Фронт)",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Irregular metal plating made from assorted scrap metal.",
+    "value": "Нерегулярные металлические пластины, сделанные из разнообразного лома.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Surprised. This plating was crafted from scrap metal.",
+    "value": "Удивлен. Эти пластины сделаны из лома.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ssscrap metal plating.",
+    "value": "Пластины из лома.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some thick metal plating, looks mighty solid.",
+    "value": "Толстые металлические пластины, выглядят очень солидно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Scrap metal hull plating. Exact composition unknown.",
+    "value": "Анализ завершен. Обшивочные пластины из лома. Точный состав неизвестен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plating-metal-big. Strong, yeees?",
+    "value": "Пластина-металл-большая. Прочная, да?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

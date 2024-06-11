@@ -1,31 +1,31 @@
 [
   {
-    "value": "Alliance Vehicle Plate",
+    "value": "Табличка с транспортным средством Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This pressure plate will only be activated by vehicles.",
+    "value": "Эта нажимная пластина активируется только транспортными средствами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thingsss will happen if vehicle ssstandss on plate.",
+    "value": "Что-то произойдет, если автомобиль встанет на пластину.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Something will happen if I place a vehicle on top of this plate.",
+    "value": "Любопытный. Что-то произойдет, если я поставлю транспортное средство на эту плиту.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Heavy-load pressure plate. Activated by vehicles only.",
+    "value": "Анализ. Нажимная пластина для тяжелых нагрузок. Активируется только транспортными средствами.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki place vehicle, plate activates.",
+    "value": "Акки ставит машину, табличка активируется.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Hull Panel",
+    "value": "Тринкская обшивочная панель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Durable metal plating, often used in the construction of spacestations and spaceships.",
+    "value": "Прочный металлический лист, часто используемый при строительстве космических станций и кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observant. This material is durable enough for use in the construction of spacefaring vessels.",
+    "value": "Наблюдение. Этот материал достаточно прочен для использования в строительстве космических судов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny sssmooth space metal.",
+    "value": "Блестящий гладкий космический металл.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Some thick metal plating, looks mighty solid.",
+    "value": "Толстая металлическая обшивка, выглядит очень солидно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Hull plating. Generally used in the construction of spaceborne structures.",
+    "value": "Анализ завершен. Обшивочная панель. Обычно используется в строительстве космических структур.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plating for hull-ship.",
+    "value": "Обшивка для корпуса корабля.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

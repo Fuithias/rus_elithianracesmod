@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Security Camera",
+    "value": "Камера наблюдения Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A camera that sends out a signal when it detects nearby entities.",
+    "value": "Камера, которая посылает сигнал при обнаружении близлежащих объектов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A security camera. I hope the Miniknog isn't watching...",
+    "value": "Камера наблюдения. Надеюсь, Миникног не смотрит...",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A camera. It'll send out a signal if it detects movement.",
+    "value": "Камера. Он отправит сигнал, если обнаружит движение.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Camera followsss Floran. Floran isss freaked out!",
+    "value": "Камера следует за Флораном. Флоран в ярости!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Insecure. I'm not sure who's watching through that camera.",
+    "value": "Ненадежный. Я не уверен, кто смотрит через эту камеру.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a camera! It'll follow targets autonomously.",
+    "value": "Это камера! Он будет следовать за целями автономно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A camera. Who's watching?",
+    "value": "Камера. Кто смотрит?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Security at its finest.",
+    "value": "Безопасность на высоте.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This camera will send out a signal if it sees me. Better be careful.",
+    "value": "Эта камера отправит сигнал, если увидит меня. Лучше будьте осторожны.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien-built camera. Are there aliens watching me?",
+    "value": "Камера, созданная инопланетянами. За мной наблюдают инопланетяне?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficiently designed camera. It can detect movement and filter out useless targets.",
+    "value": "Эффективно спроектированная камера. Он может обнаруживать движение и отфильтровывать бесполезные цели.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected camera system. Recommend caution.",
+    "value": "Обнаружена система камер. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Camera tracks targets. Akki is target...",
+    "value": "Камера отслеживает цели. Акки - цель...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

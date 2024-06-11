@@ -1,36 +1,36 @@
 [
   {
-    "value": "Mehros Avan Poster",
+    "value": "Плакат Мехрос Аван",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting the new art exposition by Mehros Avan.",
+    "value": "Плакат, рекламирующий новую художественную экспозицию Мехроса Авана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran only seesss paperss.",
+    "value": "Флоран видит только бумаги.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Who is this Mehros Avan mentioned in the poster?",
+    "value": "Любопытный. Кто этот Мехрос Аван, упомянутый на плакате?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Mehros Avan is a famous artist creating large kinetic art pieces.",
+    "value": "Мехрос Аван — известный художник, создающий большие произведения кинетического искусства.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

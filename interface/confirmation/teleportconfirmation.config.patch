@@ -1,181 +1,181 @@
 [
   {
-    "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/vanguarddronebattle/title",
     "op": "replace"
   },
   {
-    "value": "Kharmani Surface",
+    "value": "Поверхность Хармани",
     "path": "/vanguarddronebattle/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nAre you ready to be sent to the ^orange;surface of Kharmani^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "value": "\n\nГотовы ли вы к отправке на ^orange;поверхность Хармани^white;? \n^red;Вам понадобится мощное оборудование, чтобы выжить там.",
     "path": "/vanguarddronebattle/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готов",
     "path": "/vanguarddronebattle/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/vanguarddronebattle/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Recruiter Rokhan",
+    "value": "Вербовщик Рохан",
     "path": "/vanguarddronebattle/labels/name",
     "op": "replace"
   },
   {
-    "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/avikanroguebattle/title",
     "op": "replace"
   },
   {
-    "value": "Thieves' Hideout",
+    "value": "Убежище воров",
     "path": "/avikanroguebattle/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nAre you ready to be sent to the ^orange;thieves' hideout^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "value": "\n\nГотовы ли вы к отправке в ^orange;убежище воров^white;? \n^red;Чтобы выжить там, вам понадобится мощное снаряжение.",
     "path": "/avikanroguebattle/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готов",
     "path": "/avikanroguebattle/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/avikanroguebattle/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Ayurin",
+    "value": "Аюрин",
     "path": "/avikanroguebattle/labels/name",
     "op": "replace"
   },
   {
-    "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/vanguardmechunlock/title",
     "op": "replace"
   },
   {
-    "value": "Vanguard Testing Facility",
+    "value": "Испытательный центр Авангарда",
     "path": "/vanguardmechunlock/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nAre you ready to enter the ^orange;Vanguard testing facility^white;?",
+    "value": "\n\nГотовы ли вы войти в ^orange;испытательный центр Авангарда^white;?",
     "path": "/vanguardmechunlock/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готовы",
     "path": "/vanguardmechunlock/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/vanguardmechunlock/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Recruiter Rokhan",
+    "value": "Вербовщик Рохан",
     "path": "/vanguardmechunlock/labels/name",
     "op": "replace"
   },
   {
-     "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/akkimaridronebattle/title",
     "op": "replace"
   },
   {
-    "value": "Union outpost",
+    "value": "Застава Союза",
     "path": "/akkimaridronebattle/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nAre you ready to be sent to the attacked ^orange;Union outpost^white;? \n^red;You'll need some powerful equipment in order to survive down there.",
+    "value": "\n\nГотовы ли вы к отправке на атакованный ^orange;аванпост Союза^white;? \n^red;Вам понадобится мощное оборудование, чтобы выжить там.",
     "path": "/akkimaridronebattle/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готов",
     "path": "/akkimaridronebattle/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/akkimaridronebattle/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Delegate Mumam",
+    "value": "Делегат Мумам",
     "path": "/akkimaridronebattle/labels/name",
     "op": "replace"
   },
   {
-     "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/remnantcaves/title",
     "op": "replace"
   },
   {
-    "value": "The Blighted Cavern",
+    "value": "Оскверненная пещера",
     "path": "/remnantcaves/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nAre you ready to explore the ^orange;Blighted Cavern^white;? \n^red;Make sure to bring some powerful equipment, alongside spelunking tools.",
+    "value": "\n\nГотовы ли вы исследовать ^orange;Загаженную пещеру^white;? \n^red;Не забудьте взять с собой мощное снаряжение, а также инструменты для подводного плавания.",
     "path": "/remnantcaves/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готов",
     "path": "/remnantcaves/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/remnantcaves/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Ayala",
+    "value": "Айала",
     "path": "/remnantcaves/labels/name",
     "op": "replace"
   },
   {
-     "value": "Teleport Confirmation",
+    "value": "Подтверждение телепорта",
     "path": "/thea-techchallenge-stealthtech/title",
     "op": "replace"
   },
   {
-    "value": "Chacharra's Testing Course",
+    "value": "Курс испытаний Чачарры",
     "path": "/thea-techchallenge-stealthtech/subtitle",
     "op": "replace"
   },
   {
-    "value": "\n\nChacharra have everything ready. Your ready for testing course?",
+    "value": "\n\nЧачарра все подготовила. Вы готовы к курсу тестирования?",
     "path": "/thea-techchallenge-stealthtech/message",
     "op": "replace"
   },
   {
-    "value": "Ready",
+    "value": "Готов",
     "path": "/thea-techchallenge-stealthtech/okCaption",
     "op": "replace"
   },
   {
-    "value": "Not now",
+    "value": "Не сейчас",
     "path": "/thea-techchallenge-stealthtech/cancelCaption",
     "op": "replace"
   },
   {
-    "value": "Chacharra",
+    "value": "Чачарра",
     "path": "/thea-techchallenge-stealthtech/labels/name",
     "op": "replace"
   }

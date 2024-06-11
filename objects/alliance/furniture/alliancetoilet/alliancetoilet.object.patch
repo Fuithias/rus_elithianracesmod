@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Toilet",
+    "value": "Альянс Туалет",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple toilet.",
+    "value": "Простой туалет.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This toilet uses special cleaning tech for perfect hygiene.",
+    "value": "В этом туалете используется специальная технология очистки, обеспечивающая идеальную гигиену.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A place for droppings.",
+    "value": "Место для помета.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny place for sssmelly business.",
+    "value": "Блестящее место для вонючего бизнеса.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. Oddly enough, this open toilet does not smell at all.",
+    "value": "Удивлен. Как ни странно, этот открытый туалет вообще не пахнет.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This toilet is amazing! So much better than the ones at home...",
+    "value": "Этот туалет потрясающий! Гораздо лучше, чем дома...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A luxurious toilet.",
+    "value": "Роскошный туалет.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "An odd mix between simplicity and luxury.",
+    "value": "Странное сочетание простоты и роскоши.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This toilet neutralizes the air inside for a pleasantly unremarkable scent.",
+    "value": "Этот унитаз нейтрализует воздух внутри, создавая приятный ничем не примечательный аромат.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "What is this thing?",
+    "value": "Что это за вещь?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I don't need toilets.",
+    "value": "Мне не нужны туалеты.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Alien chair detected. Analyzing piping functionality...",
+    "value": "Обнаружено инопланетное кресло. Анализ работоспособности трубопроводов...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki do a nasty here!",
+    "value": "Акки сделай здесь гадость!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

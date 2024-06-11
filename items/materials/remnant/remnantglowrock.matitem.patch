@@ -1,11 +1,11 @@
 [
   {
-    "value": "An ancient rock with an eerie glow.",
+    "value": "Древняя скала с жутким сиянием.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Glowing Rock",
+    "value": "Светящаяся скала",
     "path": "/shortdescription",
     "op": "replace"
   }

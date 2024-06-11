@@ -1,36 +1,36 @@
 [
   {
-    "value": "NSI Poster",
+    "value": "Плакат НСИ",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A poster promoting the game New Space Inquisition.",
+    "value": "Плакат, рекламирующий игру New Space Inquisition.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran doess not know what it meansss.",
+    "value": "Флоран не знает, что это значит.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This poster is simplistic, but catchy.",
+    "value": "Заинтригован. Этот плакат простой, но запоминающийся.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This was one of the best games of last year.",
+    "value": "Это была одна из лучших игр прошлого года.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Promotional material.",
+    "value": "Сканирование завершено. Рекламные материалы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not know this. Poster-alien looks colourful.",
+    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,31 +1,31 @@
 [
   {
-    "value": "Vhos Avha'las Teleporter",
+    "value": "Телепорт Восса Авха'ласа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter leading to some mysterious place.",
+    "value": "Телепорт, ведущий в какое-то загадочное место.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Teleporter to ssstrange place...",
+    "value": "Телепорт в странное место...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Anxiety. This teleporter might lead somewhere dangerous.",
+    "value": "Беспокойство. Этот телепорт может привести куда-то опасно.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected teleporter. Destination unknown. Recommend careful exploration.",
+    "value": "Обнаружен телепорт. Пункт назначения неизвестен. Рекомендую тщательное исследование.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki want to know-know where teleporter-ancient goes.",
+    "value": "Акки хочет знать-знать, куда уходит древний телепорт.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

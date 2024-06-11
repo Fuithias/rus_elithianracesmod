@@ -1,36 +1,36 @@
 [
   {
-    "value": "Akris Glass",
+    "value": "Стекло Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A transparent multi-coloured crystal.",
+    "value": "Прозрачный многоцветный кристалл.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Marveled. This crystal shines in many colours.",
+    "value": "Восторг. Этот кристалл сияет множеством цветов.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Colourful glasss.",
+    "value": "Цветное стекло.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "That's no glass, it's some kinda crystal.",
+    "value": "Это не стекло, это какой-то кристалл.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Crystalline material of unknown origin.",
+    "value": "Анализ завершен. Кристаллический материал неизвестного происхождения.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki not eat this crystal. Crystal too sharp.",
+    "value": "Акки не ест этот кристалл. Кристалл слишком острый.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

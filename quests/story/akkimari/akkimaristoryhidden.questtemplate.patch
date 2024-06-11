@@ -1,16 +1,16 @@
 [
   {
-    "value": "Akkimari Story - Initial Setup",
+    "value": "История Аккимари - Начальная Настройка",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "This quest acts as a prerequisite to the Akkimari storyline. You shouldn't be able to see this in your log.",
+    "value": "Этот квест является предпосылкой к сюжету Аккимари. Вы не должны видеть это в своем журнале.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "This quest acts as a prerequisite to the Akkimari storyline. You shouldn't be able to see this in your log.",
+    "value": "Этот квест является предпосылкой к сюжету Аккимари. Вы не должны видеть это в своем журнале.",
     "path": "/completionText",
     "op": "replace"
   }

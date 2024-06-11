@@ -1,11 +1,11 @@
 [
   {
-    "value": "A heavy, thick pipe. Liquids can flow through it.",
+    "value": "Тяжелая, толстая труба. Через него могут течь жидкости.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Heavy Pipe (Hollow)",
+    "value": "Тяжелая трубка Авикан (полая)",
     "path": "/shortdescription",
     "op": "replace"
   }

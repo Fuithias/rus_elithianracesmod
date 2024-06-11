@@ -1,16 +1,16 @@
 [
   {
-    "value": "The core of a Violated Elite Drahl's Ion Cannon.",
+    "value": "Ядро оскверненной ионной пушки элитного Драла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Violated Ion Core^white;",
+    "value": "^#BA66FF;Нарушено ионное ядро^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

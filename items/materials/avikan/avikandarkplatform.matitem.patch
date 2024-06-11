@@ -1,11 +1,11 @@
 [
   {
-    "value": "A dark metal platform.",
+    "value": "Темная металлическая платформа.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dark Avikan Platform",
+    "value": "Платформа Тёмного Авикана",
     "path": "/shortdescription",
     "op": "replace"
   }

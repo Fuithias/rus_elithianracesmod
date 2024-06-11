@@ -1,31 +1,31 @@
 [
   {
-    "value": "^orange;Justice for the Justicar",
+    "value": "^orange;Справедливость для Юстициара",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "A Union outpost was recently attacked by a pack of Akkimari. We need someone to beam down to the planet and ^green;put an end to the ^orange;Akkimari Justicar ^green;that leads the pack^white;. As a reward, ^green;you will earn yourself access to the Creon Embassy's shooting range^white;.",
+    "value": "Недавно на аванпост Союза напала группа Аккимари. Нам нужен кто-то, кто телепортируется на планету и ^green;положит конец ^orange;Юстициару Аккимари^green;, который возглавляет эту группу^white;. В качестве награды ^green;вы получите доступ к стрельбищу Посольства Креона^white;.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Great work, I received a report that the Justicar has been taken care of. Here you go: this security card will give you access to the shooting range.",
+    "value": "Отличная работа, я получил сообщение, что Юстициар был ликвидирован. Вот вам карта безопасности; она даст вам доступ к стрельбищу.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Talk to ^orange;Mumam^reset; to warp down to the ^orange;Union outpost^reset;",
+    "value": "Поговорите с ^orange;Мумамом^reset;, чтобы телепортироваться на ^orange;авампост Союза^reset;",
     "path": "/scriptConfig/descriptions/enterInstance",
     "op": "replace"
   },
   {
-    "value": "Destroy the ^orange;Akkimari Justicar^reset;",
+    "value": "Уничтожьте ^orange;Юстициара Аккимари^reset;",
     "path": "/scriptConfig/descriptions/findGoal",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Mumam^reset; in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Мумаму^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

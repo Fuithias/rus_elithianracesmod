@@ -1,71 +1,71 @@
 [
   {
-    "value": "Achvass Seed",
+    "value": "Семя Ачваса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A coral-like plant that expels a tasty jelly.",
+    "value": "Кораллоподобное растение, выделяющее вкусное желе.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A strange plant producing a weird jelly.",
+    "value": "Странное растение, производящее странное желе.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "The jelly from this plant is really odd, but somehow tasty too.",
+    "value": "Желе из этого растения действительно необычное, но тоже как-то вкусное.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Alien plantsss make sstrange jelly.",
+    "value": "Чужеродные растения делают странное желе.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Disgusted. There's jelly oozing from this plant's pores!",
+    "value": "Отвращение. Из пор этого растения сочится желе!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Eww! Is that jelly oozing from a plant?",
+    "value": "Фу! Это желе сочится из растения?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An unusual plant producing an unusual jelly-like substance.",
+    "value": "Необычное растение, производящее необычное желеобразное вещество.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This plant makes a weird jelly.",
+    "value": "Из этого растения получается странное желе.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The jelly produced by this plant is nutritious, but it doesn't taste very pleasantly...",
+    "value": "Желе, которое производит это растение, питательно, но на вкус оно не очень приятное...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant producing alien jelly. I really shouldn't try to eat it...",
+    "value": "Инопланетное растение, производящее инопланетное желе. Мне действительно не стоит пытаться это съесть...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The jelly from this plant can get my circuits all sticky. Better be careful.",
+    "value": "Желе из этого растения может сделать мои схемы липкими. Лучше будьте осторожны.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Akris flora. Achvass produces unusual jelly-like substances.",
+    "value": "Обнаружена местная флора Акриса. Ачвасс производит необычные желеобразные вещества.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Jelly-tasty, Akki want more more more!",
+    "value": "Желе-вкусно, Акки хочется еще, еще, еще!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

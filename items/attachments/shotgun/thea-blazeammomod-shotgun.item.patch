@@ -1,6 +1,6 @@
 [
   {
-    "value": "Shotgun ammunition that ignites shortly after being fired.",
+    "value": "Боеприпасы для дробовика, которые воспламеняются вскоре после выстрела.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Blaze Ammo",
+    "value": "Пылающие патроны",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Floating Cube",
+    "value": "Столетний плавающий куб",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A massive floating cube.",
+    "value": "Огромный парящий куб.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A massive cube, floating just above the ground. What keeps it in place?",
+    "value": "Массивный куб, парящий прямо над землей. Что удерживает его на месте?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A massive cube, held aloft by invisible wings. It is... beautiful!",
+    "value": "Массивный куб, удерживаемый невидимыми крыльями. Это красиво!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not undersstand how masssive cube can fly.",
+    "value": "Флоран не понимает, как огромный куб может летать.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Baffled. This cube must weigh more than a house, yet it stays aloft somehow.",
+    "value": "Сбит с толку. Этот куб, должно быть, весит больше, чем дом, но каким-то образом он удерживается в воздухе.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A massive metal cube, untouched by time. What keeps it aloft?",
+    "value": "Массивный металлический куб, нетронутый временем. Что удерживает его на высоте?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Mystery surrounds this cube. It is magnificent.",
+    "value": "Тайна окружает этот куб. Это великолепно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "It goes 'round and 'round and 'round... Makes my head spin, it does.",
+    "value": "Это крутится, и крутится, и крутится... У меня кружится голова, правда.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "How the Centens managed to build artefacts like these is beyond me.",
+    "value": "Как центенам удавалось создавать подобные артефакты, я не понимаю.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Old Ones left behind many mysterious cubes like these. The Rhaiod has yet to show us what their purpose is.",
+    "value": "Древние оставили после себя множество подобных загадочных кубов. Райод еще не показал нам, какова их цель.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Whatever mechanism keeps this cube aloft must be extremely efficient.",
+    "value": "Какой бы механизм ни удерживал этот куб наверху, он должен быть чрезвычайно эффективным.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian artefact. Marking location for Rhaiod investigation.",
+    "value": "Обнаружен центенский артефакт. Отмечаем место для расследования Райода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cube-large-floating, Akki wonder how it works.",
+    "value": "Куб-большой-плавающий, Акки удивляется, как это работает.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

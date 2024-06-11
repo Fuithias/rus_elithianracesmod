@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Water Sack",
+    "value": "Мешок для воды Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A waterproof leather sack, filled with water.",
+    "value": "Водонепроницаемый кожаный мешок, наполненный водой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather sack full of pure water.",
+    "value": "Кожаный мешок, полный чистой воды.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Refreshing water, stored in a simple, but waterproof leather sack.",
+    "value": "Освежающая вода, хранящаяся в простом, но водонепроницаемом кожаном мешочке.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Water in sssack is coldsss.",
+    "value": "Вода в ссаке холодная.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. A sack filled with water, of vital importance to desert dwellers.",
+    "value": "Анализ. Мешок, наполненный водой, жизненно важный для жителей пустыни.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Clean, refreshing water! Good thing the leather is waterproof.",
+    "value": "Чистая, освежающая вода! Хорошо, что кожа водонепроницаемая.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Water, pure and refreshing. A blessing to desert dwellers.",
+    "value": "Вода чистая и освежающая. Благословение для жителей пустыни.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A sack filled with refreshing water. A life saver in the desert.",
+    "value": "Мешок, наполненный освежающей водой. Спаситель жизни в пустыне.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "These sacks full of water are what makes it possible for us to build permanent camps.",
+    "value": "Эти мешки с водой позволяют нам строить постоянные лагеря.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sack filled with fresh water.",
+    "value": "Кожаный мешок, наполненный пресной водой.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected water supply. Detected fragile container. Recommend storing in Nomada-approved water container.",
+    "value": "Обнаружен запас воды. Обнаружен хрупкий контейнер. Рекомендуется хранить в контейнере для воды, одобренном Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sack-water, Akki careful not getting wet.",
+    "value": "Снимать воду, Акки осторожно, чтобы не промокнуть.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

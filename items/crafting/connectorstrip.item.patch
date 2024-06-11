@@ -1,11 +1,11 @@
 [
   {
-    "value": "A bunch of gold-plated connectors, for use in electronics.",
+    "value": "Набор позолоченных разъемов для использования в электронике.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Connector Strip",
+    "value": "Соединительная полоса",
     "path": "/shortdescription",
     "op": "replace"
   }

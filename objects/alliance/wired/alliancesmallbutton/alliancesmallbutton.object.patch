@@ -1,31 +1,31 @@
 [
   {
-    "value": "Small Alliance Button",
+    "value": "Маленькая кнопка Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small wall button.",
+    "value": "Маленькая настенная кнопка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Presss it!",
+    "value": "Давит!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What will happen if I press this button?",
+    "value": "Любопытный. Что произойдет, если я нажму эту кнопку?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Button. Used to temporarily activate circuits.",
+    "value": "Анализ. Кнопка. Используется для временной активации цепей.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki press button, make things happen.",
+    "value": "Акки нажми кнопку и сделай все возможное.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

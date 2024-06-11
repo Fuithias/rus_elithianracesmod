@@ -1,211 +1,211 @@
 [
   {
-    "value": "^orange;Avikan Stone Furnace^white;",
+    "value": "^orange;Каменная печь Авикан^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A primitive furnace. I can smelt things here.",
+    "value": "Примитивная печь. Я чувствую запахи здесь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic furnace perfect for smelting ore.",
+    "value": "Обычная печь, идеально подходящая для плавки руды.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A smelting furnace. Looks hot.",
+    "value": "Плавильная печь. Выглядит жарко.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hot, imposing furnace.",
+    "value": "Горячая, внушительная печь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "value": "Обычная печь для плавки руды.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This furnace is not very safe.",
+    "value": "Эта печь не очень безопасна.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple furnace. One of the few stone structures my people use.",
+    "value": "Простая печь. Одно из немногих каменных сооружений, которые используют мои люди.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An inefficient and unsafe way to smelt ores into metal bars.",
+    "value": "Неэффективный и небезопасный способ переплавки руды в металлические слитки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone furnace. Basic ore smelting functionality.",
+    "value": "Анализ завершен. Каменная печь. Базовая функциональность плавки руды.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace-stone, not too hot.",
+    "value": "Печь-каменная, не слишком горячая.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Avikan Stone Furnace^white;",
+    "value": "^orange;Каменная печь Авикан^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A primitive furnace. I can smelt things here.",
+    "value": "Примитивная печь. Я чувствую запахи здесь.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic furnace perfect for smelting ore.",
+    "value": "Обычная печь, идеально подходящая для плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace flamess hissss, burn. Floran brave it.",
+    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A smelting furnace. Looks hot.",
+    "value": "Плавильная печь. Выглядит жарко.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A hot, imposing furnace.",
+    "value": "Горячая, внушительная печь.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Basic lookin' furnace, for smeltin' ore.",
+    "value": "Обычная печь для плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This furnace is not very safe.",
+    "value": "Эта печь не очень безопасна.",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A simple furnace. One of the few stone structures my people use.",
+    "value": "Простая печь. Одно из немногих каменных сооружений, которые используют мои люди.",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An inefficient and unsafe way to smelt ores into metal bars.",
+    "value": "Неэффективный и небезопасный способ переплавки руды в металлические слитки.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone furnace. Basic ore smelting functionality.",
+    "value": "Анализ завершен. Каменная печь. Базовая функциональность плавки руды.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace-stone, not too hot.",
+    "value": "Печь-каменная, не слишком горячая.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Nomada Furnace^white;",
+    "value": "^orange;Печь Nomada^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The furnace's high temperature allows you to craft metal bars and other items.",
+    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A furnace for smelting metal, and some other materials too.",
+    "value": "Печь для выплавки металла, а также некоторых других материалов.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A furnace for creating various alloys.",
+    "value": "Печь для создания различных сплавов.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss careful. Fire will burn Floran...",
+    "value": "Флоран осторожен. Огонь сожжёт Флорана...",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Pleased. This furnace's fires are kept safely behind a metal grille.",
+    "value": "Довольный. Огонь этой печи надежно хранится за металлической решеткой.",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A furnace burning at an unusual temperature. It can only smelt some very specific metals.",
+    "value": "Печь, горящая при необычной температуре. Он может плавить только некоторые очень специфические металлы.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This furnace burns at a temperature perfect for smelting some alien alloys.",
+    "value": "Эта печь горит при температуре, идеально подходящей для плавки некоторых инопланетных сплавов.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These flames are barely brighter than I am.",
+    "value": "Это пламя едва ли ярче, чем я.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This furnace's temperature is perfect for smelting Avikan alloys, but not much else.",
+    "value": "Температура этой печи идеально подходит для плавки сплавов Авикан, но не более того.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "While it can't smelt every metal, this furnace's temperature is just perfect for creating Avikan alloys.",
+    "value": "Хотя она не может плавить все металлы, температура в этой печи просто идеальна для создания сплавов Авикан.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This open grille design is hardly efficient, but the furnace's fuel consumption is top-notch.",
+    "value": "Такая конструкция с открытой решеткой вряд ли эффективна, но расход топлива у печи первоклассный.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Nomada furnace. Temperature levels are perfect for smelting Avikan alloys.",
+    "value": "Анализ завершен. Печь Номада. Температурный режим идеально подходит для плавки сплавов Авикан.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Forge-hot, for smelting metals.",
+    "value": "Кузнечно-горячий, для плавки металлов.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

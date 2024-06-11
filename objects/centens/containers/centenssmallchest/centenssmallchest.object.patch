@@ -1,66 +1,66 @@
 [
   {
-    "value": "Small Centensian Container",
+    "value": "Маленький столетний контейнер",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient metal container.",
+    "value": "Древний металлический контейнер.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A heavy metal container. Looks very old.",
+    "value": "Тяжелый металлический контейнер. Выглядит очень старым.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A magnificent metal chest.",
+    "value": "Великолепный металлический сундук.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Old chestsss give the bessst loot!",
+    "value": "Старые сундуки дают лучшую добычу!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. The automated locking mechanism on this ancient container still functions,",
+    "value": "Наблюдение. Автоматический запирающий механизм этого древнего контейнера все еще работает.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient chest? Might be full of goodies!",
+    "value": "Древний сундук? Наверное, полно вкусностей!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An ancient container. What might it store?",
+    "value": "Древний контейнер. Что он может хранить?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian container. It might hold some artefacts.",
+    "value": "Центенсианский контейнер. Возможно, там хранятся какие-то артефакты.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A container from the Old Ones. These often hold artefacts from the Old Civilization.",
+    "value": "Контейнер из Древних. В них часто хранятся артефакты Старой Цивилизации.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian container. Eons old, but its opening mechanism still works.",
+    "value": "Центенсианский контейнер. Он старый, но механизм его открывания все еще работает.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian container. Contents unknown.",
+    "value": "Обнаружен центенский контейнер. Содержание неизвестно.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "God-maker storage, Akki find valuables inside.",
+    "value": "Хранилище бога-создателя, Акки находит внутри ценные вещи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

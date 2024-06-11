@@ -1,71 +1,71 @@
 [
   {
-    "value": "Dunestalk Seed",
+    "value": "Семя дюнного стебля",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Hardy dunestalk, a wheat-like plant found growing in arid locations.",
+    "value": "Выносливый дюнный стебель, растение, похожее на пшеницу, растущее в засушливых местах.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This looks like wheat, but it's far sturdier and drier.",
+    "value": "Это похоже на пшеницу, но гораздо крепче и суше.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A tough plant, somewhat similar to wheat. The seeds don't taste as good, though.",
+    "value": "Крепкое растение, чем-то похожее на пшеницу. Однако на вкус семена не так хороши.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran iss confused... Iss this wheat?",
+    "value": "Флоран в замешательстве... Это пшеница?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. Does dunestalk have as many uses as wheat does?",
+    "value": "Любопытный. Имеет ли дюнный стебель столько же применений, как пшеница?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder if I can use this to bake some sort of alien bread?",
+    "value": "Интересно, смогу ли я использовать это, чтобы испечь какой-нибудь инопланетный хлеб?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This plant is incredibly dry. I'm not even sure water would do it much good.",
+    "value": "Это растение невероятно сухое. Я даже не уверен, что вода пойдет на пользу.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some odd form o' wheat, perhaps?",
+    "value": "Может быть, какая-то странная форма пшеницы?",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Dunestalk is the equivalent of wheat on the Avikan homeplanet.",
+    "value": "Dunestalk — это эквивалент пшеницы на родной планете Авикан.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I could prepare some traditional food using this dunestalk.",
+    "value": "Я мог бы приготовить традиционную еду, используя этот дюнный стебель.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Dunestalk and wheat are similar in many ways, although dunestalk doesn't have quite as many uses.",
+    "value": "Дюнный стебель и пшеница во многом схожи, хотя у дюнного стебля не так много применений.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Kadavan flora. Dunestalk confirmed.",
+    "value": "Обнаружена аборигенная флора Кадавана. Дюнсталк подтвердил.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Grass look dead. Dry-very.",
+    "value": "Трава выглядит мертвой. Сухой-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

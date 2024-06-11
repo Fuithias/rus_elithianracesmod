@@ -1,71 +1,71 @@
 [
   {
-    "value": "AAE Shipping Container",
+    "value": "Транспортный контейнер AAE",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A large shipping container decorated with the logo of the AAE.",
+    "value": "Большой транспортный контейнер, украшенный логотипом ААЭ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "It's a huge crate for shipping large cargo.",
+    "value": "Это огромный ящик для перевозки крупногабаритных грузов.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I would guess it's meant for shipping very large objects.",
+    "value": "Я предполагаю, что он предназначен для перевозки очень больших объектов.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Maybe theress food in it.",
+    "value": "Возможно, в нем есть еда.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What's stored in here?",
+    "value": "Любопытный. Что здесь хранится?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It's a really big shipping container.",
+    "value": "Это действительно большой транспортный контейнер.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A rather large container for shipping large quantities of cargo.",
+    "value": "Довольно крупный контейнер для перевозки большого количества груза.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A large container for haulin' goods.",
+    "value": "Большой контейнер для перевозки грузов.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large shipping container used by the AAE.",
+    "value": "Большой транспортный контейнер, используемый AAE.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A large alien-built shipping container.",
+    "value": "Большой транспортный контейнер, построенный инопланетянами.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A shipping container used by the AAE.",
+    "value": "Транспортный контейнер, используемый AAE.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki store many things inside!",
+    "value": "Akki хранит внутри много вещей!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

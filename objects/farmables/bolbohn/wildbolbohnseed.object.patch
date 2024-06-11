@@ -1,66 +1,66 @@
 [
   {
-    "value": "Bolbohn Seed",
+    "value": "Семена Болбона",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An oddly shaped plant with a similarly odd taste.",
+    "value": "Растение странной формы и столь же странного вкуса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A decidedly odd plant, and a funny smelling one at that.",
+    "value": "Совершенно странное растение, к тому же забавно пахнущее.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not sure I like the smell of this plant...",
+    "value": "Не уверена, что мне нравится запах этого растения...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran find thiss plant sssmelly.",
+    "value": "Флоран считает это растение пахучим.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "value": "Наблюдение. Это растение кажется до странности знакомым, но в то же время очень чужеродным.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not even sure if I want to know what this tastes like...",
+    "value": "Я даже не уверен, хочу ли я знать, как это на вкус...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This plant has an odd taste. I'm not a fan of it.",
+    "value": "У этого растения странный вкус. Я не фанат этого.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Few find this plant tasty. I know I don't.",
+    "value": "Мало кто находит это растение вкусным. Я знаю, что нет.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A bolbohn! A tasty reminder of home!",
+    "value": "Болбон! Вкусное напоминание о доме!",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Everyone I asked agreed that this plant tasted horrible. Everyone, except for the Avikan.",
+    "value": "Все, кого я спрашивал, соглашались, что это растение имело ужасный вкус. Все, кроме Авикана.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Kadavan flora. Bolbohn confirmed.",
+    "value": "Обнаружена аборигенная флора Кадавана. Болбон подтвердил.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant-weird, like blob-purple.",
+    "value": "Странное растение, похожее на фиолетовую каплю.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

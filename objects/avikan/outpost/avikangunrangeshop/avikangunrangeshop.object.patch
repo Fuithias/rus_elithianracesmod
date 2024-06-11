@@ -1,41 +1,41 @@
 [
   {
-    "value": "Vanguard Token Exchange",
+    "value": "Обмен токенов Vanguard",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "value": "Здесь жетоны заслуг можно обменять на различные товары.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "If Floran givess robot man tokensss, robot man gives Floran itemsss.",
+    "value": "Если Флоран дает жетоны человека-робота, человек-робот дает Флорану предметы.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Enticed. Tokens of merit can be exchanged for various goods here.",
+    "value": "Соблазненный. Здесь жетоны заслуг можно обменять на различные товары.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Gotta have some tokens of merit if I wish to trade here.",
+    "value": "Если я хочу торговать здесь, у меня должны быть какие-то знаки отличия.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "value": "Здесь жетоны заслуг можно обменять на различные товары.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Merchant detected. Purchases are made using tokens of merit.",
+    "value": "Торговец обнаружен. Покупки совершаются с использованием жетонов заслуг.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Robot sell things. Akki rather steal.",
+    "value": "Робот продает вещи. Акки скорее воровать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

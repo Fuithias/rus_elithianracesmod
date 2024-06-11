@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Vault Door",
+    "value": "Дверь хранилища Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door.",
+    "value": "Прочная металлическая противовзрывная дверь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sturdy metal blast door.",
+    "value": "Прочная металлическая противовзрывная дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny blast door.",
+    "value": "Блестящая взрывоопасная дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A blast door.",
+    "value": "Наблюдение. Взрывная дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal blast door. Cool.",
+    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal blast door.",
+    "value": "Металлическая взрывозащитная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A vault door. Useful for protecting valuable things.",
+    "value": "Дверь хранилища. Полезно для защиты ценных вещей.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This vault door will keep any potential intruders outside of our Terves.",
+    "value": "Эта дверь хранилища не позволит потенциальным злоумышленникам проникнуть за пределы нашего Тервеса.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan vault door. What might it be protecting?",
+    "value": "Дверь хранилища Авикан. Что он может защищать?",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Vault door. Protects Terves against potential intruders.",
+    "value": "Анализ. Дверь хранилища. Защищает Тервес от потенциальных злоумышленников.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-vault, keeps room secure.",
+    "value": "Дверь-хранилище, обеспечивает безопасность комнаты.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

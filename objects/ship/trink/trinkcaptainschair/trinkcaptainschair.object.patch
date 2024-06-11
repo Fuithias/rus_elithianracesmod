@@ -1,71 +1,71 @@
 [
   {
-    "value": "Trink Commander's Pod",
+    "value": "Капсула командира Тринка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Captain sits here to fly the ship.",
+    "value": "Капитан сидит здесь и управляет кораблем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A control pod, used by the robot controlling this ship.",
+    "value": "Модуль управления, используемый роботом, управляющим этим кораблем.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bulky control pod, for the ship's commander.",
+    "value": "Громоздкая капсула управления для командира корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal box for sssitting?",
+    "value": "Металлический ящик для сидения?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Anticipation. Where to next?",
+    "value": "Ожидание. Куда дальше?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Is this what the captain uses to control the ship? How odd.",
+    "value": "Это то, что капитан использует для управления кораблем? Как странно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A control pod with an interface for controlling the ship.",
+    "value": "Модуль управления с интерфейсом управления кораблем.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Is this supposed to be some sorta seat? Sure ain't looking comfortable.",
+    "value": "Это должно быть что-то вроде сиденья? Конечно, это выглядит неуютно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The Trink use control pods like these to control their ships.",
+    "value": "Тринк используют подобные капсулы управления для управления своими кораблями.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The control pod of the machine operating this ship.",
+    "value": "Панель управления машиной, управляющей этим кораблем.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This control pod allows access to the ship's navigation interface.",
+    "value": "Этот модуль управления обеспечивает доступ к навигационному интерфейсу корабля.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien technology. Analysis: ship control pod.",
+    "value": "Обнаружена инопланетная технология. Анализ: модуль управления кораблём.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chair-captain. Linked to console-navigation.",
+    "value": "Кресло-капитан. Связано с консольной навигацией.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

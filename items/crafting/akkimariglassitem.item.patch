@@ -1,11 +1,11 @@
 [
   {
-    "value": "A hard crystalline sheet similar to glass.",
+    "value": "Твердый кристаллический лист, похожий на стекло.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Glass",
+    "value": "Акрис Гласс",
     "path": "/shortdescription",
     "op": "replace"
   }

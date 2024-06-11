@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Console",
+    "value": "Консоль Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A computer console for wiring circuits together.",
+    "value": "Компьютерная консоль для соединения цепей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A console for controlling connected objects.",
+    "value": "Консоль для управления подключенными объектами.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This panel likely controls mechanisms nearby.",
+    "value": "Эта панель, вероятно, управляет механизмами поблизости.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Ssshiny buttonsss, Floran presss?",
+    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What will happen if I touch these buttons?",
+    "value": "Любопытный. Что произойдет, если я коснусь этих кнопок?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A control panel of some sort.",
+    "value": "Панель управления какая-то.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny console with an even shinier interface.",
+    "value": "Блестящая консоль с еще более блестящим интерфейсом.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This console's interface was built to accommodate for several Alliance species.",
+    "value": "Интерфейс этой консоли был создан для нескольких видов Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien interface. I can't make much sense of it.",
+    "value": "Чужой интерфейс. Я не могу понять этого.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This standard Alliance interface allows several Alliance species to operate this console.",
+    "value": "Этот стандартный интерфейс Альянса позволяет нескольким видам Альянса управлять этой консолью.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Console. Interface decryption failed.",
+    "value": "Анализ. Консоль. Расшифровка интерфейса не удалась.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "If Akki press button, things explode?",
+    "value": "Если Акки нажмет кнопку, все взорвется?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

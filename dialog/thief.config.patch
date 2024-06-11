@@ -205,7 +205,7 @@
     "op": "replace"
   },
   {
-    "value": "Ты не воруешь, ты злишь Аккимари!",
+    "value": "Ты не воруешь, ты злишь аккимари!",
     "path": "/accuse/akkimari/default/1",
     "op": "replace"
   },
@@ -215,7 +215,7 @@
     "op": "replace"
   },
   {
-    "value": "Если ты воруешь, Акки зовет стражу!",
+    "value": "Если ты воруешь, акки зовет стражу!",
     "path": "/accuse/akkimari/default/3",
     "op": "replace"
   },

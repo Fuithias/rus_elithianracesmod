@@ -1,11 +1,11 @@
 [
   {
-    "value": "A Trinkian laser repeater arm for modular mech suits.",
+    "value": "Лазерный репитер Trinkian для модульных механических костюмов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Laser Repeater Mech Arm",
+    "value": "Механическая рука с лазерным повторителем",
     "path": "/shortdescription",
     "op": "replace"
   }

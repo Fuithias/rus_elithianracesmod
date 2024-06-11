@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Canopy",
+    "value": "Авикан Навес",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy, to provide some shadow at someone's door.",
+    "value": "Кожаный навес, создающий тень у чьей-то двери.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather canopy. Effective, but not very pretty.",
+    "value": "Кожаный балдахин. Эффектно, но не очень красиво.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bland leather canopy.",
+    "value": "Мягкий кожаный балдахин.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Leather makesss Floran want to huntsss.",
+    "value": "Кожа вызывает у Флорана желание охотиться.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A simple leather canopy.",
+    "value": "Наблюдение. Простой кожаный балдахин.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy, simple but effective.",
+    "value": "Кожаный навес, простой, но эффективный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather canopy. Simple but effective.",
+    "value": "Кожаный балдахин. Простой, но эффективный.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather awning. Provides good protection against desert winds.",
+    "value": "Простой кожаный тент. Обеспечивает хорошую защиту от пустынных ветров.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A basic but functional leather canopy.",
+    "value": "Простой, но функциональный кожаный балдахин.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A leather awning.",
+    "value": "Кожаный тент.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Leather awning. Provides protection against desert winds.",
+    "value": "Кожаный тент. Обеспечивает защиту от ветров пустыни.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Canopy-leather, protect against wind.",
+    "value": "Балдахин-кожа, защищает от ветра.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

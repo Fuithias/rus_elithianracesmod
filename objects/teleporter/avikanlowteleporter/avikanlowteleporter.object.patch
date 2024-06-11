@@ -1,71 +1,71 @@
 [
   {
-    "value": "Small Avikan Teleporter",
+    "value": "Маленький Авиканский телепорт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.",
+    "value": "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Alien teleporter makesss Floran sssick...",
+    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation: This teleporter was built in an alien style.",
+    "value": "Наблюдение: Этот телепорт был построен в инопланетном стиле.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter built in an alien style.",
+    "value": "Телепорт, построенный в инопланетном стиле.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan teleporter. It emits particles reminiscent of those found in Centensian devices.",
+    "value": "Авиканский телепорт. Он испускает частицы, напоминающие те, что встречаются в устройствах Centensian.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter. These were rarely used back on Kadavan, but those times are long past...",
+    "value": "Телепортатор. На Кадаване их использовали редко, но те времена давно прошли...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter uses technologies invented by the Centens.",
+    "value": "Этот телепорт использует технологии, изобретенные Центенами.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Avikan teleportation device. Chance of successful teleportation: 99 percent.",
+    "value": "Обнаружено телепортационное устройство Авикан. Шанс на успешную телепортацию: 99 процентов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Teleporter-alien, make Akki feel dizzy.",
+    "value": "Телепорт-инопланетянин, застави Акки закружиться.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

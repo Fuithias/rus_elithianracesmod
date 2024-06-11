@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong metal beam.",
+    "value": "Прочная металлическая балка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Beam Horizontal",
+    "value": "Акрис Луч Горизонтальный",
     "path": "/shortdescription",
     "op": "replace"
   }

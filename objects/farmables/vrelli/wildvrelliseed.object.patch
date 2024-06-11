@@ -1,71 +1,71 @@
 [
   {
-    "value": "Vrelli Seed",
+    "value": "Семя Врелли",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A tall plant with a bright red colour.",
+    "value": "Высокое растение ярко-красного цвета.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thick red leaves. I'm sure you can make something edible from them.",
+    "value": "Толстые красные листья. Уверена, из них можно приготовить что-нибудь съедобное.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A bright red plant.",
+    "value": "Ярко-красное растение.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss bright red leavess.",
+    "value": "Флорану нравятся ярко-красные листья.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. Bright red leaves.",
+    "value": "Наблюдение. Ярко-красные листья.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A bright red plant. Is it edible?",
+    "value": "Ярко-красное растение. Это съедобно?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Thick, bright red leaves. An odd alien plant.",
+    "value": "Толстые, ярко-красные листья. Странное инопланетное растение.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "One could hide well amongst plants like these.",
+    "value": "Среди таких растений можно было хорошо спрятаться.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Strange, thick leaves with a bright red colour.",
+    "value": "Странные, толстые листья ярко-красного цвета.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant. It looks edible, but I'm not sure if it's safe.",
+    "value": "Инопланетное растение. Выглядит съедобно, но я не уверен, что это безопасно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "One could make a good paste from these leaves when powdered.",
+    "value": "Из этих листьев, измельченных в порошок, можно сделать хорошую пасту.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected native Akris flora. Vrelli leaves.",
+    "value": "Обнаружена местная флора Акриса. Врелли уходит.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki collect Vrelli, crush it to powder. Make paste-tasty from it!",
+    "value": "Акки собери Врелли, раздави в порошок. Приготовьте из него паштет-вкусно!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

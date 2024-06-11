@@ -1,101 +1,101 @@
 [
   {
-    "value": "This rock seems to respond to Blighted Stone Fragments. Perhaps if you collect a few more, you can open the way ahead?",
+    "value": "Этот камень реагирует на Осколки Оскверненного Камня. Возможно, если вы соберете еще несколько, сможете открыть путь вперед?",
     "path": "/remnantfragmentblockade-missingitems/text",
     "op": "replace"
   },
   {
-    "value": "This seems to be the source of the strange energies here. You'd better tell Ayala what you've found.",
+    "value": "Похоже, это источник странных энергий здесь. Лучше расскажи Айале, что ты нашел.",
     "path": "/remnantsplinter-foundgoal/text",
     "op": "replace"
   },
   {
-    "value": "Your target is the Violated Elite Drahl located in this area. Take it out, then find the return teleporter in a small storage room to the east.",
+    "value": "Твоя цель - взломанная элита драла, находящаяся в этом районе. Уничтожь её, затем найди телепорт для возвращения в маленькой комнате хранения на востоке.",
     "path": "/vanguarddronebattle1/text",
     "op": "replace"
   },
   {
-    "value": "You can enter the thieves' hideout through this crack in the rocks.",
+    "value": "Ты можешь войти в логово воров через эту трещину в скалах.",
     "path": "/avikanroguehunt1/text",
     "op": "replace"
   },
   {
-    "value": "Be careful: there's a lot of bandits in the area ahead.",
+    "value": "Будь осторожен: впереди много бандитов.",
     "path": "/avikanroguehunt2/text",
     "op": "replace"
   },
   {
-    "value": "The leader of the bandits waits just beyond. Be careful.",
+    "value": "Вождь бандитов ждет прямо за углом. Будь осторожен.",
     "path": "/avikanroguehunt3/text",
     "op": "replace"
   },
   {
-    "value": "You'll find a group of Akkimari scavengers beyond the cliffs ahead. Be careful: they appear to be heavily armed, and are assisted by drones and a Chaseflight.",
+    "value": "За скалами впереди ты найдешь группу аккимарийских мародеров. Будь осторожен: они, похоже, хорошо вооружены, и им помогают дроны и Чейсфлайт.",
     "path": "/akkimaridronebattle1/text",
     "op": "replace"
   },
   {
-    "value": "The target you are after is the large Akkimari Justicar just up ahead. Take it out, then find a return teleporter further to the east.",
+    "value": "Твоя цель - большой аккимарийский юстициар прямо впереди. Уничтожь его, затем найди телепорт для возвращения дальше на восток.",
     "path": "/akkimaridronebattle2/text",
     "op": "replace"
   },
   {
-    "value": "I have decrypted the security code for the door ahead. The passcode to unlock the door is 55512.",
+    "value": "Я расшифровал код безопасности для двери впереди. Пароль для разблокировки двери - 55512.",
     "path": "/akkimaridronebattle3/text",
     "op": "replace"
   },
   {
-    "value": "I am detecting multiple Vanguard Krahls in the room ahead. You should enter one.",
+    "value": "Я обнаруживаю несколько аванпостов кралов в комнате впереди. Тебе следует войти в один из них.",
     "path": "/vanguardmechunlock1/text",
     "op": "replace"
   },
   {
-    "value": "Your first assigned goal is to destroy all targets in this room. Your Krahl's primary explosive cannon should suffice here.",
+    "value": "Твоя первая задача - уничтожить все цели в этой комнате. Основная взрывная пушка крала должна справиться.",
     "path": "/vanguardmechunlock2/text",
     "op": "replace"
   },
   {
-    "value": "Rokhan is pleased with your progress so far, but there are a few more tests for you to run.",
+    "value": "Рокхан доволен твоим прогрессом, но есть еще несколько тестов, которые тебе нужно пройти.",
     "path": "/vanguardmechunlock3/text",
     "op": "replace"
   },
   {
-    "value": "Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air.",
+    "value": "Твой Крал оснащен мощными реактивными двигателями. Ты можешь активировать их, прыгнув в воздухе.",
     "path": "/vanguardmechunlock4/text",
     "op": "replace"
   },
   {
-    "value": "Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air.",
+    "value": "Реактивные двигатели крала имеют хороший радиус действия, но не могут использоваться бесконечно. Всегда следи за временем, проведенным в воздухе.",
     "path": "/vanguardmechunlock5/text",
     "op": "replace"
   },
   {
-    "value": "The Krahl is fully capable of underwater operation. Do not hesitate to jump in.",
+    "value": "Крал полностью способен работать под водой. Не стесняйся прыгнуть в воду.",
     "path": "/vanguardmechunlock6/text",
     "op": "replace"
   },
   {
-    "value": "I am detecting low levels of light. You can use the ^green;[F] ^reset;button to activate the Krahl's headlights.",
+    "value": "Я обнаруживаю низкий уровень освещения. Ты можешь использовать кнопку ^green;[F] ^reset;для активации фар крала.",
     "path": "/vanguardmechunlock7/text",
     "op": "replace"
   },
   {
-    "value": "The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side.",
+    "value": "Реактивные двигатели крала также можно использовать для горизонтального полета. Попробуй долететь до другой стороны.",
     "path": "/vanguardmechunlock8/text",
     "op": "replace"
   },
   {
-    "value": "Your final challenge is to reach the room on the other side of this valley. I am detecting multiple hostiles on your path.",
+    "value": "Твое последнее испытание - добраться до комнаты на другой стороне этой долины. Я обнаруживаю несколько враждебных объектов на твоем пути.",
     "path": "/vanguardmechunlock9/text",
     "op": "replace"
   },
   {
-    "value": "The Krahl will not fit through this small door. Jump out to proceed to the teleporter.",
+    "value": "Крал не пройдет через эту маленькую дверь. Выпрыгни, чтобы пройти к телепорту.",
     "path": "/vanguardmechunlock10/text",
     "op": "replace"
   },
   {
-    "value": "This teleporter marks the end of the testing course. You should return to Rokhan.",
+    "value": "Этот телепорт отмечает конец испытательного курса. Ты должен вернуться к Рокхану.",
     "path": "/vanguardmechunlock11/text",
     "op": "replace"
   }

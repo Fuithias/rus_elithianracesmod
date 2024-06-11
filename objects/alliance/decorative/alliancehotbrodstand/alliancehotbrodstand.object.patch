@@ -1,71 +1,71 @@
 [
   {
-    "value": "Hotbröd Stand",
+    "value": "Стенд Хотбрёд",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This place sells Hotbröd.",
+    "value": "Здесь продается Хотбрёд.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This place sells bread of some kind.",
+    "value": "Здесь продают какой-то хлеб.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This place sells delicious bread!",
+    "value": "Здесь продают вкусный хлеб!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not know what to think of alien breadss.",
+    "value": "Флоран не знает, что и думать об инопланетном хлебе.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This place sells a type of warm bread.",
+    "value": "Наблюдение. В этом месте продают теплый хлеб.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Hotbröd? That sounds familiar...",
+    "value": "Хотбрёд? Это звучит знакомо...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A stand for baking and selling some type of bread.",
+    "value": "Стенд для выпечки и продажи хлеба.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "They sell some sorta bread here.",
+    "value": "Здесь продают какой-то хлеб.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Hotbröd stand. They've grown in popularity over the past few years.",
+    "value": "Стенд Хотбрёда. За последние несколько лет их популярность возросла.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I smell alien food. It reminds of of the smell of dunebuns.",
+    "value": "Я чувствую запах чужой еды. Напоминает запах дюновых булочек.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A place that sells Hotbröd, an Aeginian delicacy.",
+    "value": "Место, где продают Хотбрёд, эгинский деликатес.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien food. Recommend caution.",
+    "value": "Обнаружена инопланетная еда. Рекомендую осторожность.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki smell food. Hungry now!",
+    "value": "Акки чувствует запах еды. Голодный сейчас!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

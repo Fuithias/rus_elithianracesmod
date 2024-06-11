@@ -1,31 +1,31 @@
 [
   {
-    "value": "Trinkian Switch",
+    "value": "Тринкианский переключатель",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small switch.",
+    "value": "Небольшой переключатель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ssswitch!",
+    "value": "Переключись!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A switch.",
+    "value": "Заявление. Переключатель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Switch. Used to power on and off various objects.",
+    "value": "Анализ. Выключатель. Используется для включения и выключения различных объектов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki flip switch. Flip, flip and flip again!",
+    "value": "Перекидной переключатель Акки. Переворачивайте, переворачивайте и еще раз переворачивайте!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

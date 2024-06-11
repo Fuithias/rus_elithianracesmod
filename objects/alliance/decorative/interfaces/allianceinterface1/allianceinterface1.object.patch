@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Interface",
+    "value": "Интерфейс Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An interface displaying tactical information.",
+    "value": "Интерфейс, отображающий тактическую информацию.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An interface displaying some information.",
+    "value": "Интерфейс, отображающий некоторую информацию.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of interface.",
+    "value": "Какой-то интерфейс.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran got yelled at when Floran wrote on a ssscreen...",
+    "value": "На Флорана накричали, когда Флоран писал на экране...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. An interface.",
+    "value": "Наблюдение. Интерфейс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A fancy interface.",
+    "value": "Причудливый интерфейс.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegantly designed interface.",
+    "value": "Элегантный интерфейс.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I reckon this interface is showing some important stuff, but I can't read any of it.",
+    "value": "Я считаю, что этот интерфейс показывает что-то важное, но я не могу ничего прочитать.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An interface displaying useful information.",
+    "value": "Интерфейс, отображающий полезную информацию.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien interface. It's gibberish to me.",
+    "value": "Чужой интерфейс. Для меня это брехня.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This interface is quite efficient.",
+    "value": "Этот интерфейс довольно эффективен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien interface. Attempting translation.",
+    "value": "Обнаружен инопланетный интерфейс. Попытка перевода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Interface-alien. Akki not can translate.",
+    "value": "Интерфейс-чужой. Акки не может перевести.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

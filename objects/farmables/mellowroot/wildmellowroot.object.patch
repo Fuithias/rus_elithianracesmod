@@ -1,71 +1,71 @@
 [
   {
-    "value": "Mellowroot Seed",
+    "value": "Семя медного корня",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A soft, juicy vegetable high in nutrients.",
+    "value": "Мягкий, сочный овощ с высоким содержанием питательных веществ.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Soft, juicy vegetables.",
+    "value": "Мягкие, сочные овощи.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I prefer the seeds, but the crop itself is okay too.",
+    "value": "Я предпочитаю семена, но и сам урожай тоже нормальный.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran thinksss thiss plant iss too mushy.",
+    "value": "Флоран думает, что это растение слишком мягкое.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. This soft vegetable is high in nutrients.",
+    "value": "Информирован. Этот мягкий овощ богат питательными веществами.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This crop is far too mushy for me.",
+    "value": "Для меня этот урожай слишком мягкий.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A soft, watery vegetable.",
+    "value": "Мягкий, водянистый овощ.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just some kinda soft herb.",
+    "value": "Просто какая-то мягкая трава.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The mellowroot is a vital part of a good meal.",
+    "value": "Тысячелистник — жизненно важная часть хорошей еды.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plant. It's very juicy, unlike anything on Kadavan.",
+    "value": "Инопланетное растение. Он очень сочный, не похожий ни на что на Кадаване.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This crop is nutrient-rich.",
+    "value": "Эта культура богата питательными веществами.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien flora. Detected high quantities of water inside.",
+    "value": "Обнаружена чужеродная флора. Обнаружено большое количество воды внутри.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Plant-wet, juicy-very. Akki not sure what to think.",
+    "value": "Растение-влажное, сочное-очень. Акки не знает, что и думать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

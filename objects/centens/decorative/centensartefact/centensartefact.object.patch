@@ -1,71 +1,71 @@
 [
   {
-    "value": "Centensian Artefact",
+    "value": "Центенсийский артефакт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An ancient artefact, created by the Centens.",
+    "value": "Древний артефакт, созданный Центенами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A perfect cube levitating above a pedestal. What might this be?",
+    "value": "Идеальный куб, парящий над пьедесталом. Что это может быть?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An artefact of ancient times, no doubt.",
+    "value": "Артефакт древних времен, без сомнения.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what cube isss...",
+    "value": "Флорану интересно, что за куб...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. This appears to be a truly ancient artefact.",
+    "value": "Заинтригован. Похоже, это действительно древний артефакт.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A spinning, levitating cube above some sort of pedestal. Is it valuable?",
+    "value": "Вращающийся парящий куб над каким-то постаментом. Это ценно?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A mysterious cube. It feels like it's been here for eons.",
+    "value": "Таинственный куб. Такое ощущение, что это было здесь целую вечность.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A weird cube floatin' 'bove some sorta pedestal.",
+    "value": "Странный куб, парящий над каким-то пьедесталом.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian artefact of sorts. I have no idea what its purpose is.",
+    "value": "Своего рода центенский артефакт. Я понятия не имею, какова его цель.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An artefact left behind by the Old Ones. I should make sure it doesn't fall into the hands of the Thell.",
+    "value": "Артефакт, оставленный Древними. Я должен убедиться, что оно не попадет в руки Теллов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A Centensian artefact. Its purpose is unknown.",
+    "value": "Центенсийский артефакт. Его цель неизвестна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Centensian artefact. Recommend immediate extraction by Nomada salvage crew.",
+    "value": "Обнаружен центенский артефакт. Рекомендовать немедленную эвакуацию спасательной бригадой Nomada.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Cube-strange, artefact-god-maker.",
+    "value": "Странный куб, создатель бога-артефакта.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Grenade launcher ammunition that briefly stuns targets on detonation.",
+    "value": "Боеприпасы для гранатомета, кратковременно оглушающие цель при взрыве.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Stun Ammo",
+    "value": "Оглушающие боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

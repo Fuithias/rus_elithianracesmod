@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Ship Light",
+    "value": "Акрис Шип Лайт",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple light strip.",
+    "value": "Простая световая полоска.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A light strip. It flickers gently.",
+    "value": "Светлая полоска. Он мягко мерцает.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsating light. It's strangely calming.",
+    "value": "Пульсирующий свет. Это странно успокаивает.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Light pulsssatess.",
+    "value": "Световой пульсссс.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This light pulsates slowly.",
+    "value": "Наблюдение. Этот свет медленно пульсирует.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsing light source. It feels quite natural.",
+    "value": "Пульсирующий источник света. Это кажется вполне естественным.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A pulsating light, it feels alive.",
+    "value": "Пульсирующий свет, он кажется живым.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This light pulsates slowly, like a breathing star.",
+    "value": "Этот свет медленно пульсирует, как дышащая звезда.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This light pulsates slowly, almost like it is alive.",
+    "value": "Этот свет медленно пульсирует, почти как живой.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A strange, pulsating alien light.",
+    "value": "Странный, пульсирующий инопланетный свет.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This light isn't very efficient.",
+    "value": "Этот свет не очень эффективен.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected pulsating light source.",
+    "value": "Обнаружен пульсирующий источник света.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-pulsing makes Akkimari feel calm.",
+    "value": "Пульсирующий свет успокаивает Аккимари.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

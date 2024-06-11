@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick allosteel plating, for greater durability.",
+    "value": "Толстое покрытие из аллостали для большей долговечности.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Thick Allosteel",
+    "value": "Толстая аллосталь",
     "path": "/shortdescription",
     "op": "replace"
   }

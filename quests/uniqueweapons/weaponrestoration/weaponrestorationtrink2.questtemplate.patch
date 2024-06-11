@@ -1,17 +1,17 @@
 [
   {
-      "value": "^orange;Prime Circuit II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Схема прайм II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "The first step in rebuilding the Prime Circuit is to ^green;create an ^orange;Electromagnetic Extractor ^green;at a Circuit Fabricator^white;. The materials I need will be listed in the Fabricator's user interface.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Первый шаг в восстановлении Схема прайм - ^green;создать ^orange;Электромагнитный экстрактор ^green;на Фабрикаторе схем^white;. Материалы, которые мне понадобятся, будут указаны в интерфейсе пользователя Фабрикатора.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Now that I have the Extractor, I can start collecting the materials I need for the Prime Circuit.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Теперь, когда у меня есть Экстрактор, я могу начать собирать материалы, необходимые для Схема прайм.",
+    "path": "/completionText",
+    "op": "replace"
   }
 ]

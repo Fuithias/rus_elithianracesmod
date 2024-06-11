@@ -1,31 +1,31 @@
 [
   {
-    "value": "Odyin's Weapons Cache",
+    "value": "Тайник с оружием Одина",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A Vanguard weapons distributor, Odyin as-Rhadeis offers only the best goods.",
+    "value": "Дистрибьютор оружия Vanguard, Odyin as-Rhadeis, предлагает только лучшие товары.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Weaponsss for ssale.",
+    "value": "Оружие на продажу.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This merchant offers a variety of weapons.",
+    "value": "Наблюдение. Этот торговец предлагает разнообразное оружие.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Vanguard-approved weapons distributor. Name: Odyin as-Rhadeis.",
+    "value": "Обнаружен одобренный Vanguard дистрибьютор оружия. Имя: Одинин ас-Радейс.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Alien-tough. Make for fight-good.",
+    "value": "Инопланетянин-крепкий. Готовься к бою-хорошо.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

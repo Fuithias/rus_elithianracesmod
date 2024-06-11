@@ -1,16 +1,16 @@
 [
   {
-    "value": "Describe things in the world and scan objects for printing. ^green;Quick select with [N] key.",
+    "value": "Описывайте вещи в мире и сканируйте объекты для печати. ^green;Быстрый выбор клавишей [N].",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Scanning Mode",
+    "value": "Режим сканирования",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Tool",
+    "value": "Инструмент",
     "path": "/category",
     "op": "replace"
   }

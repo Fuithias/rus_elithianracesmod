@@ -1,11 +1,11 @@
 [
   {
-    "value": "An Alliance armour power core. Increases the user's strength.",
+    "value": "Силовое ядро ​​брони Альянса. Увеличивает силу пользователя.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Nucleus v2.M",
+    "value": "Ядро v2.М",
     "path": "/shortdescription",
     "op": "replace"
   }

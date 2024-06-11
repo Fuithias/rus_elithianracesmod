@@ -1,11 +1,11 @@
 [
   {
-    "value": "A metal container filled with fertile dirt, ready for farming.",
+    "value": "Металлический контейнер, наполненный плодородной землей, готовый к сельскому хозяйству.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Farming Block",
+    "value": "Фермерский блок Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

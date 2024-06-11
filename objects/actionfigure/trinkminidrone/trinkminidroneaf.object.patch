@@ -1,11 +1,11 @@
 [
   {
-    "value": "Trinkian Minidroid Figurine",
+    "value": "Тринкианская фигурка минидроида",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"A small drone used for patrolling and scouting ahead.\"",
+    "value": "На этикетке написано: «Небольшой дрон, используемый для патрулирования и разведки впереди».",
     "path": "/description",
     "op": "replace"
   }

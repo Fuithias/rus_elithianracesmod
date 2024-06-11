@@ -1,11 +1,11 @@
 [
   {
-    "value": "A strong reinforced rail.",
+    "value": "Прочный усиленный рельс.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Dark Avikan Rail",
+    "value": "Темный Авикан Рейл",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "^#BA66FF;Копье, выдаваемое истинным кеффрайдерам.",
+    "value": "^#BA66FF;Копье, выдаваемое истинным кеффоходам.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Копье Кеффрайдера^reset;",
+    "value": "^#BA66FF;Копье кеффохода^reset;",
     "path": "/shortdescription",
     "op": "replace"
   },

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A wrapped present containing something special. Hold ^green;[LMB] ^white;to open!",
+    "value": "Упакованный подарок, содержащий что-то особенное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Special Present^reset;",
+    "value": "^orange;Особый подарок^reset;",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Restoring The Past",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Восстановление Прошлого",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "That spear you carry, let me see it! Ah, yes... It is what I though it was: an ancient Vha'leihan Spear! I know how to repair it, but we'll need some exceedingly rare items for it. ^green;Scour the galaxy for Centensian ruins and find a ^orange;Centensian Relic^white; - a sort of hovering metal cube - then we can continue.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Это копьё, что вы несёте, дайте-ка взглянуть! Ах, да... Это то, о чём я думал: древнее копьё Вха'лейхана! Я знаю, как его починить, но нам понадобятся чрезвычайно редкие предметы для этого. ^green;Изучите галактику в поисках центенских руин и найдите ^orange;центенскую реликвию^white; - своего рода парящий металлический куб - тогда мы сможем продолжить.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Few know how to open these types of containers, but I do. Ah, and as I expected, there was a Xanafian Shard contained within - exactly what we needed. It's a small and weak one, but it'll do.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Мало кто знает, как открывать такие контейнеры, но я знаю. Ах, как я и ожидал, внутри был Ксанафианский осколок - именно то, что нам нужно. Он маленький и слабый, но подойдёт.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Ванхасу ^reset;в ^orange;убежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

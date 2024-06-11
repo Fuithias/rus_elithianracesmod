@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Books",
+    "value": "Книги Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A collection of books on various topics.",
+    "value": "Коллекция книг на различные темы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Books. They might hold information valuable to the rebels.",
+    "value": "Книги. Они могут хранить информацию, ценную для повстанцев.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "What might these books be written about?",
+    "value": "О чем могут быть написаны эти книги?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran doesss not like reading...",
+    "value": "Флоран не любит читать...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What might be written in these books?",
+    "value": "Любопытный. Что может быть написано в этих книгах?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Plain old books. Dull topics only.",
+    "value": "Обычные старые книги. Только скучные темы.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Books are a grand source of knowledge.",
+    "value": "Книги – это великий источник знаний.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I ain't got time for readin'.",
+    "value": "У меня нет времени на чтение.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Books written on various topics, all equally interesting.",
+    "value": "Книги, написанные на разные темы, все одинаково интересны.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien scrolls, I think. I can't read any of it.",
+    "value": "Думаю, инопланетные свитки. Я ничего не могу прочитать.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Books are an inefficient method of transferring and storing knowledge.",
+    "value": "Книги — неэффективный метод передачи и хранения знаний.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien writings. Indexing.",
+    "value": "Обнаружены инопланетные письмена. Индексирование.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Books. Akki not want to read.",
+    "value": "Книги. Акки не хочу читать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

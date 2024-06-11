@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Day/Night Sensor",
+    "value": "Датчик дня/ночи Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sensor that detects the current time of day.",
+    "value": "Датчик, определяющий текущее время суток.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sensor that detects the time of day.",
+    "value": "Датчик, определяющий время суток.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This sensor senses the time of day.",
+    "value": "Этот датчик определяет время суток.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssenssor tellss Floran the time of day",
+    "value": "Сссенсор сообщает Флорану время суток.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This sensor detects the current time of day.",
+    "value": "Наблюдение. Этот датчик определяет текущее время суток.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This will tell me the time of day, but only in absolutes.",
+    "value": "Это скажет мне время суток, но только в абсолютных значениях.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This sensor turns on and off depending on the time of day.",
+    "value": "Этот датчик включается и выключается в зависимости от времени суток.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda time-telling device.",
+    "value": "Что-то вроде устройства для измерения времени.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This sensor tells day from night.",
+    "value": "Этот датчик отличает день от ночи.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A sensor that tells you the time of day. Might as well look at the sun.",
+    "value": "Датчик, который сообщает вам время суток. С таким же успехом можно было бы посмотреть на солнце.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A sensor that changes output depending on the time of day.",
+    "value": "Датчик, который меняет выходной сигнал в зависимости от времени суток.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Sensor. Detects time of day.",
+    "value": "Анализ. Датчик. Определяет время суток.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki can tell time here.",
+    "value": "Акки может определять время здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

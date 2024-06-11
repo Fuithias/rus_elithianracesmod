@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Nomada Spear",
+    "value": "Копье Номады",
     "path": "/shortdescription",
     "op": "replace"
   }

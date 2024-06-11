@@ -1,71 +1,71 @@
 [
   {
-    "value": "Dremeton Plushie",
+    "value": "Дреметон Плюшевый",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A toy Dremeton made of soft fabrics.",
+    "value": "Игрушка Дреметон из мягких тканей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This creature looks aquatic.",
+    "value": "Это существо выглядит водным.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A children's toy, some kind of aquatic alien.",
+    "value": "Детская игрушка, какой-то водный инопланетянин.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss thiss one cute.",
+    "value": "Флорану это кажется милым.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Curious. What sort of creature might this represent?",
+    "value": "Любопытный. Какое существо это может представлять?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien plushie. It looks aquatic.",
+    "value": "Инопланетная плюшевая игрушка. Выглядит водным.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "I feel like these creatures might also be dwellers of the oceans.",
+    "value": "Мне кажется, что эти существа тоже могут быть обитателями океанов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda plushie.",
+    "value": "Какая-то плюшевая штука.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This plushie Dremeton is quite popular amongst Aeginian children. Adults too, actually.",
+    "value": "Этот плюшевый Дреметон очень популярен среди эгинских детей. Взрослые, кстати, тоже.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien toy. I think it might be based on an aquatic creature.",
+    "value": "Инопланетная игрушка. Я думаю, что это может быть основано на водном существе.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "It's a toy Dremeton.",
+    "value": "Это игрушечный Дреметон.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien toy.",
+    "value": "Обнаружена инопланетная игрушка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Toy-alien, soft-very.",
+    "value": "Игрушка-инопланетянка, мягкая-очень.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

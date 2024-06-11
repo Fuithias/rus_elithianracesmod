@@ -1,71 +1,71 @@
 [
   {
-    "value": "S.A.I.L",
+    "value": "ПЛЫТЬ",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "value": "Решетка искусственного интеллекта корабельного базирования, или сокращенно ПАРУС.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "I can talk to SAIL through this console.",
+    "value": "Я могу общаться с SAIL через эту консоль.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I can use this station to talk to SAIL.",
+    "value": "Я могу использовать эту станцию, чтобы поговорить с SAIL.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran use thisss magic panel to talk to SAIL!",
+    "value": "Флоран использует эту волшебную панель, чтобы поговорить с ПАРУСОМ!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Happy. This station allows me to talk to SAIL.",
+    "value": "Счастливый. Эта станция позволяет мне разговаривать с SAIL.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This station allows me to communicate with SAIL.",
+    "value": "Эта станция позволяет мне общаться с SAIL.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This console allows me to communicate with SAIL.",
+    "value": "Эта консоль позволяет мне общаться с SAIL.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This here station let's me talk with SAIL.",
+    "value": "Вот эта станция, позволь мне поговорить с ПАРУСОМ.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This panel allows for interaction with SAIL, the ship-based AI.",
+    "value": "Эта панель позволяет взаимодействовать с SAIL, корабельным ИИ.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "The Nomada doesn't like AIs like SAIL, but the Protectorate insisted on installing it.",
+    "value": "Кочевнику не нравятся ИИ вроде SAIL, но Протекторат настоял на его установке.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I can speak to SAIL using this console. It's good to have another AI on the ship.",
+    "value": "Я могу разговаривать с SAIL с помощью этой консоли. Хорошо иметь на корабле еще один ИИ.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected SAIL interface. Console enables communication with SAIL.",
+    "value": "Обнаружен интерфейс SAIL. Консоль обеспечивает связь с SAIL.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki talk to SAIl here.",
+    "value": "Акки поговорит здесь с САИлом.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Trinkian Floor",
+    "value": "Тринкский пол",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal floor full of wires and circuitboards.",
+    "value": "Металлический пол, полный проводов и схем.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fascinated. Why are there so many wires and circuitboards inside this panel?",
+    "value": "Заворожен. Почему в этой панели так много проводов и схем?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what thiss panel iss made of?",
+    "value": "Флорану интересно, из чего сделана эта панель?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A floor panel o' sorts.",
+    "value": "Полевая панель.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Panel is filled with wiring and circuitboards.",
+    "value": "Анализ завершен. Панель заполнена проводами и схемами.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel filled with wires. Akki connect them all!",
+    "value": "Панель, заполненная проводами. Акки соединяет их все!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

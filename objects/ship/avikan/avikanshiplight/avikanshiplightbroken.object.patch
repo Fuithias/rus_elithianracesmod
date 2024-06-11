@@ -1,61 +1,61 @@
 [
   {
-    "value": "Broken Avikan Ship Light",
+    "value": "Сломанный корабельный фонарь «Авикан»",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A malfunctioning light.",
+    "value": "Неисправный свет.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This light isn't getting enough power.",
+    "value": "Этому свету не хватает мощности.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A flickering light.",
+    "value": "Мерцающий свет.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Broken light makesss Floran dizzy.",
+    "value": "Сломанный свет вызывает у Флорана головокружение.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Concerned. This light is malfunctioning.",
+    "value": "Обеспокоенный. Этот свет неисправен.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This light's on the blink.",
+    "value": "Этот свет мигает.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An underpowered light.",
+    "value": "Недостаточно мощный свет.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This light ain't gettin' enough power.",
+    "value": "Этому свету не хватает мощности.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This light isn't working properly. The ship engineer should take a look at it.",
+    "value": "Этот свет не работает должным образом. Судовой инженер должен на это взглянуть.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Light detected. Status: broken.",
+    "value": "Обнаружен свет. Статус: сломан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Light-broken, Akki no like.",
+    "value": "Сломленный светом, Акки не похож.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Water Stall",
+    "value": "Водный ларек Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall filled with water containers.",
+    "value": "Рыночный прилавок, наполненный емкостями с водой.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Fresh water. Odd place to sell it.",
+    "value": "Пресная вода. Странное место для продажи.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Fresh and clean water - how much is it?",
+    "value": "Свежая и чистая вода – сколько стоит?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran sees Floran in watersss.",
+    "value": "Флоран видит Флорана в воде.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Caution. This water might be harmful to robotics.",
+    "value": "Осторожность. Эта вода может быть вредной для робототехники.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Fresh water? I could use a drink! Or two!",
+    "value": "Пресная вода? Мне бы выпить! Или два!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Few people but desert dwellers would sell water at a marketplace.",
+    "value": "Мало кто, кроме жителей пустыни, будет продавать воду на рынке.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Crystal clear water for sale here.",
+    "value": "Здесь продается кристально чистая вода.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Water - a rare resource on Kadavan, but one that is absolutely essential to our survival.",
+    "value": "Вода — редкий ресурс на Кадаване, но он абсолютно необходим для нашего выживания.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Crystal clear water. The Avikan value it more than most.",
+    "value": "Кристально чистая вода. Авиканцы ценят это больше, чем кто-либо другой.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected water supply. Readings indicate a low level of contamination.",
+    "value": "Обнаружен запас воды. Показания указывают на низкий уровень загрязнения.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Water. Akki drink up here.",
+    "value": "Вода. Акки выпей здесь.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

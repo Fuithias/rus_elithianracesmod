@@ -1,71 +1,71 @@
 [
   {
-    "value": "Vahlberry Seed",
+    "value": "Семена Валберри",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Juicy berries full of vitamins.",
+    "value": "Сочные ягоды, полные витаминов.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Brightly coloured berries grow from this plant. They look delicious.",
+    "value": "На этом растении растут яркие ягоды. Они выглядят восхитительно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Delicious berries!",
+    "value": "Вкусные ягоды!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran likesss ssoft berriess.",
+    "value": "Флорану нравятся мягкие ягоды.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Informed. Crushing these berries can create a sticky mess.",
+    "value": "Информирован. Измельчение этих ягод может привести к образованию липкого беспорядка.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Alien berries, they look delicious!",
+    "value": "Чужеродные ягоды, они выглядят очень вкусно!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Bright fruit from another world. Is it safe to eat?",
+    "value": "Яркие фрукты из другого мира. Безопасно ли есть?",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Berries. Tiny balls of sugar.",
+    "value": "Ягоды. Крошечные шарики сахара.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Vahlberries are an Aeginian favourite.",
+    "value": "Валберри – любимое блюдо эгинцев.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Alien fruit. I'm not sure if I should try to eat them.",
+    "value": "Чужеродный фрукт. Я не уверен, стоит ли мне пытаться их съесть.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Vahlberries are popular amongst the Aegi.",
+    "value": "Валберри популярны среди эги.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien plantlife. Analysis: fruit-bearing plant. Rich in vitamins.",
+    "value": "Обнаружена инопланетная растительная жизнь. Анализ: плодоносящее растение. Богат витаминами.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki enjoy tasting tastes-new. Berries look tasty!",
+    "value": "Акки наслаждается дегустацией новых вкусов. Ягоды выглядят аппетитно!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

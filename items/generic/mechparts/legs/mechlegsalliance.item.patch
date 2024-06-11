@@ -1,11 +1,11 @@
 [
   {
-    "value": "Reliable mech legs built by Enerth Engineering.",
+    "value": "Надежные механические ножки, созданные компанией Enerth Engineering.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Guardian Mech Legs",
+    "value": "Ноги робота-защитника",
     "path": "/shortdescription",
     "op": "replace"
   }

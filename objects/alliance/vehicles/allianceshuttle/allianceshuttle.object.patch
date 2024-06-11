@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Shuttlecraft",
+    "value": "Шаттл Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A ground-to-space transport vessel.",
+    "value": "Транспортный корабль земля-космос.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This shuttle can transport people and cargo from the surface to spaceships in orbit.",
+    "value": "Этот шаттл может перевозить людей и грузы с поверхности на космические корабли на орбите.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A flying transport vehicle. It would be better with wings.",
+    "value": "Летающий транспортный автомобиль. Лучше бы с крыльями.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Flying in sssmall sship makess Floran sssick.",
+    "value": "От полета на маленьком корабле Флорану тошнит.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This vehicle can easily transport people and cargo from the ground into orbit.",
+    "value": "Очарованный. Этот аппарат сможет легко перевозить людей и грузы с Земли на орбиту.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A shuttle, for ground-to-space transportation.",
+    "value": "Шаттл для наземных перевозок в космос.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A sleek transportation vessel.",
+    "value": "Элегантное транспортное судно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I'm sure this'll fly like a charm.",
+    "value": "Я уверен, что это пройдёт как волшебство.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The ASA-26 Ranger, perhaps the most popular vehicle built by ASA.",
+    "value": "ASA-26 Ranger, пожалуй, самая популярная машина, построенная ASA.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien shuttle. It reminds me a bit of our own dropships.",
+    "value": "Инопланетный шаттл. Это немного напоминает мне наши десантные корабли.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The ASA-26 Ranger is a highly efficient shuttle, and deserves to be so popular.",
+    "value": "ASA-26 Ranger — высокоэффективный шаттл, заслуживающий такой популярности.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien spacecraft.",
+    "value": "Обнаружен космический корабль пришельцев.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Vehicle-armoured.",
+    "value": "Автомобиль-бронированный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

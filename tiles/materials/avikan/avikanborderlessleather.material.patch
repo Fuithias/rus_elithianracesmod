@@ -1,36 +1,36 @@
 [
   {
-    "value": "Borderless Avikan Leather",
+    "value": "Кожа без границ авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather wall sheet for decoration and insulation.",
+    "value": "Кожаная стеновая панель для украшения и утепления.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Cautious. This leather wall sheet can easily catch fire.",
+    "value": "Осторожно. Эта кожаная стеновая панель легко воспламеняется.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran isss reminded of home by leather ssheets.",
+    "value": "Флоран вспоминает дом, глядя на кожаные панели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "A leather sheet great for makin' tents, but otherwise it's rather dull.",
+    "value": "Кожаная панель хороша для палаток, но в остальном довольно скучная.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Leather wall sheet.",
+    "value": "Анализ завершен. Кожаная стеновая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Leather-tough. Akki like the pattern.",
+    "value": "Кожа-прочная. Акки нравится узор.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Chair",
+    "value": "Авикан Стул",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A modern, heavy chair.",
+    "value": "Современный тяжелый стул.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A chair with a comfortable leather cushion.",
+    "value": "Кресло с удобной кожаной подушкой.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable chair.",
+    "value": "Удобное кресло.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Chairsss for sssitting!",
+    "value": "Стульчик для сидения!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. A chair.",
+    "value": "Заявление. Кресло.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A chair. Incredibly comfortable.",
+    "value": "Кресло. Невероятно удобно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A very comfortable chair.",
+    "value": "Очень удобное кресло.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy chair, but incredibly comfortable.",
+    "value": "Тяжелое кресло, но невероятно удобное.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A modern Avikan chair. Even more comfortable than our leather cushions.",
+    "value": "Современный стул Авикан. Еще удобнее, чем наши кожаные подушки.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A reportedly comfortable chair.",
+    "value": "Сообщается, что удобное кресло.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scans indicicate damaged leather. Repairs are recommended.",
+    "value": "Сканирование указывает на повреждение кожи. Рекомендуется ремонт.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chair-alien. Weird, but nice.",
+    "value": "Кресло-инопланетянин. Странно, но приятно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

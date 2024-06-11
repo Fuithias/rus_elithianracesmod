@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Reinforced Door",
+    "value": "Акрис Армированная Дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavily reinforced door covered in external scrap plating.",
+    "value": "Сильно усиленная дверь, покрытая снаружи металлоломом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This blast door is incredibly sturdy. The scrap metal plating provides additional shielding.",
+    "value": "Эта противовзрывная дверь невероятно прочна. Покрытие из металлолома обеспечивает дополнительную защиту.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This door looks shoddy from the outside, but inside it's incredibly well-designed.",
+    "value": "Эта дверь снаружи выглядит дрянной, но внутри она невероятно хорошо спроектирована.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Metal platesss on heavy door isss for extra protection. Floran sssmart!",
+    "value": "Металлические пластины на тяжелой двери для дополнительной защиты. Флоран умничка!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Intrigued. The scrappy plating on the outside provides good protection against physical impacts.",
+    "value": "Заинтригован. Лоскутное покрытие снаружи обеспечивает хорошую защиту от физических воздействий.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "It looks real shoddy from the outside, but this door is really quite sturdy.",
+    "value": "Снаружи она выглядит очень дрянной, но эта дверь на самом деле довольно прочная.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A blast door covered in crude metal plates. Effective, but not especially elegant.",
+    "value": "Взрывобезопасная дверь, покрытая грубыми металлическими пластинами. Эффектно, но не особенно элегантно.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Someone welded a couple o' plates to the outside.",
+    "value": "Кто-то приварил пару пластин снаружи.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This blast door uses scrap metal plating as an additional layer of protection.",
+    "value": "В этой противовзрывной двери в качестве дополнительного уровня защиты используется металлолом.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy alien blast door covered in scrap metal.",
+    "value": "Тяжелая противовзрывная дверь пришельцев, заваленная металлоломом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This door looks shoddy, but the design is amazingly efficient.",
+    "value": "Эта дверь выглядит дрянной, но конструкция удивительно эффективна.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected blast door. Scrap metal plating provides additional shielding.",
+    "value": "Обнаружена взрывоопасная дверь. Металлолом обеспечивает дополнительную защиту.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki safe behind door. Door can stop anything!",
+    "value": "Акки в безопасности за дверью. Дверь может остановить что угодно!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

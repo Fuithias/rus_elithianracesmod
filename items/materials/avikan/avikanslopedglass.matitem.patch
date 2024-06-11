@@ -1,11 +1,11 @@
 [
   {
-    "value": "Thick and strong glass often used on board spaceships.",
+    "value": "Толстое и прочное стекло часто используется на борту космических кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Avikan Sloped Glass",
+    "value": "Авикан Наклонное Стекло",
     "path": "/shortdescription",
     "op": "replace"
   }

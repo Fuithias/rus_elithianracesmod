@@ -1,16 +1,16 @@
 [
   {
-    "value": "A storage device containing the blueprints for the Prime Circuit.",
+    "value": "Устройство хранения данных, содержащее чертежи Главного контура.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Prime Circuit Blueprints^white;",
+    "value": "^orange;Чертежи Прайм Цепи^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Quest Item",
+    "value": "Квестовый предмет",
     "path": "/category",
     "op": "replace"
   }

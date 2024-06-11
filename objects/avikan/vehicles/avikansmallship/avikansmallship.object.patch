@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Skoff",
+    "value": "Авикан Скофф",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A small Avikan spaceship built for scouting purposes.",
+    "value": "Небольшой космический корабль Авикан, построенный для разведывательных целей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An alien spaceship. It could fit a small crew.",
+    "value": "Инопланетный космический корабль. Здесь мог поместиться небольшой экипаж.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "An alien spaceship. It can achieve flight without wings!",
+    "value": "Инопланетный космический корабль. Он может летать без крыльев!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not like sssmall sshipsss for sspace...",
+    "value": "Флорану не нравятся сссмаленькие кораблики для космоса...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. This small ship must be a joy to ride.",
+    "value": "Взволнованный. На этом маленьком корабле, должно быть, ездить одно удовольствие.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A small alien spaceship. Let's hijack it!",
+    "value": "Маленький инопланетный космический корабль. Давайте угоним его!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A small alien spaceship, but it looks fast and strong as well.",
+    "value": "Маленький инопланетный космический корабль, но при этом выглядит быстрым и сильным.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I'm sure she'll fly like a charm.",
+    "value": "Я уверен, что она будет летать как шарм.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan Skoff, these ships use some reverse-engineered Centensian technology.",
+    "value": "Эти корабли, называемые «Авикан Скофф», используют некоторые технологии Centensian, полученные методом реверс-инжиниринга.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A Skoff. Small, fast and powerful too, these ships are an excellent example of Avikan engineering.",
+    "value": "Скофф. Маленькие, быстрые и мощные, эти корабли являются прекрасным примером инженерной мысли Авикан.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A surprisingly efficient spaceship, built by the Avikan. I believe it is called a Skoff.",
+    "value": "Удивительно эффективный космический корабль, построенный компанией «Авикан». Кажется, это называется Скофф.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Skoff. Occupants: zero.",
+    "value": "Обнаружен Скофф. Количество жильцов: ноль.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Ship-alien, Akki want to fly.",
+    "value": "Корабль-инопланетянин, Акки хочет летать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

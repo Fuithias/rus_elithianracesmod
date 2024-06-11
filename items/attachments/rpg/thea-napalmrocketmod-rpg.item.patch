@@ -1,6 +1,6 @@
 [
   {
-    "value": "Rocket launcher ammunition that leaves behind fire after detonation.",
+    "value": "Боеприпасы для ракетной установки, оставляющие после себя пламя после детонации.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Napalm Rocket",
+    "value": "Напалмовая ракета",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

@@ -1,22 +1,22 @@
 [
   {
-      "value": "^orange;Acidic Warfare II",
-      "path": "/title",
-      "op": "replace"
+    "value": "^orange;Кислотная Война II",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Chacharra need materials. Many materials. Many pixels, too, want payment. ^green;Find Chacharra ^orange;12 Hardened Scrap Metal ^green;and ^orange;30000 Pixels^green;. ^white;Then Chacharra will make weapon for you.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Чачарре нужны материалы. Много материалов. Много пикселей тоже, хочу оплату. ^green;Найдите Чачарре ^orange;12 кусочков закалённого металла ^green;и ^orange;30000 пикселей^green;. ^white;Тогда Чачарра сделает для вас оружие.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Chacharra happy, have all Akki need. Here you go: weapon for you. Use it much, fights you win.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Чачарра счастлив, у него всё, что нужно. Вот ваше оружие: используйте его часто, победы вам гарантированы.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольство Креона^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

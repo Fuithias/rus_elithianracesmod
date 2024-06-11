@@ -1,71 +1,71 @@
 [
   {
-    "value": "Notix Plushie",
+    "value": "Нотикс Плюшевый",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A toy Notix made of soft fabrics.",
+    "value": "Игрушка Нотикс из мягкой ткани.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A stuffed toy. It's actually quite cute.",
+    "value": "Мягкая игрушка. На самом деле это довольно мило.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A toy for young ones. Not sure what it's supposed to be.",
+    "value": "Игрушка для самых маленьких. Не уверен, что это должно быть.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran findsss thiss one cute.",
+    "value": "Флорану это кажется милым.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Adoring. This plushie is cute.",
+    "value": "Обожаю. Этот плюшевый милый.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A plushie of some kind of cute alien. I love it!",
+    "value": "Плюшевый какой-то милый инопланетянин. Я люблю это!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This toy is rather cute.",
+    "value": "Эта игрушка довольно милая.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some kinda plushie.",
+    "value": "Какая-то плюшевая штука.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "These Notix plushies are quite popular.",
+    "value": "Эти плюшевые игрушки Notix довольно популярны.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien toy. It's very soft.",
+    "value": "Инопланетная игрушка. Он очень мягкий.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A stuffed representation of the Notix. I am uncertain what to think of it.",
+    "value": "Чучело Notix. Я не уверен, что об этом думать.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien toy.",
+    "value": "Обнаружена инопланетная игрушка.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki find it cute.",
+    "value": "Акки находит это милым.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

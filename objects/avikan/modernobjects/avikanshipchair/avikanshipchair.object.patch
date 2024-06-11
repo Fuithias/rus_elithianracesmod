@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Ship Chair",
+    "value": "Стул Корабль Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A chair found in Avikan cockpits.",
+    "value": "Кресло, найденное в кабине Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A chair. Looks like it was used recently.",
+    "value": "Кресло. Похоже, им пользовались недавно.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable chair.",
+    "value": "Удобное кресло.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Sssmells of alien butt.",
+    "value": "Пахнет инопланетной задницей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Surprised. This chair is rather comfortable.",
+    "value": "Удивлен. Это кресло довольно удобное.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A metal chair. How cool.",
+    "value": "Металлический стул. Как круто.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "An elegant chair.",
+    "value": "Элегантный стул.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A comfortable chair.",
+    "value": "Удобное кресло.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A modern chair. It supports my back very well, but getting my tail through the hole is a hassle.",
+    "value": "Современный стул. Он очень хорошо поддерживает мою спину, но протащить хвост через отверстие — хлопотно.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A chair. It was not built with my body shape in mind.",
+    "value": "Кресло. Он был создан не с учетом моей формы тела.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis: chair.",
+    "value": "Анализ: стул.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Chair-alien. Akki comfortable.",
+    "value": "Кресло-инопланетянин. Акки удобный.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

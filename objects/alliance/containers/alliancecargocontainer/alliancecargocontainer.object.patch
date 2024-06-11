@@ -1,71 +1,71 @@
 [
   {
-    "value": "Small AAE Cargo Container",
+    "value": "Малый грузовой контейнер AAE",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A cargo container used for cargo drops and transportation via spaceship.",
+    "value": "Грузовой контейнер, используемый для сброса и транспортировки грузов на космическом корабле.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A container for cargo drops.",
+    "value": "Контейнер для сброса груза.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A sky-chest.",
+    "value": "Небесный сундук.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran open it, find goodsss insside.",
+    "value": "Флоран открой его и найди внутри товар.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. A cargo drop crate, what might be inside?",
+    "value": "Взволнованный. Ящик для груза, что может быть внутри?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Surely there's something good inside.",
+    "value": "Наверняка внутри есть что-то хорошее.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A cargo container equally suited to spaceborne transportation and airborne cargo drops.",
+    "value": "Грузовой контейнер, одинаково подходящий как для космических перевозок, так и для десантирования грузов.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A container for cargo drops. Nice.",
+    "value": "Контейнер для сброса груза. Хороший.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A container often used for cargo drops.",
+    "value": "Контейнер, часто используемый для сброса грузов.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien container. It might contain alien goods.",
+    "value": "Инопланетный контейнер. Там могут быть инопланетные товары.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An efficiently designed cargo container.",
+    "value": "Эффективно спроектированный грузовой контейнер.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analyzing content.",
+    "value": "Анализ контента.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki see crates for from sky. Cargo-valuable?",
+    "value": "Акки вижу ящики с неба. Груз ценный?",
     "path": "/akkimariDescription",
     "op": "replace"
   }

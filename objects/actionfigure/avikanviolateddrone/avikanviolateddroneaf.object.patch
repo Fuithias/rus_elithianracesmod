@@ -1,11 +1,11 @@
 [
   {
-    "value": "Violated Drahl Figurine",
+    "value": "Оскверненная фигурка Драла",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The label reads, \"An Avikan Drahl, corrupted by Thelean Vesomeyr.\"",
+    "value": "На этикетке написано: «Авикан Драл, испорченный Телеаном Весомейром».",
     "path": "/description",
     "op": "replace"
   }

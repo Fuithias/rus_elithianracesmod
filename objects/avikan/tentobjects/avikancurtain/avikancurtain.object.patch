@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Curtain",
+    "value": "Авикан Шторы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather curtain. Common decoration for Avikan homes.",
+    "value": "Кожаная занавеска. Обычное украшение для домов Авикан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather curtain. What creature was this made from?",
+    "value": "Кожаная занавеска. Из какого существа было сделано это существо?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A leather curtain. Not very colourful.",
+    "value": "Кожаная занавеска. Не очень красочно.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tapessstry remindsss Floran of home.",
+    "value": "Гобелен напоминает Флорану дом.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Error. The animal from which this was made is not listed in my database.",
+    "value": "Ошибка. Животное, из которого это было сделано, не указано в моей базе данных.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather curtain. Not very well crafted.",
+    "value": "Простая кожаная штора. Не очень хорошо проработано.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive way to decorate one's home.",
+    "value": "Примитивный способ украсить свой дом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A curtain made of leather. Unusual.",
+    "value": "Штора из кожи. Необычный.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A leather curtain. They were never quite as popular as tapestries for home decoration.",
+    "value": "Кожаная занавеска. Они никогда не были так популярны, как гобелены для украшения дома.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A curtain made of leather.",
+    "value": "Штора из кожи.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Material: leather.",
+    "value": "Сканирование завершено. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Curtain for window.",
+    "value": "Штора для окна.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

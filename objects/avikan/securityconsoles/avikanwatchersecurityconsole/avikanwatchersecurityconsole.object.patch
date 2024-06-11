@@ -1,41 +1,41 @@
 [
   {
-    "value": "Watcher Security Console",
+    "value": "Консоль безопасности Watcher",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This console can only be activated using the correct security pass.",
+    "value": "Эту консоль можно активировать только с помощью правильного пароля.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran needsss ssecurity passs.",
+    "value": "Флорану нужны пропуска.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Frustrated. This console requires a valid security pass.",
+    "value": "Расстроенный. Для этой консоли требуется действительный пропуск безопасности.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta security terminal. Gotta have the right pass to access it.",
+    "value": "Какой-то терминал безопасности. Чтобы получить к нему доступ, нужен правильный пропуск.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "I'll need a security pass to access this console.",
+    "value": "Мне понадобится пропуск для доступа к этой консоли.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Nomada security terminal. Requires security pass to access.",
+    "value": "Обнаружен терминал безопасности Nomada. Для доступа требуется пропуск.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki try to hack, Akki fail. Need pass.",
+    "value": "Акки пытаются взломать, Акки терпят неудачу. Нужен пропуск.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

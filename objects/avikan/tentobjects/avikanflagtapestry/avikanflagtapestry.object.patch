@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Flag Tapestry",
+    "value": "Гобелен с флагом Авикана",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry, decorated with the Avikan flag.",
+    "value": "Кожаный гобелен, украшенный флагом Авикана.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A leather tapestry decorated with an emblem. I wonder what it means.",
+    "value": "Кожаный гобелен, украшенный гербом. Интересно, что это значит?",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A decorated leather tapestry. Are those wings?",
+    "value": "Украшенный кожаный гобелен. Это крылья?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tapessstry remindsss Floran of home.",
+    "value": "Гобелен напоминает Флорану дом.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Error. This emblem is not available in my database.",
+    "value": "Ошибка. Этой эмблемы нет в моей базе данных.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather tapestry, decorated with some sort of emblem. Not very well crafted.",
+    "value": "Простой кожаный гобелен, украшенный какой-то эмблемой. Не очень хорошо проработано.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A primitive way to decorate one's home.",
+    "value": "Примитивный способ украсить свой дом.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This emblem symbolizes the Avikan exodus from Kadavan.",
+    "value": "Эта эмблема символизирует исход авикан из Кадавана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A tapestry, decorated with our flag. One day, we will return to Kadavan and reclaim our home.",
+    "value": "Гобелен, украшенный нашим флагом. Однажды мы вернемся в Кадаван и вернем себе наш дом.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This emblem symbolizes a grand exodus.",
+    "value": "Эта эмблема символизирует великий исход.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Material: leather.",
+    "value": "Сканирование завершено. Материал: кожа.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Icon-alien. Akki think it mean Nomada.",
+    "value": "Значок-инопланетянин. Акки думает, что это означает Номада.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

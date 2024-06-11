@@ -1,56 +1,56 @@
 [
   {
-    "value": "Tele-2-Go",
+    "value": "Теле-2-Го",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "This shop offers personal teleporters in a variety of styles.",
+    "value": "Этот магазин предлагает персональные телепорты в самых разных стилях.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A shop selling teleporters. This could come in handy.",
+    "value": "Магазин по продаже телепортов. Это может пригодиться.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Oh, it's a shop selling teleportation devices! Very useful to know.",
+    "value": "О, это магазин по продаже устройств телепортации! Очень полезно знать.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can buy teleportersss from this shop.",
+    "value": "Флоран может купить телепорты в этом магазине.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Interested. A vendor selling teleportation devices!",
+    "value": "Заинтересовано. Продавец, торгующий устройствами телепортации!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A shop full of teleporters. A set up for the perfect getaway...",
+    "value": "Магазин, полный телепортов. Создан для идеального отдыха...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A shop selling teleporters. Maybe I should browse it.",
+    "value": "Магазин по продаже телепортов. Возможно, мне стоит просмотреть его.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A shop sellin' teleporters... If you've got a pot of pixels to spare.",
+    "value": "Магазин, торгующий телепортами... Если у вас есть лишняя горшок пикселей.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Detected merchant. Offers various personal teleporters.",
+    "value": "Обнаружен торговец. Предлагает различные персональные телепорты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki buy teleporter here. Akki use to infiltrate.",
+    "value": "Акки купи телепорт здесь. Акки используют для проникновения.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

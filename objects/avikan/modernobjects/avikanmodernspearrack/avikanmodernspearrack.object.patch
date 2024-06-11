@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Spear Rack",
+    "value": "Авикан Стойка для копий",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A rack of metal spears.",
+    "value": "Стойка с металлическими копьями.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Metal spears. Bulky, but strong and sharp.",
+    "value": "Металлические копья. Громоздкий, но сильный и острый.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Shiny metal spears. Would anyone mind if I take one of them?",
+    "value": "Блестящие металлические копья. Кто-нибудь будет возражать, если я возьму один из них?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Spearsss for sstabbing. Floran likesss sstabbing.",
+    "value": "Спирсс за ножевые ранения. Флорану нравится колоть.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Statement. Spears.",
+    "value": "Заявление. Спирс.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "These spears look quite intimidating.",
+    "value": "Эти копья выглядят довольно устрашающе.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Spears fit for an alien army.",
+    "value": "Копья подходят для инопланетной армии.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan Vanguard uses spears as their primary close-range weapon.",
+    "value": "Авиканский Авангард использует копья в качестве основного оружия ближнего боя.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Naught but the best spears for the Vanguard.",
+    "value": "Ничего, кроме лучших копий для Авангарда.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "These spears are sharper than they appear.",
+    "value": "Эти копья острее, чем кажутся.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Vanguard approved weapons detected.",
+    "value": "Анализ завершен. Обнаружено одобренное Vanguard оружие.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Sticks-pointy, for killing. Akki like killing.",
+    "value": "Палки-острые, для убийства. Акки любит убивать.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

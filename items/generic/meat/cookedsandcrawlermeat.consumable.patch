@@ -1,11 +1,11 @@
 [
   {
-    "value": "Slices of cooked Sandcrawler meat. Better not to think about it.",
+    "value": "Кусочки приготовленного мяса песчаного краулера. Лучше не думать об этом.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Cooked Sandcrawler Meat",
+    "value": "Приготовленное мясо песчаного краулера",
     "path": "/shortdescription",
     "op": "replace"
   }

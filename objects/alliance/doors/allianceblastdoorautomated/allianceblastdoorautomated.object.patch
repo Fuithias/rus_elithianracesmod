@@ -1,66 +1,66 @@
 [
   {
-    "value": "Alliance Automated Door",
+    "value": "Автоматическая дверь Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A highly resistant blast door.",
+    "value": "Взрывобезопасная дверь с высокой устойчивостью.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A heavy blast door.",
+    "value": "Тяжелая взрывоопасная дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A shiny blast door.",
+    "value": "Блестящая взрывоопасная дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran wondersss what is behind metal doorsss.",
+    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A blast door.",
+    "value": "Наблюдение. Взрывная дверь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A heavy metal blast door. Cool.",
+    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A metal blast door.",
+    "value": "Металлическая взрывозащитная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A thick blast door.",
+    "value": "Толстая взрывоопасная дверь.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien blast door.",
+    "value": "Взрывная дверь инопланетянина.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A strong blast door.",
+    "value": "Мощная взрывоопасная дверь.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Blast door detected.",
+    "value": "Обнаружена взрывоопасная дверь.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Door-thick, for resisting blasts.",
+    "value": "Толщина двери, для защиты от взрывов.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

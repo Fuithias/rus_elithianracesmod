@@ -1,11 +1,11 @@
 [
   {
-    "value": "Well-balanced boosters built by the Vanguard military.",
+    "value": "Хорошо сбалансированные ускорители, созданные военными Авангарда.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Vanguard Mech Boosters",
+    "value": "Ускорители мехов «Авангард»",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,281 +1,281 @@
 [
   {
-    "value": "^orange;Scrounger's Workshop^white;",
+    "value": "^orange;Мастерская Скрангера^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop with some simple tools.",
+    "value": "Базовый мастер-класс с простыми инструментами.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple scrappy workshop.",
+    "value": "Простой лоскутный мастер-класс.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop. It has a basic anvil too.",
+    "value": "Мастерская. У него также есть базовая наковальня.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Let's craft something!",
+    "value": "Взволнованный. Давайте что-нибудь придумаем!",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Just a basic workshop. Nothing special.",
+    "value": "Просто базовый семинар. Ничего особенного.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One could craft many things here, despite the simplicity of the tools.",
+    "value": "Несмотря на простоту инструментов, здесь можно было изготовить многое.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These tools are just waitin' to be used.",
+    "value": "Эти инструменты просто ждут, чтобы их использовали.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop. It's missing a few tools...",
+    "value": "Базовый семинар. Не хватает некоторых инструментов...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like it was cobbled together from scrap metal...",
+    "value": "Такое ощущение, что его собрали из металлолома...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop was very poorly constructed.",
+    "value": "Эта мастерская была построена очень плохо.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki craft things here. Not need tools-many.",
+    "value": "Акки мастерит здесь вещи. Не нужны инструменты-много.",
     "path": "/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Scrounger's Workshop^white;",
+    "value": "^orange;Мастерская Скрангера^white;",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop with some simple tools.",
+    "value": "Базовый мастер-класс с простыми инструментами.",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A simple scrappy workshop.",
+    "value": "Простой лоскутный мастер-класс.",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A workshop. It has a basic anvil too.",
+    "value": "Мастерская. У него также есть базовая наковальня.",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Let's craft something!",
+    "value": "Взволнованный. Давайте что-нибудь придумаем!",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Just a basic workshop. Nothing special.",
+    "value": "Просто базовый семинар. Ничего особенного.",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "One could craft many things here, despite the simplicity of the tools.",
+    "value": "Несмотря на простоту инструментов, здесь можно было изготовить многое.",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These tools are just waitin' to be used.",
+    "value": "Эти инструменты просто ждут, чтобы их использовали.",
     "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop. It's missing a few tools...",
+    "value": "Базовый семинар. Не хватает некоторых инструментов...",
     "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This looks like it was cobbled together from scrap metal...",
+    "value": "Такое ощущение, что его собрали из металлолома...",
     "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop was very poorly constructed.",
+    "value": "Эта мастерская была построена очень плохо.",
     "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Detected various alien tools.",
+    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
     "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki craft things here. Not need tools-many.",
+    "value": "Акки мастерит здесь вещи. Не нужны инструменты-много.",
     "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Forager's Workshop^white;",
+    "value": "^orange;Мастерская фуражиров^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A workshop with a small tabletop furnace.",
+    "value": "Мастерская с небольшой настольной печью.",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "A simple furnace really helps flesh out this workshop.",
+    "value": "Простая печь действительно помогает разнообразить этот мастер-класс.",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A basic workshop. That small furnace must be useful.",
+    "value": "Базовый семинар. Эта маленькая печь должна быть полезной.",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Excited. Let's craft something!",
+    "value": "Взволнованный. Давайте что-нибудь придумаем!",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This workshop has a tiny furnace in it. Neat.",
+    "value": "В этой мастерской есть крошечная печь. Аккуратный.",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "The heat of the small built-in furnace is quite comfortable.",
+    "value": "Тепло небольшой встроенной печи вполне комфортное.",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "These tools are just waitin' to be used.",
+    "value": "Эти инструменты просто ждут, чтобы их использовали.",
     "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A messy workshop. That furnace should come in handy.",
+    "value": "Грязная мастерская. Эта печь должна пригодиться.",
     "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "It's a bit rough, but this workshop is perfectly functional.",
+    "value": "Это немного грубовато, но эта мастерская вполне функциональна.",
     "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A moderately efficient design for a workshop.",
+    "value": "Умеренно эффективная конструкция для мастерской.",
     "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Detected miniature furnace for low-intensity smelting.",
+    "value": "Анализ завершен. Мастерская. Обнаружена миниатюрная печь для низкоинтенсивной плавки.",
     "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Furnace-small make this workshop complete.",
+    "value": "Маленькая печь делает этот мастер-класс завершенным.",
     "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   },
   {
-    "value": "^orange;Raider's Workshop^white;",
+    "value": "^orange;Мастерская рейдеров^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A high-tech workshop capable of rapidly constructing materials.",
+    "value": "Высокотехнологичная мастерская, способная быстро создавать материалы.",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "op": "replace"
   },
   {
-    "value": "This workshop can rapidly construct items from raw materials.",
+    "value": "В этой мастерской можно быстро создавать предметы из сырья.",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Some sort of high-tech crafting space.",
+    "value": "Что-то вроде высокотехнологичного крафтового пространства.",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Workssshop for crafting thingss.",
+    "value": "Мастерская по изготовлению вещей.",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Impressed. This device can rapidly construct items from raw materials.",
+    "value": "Впечатленный. Это устройство позволяет быстро создавать предметы из сырья.",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I'm not sure how this defive works, but the way it constructs items looks cool!",
+    "value": "Я не уверен, как работает этот дефив, но то, как он создает предметы, выглядит круто!",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This device can rapidly contruct items from simple raw materials.",
+    "value": "Это устройство позволяет быстро создавать предметы из простого сырья.",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Some sorta construction device. What would happen if I stuck my hand in?",
+    "value": "Что-то вроде строительного устройства. Что произойдет, если я суну руку?",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A highly advanced workshop. It reminds me of a Multi-Fabricator unit.",
+    "value": "Высокопрофильный семинар. Это напоминает мне агрегат Multi-Fabricator.",
     "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I should take notes on how this device works. The Nomada might learn something from it.",
+    "value": "Мне следует сделать заметки о том, как работает это устройство. Кочевники могли бы чему-то научиться из этого.",
     "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A highly efficient, if somewhat unsafe, crafting device.",
+    "value": "Высокоэффективное, хотя и несколько небезопасное устройство для крафта.",
     "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Workshop. Unable to determine construction method used.",
+    "value": "Анализ завершен. Мастерская. Невозможно определить используемый метод строительства.",
     "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki put in materials, station construct things-many.",
+    "value": "Акки подвозит материалы, станция строит вещи – много.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Backpanel",
+    "value": "Задняя панель Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A metal wall panel.",
+    "value": "Металлическая стеновая панель.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. A wall panel.",
+    "value": "Наблюдение. Стеновая панель.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not interessted in boring panelsss.",
+    "value": "Флорану не интересны скучные панели.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Metal panels for buildin' interior walls.",
+    "value": "Металлические панели для строительства внутренних стен.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Metal wall panel.",
+    "value": "Анализ завершен. Металлическая стеновая панель.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Panel-wall-metal, cut-clean. Satisfying-very.",
+    "value": "Панель-стена-металл, аккуратно обрезана. Очень удовлетворительно.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

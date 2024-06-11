@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Ship Thruster",
+    "value": "Корабельное подруливающее устройство Акрис",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A pivoting thruster for rotating ships around.",
+    "value": "Поворотный двигатель для вращения кораблей.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A long antenna of strange design.",
+    "value": "Длинная антенна странной конструкции.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This antenna is unusually long and thin.",
+    "value": "Эта антенна необычайно длинная и тонкая.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Long antenna, make long ssspearss from it!",
+    "value": "Длинная антенна, сделай из нее длинное копье!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. A long, retractable antenna.",
+    "value": "Наблюдение. Длинная выдвижная антенна.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A very long and spindly antenna.",
+    "value": "Очень длинная и тонкая антенна.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A graceful antenna.",
+    "value": "Изящная антенна.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A weird antenna built by weird aliens.",
+    "value": "Странная антенна, построенная странными инопланетянами.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This type of long retractable antenna is often found on Akkimari ships.",
+    "value": "Этот тип длинной выдвижной антенны часто встречается на кораблях Аккимари.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An alien antenna. Likely for use in deep space.",
+    "value": "Инопланетная антенна. Вероятно, для использования в глубоком космосе.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This antenna can receive messages my own sensors can't even detect.",
+    "value": "Эта антенна может принимать сообщения, которые мои собственные датчики даже не могут обнаружить.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien antenna. Unable to detect incoming signals.",
+    "value": "Обнаружена антенна пришельца. Невозможно обнаружить входящие сигналы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Antenna for communicating in space-deep.",
+    "value": "Антенна для связи в глубоком космосе.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

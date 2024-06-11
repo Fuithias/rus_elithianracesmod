@@ -1,22 +1,22 @@
 [
   {
-      "value": "^green;Metal Ballistics",
-      "path": "/title",
-      "op": "replace"
+    "value": "^green;Металлические Баллистики",
+    "path": "/title",
+    "op": "replace"
   },
   {
-      "value": "Makhan gave you the schematics for that Bone Crossbow, I guess? He means well, but his bone weaponry is simply outdated. I have the ^orange;blueprints for an improved crossbow^white;, but I can't give them away for free. I need some ^orange;Thelean Metal ^white;for my research - ^green;find me a piece, and the blueprints are yours^white;.",
-      "path": "/text",
-      "op": "replace"
+    "value": "Махан дал вам чертежи того Костяного Арбалета, я полагаю? Он старается, но его костяное оружие просто устарело. У меня есть ^orange;чертежи улучшенного арбалета^white;, но я не могу отдать их бесплатно. Мне нужен немного ^orange;Металла Тилы ^white;для моих исследований - ^green;найдите мне кусок, и чертежи ваши^white;.",
+    "path": "/text",
+    "op": "replace"
   },
   {
-      "value": "Thank you, Captain. With this metal fragment, I can finally finish my research! Perhaps I'll have need of you again soon... Either way, here are the blueprints I promised you. Put them to good use.",
-      "path": "/completionText",
-      "op": "replace"
+    "value": "Спасибо, капитан. С этим фрагментом металла я наконец смогу закончить свои исследования! Возможно, вскоре мне снова понадобится ваша помощь... В любом случае, вот чертежи, которые я вам обещал. Используйте их с умом.",
+    "path": "/completionText",
+    "op": "replace"
   },
   {
-      "value": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;",
-      "path": "/scriptConfig/turnInDescription",
-      "op": "replace"
+    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
   }
 ]

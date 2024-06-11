@@ -1,71 +1,71 @@
 [
   {
-    "value": "Inactive Elite Drahl",
+    "value": "Неактивный элитный Драл",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A very large inactive drone.",
+    "value": "Очень большой неактивный дрон.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The Apex rebellion could use drones like those.",
+    "value": "Восстание Апекса могло бы использовать подобные дроны.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "That's an unsettlingly large war drone...",
+    "value": "Это пугающе большой военный дрон...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran not ssscared of drone. Drone ssleepsss, Floran awake.",
+    "value": "Флоран не боится дронов. Дрон спит, Флоран проснулся.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Frightened. A drone like this could deal serious damage to a village.",
+    "value": "Испуганный. Подобный дрон может нанести серьезный ущерб деревне.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "That is one massive drone. Better not anger its owner...",
+    "value": "Это один огромный дрон. Лучше не злить его владельца...",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A large war drone, a flying one-drone army.",
+    "value": "Большой военный дрон, летающая армия из одного дрона.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "That's a massive drone if ever I saw one.",
+    "value": "Это огромный дрон, если я когда-либо его видел.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A large combat drone. I would dread fighting one of these...",
+    "value": "Большой боевой дрон. Я бы побоялся драться с одним из них...",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "An Elite Drahl. These are usually controlled by remote operators.",
+    "value": "Элитный Драл. Обычно ими управляют удаленные операторы.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "I would not like to fight one of these monstrosities.",
+    "value": "Мне бы не хотелось сражаться с одним из этих чудовищ.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected Elite Drahl unit. Status: inactive.",
+    "value": "Обнаружен элитный отряд Дралов. Статус: неактивен.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Drone-large, looks dangerous. Akki careful.",
+    "value": "Дрон-большой, выглядит опасным. Акки осторожен.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

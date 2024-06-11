@@ -1,6 +1,6 @@
 [
   {
-    "value": "An underbarrel sticky grenade launcher.",
+    "value": "Подствольный липкий гранатомет.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Sticky Grenade Launcher",
+    "value": "Липкий гранатомет",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Weapon Attachment",
+    "value": "Крепление для оружия",
     "path": "/category",
     "op": "replace"
   }

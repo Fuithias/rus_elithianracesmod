@@ -1,16 +1,16 @@
 [
   {
-    "value": "A guide to Trinkian crafting. Unlocks most Trinkian crafting recipes, regardless of race.",
+    "value": "Руководство по изготовлению тринкианов. Открывает большинство рецептов тринкианцев, независимо от расы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Trinkian Crafting Guide^white;",
+    "value": "^#BA66FF;Руководство по изготовлению тринкианов^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Crafting Guide",
+    "value": "Руководство по изготовлению",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "Heavy stone bricks.",
+    "value": "Тяжелые каменные кирпичи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Rough Bricks",
+    "value": "Необработанные кирпичи Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

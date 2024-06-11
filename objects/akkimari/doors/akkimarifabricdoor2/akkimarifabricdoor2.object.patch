@@ -1,71 +1,71 @@
 [
   {
-    "value": "Akris Fabric Door",
+    "value": "Акрис Тканевая Дверь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A simple leather tent door.",
+    "value": "Простая кожаная дверь для палатки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A simple sheet of fabric. Not much of a door.",
+    "value": "Простой лист ткани. Не такая уж и большая дверь.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Just a fabric sheet door.",
+    "value": "Просто тканевая дверь.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran like how fabric feelsss.",
+    "value": "Флорану нравится ощущение ткани.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Unimpressed. It's just a sheet of fabric used as a door.",
+    "value": "Не впечатлен. Это просто кусок ткани, используемый в качестве двери.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A plain fabric door curtain.",
+    "value": "Дверная занавеска из простой ткани.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple but elegant door.",
+    "value": "Простая, но элегантная дверь.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Just a sheet o' fabric.",
+    "value": "Просто лист ткани.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "A simplistic portière.",
+    "value": "Упрощенная портьера.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This reminds me of the tents back on Kadavan...",
+    "value": "Это напоминает мне палатки на Кадаване...",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A portière. Simple and efficient.",
+    "value": "Портьера. Просто и эффективно.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected door. Resemblance to Avikan tent doors noted.",
+    "value": "Обнаружена дверь. Отмечено сходство с дверями палатки Авикан.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Curtain-simple makes for door-easy.",
+    "value": "Простая занавеска облегчает установку двери.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

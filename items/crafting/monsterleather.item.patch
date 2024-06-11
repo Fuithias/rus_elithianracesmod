@@ -1,11 +1,11 @@
 [
   {
-    "value": "Tough leather made by tanning monster skin.",
+    "value": "Прочная кожа, изготовленная путем дубления шкуры монстра.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Monster Leather",
+    "value": "Кожа монстра",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,71 +1,71 @@
 [
   {
-    "value": "Festival Hall Teleporter",
+    "value": "Телепорт в Фестивальном зале",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A teleporter linked to the Landing Festival Hall. \n^red;Destroyed when broken.",
+    "value": "Телепорт, связанный с Фестивальным залом Приземления. ^red;Уничтожается при поломке.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This teleporter is only active at a specific time of year.",
+    "value": "Этот телепорт активен только в определенное время года.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is only active at a specific time of year.",
+    "value": "Этот телепорт активен только в определенное время года.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran can only use teleportersss when it isss active.",
+    "value": "Флоран может использовать телепорты только тогда, когда они активны.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. This teleporter is only active at a specific time of year.",
+    "value": "Анализ. Этот телепорт активен только в определенное время года.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is only active at a specific time of year.",
+    "value": "Этот телепорт активен только в определенное время года.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is only active at a specific time of year.",
+    "value": "Этот телепорт активен только в определенное время года.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is only active at a specific time of year.",
+    "value": "Этот телепорт активен только в определенное время года.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked directly to the Landing Festival Hall. It'll only activate during the Landing Festival.",
+    "value": "Этот телепорт напрямую связан с Фестивальным залом Приземления. Он активируется только во время Фестиваля высадки.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This alien teleporter is linked to a set location. It only seems to be active during a specific time of year.",
+    "value": "Этот инопланетный телепорт привязан к определенному месту. Кажется, что он активен только в определенное время года.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "This teleporter is linked directly to the Landing Festival Hall. It'll only activate during the Landing Festival.",
+    "value": "Этот телепорт напрямую связан с Фестивальным залом Приземления. Он активируется только во время Фестиваля высадки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis. Readings indicate that this teleporter only activates during a specific time of year.",
+    "value": "Анализ. Показания показывают, что этот телепорт активируется только в определенное время года.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki knows teleporter is only active at some time-specific.",
+    "value": "Акки знает, что телепорт активен только в определенное время.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

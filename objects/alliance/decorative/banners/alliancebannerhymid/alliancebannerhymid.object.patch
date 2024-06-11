@@ -1,31 +1,31 @@
 [
   {
-    "value": "Republic of Hyzolia Banner",
+    "value": "Знамя Республики Хизолия",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A banner adorned with the emblem of the Hymidian Republic of Hyzolia.",
+    "value": "Знамя, украшенное гербом Гимидийской Республики Хизолия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Floran likesss colourful bannersss.",
+    "value": "Флорану нравятся красочные баннеры.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This banner is adorned with some alien emblem.",
+    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Detected alien emblem. Emblem identified as Hymidian Republic of Hyzolia iconography.",
+    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Гимидийской Республики Хизолия.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Akki think this is symbol Republic-Hymid.",
+    "value": "Акки думают, что это символ Республики-Химид.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,36 +1,36 @@
 [
   {
-    "value": "Alliance Pavement Slabs",
+    "value": "Плитки тротуара Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Stone slabs used as pavement.",
+    "value": "Каменные плитки, используемые как тротуар.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Observation. Stone slabs.",
+    "value": "Наблюдение. Каменные плитки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Floran like the feel of sstone under feet.",
+    "value": "Флоран нравится ощущение камня под ногами.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Just some stone slabs.",
+    "value": "Просто каменные плитки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Stone pavement.",
+    "value": "Анализ завершен. Каменный тротуар.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Stone feel good under feet-Akki.",
+    "value": "Камень хорошо ощущается под ногами-акки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

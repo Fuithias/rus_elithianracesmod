@@ -1,71 +1,71 @@
 [
   {
-    "value": "Empty Avikan Glass",
+    "value": "Пустой стакан Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An empty glass.",
+    "value": "Пустой стакан.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An empty glass.",
+    "value": "Пустой стакан.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Just an empty glass.",
+    "value": "Просто пустой стакан.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "It'sss empty.",
+    "value": "Здесь пусто.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This glass is empty.",
+    "value": "Наблюдение. Этот стакан пуст.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "I wonder what sort of drink was previously in this.",
+    "value": "Интересно, какой напиток был в этом раньше?",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A simple drinking glass.",
+    "value": "Простой стакан для питья.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "'Tis empty.",
+    "value": "«Там пусто.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "An empty drinking glass.",
+    "value": "Пустой стакан для питья.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "I should fill this up.",
+    "value": "Я должен заполнить это.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An empty glass. I detect traces of cactus juice.",
+    "value": "Пустой стакан. Я обнаруживаю следы сока кактуса.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis complete. Drinking glass. Detected traces of cactus juice.",
+    "value": "Анализ завершен. Стакан для питья. Обнаружены следы сока кактуса.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Glass-empty, no fun.",
+    "value": "Стакан-пустой, никакого веселья.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

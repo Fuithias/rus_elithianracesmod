@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Egg",
+    "value": "Авиканское яйцо",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "An Avikan egg. The spawn of new life.",
+    "value": "Яйцо Авикан. Зародыш новой жизни.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "An alien egg. It feels a bit leathery.",
+    "value": "Инопланетное яйцо. Он кажется немного кожаным.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Is this an egg? It looks... odd...",
+    "value": "Это яйцо? Выглядит... странно...",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Eggsss for eating?",
+    "value": "Яйца для еды?",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascination. This egg will spawn new life.",
+    "value": "Очарование. Это яйцо породит новую жизнь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An alien egg. I don't think it's edible.",
+    "value": "Инопланетное яйцо. Я не думаю, что это съедобно.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "There is beauty in creating new life.",
+    "value": "Есть красота в создании новой жизни.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This egg might hatch in a few months.",
+    "value": "Это яйцо может вылупиться через несколько месяцев.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A lonely Avikan egg. I wonder who laid it?",
+    "value": "Одинокое яйцо Авикана. Интересно, кто это положил?",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "An egg with a leathery skin. Most likely Avikan.",
+    "value": "Яйцо с кожистой кожицей. Скорее всего Авикан.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Avikan egg. Estimated date of hatching: unknown.",
+    "value": "Яйцо Авикан. Предполагаемая дата вылупления: неизвестна.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Egg-alien. Akki cook it, tasty-very!",
+    "value": "Яйцо-инопланетянин. Акки приготовь, вкусно-очень!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

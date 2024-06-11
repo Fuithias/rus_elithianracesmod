@@ -1,11 +1,11 @@
 [
   {
-    "value": "All-purpose circuitry found in most Akkimari electrical equipment.",
+    "value": "Универсальная схема имеется в большинстве электрооборудования Аккимари.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Akris Circuitry",
+    "value": "Акрис Схема",
     "path": "/shortdescription",
     "op": "replace"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Machinegun ammunition that explodes on impact.",
+    "value": "Боеприпасы для пулемета, взрывающиеся при ударе.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Blast Ammo",
+    "value": "Взрывные боеприпасы",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ammo Mod",
+    "value": "Мод на боеприпасы",
     "path": "/category",
     "op": "replace"
   }

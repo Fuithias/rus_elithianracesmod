@@ -1,71 +1,71 @@
 [
   {
-    "value": "Alliance Hyperdrive Core",
+    "value": "Ядро Гипердвигателя Альянса",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A massive drive core for an FTL system.",
+    "value": "Массивное приводное ядро ​​для сверхсветовой системы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "This drive core powers the FTL system.",
+    "value": "Это приводное ядро ​​питает систему FTL.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A strange sphere somehow involved in the ship's FTL systems.",
+    "value": "Странная сфера каким-то образом задействована в сверхсветовых системах корабля.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Big ballsss make the sship go fasst!",
+    "value": "Большие яйца заставляют корабль идти быстрее!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Frightened. This device is powerful enough to destroy an entire city.",
+    "value": "Испуганный. Это устройство достаточно мощное, чтобы уничтожить целый город.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Some type of massive spaceship core, likely what powers the FTL drive.",
+    "value": "Какой-то тип массивного ядра космического корабля, вероятно, приводящий в действие сверхсветовой двигатель.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "This machine hums a strangely beautiful tone.",
+    "value": "Эта машина издает удивительно красивый звук.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I can feel the power inside this device...",
+    "value": "Я чувствую силу внутри этого устройства...",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "The core of the ship's hyperdrive system. A piece of pure Hydroverium sits in its center.",
+    "value": "Ядро корабельной гипердвигательной системы. В центре находится кусочек чистого Гидровериума.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This is nothing like the Nomada's ship cores. It is fascinating!",
+    "value": "Это не что иное, как ядра кораблей Кочевника. Это увлекательно!",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Aegi build incredibly efficient FTL drive cores.",
+    "value": "Aegi создает невероятно эффективные ядра привода FTL.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detecting massive energy signature. Warning: unit electronics picking up interference. Recommend departing the area.",
+    "value": "Обнаружение массивной энергетической сигнатуры. Внимание: электроника устройства улавливает помехи. Рекомендую покинуть этот район.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Core-ship. Make Akki feel dizzy...",
+    "value": "Корабль-ядро. Заставь Акки закружиться...",
     "path": "/akkimariDescription",
     "op": "replace"
   }

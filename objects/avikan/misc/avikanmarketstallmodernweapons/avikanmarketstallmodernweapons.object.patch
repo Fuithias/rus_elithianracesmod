@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Firearms Stall",
+    "value": "Лавка огнестрельного оружия Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A market stall selling Avikan firearms.",
+    "value": "Рыночный прилавок по продаже огнестрельного оружия «Авикан».",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "The rebels could use these weapons.",
+    "value": "Повстанцы могли использовать это оружие.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "I always have use for more weapons.",
+    "value": "Мне всегда нужно больше оружия.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran buyss gunsss here.",
+    "value": "Флоран покупает здесь оружие.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Frightened. I hope these weapons won't be used against me or my kind.",
+    "value": "Испуганный. Я надеюсь, что это оружие не будет использовано против меня или мне подобных.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Alien weapons. Not as exotic as I would have expected.",
+    "value": "Инопланетное оружие. Не так экзотично, как я ожидал.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Alien weaponry. War is found everywhere, it seems.",
+    "value": "Инопланетное вооружение. Война, кажется, повсюду.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "I could use a new rifle.",
+    "value": "Мне могла бы пригодиться новая винтовка.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Various Avikan weapons can be purchased here.",
+    "value": "Здесь можно приобрести различное оружие Авикана.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "Rifles, sidearms and other weapons are sold here.",
+    "value": "Здесь продаются винтовки, пистолеты и другое оружие.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Avikan build decent ballistic rifles.",
+    "value": "Авикан производит достойные баллистические винтовки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected market stall. Scanning for nearby merchants...",
+    "value": "Обнаружен рыночный ларек. Сканирование ближайших торговцев...",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Weapons-alien, for fighting.",
+    "value": "Оружие-инопланетное, для боя.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

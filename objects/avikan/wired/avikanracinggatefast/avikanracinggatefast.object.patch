@@ -1,71 +1,71 @@
 [
   {
-    "value": "Avikan Racing Gate - Fast",
+    "value": "Авикан Гоночные ворота - Быстро",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A gate that speeds up hoverbikes. It sends out a signal whenever a vehicle passes through it.",
+    "value": "Ворота, ускоряющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A racing gate. It'll speed up any hoverbike that passes by.",
+    "value": "Гоночные ворота. Это ускорит любой проезжающий мимо ховербайк.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "This racing gate speeds up passing hoverbikes.",
+    "value": "Эти гоночные ворота ускоряют проезжающие мимо ховербайки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran excited! Glowing pole ssspeeds up hoverbikess.",
+    "value": "Флоран в восторге! Светящийся столб ускоряет ховербайк.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Gleeful. Riding past this on a hoverbike causes a significant speed up.",
+    "value": "Радостный. Проезд мимо него на ховербайке приводит к значительному ускорению.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A racing gate that speeds up passing hoverbikes. Awesome!",
+    "value": "Гоночные ворота, ускоряющие проезжающие мимо ховербайки. Потрясающий!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A gate that speeds up passing hoverbikes.",
+    "value": "Ворота, ускоряющие проезжающие мимо ховербайки.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "This marker speeds up hoverbikes.",
+    "value": "Этот маркер ускоряет ховербайки.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "This gate will speed up any passing hoverbike.",
+    "value": "Эти ворота ускорят любой проезжающий мимо ховербайк.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A gate that speeds up passing hoverbikes.",
+    "value": "Ворота, ускоряющие проезжающие мимо ховербайки.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A marker that allows hoverbikes to speed up.",
+    "value": "Маркер, позволяющий ховербайкам ускоряться.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Detected racing gate. Speeds up passing hoverbikes.",
+    "value": "Обнаружены гоночные ворота. Ускоряет проезжающие ховербайки.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "If Akki speeds past on hoverbike, Akki will go faster! Faster, faster!",
+    "value": "Если Акки проедет мимо на ховербайке, Акки поедет быстрее! Быстрее быстрее!",
     "path": "/akkimariDescription",
     "op": "replace"
   }

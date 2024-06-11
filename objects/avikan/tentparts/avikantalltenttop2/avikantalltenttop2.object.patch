@@ -1,66 +1,66 @@
 [
   {
-    "value": "Avikan Fabric Top Sheet",
+    "value": "Верхний лист из ткани Авикан",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A sheet of fabric used as a tent roof.",
+    "value": "Лист ткани, используемый в качестве крыши палатки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A sheet of colourful fabric.",
+    "value": "Лист разноцветной ткани.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Colourful fabric, used a a tent roof.",
+    "value": "Красочная ткань, использованная для крыши палатки.",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Fabric roofsss. Weaksss.",
+    "value": "Тканевая крыша. Слабый.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Observation. This top sheet is made of fabric.",
+    "value": "Наблюдение. Этот верхний лист изготовлен из ткани.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful sheet of fabric.",
+    "value": "Цветной лист ткани.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A brightly coloured sheet of fabric.",
+    "value": "Яркий лист ткани.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "A colourful fabric top sheet. Keeps tents cool on the inside.",
+    "value": "Верхний лист из цветной ткани. Сохраняет палатку прохладной внутри.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A top sheet made of fabric. Few nomads can afford tents of such materials.",
+    "value": "Верхняя простыня из ткани. Немногие кочевники могут позволить себе палатки из таких материалов.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "A top sheet made of bright fabric. An essential part of a good tent.",
+    "value": "Верхняя простыня из яркой ткани. Неотъемлемая часть хорошей палатки.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Top sheet. Used to keep the interior of a tent cool.",
+    "value": "Верхний лист. Используется для поддержания прохлады внутри палатки.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Part of tent, Akki knows.",
+    "value": "Акки знает, что это часть палатки.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

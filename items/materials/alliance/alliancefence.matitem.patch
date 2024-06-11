@@ -1,11 +1,11 @@
 [
   {
-    "value": "A sturdy metal fence.",
+    "value": "Прочный металлический забор.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Alliance Fence",
+    "value": "Забор Альянса",
     "path": "/shortdescription",
     "op": "replace"
   }

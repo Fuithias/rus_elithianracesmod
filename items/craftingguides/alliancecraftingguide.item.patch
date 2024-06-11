@@ -1,16 +1,16 @@
 [
   {
-    "value": "A guide to Alliance crafting. Unlocks most Alliance crafting recipes, regardless of race.",
+    "value": "Руководство по крафту Альянса. Открывает большинство рецептов крафта Альянса, независимо от расы.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^#BA66FF;Alliance Crafting Guide^white;",
+    "value": "^#BA66FF;Руководство по созданию Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Crafting Guide",
+    "value": "Руководство по изготовлению",
     "path": "/category",
     "op": "replace"
   }

@@ -1,11 +1,11 @@
 [
   {
-    "value": "A special allosteel alloy with a high ferroverium content.",
+    "value": "Специальный сплав аллостали с высоким содержанием ферверия.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "^orange;Eritosteel Plating^white;",
+    "value": "^orange;Эритостальное покрытие^white;",
     "path": "/shortdescription",
     "op": "replace"
   }

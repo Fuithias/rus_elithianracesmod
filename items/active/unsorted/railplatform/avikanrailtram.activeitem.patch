@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Рельсовый трамвай Авикан",
+    "value": "Рельсовый трамвай авикан",
     "path": "/shortdescription",
     "op": "replace"
   }

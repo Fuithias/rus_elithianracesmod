@@ -1,36 +1,36 @@
 [
   {
-    "value": "Avikan Heavy Pipe",
+    "value": "Авиканская Тяжелая Труба",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "A heavy, thick pipe. This isn't going to leak.",
+    "value": "Тяжелая, толстая труба. Она не будет протекать.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Pleased. With piping like this, I'll not have to worry about leakages.",
+    "value": "Доволен. С такими трубами я не буду беспокоиться о протечках.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Pipe isss big, but Floran can't fit through...",
+    "value": "Труба большая, но Флоран не может пройти через нее...",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Not sure what this 'ere pipe is carrying, but I'm guessin' its dangerous.",
+    "value": "Не знаю, что несет эта труба, но, думаю, это опасно.",
     "path": "/novakidDescription",
     "op": "replace"
   },
   {
-    "value": "Analysis failed. Unable to scan pipe contents.",
+    "value": "Анализ не удался. Невозможно сканировать содержимое трубы.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Pipe-thick, carry liquids.",
+    "value": "Труба-толстая, несет жидкости.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

@@ -1,16 +1,16 @@
 [
   {
-    "value": "^orange;Suiting Up",
+    "value": "^orange;Экипировка",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Greetings, ambassador! I have your uniform ready for you: here you are.",
+    "value": "Приветствую, посол! У меня готова ваша форма: вот, держите.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "I received my official Elithian Alliance uniform. Let's put it on!",
+    "value": "Я получил свою официальную униформу Элитийского Альянса. Давайте наденем её!",
     "path": "/completionText",
     "op": "replace"
   }

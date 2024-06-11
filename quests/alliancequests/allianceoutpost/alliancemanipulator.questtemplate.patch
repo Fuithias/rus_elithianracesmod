@@ -1,21 +1,21 @@
 [
   {
-    "value": "^green;Personalized Manipulation",
+    "value": "^green;Персонализированная Манипуляция",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "The Alliance would very much like to study the Matter Manipulator you received from the Protectorate. ^green;I want you to retrieve ^orange;20 Manipulator Modules ^green;so that our researchers can start investigating the technology. ^reset;In the mean time, I will ask them to start working on a small reward for you.",
+    "value": "Альянсу очень хотелось бы изучить Манипулятор Материи, который вы получили от Протектората. ^green;Мне нужно, чтобы вы собрали ^orange;20 модулей Манипулятора^green;, чтобы наши исследователи могли начать изучать эту технологию. ^reset;Тем временем, я попрошу их подготовить для вас небольшую награду.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Thank you for retrieving these modules, ambassador. They will prove invaluable to our researchers. Here is the reward I promised you: some new casings for your own Matter Manipulator.",
+    "value": "Спасибо за сбор этих модулей, посол. Они будут бесценны для наших исследователей. Вот награда, которую я вам обещал: новые корпуса для вашего собственного Манипулятора Материи.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Return to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;",
+    "value": "Вернитесь к ^orange;Адмиралу Лиийну^reset; в ^orange;Посольство Креона^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

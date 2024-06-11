@@ -1,66 +1,66 @@
 [
   {
-    "value": "Long Rhaiod Tapestry",
+    "value": "Гобелен Лонг Райод",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Wall tapestry decorated in the style of the Rhaiod.",
+    "value": "Настенные гобелены оформлены в стиле Райода.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A wall tapestry made of some purple fabric.",
+    "value": "Настенный гобелен из какой-то фиолетовой ткани.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Are those runes at the bottom of this tapestry?",
+    "value": "Это руны внизу этого гобелена?",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Tapessstry remindsss Floran of home.",
+    "value": "Гобелен напоминает Флорану дом.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Confused. What might those symbols mean?",
+    "value": "Смущенный. Что могут означать эти символы?",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "A wall tapestry. It has an unusual feel to it.",
+    "value": "Настенный гобелен. Это какое-то необычное ощущение.",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Wall decoration with a seemingly religious theme.",
+    "value": "Украшение стен, казалось бы, на религиозную тематику.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Wall decoration used by the Rhaiod.",
+    "value": "Украшение стен, используемое Райодом.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "A wall tapestry with Rhaiod decorations.",
+    "value": "Настенный гобелен с украшениями Райода.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "Wall decoration created by the Rhaiod.",
+    "value": "Настенное украшение, созданное Райодом.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Scan completed. Rhaiod wall decoration.",
+    "value": "Сканирование завершено. Отделка стен Райода.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Tapestry-large, colour-pretty.",
+    "value": "Гобелен-большой,цвет-красивый.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

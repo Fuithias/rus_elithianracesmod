@@ -1,11 +1,11 @@
 [
   {
-    "value": "Specialized metal plating for use in superb-quality equipment.",
+    "value": "Специальное металлическое покрытие для использования в оборудовании превосходного качества.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Superb Kavanite Plate",
+    "value": "Превосходная каванитовая пластина",
     "path": "/shortdescription",
     "op": "replace"
   }

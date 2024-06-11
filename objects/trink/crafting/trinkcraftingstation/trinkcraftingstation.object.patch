@@ -1,66 +1,66 @@
 [
   {
-    "value": "Trinkian UACS",
+    "value": "Тринкян ОАКС",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "The Trinkian version of the Unified Alliance Crafting Station.",
+    "value": "Тринкианская версия Ремесленной станции Объединенного Альянса.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "A high-tech crafting station. Impressive.",
+    "value": "Высокотехнологичная ремесленная станция. Впечатляющий.",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting station. Very advanced!",
+    "value": "Ремесленная станция. Очень продвинутый!",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Floran dissslike metal crafting ssstation.",
+    "value": "Флорану не нравится станция изготовления металла.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Fascinated. This crafting station uses highly advanced technology.",
+    "value": "Очарованный. На этой крафтовой станции используются самые передовые технологии.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "An advanced crafting station. Time to craft!",
+    "value": "Передовая ремесленная станция. Время творить!",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "A crafting station of incredible quality.",
+    "value": "Ремесленная станция невероятного качества.",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "The Trinkian version of the Unified Alliance Crafting Station.",
+    "value": "Тринкианская версия Ремесленной станции Объединенного Альянса.",
     "path": "/aegiDescription",
     "op": "replace"
   },
   {
-    "value": "This crafting station looks impressive, despite the fact it's meant for machines.",
+    "value": "Эта ремесленная станция выглядит впечатляюще, несмотря на то, что она предназначена для машин.",
     "path": "/avikanDescription",
     "op": "replace"
   },
   {
-    "value": "The Unified Alliance Crafting Station is an impressive piece of technology indeed.",
+    "value": "Ремесленная станция Объединенного Альянса — действительно впечатляющая технология.",
     "path": "/trinkDescription",
     "op": "replace"
   },
   {
-    "value": "Crafting Station. Use blueprints to craft items.",
+    "value": "Ремесленная станция. Используйте чертежи для создания предметов.",
     "path": "/drodenDescription",
     "op": "replace"
   },
   {
-    "value": "Worktable-alien, Akki craft things here.",
+    "value": "Рабочий стол-инопланетянин, Акки мастерит здесь вещи.",
     "path": "/akkimariDescription",
     "op": "replace"
   }
