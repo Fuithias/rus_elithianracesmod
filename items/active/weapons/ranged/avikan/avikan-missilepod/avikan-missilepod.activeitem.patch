@@ -18,5 +18,10 @@
     "value": "Ракетная установка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Rocket Barrage",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
