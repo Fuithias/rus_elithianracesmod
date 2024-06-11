@@ -18,5 +18,10 @@
     "value": "Рогатка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Switch Bombs",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
