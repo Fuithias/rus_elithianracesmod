@@ -8,5 +8,10 @@
     "value": "^orange;Копье Вха'лейхана^white;",
     "path": "/shortdescription",
     "op": "replace"
+  },
+  {
+    "value": "Charge of Rhadeis",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
