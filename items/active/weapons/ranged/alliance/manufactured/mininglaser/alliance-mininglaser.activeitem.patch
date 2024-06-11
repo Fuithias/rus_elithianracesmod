@@ -18,5 +18,10 @@
     "value": "Лазер-бур",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Low-power Laser",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
