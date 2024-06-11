@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Warp Strike",
+    "value": "Варп-удар",
     "path": "/altAbility/name",
     "op": "replace"
   }
