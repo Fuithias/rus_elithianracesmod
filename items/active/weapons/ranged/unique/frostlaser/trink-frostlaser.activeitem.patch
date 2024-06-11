@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "FROST Cloud",
+    "value": "Облако МОРОЗ",
     "path": "/altAbility/name",
     "op": "replace"
   }
