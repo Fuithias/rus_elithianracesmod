@@ -18,5 +18,10 @@
     "value": "Пескомет",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Песчаная бомба",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
