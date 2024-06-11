@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Vaash Spray",
+    "value": "Ваашный разбрызг",
     "path": "/altAbility/name",
     "op": "replace"
   }
