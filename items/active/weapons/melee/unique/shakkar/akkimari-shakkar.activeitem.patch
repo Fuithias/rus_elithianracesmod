@@ -13,5 +13,10 @@
     "value": "Шоковое копье",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Overload",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
