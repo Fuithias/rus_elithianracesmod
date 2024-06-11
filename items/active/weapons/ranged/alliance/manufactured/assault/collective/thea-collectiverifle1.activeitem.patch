@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Smart Bullet",
+    "value": "Умная пуля",
     "path": "/altAbility/name",
     "op": "replace"
   }
