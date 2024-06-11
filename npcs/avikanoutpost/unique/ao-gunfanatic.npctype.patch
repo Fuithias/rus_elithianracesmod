@@ -1,12 +1,12 @@
 [
-    {
-        "value": "День без выстрела — действительно скучный день.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "День без выстрела — действительно скучный день.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "День без выстрела — действительно скучный день.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "День без выстрела — действительно скучный день.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  }
 ]

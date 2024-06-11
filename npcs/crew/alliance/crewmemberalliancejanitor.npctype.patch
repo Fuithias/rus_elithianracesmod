@@ -1,22 +1,22 @@
 [
-    {
-        "value": "Я <собственное имя>, ваш гордый уборщик.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я дворник. Я буду содержать ваш корабль в чистоте и порядке.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Как уборщик, я позабочусь о том, чтобы у вас всегда был чистый корабль, на который вы могли бы вернуться.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я <собственное имя>, уборщик.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
-        "op": "replace"
-    }
+  {
+    "value": "Я <собственное имя>, ваш гордый уборщик.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я дворник. Я буду содержать ваш корабль в чистоте и порядке.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Как уборщик, я позабочусь о том, чтобы у вас всегда был чистый корабль, на который вы могли бы вернуться.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я <собственное имя>, уборщик.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+    "op": "replace"
+  }
 ]

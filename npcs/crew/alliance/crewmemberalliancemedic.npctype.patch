@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Как ваш врач, я буду следить за вашим здоровьем между приключениями.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Как ваш врач, я буду следить за вашим здоровьем между приключениями.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  }
 ]

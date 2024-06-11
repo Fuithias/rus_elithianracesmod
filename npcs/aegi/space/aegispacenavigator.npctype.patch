@@ -1,52 +1,52 @@
 [
-    {
-        "value": "Добро пожаловать на наш корабль, путешественник.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Извините, мне нужно сосредоточиться на своей работе здесь.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я управляю кораблем. У меня нет времени говорить, извини.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Мы обнаружили приближающийся к нам ваш корабль. Что привело тебя сюда?",
-        "path": "/scriptConfig/dialog/converse/aegi/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Управление кораблем иногда представляет собой трудную работу. В других случаях это просто скучно.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Мне всегда нравились летающие корабли.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/4",
-        "op": "replace"
-    },
-    {
-        "value": "Мое призвание — штурман корабля, поэтому я невероятно рад, что меня приняли на этот корабль!",
-        "path": "/scriptConfig/dialog/converse/aegi/default/5",
-        "op": "replace"
-    },
-    {
-        "value": "Добро пожаловать, путник. Я видел, как ты приближался к нашему кораблю.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/6",
-        "op": "replace"
-    },
-    {
-        "value": "Мы направляемся в одну из колоний Союза.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/7",
-        "op": "replace"
-    },
-    {
-        "value": "Куда ведут тебя твои путешествия, путник?",
-        "path": "/scriptConfig/dialog/converse/aegi/default/8",
-        "op": "replace"
-    }
+  {
+    "value": "Добро пожаловать на наш корабль, путешественник.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Извините, мне нужно сосредоточиться на своей работе здесь.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я управляю кораблем. У меня нет времени говорить, извини.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мы обнаружили приближающийся к нам ваш корабль. Что привело тебя сюда?",
+    "path": "/scriptConfig/dialog/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Управление кораблем иногда представляет собой трудную работу. В других случаях это просто скучно.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мне всегда нравились летающие корабли.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Мое призвание — штурман корабля, поэтому я невероятно рад, что меня приняли на этот корабль!",
+    "path": "/scriptConfig/dialog/converse/aegi/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Добро пожаловать, путник. Я видел, как ты приближался к нашему кораблю.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Мы направляемся в одну из колоний Союза.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Куда ведут тебя твои путешествия, путник?",
+    "path": "/scriptConfig/dialog/converse/aegi/default/8",
+    "op": "replace"
+  }
 ]

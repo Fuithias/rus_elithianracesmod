@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Поточный снаряд",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

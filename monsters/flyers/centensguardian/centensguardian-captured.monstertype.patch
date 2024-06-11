@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Автоматическая оборонная система, построенная Це'Теннанами.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Окулус",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Автоматическая оборонная система, построенная Це'Теннанами.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Окулус",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

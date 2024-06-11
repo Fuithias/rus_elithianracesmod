@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Торговец продукцией",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "op": "replace"
-    },
-    {
-        "value": "  Свежие культуры и мясо.",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "op": "replace"
-    }
+  {
+    "value": "Торговец продукцией",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Свежие культуры и мясо.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  }
 ]

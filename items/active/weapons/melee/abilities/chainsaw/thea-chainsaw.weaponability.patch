@@ -1,6 +1,6 @@
 [
   {
-    "value": "Cut",
+    "value": "Резать",
     "path": "/ability/name",
     "op": "replace"
   }

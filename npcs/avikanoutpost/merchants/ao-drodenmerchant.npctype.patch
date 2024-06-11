@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Торговец снаряжением дроден",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "op": "replace"
-    },
-    {
-        "value": "  Снаряжение и предметы дроден.",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "op": "replace"
-    }
+  {
+    "value": "Торговец снаряжением дроден",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Снаряжение и предметы дроден.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  }
 ]

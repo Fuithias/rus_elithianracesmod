@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Разведывательный дрон авиканов, способный к незначительной боевой поддержке.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Передовой драл",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Разведывательный дрон авиканов, способный к незначительной боевой поддержке.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Передовой драл",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

@@ -1,122 +1,122 @@
 [
-    {
-        "value": "Вас Вха'лейх, искатель приключений. Могу ли я присоединиться к вашей команде?",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Меня зовут <собственное имя>, и я хочу присоединиться к команде корабля. Вы наняты?",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Ты кажешься хорошим капитаном. Вам нужен кто-нибудь в команду?",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я бы хотел присоединиться к вашей команде! Вам интересно?",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Я буду здесь, если вам понадобится боец, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Давайте испытаем наши клинки в бою, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Я готов к бою, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я пойду за тобой в бой в любой день, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Это было самое странное, что я когда-либо чувствовал...",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я думал, мне конец!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Аварийный телепорт снова меня спас!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Радеис вернул меня!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Я подожду здесь, капитан.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я буду здесь, если понадоблюсь, капитан.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Я буду ждать тебя, капитан.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Капитан, вам нужно, чтобы я остался здесь?",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Я готов идти, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Да, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Поехали, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я готов, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Я не могу до тебя дозвониться!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я не могу туда попасть!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Подождите меня, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я найду дорогу туда, капитан!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3",
-        "op": "replace"
-    }
+  {
+    "value": "Вас Вха'лейх, искатель приключений. Могу ли я присоединиться к вашей команде?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Меня зовут <собственное имя>, и я хочу присоединиться к команде корабля. Вы наняты?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ты кажешься хорошим капитаном. Вам нужен кто-нибудь в команду?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я бы хотел присоединиться к вашей команде! Вам интересно?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я буду здесь, если вам понадобится боец, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Давайте испытаем наши клинки в бою, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я готов к бою, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я пойду за тобой в бой в любой день, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Это было самое странное, что я когда-либо чувствовал...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я думал, мне конец!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аварийный телепорт снова меня спас!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Радеис вернул меня!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я подожду здесь, капитан.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я буду здесь, если понадоблюсь, капитан.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я буду ждать тебя, капитан.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Капитан, вам нужно, чтобы я остался здесь?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я готов идти, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Да, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поехали, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я готов, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я не могу до тебя дозвониться!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не могу туда попасть!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Подождите меня, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я найду дорогу туда, капитан!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3",
+    "op": "replace"
+  }
 ]

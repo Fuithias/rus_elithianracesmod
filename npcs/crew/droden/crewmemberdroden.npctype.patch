@@ -1,112 +1,112 @@
 [
-    {
-        "value": "Запрашиваю разрешение присоединиться к экипажу корабля.",
-        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Отряд <selfname> запрашивает разрешение присоединиться к экипажу корабля.",
-        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Этот аппарат к вашим услугам. Запрашиваю разрешение присоединиться к экипажу корабля.",
-        "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Этот отряд поможет вам в бою, капитан.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Отряд готов к бою.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Это подразделение может оказать боевую поддержку.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Отчет о замене агрегата на дежурство.",
-        "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Прибыл сменный блок.",
-        "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Прибыла замена для отряда <selfname>.",
-        "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Поставка замены агрегата завершена.",
-        "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Юнит подождет.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Этот отряд останется здесь.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Подразделение будет охранять это место.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Вход в режим отдыха.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Отряд готов к дальнейшим действиям.",
-        "path": "/scriptConfig/dialog/crewmember/follow/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Этот аппарат к вашим услугам.",
-        "path": "/scriptConfig/dialog/crewmember/follow/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Подразделение явилось на дежурство.",
-        "path": "/scriptConfig/dialog/crewmember/follow/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Возобновление боевого режима.",
-        "path": "/scriptConfig/dialog/crewmember/follow/droden/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Устройство не может достичь этого места.",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Ошибка. Не удалось достичь местоположения.",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Отряд отстает.",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Невозможно достичь целевого местоположения.",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/3",
-        "op": "replace"
-    }
+  {
+    "value": "Запрашиваю разрешение присоединиться к экипажу корабля.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Отряд <selfname> запрашивает разрешение присоединиться к экипажу корабля.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Этот аппарат к вашим услугам. Запрашиваю разрешение присоединиться к экипажу корабля.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Этот отряд поможет вам в бою, капитан.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Отряд готов к бою.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Это подразделение может оказать боевую поддержку.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Отчет о замене агрегата на дежурство.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Прибыл сменный блок.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Прибыла замена для отряда <selfname>.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Поставка замены агрегата завершена.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Юнит подождет.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Этот отряд останется здесь.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Подразделение будет охранять это место.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вход в режим отдыха.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Отряд готов к дальнейшим действиям.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Этот аппарат к вашим услугам.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Подразделение явилось на дежурство.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Возобновление боевого режима.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Устройство не может достичь этого места.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ошибка. Не удалось достичь местоположения.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Отряд отстает.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Невозможно достичь целевого местоположения.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/3",
+    "op": "replace"
+  }
 ]

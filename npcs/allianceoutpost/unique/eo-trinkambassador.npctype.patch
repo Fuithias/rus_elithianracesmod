@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Добро пожаловать в посольство Тринка.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Добро пожаловать в посольство Тринка.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  }
 ]

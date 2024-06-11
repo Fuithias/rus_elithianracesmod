@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Я буду следить за твоим здоровьем, пока мы на корабле.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Я буду следить за твоим здоровьем, пока мы на корабле.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  }
 ]

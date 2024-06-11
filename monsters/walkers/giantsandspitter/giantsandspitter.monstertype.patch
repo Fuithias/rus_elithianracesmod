@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Пескоплёв стреляет песком, чтобы замедлить своих врагов.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Пескоплёв",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Пескоплёв стреляет песком, чтобы замедлить своих врагов.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пескоплёв",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

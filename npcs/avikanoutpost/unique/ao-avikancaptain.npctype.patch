@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Привет, незнакомец. Надеюсь, ваш корабль в хорошем состоянии?",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Привет, незнакомец. Надеюсь, ваш корабль в хорошем состоянии?",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Привет, незнакомец. Надеюсь, ваш корабль в хорошем состоянии?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Привет, незнакомец. Надеюсь, ваш корабль в хорошем состоянии?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  }
 ]

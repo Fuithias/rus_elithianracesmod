@@ -1,32 +1,32 @@
 [
-    {
-        "value": "Атака!",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я не позволю тебе забрать мою свободу!",
-        "path": "/scriptConfig/dialog/attack/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Вы пришли не туда!",
-        "path": "/scriptConfig/dialog/attack/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Вы видели достаточно!",
-        "path": "/scriptConfig/dialog/attack/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Лучше повернись!",
-        "path": "/scriptConfig/dialog/attack/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Ваши дни закончились!",
-        "path": "/scriptConfig/dialog/attack/avikan/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "Атака!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не позволю тебе забрать мою свободу!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вы пришли не туда!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вы видели достаточно!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Лучше повернись!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ваши дни закончились!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/4",
+    "op": "replace"
+  }
 ]

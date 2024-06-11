@@ -1,27 +1,27 @@
 [
-    {
-        "value": "У нас здесь все лучшие автомобили. Обязательно поговорите с моим менеджером наверху!",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Видите автомобиль, который вам нравится? Подробности вам расскажет мой менеджер.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "В этом автосалоне собраны все лучшие автомобили. Авентор, Веронас, ААЕ – что угодно!",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Ищете что-то быстрое? Или что-то, что может нанести удар? У нас есть все это здесь!",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Ты выглядишь так, будто любишь ховеркары. У нас здесь самые лучшие.",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "У нас здесь все лучшие автомобили. Обязательно поговорите с моим менеджером наверху!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Видите автомобиль, который вам нравится? Подробности вам расскажет мой менеджер.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "В этом автосалоне собраны все лучшие автомобили. Авентор, Веронас, ААЕ – что угодно!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ищете что-то быстрое? Или что-то, что может нанести удар? У нас есть все это здесь!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ты выглядишь так, будто любишь ховеркары. У нас здесь самые лучшие.",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  }
 ]

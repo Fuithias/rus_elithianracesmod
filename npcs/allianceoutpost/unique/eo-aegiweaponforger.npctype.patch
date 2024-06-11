@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Я оружейник, работаю в компании Stryker Smithing. Вам нужно выкованное оружие?",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Я оружейник, работаю в компании Stryker Smithing. Вам нужно выкованное оружие?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  }
 ]

@@ -1,27 +1,27 @@
 [
-    {
-        "value": "Оно занято!",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Извините, занято.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Я здесь в туалете.",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Оккупировано!",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Разве ты не видишь, что оно занято?",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "Оно занято!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Извините, занято.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я здесь в туалете.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Оккупировано!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Разве ты не видишь, что оно занято?",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  }
 ]

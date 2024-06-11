@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Запуск модуля голографической атаки.",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Запуск модуля голографической атаки.",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  }
 ]

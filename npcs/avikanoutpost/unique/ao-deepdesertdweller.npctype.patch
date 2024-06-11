@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Если вы, как я, не жили в глубочайших пустынях, вы еще ничего не видели.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Если вы, как я, не жили в глубочайших пустынях, вы еще ничего не видели.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Если вы, как я, не жили в глубочайших пустынях, вы еще ничего не видели.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Если вы, как я, не жили в глубочайших пустынях, вы еще ничего не видели.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  }
 ]

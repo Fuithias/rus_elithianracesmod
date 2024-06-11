@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Утилитарный дрон с незначительными боевыми возможностями.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Тринковкий дрон",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Утилитарный дрон с незначительными боевыми возможностями.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тринковкий дрон",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

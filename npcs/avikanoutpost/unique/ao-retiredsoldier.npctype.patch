@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Я служил Авангарду много-много лет. Теперь мне пора отдохнуть.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я служил Авангарду много-много лет. Теперь мне пора отдохнуть.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Я служил Авангарду много-много лет. Теперь мне пора отдохнуть.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я служил Авангарду много-много лет. Теперь мне пора отдохнуть.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  }
 ]

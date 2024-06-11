@@ -1,32 +1,32 @@
 [
-    {
-        "value": "Мы, кентлары, ищем истину. Чего вы ищете?",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Центлары ищут только правду.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Правда всегда откроется Центлару.",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Мы, кентлары, ищем истину. Чего вы ищете?",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Центлары ищут только правду.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Правда всегда откроется Центлару.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/2",
-        "op": "replace"
-    }
+  {
+    "value": "Мы, кентлары, ищем истину. Чего вы ищете?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Центлары ищут только правду.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Правда всегда откроется Центлару.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мы, кентлары, ищем истину. Чего вы ищете?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Центлары ищут только правду.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Правда всегда откроется Центлару.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2",
+    "op": "replace"
+  }
 ]

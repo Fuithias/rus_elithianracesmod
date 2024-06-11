@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Я исцелю тебя всякий раз, когда мы будем на корабле.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Я исцелю тебя всякий раз, когда мы будем на корабле.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  }
 ]

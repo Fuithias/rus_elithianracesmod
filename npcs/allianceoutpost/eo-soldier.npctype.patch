@@ -1,17 +1,17 @@
 [
-    {
-        "value": "Этот этаж предназначен только для послов.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Мне придется попросить тебя уйти.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Эти офисы ограничены.",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    }
+  {
+    "value": "Этот этаж предназначен только для послов.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мне придется попросить тебя уйти.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Эти офисы ограничены.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  }
 ]

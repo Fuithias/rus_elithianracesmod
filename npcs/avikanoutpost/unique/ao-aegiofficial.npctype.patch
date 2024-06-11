@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Приятно видеть здесь еще одно дружелюбное лицо. Авиканцы не всегда дружелюбны к инопланетянам.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Приятно видеть здесь еще одно дружелюбное лицо. Авиканцы не всегда дружелюбны к инопланетянам.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Приятно видеть здесь еще одно дружелюбное лицо. Авиканцы не всегда дружелюбны к инопланетянам.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Приятно видеть здесь еще одно дружелюбное лицо. Авиканцы не всегда дружелюбны к инопланетянам.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0",
+    "op": "replace"
+  }
 ]

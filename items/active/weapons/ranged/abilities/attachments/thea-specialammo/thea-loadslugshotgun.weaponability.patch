@@ -1,0 +1,7 @@
+[
+  {
+    "value": "Заряд пулепатрон",
+    "path": "/ability/name",
+    "op": "replace"
+  }
+]

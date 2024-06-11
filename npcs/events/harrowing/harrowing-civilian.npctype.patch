@@ -1,57 +1,57 @@
 [
-    {
-        "value": "Терзание - это так весело!",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Возможно, оно и устарело, но Терзание по-прежнему остается веселым событием!",
-        "path": "/scriptConfig/dialog/converse/aegi/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я надеялся, что в этом году больше людей будут носить маски.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Маски великолепны, но конфеты — лучшая часть Терзания!",
-        "path": "/scriptConfig/dialog/converse/aegi/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Вам нравится Терзание?",
-        "path": "/scriptConfig/dialog/converse/aegi/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Я прочитал в учебнике истории, что Терзание когда-то называлось Хэллоуином. Какое странное имя!",
-        "path": "/scriptConfig/dialog/converse/aegi/default/4",
-        "op": "replace"
-    },
-    {
-        "value": "Я до сих пор не совсем понимаю, что такое Терзание, но маски — это весело.",
-        "path": "/scriptConfig/dialog/converse/trink/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я только что увидел некоторых Aegi в масках и присоединился. Как я выгляжу?",
-        "path": "/scriptConfig/dialog/converse/trink/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Что ты думаешь о моем костюме? Эта Эги в тыквенной маске сделала это для меня!",
-        "path": "/scriptConfig/dialog/converse/trink/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Маски — это глупо, но тоже немного весело.",
-        "path": "/scriptConfig/dialog/converse/trink/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Судя по всему, Терзание — это какой-то древний эгинский праздник.",
-        "path": "/scriptConfig/dialog/converse/trink/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "Терзание - это так весело!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Возможно, оно и устарело, но Терзание по-прежнему остается веселым событием!",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я надеялся, что в этом году больше людей будут носить маски.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Маски великолепны, но конфеты — лучшая часть Терзания!",
+    "path": "/scriptConfig/dialog/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вам нравится Терзание?",
+    "path": "/scriptConfig/dialog/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я прочитал в учебнике истории, что Терзание когда-то называлось Хэллоуином. Какое странное имя!",
+    "path": "/scriptConfig/dialog/converse/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Я до сих пор не совсем понимаю, что такое Терзание, но маски — это весело.",
+    "path": "/scriptConfig/dialog/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я только что увидел некоторых Aegi в масках и присоединился. Как я выгляжу?",
+    "path": "/scriptConfig/dialog/converse/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Что ты думаешь о моем костюме? Эта Эги в тыквенной маске сделала это для меня!",
+    "path": "/scriptConfig/dialog/converse/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Маски — это глупо, но тоже немного весело.",
+    "path": "/scriptConfig/dialog/converse/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Судя по всему, Терзание — это какой-то древний эгинский праздник.",
+    "path": "/scriptConfig/dialog/converse/trink/default/4",
+    "op": "replace"
+  }
 ]

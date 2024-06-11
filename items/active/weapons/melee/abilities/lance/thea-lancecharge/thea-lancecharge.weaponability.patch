@@ -1,6 +1,6 @@
 [
   {
-    "value": "Charge",
+    "value": "Заряд",
     "path": "/ability/name",
     "op": "replace"
   }

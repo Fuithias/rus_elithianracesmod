@@ -1,6 +1,6 @@
 [
   {
-    "value": "Combo Strike",
+    "value": "Комбо удар",
     "path": "/ability/name",
     "op": "replace"
   }

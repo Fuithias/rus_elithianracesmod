@@ -1,37 +1,37 @@
 [
-    {
-        "value": "Фанатик оружия",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "op": "replace"
-    },
-    {
-        "value": "  Уникальные тайники с предметами",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "op": "replace"
-    },
-    {
-        "value": "Я вижу, ты тоже любитель хорошего оружия!",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Ничто не сравнится с ощущением хорошего оружия в руках.",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Мои магазины находятся там.",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "А теперь давай найдём тебе хорошее оружие.",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Хотите настоящей огневой мощи? У меня здесь отличное оружие.",
-        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Фанатик оружия",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Уникальные тайники с предметами",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Я вижу, ты тоже любитель хорошего оружия!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ничто не сравнится с ощущением хорошего оружия в руках.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мои магазины находятся там.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "А теперь давай найдём тебе хорошее оружие.",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хотите настоящей огневой мощи? У меня здесь отличное оружие.",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "op": "replace"
+  }
 ]

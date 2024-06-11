@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Я буду поддерживать двигатели вашего корабля в отличном состоянии, капитан. Будьте готовы летать немного быстрее со мной!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Я буду поддерживать двигатели вашего корабля в отличном состоянии, капитан. Будьте готовы летать немного быстрее со мной!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  }
 ]

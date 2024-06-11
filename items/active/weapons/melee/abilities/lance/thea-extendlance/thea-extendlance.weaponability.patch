@@ -1,6 +1,6 @@
 [
   {
-    "value": "Powered Thrust",
+    "value": "Мощный выпад",
     "path": "/ability/name",
     "op": "replace"
   }

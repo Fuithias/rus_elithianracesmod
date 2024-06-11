@@ -1,32 +1,32 @@
 [
-    {
-        "value": "Райод открыт для всех.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Радейс благословляет нас сегодня.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Жрецы Райода готовы помочь всем, кто нуждается в помощи.",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Райод открыт для всех.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Радейс благословляет нас сегодня.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Жрецы Райода готовы помочь всем, кто нуждается в помощи.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/2",
-        "op": "replace"
-    }
+  {
+    "value": "Райод открыт для всех.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Радейс благословляет нас сегодня.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Жрецы Райода готовы помочь всем, кто нуждается в помощи.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Райод открыт для всех.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Радейс благословляет нас сегодня.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Жрецы Райода готовы помочь всем, кто нуждается в помощи.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2",
+    "op": "replace"
+  }
 ]

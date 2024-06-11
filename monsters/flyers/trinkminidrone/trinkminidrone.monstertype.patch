@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Маленький дрон, используемый для патрулирования и разведки.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Тринковкий минидрон",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Маленький дрон, используемый для патрулирования и разведки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тринковкий минидрон",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

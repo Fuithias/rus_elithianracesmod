@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Большой аккимарский юстициарий, лидер группы аккимаров.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Юстициарий",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Большой аккимарский юстициарий, лидер группы аккимаров.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Юстициарий",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]

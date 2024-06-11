@@ -1,32 +1,32 @@
 [
-    {
-        "value": "Не создавайте здесь никаких проблем.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я слежу за тобой.",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Это безопасная гавань для всех звездных жителей.",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Не создавайте здесь никаких проблем.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я слежу за тобой.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Это безопасная гавань для всех звездных жителей.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/2",
-        "op": "replace"
-    }
+  {
+    "value": "Не создавайте здесь никаких проблем.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я слежу за тобой.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Это безопасная гавань для всех звездных жителей.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не создавайте здесь никаких проблем.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я слежу за тобой.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Это безопасная гавань для всех звездных жителей.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2",
+    "op": "replace"
+  }
 ]

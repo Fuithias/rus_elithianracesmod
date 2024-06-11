@@ -1,37 +1,37 @@
 [
-    {
-        "value": "Ты не должен здесь находиться.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Ты не должен здесь находиться.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Кто вас пустил в офисы?",
-        "path": "/scriptConfig/dialog/converse/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Как ты сюда попал?",
-        "path": "/scriptConfig/dialog/converse/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Тебе следует уйти.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Эта часть Убежища закрыта.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/4",
-        "op": "replace"
-    },
-    {
-        "value": "Вам лучше уйти из этих офисов.",
-        "path": "/scriptConfig/dialog/converse/avikan/default/5",
-        "op": "replace"
-    }
+  {
+    "value": "Ты не должен здесь находиться.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ты не должен здесь находиться.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Кто вас пустил в офисы?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Как ты сюда попал?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Тебе следует уйти.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Эта часть Убежища закрыта.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Вам лучше уйти из этих офисов.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/5",
+    "op": "replace"
+  }
 ]

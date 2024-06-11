@@ -1,57 +1,57 @@
 [
-    {
-        "value": "Я работаю здесь.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Посольство открыто, но еще не все закончено.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Извините, мне нужно сосредоточиться на работе.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Бриггс строит корабли, но мы также занимаемся общестроительными работами.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Часть посольства все еще находится в стадии строительства. Мы работаем как можно быстрее, чтобы закончить все это.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Бриггс предложил свою помощь в строительстве посольства Креона. Я рад быть частью проекта.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/4",
-        "op": "replace"
-    },
-    {
-        "value": "Работать вместе с Aegi было здорово.",
-        "path": "/scriptConfig/dialog/converse/trink/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Тринки рады помочь в строительстве нового посольства.",
-        "path": "/scriptConfig/dialog/converse/trink/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Бриггс прислал невероятно опытных строителей, чтобы они помогли нам построить это место.",
-        "path": "/scriptConfig/dialog/converse/trink/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Следите за головой в зонах строительства.",
-        "path": "/scriptConfig/dialog/converse/trink/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Мы приведем это место в порядок, как только сможем.",
-        "path": "/scriptConfig/dialog/converse/trink/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "Я работаю здесь.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Посольство открыто, но еще не все закончено.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Извините, мне нужно сосредоточиться на работе.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бриггс строит корабли, но мы также занимаемся общестроительными работами.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Часть посольства все еще находится в стадии строительства. Мы работаем как можно быстрее, чтобы закончить все это.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Бриггс предложил свою помощь в строительстве посольства Креона. Я рад быть частью проекта.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Работать вместе с Aegi было здорово.",
+    "path": "/scriptConfig/dialog/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тринки рады помочь в строительстве нового посольства.",
+    "path": "/scriptConfig/dialog/converse/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бриггс прислал невероятно опытных строителей, чтобы они помогли нам построить это место.",
+    "path": "/scriptConfig/dialog/converse/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Следите за головой в зонах строительства.",
+    "path": "/scriptConfig/dialog/converse/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мы приведем это место в порядок, как только сможем.",
+    "path": "/scriptConfig/dialog/converse/trink/default/4",
+    "op": "replace"
+  }
 ]

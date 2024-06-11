@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Вам нужна медицинская помощь?",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Вам нужна медицинская помощь?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  }
 ]

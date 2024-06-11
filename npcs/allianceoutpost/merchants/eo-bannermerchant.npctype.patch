@@ -1,37 +1,37 @@
 [
-    {
-        "value": "Торговец баннерами",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "op": "replace"
-    },
-    {
-        "value": "  Знамя для каждой нации",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "op": "replace"
-    },
-    {
-        "value": "Ах, клиент! Какой баннер вы ищете?",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Возвращайся скорее!",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Мои припасы здесь. Пойдем со мной.",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Итак, какой конкретно баннер вас интересует?",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Эти баннеры просто прекрасны, не так ли? Я могу достать вам немного для вашего личного пользования!",
-        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Торговец баннерами",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Знамя для каждой нации",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Ах, клиент! Какой баннер вы ищете?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Возвращайся скорее!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мои припасы здесь. Пойдем со мной.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Итак, какой конкретно баннер вас интересует?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Эти баннеры просто прекрасны, не так ли? Я могу достать вам немного для вашего личного пользования!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "op": "replace"
+  }
 ]

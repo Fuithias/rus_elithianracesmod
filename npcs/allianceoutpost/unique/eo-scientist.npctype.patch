@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Извините, я немного занят, просматривая свои исследования.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Извините, я немного занят, просматривая свои исследования.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  }
 ]

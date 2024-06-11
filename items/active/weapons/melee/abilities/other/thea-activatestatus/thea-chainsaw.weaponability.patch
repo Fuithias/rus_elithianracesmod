@@ -1,6 +1,6 @@
 [
   {
-    "value": "Combo Slash",
+    "value": "Комбо порез",
     "path": "/ability/name",
     "op": "replace"
   }

@@ -1,122 +1,122 @@
 [
-    {
-        "value": "Мне нужно место, где можно спрятаться! Я буду работать на тебя, если ты меня прикроешь.",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Меня ложно обвинили! Мне просто нужно место, где можно залечь на дно. Могу ли я спрятаться на твоем корабле? Я буду работать на тебя!",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Я не хочу драться с тобой. Есть ли шанс, что ты позволишь мне вместо этого присоединиться к твоей команде?",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Пожалуйста, не выдавайте меня! Я присоединюсь к вашей команде, если вы согласитесь меня спрятать!",
-        "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "За эти годы я научился одному трюку. Если вам нужен боец, я здесь.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Если вам нужен опытный боец, вы знаете, где меня найти.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Мне не терпится проверить свой клинок.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я здесь, если тебе нужен боец.",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Это было самое странное, что я когда-либо чувствовал...",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я думал, мне конец!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Аварийный телепорт снова меня спас!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Радеис вернул меня!",
-        "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Тогда я подожду здесь.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Не задерживайся, ладно?",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Продолжай без меня. Я буду ждать.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Не занимайте слишком много времени.",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Мы отправляемся?",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Наконец-то какое-то действие!",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Давайте тогда.",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Что дальше?",
-        "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Ты вне моей досягаемости!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Я не могу туда попасть!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Не оставляй меня позади!",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Как мне туда добраться?",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3",
-        "op": "replace"
-    }
+  {
+    "value": "Мне нужно место, где можно спрятаться! Я буду работать на тебя, если ты меня прикроешь.",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Меня ложно обвинили! Мне просто нужно место, где можно залечь на дно. Могу ли я спрятаться на твоем корабле? Я буду работать на тебя!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не хочу драться с тобой. Есть ли шанс, что ты позволишь мне вместо этого присоединиться к твоей команде?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Пожалуйста, не выдавайте меня! Я присоединюсь к вашей команде, если вы согласитесь меня спрятать!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "За эти годы я научился одному трюку. Если вам нужен боец, я здесь.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Если вам нужен опытный боец, вы знаете, где меня найти.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мне не терпится проверить свой клинок.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я здесь, если тебе нужен боец.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Это было самое странное, что я когда-либо чувствовал...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я думал, мне конец!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аварийный телепорт снова меня спас!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Радеис вернул меня!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Тогда я подожду здесь.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не задерживайся, ладно?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Продолжай без меня. Я буду ждать.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не занимайте слишком много времени.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мы отправляемся?",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наконец-то какое-то действие!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Давайте тогда.",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Что дальше?",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ты вне моей досягаемости!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не могу туда попасть!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Не оставляй меня позади!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Как мне туда добраться?",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3",
+    "op": "replace"
+  }
 ]

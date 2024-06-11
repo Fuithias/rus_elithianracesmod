@@ -1,57 +1,57 @@
 [
-    {
-        "value": "Всем привет.",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Мне просто нравится работать с транспортными средствами и другими машинами.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Ваши автомобили нуждаются в ремонте? Тебе стоит увидеть Фаро.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Фаро может отремонтировать ваши автомобили.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Я влюблен в Азурию, но не говори ей!",
-        "path": "/scriptConfig/dialog/converse/aegi/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Азури — специалист по мехам, но Фаро разбирается практически во всех других транспортных средствах.",
-        "path": "/scriptConfig/dialog/converse/aegi/default/4",
-        "op": "replace"
-    },
-    {
-        "value": "Я здесь, чтобы помочь Aegi поддерживать максимальную эффективность своих машин.",
-        "path": "/scriptConfig/dialog/converse/trink/default/0",
-        "op": "replace"
-    },
-    {
-        "value": "Мы, Тринк, пользуемся большим спросом на инженерных объектах.",
-        "path": "/scriptConfig/dialog/converse/trink/default/1",
-        "op": "replace"
-    },
-    {
-        "value": "Нужен ремонт автомобилей? Поговорите с Фаро.",
-        "path": "/scriptConfig/dialog/converse/trink/default/2",
-        "op": "replace"
-    },
-    {
-        "value": "Фаро отличный механик. Он даже лучше многих Тринк.",
-        "path": "/scriptConfig/dialog/converse/trink/default/3",
-        "op": "replace"
-    },
-    {
-        "value": "Нужен инженерный совет?",
-        "path": "/scriptConfig/dialog/converse/trink/default/4",
-        "op": "replace"
-    }
+  {
+    "value": "Всем привет.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мне просто нравится работать с транспортными средствами и другими машинами.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ваши автомобили нуждаются в ремонте? Тебе стоит увидеть Фаро.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фаро может отремонтировать ваши автомобили.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я влюблен в Азурию, но не говори ей!",
+    "path": "/scriptConfig/dialog/converse/aegi/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Азури — специалист по мехам, но Фаро разбирается практически во всех других транспортных средствах.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Я здесь, чтобы помочь Aegi поддерживать максимальную эффективность своих машин.",
+    "path": "/scriptConfig/dialog/converse/trink/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мы, Тринк, пользуемся большим спросом на инженерных объектах.",
+    "path": "/scriptConfig/dialog/converse/trink/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нужен ремонт автомобилей? Поговорите с Фаро.",
+    "path": "/scriptConfig/dialog/converse/trink/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Фаро отличный механик. Он даже лучше многих Тринк.",
+    "path": "/scriptConfig/dialog/converse/trink/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Нужен инженерный совет?",
+    "path": "/scriptConfig/dialog/converse/trink/default/4",
+    "op": "replace"
+  }
 ]

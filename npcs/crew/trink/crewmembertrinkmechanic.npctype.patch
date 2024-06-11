@@ -1,7 +1,7 @@
 [
-    {
-        "value": "Пока я здесь, я буду оптимизировать вместимость топливного бака. Вы можете рассчитывать на увеличение запаса топлива на 10%!",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "op": "replace"
-    }
+  {
+    "value": "Пока я здесь, я буду оптимизировать вместимость топливного бака. Вы можете рассчитывать на увеличение запаса топлива на 10%!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  }
 ]

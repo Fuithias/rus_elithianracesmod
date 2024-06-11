@@ -1,12 +1,12 @@
 [
-    {
-        "value": "Мощная автоматическая оборонная турель, произведенная где-то на Окраине.",
-        "path": "/description",
-        "op": "replace"
-    },
-    {
-        "value": "Рубеж ракетная система",
-        "path": "/shortdescription",
-        "op": "replace"
-    }
+  {
+    "value": "Мощная автоматическая оборонная турель, произведенная где-то на Окраине.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рубеж ракетная система",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
 ]
