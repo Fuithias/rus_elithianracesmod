@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "guidedrocket",
+    "value": "Guidedrocket",
     "path": "/altAbility/name",
     "op": "replace"
   }
