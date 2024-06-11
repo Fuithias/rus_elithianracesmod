@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Vhelin's Order",
+    "value": "Приказ Велина",
     "path": "/altAbility/name",
     "op": "replace"
   }
