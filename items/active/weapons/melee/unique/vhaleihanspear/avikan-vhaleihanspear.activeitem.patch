@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Charge of Rhadeis",
+    "value": "Заряд Радейса",
     "path": "/altAbility/name",
     "op": "replace"
   }
