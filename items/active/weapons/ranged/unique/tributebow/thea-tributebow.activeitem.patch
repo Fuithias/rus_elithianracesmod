@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Nock Power Arrow",
+    "value": "Опрокидная стрела",
     "path": "/altAbility/name",
     "op": "replace"
   }
