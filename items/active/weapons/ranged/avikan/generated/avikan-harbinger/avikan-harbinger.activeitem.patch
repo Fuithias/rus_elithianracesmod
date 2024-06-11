@@ -18,5 +18,10 @@
     "value": "Снайперская винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Triple Shot",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
