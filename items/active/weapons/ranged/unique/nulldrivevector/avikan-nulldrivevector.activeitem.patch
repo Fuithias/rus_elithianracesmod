@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Overcharge",
+    "value": "Перегрузка",
     "path": "/altAbility/name",
     "op": "replace"
   }
