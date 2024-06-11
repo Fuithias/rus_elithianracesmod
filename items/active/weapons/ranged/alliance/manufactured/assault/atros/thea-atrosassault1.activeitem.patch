@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Focused Burst",
+    "value": "Фокусная очередь",
     "path": "/altAbility/name",
     "op": "replace"
   }
