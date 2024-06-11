@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Ricochet Shot",
+    "value": "Рикошетный выстрел",
     "path": "/altAbility/name",
     "op": "replace"
   }
