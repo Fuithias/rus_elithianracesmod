@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Gravity Well",
+    "value": "Грави-колодец",
     "path": "/altAbility/name",
     "op": "replace"
   }
