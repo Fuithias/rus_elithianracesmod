@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Solar Barrage",
+    "value": "Солярный залп",
     "path": "/altAbility/name",
     "op": "replace"
   }
