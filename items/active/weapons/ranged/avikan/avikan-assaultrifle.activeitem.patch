@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Focused Fire",
+    "value": "Фокусный огонь",
     "path": "/altAbility/name",
     "op": "replace"
   }
