@@ -18,5 +18,10 @@
     "value": "Штурмовая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Piercing Nails",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
