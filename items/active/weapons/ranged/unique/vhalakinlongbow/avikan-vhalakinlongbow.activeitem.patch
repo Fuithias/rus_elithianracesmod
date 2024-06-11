@@ -18,5 +18,10 @@
     "value": "Лине-лук",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Quintuple Shot",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
