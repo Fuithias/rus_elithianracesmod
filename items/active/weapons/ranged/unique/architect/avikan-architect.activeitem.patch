@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Construct",
+    "value": "Конструкция",
     "path": "/altAbility/name",
     "op": "replace"
   }
