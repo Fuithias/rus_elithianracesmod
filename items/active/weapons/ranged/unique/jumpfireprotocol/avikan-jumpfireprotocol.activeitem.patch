@@ -18,5 +18,10 @@
     "value": "Измененная скачтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Jumpfire Burst",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
