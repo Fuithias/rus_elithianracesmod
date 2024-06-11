@@ -13,5 +13,10 @@
     "value": "Элементальная винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Recalibrate",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
