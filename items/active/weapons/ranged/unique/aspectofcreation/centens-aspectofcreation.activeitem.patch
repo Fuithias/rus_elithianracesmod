@@ -13,5 +13,10 @@
     "value": "Артефакт",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Well of Creation",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
