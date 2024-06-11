@@ -13,5 +13,10 @@
     "value": "Курсирная винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Приказ Велина",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

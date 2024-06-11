@@ -13,5 +13,10 @@
     "value": "Молот Клангарда",
     "path": "/shortdescription",
     "op": "replace"
+  },
+  {
+    "value": "Разрядка энергии",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

@@ -18,5 +18,10 @@
     "value": "Лазер-бур",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Маломощный лазер",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

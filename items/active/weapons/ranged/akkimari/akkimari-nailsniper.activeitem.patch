@@ -18,5 +18,10 @@
     "value": "Снайперская винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Прошивные гвозди",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

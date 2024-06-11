@@ -18,5 +18,10 @@
     "value": "Хладопушка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Облако МОРОЗ",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

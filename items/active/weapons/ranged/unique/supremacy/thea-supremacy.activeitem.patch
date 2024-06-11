@@ -18,5 +18,10 @@
     "value": "Штурмовая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Концентратный взрыв",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

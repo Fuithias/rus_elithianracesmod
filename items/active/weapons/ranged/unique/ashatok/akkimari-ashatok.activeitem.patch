@@ -18,5 +18,10 @@
     "value": "Самодельное оружие",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ваашный разбрызг",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

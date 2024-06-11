@@ -13,5 +13,10 @@
     "value": "Тяжелая Скачтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Солярный залп",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

@@ -18,5 +18,10 @@
     "value": "Штурмовая винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Разгром",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]

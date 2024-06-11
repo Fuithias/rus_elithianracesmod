@@ -13,5 +13,10 @@
     "value": "Лайнтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Три-выстрел",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
