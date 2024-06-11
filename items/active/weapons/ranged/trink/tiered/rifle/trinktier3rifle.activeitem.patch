@@ -18,5 +18,10 @@
     "value": "Лазерная винтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Рикошетный лазер",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
