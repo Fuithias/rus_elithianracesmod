@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Concentrated Blast",
+    "value": "Концентратный взрыв",
     "path": "/altAbility/name",
     "op": "replace"
   }
