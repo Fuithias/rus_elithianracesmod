@@ -18,5 +18,10 @@
     "value": "Электрод",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ground Conductor",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
