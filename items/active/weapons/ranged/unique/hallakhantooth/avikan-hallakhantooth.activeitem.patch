@@ -13,5 +13,10 @@
     "value": "Длинный лук",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Triple Draw",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
