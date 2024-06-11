@@ -13,5 +13,10 @@
     "value": "Электрическое копье",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Electrify",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
