@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Cluster Seekers",
+    "value": "Кластер Искателей",
     "path": "/altAbility/name",
     "op": "replace"
   }
