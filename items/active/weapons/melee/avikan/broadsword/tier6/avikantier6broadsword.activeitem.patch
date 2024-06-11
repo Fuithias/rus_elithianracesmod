@@ -13,5 +13,10 @@
     "value": "Острие Клангарда",
     "path": "/shortdescription",
     "op": "replace"
+  },
+  {
+    "value": "Energy Discharge",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
