@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Quintuple Shot",
+    "value": "Пятикратный выстрел",
     "path": "/altAbility/name",
     "op": "replace"
   }
