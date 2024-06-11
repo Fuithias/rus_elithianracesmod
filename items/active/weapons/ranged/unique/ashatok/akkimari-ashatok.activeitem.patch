@@ -18,5 +18,10 @@
     "value": "Самодельное оружие",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Vaash Spray",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
