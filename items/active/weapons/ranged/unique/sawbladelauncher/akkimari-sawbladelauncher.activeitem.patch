@@ -18,5 +18,10 @@
     "value": "Самодельное оружие",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Hard Launch",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
