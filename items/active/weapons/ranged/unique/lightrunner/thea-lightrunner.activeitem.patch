@@ -18,5 +18,10 @@
     "value": "Ускоритель частиц",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Deploy Drone",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
