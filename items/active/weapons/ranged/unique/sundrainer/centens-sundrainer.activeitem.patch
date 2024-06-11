@@ -13,5 +13,10 @@
     "value": "Тяжелая Скачтовка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Solar Barrage",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
