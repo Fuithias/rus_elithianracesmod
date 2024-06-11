@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Gun Bash",
+    "value": "Удар прикладом",
     "path": "/altAbility/name",
     "op": "replace"
   }
