@@ -18,5 +18,10 @@
     "value": "Гранатомет",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Зажигательная граната",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
