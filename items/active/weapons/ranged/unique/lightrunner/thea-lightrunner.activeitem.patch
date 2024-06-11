@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Deploy Drone",
+    "value": "Вызов дрона",
     "path": "/altAbility/name",
     "op": "replace"
   }
