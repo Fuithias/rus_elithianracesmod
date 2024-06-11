@@ -18,5 +18,10 @@
     "value": "Лазерная снайперка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Piercing Laser",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
