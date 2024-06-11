@@ -18,5 +18,10 @@
     "value": "Ракетница",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Cluster Seekers",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
