@@ -18,5 +18,10 @@
     "value": "Лазерный дробовик",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ricochet Laser",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
