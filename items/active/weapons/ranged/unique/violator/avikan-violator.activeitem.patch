@@ -13,5 +13,10 @@
     "value": "Ионная пушка",
     "path": "/category",
     "op": "replace"
+  },
+  {
+    "value": "Ion Laser",
+    "path": "/altAbility/name",
+    "op": "replace"
   }
 ]
