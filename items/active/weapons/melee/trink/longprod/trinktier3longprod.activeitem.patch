@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Ground Conductor",
+    "value": "Земной проводник",
     "path": "/altAbility/name",
     "op": "replace"
   }
