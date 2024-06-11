@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Mayhem",
+    "value": "Разгром",
     "path": "/altAbility/name",
     "op": "replace"
   }
