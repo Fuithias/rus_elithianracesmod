@@ -1,6 +1,16 @@
 [
   {
-    "value": "^orange;Изготовитель рельсов^white;",
+    "value": " Изготовитель рельс",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Для всех ваших поездок на рельсах",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Изготовитель рельс^white;",
     "path": "/shortdescription",
     "op": "replace"
   },

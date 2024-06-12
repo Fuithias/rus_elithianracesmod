@@ -1,5 +1,10 @@
 [
   {
+    "value": " Кухонная стойка",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
     "value": "^orange;Кухонная стойка Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"

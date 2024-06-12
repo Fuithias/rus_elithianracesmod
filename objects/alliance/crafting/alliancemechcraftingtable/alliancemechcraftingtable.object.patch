@@ -1,6 +1,6 @@
 [
   {
-    "value": "^orange;Стол для изготовления деталей меха^white;",
+    "value": "^orange;Стол изготовки частей меха^white;",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -50,7 +50,7 @@
     "op": "replace"
   },
   {
-    "value": "Akki строит здесь новые детали.",
+    "value": "Акки строит здесь новые детали.",
     "path": "/akkimariDescription",
     "op": "replace"
   }

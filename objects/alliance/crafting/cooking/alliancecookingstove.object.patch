@@ -1,5 +1,15 @@
 [
   {
+    "value": " Плита Альянса",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Базовая готовка",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
     "value": "^orange;Плита Альянса^white;",
     "path": "/shortdescription",
     "op": "replace"

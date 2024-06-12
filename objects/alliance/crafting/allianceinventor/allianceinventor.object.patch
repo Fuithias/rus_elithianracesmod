@@ -140,6 +140,16 @@
     "op": "replace"
   },
   {
+    "value": " Планировочный стол",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специально для орудий труда",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
     "value": "^orange;Стол дизайнера^white;",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "op": "replace"
@@ -210,7 +220,17 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Стол Ремесленника^white;",
+    "value": " Стол дизайнера",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специально для орудий труда",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Стол искусника^white;",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "op": "replace"
   },
@@ -277,6 +297,16 @@
   {
     "value": "Экран-навороченный, чертежи покажи-инопланетянин.",
     "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
+    "op": "replace"
+  },
+  {
+    "value": " Стол искусника",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": " ^#b9b5b2;Специально для орудий труда",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   }
 ]
