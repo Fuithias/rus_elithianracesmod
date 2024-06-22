@@ -151,7 +151,7 @@
 },{"op":"replace","path":"/converse/aegi/default/3","value":
 "В космосе становится одиноко. Приятно наконец встретить здесь кого-то нового."
 },{"op":"replace","path":"/converse/aegi/default/4","value":
-"Я <имя>, приятно познакомиться!"
+"Я <selfname>, приятно познакомиться!"
 },{"op":"replace","path":"/converse/aegi/default/5","value":
 "Приветствую тебя, мой попутчик по звёздам."
 },{"op":"replace","path":"/converse/aegi/default/6","value":
@@ -165,9 +165,9 @@
 },{"op":"replace","path":"/converse/aegi/aegi/2","value":
 "Вы, должно быть, бывали в колониях Союза. Мы пополняем их запасы, но сам я ни разу не посещал их."
 },{"op":"replace","path":"/converse/aegi/aegi/3","value":
-"Я слышал о тебе! Вы посол <имя_сущности>, верно?"
+"Я слышал о тебе! Вы посол <entityname>, верно?"
 },{"op":"replace","path":"/converse/aegi/aegi/4","value":
-"Рад встрече с вами! Я <имя>."
+"Рад встрече с вами! Я <selfname>."
 },{"op":"replace","path":"/converse/aegi/aegi/5","value":
 "Вам когда-нибудь становилось одиноко в космосе? Я знаю, что."
 },{"op":"replace","path":"/converse/aegi/aegi/6","value":
