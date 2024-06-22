@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Броня MEGA-TRINK предназначена для использования операторами Тринкиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "МЕГА-ТРИНК Механический корпус",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Броня МЕГА-ТРИНК предназначена для использования операторами Тринкиана."
+},{"op":"replace","path":"/shortdescription","value":
+"МЕГА-ТРИНК Механический корпус"
+}]

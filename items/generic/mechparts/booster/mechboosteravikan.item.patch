@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Хорошо сбалансированные ускорители, созданные военными Авангарда.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ускорители мехов «Авангард»",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Хорошо сбалансированные ускорители, созданные военными Авангарда."
+},{"op":"replace","path":"/shortdescription","value":
+"Ускорители мехов Авангард"
+}]

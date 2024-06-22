@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный металлический столб для палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для палатки Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный металлический столб для палатки."
+},{"op":"replace","path":"/shortdescription","value":
+"Стойка для палатки Авикан"
+}]

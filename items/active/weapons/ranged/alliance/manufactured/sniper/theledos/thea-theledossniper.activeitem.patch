@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Винтовка Теледоса, стреляющая разрывными плазменными снарядами.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Теледос^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Снайпер Ветира",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Винтовка Теледоса, стреляющая разрывными плазменными снарядами.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Теледос^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Снайпер Ветира"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+}]

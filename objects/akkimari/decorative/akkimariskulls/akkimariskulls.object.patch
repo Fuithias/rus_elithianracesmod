@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Аккимари Черепа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча черепов Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Чужие черепа. Своего рода жутко.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жуткая куча черепов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Черепа поверх сскаллсс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрясен. Что здесь случилось?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то устроил убийство...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Черепа умерших инопланетян. Какое печальное зрелище...",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странные черепа, сложенные друг на друга.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Черепа Аккимари. Какой позор.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странные черепа пришельцев.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это черепа Аккимари. Мне здесь следует быть осторожным...",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены останки инопланетянина. Анализ: черепа Аккимари.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари уже мертв. Черепа остались.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Аккимари Черепа"
+},{"op":"replace","path":"/description","value":
+"Куча черепов Аккимари."
+},{"op":"replace","path":"/apexDescription","value":
+"Чужие черепа. Своего рода жутко."
+},{"op":"replace","path":"/avianDescription","value":
+"Жуткая куча черепов."
+},{"op":"replace","path":"/floranDescription","value":
+"Черепа поверх сскаллсс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Потрясен. Что здесь случилось?"
+},{"op":"replace","path":"/humanDescription","value":
+"Кто-то устроил убийство..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Черепа умерших инопланетян. Какое печальное зрелище..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странные черепа, сложенные друг на друга."
+},{"op":"replace","path":"/aegiDescription","value":
+"Черепа Аккимари. Какой позор."
+},{"op":"replace","path":"/avikanDescription","value":
+"Странные черепа пришельцев."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это черепа Аккимари. Мне здесь следует быть осторожным..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены останки инопланетянина. Анализ: черепа Аккимари."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Аккимари уже мертв. Черепа остались."
+}]

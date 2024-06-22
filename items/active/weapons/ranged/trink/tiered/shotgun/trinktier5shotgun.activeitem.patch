@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Высококачественный лазерный дробовик стандартной комплектации, созданный тринками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Схема-дробитель Марк V",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерный дробовик",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Рикошетный лазер",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Высококачественный лазерный дробовик стандартной комплектации, созданный тринками."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Схема-дробитель Мк V"
+},{"op":"replace","path":"/category","value":
+"Лазерный дробовик"
+},{"op":"replace","path":"/altAbility/name","value":
+"Рикошетный лазер"
+}]

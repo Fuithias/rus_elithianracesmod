@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Красочная ткань, используемая для изготовления различных предметов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Ткань",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Красочная ткань, используемая для изготовления различных предметов."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Ткань"
+}]

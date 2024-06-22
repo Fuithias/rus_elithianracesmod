@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный фильм",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный дрон типа Аккимари Флик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой дрон.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький дрон.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Небольшой дрон.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон. Как мило!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой небольшой дрон.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какой-то крошечный дрон.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это называются флики: маленькие правоохранительные дроны Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон. Не слишком отличается от Дралида.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон. Оно спит.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен дрон, построенный пришельцами. Модель Флик.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флик-крошка, держи Аккимари под контролем.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный фильм"
+},{"op":"replace","path":"/description","value":
+"Неактивный дрон в.а Аккимари Флик."
+},{"op":"replace","path":"/apexDescription","value":
+"Крошечный дрон."
+},{"op":"replace","path":"/avianDescription","value":
+"Небольшой дрон."
+},{"op":"replace","path":"/floranDescription","value":
+"Маленький дрон."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Небольшой дрон."
+},{"op":"replace","path":"/humanDescription","value":
+"Крошечный дрон. Как мило!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой небольшой дрон."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какой-то крошечный дрон."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кажется, это называются флики: маленькие правоохранительные дроны Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Крошечный дрон. Не слишком отличается от Дралида."
+},{"op":"replace","path":"/trinkDescription","value":
+"Дрон. Оно спит."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен дрон, построенный пришельцами. Модель Флик."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Флик-крошка, держи Аккимари под контролем."
+}]

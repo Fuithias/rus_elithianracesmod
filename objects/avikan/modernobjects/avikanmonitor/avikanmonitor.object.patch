@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Монитор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монитор, отображающий много информации.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "На этом экране много информации, но я ничего в ней не понимаю.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что могут означать все эти строки?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает сссшный экран...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недееспособность. Я не могу прочитать эту информацию.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это много информации! Мне бы хотелось хоть немного понять это...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монитор отображает какую-то информацию, но что она означает, для меня загадка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как авиканцам удается разобраться во всей этой путанице, для меня загадка.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дисплей, показывающий широкий выбор данных.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу обработать отображаемую здесь информацию.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Обнаружено четыре битых пикселя.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран полон писаний-инопланетян.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Монитор"
+},{"op":"replace","path":"/description","value":
+"Монитор, отображающий много информации."
+},{"op":"replace","path":"/apexDescription","value":
+"На этом экране много информации, но я ничего в ней не понимаю."
+},{"op":"replace","path":"/avianDescription","value":
+"Что могут означать все эти строки?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает сссшный экран..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Недееспособность. Я не могу прочитать эту информацию."
+},{"op":"replace","path":"/humanDescription","value":
+"Это много информации! Мне бы хотелось хоть немного понять это..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот монитор отображает какую-то информацию, но что она означает, для меня загадка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Как авиканцам удается разобраться во всей этой путанице, для меня загадка."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дисплей, показывающий широкий выбор данных."
+},{"op":"replace","path":"/trinkDescription","value":
+"Я не могу обработать отображаемую здесь информацию."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Обнаружено четыре битых пикселя."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Экран полон писаний-инопланетян."
+}]

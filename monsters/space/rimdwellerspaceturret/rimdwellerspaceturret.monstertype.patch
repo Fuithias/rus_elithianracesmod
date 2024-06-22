@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мощная автоматическая оборонная турель, произведенная где-то на Окраине.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рубеж космо-турель",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мощная автоматическая оборонная турель, произведенная где-то на Окраине."
+},{"op":"replace","path":"/shortdescription","value":
+"Рубеж космо-турель"
+}]

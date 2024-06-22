@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тест анимации",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анимационный тест. Где ты это взял?",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тест анимации"
+},{"op":"replace","path":"/description","value":
+"Анимационный тест. Где ты это взял?"
+}]

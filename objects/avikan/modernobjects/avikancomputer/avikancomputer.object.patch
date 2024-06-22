@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Компьютер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современный компьютер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер. Я понятия не имею, как работает этот интерфейс...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает больших черных ящиков.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Компьютер.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Где тачскрин? Клавиатура, мышь? Я не могу с этим работать!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер с необычным интерфейсом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютеры Авикан имеют необычный интерфейс.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой компьютер, используемый для отправки сообщений Флоту.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер Авикан. Сколько у него оперативной памяти?",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прием радиосигнала. Анализируем.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер-инопланетянин. Интерфейс-странный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Компьютер"
+},{"op":"replace","path":"/description","value":
+"Современный компьютер."
+},{"op":"replace","path":"/apexDescription","value":
+"Компьютер."
+},{"op":"replace","path":"/avianDescription","value":
+"Компьютер. Я понятия не имею, как работает этот интерфейс..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает больших черных ящиков."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Компьютер."
+},{"op":"replace","path":"/humanDescription","value":
+"Где тачскрин? Клавиатура, мышь? Я не могу с этим работать!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Компьютер с необычным интерфейсом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Компьютеры Авикан имеют необычный интерфейс."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой компьютер, используемый для отправки сообщений Флоту."
+},{"op":"replace","path":"/trinkDescription","value":
+"Компьютер Авикан. Сколько у него оперативной памяти?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Прием радиосигнала. Анализируем."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Компьютер-инопланетянин. Интерфейс-странный."
+}]

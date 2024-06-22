@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урона в секунду:",
-    "path": "/dpsTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Мощь копания:",
-    "path": "/miningStrengthTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии в секунду:",
-    "path": "/energyPerSecondTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Я баг. Прошу сообщите обо мне!",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/dpsTitleLabel/value","value":
+"Урона в секунду:"
+},{"op":"replace","path":"/miningStrengthTitleLabel/value","value":
+"Мощь копания:"
+},{"op":"replace","path":"/energyPerSecondTitleLabel/value","value":
+"Энергии в секунду:"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Я баг. Прошу сообщите обо мне!"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "^orange;Кулинарная станция Авикан^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина, которая готовит еду. Удобный.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная кулинарная станция. Нет ничего, что он не мог бы подготовить.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой станции приготовят любую еду, которую я захочу.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не нравится, когда еду готовит машина.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Эта станция автоматически приготовит любую запрошенную еду.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная станция приготовления пищи – для меня это означает отсутствие мытья посуды!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина приготовит мне еду умело и изящно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция приготовит для меня еду!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция приготовления пищи. Я могу запрограммировать его на приготовление любой мыслимой еды.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой кулинарной станции можно приготовить практически любое блюдо.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная кулинарная станция. Это удивительно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена кулинарная станция. Этот агрегат может заправляться, используя натуральные продукты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки готовит здесь еду.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Кулинарная станция Авикан^white;"
+},{"op":"replace","path":"/description","value":
+"Машина, которая готовит еду. Удобный."
+},{"op":"replace","path":"/apexDescription","value":
+"Автоматизированная кулинарная станция. Нет ничего, что он не мог бы подготовить."
+},{"op":"replace","path":"/avianDescription","value":
+"На этой станции приготовят любую еду, которую я захочу."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не нравится, когда еду готовит машина."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Эта станция автоматически приготовит любую запрошенную еду."
+},{"op":"replace","path":"/humanDescription","value":
+"Автоматизированная станция приготовления пищи – для меня это означает отсутствие мытья посуды!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта машина приготовит мне еду умело и изящно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта станция приготовит для меня еду!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Станция приготовления пищи. Я могу запрограммировать его на приготовление любой мыслимой еды."
+},{"op":"replace","path":"/avikanDescription","value":
+"На этой кулинарной станции можно приготовить практически любое блюдо."
+},{"op":"replace","path":"/trinkDescription","value":
+"Автоматизированная кулинарная станция. Это удивительно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена кулинарная станция. Этот агрегат может заправляться, используя натуральные продукты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки готовит здесь еду."
+}]

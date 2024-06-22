@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Длинный металлический трос. Пригодится и для лазания, и для рукоделия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский кабель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструмент",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Длинный металлический трос. Пригодится и для лазания, и для рукоделия."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианский кабель"
+},{"op":"replace","path":"/category","value":
+"Инструмент"
+}]

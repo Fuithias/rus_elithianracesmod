@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Окно обсерватории Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большое усиленное окно.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран очарован видами...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мнение. Из этого окна открывается отличный вид.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Стекло.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вид-красивый. Акки вроде.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Окно обсерватории Авикан"
+},{"op":"replace","path":"/description","value":
+"Большое усиленное окно."
+},{"op":"replace","path":"/apexDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/avianDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран очарован видами..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Мнение. Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/humanDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/novakidDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/aegiDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/avikanDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/trinkDescription","value":
+"Из этого окна открывается отличный вид."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Стекло."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вид-красивый. Акки вроде."
+}]

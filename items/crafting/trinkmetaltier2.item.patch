@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный металлический куб, легко хранится и готов к изготовлению.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Крепкий тринкианский металл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный металлический куб, легко хранится и готов к изготовлению."
+},{"op":"replace","path":"/shortdescription","value":
+"Крепкий тринкианский металл"
+}]

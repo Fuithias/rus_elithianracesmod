@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Поглощение Звёзд",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Я нашёл ^orange;Загадочное Ядро Оружия ^reset;в древних Центенсианских руинах. ^green;Мне следует отнести его кому-то, кто знает больше о таких древних реликвиях.^reset;",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Какое открытие, капитан! Это ядро древнего Центенсианского джампрельса, но гораздо мощнее, чем обычные.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Поглощение Звёзд"
+},{"op":"replace","path":"/text","value":
+"Я нашёл ^orange;Загадочное Ядро Оружия ^reset;в древних Центенских руинах. ^green;Мне следует отнести его кому-то, кто знает больше о таких древних реликвиях.^reset;"
+},{"op":"replace","path":"/completionText","value":
+"Какое открытие, капитан! Это ядро древнего Центенского джампрельса, но гораздо мощнее, чем обычные."
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездохода^reset;"
+}]

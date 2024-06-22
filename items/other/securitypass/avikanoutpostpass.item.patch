@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Этот пропуск открывает доступ к консолям безопасности в Убежище Звездных Путешественников.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Пропуск в убежище звездного путешественника^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "пропуск безопасности",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Этот пропуск открывает доступ к консолям безопасности в Убежище Звездных Путешественников."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Пропуск Убежища Звездохода^white;"
+},{"op":"replace","path":"/category","value":
+"пропуск безопасности"
+}]

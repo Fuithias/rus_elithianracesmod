@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Порочное древнее оружие, созданное Ремнантом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Поражение^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щит-меч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Порочное древнее оружие, созданное Ремнантом."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Поражение^white;"
+},{"op":"replace","path":"/category","value":
+"Щит-меч"
+}]

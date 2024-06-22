@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Гоночные ворота - Быстро",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, ускоряющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гоночные ворота. Это ускорит любой проезжающий мимо ховербайк.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти гоночные ворота ускоряют проезжающие мимо ховербайки.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран в восторге! Светящийся столб ускоряет ховербайк.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радостный. Проезд мимо него на ховербайке приводит к значительному ускорению.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гоночные ворота, ускоряющие проезжающие мимо ховербайки. Потрясающий!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, ускоряющие проезжающие мимо ховербайки.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот маркер ускоряет ховербайки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти ворота ускорят любой проезжающий мимо ховербайк.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, ускоряющие проезжающие мимо ховербайки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маркер, позволяющий ховербайкам ускоряться.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены гоночные ворота. Ускоряет проезжающие ховербайки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если Акки проедет мимо на ховербайке, Акки поедет быстрее! Быстрее быстрее!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан скоростные врата"
+},{"op":"replace","path":"/description","value":
+"Ворота, ускоряющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство."
+},{"op":"replace","path":"/apexDescription","value":
+"Гоночные ворота. Это ускорит любой проезжающий мимо ховербайк."
+},{"op":"replace","path":"/avianDescription","value":
+"Эти гоночные ворота ускоряют проезжающие мимо ховербайки."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран в восторге! Светящийся столб ускоряет ховербайк."
+},{"op":"replace","path":"/glitchDescription","value":
+"Радостный. Проезд мимо него на ховербайке приводит к значительному ускорению."
+},{"op":"replace","path":"/humanDescription","value":
+"Гоночные ворота, ускоряющие проезжающие мимо ховербайки. Потрясающий!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ворота, ускоряющие проезжающие мимо ховербайки."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот маркер ускоряет ховербайки."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти ворота ускорят любой проезжающий мимо ховербайк."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ворота, ускоряющие проезжающие мимо ховербайки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мкер, позволяющий ховербайкам ускоряться."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены гоночные ворота. Ускоряет проезжающие ховербайки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Если Акки проедет мимо на ховербайке, Акки поедет быстрее! Быстрее быстрее!"
+}]

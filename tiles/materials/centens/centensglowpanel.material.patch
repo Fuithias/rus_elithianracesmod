@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Светящаяся центенская панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя, светящаяся панель. У нее нет видимого источника питания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заворожен. Эта древняя панель все еще ярко светится.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель светится.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как-то эта панель светится, хотя нет подключенного источника питания.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружена центенская технология освещения.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-светящаяся, акки в восторге.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Светящаяся центенская панель"
+},{"op":"replace","path":"/description","value":
+"Древняя, светящаяся панель. У нее нет видимого источника питания."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заворожен. Эта древняя панель все еще ярко светится."
+},{"op":"replace","path":"/floranDescription","value":
+"Эта панель светится."
+},{"op":"replace","path":"/novakidDescription","value":
+"Как-то эта панель светится, хотя нет подключенного источника питания."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружена центенская технология освещения."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-светящаяся, акки в восторге."
+}]

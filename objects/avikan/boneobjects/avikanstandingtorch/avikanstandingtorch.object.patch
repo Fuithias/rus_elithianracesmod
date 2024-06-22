@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Постоянный факел",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий стоячий факел, излучающий теплое сияние.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поднятый костяной факел.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий мерцающий факел.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий факел держит огонь.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Безмятежный. Высокий факел, пламя мерцает.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрескивающий факел.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поднятый факел обеспечивает освещение большой площади.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пламя потрескивает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой факел на костяной подставке.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Факел. Они заставляют меня чувствовать себя как дома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крайне неэффективный способ освещения вашего окружения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена опасность пожара.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высоким как факел, сделанный из кости. Акки вроде.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Постоянный факел"
+},{"op":"replace","path":"/description","value":
+"Высокий стоячий факел, излучающий теплое сияние."
+},{"op":"replace","path":"/apexDescription","value":
+"Поднятый костяной факел."
+},{"op":"replace","path":"/avianDescription","value":
+"Высокий мерцающий факел."
+},{"op":"replace","path":"/floranDescription","value":
+"Высокий факел держит огонь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Безмятежный. Высокий факел, пламя мерцает."
+},{"op":"replace","path":"/humanDescription","value":
+"Потрескивающий факел."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Поднятый факел обеспечивает освещение большой площади."
+},{"op":"replace","path":"/novakidDescription","value":
+"Пламя потрескивает."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой факел на костяной подставке."
+},{"op":"replace","path":"/avikanDescription","value":
+"Факел. Они заставляют меня чувствовать себя как дома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Крайне неэффективный способ освещения вашего окружения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена опасность пожара."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Высоким как факел, сделанный из кости. Акки вроде."
+}]

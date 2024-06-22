@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из низкосортной стали.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела Марк II",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из низкосортной стали."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод тела Мк II"
+}]

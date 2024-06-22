@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Модифицированный дроденский длинномеч, используемый командиром Захидом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Меч Захида^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Варп-удар",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Модификация длинномеча дроден, используемый командиром Захидом."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Меч Захида^white;"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+},{"op":"replace","path":"/altAbility/name","value":
+"Варп-удар"
+}]

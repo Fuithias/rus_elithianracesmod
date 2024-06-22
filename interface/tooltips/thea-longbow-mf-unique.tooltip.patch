@@ -1,37 +1,15 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Максимальный урон:",
-    "path": "/perfectMaxDamageTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Время натяжения:",
-    "path": "/drawTimeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии на выстрел:",
-    "path": "/energyPerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии на удержание:",
-    "path": "/energyPerSecondTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Собирает с чудовищ мясо и другие продукты.",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/perfectMaxDamageTitleLabel/value","value":
+"Максимальный урон:"
+},{"op":"replace","path":"/drawTimeTitleLabel/value","value":
+"Время натяжения:"
+},{"op":"replace","path":"/energyPerShotTitleLabel/value","value":
+"Энергии на выстрел:"
+},{"op":"replace","path":"/energyPerSecondTitleLabel/value","value":
+"Энергии на удержание:"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Собирает с чудовищ мясо и другие продукты."
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

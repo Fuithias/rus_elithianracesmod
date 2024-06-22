@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Сентенский терминал",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерный терминал.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерный терминал. Выглядит старым, но очень продвинутым.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний компьютерный терминал, до сих пор работающий.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ссс блестящие скрины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Этот древний компьютерный терминал все еще функционирует.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный. Я думал, что во всех древних технологиях использовались голографические экраны.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя и загадочная компьютерная консоль. Что означает этот текст?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерный терминал, построенный Центенами много веков назад.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерный терминал, оставленный Древними.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийский терминал. Я не могу обработать отображаемую информацию.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Обнаружен Centensian интерфейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал для управления вещами. Акки нажимай кнопки-все!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сентенский терминал"
+},{"op":"replace","path":"/description","value":
+"Компьютерный терминал."
+},{"op":"replace","path":"/apexDescription","value":
+"Компьютерный терминал. Выглядит старым, но очень продвинутым."
+},{"op":"replace","path":"/avianDescription","value":
+"Древний компьютерный терминал, до сих пор работающий."
+},{"op":"replace","path":"/floranDescription","value":
+"Ссс блестящие скрины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Этот древний компьютерный терминал все еще функционирует."
+},{"op":"replace","path":"/humanDescription","value":
+"Странный. Я думал, что во всех древних технологиях использовались голографические экраны."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Древняя и загадочная компьютерная консоль. Что означает этот текст?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Компьютерный терминал, построенный Центенами много веков назад."
+},{"op":"replace","path":"/avikanDescription","value":
+"Компьютерный терминал, оставленный Древними."
+},{"op":"replace","path":"/trinkDescription","value":
+"Центенсийский терминал. Я не могу обработать отображаемую информацию."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Обнаружен Centensian интерфейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Терминал для управления вещами. Акки нажимай кнопки-все!"
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Мощнейшая лайнтовка, созданная для того, чтобы прорываться сквозь вражеские ряды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Инициатива Прайм^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Линейный поток",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Мощнейшая лайнтовка, созданная чтобы прорывать сквозь вражеские ряды."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Прайм Инициатива^white;"
+},{"op":"replace","path":"/category","value":
+"Тяжелая лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Линейный поток"
+}]

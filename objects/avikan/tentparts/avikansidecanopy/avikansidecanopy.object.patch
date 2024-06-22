@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Боковой навес Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Балдахин из декорированной ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный навес создает прохладную тень в течение дня.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный навес.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркие цвета.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Навес.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный навес.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выкройка простая, но ткань пошита очень хорошо.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навес, который можно прикрепить к стене здания для дополнительной тени.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изящно украшенный навес для защиты от солнца.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навес из цветной ткани. Хорошо сплетенный.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навес. Обеспечивает тень в пустыне.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навес разноцветный, создает тень днем.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Боковой навес Авикан"
+},{"op":"replace","path":"/description","value":
+"Балдахин из декорированной ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Красочный навес создает прохладную тень в течение дня."
+},{"op":"replace","path":"/avianDescription","value":
+"Красочный навес."
+},{"op":"replace","path":"/floranDescription","value":
+"Яркие цвета."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Навес."
+},{"op":"replace","path":"/humanDescription","value":
+"Красочный навес."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Выкройка простая, но ткань пошита очень хорошо."
+},{"op":"replace","path":"/aegiDescription","value":
+"Навес, который можно прикрепить к стене здания для дополнительной тени."
+},{"op":"replace","path":"/avikanDescription","value":
+"Изящно украшенный навес для защиты от солнца."
+},{"op":"replace","path":"/trinkDescription","value":
+"Навес из цветной ткани. Хорошо сплетенный."
+},{"op":"replace","path":"/drodenDescription","value":
+"Навес. Обеспечивает тень в пустыне."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Навес разноцветный, создает тень днем."
+}]

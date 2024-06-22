@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный усиленный рельс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Темный Авикан Рейл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный усиленный рельс."
+},{"op":"replace","path":"/shortdescription","value":
+"Темный Авикан Рейл"
+}]

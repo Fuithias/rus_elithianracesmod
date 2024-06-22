@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Приправленные и приготовленные болбоны имеют совершенно странный вкус.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Спайс Бол",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Приправленные и приготовленные болбоны имеют совершенно странный вкус."
+},{"op":"replace","path":"/shortdescription","value":
+"Спайс Бол"
+}]

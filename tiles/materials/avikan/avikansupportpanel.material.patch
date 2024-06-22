@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская опорная балка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Часть опорной балки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Такие панели часто используются в опорных балках.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если Флоран уберет опорные балки, развалится ли дом?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Опорная балка, для поддержки конструкций.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Опорная балка, важный структурный элемент.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Балка для поддержки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская опорная балка"
+},{"op":"replace","path":"/description","value":
+"Часть опорной балки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Такие панели часто используются в опорных балках."
+},{"op":"replace","path":"/floranDescription","value":
+"Если Флоран уберет опорные балки, развалится ли дом?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Опорная балка, для поддержки конструкций."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Опорная балка, важный структурный элемент."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Балка для поддержки."
+}]

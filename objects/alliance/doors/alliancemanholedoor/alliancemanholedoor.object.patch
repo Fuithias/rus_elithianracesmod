@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Крышка люка Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка из тяжелого металла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка. Чтобы дураки не упали в яму.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка, под ней что-то скрывается?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Крышка люка.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка, ожидающая, пока кто-нибудь комично упадет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка, что скрывается под ней?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то крышка люка, что там скрывается?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая крышка люка. Это может привести к канализации.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь какая-то. Куда это ведет?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крышка люка. Это предохраняет людей от падения в канализацию.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена металлическая дверь. Ищем проходы внизу...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь в земле. Акки любопытно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Крышка люка Альянса"
+},{"op":"replace","path":"/description","value":
+"Крышка люка из тяжелого металла."
+},{"op":"replace","path":"/apexDescription","value":
+"Крышка люка. Чтобы дураки не упали в яму."
+},{"op":"replace","path":"/avianDescription","value":
+"Крышка люка."
+},{"op":"replace","path":"/floranDescription","value":
+"Крышка люка, под ней что-то скрывается?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Крышка люка."
+},{"op":"replace","path":"/humanDescription","value":
+"Крышка люка, ожидающая, пока кто-нибудь комично упадет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Крышка люка, что скрывается под ней?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то крышка люка, что там скрывается?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Большая крышка люка. Это может привести к канализации."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дверь какая-то. Куда это ведет?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Крышка люка. Это предохраняет людей от падения в канализацию."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена металлическая дверь. Ищем проходы внизу..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь в земле. Акки любопытно."
+}]

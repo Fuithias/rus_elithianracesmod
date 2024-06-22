@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Большой кусок едва приготовленного инопланетного мяса. Любимец Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "кусок мяса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Большой кусок едва приготовленного инопланетного мяса. Любимец Авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"кусок мяса"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Базовый корпус робота, созданный мусорщиками Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механическое тело Крестоносца-00",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Базовый корпус робота, созданный мусорщиками Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Механическое тело Крестоносца-00"
+}]

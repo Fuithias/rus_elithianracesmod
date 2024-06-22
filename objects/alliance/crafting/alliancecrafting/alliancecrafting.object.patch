@@ -1,312 +1,125 @@
-[
-  {
-    "value": "^orange;Мастерская Альянса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Универсальный мастер-класс для создания самых разных предметов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, полная инструментов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастер-класс «все в одном». Я могу создать здесь много вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Давайте что-нибудь придумаем!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, наполненная различными инструментами и приспособлениями.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская с инструментами для любого ремесла.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты просто ждут, чтобы их использовали.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне до сих пор кажется странным, как небрежно другие обращаются с деревом.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструментов-много. Акки используется для создания вещей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мастерская Альянса^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Универсальный мастер-класс для создания самых разных предметов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, полная инструментов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полноценный семинар. Я могу создать здесь много вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Давайте что-нибудь придумаем!",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, наполненная различными инструментами и приспособлениями.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская с инструментами для любого ремесла.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты просто ждут, чтобы их использовали.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне до сих пор кажется странным, как небрежно другие обращаются с деревом.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструментов-много. Акки используется для создания вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " Мастерская Альянса",
-    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Предметы и снаряжение Альянса",
-    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;3D-принтер Альянса^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усовершенствованный 3D-принтер, способный производить различные предметы.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "3D-принтер, способный печатать различными материалами.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство может печатать многое.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина делает вещи для Флорана. Флоран доволен.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Это устройство произведет все, что я попрошу.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне всегда нравилось видеть 3D-принтеры в действии.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машины отнимают грацию искусного мастера.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина будет печатать для меня. Это здорово.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "3D-принтер Машиностроения Энерт. Он может производить много вещей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то тип крафтового устройства. Я не совсем уверен, как это работает.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный 3D-принтер.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство печатает элемент. Акки не нужны инструменты!",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " 3D-принтер Альянса",
-    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Предметы и снаряжение Альянса",
-    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мультипроизводитель Альянса^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокоразвитое производственное подразделение, способное производить разнообразные изделия.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на какой-то 3D-принтер.",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство, способное создавать различные предметы.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина делает вещи для Флорана. Флоран доволен.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Это устройство произведет все, что я попрошу.",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, это какой-то продвинутый принтер.",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машины отнимают грацию искусного мастера.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина будет печатать для меня. Это здорово.",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Новейшее производственное подразделение Машиностроения Энерт. Из сырья можно изготовить практически всё.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то тип крафтового устройства. Я не совсем уверен, как это работает.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокоэффективное производственное подразделение. Энерт следует похвалить за изобретательность.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не знает, как устройство конструирует предметы. Акки узнает.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " Мультипроизводитель Альянса",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Предметы и снаряжение Альянса",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Мастерская Альянса^white;"
+},{"op":"replace","path":"/description","value":
+"Универсальный мастер-класс для создания самых разных предметов."
+},{"op":"replace","path":"/apexDescription","value":
+"Мастерская, полная инструментов."
+},{"op":"replace","path":"/avianDescription","value":
+"Мастер-класс все в одном. Я могу создать здесь много вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Давайте что-нибудь придумаем!"
+},{"op":"replace","path":"/humanDescription","value":
+"Мастерская, наполненная различными инструментами и приспособлениями."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мастерская с инструментами для любого ремесла."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эти инструменты просто ждут, чтобы их использовали."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мне до сих пор кажется странным, как небрежно другие обращаются с деревом."
+},{"op":"replace","path":"/trinkDescription","value":
+"Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инструментов-много. Акки используется для создания вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Мастерская Альянса^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Универсальный мастер-класс для создания самых разных предметов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Мастерская, полная инструментов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Полноценный семинар. Я могу создать здесь много вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Взволнованный. Давайте что-нибудь придумаем!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Мастерская, наполненная различными инструментами и приспособлениями."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Мастерская с инструментами для любого ремесла."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Эти инструменты просто ждут, чтобы их использовали."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Простая мастерская, но в ней есть все инструменты, которые мне когда-либо понадобятся."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Мне до сих пор кажется странным, как небрежно другие обращаются с деревом."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Компактная мастерская с различными инструментами. Достаточно эффективное использование пространства и материалов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Инструментов-много. Акки используется для создания вещей."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская Альянса"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение Альянса"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;3D-принтер Альянса^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Усовершенствованный 3D-принтер, способный производить различные предметы."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"3D-принтер, способный печатать различными материалами."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Это устройство может печатать многое."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Машина делает вещи для Флорана. Флоран доволен."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Заинтригован. Это устройство произведет все, что я попрошу."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Мне всегда нравилось видеть 3D-принтеры в действии."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Машины отнимают грацию искусного мастера."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Эта машина будет печатать для меня. Это здорово."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"3D-принтер Машиностроения Энерт. Он может производить много вещей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Какой-то в. крафтового устройства. Я не совсем уверен, как это работает."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Эффективный 3D-принтер."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Устройство печатает элемент. Акки не нужны инструменты!"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" 3D-принтер Альянса"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение Альянса"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange;Мульв.роизводитель Альянса^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Высокоразвитое производственное подразделение, способное производить разнообразные изделия."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"Это похоже на какой-то 3D-принтер."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"Устройство, способное создавать различные предметы."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Машина делает вещи для Флорана. Флоран доволен."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Заинтригован. Это устройство произведет все, что я попрошу."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Я думаю, это какой-то продвинутый принтер."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Машины отнимают грацию искусного мастера."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"Эта машина будет печатать для меня. Это здорово."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"Новейшее производственное подразделение Машиностроения Энерт. Из сырья можно изготовить практически всё."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"Какой-то в. крафтового устройства. Я не совсем уверен, как это работает."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Высокоэффективное производственное подразделение. Энерт следует похвалить за изобретательность."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Крафтовое устройство. Автоматически производит различные предметы."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Акки не знает, как устройство конструирует предметы. Акки узнает."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мульв.роизводитель Альянса"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение Альянса"
+}]

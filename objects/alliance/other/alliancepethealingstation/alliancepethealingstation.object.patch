@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Лекарь-питомец Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция исцеления существ, используемая для лечения пойманных существ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Подобные машины используются для лечения пойманных существ.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как полезно, с его помощью я могу исцелить любых существ, которых поймаю.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этого Флоран может исцелять существ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Это устройство способно лечить любых пойманных существ.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу использовать это, чтобы исцелить любое пойманное мною существо. Аккуратный!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такие вещи полезны для обеспечения отличного здоровья существ.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу использовать этот гаджет для лечения пойманных существ.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этой станции можно лечить пойманных существ.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция исцелит любое пойманное мною существо.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство будет лечить пойманных существ.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено устройство для лечения домашних животных. Лечит раненых захваченных существ.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки исцелит питомца здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Лекарь-питомец Альянса"
+},{"op":"replace","path":"/description","value":
+"Станция исцеления существ, используемая для лечения пойманных существ."
+},{"op":"replace","path":"/apexDescription","value":
+"Подобные машины используются для лечения пойманных существ."
+},{"op":"replace","path":"/avianDescription","value":
+"Как полезно, с его помощью я могу исцелить любых существ, которых поймаю."
+},{"op":"replace","path":"/floranDescription","value":
+"С помощью этого Флоран может исцелять существ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Это устройство способно лечить любых пойманных существ."
+},{"op":"replace","path":"/humanDescription","value":
+"Я могу использовать это, чтобы исцелить любое пойманное мною существо. Аккуратный!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такие вещи полезны для обеспечения отличного здоровья существ."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я могу использовать этот гаджет для лечения пойманных существ."
+},{"op":"replace","path":"/aegiDescription","value":
+"С помощью этой станции можно лечить пойманных существ."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта станция исцелит любое пойманное мною существо."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это устройство будет лечить пойманных существ."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено устройство для лечения домашних животных. Лечит раненых захваченных существ."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки исцелит питомца здесь."
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Скорострельный пистолет-пулемет Альянса.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;АТРОС Армс^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АТРОС ПП-М1",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет-пулемет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Скорострельный пистолет-пулемет Альянса.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;АТРОС Армс^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АТРОС ПП-М1"
+},{"op":"replace","path":"/category","value":
+"Пистолет-пулемет"
+}]

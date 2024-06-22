@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Кожаные накидки для защиты от ветров пустыни. Любимы кочевниками пустынь Кадавана",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Обмотки кочевника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Кожаные накидки для защиты от ветров пустыни. Любимы кочевниками пустынь Кадавана"
+},{"op":"replace","path":"/shortdescription","value":
+"Обмотки кочевника"
+}]

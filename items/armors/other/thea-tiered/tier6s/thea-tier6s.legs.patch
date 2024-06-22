@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Общее. ^white;Генератор чрезвычайно высокой интенсивности для защиты ног, обеспечивает отличную защиту.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Защитный щит ЭХ-и",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Общее. ^white;Генератор чрезвычайно высокой интенсивности для защиты ног, обеспечивает отличную защиту."
+},{"op":"replace","path":"/shortdescription","value":
+"Защитный щит ЭХ-и"
+}]

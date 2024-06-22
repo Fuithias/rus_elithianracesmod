@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Изящный длинный меч с почти неломающейся кромкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Охрана Эрито^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Эрито^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Изящный длинный меч с почти неломающейся кромкой."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Охрана Эрито^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Эрито^white;"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+}]

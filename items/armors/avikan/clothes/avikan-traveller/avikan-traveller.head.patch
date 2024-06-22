@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Белый шарф, который носят путешественники по пустыне.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шарф путешественника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Белый шарф, который носят путешественники по пустыне."
+},{"op":"replace","path":"/shortdescription","value":
+"Шарф путешественника"
+}]

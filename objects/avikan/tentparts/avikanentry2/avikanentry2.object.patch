@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тканевый тент Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшенный тент-палатка из ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий тент-палатка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палаточный тент, украшенный простым узором.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся яркие цвета.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Вход в палатку.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий тент-палатка. Ткань сделана достаточно хорошо.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такие яркие цвета.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент-палатка из цветной ткани.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевый тент такого типа часто используется в палатках наших Старейшин.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент-палатка из ткани. Он отличается яркими цветами.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевый тент. Обеспечивает защиту от ветров пустыни.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент для палатки, Акки заходим внутрь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тканевый тент Авикан"
+},{"op":"replace","path":"/description","value":
+"Украшенный тент-палатка из ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Яркий тент-палатка."
+},{"op":"replace","path":"/avianDescription","value":
+"Палаточный тент, украшенный простым узором."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся яркие цвета."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Вход в палатку."
+},{"op":"replace","path":"/humanDescription","value":
+"Яркий тент-палатка. Ткань сделана достаточно хорошо."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такие яркие цвета."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тент-палатка из цветной ткани."
+},{"op":"replace","path":"/avikanDescription","value":
+"Тканевый тент такого в.а часто используется в палатках наших Старейшин."
+},{"op":"replace","path":"/trinkDescription","value":
+"Тент-палатка из ткани. Он отличается яркими цветами."
+},{"op":"replace","path":"/drodenDescription","value":
+"Тканевый тент. Обеспечивает защиту от ветров пустыни."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Тент для палатки, Акки заходим внутрь."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Концентрированный экстракт травы сельвы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Экстракт сельвы",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Концентрированный экстракт травы сельвы."
+},{"op":"replace","path":"/shortdescription","value":
+"Экстракт сельвы"
+}]

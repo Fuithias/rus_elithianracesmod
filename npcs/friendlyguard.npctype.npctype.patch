@@ -1,102 +1,41 @@
-[
-  {
-    "value": "Я буду держать эту территорию в безопасности.",
-    "path": "scriptConfig/dialog/hail/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мой долг — обеспечить безопасность всех.",
-    "path": "scriptConfig/dialog/hail/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду защищать это место, как смогу!",
-    "path": "scriptConfig/dialog/hail/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я готов к вызову.",
-    "path": "scriptConfig/dialog/hail/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мой клинок сохранит это место в безопасности.",
-    "path": "scriptConfig/dialog/hail/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Отряд готов к обороне.",
-    "path": "scriptConfig/dialog/hail/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Это подразделение будет обеспечивать безопасность территории.",
-    "path": "scriptConfig/dialog/hail/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это подразделение будет охранять людей.",
-    "path": "scriptConfig/dialog/hail/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это подразделение стоит на страже.",
-    "path": "scriptConfig/dialog/hail/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ ситуации с безопасностью.",
-    "path": "scriptConfig/dialog/hail/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду стоять здесь на страже.",
-    "path": "scriptConfig/dialog/hail/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Защита этой территории — моя единственная забота.",
-    "path": "scriptConfig/dialog/hail/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Не волнуйтесь, эта территория безопасна.",
-    "path": "scriptConfig/dialog/hail/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "У меня мало времени на общение. Мне нужно быть бдительным.",
-    "path": "scriptConfig/dialog/hail/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Безопасность этого места не очень эффективна...",
-    "path": "scriptConfig/dialog/hail/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду охранять территорию.",
-    "path": "scriptConfig/dialog/hail/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я позабочусь о том, чтобы эта территория была безопасной!",
-    "path": "scriptConfig/dialog/hail/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Эта территория будет в безопасности в кратчайшие сроки!",
-    "path": "scriptConfig/dialog/hail/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ваша безопасность — моя единственная забота сейчас!",
-    "path": "scriptConfig/dialog/hail/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это место безопасно. Я буду продолжать в том же духе.",
-    "path": "scriptConfig/dialog/hail/aegi/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"scriptConfig/dialog/hail/avikan/default/0","value":
+"Я буду держать эту территорию в безопасности."
+},{"op":"replace","path":"scriptConfig/dialog/hail/avikan/default/1","value":
+"Мой долг — обеспечить безопасность всех."
+},{"op":"replace","path":"scriptConfig/dialog/hail/avikan/default/2","value":
+"Я буду защищать это место, как смогу!"
+},{"op":"replace","path":"scriptConfig/dialog/hail/avikan/default/3","value":
+"Я готов к вызову."
+},{"op":"replace","path":"scriptConfig/dialog/hail/avikan/default/4","value":
+"Мой клинок сохранит это место в безопасности."
+},{"op":"replace","path":"scriptConfig/dialog/hail/droden/default/0","value":
+"Отряд готов к обороне."
+},{"op":"replace","path":"scriptConfig/dialog/hail/droden/default/1","value":
+"Это подразделение будет обеспечивать безопасность территории."
+},{"op":"replace","path":"scriptConfig/dialog/hail/droden/default/2","value":
+"Это подразделение будет охранять людей."
+},{"op":"replace","path":"scriptConfig/dialog/hail/droden/default/3","value":
+"Это подразделение стоит на страже."
+},{"op":"replace","path":"scriptConfig/dialog/hail/droden/default/4","value":
+"Анализ ситуации с безопасностью."
+},{"op":"replace","path":"scriptConfig/dialog/hail/trink/default/0","value":
+"Я буду стоять здесь на страже."
+},{"op":"replace","path":"scriptConfig/dialog/hail/trink/default/1","value":
+"Защита этой территории — моя единственная забота."
+},{"op":"replace","path":"scriptConfig/dialog/hail/trink/default/2","value":
+"Не волнуйтесь, эта территория безопасна."
+},{"op":"replace","path":"scriptConfig/dialog/hail/trink/default/3","value":
+"У меня мало времени на общение. Мне нужно быть бдительным."
+},{"op":"replace","path":"scriptConfig/dialog/hail/trink/default/4","value":
+"Безопасность этого места не очень эффективна..."
+},{"op":"replace","path":"scriptConfig/dialog/hail/aegi/default/0","value":
+"Я буду охранять территорию."
+},{"op":"replace","path":"scriptConfig/dialog/hail/aegi/default/1","value":
+"Я позабочусь о том, чтобы эта территория была безопасной!"
+},{"op":"replace","path":"scriptConfig/dialog/hail/aegi/default/2","value":
+"Эта территория будет в безопасности в кратчайшие сроки!"
+},{"op":"replace","path":"scriptConfig/dialog/hail/aegi/default/3","value":
+"Ваша безопасность — моя единственная забота сейчас!"
+},{"op":"replace","path":"scriptConfig/dialog/hail/aegi/default/4","value":
+"Это место безопасно. Я буду продолжать в том же духе."
+}]

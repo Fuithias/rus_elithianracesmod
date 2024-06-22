@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Прутья Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Невероятно прочные металлические прутья.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Облегчение. Любой, кто заперт за этими прутьями, останется запертым.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические прутья делают отличные копья и ножи.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ни один преступник не сломает эти прутья.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлический прут. Высокая прочность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки запирают плохих аккимари. Лучше для аккимари.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Прутья Акрис"
+},{"op":"replace","path":"/description","value":
+"Невероятно прочные металлические прутья."
+},{"op":"replace","path":"/glitchDescription","value":
+"Облегчение. Любой, кто заперт за этими прутьями, останется запертым."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические прутья делают отличные копья и ножи."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ни один преступник не сломает эти прутья."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлический прут. Высокая прочность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки запирают плохих аккимари. Лучше для аккимари."
+}]

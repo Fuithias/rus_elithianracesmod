@@ -1,32 +1,13 @@
-[
-  {
-    "value": "^orange;Поставки Айурина",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "У меня проблемы с ворами, перехватывающими мои поставки... Я смог отследить их до их логова, но не могу пойти туда сам. Не могли бы вы помочь мне? ^green;Уничтожьте их ^orange;лидера^reset;, и я вознагражу вас одним из моих последних ^orange;прототипных оружий^reset;!",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх, мой друг! Вы оказали мне большую услугу сегодня. Вот обещанное прототипное оружие: я называю его ^orange;Гнев Айурина^reset;!",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Поговорите с ^orange;Айурином^reset;, чтобы перенестись в ^orange;логово воров^reset;",
-    "path": "/scriptConfig/descriptions/enterInstance",
-    "op": "replace"
-  },
-  {
-    "value": "Победите ^orange;Лидера Бандитов^reset;",
-    "path": "/scriptConfig/descriptions/findGoal",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Убежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/descriptions/turnIn",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Поставки Айурина"
+},{"op":"replace","path":"/text","value":
+"У меня проблемы с ворами, перехватывающими мои поставки... Я смог отследить их до их логова, но не могу пойти туда сам. Не могли бы вы помочь мне? ^green;Уничтожьте их ^orange;лидера^reset;, и я вознагражу вас одним из моих последних ^orange;протов.ных оружий^reset;!"
+},{"op":"replace","path":"/completionText","value":
+"Вас Вха'лейх, мой друг! Вы оказали мне большую услугу сегодня. Вот обещанное протов.ное оружие: я называю его ^orange;Гнев Айурина^reset;!"
+},{"op":"replace","path":"/scriptConfig/descriptions/enterInstance","value":
+"Поговорите с ^orange;Айурином^reset;, чтобы перенестись в ^orange;логово воров^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/findGoal","value":
+"Победите ^orange;Лидера Бандитов^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/turnIn","value":
+"Вернитесь к ^orange;Айурину ^reset;в ^orange;Убежище Звездохода^reset;"
+}]

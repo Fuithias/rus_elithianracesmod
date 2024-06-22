@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Транспортный контейнер Номада",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень большой транспортный контейнер, используемый «Кочевником».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это огромный ящик для перевозки крупногабаритных грузов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я предполагаю, что он предназначен для перевозки очень больших объектов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, в нем есть еда.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что здесь хранится?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это действительно большой транспортный контейнер.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно крупный контейнер для перевозки большого количества груза.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой контейнер для перевозки грузов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный транспортный контейнер Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стандартный транспортный контейнер часто используется для пополнения запасов колоний.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортный контейнер производства Авикан.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер-огромный. Акки могла жить внутри.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Транспортный контейнер Номада"
+},{"op":"replace","path":"/description","value":
+"Очень большой транспортный контейнер, используемый Кочевником."
+},{"op":"replace","path":"/apexDescription","value":
+"Это огромный ящик для перевозки крупногабаритных грузов."
+},{"op":"replace","path":"/avianDescription","value":
+"Я предполагаю, что он предназначен для перевозки очень больших объектов."
+},{"op":"replace","path":"/floranDescription","value":
+"Возможно, в нем есть еда."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что здесь хранится?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это действительно большой транспортный контейнер."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Довольно крупный контейнер для перевозки большого количества груза."
+},{"op":"replace","path":"/novakidDescription","value":
+"Большой контейнер для перевозки грузов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Массивный транспортный контейнер Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот стандартный транспортный контейнер часто используется для пополнения запасов колоний."
+},{"op":"replace","path":"/trinkDescription","value":
+"Транспортный контейнер производства Авикан."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Контейнер-огромный. Акки могла жить внутри."
+}]

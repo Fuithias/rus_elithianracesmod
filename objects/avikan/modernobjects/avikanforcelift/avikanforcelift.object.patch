@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Форс Лифт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный механизм обеспечивает непрерывную направленную вверх силу всему, что находится поблизости.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатляющая технология.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство, которое заставляет людей летать. Я люблю это!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран боится летать.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Эта технология не похожа ни на что, что я видел раньше.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то ховерлифт. Это потрясающе!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство, созданное для подъема людей на большую высоту.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Силовой лифт. Он должен быть основан на технологии Centensian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Силовой лифт. Мало кто из нас на самом деле понимает, как работают эти вещи.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Силовой лифт. Впечатляюще эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен ускоритель частиц. Пожалуйста, соблюдайте осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "«Лифт-свет», — растерялась Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Форс Лифт"
+},{"op":"replace","path":"/description","value":
+"Странный механизм обеспечивает непрерывную направленную вверх силу всему, что находится поблизости."
+},{"op":"replace","path":"/apexDescription","value":
+"Впечатляющая технология."
+},{"op":"replace","path":"/avianDescription","value":
+"Устройство, которое заставляет людей летать. Я люблю это!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран боится летать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Эта технология не похожа ни на что, что я видел раньше."
+},{"op":"replace","path":"/humanDescription","value":
+"Какой-то ховерлифт. Это потрясающе!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Устройство, созданное для подъема людей на большую высоту."
+},{"op":"replace","path":"/aegiDescription","value":
+"Силовой лифт. Он должен быть основан на технологии Centensian."
+},{"op":"replace","path":"/avikanDescription","value":
+"Силовой лифт. Мало кто из нас на самом деле понимает, как работают эти вещи."
+},{"op":"replace","path":"/trinkDescription","value":
+"Силовой лифт. Впечатляюще эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен ускоритель частиц. Пожалуйста, соблюдайте осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лифт-свет, — растерялась Акки."
+}]

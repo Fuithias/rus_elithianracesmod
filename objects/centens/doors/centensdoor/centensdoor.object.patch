@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Центенсианская дверь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя металлическая дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как эта древняя дверь сохранилась в таком прекрасном состоянии?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старые металлические двери. Это тсссс...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Древняя дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что находится за этой древней дверью...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта древняя дверь каким-то образом сохранилась на протяжении веков.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этой центенской двери много веков назад, но она все еще цела.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная дверь, построенная Древними.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь, построенная Centens. Этому много веков назад.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Дверь. Происхождение: Центенсийское.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-древняя, построенная боготворцами.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенская дверь"
+},{"op":"replace","path":"/description","value":
+"Древняя металлическая дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Древняя дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Как эта древняя дверь сохранилась в таком прекрасном состоянии?"
+},{"op":"replace","path":"/floranDescription","value":
+"Старые металлические двери. Это тсссс..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Древняя дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, что находится за этой древней дверью..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта древняя дверь каким-то образом сохранилась на протяжении веков."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этой центенской двери много веков назад, но она все еще цела."
+},{"op":"replace","path":"/avikanDescription","value":
+"Прочная дверь, построенная Древними."
+},{"op":"replace","path":"/trinkDescription","value":
+"Прочная металлическая дверь, построенная Centens. Этому много веков назад."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Дверь. Происхождение: Центенсийское."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-древняя, построенная боготворцами."
+}]

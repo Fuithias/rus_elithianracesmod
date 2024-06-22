@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Маленький тринкианский прожектор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Направленный свет для освещения интересующих областей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это свет, его единственная цель — указать на эту штуку.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надо посмотреть, на что указывает свет, это может быть интереснее.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет сияет на красивых предметах.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смиренный. Этот свет усердно выполняет свою единственную цель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наверное, меня больше должно интересовать, на что направлен этот свет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет здесь, чтобы осветить предмет, более достойный моего интереса, чем он сам.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, на что может указывать этот свет?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, мне следует смотреть на то, на что указывает этот свет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет, призванный что-то выделить. Возможно, мне стоит посмотреть на это что-то вместо этого.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не самый эффективный способ выделить что-то, но выглядит хорошо.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Направленный свет. Рекомендуем обратить внимание на выделенную область.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки направляет свет на важные вещи.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленький тринкианский прожектор"
+},{"op":"replace","path":"/description","value":
+"Направленный свет для освещения интересующих областей."
+},{"op":"replace","path":"/apexDescription","value":
+"Это свет, его единственная цель — указать на эту штуку."
+},{"op":"replace","path":"/avianDescription","value":
+"Надо посмотреть, на что указывает свет, это может быть интереснее."
+},{"op":"replace","path":"/floranDescription","value":
+"Яркий свет сияет на красивых предметах."
+},{"op":"replace","path":"/glitchDescription","value":
+"Смиренный. Этот свет усердно выполняет свою единственную цель."
+},{"op":"replace","path":"/humanDescription","value":
+"Наверное, меня больше должно интересовать, на что направлен этот свет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот свет здесь, чтобы осветить предмет, более достойный моего интереса, чем он сам."
+},{"op":"replace","path":"/novakidDescription","value":
+"Интересно, на что может указывать этот свет?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Возможно, мне следует смотреть на то, на что указывает этот свет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Яркий свет, призванный что-то выделить. Возможно, мне стоит посмотреть на это что-то вместо этого."
+},{"op":"replace","path":"/trinkDescription","value":
+"Не самый эффективный способ выделить что-то, но выглядит хорошо."
+},{"op":"replace","path":"/drodenDescription","value":
+"Направленный свет. Рекомендуем обратить внимание на выделенную область."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки направляет свет на важные вещи."
+}]

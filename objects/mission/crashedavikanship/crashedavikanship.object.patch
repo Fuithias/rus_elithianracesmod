@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Разбитый Авикан Скофф",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабль Авикан получил серьезные повреждения. Похоже, на него напали.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это не нравится... Корабль подвергся нападению.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Встревожен. Кто-то сбил этот корабль.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот больше не летает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот Скофф был сбит... Следы ожогов соответствуют телеанскому оружию.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен Скофф. Статус: разбился. Анализ: следы ожогов соответствуют телеанскому оружию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабль потерпел крушение, уничтожен богами-ворами.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Разбитый Авикан Скофф"
+},{"op":"replace","path":"/description","value":
+"Корабль Авикан получил серьезные повреждения. Похоже, на него напали."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это не нравится... Корабль подвергся нападению."
+},{"op":"replace","path":"/glitchDescription","value":
+"Встревожен. Кто-то сбил этот корабль."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот больше не летает."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот Скофф был сбит... Следы ожогов соответствуют телеанскому оружию."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен Скофф. Статус: разбился. Анализ: следы ожогов соответствуют телеанскому оружию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Корабль потерпел крушение, уничтожен богами-ворами."
+}]

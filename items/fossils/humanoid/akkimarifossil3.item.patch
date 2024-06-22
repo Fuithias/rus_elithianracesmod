@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая пара ног Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари Ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая пара ног Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Аккимари Ноги"
+}]

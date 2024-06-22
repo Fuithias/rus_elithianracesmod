@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Миниатюрный тринкианский генератор энергии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианское энергетическое ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Миниатюрный тринкианский генератор энергии."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианское энергетическое ядро"
+}]

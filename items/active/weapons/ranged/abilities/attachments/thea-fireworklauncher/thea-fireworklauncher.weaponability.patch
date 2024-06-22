@@ -1,7 +1,3 @@
-[
-  {
-    "value": "^orange;Пускатель салютов^reset;",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"^orange;Пускатель салютов^reset;"
+}]

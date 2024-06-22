@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ящик для мусора Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик для мусора, чтобы облегчить себя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это мусорный ящик?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мусорный ящик. Маленькие бусинки в нем похожи на семена...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коробочки для какашек.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвращение. Мусорный ящик.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это ящик для мусора. Что за?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это мусорный ящик. Как нецивилизованно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик для какашек.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В Авикане нет туалетов. Вместо этого у них есть туалетные лотки.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место, где можно расслабиться. Я не понимаю, почему инопланетяне так суетятся по этому поводу.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мусорный ящик. Простая, но эффективная альтернатива унитазу.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен помет Авикана. Рекомендую почистить.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Туалет-инопланетянин, полный какашек.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ящик для мусора Авикан"
+},{"op":"replace","path":"/description","value":
+"Ящик для мусора, чтобы облегчить себя."
+},{"op":"replace","path":"/apexDescription","value":
+"Это мусорный ящик?"
+},{"op":"replace","path":"/avianDescription","value":
+"Мусорный ящик. Маленькие бусинки в нем похожи на семена..."
+},{"op":"replace","path":"/floranDescription","value":
+"Коробочки для какашек."
+},{"op":"replace","path":"/glitchDescription","value":
+"Отвращение. Мусорный ящик."
+},{"op":"replace","path":"/humanDescription","value":
+"Это ящик для мусора. Что за?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кажется, это мусорный ящик. Как нецивилизованно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ящик для какашек."
+},{"op":"replace","path":"/aegiDescription","value":
+"В Авикане нет туалетов. Вместо этого у них есть туалетные лотки."
+},{"op":"replace","path":"/avikanDescription","value":
+"Место, где можно расслабиться. Я не понимаю, почему инопланетяне так суетятся по этому поводу."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мусорный ящик. Простая, но эффективная альтернатива унитазу."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен помет Авикана. Рекомендую почистить."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Туалет-инопланетянин, полный какашек."
+}]

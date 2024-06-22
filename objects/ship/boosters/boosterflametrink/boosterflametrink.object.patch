@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ускоренное пламя",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пламя выхлопных газов двигателя космического корабля.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Усилитель. Известно, что они выходят из строя и взрываются.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ракета-носитель, крылья корабля.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Страшный огонь.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализируйте. Температура слишком высока для измерения.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта штука жрет топливо.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Движение.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой пылающий выхлоп. Он перенесет корабль от одной звезды к другой.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти двигатели обеспечивают невероятную силу.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выхлопное пламя двигателя космического корабля горячее. Очень горячо.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель этого корабля более эффективен, чем можно предположить по пламени.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена тепловая сигнатура. Движение космического корабля подтверждено.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выхлоп горячий, Акки сгорит, если Акки коснется.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ускоренное пламя"
+},{"op":"replace","path":"/description","value":
+"Пламя выхлопных газов двигателя космического корабля."
+},{"op":"replace","path":"/apexDescription","value":
+"Усилитель. Известно, что они выходят из строя и взрываются."
+},{"op":"replace","path":"/avianDescription","value":
+"Ракета-носитель, крылья корабля."
+},{"op":"replace","path":"/floranDescription","value":
+"Страшный огонь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализируйте. Температура слишком высока для измерения."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта штука жрет топливо."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Движение."
+},{"op":"replace","path":"/novakidDescription","value":
+"Большой пылающий выхлоп. Он перенесет корабль от одной звезды к другой."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти двигатели обеспечивают невероятную силу."
+},{"op":"replace","path":"/avikanDescription","value":
+"Выхлопное пламя двигателя космического корабля горячее. Очень горячо."
+},{"op":"replace","path":"/trinkDescription","value":
+"Двигатель этого корабля более эффективен, чем можно предположить по пламени."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена тепловая сигнатура. Движение космического корабля подтверждено."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Выхлоп горячий, Акки сгорит, если Акки коснется."
+}]

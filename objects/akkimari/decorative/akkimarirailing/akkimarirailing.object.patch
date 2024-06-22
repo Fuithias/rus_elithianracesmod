@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Акрис Перила",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Часть металлических перил безопасности.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эти перила выглядят довольно прочными.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если бы у меня были крылья, я бы легко перепрыгнул через эти перила.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран уверен, что Флоран сможет перепрыгнуть этот забор! Но Флоран не будет пытаться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Несмотря на тонкую раму, эти перила прочные.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что эти перила здесь не просто так. Лучше не пытайтесь перепрыгнуть через него.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические перила. Основная мера безопасности.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовые перила безопасности.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тонкие, но прочные перила безопасности.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти перила являются базовой, но эффективной мерой безопасности.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены перила безопасности.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Перила, чтобы Акки не упала.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Перила"
+},{"op":"replace","path":"/description","value":
+"Часть металлических перил безопасности."
+},{"op":"replace","path":"/apexDescription","value":
+"Эти перила выглядят довольно прочными."
+},{"op":"replace","path":"/avianDescription","value":
+"Если бы у меня были крылья, я бы легко перепрыгнул через эти перила."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран уверен, что Флоран сможет перепрыгнуть этот забор! Но Флоран не будет пытаться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Несмотря на тонкую раму, эти перила прочные."
+},{"op":"replace","path":"/humanDescription","value":
+"Я уверен, что эти перила здесь не просто так. Лучше не пытайтесь перепрыгнуть через него."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлические перила. Основная мера безопасности."
+},{"op":"replace","path":"/aegiDescription","value":
+"Базовые перила безопасности."
+},{"op":"replace","path":"/avikanDescription","value":
+"Тонкие, но прочные перила безопасности."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эти перила являются базовой, но эффективной мерой безопасности."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены перила безопасности."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Перила, чтобы Акки не упала."
+}]

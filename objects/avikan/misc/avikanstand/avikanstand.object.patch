@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Стенд Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая подставка, предназначенная для хранения чего-то важного.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая подставка, предназначенная для хранения чего-то важного.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, он создан для хранения чего-то важного.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сстен для важных предметов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Похоже, он был создан для того, чтобы хранить в себе что-то очень ценное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенд, на котором можно хранить что-то очень ценное.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стенд был построен для демонстрации ценного предмета на видном месте.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая подставка, предназначенная для хранения ценных предметов.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти стенды обычно используются для демонстрации центенских артефактов или других ценных предметов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенд компании Avikan. Обычно он используется для отображения какого-либо важного элемента.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стенд. Цель: показать центенский артефакт.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подставка-металл.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стенд Авикан"
+},{"op":"replace","path":"/description","value":
+"Металлическая подставка, предназначенная для хранения чего-то важного."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлическая подставка, предназначенная для хранения чего-то важного."
+},{"op":"replace","path":"/avianDescription","value":
+"Похоже, он создан для хранения чего-то важного."
+},{"op":"replace","path":"/floranDescription","value":
+"Сстен для важных предметов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Похоже, он был создан для того, чтобы хранить в себе что-то очень ценное."
+},{"op":"replace","path":"/humanDescription","value":
+"Стенд, на котором можно хранить что-то очень ценное."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот стенд был построен для демонстрации ценного предмета на видном месте."
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлическая подставка, предназначенная для хранения ценных предметов."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эти стенды обычно используются для демонстрации центенских артефактов или других ценных предметов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стенд авикан. Обычно он используется для отображения какого-либо важного элемента."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стенд. Цель: показать центенский артефакт."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Подставка-металл."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Кабинет Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный шкаф с двумя ящиками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой шкаф.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто шкаф.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран знает, что это шкаф.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скучающий. Просто шкаф.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вполне обычный кабинет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошее место для хранения одежды.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой шкаф.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф, для хранения.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранилище. Хотя не уверен, за что.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кабинет.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено хранилище инопланетян.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Одежда-чужая внутри. Костюм Акки амке - смешной!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кабинет Альянса"
+},{"op":"replace","path":"/description","value":
+"Стандартный шкаф с двумя ящиками."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой шкаф."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто шкаф."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран знает, что это шкаф."
+},{"op":"replace","path":"/glitchDescription","value":
+"Скучающий. Просто шкаф."
+},{"op":"replace","path":"/humanDescription","value":
+"Вполне обычный кабинет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Хорошее место для хранения одежды."
+},{"op":"replace","path":"/novakidDescription","value":
+"Простой шкаф."
+},{"op":"replace","path":"/aegiDescription","value":
+"Шкаф, для хранения."
+},{"op":"replace","path":"/avikanDescription","value":
+"Хранилище. Хотя не уверен, за что."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кабинет."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено хранилище инопланетян."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Одежда-чужая внутри. Костюм Акки амке - смешной!"
+}]

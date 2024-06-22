@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая панель цвета песка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая панель цвета песка."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Панель"
+}]

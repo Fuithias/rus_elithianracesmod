@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Юбка, которую часто носили высокопоставленные чиновники АСБ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка АСБ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Юбка, которую часто носили высокопоставленные чиновники АСБ."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка АСБ"
+}]

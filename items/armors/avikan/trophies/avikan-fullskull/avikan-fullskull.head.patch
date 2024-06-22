@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Череп монстра, измененный для использования в качестве шлема. Прекрасная трофейная добыча.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Полный череп монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Череп монстра, измененный для использования в качестве шлема. Прекрасная трофейная добыча."
+},{"op":"replace","path":"/shortdescription","value":
+"Полный череп монстра"
+}]

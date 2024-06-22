@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Низкосортный металлолом, собранный из различных источников.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Низкосортный металлолом, собранный из различных источников."
+},{"op":"replace","path":"/shortdescription","value":
+"Сломанный металлолом"
+}]

@@ -1,252 +1,101 @@
-[
-  {
-    "value": "Это вам не принадлежит!",
-    "path": "/accuse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Воровство здесь не потерпят!",
-    "path": "/accuse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Зачем вы берете эти вещи? Они не ваши!",
-    "path": "/accuse/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ватра! Прекрати это воровство!",
-    "path": "/accuse/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс скоро покончат с твоим воровством.",
-    "path": "/accuse/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Предупредите клан! У нас вор!",
-    "path": "/alert/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, поймайте вора!",
-    "path": "/alert/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс будет судить тебя, вор! Стража!",
-    "path": "/alert/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Хватит брать то, что тебе не принадлежит! Стража!",
-    "path": "/alert/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, арестуйте этого вора!",
-    "path": "/alert/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Это не ваше чтобы брать.",
-    "path": "/accuse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Воруешь у Схемы, не так ли?",
-    "path": "/accuse/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это принадлежит Схеме!",
-    "path": "/accuse/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе лучше перестать воровать.",
-    "path": "/accuse/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Схема не терпит воровства.",
-    "path": "/accuse/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Схема остановит вас. Стража!",
-    "path": "/alert/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ваши дни воровства закончились! Стража!",
-    "path": "/alert/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, покончите с воровством!",
-    "path": "/alert/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вам это не сойдет с рук. Стража!",
-    "path": "/alert/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, арестуйте этого вора!",
-    "path": "/alert/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен вор. Отряд просит вас прекратить такое поведение.",
-    "path": "/accuse/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен вор. Прекратите воровство, иначе клан будет поднят по тревоге.",
-    "path": "/accuse/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено преступное поведение. Немедленно прекратите.",
-    "path": "/accuse/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено нарушение законов Номады. Просим немедленно прекратить.",
-    "path": "/accuse/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено преступление. Продолжение преступного поведения приведет к законному задержанию.",
-    "path": "/accuse/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Сообщаем о преступном поведении. Охрана скоро прибудет.",
-    "path": "/alert/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отряд сообщает о преступном поведении. Охранники скоро прибудут.",
-    "path": "/alert/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Заявлено о преступном поведении. Приготовиться к аресту.",
-    "path": "/alert/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Нарушены законы Номады. Оповещаем местную стражу.",
-    "path": "/alert/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Прошу немедленной помощи. Преступник должен быть задержан.",
-    "path": "/alert/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Эй, это не ваше!",
-    "path": "/accuse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, наверное, шутите, вы действительно крадете наши вещи?",
-    "path": "/accuse/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Руки прочь, это не ваше!",
-    "path": "/accuse/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Прекратите воровать, пока я не позвал стражу!",
-    "path": "/accuse/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "За воровство можно получить срок, знаете ли.",
-    "path": "/accuse/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, этот ворует!",
-    "path": "/alert/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Задержите вора!",
-    "path": "/alert/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Остановите этого вора!",
-    "path": "/alert/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы пожалеете, что украли эти вещи! Стража!",
-    "path": "/alert/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Стража, арестуйте этого вора!",
-    "path": "/alert/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки видит тебя, ты вор!",
-    "path": "/accuse/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты не воруешь, ты злишь аккимари!",
-    "path": "/accuse/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Убирайся, не воруй здесь!",
-    "path": "/accuse/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Если ты воруешь, акки зовет стражу!",
-    "path": "/accuse/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки убивают воров. Берегитесь.",
-    "path": "/accuse/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки видит вора! Аккимари, убей вора!",
-    "path": "/alert/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Убить вора!",
-    "path": "/alert/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не любит воров! Теперь ты труп!",
-    "path": "/alert/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь ты пожалеешь о воровстве!",
-    "path": "/alert/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь ты арестован!",
-    "path": "/alert/akkimari/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/accuse/avikan/default/0","value":
+"Это вам не принадлежит!"
+},{"op":"replace","path":"/accuse/avikan/default/1","value":
+"Воровство здесь не потерпят!"
+},{"op":"replace","path":"/accuse/avikan/default/2","value":
+"Зачем вы берете эти вещи? Они не ваши!"
+},{"op":"replace","path":"/accuse/avikan/default/3","value":
+"Ватра! Прекрати это воровство!"
+},{"op":"replace","path":"/accuse/avikan/default/4","value":
+"Радейс скоро покончат с твоим воровством."
+},{"op":"replace","path":"/alert/avikan/default/0","value":
+"Предупредите клан! У нас вор!"
+},{"op":"replace","path":"/alert/avikan/default/1","value":
+"Стража, поймайте вора!"
+},{"op":"replace","path":"/alert/avikan/default/2","value":
+"Радейс будет судить тебя, вор! Стража!"
+},{"op":"replace","path":"/alert/avikan/default/3","value":
+"Хватит брать то, что тебе не принадлежит! Стража!"
+},{"op":"replace","path":"/alert/avikan/default/4","value":
+"Стража, арестуйте этого вора!"
+},{"op":"replace","path":"/accuse/trink/default/0","value":
+"Это не ваше чтобы брать."
+},{"op":"replace","path":"/accuse/trink/default/1","value":
+"Воруешь у Схемы, не так ли?"
+},{"op":"replace","path":"/accuse/trink/default/2","value":
+"Это принадлежит Схеме!"
+},{"op":"replace","path":"/accuse/trink/default/3","value":
+"Тебе лучше перестать воровать."
+},{"op":"replace","path":"/accuse/trink/default/4","value":
+"Схема не терпит воровства."
+},{"op":"replace","path":"/alert/trink/default/0","value":
+"Схема остановит вас. Стража!"
+},{"op":"replace","path":"/alert/trink/default/1","value":
+"Ваши дни воровства закончились! Стража!"
+},{"op":"replace","path":"/alert/trink/default/2","value":
+"Стража, покончите с воровством!"
+},{"op":"replace","path":"/alert/trink/default/3","value":
+"Вам это не сойдет с рук. Стража!"
+},{"op":"replace","path":"/alert/trink/default/4","value":
+"Стража, арестуйте этого вора!"
+},{"op":"replace","path":"/accuse/droden/default/0","value":
+"Обнаружен вор. Отряд просит вас прекратить такое поведение."
+},{"op":"replace","path":"/accuse/droden/default/1","value":
+"Обнаружен вор. Прекратите воровство, иначе клан будет поднят по тревоге."
+},{"op":"replace","path":"/accuse/droden/default/2","value":
+"Обнаружено преступное поведение. Немедленно прекратите."
+},{"op":"replace","path":"/accuse/droden/default/3","value":
+"Обнаружено нарушение законов Номады. Просим немедленно прекратить."
+},{"op":"replace","path":"/accuse/droden/default/4","value":
+"Обнаружено преступление. Продолжение преступного поведения приведет к законному задержанию."
+},{"op":"replace","path":"/alert/droden/default/0","value":
+"Сообщаем о преступном поведении. Охрана скоро прибудет."
+},{"op":"replace","path":"/alert/droden/default/1","value":
+"Отряд сообщает о преступном поведении. Охранники скоро прибудут."
+},{"op":"replace","path":"/alert/droden/default/2","value":
+"Заявлено о преступном поведении. Приготовиться к аресту."
+},{"op":"replace","path":"/alert/droden/default/3","value":
+"Нарушены законы Номады. Оповещаем местную стражу."
+},{"op":"replace","path":"/alert/droden/default/4","value":
+"Прошу немедленной помощи. Преступник должен быть задержан."
+},{"op":"replace","path":"/accuse/aegi/default/0","value":
+"Эй, это не ваше!"
+},{"op":"replace","path":"/accuse/aegi/default/1","value":
+"Вы, наверное, шутите, вы действительно крадете наши вещи?"
+},{"op":"replace","path":"/accuse/aegi/default/2","value":
+"Руки прочь, это не ваше!"
+},{"op":"replace","path":"/accuse/aegi/default/3","value":
+"Прекратите воровать, пока я не позвал стражу!"
+},{"op":"replace","path":"/accuse/aegi/default/4","value":
+"За воровство можно получить срок, знаете ли."
+},{"op":"replace","path":"/alert/aegi/default/0","value":
+"Стража, этот ворует!"
+},{"op":"replace","path":"/alert/aegi/default/1","value":
+"Задержите вора!"
+},{"op":"replace","path":"/alert/aegi/default/2","value":
+"Остановите этого вора!"
+},{"op":"replace","path":"/alert/aegi/default/3","value":
+"Вы пожалеете, что украли эти вещи! Стража!"
+},{"op":"replace","path":"/alert/aegi/default/4","value":
+"Стража, арестуйте этого вора!"
+},{"op":"replace","path":"/accuse/akkimari/default/0","value":
+"Акки видит тебя, ты вор!"
+},{"op":"replace","path":"/accuse/akkimari/default/1","value":
+"Ты не воруешь, ты злишь аккимари!"
+},{"op":"replace","path":"/accuse/akkimari/default/2","value":
+"Убирайся, не воруй здесь!"
+},{"op":"replace","path":"/accuse/akkimari/default/3","value":
+"Если ты воруешь, акки зовет стражу!"
+},{"op":"replace","path":"/accuse/akkimari/default/4","value":
+"Акки убивают воров. Берегитесь."
+},{"op":"replace","path":"/alert/akkimari/default/0","value":
+"Акки видит вора! Аккимари, убей вора!"
+},{"op":"replace","path":"/alert/akkimari/default/1","value":
+"Убить вора!"
+},{"op":"replace","path":"/alert/akkimari/default/2","value":
+"Акки не любит воров! Теперь ты труп!"
+},{"op":"replace","path":"/alert/akkimari/default/3","value":
+"Теперь ты пожалеешь о воровстве!"
+},{"op":"replace","path":"/alert/akkimari/default/4","value":
+"Теперь ты арестован!"
+}]

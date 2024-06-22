@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкианский люк на платформе",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк со встроенной площадкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри металлическая платформа с люком и хассом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Этот металлический люк при открытии служит платформой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк в открытом состоянии действует как платформа. Вот это полезно!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен встроенный в машину люк. Дизайн включает в себя встроенную платформу.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк металлический, Акки стоят на платформе даже в открытом состоянии.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианский люк на платформе"
+},{"op":"replace","path":"/description","value":
+"Металлический люк со встроенной площадкой."
+},{"op":"replace","path":"/floranDescription","value":
+"Внутри металлическая платформа с люком и хассом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Этот металлический люк при открытии служит платформой."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот люк в открытом состоянии действует как платформа. Вот это полезно!"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен встроенный в машину люк. Дизайн включает в себя встроенную платформу."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Люк металлический, Акки стоят на платформе даже в открытом состоянии."
+}]

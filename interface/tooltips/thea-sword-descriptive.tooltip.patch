@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость атаки:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за удар:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Я баг. Прошу сообщите обо мне!",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость атаки:"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за удар:"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Я баг. Прошу сообщите обо мне!"
+}]

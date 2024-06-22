@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Гоночные ворота",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, используемые для гонок. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гоночные ворота. Наверное, это КПП или что-то в этом роде.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти гоночные ворота могут служить контрольно-пропускным пунктом во время гонок.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что это контрольно-пропускной пункт гонки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что произойдет, когда я проеду мимо этого?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это гоночные ворота.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, это контрольно-пропускной пункт для автомобильных гонок.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то светящийся маркер.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти ворота активируются, когда мимо проезжает транспортное средство.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, которые активируются, когда мимо проезжают машины.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий маркер для обозначения контрольных точек гонок.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены гоночные ворота. Вероятная цель: КПП.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота-пропускные пункты. Акки мчится вперед!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан гоночные врата"
+},{"op":"replace","path":"/description","value":
+"Ворота, используемые для гонок. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство."
+},{"op":"replace","path":"/apexDescription","value":
+"Гоночные ворота. Наверное, это КПП или что-то в этом роде."
+},{"op":"replace","path":"/avianDescription","value":
+"Эти гоночные ворота могут служить контрольно-пропускным пунктом во время гонок."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что это контрольно-пропускной пункт гонки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что произойдет, когда я проеду мимо этого?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это гоночные врата."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Похоже, это контрольно-пропускной пункт для автомобильных гонок."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то светящийся маркер."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти ворота активируются, когда мимо проезжает транспортное средство."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ворота, которые активируются, когда мимо проезжают машины."
+},{"op":"replace","path":"/trinkDescription","value":
+"Высокий маркер для обозначения контрольных точек гонок."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены гоночные ворота. Вероятная цель: КПП."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ворота-пропускные пункты. Акки мчится вперед!"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская Обшивка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая обшивка, когда нужно что-то очень сильно защитить.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Толстая и тяжелая обшивка. Очень надежная защита.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большие пластины для создания безопасных мест...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая обшивка подходит для создания большого сейфа.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Теплостойкая металлическая обшивка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обшивка-тяжелая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская Обшивка"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая обшивка, когда нужно что-то очень сильно защитить."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Толстая и тяжелая обшивка. Очень надежная защита."
+},{"op":"replace","path":"/floranDescription","value":
+"Большие пластины для создания безопасных мест..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая обшивка подходит для создания большого сейфа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Теплостойкая металлическая обшивка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Обшивка-тяжелая."
+}]

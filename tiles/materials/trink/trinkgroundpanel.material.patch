@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкский пол",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический пол, полный проводов и схем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заворожен. Почему в этой панели так много проводов и схем?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, из чего сделана эта панель?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полевая панель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Панель заполнена проводами и схемами.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель, заполненная проводами. Акки соединяет их все!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкский пол"
+},{"op":"replace","path":"/description","value":
+"Металлический пол, полный проводов и схем."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заворожен. Почему в этой панели так много проводов и схем?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, из чего сделана эта панель?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Полевая панель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Панель заполнена проводами и схемами."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель, заполненная проводами. Акки соединяет их все!"
+}]

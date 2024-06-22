@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Подвесное Хранение",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Различные предметы подвешены в большой сети.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вещи, хранящиеся в сетке, свисали с потолка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сетка для хранения вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Netsss для хранения вещей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Здесь в большую сеть подвешены различные предметы.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранение вещей на потолке. Мне это нравится!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Должно быть, очень больно снова вытащить что-нибудь из этой сети.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде хранилища, свисающего с потолка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари часто хранят свое имущество в таких сетях.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то сеть, наполненная инопланетными диковинками.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подвешивание предметов к потолку на самом деле является эффективным средством хранения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование содержимого сети. Обнаружена пустая бочка Вааша. Обнаружены компоненты техники. Обнаружено шасси дрона.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки развешивает предметы в стороне. Акки они сейчас не нужны.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Подвесное Хранение"
+},{"op":"replace","path":"/description","value":
+"Различные предметы подвешены в большой сети."
+},{"op":"replace","path":"/apexDescription","value":
+"Вещи, хранящиеся в сетке, свисали с потолка."
+},{"op":"replace","path":"/avianDescription","value":
+"Сетка для хранения вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Netsss для хранения вещей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Здесь в большую сеть подвешены различные предметы."
+},{"op":"replace","path":"/humanDescription","value":
+"Хранение вещей на потолке. Мне это нравится!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Должно быть, очень больно снова вытащить что-нибудь из этой сети."
+},{"op":"replace","path":"/novakidDescription","value":
+"Что-то вроде хранилища, свисающего с потолка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Аккимари часто хранят свое имущество в таких сетях."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какая-то сеть, наполненная инопланетными диковинками."
+},{"op":"replace","path":"/trinkDescription","value":
+"Подвешивание предметов к потолку на самом деле является эффективным средством хранения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование содержимого сети. Обнаружена пустая бочка Вааша. Обнаружены компоненты техники. Обнаружено шасси дрона."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки развешивает предметы в стороне. Акки они сейчас не нужны."
+}]

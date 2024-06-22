@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я занят, не могу сейчас говорить.",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/scriptConfig/dialog/converse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/scriptConfig/dialog/converse/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я занят, не могу сейчас говорить.",
-    "path": "/scriptConfig/dialog/converse/trink/default/2",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Я занят, не могу сейчас говорить."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/0","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/1","value":
+"..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/2","value":
+"Я занят, не могу сейчас говорить."
+}]

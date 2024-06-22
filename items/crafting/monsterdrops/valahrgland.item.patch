@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Орган, используемый Валарами для создания сильнодействующих ядов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ядовитая железа Валара",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Орган, используемый Валарами для создания сильнодействующих ядов."
+},{"op":"replace","path":"/shortdescription","value":
+"Ядовитая железа Валара"
+}]

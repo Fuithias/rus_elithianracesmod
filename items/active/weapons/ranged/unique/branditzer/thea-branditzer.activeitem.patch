@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Минималистичный рельсотрон, стреляющий двойными перегретыми пулями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Брандитцер Тип-1^reset;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рельсотрон",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Минималистичный рельсотрон, стреляющий двойными перегретыми пулями."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Брандитцер Тип-1^reset;"
+},{"op":"replace","path":"/category","value":
+"Рельсотрон"
+}]

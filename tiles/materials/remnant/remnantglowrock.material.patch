@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Светящийся камень",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний камень с загадочным свечением.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Испуган. Этот камень не выглядит естественным...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран чувствует себя неуютно рядом с этим камнем.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не знаю, что это, но мне не нравится, как он выглядит.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Ошибка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки некомфортно. Камень не должен светиться.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Светящийся камень"
+},{"op":"replace","path":"/description","value":
+"Древний камень с загадочным свечением."
+},{"op":"replace","path":"/glitchDescription","value":
+"Испуган. Этот камень не выглядит естественным..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран чувствует себя неуютно рядом с этим камнем."
+},{"op":"replace","path":"/novakidDescription","value":
+"Не знаю, что это, но мне не нравится, как он выглядит."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Ошибка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки некомфортно. Камень не должен светиться."
+}]

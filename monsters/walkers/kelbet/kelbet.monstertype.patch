@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кроткое существо, родом из Элиции. Часто живет в больших стадах.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кельбет",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кроткое существо, родом из Элиции. Часто живет в больших стадах."
+},{"op":"replace","path":"/shortdescription","value":
+"Кельбет"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Таинственный центенский артефакт, ядро ​​устройства Jumpgate.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ядро прыжковых врат",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Таинственный центенский артефакт, ядро ​​устройства Jumpgate."
+},{"op":"replace","path":"/shortdescription","value":
+"Ядро скачврат"
+}]

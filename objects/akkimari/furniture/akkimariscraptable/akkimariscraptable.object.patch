@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стол для лома Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол из различных пластин металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо сделанный стол. Он даже не совсем плоский!",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плиты металлолома собраны как стол. Это не очень хорошо.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неряшливый стол.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрясен. Этот стол — всего лишь несколько пластин металлолома!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На самом деле это не совсем стол...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это просто листы металлолома, собранные как стол...",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то очень плохо сделанный стол.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол на удивление прочен, поскольку представляет собой всего лишь пару пластин металлолома.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо собранный стол. Он прочный, но верх даже не плоский.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это всего лишь несколько пластин металлолома на столбе.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стол пришельцев. Структурная прочность превосходит первоначальные ожидания.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки мог бы сделать стол лучше, но у Акки нет времени.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стол для лома Акрис"
+},{"op":"replace","path":"/description","value":
+"Стол из различных пластин металлолома."
+},{"op":"replace","path":"/apexDescription","value":
+"Плохо сделанный стол. Он даже не совсем плоский!"
+},{"op":"replace","path":"/avianDescription","value":
+"Плиты металлолома собраны как стол. Это не очень хорошо."
+},{"op":"replace","path":"/floranDescription","value":
+"Неряшливый стол."
+},{"op":"replace","path":"/glitchDescription","value":
+"Потрясен. Этот стол — всего лишь несколько пластин металлолома!"
+},{"op":"replace","path":"/humanDescription","value":
+"На самом деле это не совсем стол..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это просто листы металлолома, собранные как стол..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то очень плохо сделанный стол."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот стол на удивление прочен, поскольку представляет собой всего лишь пару пластин металлолома."
+},{"op":"replace","path":"/avikanDescription","value":
+"Плохо собранный стол. Он прочный, но верх даже не плоский."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это всего лишь несколько пластин металлолома на столбе."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стол пришельцев. Структурная прочность превосходит первоначальные ожидания."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки мог бы сделать стол лучше, но у Акки нет времени."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Официальная форма чиновников Элитийского Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фуражка Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Официальная форма чиновников Элитийского Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Фуражка Альянса"
+}]

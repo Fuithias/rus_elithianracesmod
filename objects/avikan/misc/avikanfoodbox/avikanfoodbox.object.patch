@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Ингредиенты",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коробки с едой Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Три коробки с разнообразной едой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коробки с инопланетной едой. Интересно, как оно на вкус?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не любит инопланетную еду.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что это за еда?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная еда. Сомневаюсь, что будет вкусно...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еда инопланетной природы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродные продукты питания. Не могу вспомнить, пробовал ли я это раньше.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Все ингредиенты нужны для приготовления традиционного авиканского блюда.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Все ингредиенты, необходимые для приготовления традиционного блюда.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Различные традиционные ингредиенты Авикана.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаруженные ингредиенты. Общая пищевая ценность: достаточная.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еда-инопланетянка, Акки ест всё!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Ингредиенты"
+},{"op":"replace","path":"/description","value":
+"Коробки с едой Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Три коробки с разнообразной едой."
+},{"op":"replace","path":"/avianDescription","value":
+"Коробки с инопланетной едой. Интересно, как оно на вкус?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не любит инопланетную еду."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что это за еда?"
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетная еда. Сомневаюсь, что будет вкусно..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Еда инопланетной природы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Чужеродные продукты питания. Не могу вспомнить, пробовал ли я это раньше."
+},{"op":"replace","path":"/aegiDescription","value":
+"Все ингредиенты нужны для приготовления традиционного авиканского блюда."
+},{"op":"replace","path":"/avikanDescription","value":
+"Все ингредиенты, необходимые для приготовления традиционного блюда."
+},{"op":"replace","path":"/trinkDescription","value":
+"Различные традиционные ингредиенты Авикана."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаруженные ингредиенты. Общая пищевая ценность: достаточная."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Еда-инопланетянка, Акки ест всё!"
+}]

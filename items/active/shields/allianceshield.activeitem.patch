@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Современный металлический щит, созданный Кузнецей Страйкера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Кузница Страйкера^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Щит Страйкера Экз-07",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Современный металлический щит, созданный Кузнецей Страйкера."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Кузница Страйкера^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Щит Страйкера Экз-07"
+}]

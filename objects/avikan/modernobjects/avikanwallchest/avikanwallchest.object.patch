@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Настенный контейнер Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический настенный контейнер. Для хранения вещей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошо сделанный металлический сундук.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический контейнер. Что внутри?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сундуки полны вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Изысканный металлический сундук.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер. Наверное, полно вкусностей!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер для хранения ваших вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический сундук странной формы.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический сундук. Идеально подходит для спасения наших самых редких вещей.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот металлический сундук неэффективно использует пространство.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грудная клетка. Акки хочет порвать с этим.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настенный контейнер Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический настенный контейнер. Для хранения вещей."
+},{"op":"replace","path":"/apexDescription","value":
+"Хорошо сделанный металлический сундук."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический контейнер. Что внутри?"
+},{"op":"replace","path":"/floranDescription","value":
+"Сундуки полны вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Изысканный металлический сундук."
+},{"op":"replace","path":"/humanDescription","value":
+"Металлический контейнер. Наверное, полно вкусностей!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлический контейнер для хранения ваших вещей."
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлический сундук странной формы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Прочный металлический сундук. Идеально подходит для спасения наших самых редких вещей."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот металлический сундук неэффективно использует пространство."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Грудная клетка. Акки хочет порвать с этим."
+}]

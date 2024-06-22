@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая пара ног Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая пара ног Авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Ноги"
+}]

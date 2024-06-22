@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Центенсийский артефакт, часть устройства телепортации.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ядро варпа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Центенсийский артефакт, часть устройства телепортации."
+},{"op":"replace","path":"/shortdescription","value":
+"Ядро варпа"
+}]

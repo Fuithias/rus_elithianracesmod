@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Железнодорожная дверь Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая металлическая дверь с проходящей через нее поручнем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рельс проходит через металлическую дверь.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Через эту металлическую дверь проходит рельс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то дверь, через которую проходит рельс.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная дверь. Внутри обнаружена железнодорожная система.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рельс проходит через дверь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Железнодорожная дверь Альянса"
+},{"op":"replace","path":"/description","value":
+"Толстая металлическая дверь с проходящей через нее поручнем."
+},{"op":"replace","path":"/floranDescription","value":
+"Рельс проходит через металлическую дверь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Через эту металлическую дверь проходит рельс."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то дверь, через которую проходит рельс."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная дверь. Внутри обнаружена железнодорожная система."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Рельс проходит через дверь."
+}]

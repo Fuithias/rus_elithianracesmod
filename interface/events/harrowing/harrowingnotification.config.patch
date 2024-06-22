@@ -1,22 +1,5 @@
-[
-  {
-    "value": "^orange;NEW EVENT: ^gray;The Harrowing^reset;",
-    "path": "/gui/title/value",
-    "op": "replace"
-  },
-  {
-    "value": "During the Harrowing, the Aegi remember the dead and celebrate the living. It's a time for candy, costumes and tricks! This event features:
-
-- A new event-themed ^cyan;vendor ^reset;who sells a variety of event items. You can find Ayala, the Harrowing event vendor, in the Creon Embassy
-
-- ^cyan;Collectible masks ^reset;and ^cyan;costumes ^reset;for all races
-
-- ^cyan;Sweet candy ^reset;that offers a variety of useful and fun status effects
-
-- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
-
-- Event-themed ^cyan;decorative objects ^reset;to bring the Harrowing to your own home",
-    "path": "/gui/description/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/title/value","value":
+"^orange;НОВЫЙ ЭВЕНТ: ^gray;Ужасающий^reset;"
+},{"op":"replace","path":"/gui/description/value","value":
+"Во время Ужасающего аеги поминают мертвых и чествуют живых. Это время для сладостей, костюмов и фокусов! В этом событии участвуют:\n\n- Новый ^cyan;торговец^reset; продающий различные предметы события. Вы можете найти Айалу, продавца события Ужасающий, в посольстве Креона\n\n- ^cyan;коллекция масок^reset; и ^cyan;костюмов^reset; для всех рас\n\n- ^cyan;сладкие конфеты^reset; которые дают множество полезных и забавных статусных эффектов\n\n- Новые квесты для получения тематических ^orange;предметов важного качества^reset;\n\n- Тематические ^cyan;декорации^reset; для того, чтобы привнести Ужасающий в ваш дом"
+}]

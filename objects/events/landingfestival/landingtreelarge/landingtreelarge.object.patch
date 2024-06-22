@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Посадка фестивального дерева",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая сосна, украшенная к Фестивалю высадки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Украшенная сосна.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это дерево полно блестящих вещей!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящее дерево заставляет Флорана сверкать!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Как зародилась традиция украшать сосны?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Новогодняя елка! Хотя что-то в этом не так...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Величественное дерево, украшенное блестящими безделушками. Как странно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто повесил все это золото на дерево?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционная елка Фестиваля высадки с множеством подарков и украшений!",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение, украшенное золотыми безделушками. Инопланетяне странные.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не совсем понимаю, зачем Эги украшают свои деревья.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Чужеродная растительная жизнь. Обнаружено множество металлических безделушек, прикрепленных к ветвям. Цель неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древесный пришелец полон золота! Акки хочу, хочу хочу!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Посадка фестивального дерева"
+},{"op":"replace","path":"/description","value":
+"Большая сосна, украшенная к Фестивалю высадки."
+},{"op":"replace","path":"/apexDescription","value":
+"Украшенная сосна."
+},{"op":"replace","path":"/avianDescription","value":
+"Это дерево полно блестящих вещей!"
+},{"op":"replace","path":"/floranDescription","value":
+"Блестящее дерево заставляет Флорана сверкать!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Как зародилась традиция украшать сосны?"
+},{"op":"replace","path":"/humanDescription","value":
+"Новогодняя елка! Хотя что-то в этом не так..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Величественное дерево, украшенное блестящими безделушками. Как странно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кто повесил все это золото на дерево?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Традиционная елка праздника Приземления с множеством подарков и украшений!"
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение, украшенное золотыми безделушками. Инопланетяне странные."
+},{"op":"replace","path":"/trinkDescription","value":
+"Я не совсем понимаю, зачем Эги украшают свои деревья."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Чужеродная растительная жизнь. Обнаружено множество металлических безделушек, прикрепленных к ветвям. Цель неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Древесный пришелец полон золота! Акки хочу, хочу хочу!"
+}]

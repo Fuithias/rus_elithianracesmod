@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Ватарак атас!",
-    "path": "/scriptConfig/dialog/attack/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Erras se vahl!",
-    "path": "/scriptConfig/dialog/attack/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Креатон вот это дас!",
-    "path": "/scriptConfig/dialog/attack/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Телея на'марк!",
-    "path": "/scriptConfig/dialog/attack/default/default/3",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/0","value":
+"Ватарак атас!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/1","value":
+"Эррес си ваыл!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/2","value":
+"Креатон вот это дас!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/3","value":
+"Телея на'марк!"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская Ткань",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевое покрытие стены для модного кочевника.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. Это покрытие стены имеет яркий цвет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, как быстро это загорится...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Покрытие стены из какой-то ткани.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Качественное тканевое покрытие стены.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань-мягкая, приятная для кожи-акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская Ткань"
+},{"op":"replace","path":"/description","value":
+"Тканевое покрытие стены для модного кочевника."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. Это покрытие стены имеет яркий цвет."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, как быстро это загорится..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Покрытие стены из какой-то ткани."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Качественное тканевое покрытие стены."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ткань-мягкая, приятная для кожи-акки."
+}]

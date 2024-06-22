@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Обычный шлем среди капитанов и других звездопроходцев.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем звездопроходца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Обычный шлем среди капитанов и других звездопроходцев."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем звездопроходца"
+}]

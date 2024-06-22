@@ -1,12 +1,5 @@
-[
-  {
-    "value": "В качестве покрытия использовались каменные плиты.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тротуарная плитка Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"В качестве покрытия использовались каменные плиты."
+},{"op":"replace","path":"/shortdescription","value":
+"Тротуарная плитка Альянс"
+}]

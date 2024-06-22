@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Легкий телеанский кинжал. Рукоять очень неудобна для нетелеанцев.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанский кинжал",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Легкий телеанский кинжал. Рукоять очень неудобна для нетелеанцев."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанский кинжал"
+}]

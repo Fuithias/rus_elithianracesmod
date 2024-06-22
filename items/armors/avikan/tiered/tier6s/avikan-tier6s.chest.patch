@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Великолепный бронежилет, надеваемый членами Клангарда авикан. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бронежилет Клангарда тип-С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Великолепный бронежилет, надеваемый членами Клангарда авикан. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Кираса Клангарда в.-З"
+}]

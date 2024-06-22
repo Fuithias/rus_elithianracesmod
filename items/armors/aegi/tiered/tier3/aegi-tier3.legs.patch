@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Броневые штаны, которые носили некоторые аегинские пехотинцы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны пехотинца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Броневые штаны, которые носили некоторые аегинские пехотинцы."
+},{"op":"replace","path":"/shortdescription","value":
+"Штаны пехотинца"
+}]

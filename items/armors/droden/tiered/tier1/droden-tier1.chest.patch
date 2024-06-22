@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Базовый железный каркас.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Железный каркас",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Базовый железный каркас."
+},{"op":"replace","path":"/shortdescription","value":
+"Железный каркас"
+}]

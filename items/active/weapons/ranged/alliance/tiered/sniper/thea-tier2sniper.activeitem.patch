@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Снайперка повышенной мощности.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Вран Р-2",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Снайперка повышенной мощности."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Вран Р-2"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+}]

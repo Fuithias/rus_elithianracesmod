@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Железнодорожный люк Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстый металлический люк, через который проходит рельс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рельс проходит через металлический люк.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Через этот металлический люк проходит рельс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то люк, через который проходит рельса.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк инопланетян. Внутри обнаружена железнодорожная система.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рельс проходит через люк.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Железнодорожный люк Альянса"
+},{"op":"replace","path":"/description","value":
+"Толстый металлический люк, через который проходит рельс."
+},{"op":"replace","path":"/floranDescription","value":
+"Рельс проходит через металлический люк."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Через этот металлический люк проходит рельс."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то люк, через который проходит рельса."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк инопланетян. Внутри обнаружена железнодорожная система."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Рельс проходит через люк."
+}]

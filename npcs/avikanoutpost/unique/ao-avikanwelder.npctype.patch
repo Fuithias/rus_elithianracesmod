@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Валян ас-Надата может отремонтировать ваши автомобили.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я сейчас немного занят.",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Валян ас-Надата может отремонтировать ваши автомобили.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/scriptConfig/dialog/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я сейчас немного занят.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/2",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Валян ас-Надата может отремонтировать ваши автомобили."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Я сейчас немного занят."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Валян ас-Надата может отремонтировать ваши автомобили."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/1","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/2","value":
+"Я сейчас немного занят."
+}]

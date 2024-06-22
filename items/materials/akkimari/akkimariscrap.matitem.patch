@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Куча металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Куча металлолома."
+},{"op":"replace","path":"/shortdescription","value":
+"Металлолом"
+}]

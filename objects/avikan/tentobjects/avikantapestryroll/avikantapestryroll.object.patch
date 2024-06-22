@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гобелен Авикан в рулоне",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свернутый кожаный гобелен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Свернутый кожаный гобелен.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, свернутый гобелен.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен скручен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Аккуратно свернутый кожаный гобелен.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свернутый гобелен.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такой гобелен может хорошо смотреться в качестве украшения дома.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен, свернутый для хранения.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот гобелен отлично смотрелся бы у меня дома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свернутый кожаный гобелен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен-кожа, весь свернут.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Авикан в рулоне"
+},{"op":"replace","path":"/description","value":
+"Свернутый кожаный гобелен."
+},{"op":"replace","path":"/apexDescription","value":
+"Свернутый кожаный гобелен."
+},{"op":"replace","path":"/avianDescription","value":
+"Простой, свернутый гобелен."
+},{"op":"replace","path":"/floranDescription","value":
+"Гобелен скручен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Аккуратно свернутый кожаный гобелен."
+},{"op":"replace","path":"/humanDescription","value":
+"Свернутый гобелен."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такой гобелен может хорошо смотреться в качестве украшения дома."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаный гобелен."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кожаный гобелен, свернутый для хранения."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот гобелен отлично смотрелся бы у меня дома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Свернутый кожаный гобелен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гобелен-кожа, весь свернут."
+}]

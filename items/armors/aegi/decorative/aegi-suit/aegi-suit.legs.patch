@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Стильные брюки для модных аеги.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Брюки дизайнера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Стильные брюки для модных аеги."
+},{"op":"replace","path":"/shortdescription","value":
+"Брюки дизайнера"
+}]

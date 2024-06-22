@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

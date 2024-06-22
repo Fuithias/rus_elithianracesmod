@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Наклонная панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наклонная металлическая панель, идеально подходит для строительства стен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлическая стеновая панель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель сверкает.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это металлические стеновые панели.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Прочные металлические стеновые панели.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-прочная, для строительства.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Наклонная панель Альянса"
+},{"op":"replace","path":"/description","value":
+"Наклонная металлическая панель, идеально подходит для строительства стен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлическая стеновая панель."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлическая панель сверкает."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это металлические стеновые панели."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Прочные металлические стеновые панели."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-прочная, для строительства."
+}]

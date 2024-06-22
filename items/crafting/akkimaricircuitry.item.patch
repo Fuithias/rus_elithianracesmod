@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Универсальная схема имеется в большинстве электрооборудования Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Схема",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Универсальная схема имеется в большинстве электрооборудования Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Схема"
+}]

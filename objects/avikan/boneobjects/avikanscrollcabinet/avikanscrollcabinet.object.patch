@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Шкаф для свитков Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф для хранения ваших свитков.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной шкаф, видимо, для хранения больших свитков.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный шкаф для хранения вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной шкаф для sscrollsss.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Шкаф из кости. Видимо, для хранения свитков.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это шкаф из... кости?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грубый шкаф из кости. Сколько существ пришлось умереть ради этого?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это простой шкаф из кости.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной шкаф. Авиканцы используют их для хранения свитков.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф для хранения больших свитков.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простое место для хранения свитков.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф для хранения. Обнаружено несколько свитков.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф-кость для свитков. Акки не люблю читать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Шкаф для свитков Авикан"
+},{"op":"replace","path":"/description","value":
+"Шкаф для хранения ваших свитков."
+},{"op":"replace","path":"/apexDescription","value":
+"Костяной шкаф, видимо, для хранения больших свитков."
+},{"op":"replace","path":"/avianDescription","value":
+"Примитивный шкаф для хранения вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Костяной шкаф для сссвитков."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Шкаф из кости. Видимо, для хранения свитков."
+},{"op":"replace","path":"/humanDescription","value":
+"Это шкаф из... кости?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Грубый шкаф из кости. Сколько существ пришлось умереть ради этого?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Это простой шкаф из кости."
+},{"op":"replace","path":"/aegiDescription","value":
+"Костяной шкаф. Авиканцы используют их для хранения свитков."
+},{"op":"replace","path":"/avikanDescription","value":
+"Шкаф для хранения больших свитков."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простое место для хранения свитков."
+},{"op":"replace","path":"/drodenDescription","value":
+"Шкаф для хранения. Обнаружено несколько свитков."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Шкаф-кость для свитков. Акки не люблю читать."
+}]

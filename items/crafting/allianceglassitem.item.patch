@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кусок очень прочного стеклоподобного пластика.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Резогласс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кусок очень прочного стеклоподобного пластика."
+},{"op":"replace","path":"/shortdescription","value":
+"Резогласс"
+}]

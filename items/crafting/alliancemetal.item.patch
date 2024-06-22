@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный и легкий сплав железа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аллостил",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный и легкий сплав железа."
+},{"op":"replace","path":"/shortdescription","value":
+"Аллостил"
+}]

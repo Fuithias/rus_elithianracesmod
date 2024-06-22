@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкианский световой столб",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб с зелеными огнями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Столб с зелеными огнями. Странный.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "При включении этот столб излучает зеленый свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Допрос. Почему эти Тринки горят зеленым светом?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб с зелеными огнями. Прохладный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет делает даже обыденное загадочным.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский световой столб.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб, излучающий зеленый свет. Это заставляет меня чувствовать себя странно...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такие столбы в основном используются для освещения территорий за пределами наших зданий.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Источник света обнаружен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб-свет, сделай всё ярким!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианский световой столб"
+},{"op":"replace","path":"/description","value":
+"Столб с зелеными огнями."
+},{"op":"replace","path":"/apexDescription","value":
+"Столб с зелеными огнями. Странный."
+},{"op":"replace","path":"/avianDescription","value":
+"При включении этот столб излучает зеленый свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Зеленый свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Допрос. Почему эти Тринки горят зеленым светом?"
+},{"op":"replace","path":"/humanDescription","value":
+"Столб с зелеными огнями. Прохладный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Зеленый свет делает даже обыденное загадочным."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианский световой столб."
+},{"op":"replace","path":"/avikanDescription","value":
+"Столб, излучающий зеленый свет. Это заставляет меня чувствовать себя странно..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Такие столбы в основном используются для освещения территорий за пределами наших зданий."
+},{"op":"replace","path":"/drodenDescription","value":
+"Источник света обнаружен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Столб-свет, сделай всё ярким!"
+}]

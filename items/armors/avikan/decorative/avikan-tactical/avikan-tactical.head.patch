@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Высокотехнологичный визор, отображающий тактическую информацию.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тактический визор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Высокотехнологичный визор, отображающий тактическую информацию."
+},{"op":"replace","path":"/shortdescription","value":
+"Тактический визор"
+}]

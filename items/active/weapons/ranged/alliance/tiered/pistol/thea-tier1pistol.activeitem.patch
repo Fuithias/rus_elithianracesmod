@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Баллистический пистолет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Бредон Армс^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "БП-6 Декер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Баллистический пистолет."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Бредон Армс^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"БП-6 Декер"
+},{"op":"replace","path":"/category","value":
+"Пистолет"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Пустой стакан Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой стакан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой стакан.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто пустой стакан.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь пусто.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот стакан пуст.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, какой напиток был в этом раньше?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой стакан для питья.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "«Там пусто.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой стакан для питья.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я должен заполнить это.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой стакан. Я обнаруживаю следы сока кактуса.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Стакан для питья. Обнаружены следы сока кактуса.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стакан-пустой, никакого веселья.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Пустой стакан Авикан"
+},{"op":"replace","path":"/description","value":
+"Пустой стакан."
+},{"op":"replace","path":"/apexDescription","value":
+"Пустой стакан."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто пустой стакан."
+},{"op":"replace","path":"/floranDescription","value":
+"Здесь пусто."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот стакан пуст."
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, какой напиток был в этом раньше?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой стакан для питья."
+},{"op":"replace","path":"/novakidDescription","value":
+"Там пусто."
+},{"op":"replace","path":"/aegiDescription","value":
+"Пустой стакан для питья."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я должен заполнить это."
+},{"op":"replace","path":"/trinkDescription","value":
+"Пустой стакан. Я обнаруживаю следы сока кактуса."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Стакан для питья. Обнаружены следы сока кактуса."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стакан-пустой, никакого веселья."
+}]

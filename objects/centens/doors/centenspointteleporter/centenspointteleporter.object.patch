@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Телепорт Centensian Point",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт «точка-точка». Его можно связать с фоновыми дверями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, куда ведут ворота...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Интересно, куда ведут эти ворота...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведут эти ворота...",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование не удалось. Невозможно определить, куда ведут эти ворота.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки любопытно, куда ведут ворота...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт Centensian Point"
+},{"op":"replace","path":"/description","value":
+"Телепорт точка-точка. Его можно связать с фоновыми дверями."
+},{"op":"replace","path":"/apexDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, куда ведут ворота..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Интересно, куда ведут эти ворота..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование не удалось. Невозможно определить, куда ведут эти ворота."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки любопытно, куда ведут ворота..."
+}]

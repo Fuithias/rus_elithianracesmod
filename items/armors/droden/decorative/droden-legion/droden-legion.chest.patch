@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Каркас для легионных единиц дроденов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Каркас легиона",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Каркас для легионных единиц дроденов."
+},{"op":"replace","path":"/shortdescription","value":
+"Каркас легиона"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Тяжелый и чрезвычайно острый палаш, выдаваемый авиканским воинам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Острие Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Тяжелый и чрезвычайно острый палаш, выдаваемый авиканским воинам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Острие Авангарда"
+}]

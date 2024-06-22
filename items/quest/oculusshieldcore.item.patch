@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Генератор щита, снятый с дрона Ce'Tennan Oculus.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Окулус Щит ^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Генератор щита, снятый с дрона Ce'Tennan Oculus."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Окулус Щит ^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

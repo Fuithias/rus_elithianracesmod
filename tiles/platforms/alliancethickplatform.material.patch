@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Толстая платформа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая металлическая платформа. Очень прочная.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Измерение. Эта платформа толще большинства.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая платформа, для разбивания черепов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, это очень толстая платформа.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Толстая металлическая платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа-Толстая, должно быть тяжелая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Толстая платформа Альянса"
+},{"op":"replace","path":"/description","value":
+"Толстая металлическая платформа. Очень прочная."
+},{"op":"replace","path":"/glitchDescription","value":
+"Измерение. Эта платформа толще большинства."
+},{"op":"replace","path":"/floranDescription","value":
+"Толстая платформа, для разбивания черепов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Похоже, это очень толстая платформа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Толстая металлическая платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа-Толстая, должно быть тяжелая."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

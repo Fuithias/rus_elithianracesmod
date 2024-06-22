@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авиканская баррикада",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баррикада из заточенных костей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная, но эффективная баррикада.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баррикада из заточенных костей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран осторожен с колючими костями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простая баррикада из заточенных костей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, эта баррикада и примитивна, но она все равно весьма эффективна.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смертоносная баррикада, построенная из костей мертвецов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это простая баррикада.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая баррикада из заточенных костей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это должно отпугнуть злоумышленников.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Острые кости превратились в простую баррикаду.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена баррикада. Рекомендуемое действие: обойти.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заостренные кости делают баррикаду хорошей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская баррикада"
+},{"op":"replace","path":"/description","value":
+"Баррикада из заточенных костей."
+},{"op":"replace","path":"/apexDescription","value":
+"Примитивная, но эффективная баррикада."
+},{"op":"replace","path":"/avianDescription","value":
+"Баррикада из заточенных костей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран осторожен с колючими костями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простая баррикада из заточенных костей."
+},{"op":"replace","path":"/humanDescription","value":
+"Возможно, эта баррикада и примитивна, но она все равно весьма эффективна."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Смертоносная баррикада, построенная из костей мертвецов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это простая баррикада."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая баррикада из заточенных костей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это должно отпугнуть злоумышленников."
+},{"op":"replace","path":"/trinkDescription","value":
+"Острые кости превратились в простую баррикаду."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена баррикада. Рекомендуемое действие: обойти."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Заостренные кости делают баррикаду хорошей."
+}]

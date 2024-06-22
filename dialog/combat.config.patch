@@ -1,1052 +1,421 @@
-[
-  {
-    "value": "Цель захвачена!",
-    "path": "/reattack/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "На этот раз тебе не уйти!",
-    "path": "/reattack/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "На этот раз Радейс остановит вас!",
-    "path": "/reattack/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Охота продолжается.",
-    "path": "/reattack/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вы совершили ошибку, вернувшись сюда.",
-    "path": "/reattack/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Захватчики, уничтожьте их!",
-    "path": "/attack/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Им нужны артефакты, взять их!",
-    "path": "/attack/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приготовьтесь встретить своего создателя!",
-    "path": "/attack/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это кончится сейчас!",
-    "path": "/attack/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ваша голова станет прекрасным трофеем!",
-    "path": "/attack/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "И вот охота заканчивается.",
-    "path": "/killedTarget/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс благоволит нам сегодня!",
-    "path": "/killedTarget/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Еще одна выигранная битва.",
-    "path": "/killedTarget/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Цель устранена!",
-    "path": "/killedTarget/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Угроза устранена.",
-    "path": "/killedTarget/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель сбежала...",
-    "path": "/lostTarget/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "В следующий раз я тебя достану.",
-    "path": "/lostTarget/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс вернет тебе по справедливости, так или иначе.",
-    "path": "/lostTarget/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это еще не конец.",
-    "path": "/lostTarget/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Охота заканчивается. Пока что...",
-    "path": "/lostTarget/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я потерял цель!",
-    "path": "/outOfSight/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Куда он делся?",
-    "path": "/outOfSight/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Рейдис снова найдет вас.",
-    "path": "/outOfSight/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-нибудь следит за целью?",
-    "path": "/outOfSight/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Они неуловимы...",
-    "path": "/outOfSight/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вернись, трус!",
-    "path": "/cantReach/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ватра! Я не могу туда попасть!",
-    "path": "/cantReach/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс приведет меня к вам.",
-    "path": "/cantReach/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Сможет ли кто-нибудь достичь цели?",
-    "path": "/cantReach/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу достичь цели!",
-    "path": "/cantReach/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Взять их!",
-    "path": "/cheerOn/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мы почти у цели!",
-    "path": "/cheerOn/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Сражайтесь! Мы не можем потерять их сейчас!",
-    "path": "/cheerOn/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Рейдис, уничтожь их!",
-    "path": "/cheerOn/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Твоя голова будет моей!",
-    "path": "/cheerOn/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель захвачена!",
-    "path": "/reattack/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель снова захвачена!",
-    "path": "/reattack/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваше возвращение было ошибкой.",
-    "path": "/reattack/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вам больше не удастся сбежать!",
-    "path": "/reattack/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Схема будет охотиться за вами!",
-    "path": "/reattack/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Уничтожьте захватчиков!",
-    "path": "/attack/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен враг!",
-    "path": "/attack/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Схема будет охотиться за вами!",
-    "path": "/attack/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ваше путешествие подошло к концу!",
-    "path": "/attack/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Протокол ликвидации запущен!",
-    "path": "/attack/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Уровень угрозы вернулся к норме.",
-    "path": "/killedTarget/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Схема победоносна.",
-    "path": "/killedTarget/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность всегда побеждает.",
-    "path": "/killedTarget/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Цель устранена.",
-    "path": "/killedTarget/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Выход из боевой стойки.",
-    "path": "/killedTarget/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель сбежала.",
-    "path": "/lostTarget/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель покинула зону.",
-    "path": "/lostTarget/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Боевой эпизод завершен. Цель потеряна.",
-    "path": "/lostTarget/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Цель не найдена.",
-    "path": "/lostTarget/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Враг сбежал.",
-    "path": "/lostTarget/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я потерял цель из виду!",
-    "path": "/outOfSight/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Цель вне поля зрения.",
-    "path": "/outOfSight/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Контур найдет тебя снова...",
-    "path": "/outOfSight/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мои сканеры не обнаружили цель.",
-    "path": "/outOfSight/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цель ускользает.",
-    "path": "/outOfSight/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель!",
-    "path": "/cantReach/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель!",
-    "path": "/cantReach/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Враг вне досягаемости.",
-    "path": "/cantReach/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Не дайте им уйти!",
-    "path": "/cantReach/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу достичь цель!",
-    "path": "/cantReach/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель будет скоро устранена.",
-    "path": "/cheerOn/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Контур будет победителем.",
-    "path": "/cheerOn/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Цель скоро падет!",
-    "path": "/cheerOn/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Держите их!",
-    "path": "/cheerOn/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе конец!",
-    "path": "/cheerOn/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель восстановлена.",
-    "path": "/reattack/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель обнаружена. Начинаю атаку.",
-    "path": "/reattack/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Принимаю боевую позицию.",
-    "path": "/reattack/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Подготовка к устранению цели.",
-    "path": "/reattack/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цель обнаружена. Боевые модули загружены.",
-    "path": "/reattack/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель для боя обнаружена.",
-    "path": "/attack/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Боевые модули активированы. Начинаю атаку.",
-    "path": "/attack/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Процесс устранения цели.",
-    "path": "/attack/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Цель обнаружена. Устраняю.",
-    "path": "/attack/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Начинаю бой.",
-    "path": "/attack/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель устранена.",
-    "path": "/killedTarget/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Бой завершен.",
-    "path": "/killedTarget/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Выключение боевых модулей.",
-    "path": "/killedTarget/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Победа достигнута.",
-    "path": "/killedTarget/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Устранение завершено.",
-    "path": "/killedTarget/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель сбежала. Завершаю боевой режим.",
-    "path": "/lostTarget/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна.",
-    "path": "/lostTarget/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Устранение не завершено. Цель потеряна.",
-    "path": "/lostTarget/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Завершение боевых процедур. Цель потеряна.",
-    "path": "/lostTarget/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цель сбежала.",
-    "path": "/lostTarget/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Потеря визуального контакта. Поиск.",
-    "path": "/outOfSight/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна. Перехват.",
-    "path": "/outOfSight/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Потеря цели подтверждена.",
-    "path": "/outOfSight/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Невозможно обнаружить цель.",
-    "path": "/outOfSight/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна.",
-    "path": "/outOfSight/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель.",
-    "path": "/cantReach/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Бой остановлен. Не могу достичь цель.",
-    "path": "/cantReach/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю помощь. Не могу достичь цель.",
-    "path": "/cantReach/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель. Пересчитываю маршрут.",
-    "path": "/cantReach/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель. Устранение не завершено.",
-    "path": "/cantReach/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Устранить цель.",
-    "path": "/cheerOn/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель ранена. Устранить.",
-    "path": "/cheerOn/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Принимаем боевые позиции.",
-    "path": "/cheerOn/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Принимаю боевую позицию.",
-    "path": "/cheerOn/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Устранение цели на завершающей стадии.",
-    "path": "/cheerOn/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель восстановлена.",
-    "path": "/reattack/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель захвачена.",
-    "path": "/reattack/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Устраняю цель.",
-    "path": "/reattack/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Твой конец близок.",
-    "path": "/reattack/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты сделал ошибку, показавшись снова.",
-    "path": "/reattack/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель обнаружена.",
-    "path": "/attack/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Еретик найден. Начинаю устранение.",
-    "path": "/attack/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ты сделал ошибку.",
-    "path": "/attack/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Еще один трофей для моей коллекции.",
-    "path": "/attack/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты пожалеешь, что пришел сюда.",
-    "path": "/attack/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель устранена.",
-    "path": "/killedTarget/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Победа, как и ожидалось.",
-    "path": "/killedTarget/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Смерть взяла свою добычу.",
-    "path": "/killedTarget/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Нет пощады для слабых.",
-    "path": "/killedTarget/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это была не битва.",
-    "path": "/killedTarget/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна.",
-    "path": "/lostTarget/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Смерть найдет тебя рано или поздно.",
-    "path": "/lostTarget/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Цель сбежала.",
-    "path": "/lostTarget/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мы скоро снова найдем цель.",
-    "path": "/lostTarget/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "В следующий раз ты не уйдешь.",
-    "path": "/lostTarget/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель прячется. Найдите их!",
-    "path": "/outOfSight/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Потеря цели.",
-    "path": "/outOfSight/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Сканируйте зону. Мы должны найти цель.",
-    "path": "/outOfSight/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю локальное сканирование. Цель потеряла линию видимости.",
-    "path": "/outOfSight/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна. Найдите их!",
-    "path": "/outOfSight/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Оценка ситуации. Сканирование альтернативных маршрутов.",
-    "path": "/cantReach/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вернись сюда и встреть смерть!",
-    "path": "/cantReach/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Беги, слабак!",
-    "path": "/cantReach/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Цель вне досягаемости.",
-    "path": "/cantReach/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Найдите путь к цели!",
-    "path": "/cantReach/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Устранить эту цель.",
-    "path": "/cheerOn/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю помощь. Уничтожьте их.",
-    "path": "/cheerOn/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь тебе конец.",
-    "path": "/cheerOn/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Некуда прятаться.",
-    "path": "/cheerOn/thelean/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Уничтожьте их!",
-    "path": "/cheerOn/thelean/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я нашел цель!",
-    "path": "/reattack/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вижу цель!",
-    "path": "/reattack/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Цель в поле зрения!",
-    "path": "/reattack/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я имею четкий выстрел!",
-    "path": "/reattack/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Атакую цель!",
-    "path": "/reattack/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Победить врага!",
-    "path": "/attack/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не на моих глазах!",
-    "path": "/attack/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Цель захвачена!",
-    "path": "/attack/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты облажался!",
-    "path": "/attack/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты пожалеешь об этом!",
-    "path": "/attack/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель устранена.",
-    "path": "/killedTarget/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель нейтрализована!",
-    "path": "/killedTarget/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Победа!",
-    "path": "/killedTarget/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это был последний.",
-    "path": "/killedTarget/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Снова справился с задачей.",
-    "path": "/killedTarget/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цель потеряна!",
-    "path": "/lostTarget/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, они сбежали...",
-    "path": "/lostTarget/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Цель ускользнула.",
-    "path": "/lostTarget/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "В следующий раз буду внимательнее...",
-    "path": "/lostTarget/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Враг ускользнул.",
-    "path": "/lostTarget/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я потерял цель!",
-    "path": "/outOfSight/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель вне поля зрения!",
-    "path": "/outOfSight/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Прочешите зону!",
-    "path": "/outOfSight/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Не дайте им уйти!",
-    "path": "/outOfSight/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Не вижу цель!",
-    "path": "/outOfSight/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу туда добраться!",
-    "path": "/cantReach/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Цель вне зоны досягаемости!",
-    "path": "/cantReach/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу достичь цель!",
-    "path": "/cantReach/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-нибудь может достичь цель?",
-    "path": "/cantReach/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно найти другой путь!",
-    "path": "/cantReach/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Держите их!",
-    "path": "/cheerOn/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не сдавайтесь!",
-    "path": "/cheerOn/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Продвигайтесь вперед!",
-    "path": "/cheerOn/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Готовьтесь к финальному удару!",
-    "path": "/cheerOn/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Еще немного!",
-    "path": "/cheerOn/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> нашел тебя!",
-    "path": "/reattack/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мертв! <selfname> убьет тебя!",
-    "path": "/reattack/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мертв! Ты закончился!",
-    "path": "/reattack/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> нашел тебя снова. <selfname> всегда найдет тебя снова!",
-    "path": "/reattack/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мертв!",
-    "path": "/reattack/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Убить, убить, убить!",
-    "path": "/attack/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мертв! Ты закончился!",
-    "path": "/attack/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> собирается съесть тебя!",
-    "path": "/attack/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты принадлежишь <selfname> теперь!",
-    "path": "/attack/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> будет есть!",
-    "path": "/attack/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> будет пировать на тебе!",
-    "path": "/killedTarget/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> победил!",
-    "path": "/killedTarget/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мертв! Ха-ха-ха!",
-    "path": "/killedTarget/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Больше нет боя. <selfname> скучно.",
-    "path": "/killedTarget/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> надеется снова скоро сразиться...",
-    "path": "/killedTarget/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> зол! Еда сбежала!",
-    "path": "/lostTarget/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Нет! Ты не убежишь, ты будешь драться!",
-    "path": "/lostTarget/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ты слаб! <selfname> хочет хорошего боя.",
-    "path": "/lostTarget/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Еда сбежала. <selfname> зол...",
-    "path": "/lostTarget/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Гах! Бой не закончился хорошо.",
-    "path": "/lostTarget/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вернись! Ты будешь драться с <selfname> сейчас!",
-    "path": "/outOfSight/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не убегай! Ты будешь драться!",
-    "path": "/outOfSight/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> найдет тебя снова!",
-    "path": "/outOfSight/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты бежишь! <selfname> будет преследовать тебя!",
-    "path": "/outOfSight/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Еда пытается убежать. Вернись!",
-    "path": "/outOfSight/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Нет! Нет, нет, нет!",
-    "path": "/cantReach/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Спускайся сюда! <selfname> хочет драться!",
-    "path": "/cantReach/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> не может туда добраться!",
-    "path": "/cantReach/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> найдет путь туда. <selfname> убьет тебя потом!",
-    "path": "/cantReach/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Глупец! Вернись и дерись!",
-    "path": "/cantReach/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> будет пировать с друзьями сейчас!",
-    "path": "/cheerOn/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари сильнее всех!",
-    "path": "/cheerOn/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари убьет тебя сейчас!",
-    "path": "/cheerOn/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Награда для Аккимари!",
-    "path": "/cheerOn/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мертв! Ты мертв!",
-    "path": "/cheerOn/akkimari/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/reattack/avikan/default/0","value":
+"Цель захвачена!"
+},{"op":"replace","path":"/reattack/avikan/default/1","value":
+"На этот раз тебе не уйти!"
+},{"op":"replace","path":"/reattack/avikan/default/2","value":
+"На этот раз Радейс остановит вас!"
+},{"op":"replace","path":"/reattack/avikan/default/3","value":
+"Охота продолжается."
+},{"op":"replace","path":"/reattack/avikan/default/4","value":
+"Вы совершили ошибку, вернувшись сюда."
+},{"op":"replace","path":"/attack/avikan/default/0","value":
+"Захватчики, уничтожьте их!"
+},{"op":"replace","path":"/attack/avikan/default/1","value":
+"Им нужны артефакты, взять их!"
+},{"op":"replace","path":"/attack/avikan/default/2","value":
+"Приготовьтесь встретить своего создателя!"
+},{"op":"replace","path":"/attack/avikan/default/3","value":
+"Это кончится сейчас!"
+},{"op":"replace","path":"/attack/avikan/default/4","value":
+"Ваша голова станет прекрасным трофеем!"
+},{"op":"replace","path":"/killedTarget/avikan/default/0","value":
+"И вот охота заканчивается."
+},{"op":"replace","path":"/killedTarget/avikan/default/1","value":
+"Радейс благоволит нам сегодня!"
+},{"op":"replace","path":"/killedTarget/avikan/default/2","value":
+"Еще одна выигранная битва."
+},{"op":"replace","path":"/killedTarget/avikan/default/3","value":
+"Цель устранена!"
+},{"op":"replace","path":"/killedTarget/avikan/default/4","value":
+"Угроза устранена."
+},{"op":"replace","path":"/lostTarget/avikan/default/0","value":
+"Цель сбежала..."
+},{"op":"replace","path":"/lostTarget/avikan/default/1","value":
+"В следующий раз я тебя достану."
+},{"op":"replace","path":"/lostTarget/avikan/default/2","value":
+"Радейс вернет тебе по справедливости, так или иначе."
+},{"op":"replace","path":"/lostTarget/avikan/default/3","value":
+"Это еще не конец."
+},{"op":"replace","path":"/lostTarget/avikan/default/4","value":
+"Охота заканчивается. Пока что..."
+},{"op":"replace","path":"/outOfSight/avikan/default/0","value":
+"Я потерял цель!"
+},{"op":"replace","path":"/outOfSight/avikan/default/1","value":
+"Куда он делся?"
+},{"op":"replace","path":"/outOfSight/avikan/default/2","value":
+"Рейдис снова найдет вас."
+},{"op":"replace","path":"/outOfSight/avikan/default/3","value":
+"Кто-нибудь следит за целью?"
+},{"op":"replace","path":"/outOfSight/avikan/default/4","value":
+"Они неуловимы..."
+},{"op":"replace","path":"/cantReach/avikan/default/0","value":
+"Вернись, трус!"
+},{"op":"replace","path":"/cantReach/avikan/default/1","value":
+"Ватра! Я не могу туда попасть!"
+},{"op":"replace","path":"/cantReach/avikan/default/2","value":
+"Радейс приведет меня к вам."
+},{"op":"replace","path":"/cantReach/avikan/default/3","value":
+"Сможет ли кто-нибудь достичь цели?"
+},{"op":"replace","path":"/cantReach/avikan/default/4","value":
+"Я не могу достичь цели!"
+},{"op":"replace","path":"/cheerOn/avikan/default/0","value":
+"Взять их!"
+},{"op":"replace","path":"/cheerOn/avikan/default/1","value":
+"Мы почти у цели!"
+},{"op":"replace","path":"/cheerOn/avikan/default/2","value":
+"Сражайтесь! Мы не можем потерять их сейчас!"
+},{"op":"replace","path":"/cheerOn/avikan/default/3","value":
+"Рейдис, уничтожь их!"
+},{"op":"replace","path":"/cheerOn/avikan/default/4","value":
+"Твоя голова будет моей!"
+},{"op":"replace","path":"/reattack/trink/default/0","value":
+"Цель захвачена!"
+},{"op":"replace","path":"/reattack/trink/default/1","value":
+"Цель снова захвачена!"
+},{"op":"replace","path":"/reattack/trink/default/2","value":
+"Ваше возвращение было ошибкой."
+},{"op":"replace","path":"/reattack/trink/default/3","value":
+"Вам больше не удастся сбежать!"
+},{"op":"replace","path":"/reattack/trink/default/4","value":
+"Схема будет охотиться за вами!"
+},{"op":"replace","path":"/attack/trink/default/0","value":
+"Уничтожьте захватчиков!"
+},{"op":"replace","path":"/attack/trink/default/1","value":
+"Обнаружен враг!"
+},{"op":"replace","path":"/attack/trink/default/2","value":
+"Схема будет охотиться за вами!"
+},{"op":"replace","path":"/attack/trink/default/3","value":
+"Ваше путешествие подошло к концу!"
+},{"op":"replace","path":"/attack/trink/default/4","value":
+"Протокол ликвидации запущен!"
+},{"op":"replace","path":"/killedTarget/trink/default/0","value":
+"Уровень угрозы вернулся к норме."
+},{"op":"replace","path":"/killedTarget/trink/default/1","value":
+"Схема победоносна."
+},{"op":"replace","path":"/killedTarget/trink/default/2","value":
+"Эффективность всегда побеждает."
+},{"op":"replace","path":"/killedTarget/trink/default/3","value":
+"Цель устранена."
+},{"op":"replace","path":"/killedTarget/trink/default/4","value":
+"Выход из боевой стойки."
+},{"op":"replace","path":"/lostTarget/trink/default/0","value":
+"Цель сбежала."
+},{"op":"replace","path":"/lostTarget/trink/default/1","value":
+"Цель покинула зону."
+},{"op":"replace","path":"/lostTarget/trink/default/2","value":
+"Боевой эпизод завершен. Цель потеряна."
+},{"op":"replace","path":"/lostTarget/trink/default/3","value":
+"Ошибка. Цель не найдена."
+},{"op":"replace","path":"/lostTarget/trink/default/4","value":
+"Враг сбежал."
+},{"op":"replace","path":"/outOfSight/trink/default/0","value":
+"Я потерял цель из виду!"
+},{"op":"replace","path":"/outOfSight/trink/default/1","value":
+"Ошибка. Цель вне поля зрения."
+},{"op":"replace","path":"/outOfSight/trink/default/2","value":
+"Контур найдет тебя снова..."
+},{"op":"replace","path":"/outOfSight/trink/default/3","value":
+"Мои сканеры не обнаружили цель."
+},{"op":"replace","path":"/outOfSight/trink/default/4","value":
+"Цель ускользает."
+},{"op":"replace","path":"/cantReach/trink/default/0","value":
+"Не могу достичь цель!"
+},{"op":"replace","path":"/cantReach/trink/default/1","value":
+"Не могу достичь цель!"
+},{"op":"replace","path":"/cantReach/trink/default/2","value":
+"Враг вне досягаемости."
+},{"op":"replace","path":"/cantReach/trink/default/3","value":
+"Не дайте им уйти!"
+},{"op":"replace","path":"/cantReach/trink/default/4","value":
+"Я не могу достичь цель!"
+},{"op":"replace","path":"/cheerOn/trink/default/0","value":
+"Цель будет скоро устранена."
+},{"op":"replace","path":"/cheerOn/trink/default/1","value":
+"Контур будет победителем."
+},{"op":"replace","path":"/cheerOn/trink/default/2","value":
+"Цель скоро падет!"
+},{"op":"replace","path":"/cheerOn/trink/default/3","value":
+"Держите их!"
+},{"op":"replace","path":"/cheerOn/trink/default/4","value":
+"Тебе конец!"
+},{"op":"replace","path":"/reattack/droden/default/0","value":
+"Цель восстановлена."
+},{"op":"replace","path":"/reattack/droden/default/1","value":
+"Цель обнаружена. Начинаю атаку."
+},{"op":"replace","path":"/reattack/droden/default/2","value":
+"Принимаю боевую позицию."
+},{"op":"replace","path":"/reattack/droden/default/3","value":
+"Подготовка к устранению цели."
+},{"op":"replace","path":"/reattack/droden/default/4","value":
+"Цель обнаружена. Боевые модули загружены."
+},{"op":"replace","path":"/attack/droden/default/0","value":
+"Цель для боя обнаружена."
+},{"op":"replace","path":"/attack/droden/default/1","value":
+"Боевые модули активированы. Начинаю атаку."
+},{"op":"replace","path":"/attack/droden/default/2","value":
+"Процесс устранения цели."
+},{"op":"replace","path":"/attack/droden/default/3","value":
+"Цель обнаружена. Устраняю."
+},{"op":"replace","path":"/attack/droden/default/4","value":
+"Начинаю бой."
+},{"op":"replace","path":"/killedTarget/droden/default/0","value":
+"Цель устранена."
+},{"op":"replace","path":"/killedTarget/droden/default/1","value":
+"Бой завершен."
+},{"op":"replace","path":"/killedTarget/droden/default/2","value":
+"Выключение боевых модулей."
+},{"op":"replace","path":"/killedTarget/droden/default/3","value":
+"Победа достигнута."
+},{"op":"replace","path":"/killedTarget/droden/default/4","value":
+"Устранение завершено."
+},{"op":"replace","path":"/lostTarget/droden/default/0","value":
+"Цель сбежала. Завершаю боевой режим."
+},{"op":"replace","path":"/lostTarget/droden/default/1","value":
+"Цель потеряна."
+},{"op":"replace","path":"/lostTarget/droden/default/2","value":
+"Устранение не завершено. Цель потеряна."
+},{"op":"replace","path":"/lostTarget/droden/default/3","value":
+"Завершение боевых процедур. Цель потеряна."
+},{"op":"replace","path":"/lostTarget/droden/default/4","value":
+"Цель сбежала."
+},{"op":"replace","path":"/outOfSight/droden/default/0","value":
+"Потеря визуального контакта. Поиск."
+},{"op":"replace","path":"/outOfSight/droden/default/1","value":
+"Цель потеряна. Перехват."
+},{"op":"replace","path":"/outOfSight/droden/default/2","value":
+"Потеря цели подтверждена."
+},{"op":"replace","path":"/outOfSight/droden/default/3","value":
+"Невозможно обнаружить цель."
+},{"op":"replace","path":"/outOfSight/droden/default/4","value":
+"Цель потеряна."
+},{"op":"replace","path":"/cantReach/droden/default/0","value":
+"Не могу достичь цель."
+},{"op":"replace","path":"/cantReach/droden/default/1","value":
+"Бой остановлен. Не могу достичь цель."
+},{"op":"replace","path":"/cantReach/droden/default/2","value":
+"Запрашиваю помощь. Не могу достичь цель."
+},{"op":"replace","path":"/cantReach/droden/default/3","value":
+"Не могу достичь цель. Пересчитываю маршрут."
+},{"op":"replace","path":"/cantReach/droden/default/4","value":
+"Не могу достичь цель. Устранение не завершено."
+},{"op":"replace","path":"/cheerOn/droden/default/0","value":
+"Устранить цель."
+},{"op":"replace","path":"/cheerOn/droden/default/1","value":
+"Цель ранена. Устранить."
+},{"op":"replace","path":"/cheerOn/droden/default/2","value":
+"Принимаем боевые позиции."
+},{"op":"replace","path":"/cheerOn/droden/default/3","value":
+"Принимаю боевую позицию."
+},{"op":"replace","path":"/cheerOn/droden/default/4","value":
+"Устранение цели на завершающей стадии."
+},{"op":"replace","path":"/reattack/thelean/default/0","value":
+"Цель восстановлена."
+},{"op":"replace","path":"/reattack/thelean/default/1","value":
+"Цель захвачена."
+},{"op":"replace","path":"/reattack/thelean/default/2","value":
+"Устраняю цель."
+},{"op":"replace","path":"/reattack/thelean/default/3","value":
+"Твой конец близок."
+},{"op":"replace","path":"/reattack/thelean/default/4","value":
+"Ты сделал ошибку, показавшись снова."
+},{"op":"replace","path":"/attack/thelean/default/0","value":
+"Цель обнаружена."
+},{"op":"replace","path":"/attack/thelean/default/1","value":
+"Еретик найден. Начинаю устранение."
+},{"op":"replace","path":"/attack/thelean/default/2","value":
+"Ты сделал ошибку."
+},{"op":"replace","path":"/attack/thelean/default/3","value":
+"Еще один трофей для моей коллекции."
+},{"op":"replace","path":"/attack/thelean/default/4","value":
+"Ты пожалеешь, что пришел сюда."
+},{"op":"replace","path":"/killedTarget/thelean/default/0","value":
+"Цель устранена."
+},{"op":"replace","path":"/killedTarget/thelean/default/1","value":
+"Победа, как и ожидалось."
+},{"op":"replace","path":"/killedTarget/thelean/default/2","value":
+"Смерть взяла свою добычу."
+},{"op":"replace","path":"/killedTarget/thelean/default/3","value":
+"Нет пощады для слабых."
+},{"op":"replace","path":"/killedTarget/thelean/default/4","value":
+"Это была не битва."
+},{"op":"replace","path":"/lostTarget/thelean/default/0","value":
+"Цель потеряна."
+},{"op":"replace","path":"/lostTarget/thelean/default/1","value":
+"Смерть найдет тебя рано или поздно."
+},{"op":"replace","path":"/lostTarget/thelean/default/2","value":
+"Цель сбежала."
+},{"op":"replace","path":"/lostTarget/thelean/default/3","value":
+"Мы скоро снова найдем цель."
+},{"op":"replace","path":"/lostTarget/thelean/default/4","value":
+"В следующий раз ты не уйдешь."
+},{"op":"replace","path":"/outOfSight/thelean/default/0","value":
+"Цель прячется. Найдите их!"
+},{"op":"replace","path":"/outOfSight/thelean/default/1","value":
+"Потеря цели."
+},{"op":"replace","path":"/outOfSight/thelean/default/2","value":
+"Сканируйте зону. Мы должны найти цель."
+},{"op":"replace","path":"/outOfSight/thelean/default/3","value":
+"Запрашиваю локальное сканирование. Цель потеряла линию видимости."
+},{"op":"replace","path":"/outOfSight/thelean/default/4","value":
+"Цель потеряна. Найдите их!"
+},{"op":"replace","path":"/cantReach/thelean/default/0","value":
+"Оценка ситуации. Сканирование альтернативных маршрутов."
+},{"op":"replace","path":"/cantReach/thelean/default/1","value":
+"Вернись сюда и встреть смерть!"
+},{"op":"replace","path":"/cantReach/thelean/default/2","value":
+"Беги, слабак!"
+},{"op":"replace","path":"/cantReach/thelean/default/3","value":
+"Цель вне досягаемости."
+},{"op":"replace","path":"/cantReach/thelean/default/4","value":
+"Найдите путь к цели!"
+},{"op":"replace","path":"/cheerOn/thelean/default/0","value":
+"Устранить эту цель."
+},{"op":"replace","path":"/cheerOn/thelean/default/1","value":
+"Запрашиваю помощь. Уничтожьте их."
+},{"op":"replace","path":"/cheerOn/thelean/default/2","value":
+"Теперь тебе конец."
+},{"op":"replace","path":"/cheerOn/thelean/default/3","value":
+"Некуда прятаться."
+},{"op":"replace","path":"/cheerOn/thelean/default/4","value":
+"Уничтожьте их!"
+},{"op":"replace","path":"/reattack/aegi/default/0","value":
+"Я нашел цель!"
+},{"op":"replace","path":"/reattack/aegi/default/1","value":
+"Вижу цель!"
+},{"op":"replace","path":"/reattack/aegi/default/2","value":
+"Цель в поле зрения!"
+},{"op":"replace","path":"/reattack/aegi/default/3","value":
+"Я имею четкий выстрел!"
+},{"op":"replace","path":"/reattack/aegi/default/4","value":
+"Атакую цель!"
+},{"op":"replace","path":"/attack/aegi/default/0","value":
+"Победить врага!"
+},{"op":"replace","path":"/attack/aegi/default/1","value":
+"Не на моих глазах!"
+},{"op":"replace","path":"/attack/aegi/default/2","value":
+"Цель захвачена!"
+},{"op":"replace","path":"/attack/aegi/default/3","value":
+"Ты облажался!"
+},{"op":"replace","path":"/attack/aegi/default/4","value":
+"Ты пожалеешь об этом!"
+},{"op":"replace","path":"/killedTarget/aegi/default/0","value":
+"Цель устранена."
+},{"op":"replace","path":"/killedTarget/aegi/default/1","value":
+"Цель нейтрализована!"
+},{"op":"replace","path":"/killedTarget/aegi/default/2","value":
+"Победа!"
+},{"op":"replace","path":"/killedTarget/aegi/default/3","value":
+"Кажется, это был последний."
+},{"op":"replace","path":"/killedTarget/aegi/default/4","value":
+"Снова справился с задачей."
+},{"op":"replace","path":"/lostTarget/aegi/default/0","value":
+"Цель потеряна!"
+},{"op":"replace","path":"/lostTarget/aegi/default/1","value":
+"Кажется, они сбежали..."
+},{"op":"replace","path":"/lostTarget/aegi/default/2","value":
+"Цель ускользнула."
+},{"op":"replace","path":"/lostTarget/aegi/default/3","value":
+"В следующий раз буду внимательнее..."
+},{"op":"replace","path":"/lostTarget/aegi/default/4","value":
+"Враг ускользнул."
+},{"op":"replace","path":"/outOfSight/aegi/default/0","value":
+"Я потерял цель!"
+},{"op":"replace","path":"/outOfSight/aegi/default/1","value":
+"Цель вне поля зрения!"
+},{"op":"replace","path":"/outOfSight/aegi/default/2","value":
+"Прочешите зону!"
+},{"op":"replace","path":"/outOfSight/aegi/default/3","value":
+"Не дайте им уйти!"
+},{"op":"replace","path":"/outOfSight/aegi/default/4","value":
+"Не вижу цель!"
+},{"op":"replace","path":"/cantReach/aegi/default/0","value":
+"Не могу туда добраться!"
+},{"op":"replace","path":"/cantReach/aegi/default/1","value":
+"Цель вне зоны досягаемости!"
+},{"op":"replace","path":"/cantReach/aegi/default/2","value":
+"Не могу достичь цель!"
+},{"op":"replace","path":"/cantReach/aegi/default/3","value":
+"Кто-нибудь может достичь цель?"
+},{"op":"replace","path":"/cantReach/aegi/default/4","value":
+"Мне нужно найти другой путь!"
+},{"op":"replace","path":"/cheerOn/aegi/default/0","value":
+"Держите их!"
+},{"op":"replace","path":"/cheerOn/aegi/default/1","value":
+"Не сдавайтесь!"
+},{"op":"replace","path":"/cheerOn/aegi/default/2","value":
+"Продвигайтесь вперед!"
+},{"op":"replace","path":"/cheerOn/aegi/default/3","value":
+"Готовьтесь к финальному удару!"
+},{"op":"replace","path":"/cheerOn/aegi/default/4","value":
+"Еще немного!"
+},{"op":"replace","path":"/reattack/akkimari/default/0","value":
+"<selfname> нашел тебя!"
+},{"op":"replace","path":"/reattack/akkimari/default/1","value":
+"Ты мертв! <selfname> убьет тебя!"
+},{"op":"replace","path":"/reattack/akkimari/default/2","value":
+"Мертв! Ты закончился!"
+},{"op":"replace","path":"/reattack/akkimari/default/3","value":
+"<selfname> нашел тебя снова. <selfname> всегда найдет тебя снова!"
+},{"op":"replace","path":"/reattack/akkimari/default/4","value":
+"Ты мертв!"
+},{"op":"replace","path":"/attack/akkimari/default/0","value":
+"Убить, убить, убить!"
+},{"op":"replace","path":"/attack/akkimari/default/1","value":
+"Мертв! Ты закончился!"
+},{"op":"replace","path":"/attack/akkimari/default/2","value":
+"<selfname> собирается съесть тебя!"
+},{"op":"replace","path":"/attack/akkimari/default/3","value":
+"Ты принадлежишь <selfname> теперь!"
+},{"op":"replace","path":"/attack/akkimari/default/4","value":
+"<selfname> будет есть!"
+},{"op":"replace","path":"/killedTarget/akkimari/default/0","value":
+"<selfname> будет пировать на тебе!"
+},{"op":"replace","path":"/killedTarget/akkimari/default/1","value":
+"<selfname> победил!"
+},{"op":"replace","path":"/killedTarget/akkimari/default/2","value":
+"Ты мертв! Ха-ха-ха!"
+},{"op":"replace","path":"/killedTarget/akkimari/default/3","value":
+"Больше нет боя. <selfname> скучно."
+},{"op":"replace","path":"/killedTarget/akkimari/default/4","value":
+"<selfname> надеется снова скоро сразиться..."
+},{"op":"replace","path":"/lostTarget/akkimari/default/0","value":
+"<selfname> зол! Еда сбежала!"
+},{"op":"replace","path":"/lostTarget/akkimari/default/1","value":
+"Нет! Ты не убежишь, ты будешь драться!"
+},{"op":"replace","path":"/lostTarget/akkimari/default/2","value":
+"Ты слаб! <selfname> хочет хорошего боя."
+},{"op":"replace","path":"/lostTarget/akkimari/default/3","value":
+"Еда сбежала. <selfname> зол..."
+},{"op":"replace","path":"/lostTarget/akkimari/default/4","value":
+"Гах! Бой не закончился хорошо."
+},{"op":"replace","path":"/outOfSight/akkimari/default/0","value":
+"Вернись! Ты будешь драться с <selfname> сейчас!"
+},{"op":"replace","path":"/outOfSight/akkimari/default/1","value":
+"Не убегай! Ты будешь драться!"
+},{"op":"replace","path":"/outOfSight/akkimari/default/2","value":
+"<selfname> найдет тебя снова!"
+},{"op":"replace","path":"/outOfSight/akkimari/default/3","value":
+"Ты бежишь! <selfname> будет преследовать тебя!"
+},{"op":"replace","path":"/outOfSight/akkimari/default/4","value":
+"Еда пытается убежать. Вернись!"
+},{"op":"replace","path":"/cantReach/akkimari/default/0","value":
+"Нет! Нет, нет, нет!"
+},{"op":"replace","path":"/cantReach/akkimari/default/1","value":
+"Спускайся сюда! <selfname> хочет драться!"
+},{"op":"replace","path":"/cantReach/akkimari/default/2","value":
+"<selfname> не может туда добраться!"
+},{"op":"replace","path":"/cantReach/akkimari/default/3","value":
+"<selfname> найдет путь туда. <selfname> убьет тебя потом!"
+},{"op":"replace","path":"/cantReach/akkimari/default/4","value":
+"Глупец! Вернись и дерись!"
+},{"op":"replace","path":"/cheerOn/akkimari/default/0","value":
+"<selfname> будет пировать с друзьями сейчас!"
+},{"op":"replace","path":"/cheerOn/akkimari/default/1","value":
+"Аккимари сильнее всех!"
+},{"op":"replace","path":"/cheerOn/akkimari/default/2","value":
+"Аккимари убьет тебя сейчас!"
+},{"op":"replace","path":"/cheerOn/akkimari/default/3","value":
+"Награда для Аккимари!"
+},{"op":"replace","path":"/cheerOn/akkimari/default/4","value":
+"Мертв! Ты мертв!"
+}]

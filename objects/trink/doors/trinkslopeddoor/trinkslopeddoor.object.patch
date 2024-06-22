@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Наклонная дверь Тринкиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная наклонная металлическая дверь дизайна Trinkian.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная наклонная металлическая дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая наклонная дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Наклонная металлическая дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Классная наклонная дверь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая наклонная металлическая дверь. Эффективен для защиты от ненужных вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивая наклонная дверь из прочного металла. Здесь ничего не проходит.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наклонная дверь дизайна Trinkian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наклонная металлическая дверь, построенная машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный способ изолировать весь отсек.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Анализ: Наклонная модель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-покосившаяся, скользкая-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Наклонная дверь Тринкиан"
+},{"op":"replace","path":"/description","value":
+"Прочная наклонная металлическая дверь дизайна тринков."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная наклонная металлическая дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая наклонная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Наклонная металлическая дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Классная наклонная дверь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Тяжелая наклонная металлическая дверь. Эффективен для защиты от ненужных вещей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Красивая наклонная дверь из прочного металла. Здесь ничего не проходит."
+},{"op":"replace","path":"/aegiDescription","value":
+"Наклонная дверь дизайна тринков."
+},{"op":"replace","path":"/avikanDescription","value":
+"Наклонная металлическая дверь, построенная машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективный способ изолировать весь отсек."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Анализ: Наклонная модель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-покосившаяся, скользкая-очень."
+}]

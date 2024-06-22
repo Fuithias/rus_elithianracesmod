@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Капитанское Кресло",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан сидит здесь и управляет кораблем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Портал к свободе. Это кресло капитана обеспечивает доступ к навигационной консоли корабля.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло капитана дает власть над крыльями корабля.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пахнет инопланетной задницей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ожидание. Куда корабль пойдет дальше?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еще одно капитанское кресло? Я чувствую небольшой соблазн попытаться угнать его...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Капитанское кресло. Это ворота ко многим приключениям.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Капитанское кресло. Тот, кто здесь сидит, сам решает, куда направится этот корабль.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло капитана предоставляет доступ к навигационной консоли.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло капитана – сидеть на нем – настоящая честь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом капитанском кресле есть специализированные датчики, позволяющие пользоваться навигатором только его владельцу.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено капитанское кресло. Предоставляет доступ к навигационной консоли.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло-капитан. Связано с консольной навигацией.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Капитанское Кресло"
+},{"op":"replace","path":"/description","value":
+"Капитан сидит здесь и управляет кораблем."
+},{"op":"replace","path":"/apexDescription","value":
+"Портал к свободе. Это кресло капитана обеспечивает доступ к навигационной консоли корабля."
+},{"op":"replace","path":"/avianDescription","value":
+"Кресло капитана даёт власть над крыльями корабля."
+},{"op":"replace","path":"/floranDescription","value":
+"Пахнет инопланетной задницей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Ожидание. Куда корабль пойдет дальше?"
+},{"op":"replace","path":"/humanDescription","value":
+"Еще одно капитанское кресло? Я чувствую небольшой соблазн попытаться угнать его..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Капитанское кресло. Это ворота ко многим приключениям."
+},{"op":"replace","path":"/novakidDescription","value":
+"Капитанское кресло. Тот, кто здесь сидит, сам решает, куда направится этот корабль."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кресло капитана предоставляет доступ к навигационной консоли."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кресло капитана – сидеть на нем – настоящая честь."
+},{"op":"replace","path":"/trinkDescription","value":
+"В этом капитанском кресле есть специализированные датчики, позволяющие пользоваться навигатором только его владельцу."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено капитанское кресло. Предоставляет доступ к навигационной консоли."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кресло-капитан. Связано с консольной навигацией."
+}]

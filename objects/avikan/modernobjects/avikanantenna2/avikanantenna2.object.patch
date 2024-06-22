@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Антенна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна для отправки и получения радиосообщений.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Высокая антенна, она должна иметь очень большую дальность действия.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна, украшенная кожаным полотном. Странный.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая антенна хороша для хорошего копья...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Встревожен. Это устройство вызывает сбои в моей системе связи.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинная антенна. Для чего нужен этот кожаный лист?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такая антенна не будет работать под водой.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая антенна. Интересно, для чего нужен кожаный лист?",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подобные антенны позволяют нашим колониям связываться с флотом.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта антенна глушит мои собственные радиопередатчики.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прием радиосигнала. Анализируем.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна мощная, принимает сигналы.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Антенна"
+},{"op":"replace","path":"/description","value":
+"Антенна для отправки и получения радиосообщений."
+},{"op":"replace","path":"/apexDescription","value":
+"Высокая антенна, она должна иметь очень большую дальность действия."
+},{"op":"replace","path":"/avianDescription","value":
+"Антенна, украшенная кожаным полотном. Странный."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлическая антенна хороша для хорошего копья..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Встревожен. Это устройство вызывает сбои в моей системе связи."
+},{"op":"replace","path":"/humanDescription","value":
+"Длинная антенна. Для чего нужен этот кожаный лист?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такая антенна не будет работать под водой."
+},{"op":"replace","path":"/aegiDescription","value":
+"Большая антенна. Интересно, для чего нужен кожаный лист?"
+},{"op":"replace","path":"/avikanDescription","value":
+"Подобные антенны позволяют нашим колониям связываться с флотом."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта антенна глушит мои собственные радиопередатчики."
+},{"op":"replace","path":"/drodenDescription","value":
+"Прием радиосигнала. Анализируем."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Антенна мощная, принимает сигналы."
+}]

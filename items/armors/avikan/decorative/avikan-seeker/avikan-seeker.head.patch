@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Любопытно оформленный шлем, который носят авиканские искатели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем искателя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Любопытно оформленный шлем, который носят авиканские искатели."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем искателя"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "ПЛЫТЬ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Решетка искусственного интеллекта корабельного базирования, или сокращенно ПАРУС.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу общаться с SAIL через эту консоль.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу использовать эту станцию, чтобы поговорить с SAIL.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран использует эту волшебную панель, чтобы поговорить с ПАРУСОМ!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Счастливый. Эта станция позволяет мне разговаривать с SAIL.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция позволяет мне общаться с SAIL.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта консоль позволяет мне общаться с SAIL.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот эта станция, позволь мне поговорить с ПАРУСОМ.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель позволяет взаимодействовать с SAIL, корабельным ИИ.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Nomada выступает против использования ИИ на любом корабле.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу разговаривать с SAIL с помощью этой консоли. Хорошо иметь на корабле еще один ИИ.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен интерфейс SAIL. Консоль обеспечивает связь с SAIL.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки поговорит с ПАРУСОМ. ПАРУСЬ как Юстикар, ИИ-хорошо.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"ПЛЫТЬ"
+},{"op":"replace","path":"/description","value":
+"Решетка искусственного интеллекта корабельного базирования, или сокращенно ПАРУС."
+},{"op":"replace","path":"/apexDescription","value":
+"Я могу общаться с SAIL через эту консоль."
+},{"op":"replace","path":"/avianDescription","value":
+"Я могу использовать эту станцию, чтобы поговорить с SAIL."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран использует эту волшебную панель, чтобы поговорить с ПАРУСОМ!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Счастливый. Эта станция позволяет мне разговаривать с SAIL."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта станция позволяет мне общаться с SAIL."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта консоль позволяет мне общаться с SAIL."
+},{"op":"replace","path":"/novakidDescription","value":
+"Вот эта станция, позволь мне поговорить с ПАРУСОМ."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта панель позволяет взаимодействовать с SAIL, корабельным ИИ."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номада выступает против использования ИИ на любом корабле."
+},{"op":"replace","path":"/trinkDescription","value":
+"Я могу разговаривать с SAIL с помощью этой консоли. Хорошо иметь на корабле еще один ИИ."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен интерфейс SAIL. Консоль обеспечивает связь с SAIL."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки поговорит с ПАРУСОМ. ПАРУСЬ как Юстикар, ИИ-хорошо."
+}]

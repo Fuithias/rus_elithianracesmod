@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Невероятно редкая кость, собранная с помощью специальных инструментов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Большая кость монстра^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Невероятно редкая кость, собранная с помощью специальных инструментов."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Большая кость монстра^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

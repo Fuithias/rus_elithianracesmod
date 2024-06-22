@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Контейнер, полный летучего Вааша, взятый из обломков юстикара.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Контейнер Вааша^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Контейнер, полный летучего Вааша, взятый из обломков юстикара."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Контейнер Вааша^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

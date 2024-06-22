@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Оружие аккимари, стреляющее болтами с вааш, ищущими цель.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рашакр^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Навигатор Акриса НИП",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навигатор",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Оружие аккимари, стреляющее болтами с вааш, ищущими цель.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рашакр^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Навигатор Акриса НИП"
+},{"op":"replace","path":"/category","value":
+"Навигатор"
+}]

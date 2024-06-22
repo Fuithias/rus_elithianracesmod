@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Упакованный подарок, содержащий что-то особенное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Особый подарок^reset;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Упакованный подарок, содержащий что-то особенное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Особый подарок^reset;"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мощный и компактный процессор, обеспечивающий невероятную вычислительную мощность.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Омникор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мощный и компактный процессор, обеспечивающий невероятную вычислительную мощность."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Омникор"
+}]

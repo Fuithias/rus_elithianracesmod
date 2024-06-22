@@ -1,312 +1,125 @@
-[
-  {
-    "value": "^orange;Планировочный стол^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый верстак с чертежами, с которых можно начать.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный верстак и несколько основных инструментов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Использование древесины в ремеслах часто бывает крайне неэффективным.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Деревянный стол для планирования.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует чертеж. Создавать вещи-инопланетяне.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Планировочный стол^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый верстак с чертежами, с которых можно начать.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный верстак и несколько основных инструментов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Использование древесины в ремеслах часто бывает крайне неэффективным.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Деревянный стол для планирования.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует чертеж. Создавать вещи-инопланетяне.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " Планировочный стол",
-    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Специально для орудий труда",
-    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Стол дизайнера^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак и чертежи для современного дизайнера.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, эти чертежи могут быть использованы восставшими.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу показать свое мастерство.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол дизайнера с инструментами и чертежами.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетные инструменты и чертежи. Что здесь создают?",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тонкий и легкий стол для планирования. Довольно эффективно.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Легкий рабочий стол.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для творчества, чертежи идей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " Стол дизайнера",
-    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Специально для орудий труда",
-    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Стол искусника^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современное рабочее место с доступом к передовым чертежам.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, смогу ли я скачать эти чертежи восстания?",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом экране я могу отображать различные чертежи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Доска света рассказывает Флорану, как делать вещи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Эта выставка полна интересных чертежей.",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современное рабочее место.",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом экране показаны всевозможные чертежи и тому подобное.",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта рабочая станция идеально подходит для опытных мастеров.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран с чертежами некоторых инопланетных устройств.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта рабочая станция довольно эффективно использует электроэнергию.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Легкий рабочий стол.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран-навороченный, чертежи покажи-инопланетянин.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": " Стол искусника",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Специально для орудий труда",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Планировочный стол^white;"
+},{"op":"replace","path":"/description","value":
+"Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций."
+},{"op":"replace","path":"/apexDescription","value":
+"Базовый верстак с чертежами, с которых можно начать."
+},{"op":"replace","path":"/avianDescription","value":
+"Деревянный верстак и несколько основных инструментов."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создавать все новые верстак."
+},{"op":"replace","path":"/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев."
+},{"op":"replace","path":"/trinkDescription","value":
+"Использование древесины в ремеслах часто бывает крайне неэффективным."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Деревянный стол для планирования."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки использует чертеж. Создавать вещи-инопланетяне."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Планировочный стол^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Деревянный верстак с местом для чертежей, идеально подходящий для планирования новых конструкций."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Базовый верстак с чертежами, с которых можно начать."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Деревянный верстак и несколько основных инструментов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создавать все новые верстак."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Базовый стол для планирования, в котором есть все инструменты, необходимые для начала работы."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Деревянный рабочий стол. Кажется, это пустая трата хороших деревьев."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Использование древесины в ремеслах часто бывает крайне неэффективным."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Деревянный стол для планирования."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки использует чертеж. Создавать вещи-инопланетяне."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Планировочный стол"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Стол дизайнера^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Верстак и чертежи для современного дизайнера."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Возможно, эти чертежи могут быть использованы восставшими."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Здесь я могу показать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создавать все новые верстак."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Стол дизайнера с инструментами и чертежами."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Инопланетные инструменты и чертежи. Что здесь создают?"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Тонкий и легкий стол для планирования. Довольно эффективно."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Легкий рабочий стол."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Инструменты для творчества, чертежи идей."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Стол дизайнера"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange;Стол искусника^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Современное рабочее место с доступом к передовым чертежам."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"Интересно, смогу ли я скачать эти чертежи восстания?"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"На этом экране я могу отображать различные чертежи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Доска света рассказывает Флорану, как делать вещи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Эта выставка полна интересных чертежей."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Современное рабочее место."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"На этом экране показаны всевозможные чертежи и тому подобное."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"Эта рабочая станция идеально подходит для опытных мастеров."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"Экран с чертежами некоторых инопланетных устройств."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Эта рабочая станция довольно эффективно использует электроэнергию."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Легкий рабочий стол."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Экран-навороченный, чертежи покажи-инопланетянин."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Стол искусника"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
+}]

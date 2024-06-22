@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Трио хорошо сбалансированных метательных ножей.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Самодельные метательные ножи",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Трио хорошо сбалансированных метательных ножей.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Самодельные метательные ножи"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

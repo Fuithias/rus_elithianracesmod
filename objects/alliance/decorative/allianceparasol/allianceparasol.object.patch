@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Зонтик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный зонтик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Просто зонтик.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зонтик.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парасссоль.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С облегчением. Этот зонтик создаст прохладную тень.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это зонтик, хорошо.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зонтик. Он может обеспечить столь необходимый комфорт в жаркий солнечный день.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дает немного тени.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивый и простой зонтик.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный солнечный лист.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зонтик. Простой, но эффективный способ создать тень.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный солнечный лист.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Укрытие от солнечных ожогов.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Зонтик"
+},{"op":"replace","path":"/description","value":
+"Красочный зонтик."
+},{"op":"replace","path":"/apexDescription","value":
+"Просто зонтик."
+},{"op":"replace","path":"/avianDescription","value":
+"Зонтик."
+},{"op":"replace","path":"/floranDescription","value":
+"Парасссоль."
+},{"op":"replace","path":"/glitchDescription","value":
+"С облегчением. Этот зонтик создаст прохладную тень."
+},{"op":"replace","path":"/humanDescription","value":
+"Это зонтик, хорошо."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Зонтик. Он может обеспечить столь необходимый комфорт в жаркий солнечный день."
+},{"op":"replace","path":"/novakidDescription","value":
+"Дает немного тени."
+},{"op":"replace","path":"/aegiDescription","value":
+"Красивый и простой зонтик."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный солнечный лист."
+},{"op":"replace","path":"/trinkDescription","value":
+"Зонтик. Простой, но эффективный способ создать тень."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный солнечный лист."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Укрытие от солнечных ожогов."
+}]

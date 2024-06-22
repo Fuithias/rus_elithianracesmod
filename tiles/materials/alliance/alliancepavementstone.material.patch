@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плитки тротуара Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каменные плитки, используемые как тротуар.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Каменные плитки.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран нравится ощущение камня под ногами.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто каменные плитки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каменный тротуар.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камень хорошо ощущается под ногами-акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плитки тротуара Альянса"
+},{"op":"replace","path":"/description","value":
+"Каменные плитки, используемые как тротуар."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Каменные плитки."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран нравится ощущение камня под ногами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто каменные плитки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Каменный тротуар."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Камень хорошо ощущается под ногами-акки."
+}]

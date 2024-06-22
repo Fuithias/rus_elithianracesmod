@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Тринкиан Подвесные провода",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча болтающихся проводов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Просто несколько свободно свисающих проводов",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча проводов. Выглядит грязно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не трогай провода. Флоран умён.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Свободно свисающие электрические провода.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лучше не подходить слишком близко к этим проводам. Я не хочу, чтобы меня избили.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Беспорядочная куча проводов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто куча проводов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свободно свисающие провода. Кто-то должен их исправить.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авангард может захотеть, чтобы я повредил эти провода.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно привести в порядок эти провода. Держать их рядом не очень эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружена чужая проводка. Рекомендую диверсию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, не трогай провода.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкиан Подвесные провода"
+},{"op":"replace","path":"/description","value":
+"Куча болтающихся проводов."
+},{"op":"replace","path":"/apexDescription","value":
+"Просто несколько свободно свисающих проводов"
+},{"op":"replace","path":"/avianDescription","value":
+"Куча проводов. Выглядит грязно."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не трогай провода. Флоран умён."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Свободно свисающие электрические провода."
+},{"op":"replace","path":"/humanDescription","value":
+"Лучше не подходить слишком близко к этим проводам. Я не хочу, чтобы меня избили."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Беспорядочная куча проводов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто куча проводов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Свободно свисающие провода. Кто-то должен их исправить."
+},{"op":"replace","path":"/avikanDescription","value":
+"Авангард может захотеть, чтобы я повредил эти провода."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мне нужно привести в порядок эти провода. Держать их рядом не очень эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружена чужая проводка. Рекомендую диверсию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки, не трогай провода."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Сетчатая поддержка Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкие структурные опорные балки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Вероятно это структурная опорная балка.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Колонны для поддержки легких вещей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то легкая опорная структура.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Структурная опорная балка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поддержка-прочная, акки строит на ней.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сетчатая поддержка Альянса"
+},{"op":"replace","path":"/description","value":
+"Легкие структурные опорные балки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Вероятно это структурная опорная балка."
+},{"op":"replace","path":"/floranDescription","value":
+"Колонны для поддержки легких вещей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то легкая опорная структура."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Структурная опорная балка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Поддержка-прочная, акки строит на ней."
+}]

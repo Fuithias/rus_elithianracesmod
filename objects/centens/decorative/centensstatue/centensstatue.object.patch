@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Статуя Се'теннан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, изображающая центенсиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя инопланетянина. Не могу сказать, что знаю этот вид.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что за существо здесь изображено?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сс блестящая статуя...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Из какого металла сделана эта статуя?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красиво сделанная статуя — я мог бы использовать что-то подобное в качестве украшения дома!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такое мастерство! Должно быть, на создание этой статуи ушли годы!",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что же это за существо тогда может быть?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центены были искусными мастерами, и одна эта статуя является тому подтверждением.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старик, увековеченный в статуе Гивериума. Оно никогда не развалится.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуи Центенсов никогда не разрушатся – в этом уверен Гивериум.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ статуи. Обнаружено центенское мастерство.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя бога-творца, очень-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Статуя Се'теннан"
+},{"op":"replace","path":"/description","value":
+"Статуя, изображающая центенсиана."
+},{"op":"replace","path":"/apexDescription","value":
+"Статуя инопланетянина. Не могу сказать, что знаю этот вид."
+},{"op":"replace","path":"/avianDescription","value":
+"Что за существо здесь изображено?"
+},{"op":"replace","path":"/floranDescription","value":
+"Сс блестящая статуя..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Из какого металла сделана эта статуя?"
+},{"op":"replace","path":"/humanDescription","value":
+"Красиво сделанная статуя — я мог бы использовать что-то подобное в качестве украшения дома!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такое мастерство! Должно быть, на создание этой статуи ушли годы!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Что же это за существо тогда может быть?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Центены были искусными мастерами, и одна эта статуя является тому подтверждением."
+},{"op":"replace","path":"/avikanDescription","value":
+"Старик, увековеченный в статуе Гивериума. Оно никогда не развалится."
+},{"op":"replace","path":"/trinkDescription","value":
+"Статуи Центенсов никогда не разрушатся – в этом уверен Гивериум."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ статуи. Обнаружено центенское мастерство."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Статуя бога-творца, очень-очень."
+}]

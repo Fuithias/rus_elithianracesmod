@@ -1,122 +1,49 @@
-[
-  {
-    "value": "<selfname> следовать за вами. Хорошо?",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> хочет присоединиться к вам.",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Сильный боец! <selfname> хочет подписаться на вас!",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты сильный! <selfname> следуй за тобой!",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> долго собирает мусор. Теперь сильный.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Сражайся за тебя сейчас, <собственность> будет.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> сделает для вас острые лезвия. Когда бой?",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Хочу бороться за тебя.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> теперь чувствует себя странно...",
-    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "<собственность> снова жив!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> не может умереть! Ха!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Смерть не пугает <самое имя>!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Почему <selfname> должен ждать?",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не оставляйте <selfname> надолго.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> будет ждать. Не слишком долго.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> хочет драться. Не жди.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> буду драться!",
-    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Собираюсь убить!",
-    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> готов к бою!",
-    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Идти! <собственное имя> следовать.",
-    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> не ходи туда. Очень далеко.",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не уходи, <самое имя>!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<собственное имя> злится! Нет, иди туда!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Зачем оставлять <собственность>?",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/3",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/0","value":
+"<selfname> следовать за вами. Хорошо?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/1","value":
+"<selfname> хочет присоединиться к вам."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/2","value":
+"Сильный боец! <selfname> хочет подписаться на вас!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/3","value":
+"Ты сильный! <selfname> следуй за тобой!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0","value":
+"<selfname> долго собирает мусор. Теперь сильный."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1","value":
+"Сражайся за тебя сейчас, <selfname> будет."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2","value":
+"<selfname> сделает для вас острые лезвия. Когда бой?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3","value":
+"Хочу бороться за тебя."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/akkimari/default/0","value":
+"<selfname> теперь чувствует себя странно..."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/akkimari/default/1","value":
+"<selfname> снова жив!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/akkimari/default/2","value":
+"<selfname> не может умереть! Ха!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/akkimari/default/3","value":
+"Смерть не пугает <selfname>!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/akkimari/default/0","value":
+"Почему <selfname> должен ждать?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/akkimari/default/1","value":
+"Не оставляйте <selfname> надолго."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/akkimari/default/2","value":
+"<selfname> будет ждать. Не слишком долго."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/akkimari/default/3","value":
+"<selfname> хочет драться. Не жди."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/akkimari/default/0","value":
+"<selfname> буду драться!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/akkimari/default/1","value":
+"Собираюсь убить!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/akkimari/default/2","value":
+"<selfname> готов к бою!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/akkimari/default/3","value":
+"Идти! <selfname> следовать."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/akkimari/default/0","value":
+"<selfname> не ходи туда. Очень далеко."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/akkimari/default/1","value":
+"Не уходи, <selfname>!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/akkimari/default/2","value":
+"<selfname> злится! Нет, иди туда!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/akkimari/default/3","value":
+"Зачем оставлять <selfname>?"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Ткань без границ авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевая стеновая панель для модного кочевника.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. У этой стеновой панели яркий цвет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, как быстро это загорится...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стеновая панель из какой-то ткани.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Качественная тканевая стеновая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань-мягкая, приятно к коже-акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ткань без границ авикан"
+},{"op":"replace","path":"/description","value":
+"Тканевая стеновая панель для модного кочевника."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. У этой стеновой панели яркий цвет."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, как быстро это загорится..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Стеновая панель из какой-то ткани."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Качественная тканевая стеновая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ткань-мягкая, приятно к коже-акки."
+}]

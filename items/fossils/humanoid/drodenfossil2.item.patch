@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшее шасси Дродена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дроден шасси",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшее шасси Дродена."
+},{"op":"replace","path":"/shortdescription","value":
+"Дроден шасси"
+}]

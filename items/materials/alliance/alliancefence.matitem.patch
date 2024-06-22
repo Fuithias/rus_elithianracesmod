@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный металлический забор.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Забор Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный металлический забор."
+},{"op":"replace","path":"/shortdescription","value":
+"Забор Альянса"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​авиканской брони. Увеличивает запасы энергии пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Энергетическое силовое ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​авиканской брони. Увеличивает запасы энергии пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Энергия силовое ядро"
+}]

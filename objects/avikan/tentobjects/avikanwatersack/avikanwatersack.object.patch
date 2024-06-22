@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Мешок для воды Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Водонепроницаемый кожаный мешок, наполненный водой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный мешок, полный чистой воды.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Освежающая вода, хранящаяся в простом, но водонепроницаемом кожаном мешочке.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода в ссаке холодная.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Мешок, наполненный водой, жизненно важный для жителей пустыни.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистая, освежающая вода! Хорошо, что кожа водонепроницаемая.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода чистая и освежающая. Благословение для жителей пустыни.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мешок, наполненный освежающей водой. Спаситель жизни в пустыне.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти мешки с водой позволяют нам строить постоянные лагеря.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный мешок, наполненный пресной водой.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен запас воды. Обнаружен хрупкий контейнер. Рекомендуется хранить в контейнере для воды, одобренном Nomada.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снимать воду, Акки осторожно, чтобы не промокнуть.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Мешок для воды Авикан"
+},{"op":"replace","path":"/description","value":
+"Водонепроницаемый кожаный мешок, наполненный водой."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный мешок, полный чистой воды."
+},{"op":"replace","path":"/avianDescription","value":
+"Освежающая вода, хранящаяся в простом, но водонепроницаемом кожаном мешочке."
+},{"op":"replace","path":"/floranDescription","value":
+"Вода в ссаке холодная."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Мешок, наполненный водой, жизненно важный для жителей пустыни."
+},{"op":"replace","path":"/humanDescription","value":
+"Чистая, освежающая вода! Хорошо, что кожа водонепроницаемая."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Вода чистая и освежающая. Благословение для жителей пустыни."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мешок, наполненный освежающей водой. Спаситель жизни в пустыне."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эти мешки с водой позволяют нам строить постоянные лагеря."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный мешок, наполненный пресной водой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен запас воды. Обнаружен хрупкий контейнер. Рекомендуется хранить в контейнере для воды, одобренном Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Снимать воду, Акки осторожно, чтобы не промокнуть."
+}]

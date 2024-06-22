@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Собирайте особые материалы с чудовищ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Копье старейшины",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копье охотника",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Собирайте особые материалы с чудовищ."
+},{"op":"replace","path":"/shortdescription","value":
+"Копьё старейшины"
+},{"op":"replace","path":"/category","value":
+"Копьё охотника"
+}]

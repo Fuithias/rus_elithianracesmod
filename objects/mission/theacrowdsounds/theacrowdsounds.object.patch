@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Источник звуков толпы",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Источник звуков толпы"
+}]

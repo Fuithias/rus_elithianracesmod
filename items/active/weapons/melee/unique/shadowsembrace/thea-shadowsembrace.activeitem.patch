@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Меч, скрытый в тенях, созданный для Ужасающего.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Ужасающий^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Объятия тени^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Теневой покров",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Меч, скрытый в тенях, созданный для Ужасающего."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Ужасающий^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Объятия тени^white;"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+},{"op":"replace","path":"/altAbility/name","value":
+"Теневой покров"
+}]

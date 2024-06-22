@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Пушка Гатлинга для испытания новых снарядов. Будьте осторожны, она очень непредсказуема!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Экспериментальная пушка-гатлинга^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пушка-гатлинга",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Пушка Гатлинга для испытания новых снарядов. Будьте осторожны, она очень непредсказуема!"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Экспериментальная пушка-гатлинга^white;"
+},{"op":"replace","path":"/category","value":
+"Пушка-гатлинга"
+}]

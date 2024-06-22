@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Мозговое ядро ​​устройства Trink.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианское мозговое ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мозговое ядро ​​устройства тринков."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианское мозговое ядро"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

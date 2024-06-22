@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Тканевая Дверь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная дверь для палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой лист ткани. Не такая уж и большая дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто тканевая дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится ощущение ткани.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не впечатлен. Это просто кусок ткани, используемый в качестве двери.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверная занавеска из простой ткани.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая, но элегантная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто лист ткани.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенная портьера.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это напоминает мне палатки на Кадаване...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Портьера. Просто и эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Отмечено сходство с дверями палатки Авикан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая занавеска облегчает установку двери.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Тканевая Дверь"
+},{"op":"replace","path":"/description","value":
+"Простая кожаная дверь для палатки."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой лист ткани. Не такая уж и большая дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто тканевая дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится ощущение ткани."
+},{"op":"replace","path":"/glitchDescription","value":
+"Не впечатлен. Это просто кусок ткани, используемый в качестве двери."
+},{"op":"replace","path":"/humanDescription","value":
+"Дверная занавеска из простой ткани."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простая, но элегантная дверь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто лист ткани."
+},{"op":"replace","path":"/aegiDescription","value":
+"Упрощенная портьера."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это напоминает мне палатки на Кадаване..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Портьера. Просто и эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Отмечено сходство с дверями палатки Авикан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Простая занавеска облегчает установку двери."
+}]

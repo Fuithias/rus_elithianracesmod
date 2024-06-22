@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Длинный Авиканский гобелен",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. Обычное украшение для домов Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. Из какого существа было сделано это существо?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. Не очень красочно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен напоминает Флорану дом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Животное, из которого это было сделано, не указано в моей базе данных.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный гобелен. Не очень хорошо проработано.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный способ украсить свой дом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан убивают животных, чтобы использовать их шкуру в качестве украшения дома. Многие Aegi этого не одобряют.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот скин когда-то принадлежал великому песчаному охотнику из Кадавана. Теперь это служит печальным напоминанием о давно минувших днях.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканцы утверждают, что эта шкура принадлежала песчаному ловцу. Я незнаком с песчаными охотниками.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен длинный, для украшения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Длинный Авиканский гобелен"
+},{"op":"replace","path":"/description","value":
+"Кожаный гобелен. Обычное украшение для домов Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный гобелен. Из какого существа было сделано это существо?"
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаный гобелен. Не очень красочно."
+},{"op":"replace","path":"/floranDescription","value":
+"Гобелен напоминает Флорану дом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Ошибка. Животное, из которого это было сделано, не указано в моей базе данных."
+},{"op":"replace","path":"/humanDescription","value":
+"Простой кожаный гобелен. Не очень хорошо проработано."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивный способ украсить свой дом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авикан убивают животных, чтобы использовать их шкуру в качестве украшения дома. Многие аеги этого не одобряют."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот скин когда-то принадлежал великому песчаному охотнику из Кадавана. Теперь это служит печальным напоминанием о давно минувших днях."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авиканцы утверждают, что эта шкура принадлежала песчаному ловцу. Я незнаком с песчаными охотниками."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гобелен длинный, для украшения."
+}]

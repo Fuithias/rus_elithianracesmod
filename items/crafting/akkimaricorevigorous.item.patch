@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​брони Аккимари. Увеличивает запасы здоровья пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дефлектор Сердечник RS",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​брони Аккимари. Увеличивает запасы здоровья пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Дефлектор Сердечник RS"
+}]

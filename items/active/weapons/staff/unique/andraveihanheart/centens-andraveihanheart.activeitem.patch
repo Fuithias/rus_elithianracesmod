@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Небольшой артефакт, выкованный во Валас Андра'вейх, священном городе Це'Теннан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Сердце Андра'вейхана^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Soul Burst",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Небольшой артефакт, выкованный во Валас Андра'вейх, священном городе Це'Теннан."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Сердце Андра'вейхана^white;"
+},{"op":"replace","path":"/category","value":
+"Артефакт"
+},{"op":"replace","path":"/altAbility/name","value":
+"Всплеск души"
+}]

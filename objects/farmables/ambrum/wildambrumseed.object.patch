@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя амбрума",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из мягких пушистых волокон этого растения можно плести ткань.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Из волокон этого растения можно ткать ткань.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, из этих волокон можно было бы сплести ткань.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран умеет делать вещи из мягкого пуха.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Творческий. Я мог бы использовать эти волокна для ткачества ткани.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это немного похоже на хлопок. Может быть, у него тоже есть похожее применение?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если это что-то вроде хлопка, я могла бы сплести из этих волокон новое кимоно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выглядит как хлопок, но на ощупь не совсем хлопок.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение амбрум. Волокна, защищающие его семена, можно вплетать в ткань.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкие пушистые волокна. Может, ткань ткали?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эги обычно используют амбрум для плетения ткани.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Анализ: мягкие защитные волокна пригодны для ткачества тканей.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение-чужеродное, сделает волокна белыми. Напомни Акки о шелке-Аккимари.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя амбрума"
+},{"op":"replace","path":"/description","value":
+"Из мягких пушистых волокон этого растения можно плести ткань."
+},{"op":"replace","path":"/apexDescription","value":
+"Из волокон этого растения можно ткать ткань."
+},{"op":"replace","path":"/avianDescription","value":
+"Думаю, из этих волокон можно было бы сплести ткань."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран умеет делать вещи из мягкого пуха."
+},{"op":"replace","path":"/glitchDescription","value":
+"Творческий. Я мог бы использовать эти волокна для ткачества ткани."
+},{"op":"replace","path":"/humanDescription","value":
+"Это немного похоже на хлопок. Может быть, у него тоже есть похожее применение?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Если это что-то вроде хлопка, я могла бы сплести из этих волокон новое кимоно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Выглядит как хлопок, но на ощупь не совсем хлопок."
+},{"op":"replace","path":"/aegiDescription","value":
+"Растение амбрум. Волокна, защищающие его семена, можно вплетать в ткань."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мягкие пушистые волокна. Может, ткань ткали?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Эги обычно используют амбрум для плетения ткани."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Анализ: мягкие защитные волокна пригодны для ткачества тканей."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение-чужеродное, сделает волокна белыми. Напомни Акки о шелке-Аккимари."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Канализационные решетки Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические прутья.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлические прутья.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические прутья.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это металлические прутья.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлические прутья.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прутья-металлические. Очень грязные.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Канализационные решетки Альянса"
+},{"op":"replace","path":"/description","value":
+"Металлические прутья."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлические прутья."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические прутья."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это металлические прутья."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлические прутья."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Прутья-металлические. Очень грязные."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Сегментированные металлические штаны для большей подвижности. Силовая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны исследователя тип-М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Сегментированные металлические штаны для большей подвижности. Силовая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Штаны исследователя в.-С"
+}]

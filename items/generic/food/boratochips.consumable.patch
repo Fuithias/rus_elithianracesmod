@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Жареные чипсы борато, хрустящие и вкусные.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Чипсы Борато",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Жареные чипсы борато, хрустящие и вкусные."
+},{"op":"replace","path":"/shortdescription","value":
+"Чипсы Борато"
+}]

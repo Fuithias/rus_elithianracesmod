@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Заряд глушипатрон",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Заряд глушипатрон"
+}]

@@ -1,122 +1,49 @@
-[
-  {
-    "value": "Какое сегодня задание?",
-    "path": "/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я готов к приключениям!",
-    "path": "/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис будет направлять наши путешествия.",
-    "path": "/converse/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Звезды наши для исследования.",
-    "path": "/converse/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Какова наша текущая миссия?",
-    "path": "/converse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я всегда готов к приключениям.",
-    "path": "/converse/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я был создан готовым к приключениям.",
-    "path": "/converse/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я обеспечу твою безопасность.",
-    "path": "/converse/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Этот юнит готов.",
-    "path": "/converse/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю детали текущей задачи.",
-    "path": "/converse/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю брифинг по текущей миссии.",
-    "path": "/converse/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот юнит готов служить.",
-    "path": "/converse/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Как дела, босс?",
-    "path": "/converse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Давай выдвигаться!",
-    "path": "/converse/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я прикрою тебя, босс.",
-    "path": "/converse/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я с тобой.",
-    "path": "/converse/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Что тебе нужно?",
-    "path": "/converse/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет выйти и сражаться.",
-    "path": "/converse/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки поддерживает тебя. Если тебе нужна помощь, Акки предоставит.",
-    "path": "/converse/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе нужен Акки?",
-    "path": "/converse/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я прикрою тебя.",
-    "path": "/converse/thelean/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я пойду за тобой куда угодно.",
-    "path": "/converse/thelean/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Каковы твои инструкции?",
-    "path": "/converse/thelean/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Просто скажи слово.",
-    "path": "/converse/thelean/default/3",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/converse/avikan/default/0","value":
+"Какое сегодня задание?"
+},{"op":"replace","path":"/converse/avikan/default/1","value":
+"Я готов к приключениям!"
+},{"op":"replace","path":"/converse/avikan/default/2","value":
+"Радеис будет направлять наши путешествия."
+},{"op":"replace","path":"/converse/avikan/default/3","value":
+"Звезды наши для исследования."
+},{"op":"replace","path":"/converse/trink/default/0","value":
+"Какова наша текущая миссия?"
+},{"op":"replace","path":"/converse/trink/default/1","value":
+"Я всегда готов к приключениям."
+},{"op":"replace","path":"/converse/trink/default/2","value":
+"Я был создан готовым к приключениям."
+},{"op":"replace","path":"/converse/trink/default/3","value":
+"Я обеспечу твою безопасность."
+},{"op":"replace","path":"/converse/droden/default/0","value":
+"Этот юнит готов."
+},{"op":"replace","path":"/converse/droden/default/1","value":
+"Запрашиваю детали текущей задачи."
+},{"op":"replace","path":"/converse/droden/default/2","value":
+"Запрашиваю брифинг по текущей миссии."
+},{"op":"replace","path":"/converse/droden/default/3","value":
+"Этот юнит готов служить."
+},{"op":"replace","path":"/converse/aegi/default/0","value":
+"Как дела, босс?"
+},{"op":"replace","path":"/converse/aegi/default/1","value":
+"Давай выдвигаться!"
+},{"op":"replace","path":"/converse/aegi/default/2","value":
+"Я прикрою тебя, босс."
+},{"op":"replace","path":"/converse/aegi/default/3","value":
+"Я с тобой."
+},{"op":"replace","path":"/converse/akkimari/default/0","value":
+"Что тебе нужно?"
+},{"op":"replace","path":"/converse/akkimari/default/1","value":
+"Акки хочет выйти и сражаться."
+},{"op":"replace","path":"/converse/akkimari/default/2","value":
+"Акки поддерживает тебя. Если тебе нужна помощь, Акки предоставит."
+},{"op":"replace","path":"/converse/akkimari/default/3","value":
+"Тебе нужен Акки?"
+},{"op":"replace","path":"/converse/thelean/default/0","value":
+"Я прикрою тебя."
+},{"op":"replace","path":"/converse/thelean/default/1","value":
+"Я пойду за тобой куда угодно."
+},{"op":"replace","path":"/converse/thelean/default/2","value":
+"Каковы твои инструкции?"
+},{"op":"replace","path":"/converse/thelean/default/3","value":
+"Просто скажи слово."
+}]

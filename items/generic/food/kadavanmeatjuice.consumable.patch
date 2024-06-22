@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Колючий сок кактуса, смешанный с плохо приготовленным мясом. Что может пойти не так?",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мясной сок Кадаван",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Колючий сок кактуса, смешанный с плохо приготовленным мясом. Что может пойти не так?"
+},{"op":"replace","path":"/shortdescription","value":
+"Мясной сок Кадаван"
+}]

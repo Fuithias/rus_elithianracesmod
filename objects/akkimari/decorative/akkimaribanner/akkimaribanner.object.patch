@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Баннер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Слегка порванное знамя, которым украшали здания Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Порванное знамя. Я не узнаю иконографию.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ярко-красное знамя, оно видало лучшие дни.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, кто порвал знамя.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что означает этот значок?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическое кольцо, на котором свисает разорванное знамя.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разорванное знамя подвешено на металлическом кольце. Как странно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рваное знамя.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде знамени Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродное знамя. Он не в лучшем состоянии.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Типичное проявление невнимательности Аккимари. Баннер весь порван.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование базы данных иконографии. Ноль результатов. Иконография неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки любят баннеры. Заставьте Акки почувствовать связь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Баннер"
+},{"op":"replace","path":"/description","value":
+"Слегка порванное знамя, которым украшали здания Аккимари."
+},{"op":"replace","path":"/apexDescription","value":
+"Порванное знамя. Я не узнаю иконографию."
+},{"op":"replace","path":"/avianDescription","value":
+"Ярко-красное знамя, оно видало лучшие дни."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, кто порвал знамя."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что означает этот значок?"
+},{"op":"replace","path":"/humanDescription","value":
+"Металлическое кольцо, на котором свисает разорванное знамя."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Разорванное знамя подвешено на металлическом кольце. Как странно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Рваное знамя."
+},{"op":"replace","path":"/aegiDescription","value":
+"Что-то вроде знамени Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Чужеродное знамя. Он не в лучшем состоянии."
+},{"op":"replace","path":"/trinkDescription","value":
+"Типичное проявление невнимательности Аккимари. Баннер весь порван."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование базы данных иконографии. Ноль результатов. Иконография неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки любят баннеры. Заставьте Акки почувствовать связь."
+}]

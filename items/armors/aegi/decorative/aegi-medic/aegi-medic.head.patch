@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Капы для волос, которые носят медработники Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кап для волос Медитек",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Капы для волос, которые носят медработники Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Кап для волос Медитек"
+}]

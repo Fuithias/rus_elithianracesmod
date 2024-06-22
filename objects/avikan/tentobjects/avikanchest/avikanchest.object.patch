@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Сумка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная сумка идеально подходит для хранения ваших вкусностей!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо сделанная кожаная сумка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная сумка. Что внутри?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сумки полны вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Примитивная кожаная сумка.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная сумка. Наверное, полно вкусностей!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная кожаная сумка для хранения вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная сумка для хранения.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная сумка. Не так хорошо защищен, как сундук, но гораздо дешевле.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная сумка.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сумка-кожа, легко украсть.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Сумка"
+},{"op":"replace","path":"/description","value":
+"Кожаная сумка идеально подходит для хранения ваших вкусностей!"
+},{"op":"replace","path":"/apexDescription","value":
+"Плохо сделанная кожаная сумка."
+},{"op":"replace","path":"/avianDescription","value":
+"Простая кожаная сумка. Что внутри?"
+},{"op":"replace","path":"/floranDescription","value":
+"Сумки полны вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Примитивная кожаная сумка."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаная сумка. Наверное, полно вкусностей!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивная кожаная сумка для хранения вещей."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая кожаная сумка для хранения."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаная сумка. Не так хорошо защищен, как сундук, но гораздо дешевле."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простая кожаная сумка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Сумка-кожа, легко украсть."
+}]

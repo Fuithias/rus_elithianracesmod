@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Центены Плюшевые",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка Центенс из мягкой ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая игрушка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта мягкая игрушка выглядит немного странно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это кажется милым.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изумленный. Этот плюш довольно странный.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плюшевый какой-то странный инопланетянин. Как мило!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая игрушка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то плюшевая штука.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плюшевые центы. Я всегда восхищался древними цивилизациями.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это... Старик?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая центенша, игрушка для детей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная игрушка. Обнаружено изображение Старого.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка-инопланетянин. Это боготворец?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центены Плюшевые"
+},{"op":"replace","path":"/description","value":
+"Игрушка Центенс из мягкой ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Мягкая игрушка."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта мягкая игрушка выглядит немного странно."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это кажется милым."
+},{"op":"replace","path":"/glitchDescription","value":
+"Изумленный. Этот плюш довольно странный."
+},{"op":"replace","path":"/humanDescription","value":
+"Плюшевый какой-то странный инопланетянин. Как мило!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мягкая игрушка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то плюшевая штука."
+},{"op":"replace","path":"/aegiDescription","value":
+"Плюшевые центы. Я всегда восхищался древними цивилизациями."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это... Старик?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Мягкая центенша, игрушка для детей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная игрушка. Обнаружено изображение Старого."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Игрушка-инопланетянин. Это боготворец?"
+}]

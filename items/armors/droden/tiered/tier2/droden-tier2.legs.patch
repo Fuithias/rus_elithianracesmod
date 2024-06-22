@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Прочные ноги из вольфрама.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вольфрамовые ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Прочные ноги из вольфрама."
+},{"op":"replace","path":"/shortdescription","value":
+"Вольфрамовые ноги"
+}]

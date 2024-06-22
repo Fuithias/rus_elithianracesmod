@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Дюнный кролик в форме песчаного краулера. От тебя тоже пахнет Песчаным краулером!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гусеничный Дюнебун",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Дюнный кролик в форме песчаного краулера. От тебя тоже пахнет Песчаным краулером!"
+},{"op":"replace","path":"/shortdescription","value":
+"Гусеничный Дюнебун"
+}]

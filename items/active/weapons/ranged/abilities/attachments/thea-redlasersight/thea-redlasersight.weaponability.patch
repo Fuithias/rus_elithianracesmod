@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Красный лазерный прицел",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Красный лазерный прицел"
+}]

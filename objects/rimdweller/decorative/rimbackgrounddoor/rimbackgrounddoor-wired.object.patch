@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Обод Фоновой Двери",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь. Его можно связать с другими фоновыми дверями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, куда идет дверь...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Интересно, куда ведет эта дверь...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, куда ведет эта дверь...",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование не удалось. Невозможно определить, куда ведет эта дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки интересно, куда ведет дверь...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Обод Фоновой Двери"
+},{"op":"replace","path":"/description","value":
+"Взрывная дверь. Его можно связать с другими фоновыми дверями."
+},{"op":"replace","path":"/apexDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, куда идет дверь..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Интересно, куда ведет эта дверь..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование не удалось. Невозможно определить, куда ведет эта дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки интересно, куда ведет дверь..."
+}]

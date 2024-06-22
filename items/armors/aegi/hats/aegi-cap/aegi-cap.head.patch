@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Простая повседневная кепка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кепка Союза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Простая повседневная кепка."
+},{"op":"replace","path":"/shortdescription","value":
+"Кепка Союза"
+}]

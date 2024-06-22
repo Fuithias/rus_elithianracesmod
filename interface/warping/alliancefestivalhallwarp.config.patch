@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Зал праздника Приземления",
-    "path": "/destinations/name",
-    "op": "replace"
-  },
-  {
-    "value": "Элития",
-    "path": "/destinations/planetName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/destinations/name","value":
+"Зал праздника Приземления"
+},{"op":"replace","path":"/destinations/planetName","value":
+"Элития"
+}]

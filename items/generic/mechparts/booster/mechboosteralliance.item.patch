@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ультрасовременные ускорители мехов, созданные компанией Enerth Engineering.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Усилители мехов-защитников",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ультрасовременные ускорители мехов, созданные компанией Enerth Engineering."
+},{"op":"replace","path":"/shortdescription","value":
+"Усилители мехов-защитников"
+}]

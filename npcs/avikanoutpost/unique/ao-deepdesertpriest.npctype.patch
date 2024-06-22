@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Райод достигает всех, даже тех, кто обитает в глубоких пустынях Кадавана.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Райод достигает всех, даже тех, кто обитает в глубоких пустынях Кадавана.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Райод достигает всех, даже тех, кто обитает в глубоких пустынях Кадавана."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Райод достигает всех, даже тех, кто обитает в глубоких пустынях Кадавана."
+}]

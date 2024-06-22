@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Если вам нужен кто-то для ремонта вашей техники, поговорите с Вальяном ас-Надатой.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не забывайте планировать регулярное техническое обслуживание вашего корабля.",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш корабль — ценный актив. Убедитесь, что вы относитесь к этому правильно.",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам нужен кто-то для ремонта вашей техники, поговорите с Вальяном ас-Надатой.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не забывайте планировать регулярное техническое обслуживание вашего корабля.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш корабль — ценный актив. Убедитесь, что вы относитесь к этому правильно.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/2",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Если вам нужен кто-то для ремонта вашей техники, поговорите с Вальяном ас-Надатой."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Не забывайте планировать регулярное техническое обслуживание вашего корабля."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Ваш корабль — ценный актив. Убедитесь, что вы относитесь к этому правильно."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Если вам нужен кто-то для ремонта вашей техники, поговорите с Вальяном ас-Надатой."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/1","value":
+"Не забывайте планировать регулярное техническое обслуживание вашего корабля."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/2","value":
+"Ваш корабль — ценный актив. Убедитесь, что вы относитесь к этому правильно."
+}]

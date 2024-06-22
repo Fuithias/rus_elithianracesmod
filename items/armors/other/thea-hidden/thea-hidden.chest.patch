@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Маленькое устройство, скрывающее броню в слоте для нагрудной брони.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Скрыватель для груди",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Маленькое устройство, скрывающее броню в слоте для нагрудной брони."
+},{"op":"replace","path":"/shortdescription","value":
+"Скрыватель для груди"
+}]

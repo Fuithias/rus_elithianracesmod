@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Защитный щиток, который носят инженеры Енерт.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Щиток Енерт",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Защитный щиток, который носят инженеры Енерт."
+},{"op":"replace","path":"/shortdescription","value":
+"Щиток Енерт"
+}]

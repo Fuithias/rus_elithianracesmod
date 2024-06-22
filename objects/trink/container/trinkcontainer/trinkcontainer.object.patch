@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкианский контейнер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный грузовой контейнер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный грузовой контейнер. Это странный размер.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что может содержаться в этом контейнере?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнеры достаточно большие, чтобы вместить людей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Допрос. Почему этот ящик не соответствует универсальному стандартному размеру контейнера?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Достаточно большой грузовой контейнер. Это странный размер.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой контейнер для перевозки грузов всех видов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой контейнер Trinkian идеально вписывается в грузовые отсеки Trinkian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот контейнер машинного изготовления может вместить множество предметов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный грузовой контейнер «Тринкиан» ровно в четыре раза превышает размер ящика.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен блок хранения. Сканирование контента недоступно.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик-инопланетянин, имеет причудливую подсветку.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианский контейнер"
+},{"op":"replace","path":"/description","value":
+"Прочный грузовой контейнер."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочный грузовой контейнер. Это странный размер."
+},{"op":"replace","path":"/avianDescription","value":
+"Что может содержаться в этом контейнере?"
+},{"op":"replace","path":"/floranDescription","value":
+"Контейнеры достаточно большие, чтобы вместить людей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Допрос. Почему этот ящик не соответствует универсальному стандартному размеру контейнера?"
+},{"op":"replace","path":"/humanDescription","value":
+"Достаточно большой грузовой контейнер. Это странный размер."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Грузовой контейнер для перевозки грузов всех видов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Грузовой контейнер тринков идеально вписывается в грузовые отсеки тринков."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот контейнер машинного изготовления может вместить множество предметов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стандартный грузовой контейнер Тринкиан ровно в четыре раза превышает размер ящика."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен блок хранения. Сканирование контента недоступно."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ящик-инопланетянин, имеет причудливую подсветку."
+}]

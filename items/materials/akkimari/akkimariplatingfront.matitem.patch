@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочная обшивка из различного металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Плайтинг (спереди)",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочная обшивка из различного металлолома."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Плайтинг (спереди)"
+}]

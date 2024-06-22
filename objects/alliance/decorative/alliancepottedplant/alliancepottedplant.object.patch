@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Горшечное Элитианское Растение",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение родом из Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не любит сажать растения в горшки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Растение.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение-маленькое, странное-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Горшечное Элитианское Растение"
+},{"op":"replace","path":"/description","value":
+"Растение родом из Элитии."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не любит сажать растения в горшки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Растение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Анализ биохимии."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение-маленькое, странное-очень."
+}]

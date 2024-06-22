@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат Мехрос Аван",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий новую художественную экспозицию Мехроса Авана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит только бумаги.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Кто этот Мехрос Аван, упомянутый на плакате?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мехрос Аван — известный художник, создающий большие произведения кинетического искусства.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат Мехрос Аван"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий новую художественную экспозицию Мехроса Авана."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит только бумаги."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Кто этот Мехрос Аван, упомянутый на плакате?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Мехрос Аван — известный художник, создающий большие произведения кинетического искусства."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

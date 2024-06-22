@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Длинная кожаная веревка. Пригодится для лазания и связывания вещей!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканский канат",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструмент",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Длинная кожаная веревка. Пригодится для лазания и связывания вещей!"
+},{"op":"replace","path":"/shortdescription","value":
+"Авиканский канат"
+},{"op":"replace","path":"/category","value":
+"Инструмент"
+}]

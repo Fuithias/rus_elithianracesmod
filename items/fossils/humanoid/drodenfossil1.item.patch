@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая голова друдена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дроден Хед",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая голова друдена."
+},{"op":"replace","path":"/shortdescription","value":
+"Дроден Хед"
+}]

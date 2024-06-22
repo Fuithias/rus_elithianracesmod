@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Знамя Союза городов",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя, украшенное эмблемой Союза городов Дреметона.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Союза городов Дреметона.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки думает, что это икона Union-Dremeton.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Знамя Союза городов"
+},{"op":"replace","path":"/description","value":
+"Знамя, украшенное эмблемой Союза городов Дреметона."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Союза городов Дреметона."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки думает, что это икона Union-Dremeton."
+}]

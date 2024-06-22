@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Информационный Шпиль Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несколько мониторов, прикрепленных к большому центральному процессору.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это довольно много экранов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящие экраны.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сссшные сскрины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Несколько мониторов, подключенных к центральному процессору.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это вполне массив мониторов.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой и громоздкий массив мониторов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Много экранов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Infospire отображает в режиме реального времени информацию обо всей элитанской экономике.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что на самом деле означает вся эта информация...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективное решение для сбора и отображения экономической информации.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экраны-блестящие, Акки воруют?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Информационный Шпиль Альянса"
+},{"op":"replace","path":"/description","value":
+"Несколько мониторов, прикрепленных к большому центральному процессору."
+},{"op":"replace","path":"/apexDescription","value":
+"Это довольно много экранов."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящие экраны."
+},{"op":"replace","path":"/floranDescription","value":
+"Сссшные сскрины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Несколько мониторов, подключенных к центральному процессору."
+},{"op":"replace","path":"/humanDescription","value":
+"Это вполне массив мониторов."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большой и громоздкий массив мониторов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Много экранов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Infospire отображает в режиме реального времени информацию обо всей элитанской экономике."
+},{"op":"replace","path":"/avikanDescription","value":
+"Интересно, что на самом деле означает вся эта информация..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективное решение для сбора и отображения экономической информации."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Экраны-блестящие, Акки воруют?"
+}]

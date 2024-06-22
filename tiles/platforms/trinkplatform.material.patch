@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Тринкская платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, наполненная проводами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно. Через эту платформу проходят многие кабели.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, наполненная проводами.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, полная проводов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Кабели проходят по всей длине этой платформы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, наполненная проводами.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкская платформа"
+},{"op":"replace","path":"/description","value":
+"Платформа, наполненная проводами."
+},{"op":"replace","path":"/glitchDescription","value":
+"Интересно. Через эту платформу проходят многие кабели."
+},{"op":"replace","path":"/floranDescription","value":
+"Платформа, наполненная проводами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Платформа, полная проводов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Кабели проходят по всей длине этой платформы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа, наполненная проводами."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

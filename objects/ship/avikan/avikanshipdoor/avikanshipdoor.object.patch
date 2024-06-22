@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Дверь корабля Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь, часто встречающаяся на кораблях Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Металлическая дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Классная дверь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошая дверь из прочного металла. Здесь ничего не проходит.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь корабля Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная дверь из дома, созданная для использования на кораблях.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механическая дверь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Анализ: Модель корабля.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-корабль, спец-нет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дверь корабля Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая дверь, часто встречающаяся на кораблях Авикана."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная металлическая дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Металлическая дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Классная дверь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Хорошая дверь из прочного металла. Здесь ничего не проходит."
+},{"op":"replace","path":"/aegiDescription","value":
+"Дверь корабля Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Прочная дверь из дома, созданная для использования на кораблях."
+},{"op":"replace","path":"/trinkDescription","value":
+"Механическая дверь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Анализ: Модель корабля."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-корабль, спец-нет."
+}]

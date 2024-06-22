@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменелый череп Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари Череп",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменелый череп Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Аккимари Череп"
+}]

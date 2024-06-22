@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкская панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая металлическая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Утверждение. Металлическая панель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темные металлические панели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель, простая и понятная.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическое покрытие.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-металл. Акки не находит её интересной.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкская панель"
+},{"op":"replace","path":"/description","value":
+"Простая металлическая панель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Утверждение. Металлическая панель."
+},{"op":"replace","path":"/floranDescription","value":
+"Темные металлические панели."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая панель, простая и понятная."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическое покрытие."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-металл. Акки не находит её интересной."
+}]

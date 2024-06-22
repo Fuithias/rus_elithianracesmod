@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семена кактуса Кадаван",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактусы родом с пустынной планеты Кадаван.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сочный кактус. Выглядит лучше, чем на вкус.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочные кактусы. Не очень вкусно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сочные зеленые растения.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Из шипов кактуса получаются отличные снаряды.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетные кактусы. Я предпочитаю тех, кто с Земли.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение, наполненное водой. Облегчение для всех, кто живет в пустыне.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри этих кактусов можно найти освежающую воду. Однако следите за шипами.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактус, первоначально найденный на родной планете Авикан Кадаван.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактус из дома. Жизненно важно для жизни в пустыне.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это растение хранит много воды и жизненно важно для органической жизни в пустыне.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена аборигенная флора Кадавана. Кактус подтвердил.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение полно воды. Акки пьешь?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семена кактуса Кадаван"
+},{"op":"replace","path":"/description","value":
+"Кактусы родом с пустынной планеты Кадаван."
+},{"op":"replace","path":"/apexDescription","value":
+"Сочный кактус. Выглядит лучше, чем на вкус."
+},{"op":"replace","path":"/avianDescription","value":
+"Красочные кактусы. Не очень вкусно."
+},{"op":"replace","path":"/floranDescription","value":
+"Сочные зеленые растения."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Из шипов кактуса получаются отличные снаряды."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетные кактусы. Я предпочитаю тех, кто с Земли."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Растение, наполненное водой. Облегчение для всех, кто живет в пустыне."
+},{"op":"replace","path":"/novakidDescription","value":
+"Внутри этих кактусов можно найти освежающую воду. Однако следите за шипами."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кактус, первоначально найденный на родной планете Авикан Кадаван."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кактус из дома. Жизненно важно для жизни в пустыне."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это растение хранит много воды и жизненно важно для органической жизни в пустыне."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена аборигенная флора Кадавана. Кактус подтвердил."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение полно воды. Акки пьешь?"
+}]

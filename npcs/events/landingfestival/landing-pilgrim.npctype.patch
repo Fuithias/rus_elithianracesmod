@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Счастливого фестиваля приземления! Это время праздника для всех!",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Фестиваль высадки снова на носу!",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Прошел еще один год. Это призывает к празднику!",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Еще один год, еще один Фестиваль Посадки! Вы уже сделали праздничные покупки?",
-    "path": "/scriptConfig/dialog/converse/default/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Счастливого тебе праздника приземления, друг мой!",
-    "path": "/scriptConfig/dialog/converse/default/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Счастливого фестиваля приземления! Это время праздника для всех!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Фестиваль высадки снова на носу!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Прошел еще один год. Это призывает к празднику!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/3","value":
+"Еще один год, еще один Фестиваль Посадки! Вы уже сделали праздничные покупки?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/4","value":
+"Счастливого тебе праздника приземления, друг мой!"
+}]

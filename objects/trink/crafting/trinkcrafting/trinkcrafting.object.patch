@@ -1,282 +1,113 @@
-[
-  {
-    "value": "^orange;Сборщик цепей^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сборочный стол для изготовления тринкианских предметов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол. Полезен для создания различных предметов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но просторный рабочий стол. Здесь можно было бы создать множество вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлисты делают здесь много чего.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жаждущий. Давайте займемся рукоделием!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот рабочий стол упрощен, но на нем все же есть инструменты, необходимые для создания множества вещей.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настоящему ремесленнику для работы не понадобится много инструментов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой мастер-класс по рукоделию. Можно было бы использовать еще несколько инструментов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкам не нужно много инструментов, поскольку их собственные тела уже оснащены многим.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол, построенный машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нам, Тринкам, не нужно много инструментов. Наших рук достаточно, чтобы изготовить большую часть того, что нам нужно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен машинный рабочий стол.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол-инопланетянин, Акки мастерит здесь вещи.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Сборщик цепей^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сборочный стол для изготовления тринкианских предметов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол. Полезен для создания различных предметов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но просторный рабочий стол. Здесь можно было бы создать множество вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлисты делают здесь много чего.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жаждущий. Давайте займемся рукоделием!",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот рабочий стол упрощен, но на нем все же есть инструменты, необходимые для создания множества вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настоящему ремесленнику для работы не понадобится много инструментов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой мастер-класс по рукоделию. Можно было бы использовать еще несколько инструментов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкам не нужно много инструментов, поскольку их собственные тела уже оснащены многим.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол, построенный машинами.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нам, Тринкам, не нужно много инструментов. Наших рук достаточно, чтобы изготовить большую часть того, что нам нужно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен машинный рабочий стол.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол-инопланетянин, Акки мастерит здесь вещи.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Конструктор схем^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Частично автоматизированная производственная машина Trinkian.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина может помочь в производстве многих вещей. Повстанцы могли бы этим воспользоваться.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина, которая может помочь производить множество предметов, как больших, так и маленьких.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина помогает Флорану делать вещи.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. С помощью этой машины рукоделие станет проще простого!",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая машина для помощи мастерам.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Да, эта машина может производить многое, но для ее управления все равно требуется ремесленник.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая и мощная машина, безусловно, полезная для крафта.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина сделает большую часть работы за вас.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машинно-ремесленная станция. Лучше будь осторожен с моими закрылками вокруг этой штуки...",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина может помочь мне в моих ремесленных навыках, но она все равно требует моего участия.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена ремесленная станция. Происхождение: машинное.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая пресса, сделайте вещи плоскими. Акки использую для крафта.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Изготовитель схем^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полностью автоматическая производственная машина Trinkian.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде машины для 3D-печати, но гораздо более продвинутой.",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина может напечатать практически все, используя правильные чертежи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина делает вещи по чертежам.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смиренный. Эта машина может создать гораздо больше, чем я сам.",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сверхсовременный 3D-принтер, способный печатать оружие, доспехи и многое другое!",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Передовая машина для 3D-печати. Для этого не нужны никакие навыки, только чертежи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина может печатать оружие? Что это за магия?",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "При наличии правильных чертежей и материалов эта машина может напечатать практически все.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная ремесленная станция, построенная машинами.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вставьте совместимый чертеж и необходимые материалы, и эта станция построит практически все.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена система печати. Анализ: машинный.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированный производитель: сделайте все, что нужно Akki.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Сборщик цепей^white;"
+},{"op":"replace","path":"/description","value":
+"Сборочный стол для изготовления тринкианских предметов."
+},{"op":"replace","path":"/apexDescription","value":
+"Рабочий стол. Полезен для создания различных предметов."
+},{"op":"replace","path":"/avianDescription","value":
+"Простой, но просторный рабочий стол. Здесь можно было бы создать множество вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлисты делают здесь много чего."
+},{"op":"replace","path":"/glitchDescription","value":
+"Жаждущий. Давайте займемся рукоделием!"
+},{"op":"replace","path":"/humanDescription","value":
+"Этот рабочий стол упрощен, но на нем все же есть инструменты, необходимые для создания множества вещей."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Настоящему ремесленнику для работы не понадобится много инструментов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Простой мастер-класс по рукоделию. Можно было бы использовать еще несколько инструментов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкам не нужно много инструментов, поскольку их собственные тела уже оснащены многим."
+},{"op":"replace","path":"/avikanDescription","value":
+"Рабочий стол, построенный машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Нам, Тринкам, не нужно много инструментов. Наших рук достаточно, чтобы изготовить большую часть того, что нам нужно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен машинный рабочий стол."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Рабочий стол-инопланетянин, Акки мастерит здесь вещи."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Сборщик цепей^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Сборочный стол для изготовления тринкианских предметов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Рабочий стол. Полезен для создания различных предметов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Простой, но просторный рабочий стол. Здесь можно было бы создать множество вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Металлисты делают здесь много чего."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Жаждущий. Давайте займемся рукоделием!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Этот рабочий стол упрощен, но на нем все же есть инструменты, необходимые для создания множества вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Настоящему ремесленнику для работы не понадобится много инструментов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Простой мастер-класс по рукоделию. Можно было бы использовать еще несколько инструментов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Тринкам не нужно много инструментов, поскольку их собственные тела уже оснащены многим."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Рабочий стол, построенный машинами."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Нам, Тринкам, не нужно много инструментов. Наших рук достаточно, чтобы изготовить большую часть того, что нам нужно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Обнаружен машинный рабочий стол."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Рабочий стол-инопланетянин, Акки мастерит здесь вещи."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Конструктор схем^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Частично автоматизированная производственная машина тринков."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Эта машина может помочь в производстве многих вещей. Повстанцы могли бы этим воспользоваться."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Машина, которая может помочь производить множество предметов, как больших, так и маленьких."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Машина помогает Флорану делать вещи."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Взволнованный. С помощью этой машины рукоделие станет проще простого!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Большая машина для помощи мастерам."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Да, эта машина может производить многое, но для ее управления все равно требуется ремесленник."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Большая и мощная машина, безусловно, полезная для крафта."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Эта машина сделает большую часть работы за вас."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Машинно-ремесленная станция. Лучше будь осторожен с моими закрылками вокруг этой штуки..."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Эта машина может помочь мне в моих ремесленных навыках, но она все равно требует моего участия."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Обнаружена ремесленная станция. Происхождение: машинное."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Большая пресса, сделайте вещи плоскими. Акки использую для крафта."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange;Изготовитель схем^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Полностью автоматическая производственная машина тринков."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"Что-то вроде машины для 3D-печати, но гораздо более продвинутой."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"Эта машина может напечатать практически все, используя правильные чертежи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Машина делает вещи по чертежам."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Смиренный. Эта машина может создать гораздо больше, чем я сам."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Сверхсовременный 3D-принтер, способный печатать оружие, доспехи и многое другое!"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Передовая машина для 3D-печати. Для этого не нужны никакие навыки, только чертежи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"Эта машина может печатать оружие? Что это за магия?"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"При наличии правильных чертежей и материалов эта машина может напечатать практически все."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"Автоматизированная ремесленная станция, построенная машинами."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Вставьте совместимый чертеж и необходимые материалы, и эта станция построит практически все."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Обнаружена система печати. Анализ: машинный."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Автоматизированный производитель: сделайте все, что нужно акки."
+}]

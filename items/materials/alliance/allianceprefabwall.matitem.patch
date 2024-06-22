@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Часть сборной стены.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сборная стена Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Часть сборной стены."
+},{"op":"replace","path":"/shortdescription","value":
+"Сборная стена Альянса"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Взрывная дверь Номада",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическую дверь сложно взломать.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлическая взрывозащитная дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь. Прорваться через него чертовски сложно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена взрывоопасная дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Номада"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая противовзрывная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлическую дверь сложно взломать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлическая взрывозащитная дверь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Взрывная дверь. Прорваться через него чертовски сложно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена взрывоопасная дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь."
+}]

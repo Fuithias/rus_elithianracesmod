@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Блокирующее поле Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это энергетическое поле будет препятствовать прохождению определенных сущностей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Некоторые сущности не могут пройти сюда.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Это блокирующее поле предотвратит прохождение определенных объектов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено блокирующее поле. Предотвращает прохождение определенных объектов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки может пройти. Другие не могут.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Блокирующее поле Альянса"
+},{"op":"replace","path":"/description","value":
+"Это энергетическое поле будет препятствовать прохождению определенных сущностей."
+},{"op":"replace","path":"/floranDescription","value":
+"Некоторые сущности не могут пройти сюда."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Это блокирующее поле предотвратит прохождение определенных объектов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено блокирующее поле. Предотвращает прохождение определенных объектов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки может пройти. Другие не могут."
+}]

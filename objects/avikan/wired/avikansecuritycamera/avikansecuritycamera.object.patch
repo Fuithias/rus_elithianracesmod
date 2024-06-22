@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Камера видеонаблюдения Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера, которая посылает сигнал при обнаружении близлежащих объектов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Камера наблюдения. Надеюсь, Миникног не смотрит...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера. Он отправит сигнал, если обнаружит движение.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера следует за Флораном. Флоран в ярости!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ненадежный. Я не уверен, кто смотрит через эту камеру.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это камера! Он будет следовать за целями автономно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера. Кто смотрит?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Безопасность на высоте.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта камера отправит сигнал, если увидит меня. Лучше будьте осторожны.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера наблюдения. Интересно, кто смотрит?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективно спроектированная камера. Он может обнаруживать движение и отфильтровывать бесполезные цели.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена система камер. Рекомендую осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камера отслеживает цели. Акки - цель...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Камера видеонаблюдения Авикан"
+},{"op":"replace","path":"/description","value":
+"Камера, которая посылает сигнал при обнаружении близлежащих объектов."
+},{"op":"replace","path":"/apexDescription","value":
+"Камера наблюдения. Надеюсь, Миникног не смотрит..."
+},{"op":"replace","path":"/avianDescription","value":
+"Камера. Он отправит сигнал, если обнаружит движение."
+},{"op":"replace","path":"/floranDescription","value":
+"Камера следует за Флораном. Флоран в ярости!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Ненадежный. Я не уверен, кто смотрит через эту камеру."
+},{"op":"replace","path":"/humanDescription","value":
+"Это камера! Он будет следовать за целями автономно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Камера. Кто смотрит?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Безопасность на высоте."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта камера отправит сигнал, если увидит меня. Лучше будьте осторожны."
+},{"op":"replace","path":"/avikanDescription","value":
+"Камера наблюдения. Интересно, кто смотрит?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективно спроектированная камера. Он может обнаруживать движение и отфильтровывать бесполезные цели."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена система камер. Рекомендую осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Камера отслеживает цели. Акки - цель..."
+}]

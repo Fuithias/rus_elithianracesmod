@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Серверная стойка Тринкиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка, заполненная серверами данных Тринкиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Серверная стойка. Интересно, какие данные он содержит?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая серверная стойка. Что это может быть за обработка?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает гудящих коробок...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтересовано. Эта серверная стойка должна обрабатывать невероятные объемы данных.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Серверная стойка с внутренним охлаждением. Потрясающий!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Серверная стойка. Какие интересные вещи он может обрабатывать?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Серверная стойка Trinkian. Это абсолютно жизненно важно для Тринка.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Связка компьютеров в единую конструкцию.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта серверная стойка обеспечивает вычислительную мощность, необходимую для наших обширных сетей связи.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена стойка сервера данных пришельцев. Попытка взлома не удалась.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Север-инопланетянин. Акки взломать, узнать много чего.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Серверная стойка Тринкиан"
+},{"op":"replace","path":"/description","value":
+"Стойка, заполненная серверами данных Тринкиана."
+},{"op":"replace","path":"/apexDescription","value":
+"Серверная стойка. Интересно, какие данные он содержит?"
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая серверная стойка. Что это может быть за обработка?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает гудящих коробок..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтересовано. Эта серверная стойка должна обрабатывать невероятные объемы данных."
+},{"op":"replace","path":"/humanDescription","value":
+"Серверная стойка с внутренним охлаждением. Потрясающий!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Серверная стойка. Какие интересные вещи он может обрабатывать?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Серверная стойка тринков. Это абсолютно жизненно важно для Тринка."
+},{"op":"replace","path":"/avikanDescription","value":
+"Связка компьютеров в единую конструкцию."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта серверная стойка обеспечивает вычислительную мощность, необходимую для наших обширных сетей связи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена стойка сервера данных пришельцев. Попытка взлома не удалась."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Север-инопланетянин. Акки взломать, узнать много чего."
+}]

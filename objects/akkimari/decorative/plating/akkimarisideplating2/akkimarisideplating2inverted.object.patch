@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Боковая пластина",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические обшивки обнаружены снаружи построек Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическое покрытие. Выглядит примитивно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Покрытие металлоломом.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические пластины из металлолома.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлический каркас, покрытый металлоломом.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на металлолом. Как-то примитивно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Покрытие металлоломом. Не очень элегантно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стена из мусора.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стена, построенная из металлолома.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта стена выглядит так, будто ее сделали из металлолома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта стена из металлолома на удивление хорошо изолирована.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен металлолом обшивки стен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари знает, что стена выдержит.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Боковая пластина"
+},{"op":"replace","path":"/description","value":
+"Металлические обшивки обнаружены снаружи построек Аккимари."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлическое покрытие. Выглядит примитивно."
+},{"op":"replace","path":"/avianDescription","value":
+"Покрытие металлоломом."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические пластины из металлолома."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлический каркас, покрытый металлоломом."
+},{"op":"replace","path":"/humanDescription","value":
+"Это похоже на металлолом. Как-то примитивно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Покрытие металлоломом. Не очень элегантно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Стена из мусора."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стена, построенная из металлолома."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта стена выглядит так, будто ее сделали из металлолома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта стена из металлолома на удивление хорошо изолирована."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен металлолом обшивки стен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Аккимари знает, что стена выдержит."
+}]

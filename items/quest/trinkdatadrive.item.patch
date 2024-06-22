@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Тринкианское устройство хранения данных. В настоящее время он пуст.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Схема накопителя данных^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тринкианское устройство хранения данных. В настоящее время он пуст."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Схема накопителя данных^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

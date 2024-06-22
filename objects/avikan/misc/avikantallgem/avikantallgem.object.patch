@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Высокий авиканский самоцвет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Симпатичный драгоценный камень.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прекрасный драгоценный камень.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сказочный драгоценный камень. Такой блестящий!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блеск стоит денег.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Драгоценный камень, добытый из глубины скальной породы.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий драгоценный камень. Симпатичный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Драгоценный камень великолепного качества.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сияющий драгоценный камень.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Драгоценный камень. Авиканам, кажется, это очень нравится.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Драгоценный камень, добытый в скалах Кадавана.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Драгоценный камень. Авикан, кажется, ценит это очень высоко.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено минеральное вещество. Происхождение: Кадаван.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кристалл-большой. Может ли Акки есть?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Высокий авиканский самоцвет"
+},{"op":"replace","path":"/description","value":
+"Симпатичный драгоценный камень."
+},{"op":"replace","path":"/apexDescription","value":
+"Прекрасный драгоценный камень."
+},{"op":"replace","path":"/avianDescription","value":
+"Сказочный драгоценный камень. Такой блестящий!"
+},{"op":"replace","path":"/floranDescription","value":
+"Блеск стоит денег."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Драгоценный камень, добытый из глубины скальной породы."
+},{"op":"replace","path":"/humanDescription","value":
+"Блестящий драгоценный камень. Симпатичный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Драгоценный камень великолепного качества."
+},{"op":"replace","path":"/novakidDescription","value":
+"Сияющий драгоценный камень."
+},{"op":"replace","path":"/aegiDescription","value":
+"Драгоценный камень. Авиканам, кажется, это очень нравится."
+},{"op":"replace","path":"/avikanDescription","value":
+"Драгоценный камень, добытый в скалах Кадавана."
+},{"op":"replace","path":"/trinkDescription","value":
+"Драгоценный камень. Авикан, кажется, ценит это очень высоко."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено минеральное вещество. Происхождение: Кадаван."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кристалл-большой. Может ли Акки есть?"
+}]

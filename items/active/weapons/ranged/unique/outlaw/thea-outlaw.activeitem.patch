@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Мощное оружие неизвестного происхождения, когда-то бывшее у печально известного бандита.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#FFDD59;Астральный разбойник^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ручная пушка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Мощное оружие неизвестного происхождения, когда-то бывшее у печально известного бандита."
+},{"op":"replace","path":"/shortdescription","value":
+"^#FFDD59;Астральный разбойник^white;"
+},{"op":"replace","path":"/category","value":
+"Ручная пушка"
+}]

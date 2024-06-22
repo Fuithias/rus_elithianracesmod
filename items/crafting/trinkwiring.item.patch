@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Медная проводка для использования в электронике.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианская проводка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Медная проводка для использования в электронике."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианская проводка"
+}]

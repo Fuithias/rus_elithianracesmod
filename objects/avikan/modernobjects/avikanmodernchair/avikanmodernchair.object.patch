@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Стул",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современный тяжелый стул.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло с удобной кожаной подушкой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобное кресло.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стульчик для сидения!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Кресло.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло. Невероятно удобно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень удобное кресло.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелое кресло, но невероятно удобное.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современный стул Авикан. Еще удобнее, чем наши кожаные подушки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сообщается, что удобное кресло.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование указывает на повреждение кожи. Рекомендуется ремонт.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло-инопланетянин. Странно, но приятно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Стул"
+},{"op":"replace","path":"/description","value":
+"Современный тяжелый стул."
+},{"op":"replace","path":"/apexDescription","value":
+"Кресло с удобной кожаной подушкой."
+},{"op":"replace","path":"/avianDescription","value":
+"Удобное кресло."
+},{"op":"replace","path":"/floranDescription","value":
+"Стульчик для сидения!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Кресло."
+},{"op":"replace","path":"/humanDescription","value":
+"Кресло. Невероятно удобно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Очень удобное кресло."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тяжелое кресло, но невероятно удобное."
+},{"op":"replace","path":"/avikanDescription","value":
+"Современный стул Авикан. Еще удобнее, чем наши кожаные подушки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Сообщается, что удобное кресло."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование указывает на повреждение кожи. Рекомендуется ремонт."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кресло-инопланетянин. Странно, но приятно."
+}]

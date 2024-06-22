@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^#BA66FF;Копье, выдаваемое истинным кеффоходам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Копье кеффохода^reset;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копье охотника",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^#BA66FF;Копьё, выдаваемое истинным кеффоходам."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Копьё кеффохода^reset;"
+},{"op":"replace","path":"/category","value":
+"Копьё охотника"
+}]

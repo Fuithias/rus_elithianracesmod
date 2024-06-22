@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Мощная потоковая винтовка, стреляющая расплавленным металлом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Татх",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потокая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощная потоковая винтовка, стреляющая расплавленным металлом."
+},{"op":"replace","path":"/shortdescription","value":
+"Татх"
+},{"op":"replace","path":"/category","value":
+"Потокая винтовка"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Темный пол авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пол из темного металла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Пол из темного металла.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панели для пола.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пол такой же толстый, как сейф.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Половая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-пол, акки ходит по ней.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Темный пол авикан"
+},{"op":"replace","path":"/description","value":
+"Пол из темного металла."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Пол из темного металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Панели для пола."
+},{"op":"replace","path":"/novakidDescription","value":
+"Пол такой же толстый, как сейф."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Половая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-пол, акки ходит по ней."
+}]

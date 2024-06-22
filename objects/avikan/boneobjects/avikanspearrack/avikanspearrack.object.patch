@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Стойка для копий",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка с костяными копьями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Копья из кости. Как примитивно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копья из кости. Удивительно острый.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Костяное копье. Флорану нравится.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Спирс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копья из кости, но стойка сделана из металла. Странный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти копья сделаны из кости. Но от какого существа?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти костяные копья необычайно острые и прочные.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционные костяные копья из дома. Сильнее многих металлических копий.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция костяных копий.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружена кость песчаного ловца.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копьевидная кость для охоты.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Стойка для копий"
+},{"op":"replace","path":"/description","value":
+"Стойка с костяными копьями."
+},{"op":"replace","path":"/apexDescription","value":
+"Копья из кости. Как примитивно."
+},{"op":"replace","path":"/avianDescription","value":
+"Копья из кости. Удивительно острый."
+},{"op":"replace","path":"/floranDescription","value":
+"Костяное копьё. Флорану нравится."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Спирс."
+},{"op":"replace","path":"/humanDescription","value":
+"Копья из кости, но стойка сделана из металла. Странный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эти копья сделаны из кости. Но от какого существа?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти костяные копья необычайно острые и прочные."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционные костяные копья из дома. Сильнее многих металлических копий."
+},{"op":"replace","path":"/trinkDescription","value":
+"Коллекция костяных копий."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружена кость песчаного ловца."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Копьёвидная кость для охоты."
+}]

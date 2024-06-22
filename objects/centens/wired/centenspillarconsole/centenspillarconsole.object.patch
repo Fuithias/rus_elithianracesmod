@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Консоль центенского столба",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жесткий голографический интерфейс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Жесткий голографический интерфейс. Я понятия не имею, как этого удалось добиться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Он древний, но на нем нет никаких признаков возраста. Это работа Клюкса?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран кажется твердым, но экран всего лишь легким... Флоран в замешательстве.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Эта технология удивительно продвинута.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жесткий голографический экран. Пытаться просунуть сквозь него руку — все равно, что двигаться сквозь густое желе.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя консоль. Это весьма примечательно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот это странное устройство. Он сделан из света, но я могу его потрогать.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот интерфейс Centensian представляет собой странную разновидность твердой голограммы.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древние построили это. Он все еще функционирует, даже после многих лет простоя.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жесткий голографический интерфейс, созданный Centens.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Обнаружен Centensian интерфейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб-свет, интерфейс-странный. Акки прикосновение, смена столбов!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Консоль центенского столба"
+},{"op":"replace","path":"/description","value":
+"Жесткий голографический интерфейс."
+},{"op":"replace","path":"/apexDescription","value":
+"Жесткий голографический интерфейс. Я понятия не имею, как этого удалось добиться."
+},{"op":"replace","path":"/avianDescription","value":
+"Он древний, но на нем нет никаких признаков возраста. Это работа Клюкса?"
+},{"op":"replace","path":"/floranDescription","value":
+"Экран кажется твердым, но экран всего лишь легким... Флоран в замешательстве."
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Эта технология удивительно продвинута."
+},{"op":"replace","path":"/humanDescription","value":
+"Жесткий голографический экран. Пытаться просунуть сквозь него руку — все равно, что двигаться сквозь густое желе."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Древняя консоль. Это весьма примечательно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Вот это странное устройство. Он сделан из света, но я могу его потрогать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот интерфейс Centensian представляет собой странную разновидность твердой голограммы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Древние построили это. Он все еще функционирует, даже после многих лет простоя."
+},{"op":"replace","path":"/trinkDescription","value":
+"Жесткий голографический интерфейс, созданный Centens."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Обнаружен Centensian интерфейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Столб-свет, интерфейс-странный. Акки прикосновение, смена столбов!"
+}]

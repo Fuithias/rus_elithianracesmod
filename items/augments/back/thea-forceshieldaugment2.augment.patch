@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Создает перезаряжаемый щит, который при разрушении отталкивает врагов и снаряды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Улучшение силового щита II",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Создает перезаряжаемый щит, который при разрушении отталкивает врагов и снаряды."
+},{"op":"replace","path":"/shortdescription","value":
+"Улучшение силового щита II"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Стандартный пистолет Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Альянс Коллектив^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АЦ.П-8 Манус",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Стандартный пистолет Альянса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Альянс Коллектив^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АЦ.П-8 Манус"
+},{"op":"replace","path":"/category","value":
+"Пистолет"
+}]

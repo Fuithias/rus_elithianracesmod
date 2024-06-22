@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Штурмовая баллистическая винтовка.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Бредон Армс^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "БА-12 Мейсон",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Штурмовая баллистическая винтовка.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Бредон Армс^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"БА-12 Мейсон"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+}]

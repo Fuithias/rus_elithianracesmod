@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Летающее существо с Элиции, Фарит - быстрый и маневренный хищник.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фарит",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Летающее существо с Элиции, Фарит - быстрый и маневренный хищник."
+},{"op":"replace","path":"/shortdescription","value":
+"Фарит"
+}]

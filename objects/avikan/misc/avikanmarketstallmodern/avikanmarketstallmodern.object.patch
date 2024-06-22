@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Технический ларек Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, полный техники Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетные технологии продаются? Это может быть полезно...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночная палатка! Что они продают?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические птицы на продажу.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Что это за дроны?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дроны! Идеальные игрушки для слежки за соседями!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция инопланетных технологий.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, полный инопланетных технологий.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ассортимент техники Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тот, кто владеет этим ларьком, торгует Дралами, Дроденами и другими технологиями.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несмотря на свою анти-ИИ-культуру, Авикан широко используют дроны и других роботов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен рыночный ларек. Сканирование ближайших торговцев...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки воруют здесь дронов-инопланетян. Не покупай.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Технический ларек Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок, полный техники Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Инопланетные технологии продаются? Это может быть полезно..."
+},{"op":"replace","path":"/avianDescription","value":
+"Рыночная палатка! Что они продают?"
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические птицы на продажу."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Что это за дроны?"
+},{"op":"replace","path":"/humanDescription","value":
+"Дроны! Идеальные игрушки для слежки за соседями!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Коллекция инопланетных технологий."
+},{"op":"replace","path":"/novakidDescription","value":
+"Рыночный прилавок, полный инопланетных технологий."
+},{"op":"replace","path":"/aegiDescription","value":
+"Ассортимент техники Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Тот, кто владеет этим ларьком, торгует Дралами, Дроденами и другими технологиями."
+},{"op":"replace","path":"/trinkDescription","value":
+"Несмотря на свою анти-ИИ-культуру, Авикан широко используют дроны и других роботов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен рыночный ларек. Сканирование ближайших торговцев..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки воруют здесь дронов-инопланетян. Не покупай."
+}]

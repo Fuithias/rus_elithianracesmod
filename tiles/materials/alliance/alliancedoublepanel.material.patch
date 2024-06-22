@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Двойная панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Многослойные металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Эти металлические панели состоят из нескольких отдельных слоев.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические стены сделаны из многих планок.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая стена из нескольких листов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Многослойные металлические панели.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панели-многослойные, хорошая изоляция.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Двойная панель Альянса"
+},{"op":"replace","path":"/description","value":
+"Многослойные металлические панели."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Эти металлические панели состоят из нескольких отдельных слоев."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические стены сделаны из многих планок."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая стена из нескольких листов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Многослойные металлические панели."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панели-многослойные, хорошая изоляция."
+}]

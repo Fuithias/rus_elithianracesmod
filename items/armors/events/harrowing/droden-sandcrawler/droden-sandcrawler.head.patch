@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Маска пескохода для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска пескополза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Маска пескохода для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска пескополза"
+}]

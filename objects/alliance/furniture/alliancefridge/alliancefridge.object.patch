@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Холодильник",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Холодильник, для сохранения продуктов свежими.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Идеальное место для хранения бананов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Холодильник. Надеюсь, там есть немного панировочных сухарей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран это любопытно. Что внутри?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удовлетворен. Этот холодильник не даст моей еде испортиться.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто холодильник, ничего особенного.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но функциональный холодильник.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистый на вид холодильник.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Холодильник стандартной модели.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный холодильник.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный холодильник.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено холодильное хранилище.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Холодильник для хранения, для сохранения продуктов свежими.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Холодильник"
+},{"op":"replace","path":"/description","value":
+"Холодильник, для сохранения продуктов свежими."
+},{"op":"replace","path":"/apexDescription","value":
+"Идеальное место для хранения бананов."
+},{"op":"replace","path":"/avianDescription","value":
+"Холодильник. Надеюсь, там есть немного панировочных сухарей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран это любопытно. Что внутри?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удовлетворен. Этот холодильник не даст моей еде испортиться."
+},{"op":"replace","path":"/humanDescription","value":
+"Просто холодильник, ничего особенного."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой, но функциональный холодильник."
+},{"op":"replace","path":"/novakidDescription","value":
+"Чистый на вид холодильник."
+},{"op":"replace","path":"/aegiDescription","value":
+"Холодильник стандартной модели."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный холодильник."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективный холодильник."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено холодильное хранилище."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Холодильник для хранения, для сохранения продуктов свежими."
+}]

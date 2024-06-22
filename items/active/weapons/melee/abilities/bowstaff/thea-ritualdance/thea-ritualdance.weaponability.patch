@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Ритуал / Рельс крюк",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Ритуал / Рельс крюк"
+}]

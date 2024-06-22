@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Фермерский блок Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер, заполненный плодородной землей, готовый для сельского хозяйства.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Земля в металлическом контейнере, для внутреннего земледелия.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Земля для земледелия.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязная металлическая панель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Плодородная земля в металлическом контейнере.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер для земли, здесь можно выращивать растения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фермерский блок Альянса"
+},{"op":"replace","path":"/description","value":
+"Металлический контейнер, заполненный плодородной землей, готовый для сельского хозяйства."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Земля в металлическом контейнере, для внутреннего земледелия."
+},{"op":"replace","path":"/floranDescription","value":
+"Земля для земледелия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Грязная металлическая панель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Плодородная земля в металлическом контейнере."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Контейнер для земли, здесь можно выращивать растения."
+}]

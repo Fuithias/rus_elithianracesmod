@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Платформа спикера Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тот, кто-с-говор-с-стоит здесь...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Платформа, с которой можно обращаться к публике.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, с которой можно обращаться к публике.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа. Используется ораторами для обращения к публике.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки встань здесь и поговори с Аккимари.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Платформа спикера Авикан"
+},{"op":"replace","path":"/description","value":
+"Платформа."
+},{"op":"replace","path":"/apexDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/avianDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/floranDescription","value":
+"Тот, кто-с-говор-с-стоит здесь..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/humanDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/novakidDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/aegiDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/avikanDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/trinkDescription","value":
+"Платформа, с которой можно обращаться к публике."
+},{"op":"replace","path":"/drodenDescription","value":
+"Платформа. Используется ораторами для обращения к публике."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки встань здесь и поговори с Аккимари."
+}]

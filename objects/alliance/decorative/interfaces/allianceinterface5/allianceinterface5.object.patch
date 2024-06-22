@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Интерфейс Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс, отображающий второстепенную информацию.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс, отображающий некоторую информацию.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то интерфейс.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На Флорана накричали, когда Флоран писал на экране...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Интерфейс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Причудливый интерфейс.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный интерфейс.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я считаю, что этот интерфейс показывает что-то важное, но я не могу ничего прочитать.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс, отображающий полезную информацию.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой интерфейс. Для меня это брехня.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот интерфейс довольно эффективен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Попытка перевода.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс-чужой. Акки не может перевести.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Интерфейс Альянса"
+},{"op":"replace","path":"/description","value":
+"Интерфейс, отображающий второстепенную информацию."
+},{"op":"replace","path":"/apexDescription","value":
+"Интерфейс, отображающий некоторую информацию."
+},{"op":"replace","path":"/avianDescription","value":
+"Какой-то интерфейс."
+},{"op":"replace","path":"/floranDescription","value":
+"На Флорана накричали, когда Флоран писал на экране..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Интерфейс."
+},{"op":"replace","path":"/humanDescription","value":
+"Причудливый интерфейс."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный интерфейс."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я считаю, что этот интерфейс показывает что-то важное, но я не могу ничего прочитать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Интерфейс, отображающий полезную информацию."
+},{"op":"replace","path":"/avikanDescription","value":
+"Чужой интерфейс. Для меня это брехня."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот интерфейс довольно эффективен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Попытка перевода."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Интерфейс-чужой. Акки не может перевести."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Форма, которую носят медработники Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Форма Медитек",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Форма, которую носят медработники Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Форма Медитек"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^#b9b5b2;ЧЕРТЕЖИ",
-    "path": "/paneLayout/lblSchematics/value",
-    "op": "replace"
-  },
-  {
-    "value": "^#b9b5b2;ПРОДУКТ",
-    "path": "/paneLayout/lblProducttitle/value",
-    "op": "replace"
-  },
-  {
-    "value": "ИМЕЮЩИЕСЯ МАТЕРИАЛЫ",
-    "path": "/paneLayout/lblProduct/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/paneLayout/lblSchematics/value","value":
+"^#b9b5b2;ЧЕРТЕЖИ"
+},{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":
+"^#b9b5b2;ПРОДУКТ"
+},{"op":"replace","path":"/paneLayout/lblProduct/value","value":
+"ИМЕЮЩИЕСЯ МАТЕРИАЛЫ"
+}]

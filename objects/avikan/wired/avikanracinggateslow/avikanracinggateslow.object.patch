@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авиканские гоночные ворота — медленный",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, замедляющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гоночные ворота. Он замедлит любой проезжающий мимо ховербайк.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти гоночные ворота замедляют проезжающие мимо ховербайки.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану следует быть осторожнее. Светящийся столб замедляет движение ховербайка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Проезд мимо него на ховербайке вызывает значительное замедление.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гоночные ворота, замедляющие проезжающие мимо ховербайки. Штопать.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, замедляющие проезжающие мимо ховербайки.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот маркер замедляет ховербайки. Да.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти ворота замедлят любой проезжающий мимо ховербайк.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ворота, замедляющие проезжающие мимо ховербайки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маркер, заставляющий ховербайки замедляться.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены гоночные ворота. Замедляет проезжающие мимо ховербайки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки проезжает мимо, Акки тормозит. Акки не нравится.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан медленные врата"
+},{"op":"replace","path":"/description","value":
+"Ворота, замедляющие ховербайки. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство."
+},{"op":"replace","path":"/apexDescription","value":
+"Гоночные ворота. Он замедлит любой проезжающий мимо ховербайк."
+},{"op":"replace","path":"/avianDescription","value":
+"Эти гоночные ворота замедляют проезжающие мимо ховербайки."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану следует быть осторожнее. Светящийся столб замедляет движение ховербайка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Проезд мимо него на ховербайке вызывает значительное замедление."
+},{"op":"replace","path":"/humanDescription","value":
+"Гоночные ворота, замедляющие проезжающие мимо ховербайки. Штопать."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ворота, замедляющие проезжающие мимо ховербайки."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот маркер замедляет ховербайки. Да."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти ворота замедлят любой проезжающий мимо ховербайк."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ворота, замедляющие проезжающие мимо ховербайки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мкер, заставляющий ховербайки замедляться."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены гоночные ворота. Замедляет проезжающие мимо ховербайки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки проезжает мимо, Акки тормозит. Акки не нравится."
+}]

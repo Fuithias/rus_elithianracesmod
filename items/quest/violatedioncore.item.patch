@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Ядро оскверненной ионной пушки элитного Драла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Нарушено ионное ядро^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ядро оскверненной ионной пушки элитного Драла."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Нарушено ионное ядро^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

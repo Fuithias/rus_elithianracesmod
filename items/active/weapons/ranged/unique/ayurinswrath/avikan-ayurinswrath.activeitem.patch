@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Авангардная ракетная установка, модифицированная Аюрином.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Аюрин/Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Гнев Аюрина^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ракетная установка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Ракетный залп",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Авангардная ракетная установка, модифицированная Аюрином."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Аюрин/Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Гнев Аюрина^white;"
+},{"op":"replace","path":"/category","value":
+"Ракетная установка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Ракетный залп"
+}]

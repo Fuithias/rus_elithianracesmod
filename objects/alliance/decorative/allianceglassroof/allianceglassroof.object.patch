@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Стеклянная крыша Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая наклонная стеклянная крыша.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорана смущает стеклянная крыша.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Это окно необычайно прочное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Стекло.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыша-стекло.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стеклянная крыша Альянса"
+},{"op":"replace","path":"/description","value":
+"Большая наклонная стеклянная крыша."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорана смущает стеклянная крыша."
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Это окно необычайно прочное."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Стекло."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Крыша-стекло."
+}]

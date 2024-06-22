@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Лайнтовка, испорченная телеанским везомиром.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Нарушенные^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Лук Порочителя^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Ионный рой",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Лайнтовка, испорченная телеанским везомиром."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Нарушенные^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Стрел Порочителя^white;"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Ионный рой"
+}]

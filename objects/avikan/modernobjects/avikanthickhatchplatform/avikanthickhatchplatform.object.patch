@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Толстый люк платформы Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк со встроенной площадкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри металлическая платформа с люком и хассом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Этот металлический люк при открытии служит платформой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк в открытом состоянии действует как платформа. Вот это полезно!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк, построенный Nomada. Дизайн включает в себя встроенную платформу.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк толстый, имеет платформу. Акки встают, когда открыты.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Толстый люк платформы Авикан"
+},{"op":"replace","path":"/description","value":
+"Металлический люк со встроенной площадкой."
+},{"op":"replace","path":"/floranDescription","value":
+"Внутри металлическая платформа с люком и хассом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Этот металлический люк при открытии служит платформой."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот люк в открытом состоянии действует как платформа. Вот это полезно!"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк, построенный Номада. Дизайн включает в себя встроенную платформу."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Люк толстый, имеет платформу. Акки встают, когда открыты."
+}]

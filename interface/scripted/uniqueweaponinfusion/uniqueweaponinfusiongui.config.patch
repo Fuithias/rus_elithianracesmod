@@ -1,22 +1,9 @@
-[
-  {
-    "value": " Infusion Station",
-    "path": "/gui/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " Strengthen your Unique equipment",
-    "path": "/gui/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "Destroy equipment to upgrade a Unique item",
-    "path": "/gui/infoLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Infuse",
-    "path": "/gui/btnInfuse/caption",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/windowtitle/title","value":
+" Станция инфузии"
+},{"op":"replace","path":"/gui/windowtitle/subtitle","value":
+" Усильте свое важное снаряжение"
+},{"op":"replace","path":"/gui/infoLabel/value","value":
+"Уничтожить снаряжение, чтобы улучшить важный предмет"
+},{"op":"replace","path":"/gui/btnInfuse/caption","value":
+"Настой"
+}]

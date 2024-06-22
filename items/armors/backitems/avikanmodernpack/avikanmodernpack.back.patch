@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Легкий, но хорошо защищенный металлический сундук, предназначенный для ношения на спине.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сундук стража",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Легкий, но хорошо защищенный металлический сундук, предназначенный для ношения на спине."
+},{"op":"replace","path":"/shortdescription","value":
+"Сундук стража"
+}]

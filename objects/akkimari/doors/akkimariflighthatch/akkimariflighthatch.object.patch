@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Флайт Люк",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой металлический люк, используемый в полетных отсеках Аккимари. Он открывается только для транспортных средств.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Люк, открывающийся для транспортных средств.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический люк. Он будет открыт только для транспортных средств.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран должен использовать машину, чтобы открыть эту дверь.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Эти двери открываются только для транспортных средств.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на люк летного отсека.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно грубый металлический люк. Мне следует быть осторожным, чтобы не порезаться.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь открывается только для транспортных средств.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк летного отсека Аккимари. Он будет открыт только для транспортных средств.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк, построенный инопланетянами. Мне понадобится машина, чтобы открыть его.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не очень эффективно, но этот люк из металлолома вполне эффективен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк летного отсека.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари может пролететь здесь на самолете Chaseflight.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Флайт Люк"
+},{"op":"replace","path":"/description","value":
+"Большой металлический люк, используемый в полетных отсеках Аккимари. Он открывается только для транспортных средств."
+},{"op":"replace","path":"/apexDescription","value":
+"Люк, открывающийся для транспортных средств."
+},{"op":"replace","path":"/avianDescription","value":
+"Прочный металлический люк. Он будет открыт только для транспортных средств."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран должен использовать машину, чтобы открыть эту дверь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Эти двери открываются только для транспортных средств."
+},{"op":"replace","path":"/humanDescription","value":
+"Похоже на люк летного отсека."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Довольно грубый металлический люк. Мне следует быть осторожным, чтобы не порезаться."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта дверь открывается только для транспортных средств."
+},{"op":"replace","path":"/aegiDescription","value":
+"Люк летного отсека Аккимари. Он будет открыт только для транспортных средств."
+},{"op":"replace","path":"/avikanDescription","value":
+"Люк, построенный инопланетянами. Мне понадобится машина, чтобы открыть его."
+},{"op":"replace","path":"/trinkDescription","value":
+"Не очень эффективно, но этот люк из металлолома вполне эффективен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк летного отсека."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Аккимари может пролететь здесь на самолете Chaseflight."
+}]

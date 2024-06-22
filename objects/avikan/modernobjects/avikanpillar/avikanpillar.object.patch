@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авиканский столб",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная опора.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический столб.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический столб.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические колонны выглядят как большие копья...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Столб.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Опорный столб. Он может выдерживать большой вес.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический столб. Эффектно, но не слишком красиво.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный столб.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический столб из дома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический столб.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Опорный столб. Не удалось оценить максимальный поддерживаемый вес.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столб длинный, для поддержки тяжелой крыши.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский столб"
+},{"op":"replace","path":"/description","value":
+"Мощная опора."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочный металлический столб."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический столб."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические колонны выглядят как большие копья..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Столб."
+},{"op":"replace","path":"/humanDescription","value":
+"Опорный столб. Он может выдерживать большой вес."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлический столб. Эффектно, но не слишком красиво."
+},{"op":"replace","path":"/aegiDescription","value":
+"Прочный столб."
+},{"op":"replace","path":"/avikanDescription","value":
+"Металлический столб из дома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Металлический столб."
+},{"op":"replace","path":"/drodenDescription","value":
+"Опорный столб. Не удалось оценить максимальный поддерживаемый вес."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Столб длинный, для поддержки тяжелой крыши."
+}]

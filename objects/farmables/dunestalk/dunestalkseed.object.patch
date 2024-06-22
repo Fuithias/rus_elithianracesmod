@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя дюнного стебля",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выносливый дюнный стебель, растение, похожее на пшеницу, растущее в засушливых местах.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на пшеницу, но гораздо крепче и суше.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крепкое растение, чем-то похожее на пшеницу. Однако на вкус семена не так хороши.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран в замешательстве... Это пшеница?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Имеет ли дюнный стебель столько же применений, как пшеница?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, смогу ли я использовать это, чтобы испечь какой-нибудь инопланетный хлеб?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это растение невероятно сухое. Я даже не уверен, что вода пойдет на пользу.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Может быть, какая-то странная форма пшеницы?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Dunestalk — это эквивалент пшеницы на родной планете Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы приготовить традиционную еду, используя этот дюнный стебель.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дюнный стебель и пшеница во многом схожи, хотя у дюнного стебля не так много применений.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена аборигенная флора Кадавана. Дюнсталк подтвердил.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Трава выглядит мертвой. Сухой-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя дюнного стебля"
+},{"op":"replace","path":"/description","value":
+"Выносливый дюнный стебель, растение, похожее на пшеницу, растущее в засушливых местах."
+},{"op":"replace","path":"/apexDescription","value":
+"Это похоже на пшеницу, но гораздо крепче и суше."
+},{"op":"replace","path":"/avianDescription","value":
+"Крепкое растение, чем-то похожее на пшеницу. Однако на вкус семена не так хороши."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран в замешательстве... Это пшеница?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Имеет ли дюнный стебель столько же применений, как пшеница?"
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, смогу ли я использовать это, чтобы испечь какой-нибудь инопланетный хлеб?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это растение невероятно сухое. Я даже не уверен, что вода пойдет на пользу."
+},{"op":"replace","path":"/novakidDescription","value":
+"Может быть, какая-то странная форма пшеницы?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Dunestalk — это эквивалент пшеницы на родной планете Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я мог бы приготовить традиционную еду, используя этот дюнный стебель."
+},{"op":"replace","path":"/trinkDescription","value":
+"Дюнный стебель и пшеница во многом схожи, хотя у дюнного стебля не так много применений."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена аборигенная флора Кадавана. Дюнсталк подтвердил."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Трава выглядит мертвой. Сухой-очень."
+}]

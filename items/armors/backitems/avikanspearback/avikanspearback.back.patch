@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Декоративное копье из костей, для ношения на спине.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Копье авиканца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Декоративное копьё из костей, для ношения на спине."
+},{"op":"replace","path":"/shortdescription","value":
+"Копьё авиканца"
+}]

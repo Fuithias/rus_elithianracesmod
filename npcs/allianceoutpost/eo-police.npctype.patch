@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Я здесь, чтобы сохранить мир.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Даже посольству нужна охрана.",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Соблюдайте правила, и у вас все получится.",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Устроите неприятности, и вы сразу же найдете P-ASA. Просто дружеское предупреждение.",
-    "path": "/scriptConfig/dialog/converse/default/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "P-ASA здесь, чтобы сохранить мир. Не то чтобы мы были нужны очень часто.",
-    "path": "/scriptConfig/dialog/converse/default/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Я здесь, чтобы сохранить мир."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Даже посольству нужна охрана."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Соблюдайте правила, и у вас все получится."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/3","value":
+"Устроите неприятности, и вы сразу же найдете П-АСБ. Просто дружеское предупреждение."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/4","value":
+"П-АСБ здесь, чтобы сохранить мир. Не то чтобы мы были нужны очень часто."
+}]

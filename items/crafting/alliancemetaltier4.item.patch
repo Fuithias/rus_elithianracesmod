@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный и твердый сплав аллостали.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Закаленная аллосталь",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный и твердый сплав аллостали."
+},{"op":"replace","path":"/shortdescription","value":
+"Закаленная аллосталь"
+}]

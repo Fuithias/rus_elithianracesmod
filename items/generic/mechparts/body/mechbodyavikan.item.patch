@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Очень прочный корпус робота, разработанный Vanguard.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авангардное тело меха",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Очень прочный корпус робота, разработанный Авангард."
+},{"op":"replace","path":"/shortdescription","value":
+"Авангардное тело меха"
+}]

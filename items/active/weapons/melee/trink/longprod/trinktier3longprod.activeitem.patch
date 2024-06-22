@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Электрошок, призванный держать нападающих на расстоянии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Длинно-стрежень Марк III",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Электрод",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Земной проводник",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Электрошок, призванный держать нападающих на расстоянии."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Длинно-стрежень Мк III"
+},{"op":"replace","path":"/category","value":
+"Электрод"
+},{"op":"replace","path":"/altAbility/name","value":
+"Земной проводник"
+}]

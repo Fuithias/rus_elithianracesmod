@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Легкие опорные балки конструкции.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сетка поддержки Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Легкие опорные балки конструкции."
+},{"op":"replace","path":"/shortdescription","value":
+"Сетка поддержки Альянса"
+}]

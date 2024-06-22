@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Официальная куртка униформы АСБ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Куртка АСБ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Официальная куртка униформы АСБ."
+},{"op":"replace","path":"/shortdescription","value":
+"Куртка АСБ"
+}]

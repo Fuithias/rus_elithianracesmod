@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Юбка и поножи, носимые теми, кто разбирает инопланетные корабли на запчасти",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поножи вандала",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Юбка и поножи, носимые теми, кто разбирает инопланетные корабли на запчасти"
+},{"op":"replace","path":"/shortdescription","value":
+"Поножи вандала"
+}]

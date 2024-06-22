@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Терминал Легиона Дродена",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал для покупки юнитов Легиона Дродена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, я могу купить дроидов здесь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для покупки роботов-членов экипажа.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран покупает здесь друзей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Непросто. Роботов-членов экипажа можно приобрести здесь...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я всегда хотел, чтобы в моей команде было больше роботов!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место, где можно купить дополнения для роботизированного экипажа.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы не купить здесь новых металлических друзей?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал для покупки юнитов Легиона Дродена.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не все капитаны хотят иметь в своих командах Дродена, но эти подразделения Легиона, безусловно, будут полезны.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любые дродены, которые я покупаю здесь, будут выполнять мои приказы без вопросов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен терминал Легиона Дродена. Юниты Легиона можно приобрести здесь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки купить друзей-роботов здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Терминал Легиона Дродена"
+},{"op":"replace","path":"/description","value":
+"Терминал для покупки юнитов Легиона Дродена."
+},{"op":"replace","path":"/apexDescription","value":
+"Кажется, я могу купить дроидов здесь."
+},{"op":"replace","path":"/avianDescription","value":
+"Место для покупки роботов-членов экипажа."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран покупает здесь друзей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Непросто. Роботов-членов экипажа можно приобрести здесь..."
+},{"op":"replace","path":"/humanDescription","value":
+"Я всегда хотел, чтобы в моей команде было больше роботов!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Место, где можно купить дополнения для роботизированного экипажа."
+},{"op":"replace","path":"/novakidDescription","value":
+"Почему бы не купить здесь новых металлических друзей?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Терминал для покупки юнитов Легиона Дродена."
+},{"op":"replace","path":"/avikanDescription","value":
+"Не все капитаны хотят иметь в своих командах Дродена, но эти подразделения Легиона, безусловно, будут полезны."
+},{"op":"replace","path":"/trinkDescription","value":
+"Любые дродены, которые я покупаю здесь, будут выполнять мои приказы без вопросов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен терминал Легиона Дродена. Юниты Легиона можно приобрести здесь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки купить друзей-роботов здесь."
+}]

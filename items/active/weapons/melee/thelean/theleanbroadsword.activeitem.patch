@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Стандартный телеанский палаш. Рукоять крайне неудобна для нетелеанцев.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанское острие",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Стандартный телеанский палаш. Рукоять крайне неудобна для нетелеанцев."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанское острие"
+}]

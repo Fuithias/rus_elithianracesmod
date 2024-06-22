@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Если камера заметит тебя, дверь закроется. ^green;Дважды нажми [W] для активации ^orange;скрытности ^reset;и держись вне поля зрения.",
-    "path": "/thea-stealthtech1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Пол провалится, если тебя заметят. Оставайся вне поля зрения!",
-    "path": "/thea-stealthtech2/text",
-    "op": "replace"
-  },
-  {
-    "value": "Скрытность не длится вечно. Будь быстр, иначе ты не успеешь дойти до конца!",
-    "path": "/thea-stealthtech3/text",
-    "op": "replace"
-  },
-  {
-    "value": "Ты завершил испытательный курс. Молодец!",
-    "path": "/thea-stealthtech4/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/thea-stealthtech1/text","value":
+"Если камера заметит тебя, дверь закроется. ^green;Дважды нажми [W] для активации ^orange;скрытности ^reset;и держись вне поля зрения."
+},{"op":"replace","path":"/thea-stealthtech2/text","value":
+"Пол провалится, если тебя заметят. Оставайся вне поля зрения!"
+},{"op":"replace","path":"/thea-stealthtech3/text","value":
+"Скрытность не длится вечно. Будь быстр, иначе ты не успеешь дойти до конца!"
+},{"op":"replace","path":"/thea-stealthtech4/text","value":
+"Ты завершил испытательный курс. Молодец!"
+}]

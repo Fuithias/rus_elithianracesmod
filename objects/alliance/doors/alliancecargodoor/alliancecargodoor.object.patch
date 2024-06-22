@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Грузовая дверь Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая, усиленная грузовая дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Массивная грузовая дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая грузовая дверь. Какому грузу может понадобиться такая большая дверь?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, почему дверь такая большая...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Это очень большая грузовая дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивная грузовая дверь. Через него мог бы пройти даже небольшой космический корабль.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь, достаточно большая для нежного великана.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот это массивная дверь!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая грузовая дверь. Даже шаттл сможет пройти.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая грузовая дверь пришельцев. Скофф должен пройти.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта грузовая дверь не очень компактна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовая дверь. Дизайн инопланетян удивительно знаком.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-большая. Транспортное средство-большое место.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Грузовая дверь Альянса"
+},{"op":"replace","path":"/description","value":
+"Большая, усиленная грузовая дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Массивная грузовая дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Большая грузовая дверь. Какому грузу может понадобиться такая большая дверь?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, почему дверь такая большая..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Это очень большая грузовая дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Массивная грузовая дверь. Через него мог бы пройти даже небольшой космический корабль."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Дверь, достаточно большая для нежного великана."
+},{"op":"replace","path":"/novakidDescription","value":
+"Вот это массивная дверь!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Большая грузовая дверь. Даже шаттл сможет пройти."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большая грузовая дверь пришельцев. Скофф должен пройти."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта грузовая дверь не очень компактна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Грузовая дверь. Дизайн инопланетян удивительно знаком."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-большая. Транспортное средство-большое место."
+}]

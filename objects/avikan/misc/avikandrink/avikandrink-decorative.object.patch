@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Напиток",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стакан сока кактуса Кадаван.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сок колючего кактуса. В нем плавают шипы?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, сок кактуса. В нем плавают какие-то шипы...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пью.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обеспокоенный. В соке кактуса еще есть колючки.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не уверен, что хочу это пить...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стакан сока кактуса. Меня беспокоят плавающие в нем шипы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактусовый сок. На вкус он нормальный, но эти шипы, плавающие в нем, вызывают боль.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стакан вкусного сока кактуса.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактусовый сок. Я не уверен, почему Авиканам они нравятся больше, если в соке есть шипы.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Сок кактуса Кадаван. Колючки кактуса в комплекте.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки пьет сок. Акки хочет пить.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Напиток"
+},{"op":"replace","path":"/description","value":
+"Стакан сока кактуса Кадаван."
+},{"op":"replace","path":"/apexDescription","value":
+"Сок колючего кактуса. В нем плавают шипы?"
+},{"op":"replace","path":"/avianDescription","value":
+"Думаю, сок кактуса. В нем плавают какие-то шипы..."
+},{"op":"replace","path":"/floranDescription","value":
+"Пью."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обеспокоенный. В соке кактуса еще есть колючки."
+},{"op":"replace","path":"/humanDescription","value":
+"Я не уверен, что хочу это пить..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Стакан сока кактуса. Меня беспокоят плавающие в нем шипы."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кактусовый сок. На вкус он нормальный, но эти шипы, плавающие в нем, вызывают боль."
+},{"op":"replace","path":"/avikanDescription","value":
+"Стакан вкусного сока кактуса."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кактусовый сок. Я не уверен, почему Авиканам они нравятся больше, если в соке есть шипы."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Сок кактуса Кадаван. Колючки кактуса в комплекте."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки пьет сок. Акки хочет пить."
+}]

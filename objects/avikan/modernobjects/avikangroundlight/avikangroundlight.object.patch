@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Наземный свет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький яркий свет, направленный вверх.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Свет на земле, чтобы осветить что-то над ней.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет светит прямо вверх.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран встает на свет, Флоран согревает ноги.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот свет светит прямо вверх.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой фонарь на земле, чтобы освещать что-то над ней.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет светит прямо вверх.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, сияющий вверх, как перевернутое солнце.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой свет, светящий вверх.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, направленный вверх, часто встречается на верфях.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, который светит вверх. Неэффективно в течение дня.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Подсвечивает объекты сверху.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Светлый-маленький.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Наземный свет"
+},{"op":"replace","path":"/description","value":
+"Маленький яркий свет, направленный вверх."
+},{"op":"replace","path":"/apexDescription","value":
+"Свет на земле, чтобы осветить что-то над ней."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот свет светит прямо вверх."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран встает на свет, Флоран согревает ноги."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот свет светит прямо вверх."
+},{"op":"replace","path":"/humanDescription","value":
+"Небольшой фонарь на земле, чтобы освещать что-то над ней."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот свет светит прямо вверх."
+},{"op":"replace","path":"/novakidDescription","value":
+"Свет, сияющий вверх, как перевернутое солнце."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой свет, светящий вверх."
+},{"op":"replace","path":"/avikanDescription","value":
+"Свет, направленный вверх, часто встречается на верфях."
+},{"op":"replace","path":"/trinkDescription","value":
+"Свет, который светит вверх. Неэффективно в течение дня."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет. Подсвечивает объекты сверху."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Светлый-маленький."
+}]

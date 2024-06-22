@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Древний, похожий на камень артефакт, источающий неестественную силу.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ослепленный осколок^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Древний, похожий на камень артефакт, источающий неестественную силу."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ослепленный осколок^white;"
+},{"op":"replace","path":"/category","value":
+"Артефакт"
+}]

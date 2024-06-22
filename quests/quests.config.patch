@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Убить <monsterName>: <current> / <required>",
-    "path": "/objectiveDescriptions/theaMonsterKill",
-    "op": "replace"
-  },
-  {
-    "value": "Завершите ^orange;<название коллекции> ^reset;коллекционную запись",
-    "path": "/objectiveDescriptions/theaCompleteCollection",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/objectiveDescriptions/theaMonsterKill","value":
+"Убить <monsterName>: <current> / <required>"
+},{"op":"replace","path":"/objectiveDescriptions/theaCompleteCollection","value":
+"Завершите ^orange;<collectionName> ^reset;коллекционную запись"
+}]

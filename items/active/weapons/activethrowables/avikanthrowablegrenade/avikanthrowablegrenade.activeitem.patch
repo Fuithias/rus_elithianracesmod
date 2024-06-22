@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Ручная граната, используемая солдатами Авангарда.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Граната Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Ручная граната, используемая солдатами Авангарда.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Граната Авангарда"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

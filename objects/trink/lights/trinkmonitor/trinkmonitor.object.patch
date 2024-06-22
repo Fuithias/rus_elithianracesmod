@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкиан Монитор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монитор, отображающий некоторую информацию.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, этот монитор показывает много информации, но я ничего в ней не понимаю.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что означают все эти строки?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает сссшный экран...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недееспособность. Я не могу прочитать эту информацию.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мм. Ага. Я понятия не имею, что означает вся эта информация.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монитор отображает какую-то информацию, но что она означает, для меня загадка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский монитор, отображающий закодированную информацию.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монитор отображает информацию так, как я не понимаю.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монитор отображает более 128 ГБ данных в секунду. Мало кто сможет расшифровать все это с одинаковой скоростью.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Невозможно перевести.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экранно-чужой, Акки не читает...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкиан Монитор"
+},{"op":"replace","path":"/description","value":
+"Монитор, отображающий некоторую информацию."
+},{"op":"replace","path":"/apexDescription","value":
+"Я думаю, этот монитор показывает много информации, но я ничего в ней не понимаю."
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, что означают все эти строки?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает сссшный экран..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Недееспособность. Я не могу прочитать эту информацию."
+},{"op":"replace","path":"/humanDescription","value":
+"Мм. Ага. Я понятия не имею, что означает вся эта информация."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот монитор отображает какую-то информацию, но что она означает, для меня загадка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианский монитор, отображающий закодированную информацию."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот монитор отображает информацию так, как я не понимаю."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот монитор отображает более 128 ГБ данных в секунду. Мало кто сможет расшифровать все это с одинаковой скоростью."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Невозможно перевести."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Экранно-чужой, Акки не читает..."
+}]

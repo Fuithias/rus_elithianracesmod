@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гобелен Авиканских наблюдателей",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Черный гобелен с эмблемой Наблюдателей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран чувствует, что за ним наблюдают большие глаза...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. Глаз, который он показывает, интригует.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. На нем изображена эмблема Авиканских наблюдателей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом черном гобелене изображена эмблема наших Наблюдателей, сил, защищающих нас от Теллов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный кожаный гобелен. На нем изображена эмблема Авиканских наблюдателей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема Глаза Наблюдателя.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдатели наблюдают за Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Смотрителей авикан"
+},{"op":"replace","path":"/description","value":
+"Черный гобелен с эмблемой Наблюдателей."
+},{"op":"replace","path":"/apexDescription","value":
+"Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/avianDescription","value":
+"Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран чувствует, что за ним наблюдают большие глаза..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/humanDescription","value":
+"Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/novakidDescription","value":
+"Темный кожаный гобелен. Глаз, который он показывает, интригует."
+},{"op":"replace","path":"/aegiDescription","value":
+"Темный кожаный гобелен. На нем изображена эмблема Авиканских Смотрителей."
+},{"op":"replace","path":"/avikanDescription","value":
+"На этом черном гобелене изображена эмблема наших Наблюдателей, сил, защищающих нас от Теллов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Темный кожаный гобелен. На нем изображена эмблема Авиканских Смотрителей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема Глаза Наблюдателя."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Наблюдатели наблюдают за Акки."
+}]

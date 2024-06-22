@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Большой лист",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень большой лист кожи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран впечатлен размером кожаной простыни.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивление. Должно быть, это самый большой лист кожи, который я когда-либо видел.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивная простыня из кожи.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен кожаный лист. Необычно большой размер.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист-большой, у Акки есть приют.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большой лист"
+},{"op":"replace","path":"/description","value":
+"Очень большой лист кожи."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран впечатлен размером кожаной простыни."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивление. Должно быть, это самый большой лист кожи, который я когда-либо видел."
+},{"op":"replace","path":"/novakidDescription","value":
+"Массивная простыня из кожи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен кожаный лист. Необычно большой размер."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лист-большой, у Акки есть приют."
+}]

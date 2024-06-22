@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Грубо сшитая юбка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка подонка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Грубо сшитая юбка."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка подонка"
+}]

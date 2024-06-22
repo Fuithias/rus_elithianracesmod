@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Стандартный дробовик Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Альянс Коллектив^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АЦ.С-24 Опустошитель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Стандартный дробовик Альянса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Альянс Коллектив^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АЦ.С-24 Опустошитель"
+},{"op":"replace","path":"/category","value":
+"Дробовик"
+}]

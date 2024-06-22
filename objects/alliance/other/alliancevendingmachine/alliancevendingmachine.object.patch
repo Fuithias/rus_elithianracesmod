@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Торговый автомат Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Торговый автомат с популярными напитками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Там полно всяких безалкогольных напитков.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Напитки здесь кажутся мне немного сладкими...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не любит слишком сладкие напитки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Я бы не отказался попробовать некоторые из этих иностранных напитков.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомат по продаже безалкогольных напитков.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "К сожалению, здесь нет Риф-Колы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Никогда не был большим поклонником газированных напитков.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Торговый автомат, полный напитков.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина раздает напитки. Какая странная вещь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно приобрести самые популярные газированные напитки в Союзе.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное устройство. Анализ: раздает напитки в обмен на валюту.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет выпить. Акки разбила стекло?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Торговый автомат Альянса"
+},{"op":"replace","path":"/description","value":
+"Торговый автомат с популярными напитками."
+},{"op":"replace","path":"/apexDescription","value":
+"Там полно всяких безалкогольных напитков."
+},{"op":"replace","path":"/avianDescription","value":
+"Напитки здесь кажутся мне немного сладкими..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не любит слишком сладкие напитки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Я бы не отказался попробовать некоторые из этих иностранных напитков."
+},{"op":"replace","path":"/humanDescription","value":
+"Автомат по продаже безалкогольных напитков."
+},{"op":"replace","path":"/hylotlDescription","value":
+"К сожалению, здесь нет Риф-Колы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Никогда не был большим поклонником газированных напитков."
+},{"op":"replace","path":"/aegiDescription","value":
+"Торговый автомат, полный напитков."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта машина раздает напитки. Какая странная вещь."
+},{"op":"replace","path":"/trinkDescription","value":
+"Здесь можно приобрести самые популярные газированные напитки в Союзе."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное устройство. Анализ: раздает напитки в обмен на валюту."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочет выпить. Акки разбила стекло?"
+}]

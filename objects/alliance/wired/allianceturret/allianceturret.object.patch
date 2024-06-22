@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Защитная турель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель, которая будет автоматически защищать территории. Можно разместить только один раз.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта турель защитит любую локацию от нападений монстров и бандитов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель сражается за Флорана. Флорану нравится турель.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Надеюсь, эта турель не нацелится на меня.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная система безопасности.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ни одна бессознательная машина никогда не должна иметь право убивать.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прекрасная турель для защиты вашей базы!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективная автоматизированная защитная турель.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель, построенная для защиты инопланетной колонии.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокоэффективная конструкция автоматизированной башни.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена турель машинного изготовления. Рекомендую диверсию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет-автомат. Акки, осторожнее...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Защитная турель Альянса"
+},{"op":"replace","path":"/description","value":
+"Турель, которая будет автоматически защищать территории. Можно разместить только один раз."
+},{"op":"replace","path":"/apexDescription","value":
+"Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта турель защитит любую локацию от нападений монстров и бандитов."
+},{"op":"replace","path":"/floranDescription","value":
+"Турель сражается за Флорана. Флорану нравится турель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Надеюсь, эта турель не нацелится на меня."
+},{"op":"replace","path":"/humanDescription","value":
+"Автоматизированная система безопасности."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ни одна бессознательная машина никогда не должна иметь право убивать."
+},{"op":"replace","path":"/novakidDescription","value":
+"Прекрасная турель для защиты вашей базы!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Эффективная автоматизированная защитная турель."
+},{"op":"replace","path":"/avikanDescription","value":
+"Турель, построенная для защиты инопланетной колонии."
+},{"op":"replace","path":"/trinkDescription","value":
+"Высокоэффективная конструкция автоматизированной башни."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена турель машинного изготовления. Рекомендую диверсию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пистолет-автомат. Акки, осторожнее..."
+}]

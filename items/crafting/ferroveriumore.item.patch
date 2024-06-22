@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Месторождение железа, слитое с потусторонним материалом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ферровериевая руда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Месторождение железа, слитое с потусторонним материалом."
+},{"op":"replace","path":"/shortdescription","value":
+"Ферровериевая руда"
+}]

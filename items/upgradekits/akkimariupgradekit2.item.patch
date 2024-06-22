@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Базовый комплект улучшения оружия. Улучшает оружие до уровня 2.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Временный комплект L.2",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Базовый комплект улучшения оружия. Улучшает оружие до уровня 2."
+},{"op":"replace","path":"/shortdescription","value":
+"Временный комплект L.2"
+}]

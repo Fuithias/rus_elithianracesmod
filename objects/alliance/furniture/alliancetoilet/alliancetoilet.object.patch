@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Туалет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой туалет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "В этом туалете используется специальная технология очистки, обеспечивающая идеальную гигиену.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для помета.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящее место для вонючего бизнеса.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Как ни странно, этот открытый туалет вообще не пахнет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот туалет потрясающий! Гораздо лучше, чем дома...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Роскошный туалет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное сочетание простоты и роскоши.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот унитаз нейтрализует воздух внутри, создавая приятный ничем не примечательный аромат.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что это за вещь?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне не нужны туалеты.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное кресло. Анализ работоспособности трубопроводов...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки сделай здесь гадость!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Туалет"
+},{"op":"replace","path":"/description","value":
+"Простой туалет."
+},{"op":"replace","path":"/apexDescription","value":
+"В этом туалете используется специальная технология очистки, обеспечивающая идеальную гигиену."
+},{"op":"replace","path":"/avianDescription","value":
+"Место для помета."
+},{"op":"replace","path":"/floranDescription","value":
+"Блестящее место для вонючего бизнеса."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Как ни странно, этот открытый туалет вообще не пахнет."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот туалет потрясающий! Гораздо лучше, чем дома..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Роскошный туалет."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странное сочетание простоты и роскоши."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот унитаз нейтрализует воздух внутри, создавая приятный ничем не примечательный аромат."
+},{"op":"replace","path":"/avikanDescription","value":
+"Что это за вещь?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Мне не нужны туалеты."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное кресло. Анализ работоспособности трубопроводов..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки сделай здесь гадость!"
+}]

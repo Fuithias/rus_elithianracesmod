@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелые опорные балки конструкции.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Луч поддержки Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелые опорные балки конструкции."
+},{"op":"replace","path":"/shortdescription","value":
+"Луч поддержки Альянса"
+}]

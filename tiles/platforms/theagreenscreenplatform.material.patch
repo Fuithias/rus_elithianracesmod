@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Платформа с зеленым экраном",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Откуда ты это взял?",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сообщено. Это содержимое обычно недоступно в этом моде.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорана знает, что ты использовал режим администратора, чтобы получить это!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эй, откуда у тебя это?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. У тебя не должно быть доступа к этому содержимому.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки знает, что ты обманываешь. Тебе не положено это иметь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Платформа с зеленым экраном"
+},{"op":"replace","path":"/description","value":
+"Откуда ты это взял?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Сообщено. Это содержимое обычно недоступно в этом моде."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорана знает, что ты использовал режим администратора, чтобы получить это!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Эй, откуда у тебя это?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. У тебя не должно быть доступа к этому содержимому."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки знает, что ты обманываешь. Тебе не положено это иметь."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

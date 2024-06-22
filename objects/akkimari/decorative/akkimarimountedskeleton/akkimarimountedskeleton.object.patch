@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Конный скелет Аккимари",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мертвый Аккимари жестоко восседает на пике.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мертвый инопланетянин, изображенный в жестокой манере.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это крайне непорядочно по отношению к мертвым...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ссспайк мог бы стать хорошим оружием. Просто сначала надо удалить кости.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвращение. Кто бы сделал такое?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Варварское зрелище.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это просто варварство. Кто бы выставил напоказ такой скелет?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то мертвый инопланетянин. Думаю, они умерли не очень хорошо.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это варварское зрелище даже для аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетяне могут быть такими жестокими...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Когда-то это были кости живого и дышащего Аккимари.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены останки инопланетянина. Анализ: кости Аккимари.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шип-металл для Аккимари-мертв.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Конный скелет Аккимари"
+},{"op":"replace","path":"/description","value":
+"Мертвый Аккимари жестоко восседает на пике."
+},{"op":"replace","path":"/apexDescription","value":
+"Мертвый инопланетянин, изображенный в жестокой манере."
+},{"op":"replace","path":"/avianDescription","value":
+"Это крайне непорядочно по отношению к мертвым..."
+},{"op":"replace","path":"/floranDescription","value":
+"Ссспайк мог бы стать хорошим оружием. Просто сначала надо удалить кости."
+},{"op":"replace","path":"/glitchDescription","value":
+"Отвращение. Кто бы сделал такое?"
+},{"op":"replace","path":"/humanDescription","value":
+"Варварское зрелище."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это просто варварство. Кто бы выставил напоказ такой скелет?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то мертвый инопланетянин. Думаю, они умерли не очень хорошо."
+},{"op":"replace","path":"/aegiDescription","value":
+"Это варварское зрелище даже для аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетяне могут быть такими жестокими..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Когда-то это были кости живого и дышащего Аккимари."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены останки инопланетянина. Анализ: кости Аккимари."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Шип-металл для Аккимари-мертв."
+}]

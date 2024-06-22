@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкская труба",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая труба для транспортировки жидкостей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Утверждение. Труба.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, что внутри труб?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая труба для перемещения жидкостей. Надеюсь, там нет фекалий.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ не удался. Невозможно просканировать содержимое трубы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не хочет знать, что течет через трубу...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкская труба"
+},{"op":"replace","path":"/description","value":
+"Большая труба для транспортировки жидкостей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Утверждение. Труба."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, что внутри труб?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Большая труба для перемещения жидкостей. Надеюсь, там нет фекалий."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ не удался. Невозможно просканировать содержимое трубы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не хочет знать, что течет через трубу..."
+}]

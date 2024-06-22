@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Твердая и прочная, эта нить идеально подходит для сшивания кусков кожи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Жесткая струна",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Твердая и прочная, эта нить идеально подходит для сшивания кусков кожи."
+},{"op":"replace","path":"/shortdescription","value":
+"Жесткая струна"
+}]

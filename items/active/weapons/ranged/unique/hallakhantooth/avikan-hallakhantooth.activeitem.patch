@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Лук, выточенный из зуба Халла'Хана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Зуб Халла'Хана^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный лук",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Triple Draw",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Лук, выточенный из зуба Халла'Хана."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Зуб Халла'Хана^white;"
+},{"op":"replace","path":"/category","value":
+"Длинный лук"
+},{"op":"replace","path":"/altAbility/name","value":
+"Тройной выхват"
+}]

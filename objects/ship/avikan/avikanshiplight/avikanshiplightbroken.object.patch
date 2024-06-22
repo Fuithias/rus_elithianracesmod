@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Сломанный корабельный фонарь «Авикан»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неисправный свет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этому свету не хватает мощности.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мерцающий свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный свет вызывает у Флорана головокружение.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обеспокоенный. Этот свет неисправен.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет мигает.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недостаточно мощный свет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этому свету не хватает мощности.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет не работает должным образом. Судовой инженер должен на это взглянуть.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен свет. Статус: сломан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломленный светом, Акки не похож.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сломанный корабельный фонарь Авикан"
+},{"op":"replace","path":"/description","value":
+"Неисправный свет."
+},{"op":"replace","path":"/apexDescription","value":
+"Этому свету не хватает мощности."
+},{"op":"replace","path":"/avianDescription","value":
+"Мерцающий свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Сломанный свет вызывает у Флорана головокружение."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обеспокоенный. Этот свет неисправен."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот свет мигает."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Недостаточно мощный свет."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этому свету не хватает мощности."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот свет не работает должным образом. Судовой инженер должен на это взглянуть."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен свет. Статус: сломан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Сломленный светом, Акки не похож."
+}]

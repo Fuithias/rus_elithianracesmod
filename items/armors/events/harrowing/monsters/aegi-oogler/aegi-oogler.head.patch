@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Маска Углера для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска Углера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Маска Углера для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска Углера"
+}]

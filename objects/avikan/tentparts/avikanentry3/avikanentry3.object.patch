@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Райод Тент",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент-палатка, оформленная в стиле Райода.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фиолетовый — странный цвет для такой палатки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшенный тент для палатки.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фиолетовые цвета заставляют Флорана чувствовать себя странно.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Вход в палатку.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань этого палаточного тента была соткана с особой тщательностью.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент от палатки странного цвета.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент для палатки Райод.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Качество и цвет этого тента ясно указывают на то, что эта палатка принадлежит к храму Райода.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Качество этой ткани необычайно высокое для палаток «Авикан».",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент для палатки из ткани. Цвет предполагает, что эта палатка принадлежит Райоду.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент для палатки, Акки заходим внутрь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Райод Тент"
+},{"op":"replace","path":"/description","value":
+"Тент-палатка, оформленная в стиле Райода."
+},{"op":"replace","path":"/apexDescription","value":
+"Фиолетовый — странный цвет для такой палатки."
+},{"op":"replace","path":"/avianDescription","value":
+"Украшенный тент для палатки."
+},{"op":"replace","path":"/floranDescription","value":
+"Фиолетовые цвета заставляют Флорана чувствовать себя странно."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Вход в палатку."
+},{"op":"replace","path":"/humanDescription","value":
+"Ткань этого палаточного тента была соткана с особой тщательностью."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Тент от палатки странного цвета."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тент для палатки Райод."
+},{"op":"replace","path":"/avikanDescription","value":
+"Качество и цвет этого тента ясно указывают на то, что эта палатка принадлежит к храму Райода."
+},{"op":"replace","path":"/trinkDescription","value":
+"Качество этой ткани необычайно высокое для палаток Авикан."
+},{"op":"replace","path":"/drodenDescription","value":
+"Тент для палатки из ткани. Цвет предполагает, что эта палатка принадлежит Райоду."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Тент для палатки, Акки заходим внутрь."
+}]

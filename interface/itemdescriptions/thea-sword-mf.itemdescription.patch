@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость атаки:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за удар:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость атаки:"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за удар:"
+}]

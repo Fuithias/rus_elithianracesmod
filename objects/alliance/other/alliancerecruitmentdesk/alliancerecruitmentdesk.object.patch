@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Служба вербовки Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для набора новых членов экипажа со всего Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это место предлагает варианты набора персонала.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рекрутинговый стол. Я могу нанять здесь дополнительных членов экипажа.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран покупает здесь друзей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Этот рекрутинговый стол позволяет мне легко набирать новых членов экипажа.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вербовочный стол для набора новых членов экипажа.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу нанять здесь дополнительную команду.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дайте мне нанять новую команду.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пункт набора персонала, предлагающий членов экипажа со всего Элитианского Альянса.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для найма инопланетных членов экипажа. Должен ли я использовать его?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот военкомат перенаправляет запросы на набор всем членам Альянса. Это довольно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный военкомат. Позволяет нанимать инопланетных членов экипажа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки покупай друзей здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Служба вербовки Альянса"
+},{"op":"replace","path":"/description","value":
+"Место для набора новых членов экипажа со всего Альянса."
+},{"op":"replace","path":"/apexDescription","value":
+"Это место предлагает варианты набора персонала."
+},{"op":"replace","path":"/avianDescription","value":
+"Рекрутинговый стол. Я могу нанять здесь дополнительных членов экипажа."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран покупает здесь друзей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Этот рекрутинговый стол позволяет мне легко набирать новых членов экипажа."
+},{"op":"replace","path":"/humanDescription","value":
+"Вербовочный стол для набора новых членов экипажа."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Я могу нанять здесь дополнительную команду."
+},{"op":"replace","path":"/novakidDescription","value":
+"Дайте мне нанять новую команду."
+},{"op":"replace","path":"/aegiDescription","value":
+"Пункт набора персонала, предлагающий членов экипажа со всего Элитианского Альянса."
+},{"op":"replace","path":"/avikanDescription","value":
+"Место для найма инопланетных членов экипажа. Должен ли я использовать его?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот военкомат перенаправляет запросы на набор всем членам Альянса. Это довольно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный военкомат. Позволяет нанимать инопланетных членов экипажа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки покупай друзей здесь."
+}]

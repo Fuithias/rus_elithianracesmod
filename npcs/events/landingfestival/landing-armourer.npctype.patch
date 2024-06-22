@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Условия здесь идеальны для моих исследований!",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Условия здесь идеальны для моих исследований!"
+}]

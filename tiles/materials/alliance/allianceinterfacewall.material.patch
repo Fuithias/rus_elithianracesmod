@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Интерфейсная стена Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран интерфейса, встроенный в стеновую панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Встроенный экран.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает, зачем экран в стене.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то экран внутри стены. Интересно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Встроенная панель интерфейса.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран чистый, встроен в стену.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Интерфейсная стена Альянса"
+},{"op":"replace","path":"/description","value":
+"Экран интерфейса, встроенный в стеновую панель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Встроенный экран."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает, зачем экран в стене."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то экран внутри стены. Интересно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Встроенная панель интерфейса."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Экран чистый, встроен в стену."
+}]

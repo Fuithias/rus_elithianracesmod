@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Центенсианское оружие, способное адаптироваться к любой ситуации.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Голос Радейса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элементальная винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Recalibrate",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Центенское оружие, способное адаптироваться к любой ситуации."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Голос Радейса^white;"
+},{"op":"replace","path":"/category","value":
+"Элементальная винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Рекалибровка"
+}]

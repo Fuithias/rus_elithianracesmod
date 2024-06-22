@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Большой ящик Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой стандартизированный металлический контейнер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический ящик. Ничего особенного.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что может храниться в этом ящике?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красссс полон вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скучающий. Простой металлический ящик.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри есть добыча?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный металлический ящик. Прочный, но относительно легкий.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик. Довольно простой.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный грузовой ящик. Он используется во всем Альянсе.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический ящик инопланетного дизайна.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Альянс использует эффективно спроектированные ящики.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик. Akki хранит здесь вещи.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большой ящик Альянса"
+},{"op":"replace","path":"/description","value":
+"Большой стандартизированный металлический контейнер."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический ящик. Ничего особенного."
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, что может храниться в этом ящике?"
+},{"op":"replace","path":"/floranDescription","value":
+"Красссс полон вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Скучающий. Простой металлический ящик."
+},{"op":"replace","path":"/humanDescription","value":
+"Внутри есть добыча?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Стандартный металлический ящик. Прочный, но относительно легкий."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ящик. Довольно простой."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стандартный грузовой ящик. Он используется во всем Альянсе."
+},{"op":"replace","path":"/avikanDescription","value":
+"Металлический ящик инопланетного дизайна."
+},{"op":"replace","path":"/trinkDescription","value":
+"Альянс использует эффективно спроектированные ящики."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ящик. Акки хранит здесь вещи."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мощный механический корпус, созданный мусорщиками Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело робота Крестоносца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мощный механический корпус, созданный мусорщиками Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Тело робота Крестоносца"
+}]

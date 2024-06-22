@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авангардная клавиатура",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Программируемая клавиатура для запирания дверей паролем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура. Я не узнаю ни одного символа на нем.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная клавиатура с инопланетными символами...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран нажимает кнопки, Флоран открывает двери!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Озадачен. Я не знаю ни одного из этих символов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой клавиатуре вместо цифр используются странные символы. Или это чужие цифры?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура с инопланетным интерфейсом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я никогда не хорошо запоминал пароли.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой клавиатуре могут использоваться номера Авикан, но ее раскладка универсальна.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эту клавиатуру можно использовать для блокировки дверей с помощью пароля.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Система счисления Авикан не самая логичная.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена клавиатура безопасности, одобренная Vanguard.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вводит код, дверь открывается.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авангардная клавиатура"
+},{"op":"replace","path":"/description","value":
+"Программируемая клавиатура для запирания дверей паролем."
+},{"op":"replace","path":"/apexDescription","value":
+"Клавиатура. Я не узнаю ни одного символа на нем."
+},{"op":"replace","path":"/avianDescription","value":
+"Инопланетная клавиатура с инопланетными символами..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран нажимает кнопки, Флоран открывает двери!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Озадачен. Я не знаю ни одного из этих символов."
+},{"op":"replace","path":"/humanDescription","value":
+"На этой клавиатуре вместо цифр используются странные символы. Или это чужие цифры?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Клавиатура с инопланетным интерфейсом."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я никогда не хорошо запоминал пароли."
+},{"op":"replace","path":"/aegiDescription","value":
+"На этой клавиатуре могут использоваться номера Авикан, но ее раскладка универсальна."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эту клавиатуру можно использовать для блокировки дверей с помощью пароля."
+},{"op":"replace","path":"/trinkDescription","value":
+"Система счисления Авикан не самая логичная."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена клавиатура безопасности, одобренная Авангард."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки вводит код, дверь открывается."
+}]

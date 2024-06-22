@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Книги Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция книг на различные темы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Книги. Они могут хранить информацию, ценную для повстанцев.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "О чем могут быть написаны эти книги?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не любит читать...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что может быть написано в этих книгах?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычные старые книги. Только скучные темы.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книги – это великий источник знаний.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У меня нет времени на чтение.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книги, написанные на разные темы, все одинаково интересны.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, инопланетные свитки. Я ничего не могу прочитать.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книги — неэффективный метод передачи и хранения знаний.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены инопланетные письмена. Индексирование.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книги. Акки не хочу читать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Книги Альянса"
+},{"op":"replace","path":"/description","value":
+"Коллекция книг на различные темы."
+},{"op":"replace","path":"/apexDescription","value":
+"Книги. Они могут хранить информацию, ценную для повстанцев."
+},{"op":"replace","path":"/avianDescription","value":
+"О чем могут быть написаны эти книги?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не любит читать..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что может быть написано в этих книгах?"
+},{"op":"replace","path":"/humanDescription","value":
+"Обычные старые книги. Только скучные темы."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Книги – это великий источник знаний."
+},{"op":"replace","path":"/novakidDescription","value":
+"У меня нет времени на чтение."
+},{"op":"replace","path":"/aegiDescription","value":
+"Книги, написанные на разные темы, все одинаково интересны."
+},{"op":"replace","path":"/avikanDescription","value":
+"Думаю, инопланетные свитки. Я ничего не могу прочитать."
+},{"op":"replace","path":"/trinkDescription","value":
+"Книги — неэффективный метод передачи и хранения знаний."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены инопланетные письмена. Индексирование."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Книги. Акки не хочу читать."
+}]

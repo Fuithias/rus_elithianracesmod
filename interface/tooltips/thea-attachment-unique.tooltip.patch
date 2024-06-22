@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

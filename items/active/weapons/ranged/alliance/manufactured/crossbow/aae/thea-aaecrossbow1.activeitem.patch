@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Мощный арбалет.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Охотник Ц-2",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Арбалет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощный арбалет.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Охотник Ц-2"
+},{"op":"replace","path":"/category","value":
+"Арбалет"
+}]

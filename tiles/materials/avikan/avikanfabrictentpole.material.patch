@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканский Шест Для Палатки",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический шест для палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлический шест для палатки.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может сделать копье из металлических шестов для палатки?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шест для палатки, он точно удержит палатку.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Важный структурный шест для палатки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шест-структурный, держит палатку.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский Шест Для Палатки"
+},{"op":"replace","path":"/description","value":
+"Металлический шест для палатки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлический шест для палатки."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может сделать копьё из металлических шестов для палатки?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Шест для палатки, он точно удержит палатку."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Важный структурный шест для палатки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Шест-структурный, держит палатку."
+}]

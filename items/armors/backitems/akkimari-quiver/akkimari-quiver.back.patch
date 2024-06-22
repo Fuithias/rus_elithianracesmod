@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Простой, но эффективный колчан. Увеличивает урон, наносимый из луков.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Колчан Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Простой, но эффективный колчан. Увеличивает урон, наносимый из луков."
+},{"op":"replace","path":"/shortdescription","value":
+"Колчан Акриса"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкская опорная балка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая опорная балка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатлен. Эта металлическая балка может выдержать большую нагрузку.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не может согнуть металлические балки. Флоран недоволен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая прочная опорная балка. Не упадет в ближайшее время.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Структурная опорная балка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Балка-опора, держит стены.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкская опорная балка"
+},{"op":"replace","path":"/description","value":
+"Металлическая опорная балка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатлен. Эта металлическая балка может выдержать большую нагрузку."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не может согнуть металлические балки. Флоран недоволен."
+},{"op":"replace","path":"/novakidDescription","value":
+"Большая прочная опорная балка. Не упадет в ближайшее время."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Структурная опорная балка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Балка-опора, держит стены."
+}]

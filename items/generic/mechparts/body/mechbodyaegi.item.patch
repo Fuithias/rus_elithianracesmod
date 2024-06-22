@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Этот тяжелобронированный корпус был изготовлен компанией Enerth Engineering.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело механического стража",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Этот тяжелобронированный корпус был изготовлен компанией Enerth Engineering."
+},{"op":"replace","path":"/shortdescription","value":
+"Тело механического стража"
+}]

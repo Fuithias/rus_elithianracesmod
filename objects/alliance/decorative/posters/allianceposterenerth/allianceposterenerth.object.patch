@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Энергетический инженерный плакат",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий Enerth Engineering.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Синий заставляет Флорана думать о небе.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смущенный. Что производит «Энерт Инжиниринг»?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Enerth Engineering производит многие автомобили Союза, а также модульные дома и некоторую бытовую технику.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Энергетический инженерный плакат"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий Enerth Engineering."
+},{"op":"replace","path":"/floranDescription","value":
+"Синий заставляет Флорана думать о небе."
+},{"op":"replace","path":"/glitchDescription","value":
+"Смущенный. Что производит Энерт Инжиниринг?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Enerth Engineering производит многие автомобили Союза, а также модульные дома и некоторую бытовую технику."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

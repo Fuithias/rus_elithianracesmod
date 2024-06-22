@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Важное оружие, созданное с использованием центенианских и авиканских технологий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Разделитель^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Протокол скачкового огня^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Измененная скачтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Jumpfire Burst",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Уникальное оружие, создано из центенских и авиканских технологий."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Раздельно^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Протокол Скачковогния^white;"
+},{"op":"replace","path":"/category","value":
+"Изменённая скачтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Очередь Скачковогня"
+}]

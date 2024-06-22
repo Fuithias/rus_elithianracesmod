@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Корабль Альянса Свет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая световая полоска.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой фонарь, часто встречающийся на кораблях.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не нравится корабельный свет. Свет кажется неестественным...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Этот светильник излучает больше света, чем тепла.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно простой свет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нейтральный свет. Всегда полезно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет намного ярче, чем я. Подожди, это прозвучало не совсем правильно...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет нейтрального цвета.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой свет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Это не так эффективно, как могло бы быть.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Источник света обнаружен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легко-просто.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Корабль Альянса Свет"
+},{"op":"replace","path":"/description","value":
+"Простая световая полоска."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой фонарь, часто встречающийся на кораблях."
+},{"op":"replace","path":"/avianDescription","value":
+"Яркий свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не нравится корабельный свет. Свет кажется неестественным..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Этот светильник излучает больше света, чем тепла."
+},{"op":"replace","path":"/humanDescription","value":
+"Довольно простой свет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Нейтральный свет. Всегда полезно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот свет намного ярче, чем я. Подожди, это прозвучало не совсем правильно..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Яркий свет нейтрального цвета."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой свет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Свет. Это не так эффективно, как могло бы быть."
+},{"op":"replace","path":"/drodenDescription","value":
+"Источник света обнаружен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Легко-просто."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Вент",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вентилятор, обеспечивающий циркуляцию свежего воздуха.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вентиляционное отверстие.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вентиляционное отверстие для рециркуляции воздуха.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран чувствует легкий ветерок, дующий сюда.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдательный. Процесс рециркуляции воздуха не полностью функционален.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скучная вентиляция.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вытяжка с вентилятором.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это вентиляционное отверстие. И все же воздух здесь душный.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вентилятор. Он циркулирует воздух.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то вентиляция.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Достаточно эффективное вентиляционное отверстие, обеспечивающее циркуляцию воздуха.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен поток воздуха. Обнаружена вентиляционная шахта.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вентиляционное отверстие заставляет воздух вращаться. Сохраняет свежесть, Акки дышат легко.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Вент"
+},{"op":"replace","path":"/description","value":
+"Вентилятор, обеспечивающий циркуляцию свежего воздуха."
+},{"op":"replace","path":"/apexDescription","value":
+"Вентиляционное отверстие."
+},{"op":"replace","path":"/avianDescription","value":
+"Вентиляционное отверстие для рециркуляции воздуха."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран чувствует легкий ветерок, дующий сюда."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдательный. Процесс рециркуляции воздуха не полностью функционален."
+},{"op":"replace","path":"/humanDescription","value":
+"Скучная вентиляция."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Вытяжка с вентилятором."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это вентиляционное отверстие. И все же воздух здесь душный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Вентилятор. Он циркулирует воздух."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какая-то вентиляция."
+},{"op":"replace","path":"/trinkDescription","value":
+"Достаточно эффективное вентиляционное отверстие, обеспечивающее циркуляцию воздуха."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен поток воздуха. Обнаружена вентиляционная шахта."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вентиляционное отверстие заставляет воздух вращаться. Сохраняет свежесть, Акки дышат легко."
+}]

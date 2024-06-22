@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Радио",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радио настроено на музыкальный канал.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шикарное радио.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радио, играющее музыку.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится эта музыка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Энергичный. Мне хочется танцевать.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я люблю эту песню!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радио с элегантным дизайном.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто музыкальная шкатулка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой радиоприемник, созданный компанией Enerth Engineering.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Музыка пришельцев довольно странная.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшое радио.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное радио. Анализ частот.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радио-инопланетянин. Делайте музыку приятной.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Радио"
+},{"op":"replace","path":"/description","value":
+"Радио настроено на музыкальный канал."
+},{"op":"replace","path":"/apexDescription","value":
+"Шикарное радио."
+},{"op":"replace","path":"/avianDescription","value":
+"Радио, играющее музыку."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится эта музыка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Энергичный. Мне хочется танцевать."
+},{"op":"replace","path":"/humanDescription","value":
+"Я люблю эту песню!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Радио с элегантным дизайном."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто музыкальная шкатулка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Небольшой радиоприемник, созданный компанией Enerth Engineering."
+},{"op":"replace","path":"/avikanDescription","value":
+"Музыка пришельцев довольно странная."
+},{"op":"replace","path":"/trinkDescription","value":
+"Небольшое радио."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное радио. Анализ частот."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Радио-инопланетянин. Делайте музыку приятной."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Генератор Аккимари",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелый генератор, способный питать другие объекты.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор какой-то. Дизайн мне незнаком.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор. Это выглядит странно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не распознает этот генератор.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Судебный. Этот генератор очень загрязняет окружающую среду.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то странный инопланетный генератор. Он очень горячий на ощупь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не очень элегантный генератор.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какой-то генератор.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор, вероятно, построенный Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это генератор? Это выглядит странно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень неэффективный генератор.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен генератор пришельцев. Источник топлива неизвестен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор вырабатывает мощность. Сила рождает свет. Свет делает жизнь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Генератор Аккимари"
+},{"op":"replace","path":"/description","value":
+"Тяжелый генератор, способный питать другие объекты."
+},{"op":"replace","path":"/apexDescription","value":
+"Генератор какой-то. Дизайн мне незнаком."
+},{"op":"replace","path":"/avianDescription","value":
+"Генератор. Это выглядит странно."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не распознает этот генератор."
+},{"op":"replace","path":"/glitchDescription","value":
+"Судебный. Этот генератор очень загрязняет окружающую среду."
+},{"op":"replace","path":"/humanDescription","value":
+"Какой-то странный инопланетный генератор. Он очень горячий на ощупь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Не очень элегантный генератор."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какой-то генератор."
+},{"op":"replace","path":"/aegiDescription","value":
+"Генератор, вероятно, построенный Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это генератор? Это выглядит странно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Очень неэффективный генератор."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен генератор пришельцев. Источник топлива неизвестен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Генератор вырабатывает мощность. Сила рождает свет. Свет делает жизнь."
+}]

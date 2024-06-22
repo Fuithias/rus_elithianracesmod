@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Таинственное оружие, стреляющее шарами, которые ищут цели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Искатель смерти^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пусковая установка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Больший залп",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Таинственное оружие, стреляющее шарами, которые ищут цели."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Искатель смерти^white;"
+},{"op":"replace","path":"/category","value":
+"Пусковая установка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Больший залп"
+}]

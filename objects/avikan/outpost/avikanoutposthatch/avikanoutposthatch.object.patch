@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Номада Хэтч",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк, обеспечивающий доступ к трубопроводам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может залезть в люк и попасть в трубу.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неуверенно. Не уверен, что влезу в эти трубы...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Проникнуть в эти трубы будет непросто.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк для доступа к трубопроводу. Этот агрегат вряд ли подойдет.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки иди отсюда в трубы.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номада Хэтч"
+},{"op":"replace","path":"/description","value":
+"Металлический люк, обеспечивающий доступ к трубопроводам."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может залезть в люк и попасть в трубу."
+},{"op":"replace","path":"/glitchDescription","value":
+"Неуверенно. Не уверен, что влезу в эти трубы..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Проникнуть в эти трубы будет непросто."
+},{"op":"replace","path":"/drodenDescription","value":
+"Люк для доступа к трубопроводу. Этот агрегат вряд ли подойдет."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки иди отсюда в трубы."
+}]

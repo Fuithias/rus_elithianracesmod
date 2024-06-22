@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Шапка и очки, которые часто носили аегинские навигаторы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шапка навигатора",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Шапка и очки, которые часто носили аегинские навигаторы."
+},{"op":"replace","path":"/shortdescription","value":
+"Шапка навигатора"
+}]

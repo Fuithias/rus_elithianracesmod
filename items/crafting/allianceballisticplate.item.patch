@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Баллистическая пластина, способная поглощать мощные удары.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Баллистическая пластина",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Баллистическая пластина, способная поглощать мощные удары."
+},{"op":"replace","path":"/shortdescription","value":
+"Баллистическая пластина"
+}]

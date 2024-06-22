@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Обработчик уведомлений о событиях",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не должны видеть это в своем журнале!",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не должны видеть это в своем журнале!",
-    "path": "/completionText",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Обработчик уведомлений о событиях"
+},{"op":"replace","path":"/text","value":
+"Вы не должны видеть это в своем журнале!"
+},{"op":"replace","path":"/completionText","value":
+"Вы не должны видеть это в своем журнале!"
+}]

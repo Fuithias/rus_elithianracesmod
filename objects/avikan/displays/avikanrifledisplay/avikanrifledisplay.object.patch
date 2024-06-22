@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Выставка винтовок «Авангард»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлен автомат Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлено инопланетное оружие. Это выглядит устрашающе.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка, созданная инопланетной расой.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает, как работает сссшотсстикс...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Это оружие изготовлено из необычного металлического сплава.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная штурмовая винтовка. Мне бы не хотелось оказаться под прицелом этого пистолета.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное оружие. Его дизайн довольно необычен.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомат «Авикан», больше не находится на вооружении.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомат Авангарда. Инструмент свободы.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом оружии Авикан используется удивительно эффективный механизм подачи.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена штурмовая винтовка Vanguard. Владелец: неизвестен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетянин, за убийство. Акки вроде.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Выставка винтовок Авангард"
+},{"op":"replace","path":"/description","value":
+"На выставке представлен автомат Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"На выставке представлено инопланетное оружие. Это выглядит устрашающе."
+},{"op":"replace","path":"/avianDescription","value":
+"Штурмовая винтовка, созданная инопланетной расой."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает, как работает сссшотсстикс..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Это оружие изготовлено из необычного металлического сплава."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетная штурмовая винтовка. Мне бы не хотелось оказаться под прицелом этого пистолета."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетное оружие. Его дизайн довольно необычен."
+},{"op":"replace","path":"/aegiDescription","value":
+"Автомат Авикан, больше не находится на вооружении."
+},{"op":"replace","path":"/avikanDescription","value":
+"Автомат Авангарда. Инструмент свободы."
+},{"op":"replace","path":"/trinkDescription","value":
+"В этом оружии Авикан используется удивительно эффективный механизм подачи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена штурмовая винтовка Авангард. Владелец: неизвестен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инопланетянин, за убийство. Акки вроде."
+}]

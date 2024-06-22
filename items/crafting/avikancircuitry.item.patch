@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ядро любого современного электронного устройства.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Схема",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ядро любого современного электронного устройства."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Схема"
+}]

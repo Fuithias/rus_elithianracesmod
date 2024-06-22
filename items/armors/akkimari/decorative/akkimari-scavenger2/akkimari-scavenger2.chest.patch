@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Нагрудная пластина из металлолома, которую носят мусорщики аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Нагрудник мусорщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Нагрудная пластина из металлолома, которую носят мусорщики аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Нагрудник мусорщика"
+}]

@@ -1,52 +1,21 @@
-[
-  {
-    "value": "Манипулятор Материи! Мне жаль, что я так поступил, но моей миссией всегда было добиться этого.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне пора двигаться. Мой корабль ждет!",
-    "path": "/pickedUpParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "обнаружен Манипулятор Материи. Цель миссии подтверждена.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Получена цель миссии. Отряд должен вернуться к Наблюдателям.",
-    "path": "/pickedUpParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нельзя терять время. Мне следует подобрать этот Манипулятор Материи и уйти отсюда.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Задерживаться здесь было бы ужасно неэффективно.",
-    "path": "/pickedUpParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно взять Манипулятор Материи и добраться до безопасного места. Возможно, Союз сможет послать помощь этим людям.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я вернусь с помощью.",
-    "path": "/pickedUpParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки немедленно возьми Манипулятор Материи, а затем Акки беги!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вернется, чтобы помочь позже!",
-    "path": "/pickedUpParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/avikanDescription","value":
+"Манипулятор Материи! Мне жаль, что я так поступил, но моей миссией всегда было добиться этого."
+},{"op":"replace","path":"/pickedUpParameters/avikanDescription","value":
+"Мне пора двигаться. Мой корабль ждет!"
+},{"op":"replace","path":"/drodenDescription","value":
+"обнаружен Манипулятор Материи. Цель миссии подтверждена."
+},{"op":"replace","path":"/pickedUpParameters/drodenDescription","value":
+"Получена цель миссии. Отряд должен вернуться к Смотрителям."
+},{"op":"replace","path":"/trinkDescription","value":
+"Нельзя терять время. Мне следует подобрать этот Манипулятор Материи и уйти отсюда."
+},{"op":"replace","path":"/pickedUpParameters/trinkDescription","value":
+"Задерживаться здесь было бы ужасно неэффективно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мне нужно взять Манипулятор Материи и добраться до безопасного места. Возможно, Союз сможет послать помощь этим людям."
+},{"op":"replace","path":"/pickedUpParameters/aegiDescription","value":
+"Я вернусь с помощью."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки немедленно возьми Манипулятор Материи, а затем Акки беги!"
+},{"op":"replace","path":"/pickedUpParameters/akkimariDescription","value":
+"Акки вернется, чтобы помочь позже!"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Высокомощная лайнтовка для сражений на дальних дистанциях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Номадская лайнтовка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Высокомощная лайнтовка для сражений на дальних дистанциях."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Номадская лайнтовка"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+}]

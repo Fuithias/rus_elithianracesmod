@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Позволяет вам выглядеть как голограмма авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голографические руки",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Позволяет вам выглядеть как голограмма авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Голографические руки"
+}]

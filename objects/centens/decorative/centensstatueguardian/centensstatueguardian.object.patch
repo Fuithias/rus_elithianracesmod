@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Це'теннан-страж",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, изображающая центенского стража.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, изображающая инопланетного стража.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя выглядит так, будто может начать двигаться в любой момент.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У металлической статуи есть-с-острое-с-копье!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Интересно, что этот страж должен охранять?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя вызывает у меня чувство беспокойства. Кажется, что он может начать двигаться в любой момент.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя - произведение искусства. Поверхность такая гладкая!",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это хорошая статуя, но какое существо она изображает?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "По-настоящему реалистичная статуя с копьем, которое могло легко пробить броню.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древние оставили эту статую. Что охранял этот страж?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этой статуе, должно быть, много тысячелетий, но она до сих пор выглядит нетронутой.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ статуи. Обнаружено центенское мастерство.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, держащая острое копье.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Це'теннан-страж"
+},{"op":"replace","path":"/description","value":
+"Статуя, изображающая центенского стража."
+},{"op":"replace","path":"/apexDescription","value":
+"Статуя, изображающая инопланетного стража."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта статуя выглядит так, будто может начать двигаться в любой момент."
+},{"op":"replace","path":"/floranDescription","value":
+"У металлической статуи есть-с-острое-с-копьё!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Интересно, что этот страж должен охранять?"
+},{"op":"replace","path":"/humanDescription","value":
+"Эта статуя вызывает у меня чувство беспокойства. Кажется, что он может начать двигаться в любой момент."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта статуя - произведение искусства. Поверхность такая гладкая!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Это хорошая статуя, но какое существо она изображает?"
+},{"op":"replace","path":"/aegiDescription","value":
+"По-настоящему реалистичная статуя с копьём, которое могло легко пробить броню."
+},{"op":"replace","path":"/avikanDescription","value":
+"Древние оставили эту статую. Что охранял этот страж?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Этой статуе, должно быть, много тысячелетий, но она до сих пор выглядит нетронутой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ статуи. Обнаружено центенское мастерство."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Статуя, держащая острое копьё."
+}]

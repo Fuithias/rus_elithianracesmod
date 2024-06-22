@@ -1,57 +1,23 @@
-[
-  {
-    "value": "^orange;Стол изготовки частей меха^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Используется для производства модульных компонентов мехов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол можно использовать для изготовления модульных компонентов мехов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этого стола я могу собирать модульные компоненты мехов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крафтовая станция для изготовления деталей мехов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Эта станция предназначена для сборки модульных компонентов мехов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой станции я могу собирать модульные компоненты мехов.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол промышленного вида производит модульные компоненты механизмов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этого стола я мог бы построить некоторые детали механизма.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена станция создания мехов. Используется для производства новых деталей мехов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки строит здесь новые детали.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Стол изготовки частей меха^white;"
+},{"op":"replace","path":"/description","value":
+"Используется для производства модульных компонентов мехов."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот стол можно использовать для изготовления модульных компонентов мехов."
+},{"op":"replace","path":"/avianDescription","value":
+"С помощью этого стола я могу собирать модульные компоненты мехов."
+},{"op":"replace","path":"/floranDescription","value":
+"Крафтовая станция для изготовления деталей мехов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Эта станция предназначена для сборки модульных компонентов мехов."
+},{"op":"replace","path":"/humanDescription","value":
+"На этой станции я могу собирать модульные компоненты мехов."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот стол промышленного вида производит модульные компоненты механизмов."
+},{"op":"replace","path":"/novakidDescription","value":
+"С помощью этого стола я мог бы построить некоторые детали механизма."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена станция создания мехов. Используется для производства новых деталей мехов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки строит здесь новые детали."
+}]

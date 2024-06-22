@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Оружие Теллхантера",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие Охотника за Теллами — писец будет этим доволен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Писец будет рад увидеть это оружие...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удовлетворен. Писец будет рад увидеть это оружие.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Собственное оружие Охотника за Теллом — писец будет этим доволен.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено оружие Авикан. Лук Охотника за Теллом.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие-инопланетянин, винтовка-Теллхантер.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Оружие Теллхантера"
+},{"op":"replace","path":"/description","value":
+"Оружие Охотника за Теллами — писец будет этим доволен."
+},{"op":"replace","path":"/floranDescription","value":
+"Писец будет рад увидеть это оружие..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удовлетворен. Писец будет рад увидеть это оружие."
+},{"op":"replace","path":"/avikanDescription","value":
+"Собственное оружие Охотника за Теллом — писец будет этим доволен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено оружие Авикан. Лук Охотника за Теллом."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Оружие-инопланетянин, винтовка-Теллхантер."
+}]

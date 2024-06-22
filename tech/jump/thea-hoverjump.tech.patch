@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Удерживайте ^green;[пробел]^reset; чтобы парить после прыжка в воздухе!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий рывок",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Удерживайте ^green;[пробел]^reset; чтобы парить после прыжка в воздухе!"
+},{"op":"replace","path":"/shortDescription","value":
+"Парящий рывок"
+}]

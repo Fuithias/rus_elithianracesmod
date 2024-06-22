@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Мне нравится канализация. Здесь всегда так тихо и спокойно.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Мне нравится канализация. Здесь всегда так тихо и спокойно."
+}]

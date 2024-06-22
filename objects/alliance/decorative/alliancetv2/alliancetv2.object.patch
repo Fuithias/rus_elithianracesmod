@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс ТВ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телевизор показывает новостной канал Alliance Network.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телевизор, транслирующий новостной канал.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телевизор, настроенный на новостную сеть.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На экране показаны красивые сцены.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Локации, показанные на этом канале, прекрасны!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я хотел бы посетить места, показанные на этом канале.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Новостной канал с фотографиями красивых мест.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Новостной канал, скучный...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телевизор настроен на новостной канал Alliance Network.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный монитор, показывающий изображения различных локаций. Подождите, это колония Авикан?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телевизор застрял на одном канале.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный монитор. Передача информации в Авангард.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кадры-инопланетные, места показаны-инопланетные. Акки хочет туда поехать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс ТВ"
+},{"op":"replace","path":"/description","value":
+"Телевизор показывает новостной канал Сети Альянса."
+},{"op":"replace","path":"/apexDescription","value":
+"Телевизор, транслирующий новостной канал."
+},{"op":"replace","path":"/avianDescription","value":
+"Телевизор, настроенный на новостную сеть."
+},{"op":"replace","path":"/floranDescription","value":
+"На экране показаны красивые сцены."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Локации, показанные на этом канале, прекрасны!"
+},{"op":"replace","path":"/humanDescription","value":
+"Я хотел бы посетить места, показанные на этом канале."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Новостной канал с фотографиями красивых мест."
+},{"op":"replace","path":"/novakidDescription","value":
+"Новостной канал, скучный..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот телевизор настроен на новостной канал Сети Альянса."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный монитор, показывающий изображения различных локаций. Подождите, это колония Авикан?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот телевизор застрял на одном канале."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный монитор. Передача информации в Авангард."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кадры-инопланетные, места показаны-инопланетные. Акки хочет туда поехать."
+}]

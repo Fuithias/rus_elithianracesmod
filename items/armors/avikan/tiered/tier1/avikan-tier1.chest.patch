@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Простая костяная пластина, которую носят авиканские падальщики.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Нагрудник падальщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Простая костяная пластина, которую носят авиканские падальщики."
+},{"op":"replace","path":"/shortdescription","value":
+"Нагрудник падальщика"
+}]

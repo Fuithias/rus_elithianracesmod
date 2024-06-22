@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Взломанный дроденский длинномеч.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Нарушенные/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный меч нарушенных",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Взломанный дроденский длинномеч."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Нарушенные/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Длинный меч нарушенных"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+}]

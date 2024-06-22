@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Шельф",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая полка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая полка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая полка настенная.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран раскладывает трофеи по полкам.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Содержание. Эта полка прочно крепится к стене.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта полка прочно крепится к стене.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая, но функциональная настенная полка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это полка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая полка, прикрепленная к стене.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта полка прочно крепится к стене.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта полка прочно крепится к стене.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена настенная полка. Прочно прикреплен к стене.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полка на стене.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Шельф"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая полка."
+},{"op":"replace","path":"/apexDescription","value":
+"Простая полка."
+},{"op":"replace","path":"/avianDescription","value":
+"Металлическая полка настенная."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран раскладывает трофеи по полкам."
+},{"op":"replace","path":"/glitchDescription","value":
+"Содержание. Эта полка прочно крепится к стене."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта полка прочно крепится к стене."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простая, но функциональная настенная полка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это полка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлическая полка, прикрепленная к стене."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта полка прочно крепится к стене."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта полка прочно крепится к стене."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена настенная полка. Прочно прикреплен к стене."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Полка на стене."
+}]

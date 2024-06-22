@@ -1,42 +1,17 @@
-[
-  {
-    "value": "центенская платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, построенная загадочными Центенами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытно. Какое древнее существо создало это?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа старая. Очень старая...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя платформа какого-то рода.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. центенская платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа, сделанная создателями богов.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"центенская платформа"
+},{"op":"replace","path":"/description","value":
+"Платформа, построенная загадочными Центенами."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытно. Какое древнее существо создало это?"
+},{"op":"replace","path":"/floranDescription","value":
+"Платформа старая. Очень старая..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Древняя платформа какого-то рода."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. центенская платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа, сделанная создателями богов."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

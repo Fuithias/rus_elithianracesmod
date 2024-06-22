@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Обшивочная панель из Края",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изношенное металлическое покрытие, найденное на внешней стороне космических кораблей из Края.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытно. Что вызвало все эти повреждения на корпусе?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поврежденная металлическая панель.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта обшивка сильно пострадала, но все еще держится.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обшивка. Обнаружены признаки боевых повреждений.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корпус-корабль, толстый и тяжелый. Акки не может прорезать...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Обшивочная панель из Края"
+},{"op":"replace","path":"/description","value":
+"Изношенное металлическое покрытие, найденное на внешней стороне космических кораблей из Края."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытно. Что вызвало все эти повреждения на корпусе?"
+},{"op":"replace","path":"/floranDescription","value":
+"Поврежденная металлическая панель."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта обшивка сильно пострадала, но все еще держится."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обшивка. Обнаружены признаки боевых повреждений."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Корпус-корабль, толстый и тяжелый. Акки не может прорезать..."
+}]

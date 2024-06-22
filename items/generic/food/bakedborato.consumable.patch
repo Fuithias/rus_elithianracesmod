@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Запеченное борато идеально подходит для ужина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Запеченное борато",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Запеченное борато идеально подходит для ужина."
+},{"op":"replace","path":"/shortdescription","value":
+"Запеченное борато"
+}]

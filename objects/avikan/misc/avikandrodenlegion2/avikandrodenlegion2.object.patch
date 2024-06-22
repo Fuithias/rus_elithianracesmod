@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный кадр Дродена",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный робот.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то неактивный робот.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то неактивный робот.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, спит ли робот...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Какой-то неактивный робот.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то неактивный робот.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то неактивный робот.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то неактивный робот.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный Дроден. Я не уверен, ИИ это или просто дроид.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен отряд Дродена. Анализ: Деактивирован.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Робот-спящий. Акки утилизировать металл?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный кадр Дродена"
+},{"op":"replace","path":"/description","value":
+"Неактивный робот."
+},{"op":"replace","path":"/apexDescription","value":
+"Какой-то неактивный робот."
+},{"op":"replace","path":"/avianDescription","value":
+"Какой-то неактивный робот."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, спит ли робот..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Какой-то неактивный робот."
+},{"op":"replace","path":"/humanDescription","value":
+"Какой-то неактивный робот."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Какой-то неактивный робот."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то неактивный робот."
+},{"op":"replace","path":"/aegiDescription","value":
+"Неактивный Дроден. Я не уверен, ИИ это или просто дроид."
+},{"op":"replace","path":"/avikanDescription","value":
+"Неактивный Дроден. Я не уверен, ИИ это или просто дроид."
+},{"op":"replace","path":"/trinkDescription","value":
+"Неактивный Дроден. Я не уверен, ИИ это или просто дроид."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен отряд Дродена. Анализ: Деактивирован."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Робот-спящий. Акки утилизировать металл?"
+}]

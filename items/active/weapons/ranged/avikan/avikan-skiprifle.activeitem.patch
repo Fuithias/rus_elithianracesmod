@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Компактная пропускная винтовка, выдаваемая авиканским воинам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Пропускная винтовка Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пропускная винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Компактная пропускная винтовка, выдаваемая авиканским воинам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Пропускная винтовка Авангарда"
+},{"op":"replace","path":"/category","value":
+"Пропускная винтовка"
+}]

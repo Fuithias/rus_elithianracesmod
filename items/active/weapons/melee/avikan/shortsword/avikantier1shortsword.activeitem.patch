@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Простой меч, сделанный из кости монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной меч",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Простой меч, сделанный из кости монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Костяной меч"
+}]

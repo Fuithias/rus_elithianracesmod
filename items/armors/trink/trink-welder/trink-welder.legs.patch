@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела для сварочных блоков тринков, с увеличенной и усиленной оптикой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела сварщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела для сварочных блоков тринков, с увеличенной и усиленной оптикой."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод тела сварщика"
+}]

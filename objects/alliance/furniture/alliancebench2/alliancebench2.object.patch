@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Мягкая скамья Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Комфортный двухместный автомобиль.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Обивка этой скамейки выглядит новой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенно, но все же удобно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран предпочитает деревянную скамейку.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Благодарен. Мне не помешало бы немного отдохнуть.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старая добрая скамейка. Давайте немного отдохнем.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Минималистичная, но очень удобная скамейка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне следует немного отдохнуть.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая и удобная скамейка.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне не очень нравятся инопланетные стулья.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта скамейка в хорошем состоянии.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стул пришельца.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки сядь, Акки расслабься.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Мягкая скамья Альянс"
+},{"op":"replace","path":"/description","value":
+"Комфортный двухместный автомобиль."
+},{"op":"replace","path":"/apexDescription","value":
+"Обивка этой скамейки выглядит новой."
+},{"op":"replace","path":"/avianDescription","value":
+"Упрощенно, но все же удобно."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран предпочитает деревянную скамейку."
+},{"op":"replace","path":"/glitchDescription","value":
+"Благодарен. Мне не помешало бы немного отдохнуть."
+},{"op":"replace","path":"/humanDescription","value":
+"Старая добрая скамейка. Давайте немного отдохнем."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Минималистичная, но очень удобная скамейка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне следует немного отдохнуть."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая и удобная скамейка."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мне не очень нравятся инопланетные стулья."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта скамейка в хорошем состоянии."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стул пришельца."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки сядь, Акки расслабься."
+}]

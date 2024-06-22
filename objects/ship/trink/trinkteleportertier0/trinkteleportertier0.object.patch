@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Телепортатор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный телепорт. В таком состоянии от него мало пользы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт сломан.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно починить этот телепорт.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт сломан. Нужен ремонт...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот телепорт сломан.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный телепорт? Это вообще никуда не годится...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кораблю нужен ремонт, прежде чем этот телепорт снова заработает.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный телепорт? Теперь это совсем не годится!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт сломан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт не работает. Я должен это исправить.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт сломан. Мне нужно его отремонтировать.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена технология телепортации. Статус: сломан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт сломан, требуется ремонт.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепортатор"
+},{"op":"replace","path":"/description","value":
+"Сломанный телепорт. В таком состоянии от него мало пользы."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот телепорт сломан."
+},{"op":"replace","path":"/avianDescription","value":
+"Мне нужно починить этот телепорт."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт сломан. Нужен ремонт..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот телепорт сломан."
+},{"op":"replace","path":"/humanDescription","value":
+"Сломанный телепорт? Это вообще никуда не годится..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кораблю нужен ремонт, прежде чем этот телепорт снова заработает."
+},{"op":"replace","path":"/novakidDescription","value":
+"Сломанный телепорт? Теперь это совсем не годится!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Телепорт сломан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Телепорт не работает. Я должен это исправить."
+},{"op":"replace","path":"/trinkDescription","value":
+"Телепорт сломан. Мне нужно его отремонтировать."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена технология телепортации. Статус: сломан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт сломан, требуется ремонт."
+}]

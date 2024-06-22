@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Наклонная металлическая панель, идеально подходящая для стен зданий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наклонная панель Alliance",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Наклонная металлическая панель, идеально подходящая для стен зданий."
+},{"op":"replace","path":"/shortdescription","value":
+"Наклонная панель Альянса"
+}]

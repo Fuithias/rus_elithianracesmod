@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Твердый, но съедобный и очень питательный кристалл.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кристаллы Саграсса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Твердый, но съедобный и очень питательный кристалл."
+},{"op":"replace","path":"/shortdescription","value":
+"Кристаллы Саграсса"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Передатчик, способный связываться с центральной сетью Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Передатчик",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Передатчик, способный связываться с центральной сетью Авикан."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Передатчик"
+}]

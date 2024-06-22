@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Быстрорастущее зерно, собранное Союзом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лофтгрейн",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Быстрорастущее зерно, собранное Союзом."
+},{"op":"replace","path":"/shortdescription","value":
+"Лофтгрейн"
+}]

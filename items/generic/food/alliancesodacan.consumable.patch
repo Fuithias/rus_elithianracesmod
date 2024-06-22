@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Банка освежающей Фрозы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фроза Банка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Банка освежающей Фрозы."
+},{"op":"replace","path":"/shortdescription","value":
+"Фроза Банка"
+}]

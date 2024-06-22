@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Верстак мародера",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, позволяющая модернизировать оружие до более мощных версий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "При наличии правильных инструментов здесь можно улучшить оружие.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место, где я могу улучшить свое оружие.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран совершенствует здесь оружие.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Здесь я могу улучшить определенное оружие.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот семинар позволяет мне улучшать определенное оружие.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно модернизировать оружие, так что даже слабое оружие никогда не пропадет зря.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мои винтовки могли бы быть немного улучшены.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская улучшения оружия.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная мастерская. Некоторое оружие можно улучшить здесь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "При наличии подходящего апгрейда здесь можно улучшить многие виды оружия.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Позволяет модернизировать определенное оружие для большей мощности.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует комплект улучшений, чтобы сделать оружие сильнее.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Верстак мародера"
+},{"op":"replace","path":"/description","value":
+"Мастерская, позволяющая модернизировать оружие до более мощных версий."
+},{"op":"replace","path":"/apexDescription","value":
+"При наличии правильных инструментов здесь можно улучшить оружие."
+},{"op":"replace","path":"/avianDescription","value":
+"Место, где я могу улучшить свое оружие."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран совершенствует здесь оружие."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Здесь я могу улучшить определенное оружие."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот семинар позволяет мне улучшать определенное оружие."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь можно модернизировать оружие, так что даже слабое оружие никогда не пропадет зря."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мои винтовки могли бы быть немного улучшены."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мастерская улучшения оружия."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная мастерская. Некоторое оружие можно улучшить здесь."
+},{"op":"replace","path":"/trinkDescription","value":
+"При наличии подходящего апгрейда здесь можно улучшить многие виды оружия."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Мастерская. Позволяет модернизировать определенное оружие для большей мощности."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки использует комплект улучшений, чтобы сделать оружие сильнее."
+}]

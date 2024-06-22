@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Бальзам, ускоряющий заживление ран. Восстанавливает 100 единиц здоровья за 1 секунду.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Медсалве",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Бальзам, ускоряющий заживление ран. Восстанавливает 100 единиц здоровья за 1 секунду."
+},{"op":"replace","path":"/shortdescription","value":
+"Медсалве"
+}]

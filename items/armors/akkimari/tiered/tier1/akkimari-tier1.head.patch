@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Грубо сделанный шарф, который оборачивается вокруг головы",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шарф подонка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Грубо сделанный шарф, который оборачивается вокруг головы"
+},{"op":"replace","path":"/shortdescription","value":
+"Шарф подонка"
+}]

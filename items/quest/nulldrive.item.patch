@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Уникальный привод линейной винтовки, обеспечивающий практически мгновенную зарядку.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Нулевой привод^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Уникальный привод линейной винтовки, обеспечивающий практически мгновенную зарядку."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Нулевой привод^white;"
+}]

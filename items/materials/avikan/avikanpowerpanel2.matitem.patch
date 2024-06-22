@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая панель со встроенными в ее обшивку силовыми кабелями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Панель питания Авикан (Свечение)",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая панель со встроенными в ее обшивку силовыми кабелями."
+},{"op":"replace","path":"/shortdescription","value":
+"Панель питания Авикан (Свечение)"
+}]

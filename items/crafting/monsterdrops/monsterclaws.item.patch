@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Когти инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Когти монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Когти инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Когти монстра"
+}]

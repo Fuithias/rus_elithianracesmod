@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Странная густая жидкость, которая, кажется, не принадлежит этой вселенной.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийская жидкость",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Странная густая жидкость, которая, кажется, не принадлежит этой вселенной."
+},{"op":"replace","path":"/shortdescription","value":
+"Центенсийская жидкость"
+}]

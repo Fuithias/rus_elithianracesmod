@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Тринкианская дверь корабля",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь, обычно используемая для изоляции отдельных отсеков корабля Тринка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Металлическая дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Классная дверь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошая дверь из прочного металла. Здесь ничего не проходит.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельная дверь дизайна Тринкиана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая дверь, построенная машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный способ изолировать весь отсек корабля.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Анализ: Модель корабля.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельная дверь, блестящая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианская дверь корабля"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая дверь, обычно используемая для изоляции отдельных отсеков корабля Тринка."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная металлическая дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Металлическая дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Классная дверь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Тяжелая металлическая дверь. Эффективен для защиты от ненужных вещей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Хорошая дверь из прочного металла. Здесь ничего не проходит."
+},{"op":"replace","path":"/aegiDescription","value":
+"Корабельная дверь дизайна Тринкиана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Металлическая дверь, построенная машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективный способ изолировать весь отсек корабля."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Анализ: Модель корабля."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Корабельная дверь, блестящая."
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Базовое копье.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Бредон Армс^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Копье Бредона",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Базовое копьё."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Бредон Армс^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Копьё Бредона"
+}]

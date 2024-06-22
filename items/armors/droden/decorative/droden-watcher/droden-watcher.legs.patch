@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Ножной элемент для наблюдательных единиц дроденов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ноги наблюдателя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Ножной элемент для наблюдательных единиц дроденов."
+},{"op":"replace","path":"/shortdescription","value":
+"Ноги наблюдателя"
+}]

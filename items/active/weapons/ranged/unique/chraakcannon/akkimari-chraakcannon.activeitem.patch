@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Переделанная артиллерийская пушка, которая служит молотом с шипами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#FFDD59;Пушка Чраака^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Самодельное оружие",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Смена формы",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Переделанная артиллерийская пушка, которая служит молотом с шипами."
+},{"op":"replace","path":"/shortdescription","value":
+"^#FFDD59;Пушка Чраака^white;"
+},{"op":"replace","path":"/category","value":
+"Самодельное оружие"
+},{"op":"replace","path":"/altAbility/name","value":
+"Смена формы"
+}]

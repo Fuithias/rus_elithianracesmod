@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Вос Авха'лас",
-    "path": "/destinations/name",
-    "op": "replace"
-  },
-  {
-    "value": "Неизвестная планета",
-    "path": "/destinations/planetName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/destinations/name","value":
+"Вос Авха'лас"
+},{"op":"replace","path":"/destinations/planetName","value":
+"Неизвестная планета"
+}]

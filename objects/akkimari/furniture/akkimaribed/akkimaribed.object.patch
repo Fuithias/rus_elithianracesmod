@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Кровать",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кровать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кровать необычного дизайна. Это удобно, но мне не хватает простыни.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычно удобная кровать.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран редко с-спит в такой красивой постели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усталый. Мне следует прилечь на некоторое время.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычная кровать. Здесь намного удобнее, чем кажется, но немного холодно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для отдыха. Лучше бы с простыней.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Достойное место, чтобы немного поспать.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кровать, сделанная Аккимари. Он невероятно мягкий.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная кровать. Это необычайно удобно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кровать Аккимари. Полагаю, что другим инопланетянам это будет удобно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное постельное белье.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки спит здесь. Просыпайтесь сильнее!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Кровать"
+},{"op":"replace","path":"/description","value":
+"Удобная кровать."
+},{"op":"replace","path":"/apexDescription","value":
+"Кровать необычного дизайна. Это удобно, но мне не хватает простыни."
+},{"op":"replace","path":"/avianDescription","value":
+"Необычно удобная кровать."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран редко с-спит в такой красивой постели."
+},{"op":"replace","path":"/glitchDescription","value":
+"Усталый. Мне следует прилечь на некоторое время."
+},{"op":"replace","path":"/humanDescription","value":
+"Необычная кровать. Здесь намного удобнее, чем кажется, но немного холодно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Место для отдыха. Лучше бы с простыней."
+},{"op":"replace","path":"/novakidDescription","value":
+"Достойное место, чтобы немного поспать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кровать, сделанная Аккимари. Он невероятно мягкий."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная кровать. Это необычайно удобно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кровать Аккимари. Полагаю, что другим инопланетянам это будет удобно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное постельное белье."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки спит здесь. Просыпайтесь сильнее!"
+}]

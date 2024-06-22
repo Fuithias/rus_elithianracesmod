@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Палатка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палатка, используемая кочевниками-авиканами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая кожаная палатка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Временный дом.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой коричневый дом...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Содержание. В этой палатке достаточно места.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ох, палатка! Есть кто-нибудь внутри?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не слишком горжусь тем, что ночую в палатке.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палатка Авикан, кожаная. Очень прочный, даже в суровых условиях.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционная палатка кочевника. Легко настроить и снова сломать.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несколько свернутых кожаных гобеленов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Палатка. Мобильный дом. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палатка-кожа, Акки здесь ночует.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Палатка"
+},{"op":"replace","path":"/description","value":
+"Палатка, используемая кочевниками-авиканами."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая кожаная палатка."
+},{"op":"replace","path":"/avianDescription","value":
+"Временный дом."
+},{"op":"replace","path":"/floranDescription","value":
+"Большой коричневый дом..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Содержание. В этой палатке достаточно места."
+},{"op":"replace","path":"/humanDescription","value":
+"Ох, палатка! Есть кто-нибудь внутри?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Я не слишком горжусь тем, что ночую в палатке."
+},{"op":"replace","path":"/aegiDescription","value":
+"Палатка Авикан, кожаная. Очень прочный, даже в суровых условиях."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционная палатка кочевника. Легко настроить и снова сломать."
+},{"op":"replace","path":"/trinkDescription","value":
+"Несколько свернутых кожаных гобеленов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Палатка. Мобильный дом. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Палатка-кожа, Акки здесь ночует."
+}]

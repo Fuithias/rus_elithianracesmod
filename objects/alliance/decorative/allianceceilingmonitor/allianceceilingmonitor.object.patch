@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Потолочный монитор Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потолочный монитор.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шикарный монитор.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монитор блестит.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сс блестящий экран.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Потолочный монитор.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это монитор, прикрепленный к потолку.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный потолочный монитор.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то монитор.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шикарный монитор.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монитор, созданный инопланетянами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потолочный монитор.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран-блестящий.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Потолочный монитор Альянса"
+},{"op":"replace","path":"/description","value":
+"Потолочный монитор."
+},{"op":"replace","path":"/apexDescription","value":
+"Шикарный монитор."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот монитор блестит."
+},{"op":"replace","path":"/floranDescription","value":
+"Сс блестящий экран."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Потолочный монитор."
+},{"op":"replace","path":"/humanDescription","value":
+"Это монитор, прикрепленный к потолку."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный потолочный монитор."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то монитор."
+},{"op":"replace","path":"/aegiDescription","value":
+"Шикарный монитор."
+},{"op":"replace","path":"/avikanDescription","value":
+"Монитор, созданный инопланетянами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Потолочный монитор."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Экран-блестящий."
+}]

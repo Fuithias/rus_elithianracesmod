@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Пескоползни",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Валар",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Дикие Фариты",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Взломанные Дралы",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Нарушенные Дралы",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Взломанные дроны Тринкианцев",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Арбитры Аккимари",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "дроны Тилиан",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/0/1/-/1/name","value":
+"Пескоползни"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Валар"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Дикие Фариты"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Взломанные Дралы"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Нарушенные Дралы"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Взломанные дроны Тринкианцев"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Арбитры Аккимари"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"дроны Тилиан"
+}]

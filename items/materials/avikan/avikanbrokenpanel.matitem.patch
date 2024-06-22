@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Треснувшая металлическая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанная панель Авикана",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Треснувшая металлическая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Сломанная панель Авикана"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Снайперские боеприпасы, взрывающиеся при приближении к врагам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Прокс-боеприпасы",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мод на боеприпасы",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Снайперские боеприпасы, взрывающиеся при приближении к врагам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Прокс-боеприпасы"
+},{"op":"replace","path":"/category","value":
+"Мод на боеприпасы"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Рекламная футболка для игры Новая Космическая Инквизиция.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Футболка НКИ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Рекламная футболка для игры Новая Космическая Инквизиция."
+},{"op":"replace","path":"/shortdescription","value":
+"Футболка НКИ"
+}]

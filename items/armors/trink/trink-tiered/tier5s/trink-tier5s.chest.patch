@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки из высокосортного виолиума.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод руки Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Мод руки из высокосортного виолиума."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод руки Авангарда"
+}]

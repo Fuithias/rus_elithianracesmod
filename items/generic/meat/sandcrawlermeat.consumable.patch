@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кусочки мяса песчаного краулера. Лучше сначала почистить...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мясо песчаного краулера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кусочки мяса песчаного краулера. Лучше сначала почистить..."
+},{"op":"replace","path":"/shortdescription","value":
+"Мясо песчаного краулера"
+}]

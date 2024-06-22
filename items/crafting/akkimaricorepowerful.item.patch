@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​брони Аккимари. Увеличивает силу пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дефлектор Core RM",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​брони Аккимари. Увеличивает силу пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Дефлектор Core RM"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Очень острый и легкий короткий меч, выдаваемый авиканским воинам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Короткий меч Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Очень острый и легкий короткий меч, выдаваемый авиканским воинам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Короткий меч Авангарда"
+}]

@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Мощный выпад",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Мощный выпад"
+}]

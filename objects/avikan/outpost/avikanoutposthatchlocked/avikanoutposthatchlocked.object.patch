@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Запертый люк кочевника",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк доступа плотно заперт.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не может открыть люк. Флоран расстроен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недовольный. Я не могу открыть этот люк.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк, запертый, как хранилище. Туда не попаду.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк для доступа к трубопроводу. Анализ: заблокирован.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк заперт, Акки сюда не пролезет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Запертый люк кочевника"
+},{"op":"replace","path":"/description","value":
+"Этот люк доступа плотно заперт."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не может открыть люк. Флоран расстроен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Недовольный. Я не могу открыть этот люк."
+},{"op":"replace","path":"/novakidDescription","value":
+"Люк, запертый, как хранилище. Туда не попаду."
+},{"op":"replace","path":"/drodenDescription","value":
+"Люк для доступа к трубопроводу. Анализ: заблокирован."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Люк заперт, Акки сюда не пролезет."
+}]

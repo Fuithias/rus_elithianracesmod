@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Датчик дня/ночи Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Датчик, определяющий текущее время суток.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Датчик, определяющий время суток.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот датчик определяет время суток.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сссенсор сообщает Флорану время суток.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот датчик определяет текущее время суток.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это скажет мне время суток, но только в абсолютных значениях.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот датчик включается и выключается в зависимости от времени суток.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде устройства для измерения времени.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот датчик отличает день от ночи.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Датчик, который сообщает вам время суток. С таким же успехом можно было бы посмотреть на солнце.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Датчик, который меняет выходной сигнал в зависимости от времени суток.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Датчик. Определяет время суток.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки может определять время здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Датчик дня/ночи Альянса"
+},{"op":"replace","path":"/description","value":
+"Датчик, определяющий текущее время суток."
+},{"op":"replace","path":"/apexDescription","value":
+"Датчик, определяющий время суток."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот датчик определяет время суток."
+},{"op":"replace","path":"/floranDescription","value":
+"Сссенсор сообщает Флорану время суток."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот датчик определяет текущее время суток."
+},{"op":"replace","path":"/humanDescription","value":
+"Это скажет мне время суток, но только в абсолютных значениях."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот датчик включается и выключается в зависимости от времени суток."
+},{"op":"replace","path":"/novakidDescription","value":
+"Что-то вроде устройства для измерения времени."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот датчик отличает день от ночи."
+},{"op":"replace","path":"/avikanDescription","value":
+"Датчик, который сообщает вам время суток. С таким же успехом можно было бы посмотреть на солнце."
+},{"op":"replace","path":"/trinkDescription","value":
+"Датчик, который меняет выходной сигнал в зависимости от времени суток."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Датчик. Определяет время суток."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки может определять время здесь."
+}]

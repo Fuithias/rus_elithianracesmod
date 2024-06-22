@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гобелен Авикан Авангард",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий гобелен с эмблемой «Авангарда».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен с яркой эмблемой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен с яркой эмблемой.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жирный инопланетный знак по всей этой ленте...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Красочный гобелен с яркой эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен с яркой эмблемой.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен с яркой эмблемой.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен с яркой эмблемой.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом гобелене изображена эмблема Авангарда, военного флота Авики.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом гобелене изображена эмблема нашего великого военного флота «Авангард».",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом гобелене изображена эмблема Авангарда, военного флота Авики.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема Авангарда.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен с символом. Символ Авангарда.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Авикан Авангард"
+},{"op":"replace","path":"/description","value":
+"Яркий гобелен с эмблемой Авангарда."
+},{"op":"replace","path":"/apexDescription","value":
+"Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/avianDescription","value":
+"Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/floranDescription","value":
+"Жирный инопланетный знак по всей этой ленте..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/humanDescription","value":
+"Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/novakidDescription","value":
+"Красочный гобелен с яркой эмблемой."
+},{"op":"replace","path":"/aegiDescription","value":
+"На этом гобелене изображена эмблема Авангарда, военного флота Авики."
+},{"op":"replace","path":"/avikanDescription","value":
+"На этом гобелене изображена эмблема нашего великого военного флота Авангард."
+},{"op":"replace","path":"/trinkDescription","value":
+"На этом гобелене изображена эмблема Авангарда, военного флота Авики."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема Авангарда."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гобелен с символом. Символ Авангарда."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кристаллизованное отложение потустороннего материала.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гивериевая руда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кристаллизованное отложение потустороннего материала."
+},{"op":"replace","path":"/shortdescription","value":
+"Гивериевая руда"
+}]

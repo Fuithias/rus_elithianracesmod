@@ -1,24 +1,5 @@
-[
-  {
-    "value": "^orange;NEW EVENT: ^gray;The Landing Festival^reset;",
-    "path": "/gui/title/value",
-    "op": "replace"
-  },
-  {
-    "value": "The Landing Festival, a celebration of the Aegi's arrival on Elithia hundreds of years ago, has arrived! This event features:
-
-- A new location, the ^cyan;Festival Hall^reset;, accessible through a teleporter in the Creon Embassy
-
-- New event-themed ^cyan;decorative objects^reset;, ^cyan;armour pieces^reset;, ^cyan;weapons^reset; and ^cyan;consumables^reset;
-
-- New quests for obtaining event-themed ^orange;Unique-quality items^reset;
-
-- ^cyan;Fireworks^reset; available in various colours
-
-- ^cyan;Daily presents^reset; in the Festival Hall. Visit the large decorated tree in the Festival Hall for a free daily present
-
-- A second chance at obtaining ^cyan;items missed in previous events^reset;. These items drop randomly from Landing Festival Presents!",
-    "path": "/gui/description/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/title/value","value":
+"^orange;НОВЫЙ ЭВЕНТ: ^gray;Праздник Приземления^reset;"
+},{"op":"replace","path":"/gui/description/value","value":
+"Праздник Приземления, посвященный прибытию аеги на Элитию сотни лет назад, настал! В событии участвуют:\n\n- Новая локация, ^cyan;Зал Праздника^reset;, доступный через телепорт в посольстве Креона\n\n- Новые тематические ^cyan;декорации^reset;, ^cyan;доспехи^reset;, ^cyan;оружие^reset; и ^cyan;расходники^reset;\n\n- Новые квесты для получения тематических ^orange;предметов важного качества^reset;\n\n- ^cyan;Салюты^reset, доступные в различных цветах\n\n- ^cyan;Ежедневные подарки^reset; в Зале Праздника. Посетите большую нарядную елку в Зале Праздника, чтобы получить бесплатный ежедневный подарок\n\n- Второй шанс получить ^cyan;предметы, пропущенные в прошлые годы^reset;. Эти предметы случайным образом выпадают при открытии подарков Праздника!"
+}]

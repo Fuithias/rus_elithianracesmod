@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя медного корня",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий, сочный овощ с высоким содержанием питательных веществ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкие, сочные овощи.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я предпочитаю семена, но и сам урожай тоже нормальный.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что это растение слишком мягкое.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот мягкий овощ богат питательными веществами.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Для меня этот урожай слишком мягкий.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий, водянистый овощ.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какая-то мягкая трава.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тысячелистник — жизненно важная часть хорошей еды.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение. Он очень сочный, не похожий ни на что на Кадаване.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта культура богата питательными веществами.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена чужеродная флора. Обнаружено большое количество воды внутри.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение-влажное, сочное-очень. Акки не знает, что и думать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя медного корня"
+},{"op":"replace","path":"/description","value":
+"Мягкий, сочный овощ с высоким содержанием питательных веществ."
+},{"op":"replace","path":"/apexDescription","value":
+"Мягкие, сочные овощи."
+},{"op":"replace","path":"/avianDescription","value":
+"Я предпочитаю семена, но и сам урожай тоже нормальный."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что это растение слишком мягкое."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот мягкий овощ богат питательными веществами."
+},{"op":"replace","path":"/humanDescription","value":
+"Для меня этот урожай слишком мягкий."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мягкий, водянистый овощ."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какая-то мягкая трава."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тысячелистник — жизненно важная часть хорошей еды."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение. Он очень сочный, не похожий ни на что на Кадаване."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта культура богата питательными веществами."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена чужеродная флора. Обнаружено большое количество воды внутри."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение-влажное, сочное-очень. Акки не знает, что и думать."
+}]

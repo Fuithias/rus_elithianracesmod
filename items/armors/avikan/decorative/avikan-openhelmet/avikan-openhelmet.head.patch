@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Шлем авикан с встроенными воздушными фильтрами, но без козырька.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Открытый шлем",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Шлем авикан с встроенными воздушными фильтрами, но без козырька."
+},{"op":"replace","path":"/shortdescription","value":
+"Открытый шлем"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Окно корабля Тринкиана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монитор, используемый Тринками вместо окон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это какое-то цифровое окно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цифровое окно? Я предпочитаю настоящие окна.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает сссшный экран...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Этот монитор служит цифровым окном, заменяющим настоящие окна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цифровое окно? Насколько это здорово?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цифровое окно, позволяющее обойти структурные слабые места, созданные настоящими окнами.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что это за издевательство? Это должно быть какое-то окно?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цифровое окно Тринкиана. Он подключен к датчикам по всему кораблю.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это должно быть окно?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нам, Тринкам, не нужны настоящие окна. Эти мониторы отображают всю необходимую нам информацию о нашем окружении.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Невозможно перевести.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это окно - нет, просто экран.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Окно корабля Тринкиана"
+},{"op":"replace","path":"/description","value":
+"Монитор, используемый Тринками вместо окон."
+},{"op":"replace","path":"/apexDescription","value":
+"Кажется, это какое-то цифровое окно."
+},{"op":"replace","path":"/avianDescription","value":
+"Цифровое окно? Я предпочитаю настоящие окна."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает сссшный экран..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Этот монитор служит цифровым окном, заменяющим настоящие окна."
+},{"op":"replace","path":"/humanDescription","value":
+"Цифровое окно? Насколько это здорово?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Цифровое окно, позволяющее обойти структурные слабые места, созданные настоящими окнами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Что это за издевательство? Это должно быть какое-то окно?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Цифровое окно Тринкиана. Он подключен к датчикам по всему кораблю."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это должно быть окно?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Нам, Тринкам, не нужны настоящие окна. Эти мониторы отображают всю необходимую нам информацию о нашем окружении."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Невозможно перевести."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Это окно - нет, просто экран."
+}]

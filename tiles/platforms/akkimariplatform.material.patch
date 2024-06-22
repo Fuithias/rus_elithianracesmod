@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Акрисовая платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая платформа, собранная из пластин лома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта металлическая платформа собрана из пластин лома.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические платформы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая платформа, сделанная из пластин лома. Не уверен, что она безопасна.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Платформа из металлолома.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки стоит на платформе, спрыгивает с платформы. Акки доволен.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрисовая платформа"
+},{"op":"replace","path":"/description","value":
+"Металлическая платформа, собранная из пластин лома."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта металлическая платформа собрана из пластин лома."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические платформы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая платформа, сделанная из пластин лома. Не уверен, что она безопасна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Платформа из металлолома."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки стоит на платформе, спрыгивает с платформы. Акки доволен."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

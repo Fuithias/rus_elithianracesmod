@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочная металлическая лестница.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Лестница",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочная металлическая лестница."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Лестница"
+}]

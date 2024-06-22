@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Центенсийский артефакт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний артефакт, созданный Центенами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Идеальный куб, парящий над пьедесталом. Что это может быть?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт древних времен, без сомнения.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, что за куб...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Похоже, это действительно древний артефакт.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вращающийся парящий куб над каким-то постаментом. Это ценно?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Таинственный куб. Такое ощущение, что это было здесь целую вечность.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный куб, парящий над каким-то пьедесталом.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Своего рода центенский артефакт. Я понятия не имею, какова его цель.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт, оставленный Древними. Я должен убедиться, что оно не попадет в руки Теллов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийский артефакт. Его цель неизвестна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен центенский артефакт. Рекомендовать немедленную эвакуацию спасательной бригадой Nomada.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный куб, создатель бога-артефакта.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенсийский артефакт"
+},{"op":"replace","path":"/description","value":
+"Древний артефакт, созданный Центенами."
+},{"op":"replace","path":"/apexDescription","value":
+"Идеальный куб, парящий над пьедесталом. Что это может быть?"
+},{"op":"replace","path":"/avianDescription","value":
+"Артефакт древних времен, без сомнения."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, что за куб..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Похоже, это действительно древний артефакт."
+},{"op":"replace","path":"/humanDescription","value":
+"Вращающийся парящий куб над каким-то постаментом. Это ценно?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Таинственный куб. Такое ощущение, что это было здесь целую вечность."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странный куб, парящий над каким-то пьедесталом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Своего рода центенский артефакт. Я понятия не имею, какова его цель."
+},{"op":"replace","path":"/avikanDescription","value":
+"Артефакт, оставленный Древними. Я должен убедиться, что оно не попадет в руки Теллов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Центенсийский артефакт. Его цель неизвестна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен центенский артефакт. Рекомендовать немедленную эвакуацию спасательной бригадой Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Странный куб, создатель бога-артефакта."
+}]

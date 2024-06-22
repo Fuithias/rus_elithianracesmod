@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Праздничные огни",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Праздничные огни"
+},{"op":"replace","path":"/description","value":
+"..."
+}]

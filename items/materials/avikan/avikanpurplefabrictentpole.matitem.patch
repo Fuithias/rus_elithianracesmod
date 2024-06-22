@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный металлический столб для палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Столб для палатки Райод",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный металлический столб для палатки."
+},{"op":"replace","path":"/shortdescription","value":
+"Столб для палатки Райод"
+}]

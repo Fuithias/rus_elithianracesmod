@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кусочек дюнной булочки, покрытый джемом болбон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Болбонская булочка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кусочек дюнной булочки, покрытый джемом болбон."
+},{"op":"replace","path":"/shortdescription","value":
+"Болбонская булочка"
+}]

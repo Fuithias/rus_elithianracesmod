@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Странный самовосстанавливающийся металлический фрагмент.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанский металлический фрагмент",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Странный самовосстанавливающийся металлический фрагмент."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанский металлический фрагмент"
+}]

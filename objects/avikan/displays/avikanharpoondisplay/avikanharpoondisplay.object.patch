@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Выставка гарпунов «Авангард»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлено гарпунное ружье «Авикан».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Очень мощное гарпунное ружье. Я полагаю, что он может легко пронзить врагов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Размер этого гарпуна заставляет задуматься, на что охотятся его создатели...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта сс-с-палка стреляет металлическим с-металлом? Флорану нравится...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запуган. Я бы не хотел встретить существо, на которое предназначен этот гарпун.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот ЭТО гарпунное ружье!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гарпунное ружье. Что такое охота?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Существа, на которых охотятся Авикан с помощью этого оружия, должны быть огромными.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Немногие виды оружия могут пробить кожу Песчаного ловца. Это оружие делает это с легкостью.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это гарпунное ружье было создано для охоты на крупных существ.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Предупреждение. Гарпунные ружья могут нанести смертельный урон.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гарпун для убийства.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Выставка гарпунов Авангард"
+},{"op":"replace","path":"/description","value":
+"На выставке представлено гарпунное ружье Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Очень мощное гарпунное ружье. Я полагаю, что он может легко пронзить врагов."
+},{"op":"replace","path":"/avianDescription","value":
+"Размер этого гарпуна заставляет задуматься, на что охотятся его создатели..."
+},{"op":"replace","path":"/floranDescription","value":
+"Эта сс-с-палка стреляет металлическим с-металлом? Флорану нравится..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Запуган. Я бы не хотел встретить существо, на которое предназначен этот гарпун."
+},{"op":"replace","path":"/humanDescription","value":
+"Вот ЭТО гарпунное ружье!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Гарпун-ружье. Что такое охота?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Существа, на которых охотятся Авикан с помощью этого оружия, должны быть огромными."
+},{"op":"replace","path":"/avikanDescription","value":
+"Немногие виды оружия могут пробить кожу Песчаного ловца. Это оружие делает это с легкостью."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это гарпунное ружье было создано для охоты на крупных существ."
+},{"op":"replace","path":"/drodenDescription","value":
+"Предупреждение. Гарпунные ружья могут нанести смертельный урон."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гарпун для убийства."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелая, толстая труба. Через него могут течь жидкости.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая трубка Авикан (полая)",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелая, толстая труба. Через него могут течь жидкости."
+},{"op":"replace","path":"/shortdescription","value":
+"Тяжелая трубка Авикан (полая)"
+}]

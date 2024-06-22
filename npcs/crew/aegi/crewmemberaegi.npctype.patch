@@ -1,122 +1,49 @@
-[
-  {
-    "value": "Привет, искатель приключений. Могу ли я присоединиться к вашей команде?",
-    "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я <собственное имя>, хочу присоединиться к экипажу космического корабля. Вы наняты?",
-    "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужен кто-нибудь в команду? Я хотел бы присоединиться к вам!",
-    "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел присоединиться к вашей команде, если вы позволите.",
-    "path": "/scriptConfig/dialog/crewmember/offer/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я защищу вас в бою, сэр!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Позвольте мне сражаться за вас!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Всегда готов, капитан!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я здесь, если я тебе понадоблюсь!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я никогда не чувствовал ничего более странного, чем это...",
-    "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я думал, что это конец для меня!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я вернулся!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я жив!",
-    "path": "/scriptConfig/dialog/crewmember/respawned/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду ждать тебя здесь.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Дай мне знать, когда захочешь снова выйти.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду стоять здесь на страже.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, когда ты вернешься.",
-    "path": "/scriptConfig/dialog/crewmember/unfollow/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Готовы идти, сэр!",
-    "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Тогда пойдем!",
-    "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я пойду за вами, капитан!",
-    "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Тогда мы отправляемся?",
-    "path": "/scriptConfig/dialog/crewmember/follow/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу до тебя дозвониться!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу туда попасть!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Подожди меня!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я найду способ обойти!",
-    "path": "/scriptConfig/dialog/crewmember/cantreach/aegi/default/3",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/aegi/default/0","value":
+"Привет, искатель приключений. Могу ли я присоединиться к вашей команде?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/aegi/default/1","value":
+"Я <selfname>, хочу присоединиться к экипажу космического корабля. Вы наняты?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/aegi/default/2","value":
+"Вам нужен кто-нибудь в команду? Я хотел бы присоединиться к вам!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/aegi/default/3","value":
+"Я бы хотел присоединиться к вашей команде, если вы позволите."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0","value":
+"Я защищу вас в бою, сэр!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1","value":
+"Позвольте мне сражаться за вас!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2","value":
+"Всегда готов, капитан!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3","value":
+"Я здесь, если я тебе понадоблюсь!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/aegi/default/0","value":
+"Я никогда не чувствовал ничего более странного, чем это..."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/aegi/default/1","value":
+"Я думал, что это конец для меня!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/aegi/default/2","value":
+"Я вернулся!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/respawned/aegi/default/3","value":
+"Я жив!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/aegi/default/0","value":
+"Я буду ждать тебя здесь."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/aegi/default/1","value":
+"Дай мне знать, когда захочешь снова выйти."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/aegi/default/2","value":
+"Я буду стоять здесь на страже."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/unfollow/aegi/default/3","value":
+"Я буду здесь, когда ты вернешься."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/aegi/default/0","value":
+"Готовы идти, сэр!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/aegi/default/1","value":
+"Тогда пойдем!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/aegi/default/2","value":
+"Я пойду за вами, капитан!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/follow/aegi/default/3","value":
+"Тогда мы отправляемся?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/aegi/default/0","value":
+"Я не могу до тебя дозвониться!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/aegi/default/1","value":
+"Я не могу туда попасть!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/aegi/default/2","value":
+"Подожди меня!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/cantreach/aegi/default/3","value":
+"Я найду способ обойти!"
+}]

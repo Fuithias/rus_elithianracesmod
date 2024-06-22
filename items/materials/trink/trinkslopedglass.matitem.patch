@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Толстое и прочное стекло часто используется на борту космических кораблей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкян Наклонное Стекло",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Толстое и прочное стекло часто используется на борту космических кораблей."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкян Наклонное Стекло"
+}]

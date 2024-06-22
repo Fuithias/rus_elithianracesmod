@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Бутылка Corus, коричневого и игристого.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка Коруса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Бутылка Corus, коричневого и игристого."
+},{"op":"replace","path":"/shortdescription","value":
+"Бутылка Коруса"
+}]

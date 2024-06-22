@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный элитный Драл",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень большой неактивный дрон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Восстание Апекса могло бы использовать подобные дроны.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это пугающе большой военный дрон...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не боится дронов. Дрон спит, Флоран проснулся.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Испуганный. Подобный дрон может нанести серьезный ущерб деревне.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это один огромный дрон. Лучше не злить его владельца...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой военный дрон, летающая армия из одного дрона.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это огромный дрон, если я когда-либо его видел.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой боевой дрон. Я бы побоялся драться с одним из них...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элитный Драл. Обычно ими управляют удаленные операторы.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне бы не хотелось сражаться с одним из этих чудовищ.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен элитный отряд Дралов. Статус: неактивен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон-большой, выглядит опасным. Акки осторожен.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный элитный Драл"
+},{"op":"replace","path":"/description","value":
+"Очень большой неактивный дрон."
+},{"op":"replace","path":"/apexDescription","value":
+"Восстание Апекса могло бы использовать подобные дроны."
+},{"op":"replace","path":"/avianDescription","value":
+"Это пугающе большой военный дрон..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не боится дронов. Дрон спит, Флоран проснулся."
+},{"op":"replace","path":"/glitchDescription","value":
+"Испуганный. Подобный дрон может нанести серьезный ущерб деревне."
+},{"op":"replace","path":"/humanDescription","value":
+"Это один огромный дрон. Лучше не злить его владельца..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большой военный дрон, летающая армия из одного дрона."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это огромный дрон, если я когда-либо его видел."
+},{"op":"replace","path":"/aegiDescription","value":
+"Большой боевой дрон. Я бы побоялся драться с одним из них..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Элитный Драл. Обычно ими управляют удаленные операторы."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мне бы не хотелось сражаться с одним из этих чудовищ."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен элитный отряд Дралов. Статус: неактивен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дрон-большой, выглядит опасным. Акки осторожен."
+}]

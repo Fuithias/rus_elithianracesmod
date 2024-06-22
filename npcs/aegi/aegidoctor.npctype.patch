@@ -1,52 +1,21 @@
-[
-  {
-    "value": "Вам нужна помощь?",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужна медицинская помощь?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы предложить медицинскую помощь, если она вам понадобится.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Извините, мне нужно принять других пациентов.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам понадобится медицинская помощь, дайте мне знать.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я люблю помогать людям. Это заставляет меня чувствовать, что я имею значение.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Помогать людям всегда было моим призванием.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужен кто-то, чтобы вас осмотреть?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Ты выглядишь обиженным. С тобой все в порядке?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Ты в порядке?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/8",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Вам нужна помощь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/0","value":
+"Вам нужна медицинская помощь?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/1","value":
+"Я мог бы предложить медицинскую помощь, если она вам понадобится."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/2","value":
+"Извините, мне нужно принять других пациентов."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/3","value":
+"Если вам понадобится медицинская помощь, дайте мне знать."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/4","value":
+"Я люблю помогать людям. Это заставляет меня чувствовать, что я имею значение."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/5","value":
+"Помогать людям всегда было моим призванием."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/6","value":
+"Вам нужен кто-то, чтобы вас осмотреть?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/7","value":
+"Ты выглядишь обиженным. С тобой все в порядке?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/8","value":
+"Ты в порядке?"
+}]

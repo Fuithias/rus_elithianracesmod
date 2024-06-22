@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Булочка с начинкой из мяса и болбона. Приобретенный вкус.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фаршированная булочка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Булочка с начинкой из мяса и болбона. Приобретенный вкус."
+},{"op":"replace","path":"/shortdescription","value":
+"Фаршированная булочка"
+}]

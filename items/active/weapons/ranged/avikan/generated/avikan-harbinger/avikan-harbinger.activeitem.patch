@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Высокомощная снайперка, стреляющая разрывными снарядами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Предвестник ЭКС-12",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Triple Shot",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Высокомощная снайперка, стреляющая разрывными снарядами."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Предвестник ЭКС-12"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Тройной выстрел"
+}]

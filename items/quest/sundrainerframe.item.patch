@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Часть корпуса древнего и мощного оружия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Рамка древнего оружия^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Часть корпуса древнего и мощного оружия."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Рамка древнего оружия^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

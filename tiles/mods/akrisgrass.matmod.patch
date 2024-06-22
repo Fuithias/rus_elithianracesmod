@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Странно окрашенная трава.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Красная трава.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран интересуется, почему трава красная.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странно окрашенная трава.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная трава.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая, приятно чувствовать на ногах — акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Странно окрашенная трава."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Красная трава."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран интересуется, почему трава красная."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странно окрашенная трава."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная трава."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Мягкая, приятно чувствовать на ногах — акки."
+}]

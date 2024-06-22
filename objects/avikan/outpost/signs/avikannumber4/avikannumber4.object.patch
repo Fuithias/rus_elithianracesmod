@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Номер четыре",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер четыре, в сценарии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Номер четыре в инопланетном сценарии.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой номер. Я считаю, что это четыре.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что означает инопланетный символ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот инопланетный символ означает четыре.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Четверо в каком-то инопланетном сценарии.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный символ числа четыре.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это число означает четыре.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер четыре.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Число. Четыре.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-чужой. Четыре, думает Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номер четыре"
+},{"op":"replace","path":"/description","value":
+"Номер четыре, в сценарии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Номер четыре в инопланетном сценарии."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужой номер. Я считаю, что это четыре."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что означает инопланетный символ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот инопланетный символ означает четыре."
+},{"op":"replace","path":"/humanDescription","value":
+"Четверо в каком-то инопланетном сценарии."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетный символ числа четыре."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это число означает четыре."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номер четыре."
+},{"op":"replace","path":"/drodenDescription","value":
+"Число. Четыре."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Номер-чужой. Четыре, думает Акки."
+}]

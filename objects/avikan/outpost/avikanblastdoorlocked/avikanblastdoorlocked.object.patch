@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Взрывная дверь Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь, запертая сложной системой замков.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь. Закрыто...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запертая дверь. Интересно, что лежит за этим?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Запертая взрывоопасная дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запертая взрывоопасная дверь. Хотелось бы как-нибудь его взорвать...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запертая взрывоопасная дверь. Должно быть, он защищает что-то ценное.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запертая взрывоопасная дверь. Кажется, нет никакого способа обойти это.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая взрывоопасная дверь, запертая сложной замковой системой. Ничто не проходит мимо этого.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь закрыта.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Заблокировано. Устройство не может принудительно открыться.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь закрыта. Акки пытаются сломать, Акки терпят неудачу.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая дверь, запертая сложной системой замков."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная металлическая противовзрывная дверь. Закрыто..."
+},{"op":"replace","path":"/avianDescription","value":
+"Запертая дверь. Интересно, что лежит за этим?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Запертая взрывоопасная дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Запертая взрывоопасная дверь. Хотелось бы как-нибудь его взорвать..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Запертая взрывоопасная дверь. Должно быть, он защищает что-то ценное."
+},{"op":"replace","path":"/aegiDescription","value":
+"Запертая взрывоопасная дверь. Кажется, нет никакого способа обойти это."
+},{"op":"replace","path":"/avikanDescription","value":
+"Толстая взрывоопасная дверь, запертая сложной замковой системой. Ничто не проходит мимо этого."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта дверь закрыта."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Заблокировано. Устройство не может принудительно открыться."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь закрыта. Акки пытаются сломать, Акки терпят неудачу."
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Дрек",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Персональный летательный аппарат производства Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Громоздкое транспортное средство, но летает на удивление шустро.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Летающее средство? Я бы хотел, чтобы у него были крылья...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большие металлические летающие вещи. Флиссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивляться. Я не знаю, как эта машина достигает полета.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Личный летательный аппарат? Ни за что!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот автомобиль может летать необычными способами.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Для вида, который часто живет под землей, авиканцы обладают необычной любовью к полету.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошо сбалансированный дрек, созданный для разведки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Персональный летательный аппарат. Неэффективный способ перевозки людей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрек обнаружил. Статус: закончилось топливо.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортное средство-инопланетянин, вроде Chaseflight.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Дрек"
+},{"op":"replace","path":"/description","value":
+"Персональный летательный аппарат производства Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Громоздкое транспортное средство, но летает на удивление шустро."
+},{"op":"replace","path":"/avianDescription","value":
+"Летающее средство? Я бы хотел, чтобы у него были крылья..."
+},{"op":"replace","path":"/floranDescription","value":
+"Большие металлические летающие вещи. Флиссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивляться. Я не знаю, как эта машина достигает полета."
+},{"op":"replace","path":"/humanDescription","value":
+"Личный летательный аппарат? Ни за что!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот автомобиль может летать необычными способами."
+},{"op":"replace","path":"/aegiDescription","value":
+"Для вида, который часто живет под землей, авиканцы обладают необычной любовью к полету."
+},{"op":"replace","path":"/avikanDescription","value":
+"Хорошо сбалансированный дрек, созданный для разведки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Персональный летательный аппарат. Неэффективный способ перевозки людей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Дрек обнаружил. Статус: закончилось топливо."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Транспортное средство-инопланетянин, вроде Chaseflight."
+}]

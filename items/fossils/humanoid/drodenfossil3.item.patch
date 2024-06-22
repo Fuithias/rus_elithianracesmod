@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая пара ног дродена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дроден Ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая пара ног дродена."
+},{"op":"replace","path":"/shortdescription","value":
+"Дроден Ноги"
+}]

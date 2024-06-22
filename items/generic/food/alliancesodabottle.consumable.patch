@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ледяная бутылка «Фрозы», самой популярной газировки в Союзе.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка Фрозы",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ледяная бутылка Фрозы, самой популярной газировки в Союзе."
+},{"op":"replace","path":"/shortdescription","value":
+"Бутылка Фрозы"
+}]

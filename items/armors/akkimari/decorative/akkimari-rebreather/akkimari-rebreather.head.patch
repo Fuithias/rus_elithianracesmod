@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Респиратор, созданный для того, чтобы аккимари могли дышать на чужих планетах",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Респиратор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Респиратор, созданный для того, чтобы аккимари могли дышать на чужих планетах"
+},{"op":"replace","path":"/shortdescription","value":
+"Респиратор"
+}]

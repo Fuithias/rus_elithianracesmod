@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Волокна растения басброн, мягкие и пушистые.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Басброновые волокна",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Волокна растения басброн, мягкие и пушистые."
+},{"op":"replace","path":"/shortdescription","value":
+"Басброновые волокна"
+}]

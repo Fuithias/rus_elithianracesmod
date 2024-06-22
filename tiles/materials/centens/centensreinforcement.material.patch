@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Центенамское Усиление",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный металл, найденный внутри Центенамских структур.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот металл часто встречается внутри древних металлических структур.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темный металл внутри старых домов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот металл часто встречается внутри этих старых металлических структур.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружен центенский металл.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усиление-прочное, для стабилизации зданий.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенамское Усиление"
+},{"op":"replace","path":"/description","value":
+"Темный металл, найденный внутри Центенамских структур."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот металл часто встречается внутри древних металлических структур."
+},{"op":"replace","path":"/floranDescription","value":
+"Темный металл внутри старых домов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот металл часто встречается внутри этих старых металлических структур."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружен центенский металл."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Усиление-прочное, для стабилизации зданий."
+}]

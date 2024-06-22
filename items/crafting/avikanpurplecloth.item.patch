@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ткань фиолетового цвета, используемая для создания предметов в стиле Райода.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань Райод",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ткань фиолетового цвета, используемая для создания предметов в стиле Райода."
+},{"op":"replace","path":"/shortdescription","value":
+"Ткань Райод"
+}]

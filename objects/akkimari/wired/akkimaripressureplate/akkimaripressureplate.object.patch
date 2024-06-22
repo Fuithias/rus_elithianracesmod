@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Нажимная пластина Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нажимная пластина, которая активируется, если на нее встать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран стой на тарелках, всякое случается!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Что-то может случиться, если я встану на эту нажимную пластину.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Прижимная плита. Активируется при наступлении.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки встаньте на плиту и активируйте ближайший механизм.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Нажимная пластина Акрис"
+},{"op":"replace","path":"/description","value":
+"Нажимная пластина, которая активируется, если на нее встать."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран стой на тарелках, всякое случается!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Что-то может случиться, если я встану на эту нажимную пластину."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Прижимная плита. Активируется при наступлении."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки встаньте на плиту и активируйте ближайший механизм."
+}]

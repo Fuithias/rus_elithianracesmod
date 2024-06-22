@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Взломанный дроденский короткий меч.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Нарушенные/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Короткий меч нарушенных",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Взломанный дроденский короткий меч."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Нарушенные/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Короткий меч нарушенных"
+}]

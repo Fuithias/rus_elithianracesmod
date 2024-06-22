@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Разбитый мех Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканский мех, поврежденный и не подлежащий ремонту.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический костюм был уничтожен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Встревожен. Этот механизм был атакован и быстро уничтожен.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, у пилота все получилось...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разбитый Крал. Похоже, на него напали с применением телеанского оружия...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен Крал. Статус: непоправимый ущерб.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мех-инопланетянин разрушен. Акки интересно, где пилот.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Разбитый мех Авикан"
+},{"op":"replace","path":"/description","value":
+"Авиканский мех, поврежденный и не подлежащий ремонту."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлический костюм был уничтожен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Встревожен. Этот механизм был атакован и быстро уничтожен."
+},{"op":"replace","path":"/novakidDescription","value":
+"Надеюсь, у пилота все получилось..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Разбитый Крал. Похоже, на него напали с применением телеанского оружия..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен Крал. Статус: непоправимый ущерб."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Мех-инопланетянин разрушен. Акки интересно, где пилот."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Кадаван Рок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камень. Легко и просто.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Роксс за избиение черепов!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Камень.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скала Кадаван.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен камень.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки это не интересует. Рок-скучный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кадаван Рок"
+},{"op":"replace","path":"/description","value":
+"Камень. Легко и просто."
+},{"op":"replace","path":"/floranDescription","value":
+"Роксс за избиение черепов!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Камень."
+},{"op":"replace","path":"/avikanDescription","value":
+"Скала Кадаван."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен камень."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки это не интересует. Рок-скучный."
+}]

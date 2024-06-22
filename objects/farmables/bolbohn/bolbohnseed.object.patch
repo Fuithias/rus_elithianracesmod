@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Семена Болбона",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение странной формы и столь же странного вкуса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Совершенно странное растение, к тому же забавно пахнущее.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не уверена, что мне нравится запах этого растения...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран считает это растение пахучим.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это растение кажется до странности знакомым, но в то же время очень чужеродным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я даже не уверен, хочу ли я знать, как это на вкус...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У этого растения странный вкус. Я не фанат этого.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мало кто находит это растение вкусным. Я знаю, что нет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Болбон! Вкусное напоминание о доме!",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Все, кого я спрашивал, соглашались, что это растение имело ужасный вкус. Все, кроме Авикана.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена аборигенная флора Кадавана. Болбон подтвердил.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное растение, похожее на фиолетовую каплю.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семена Болбона"
+},{"op":"replace","path":"/description","value":
+"Растение странной формы и столь же странного вкуса."
+},{"op":"replace","path":"/apexDescription","value":
+"Совершенно странное растение, к тому же забавно пахнущее."
+},{"op":"replace","path":"/avianDescription","value":
+"Не уверена, что мне нравится запах этого растения..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран считает это растение пахучим."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это растение кажется до странности знакомым, но в то же время очень чужеродным."
+},{"op":"replace","path":"/humanDescription","value":
+"Я даже не уверен, хочу ли я знать, как это на вкус..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"У этого растения странный вкус. Я не фанат этого."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мало кто находит это растение вкусным. Я знаю, что нет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Болбон! Вкусное напоминание о доме!"
+},{"op":"replace","path":"/trinkDescription","value":
+"Все, кого я спрашивал, соглашались, что это растение имело ужасный вкус. Все, кроме Авикана."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена аборигенная флора Кадавана. Болбон подтвердил."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Странное растение, похожее на фиолетовую каплю."
+}]

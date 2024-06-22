@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Костюм паломника для праздника Приземления!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костюм паломника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Костюм паломника для праздника Приземления!"
+},{"op":"replace","path":"/shortdescription","value":
+"Костюм паломника"
+}]

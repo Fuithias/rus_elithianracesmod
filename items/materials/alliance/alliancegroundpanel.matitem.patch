@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая панель часто используется для покрытия пола.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наземная панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая панель часто используется для покрытия пола."
+},{"op":"replace","path":"/shortdescription","value":
+"Наземная панель Альянса"
+}]

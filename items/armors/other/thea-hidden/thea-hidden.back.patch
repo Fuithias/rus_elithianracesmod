@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Маленькое устройство, скрывающее броню в слоте для нательной брони.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Скрыватель для спины",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Маленькое устройство, скрывающее броню в слоте для нательной брони."
+},{"op":"replace","path":"/shortdescription","value":
+"Скрыватель для спины"
+}]

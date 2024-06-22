@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Защитная турель Кочевника",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель, которая будет автоматически защищать территории. Можно разместить только один раз.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта турель защитит любую локацию от нападений монстров и бандитов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель сражается за Флорана. Флорану нравится турель.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Надеюсь, эта турель не нацелится на меня.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная система безопасности.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ни одна бессознательная машина никогда не должна иметь право убивать.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прекрасная турель для защиты вашей базы!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная защитная турель «Кочевник». Высокоэффективный.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такие турели часто используются для защиты колоний Авикан от атак.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель, построенная Авиканом. Надеюсь, его система нацеливания не увидит во мне угрозу.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена одобренная Nomada автоматизированная защитная турель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель-инопланетянин, убивайте врагов. Акки ленивый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Защитная турель Кочевника"
+},{"op":"replace","path":"/description","value":
+"Турель, которая будет автоматически защищать территории. Можно разместить только один раз."
+},{"op":"replace","path":"/apexDescription","value":
+"Автоматизированная оборонительная турель. Повстанцы могли бы этим воспользоваться."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта турель защитит любую локацию от нападений монстров и бандитов."
+},{"op":"replace","path":"/floranDescription","value":
+"Турель сражается за Флорана. Флорану нравится турель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Надеюсь, эта турель не нацелится на меня."
+},{"op":"replace","path":"/humanDescription","value":
+"Автоматизированная система безопасности."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ни одна бессознательная машина никогда не должна иметь право убивать."
+},{"op":"replace","path":"/novakidDescription","value":
+"Прекрасная турель для защиты вашей базы!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Автоматизированная защитная турель Кочевник. Высокоэффективный."
+},{"op":"replace","path":"/avikanDescription","value":
+"Такие турели часто используются для защиты колоний Авикан от атак."
+},{"op":"replace","path":"/trinkDescription","value":
+"Турель, построенная Авиканом. Надеюсь, его система нацеливания не увидит во мне угрозу."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена одобренная Номада автоматизированная защитная турель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Турель-инопланетянин, убивайте врагов. Акки ленивый."
+}]

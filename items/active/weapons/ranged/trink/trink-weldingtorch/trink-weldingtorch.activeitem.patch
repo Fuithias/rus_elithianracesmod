@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Сварочная горелка тринкианской разработки. Горит невероятно жарко.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский сварочный резак",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сварочный резак",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Сварочная горелка тринкианской разработки. Горит невероятно жарко."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианский сварочный резак"
+},{"op":"replace","path":"/category","value":
+"Сварочный резак"
+}]

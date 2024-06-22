@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Стандартная фуражка правоохранительных органов Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фуражка П-АСБ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Стандартная фуражка правоохранительных органов Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Фуражка П-АСБ"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Металлический щит с покрытием, произведенный где-то на Рубеже.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Щит Рубежника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Металлический щит с покрытием, произведенный где-то на Рубеже."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Щит Рубежника"
+}]

@@ -1,32 +1,13 @@
-[
-  {
-    "value": " Weapon Improvement Bench",
-    "path": "/gui/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " Improve your weapons here!",
-    "path": "/gui/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "You don't have any weapons that can be upgraded!",
-    "path": "/gui/emptyLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Replace Me",
-    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value",
-    "op": "replace"
-  },
-  {
-    "value": "Insert Upgrade Kit",
-    "path": "/gui/infoLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Upgrade",
-    "path": "/gui/btnUpgrade/caption",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/windowtitle/title","value":
+" Стенд улучшения оружия"
+},{"op":"replace","path":"/gui/windowtitle/subtitle","value":
+" Улучшите своё оружие здесь!"
+},{"op":"replace","path":"/gui/emptyLabel/value","value":
+"У вас нет оружия, которое можно улучшить!"
+},{"op":"replace","path":"/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value","value":
+"Замени меня"
+},{"op":"replace","path":"/gui/infoLabel/value","value":
+"Вставьте набор улучшения"
+},{"op":"replace","path":"/gui/btnUpgrade/caption","value":
+"Улучшить"
+}]

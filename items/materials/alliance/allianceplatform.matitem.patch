@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая платформа."
+},{"op":"replace","path":"/shortdescription","value":
+"Платформа Альянса"
+}]

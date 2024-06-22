@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Пропуск, дающий доступ на стрельбище посольства Креона.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Посольский пропуск на стрельбище^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "пропуск безопасности",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Пропуск, дающий доступ на стрельбище посольства Креона."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Посольский пропуск стрельца^white;"
+},{"op":"replace","path":"/category","value":
+"пропуск безопасности"
+}]

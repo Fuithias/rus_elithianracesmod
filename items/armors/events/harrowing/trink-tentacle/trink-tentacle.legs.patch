@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;Ноги. ^white;Тело с щупальцами для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело с щупальцами",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;Ноги. ^white;Тело с щупальцами для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Тело с щупальцами"
+}]

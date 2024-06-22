@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прирученный Кельбет, часто встречающийся в и вокруг эгинских городов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прирученный Кельбет",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прирученный Кельбет, часто встречающийся в и вокруг эгинских городов."
+},{"op":"replace","path":"/shortdescription","value":
+"Прирученный Кельбет"
+}]

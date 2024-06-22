@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Номадская боевая винтовка стандартной модели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Номадская боевая винтовка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Боевая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Номадская боевая винтовка стандартной модели."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Номадская боевая винтовка"
+},{"op":"replace","path":"/category","value":
+"Боевая винтовка"
+}]

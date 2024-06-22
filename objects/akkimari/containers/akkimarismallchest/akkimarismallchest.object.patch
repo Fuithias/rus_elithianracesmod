@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Маленький сундук Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Закругленный металлический контейнер от Akris.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический ящик округлой формы. Как странно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот сундук похож на металлическое птичье гнездо.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный ящик, в котором находится странная вкусняшка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Почему эта грудь такая округлая?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот это странный сундук.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный, но элегантный сундук.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то странный инопланетный контейнер. Не уверен, стоит ли мне его открывать.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Судя по всему, сундук Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот сундук имеет странный инопланетный дизайн.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот контейнер не очень эффективно использует пространство.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сундук-металл из дома. Аккимари находит внутри товары.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленький сундук Акриса"
+},{"op":"replace","path":"/description","value":
+"Закругленный металлический контейнер от Акрис."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический ящик округлой формы. Как странно."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот сундук похож на металлическое птичье гнездо."
+},{"op":"replace","path":"/floranDescription","value":
+"Странный ящик, в котором находится странная вкусняшка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Почему эта грудь такая округлая?"
+},{"op":"replace","path":"/humanDescription","value":
+"Вот это странный сундук."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Странный, но элегантный сундук."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то странный инопланетный контейнер. Не уверен, стоит ли мне его открывать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Судя по всему, сундук Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот сундук имеет странный инопланетный дизайн."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот контейнер не очень эффективно использует пространство."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Сундук-металл из дома. Аккимари находит внутри товары."
+}]

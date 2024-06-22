@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Создает щит, который поглощает большое количество урона, прежде чем сломаться.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Улучшение «Пузырьковый щит III»",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Создает щит, который поглощает большое количество урона, прежде чем сломаться."
+},{"op":"replace","path":"/shortdescription","value":
+"Улучшение Пузырьковый щит III"
+}]

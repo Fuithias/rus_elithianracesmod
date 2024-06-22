@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Вход в Тринкиан снизу",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нижний вход в модульные тринкианские здания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Модульный вход снизу.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нижний вход украшен зелеными огнями.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит перевернутую крышу. Флорану интересно, почему вверх тормашками.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Эта модульная нижняя входная часть заполнена датчиками.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Перевернутая металлическая пирамида? Странно круто!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический вход снизу. Удивительно, но он напичкан датчиками и системами связи.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринки — большие поклонники модульных зданий. Этот нижний вход подойдет практически к любой подходящей конструкции Тринкиана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический нижний вход, построенный машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нижние входы Trinkian являются модульными и подходят практически к любой подходящей конструкции Trinkian.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Показания указывают на большое количество датчиков внутри этой структуры.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки входит в здание здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Вход в Тринкиан снизу"
+},{"op":"replace","path":"/description","value":
+"Нижний вход в модульные тринкианские здания."
+},{"op":"replace","path":"/apexDescription","value":
+"Модульный вход снизу."
+},{"op":"replace","path":"/avianDescription","value":
+"Нижний вход украшен зелеными огнями."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит перевернутую крышу. Флорану интересно, почему вверх тормашками."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Эта модульная нижняя входная часть заполнена датчиками."
+},{"op":"replace","path":"/humanDescription","value":
+"Перевернутая металлическая пирамида? Странно круто!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлический вход снизу. Удивительно, но он напичкан датчиками и системами связи."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринки — большие поклонники модульных зданий. Этот нижний вход подойдет практически к любой подходящей конструкции Тринкиана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Металлический нижний вход, построенный машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Нижние входы тринков являются модульными и подходят практически к любой подходящей конструкции тринков."
+},{"op":"replace","path":"/drodenDescription","value":
+"Показания указывают на большое количество датчиков внутри этой структуры."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки входит в здание здесь."
+}]

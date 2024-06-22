@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ржавые куски металлолома, собранные из разных источников.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавый металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ржавые куски металлолома, собранные из разных источников."
+},{"op":"replace","path":"/shortdescription","value":
+"Ржавый металлолом"
+}]

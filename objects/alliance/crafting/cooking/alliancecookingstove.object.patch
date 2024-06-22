@@ -1,82 +1,33 @@
-[
-  {
-    "value": " Плита Альянса",
-    "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " ^#b9b5b2;Базовая готовка",
-    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Плита Альянса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартная модель печи для приготовления пищи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Многофункциональная плита для приготовления пищи и выпечки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы испечь здесь хлеб.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран однажды залез в печь. Как не приятно...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь, такая же, как у нас дома.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Многофункциональная печь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Давайте займемся выпечкой!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь стандартной модели, встречающаяся практически на любой эгинской кухне.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная печь, но я уверен, что смогу заставить ее работать.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как и многие эгинские машины, эта печь необычайно эффективна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная плита. Органические продукты питания можно использовать в качестве топлива.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки готовь еду, делай вкусно-больше.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Плита Альянса"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Базовая готовка"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Плита Альянса^white;"
+},{"op":"replace","path":"/description","value":
+"Стандартная модель печи для приготовления пищи."
+},{"op":"replace","path":"/apexDescription","value":
+"Многофункциональная плита для приготовления пищи и выпечки."
+},{"op":"replace","path":"/avianDescription","value":
+"Я мог бы испечь здесь хлеб."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран однажды залез в печь. Как не приятно..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда."
+},{"op":"replace","path":"/humanDescription","value":
+"Печь, такая же, как у нас дома."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Многофункциональная печь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Давайте займемся выпечкой!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Печь стандартной модели, встречающаяся практически на любой эгинской кухне."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная печь, но я уверен, что смогу заставить ее работать."
+},{"op":"replace","path":"/trinkDescription","value":
+"Как и многие эгинские машины, эта печь необычайно эффективна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная плита. Органические продукты питания можно использовать в качестве топлива."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки готовь еду, делай вкусно-больше."
+}]

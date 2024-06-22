@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Окно верфи Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большое усиленное окно.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран очарован видами...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мнение. Из этого окна открывается отличный вид на верфь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого окна открывается отличный вид на верфь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Стекло.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки смотрит на верфь через стекло.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Окно верфи Авикан"
+},{"op":"replace","path":"/description","value":
+"Большое усиленное окно."
+},{"op":"replace","path":"/apexDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/avianDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран очарован видами..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Мнение. Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/humanDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/trinkDescription","value":
+"Из этого окна открывается отличный вид на верфь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Стекло."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки смотрит на верфь через стекло."
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Изменяет внешний вид вашего манипулятора материи. ^red;Должны быть разблокированы все режимы.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Манипулятор аккимари",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Измененятор манипулятора",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Изменяет внешний вид вашего манипулятора материи. ^red;Должны быть разблокированы все режимы.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Манипулятор аккимари"
+},{"op":"replace","path":"/category","value":
+"Измененятор манипулятора"
+}]

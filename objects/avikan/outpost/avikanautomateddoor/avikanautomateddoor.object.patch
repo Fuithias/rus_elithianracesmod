@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Автоматизированная дверь Номада",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматическая взрывоопасная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, как дверь открывается сама по себе?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта дверь открывается и закрывается автоматически.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь открывается, когда я приближаюсь, и закрывается за моей спиной. Это магия!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена автоматическая взрывоопасная дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-автомат.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Автоматизированная дверь Номада"
+},{"op":"replace","path":"/description","value":
+"Автоматическая взрывоопасная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, как дверь открывается сама по себе?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта дверь открывается и закрывается автоматически."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта дверь открывается, когда я приближаюсь, и закрывается за моей спиной. Это магия!"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена автоматическая взрывоопасная дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-автомат."
+}]

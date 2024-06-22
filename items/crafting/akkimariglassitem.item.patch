@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Твердый кристаллический лист, похожий на стекло.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Гласс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Твердый кристаллический лист, похожий на стекло."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Гласс"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочная костяная пластина инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Монстр Тарелка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочная костяная пластина инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Монстр Тарелка"
+}]

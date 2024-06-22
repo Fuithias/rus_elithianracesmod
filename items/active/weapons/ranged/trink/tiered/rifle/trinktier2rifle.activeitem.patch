@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Лазерная винтовка низкого качества, созданная тринками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Схемантовка Марк II",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерная винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Рикошетный лазер",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Лазерная винтовка низкого качества, созданная тринками."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Схемантовка Мк II"
+},{"op":"replace","path":"/category","value":
+"Лазерная винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Рикошетный лазер"
+}]

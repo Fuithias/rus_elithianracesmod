@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Колючий, несколько пресный сок кактуса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кадаванский кактусовый сок",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Колючий, несколько пресный сок кактуса."
+},{"op":"replace","path":"/shortdescription","value":
+"Кадаванский кактусовый сок"
+}]

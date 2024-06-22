@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Шлем, который носят почетные капитаны Номады.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем почетного капитана",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Шлем, который носят почетные капитаны Номады."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем почетного капитана"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Жесткие костяные пластины, прикрепленные к кожаной юбке, для защиты ног без ограничения подвижности.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка воина",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Жесткие костяные пластины, прикрепленные к кожаной юбке, для защиты ног без ограничения подвижности."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка воина"
+}]

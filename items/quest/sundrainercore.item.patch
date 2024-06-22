@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Загадочное ядро ​​оружия. Глубоко внутри механизма пульсирует необычная энергия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Таинственное ядро ​​оружия^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Загадочное ядро ​​оружия. Глубоко внутри механизма пульсирует необычная энергия."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Таинственное ядро ​​оружия^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

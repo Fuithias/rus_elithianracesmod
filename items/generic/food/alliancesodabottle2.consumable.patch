@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Бутылка игристого Le'mar обязательно скрасит ваш день.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лемар Бутылка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Бутылка игристого Ле'мар обязательно скрасит ваш день."
+},{"op":"replace","path":"/shortdescription","value":
+"Лемар Бутылка"
+}]

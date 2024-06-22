@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Бутылка вкусного вина Valassa, приготовленного из лучших ягод Vahlberry Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка Валасса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Бутылка вкусного вина Valassa, приготовленного из лучших ягод Vahlberry Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Бутылка Валасса"
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Стандартная ракетница Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Альянс Коллектив^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АЦ.Л-45 Валун",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ракетница",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Кластер Искателей",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Стандартная ракетница Альянса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Альянс Коллектив^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АЦ.Л-45 Валун"
+},{"op":"replace","path":"/category","value":
+"Ракетница"
+},{"op":"replace","path":"/altAbility/name","value":
+"Кластер Искателей"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Репродукция легендарного оружия Ильялата Анде Вхелина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Команда Вхелина^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Курсирная винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Приказ Велина",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Репродукция легендарного оружия Ильялата Анде Велина."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Команда Велина^white;"
+},{"op":"replace","path":"/category","value":
+"Курсирная винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Приказ Велина"
+}]

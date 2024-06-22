@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Арбалет, созданный для охоты. С ним можно добывать кости и шкуры чудовищ.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной арбалет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Арбалет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Арбалет, созданный для охоты. С ним можно добывать кости и шкуры чудовищ.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Костяной арбалет"
+},{"op":"replace","path":"/category","value":
+"Арбалет"
+}]

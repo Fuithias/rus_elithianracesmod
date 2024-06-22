@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный арбитр",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный дрон типа «Аккимари Арбитр».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот дрон выглядит готовым к бою.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Округлый дрон среднего размера.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дронесс для боя.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Инопланетный дрон.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон. Выглядит забавно и как-то мило.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот дрон имеет элегантный дизайн.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то дрон.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Правоохранительный дрон конструкции Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот инопланетный дрон выглядит немного крепче, чем Драл.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спящий дрон.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен дрон, построенный пришельцами. Модель арбитра.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не мешай Арбитру мечтать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный арбитр"
+},{"op":"replace","path":"/description","value":
+"Неактивный дрон в.а Аккимари Арбитр."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот дрон выглядит готовым к бою."
+},{"op":"replace","path":"/avianDescription","value":
+"Округлый дрон среднего размера."
+},{"op":"replace","path":"/floranDescription","value":
+"Дронесс для боя."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Инопланетный дрон."
+},{"op":"replace","path":"/humanDescription","value":
+"Дрон. Выглядит забавно и как-то мило."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот дрон имеет элегантный дизайн."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то дрон."
+},{"op":"replace","path":"/aegiDescription","value":
+"Правоохранительный дрон конструкции Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот инопланетный дрон выглядит немного крепче, чем Драл."
+},{"op":"replace","path":"/trinkDescription","value":
+"Спящий дрон."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен дрон, построенный пришельцами. Модель арбитра."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не мешай Арбитру мечтать."
+}]

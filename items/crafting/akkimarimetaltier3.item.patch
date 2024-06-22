@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Помятые пластины из металлолома, собранного из источников низкого качества.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Помятый металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Помятые пластины из металлолома, собранного из источников низкого качества."
+},{"op":"replace","path":"/shortdescription","value":
+"Помятый металлолом"
+}]

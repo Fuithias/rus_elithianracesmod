@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Проворная коса, используемая избранными воинами Кельчиса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Указ Кельчиса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коса",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Sky Vault",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Проворная коса, используемая избранными воинами Кельчиса."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Указ Кельчиса^white;"
+},{"op":"replace","path":"/category","value":
+"Коса"
+},{"op":"replace","path":"/altAbility/name","value":
+"Небосвод"
+}]

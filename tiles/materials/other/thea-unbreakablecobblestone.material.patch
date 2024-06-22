@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Булыжник",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Твердые булыжники, гладкие на ощупь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заворожен. Эти булыжники естественно гладкие.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гладкие булыжные камни.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нередко можно встретить такие булыжные камни.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Булыжник"
+},{"op":"replace","path":"/description","value":
+"Твердые булыжники, гладкие на ощупь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заворожен. Эти булыжники естественно гладкие."
+},{"op":"replace","path":"/floranDescription","value":
+"Гладкие булыжные камни."
+},{"op":"replace","path":"/novakidDescription","value":
+"Нередко можно встретить такие булыжные камни."
+}]

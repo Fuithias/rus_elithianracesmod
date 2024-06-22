@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Передатчик, способный связываться с центральной магистральной цепью.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский передатчик",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Передатчик, способный связываться с центральной магистральной цепью."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианский передатчик"
+}]

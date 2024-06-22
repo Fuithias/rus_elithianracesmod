@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Торговец водой",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "  Свежая и чистая вода.",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
+"Торговец водой"
+},{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
+"  Свежая и чистая вода."
+}]

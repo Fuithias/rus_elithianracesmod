@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Корабельная турель «Авикан»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель, обычно встречающаяся на кораблях Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Турель. Это выглядит мощно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая турель, вероятно, используемая на космических кораблях.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не боится турелей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Турель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель. Лучше не стоять перед ним...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель. Печально, что вся жизнь, похоже, движется к войне.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то турель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Башня корабля Авикан. Это впечатляет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта турель должна обеспечивать безопасность корабля.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не очень эффективно, но эта турель Авикан вполне эффективна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена турель корабля «Авангард».",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Турель-большая. Прорывайтесь сквозь корабли.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Корабельная турель Авикан"
+},{"op":"replace","path":"/description","value":
+"Турель, обычно встречающаяся на кораблях Авикана."
+},{"op":"replace","path":"/apexDescription","value":
+"Турель. Это выглядит мощно."
+},{"op":"replace","path":"/avianDescription","value":
+"Небольшая турель, вероятно, используемая на космических кораблях."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не боится турелей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Турель."
+},{"op":"replace","path":"/humanDescription","value":
+"Турель. Лучше не стоять перед ним..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Турель. Печально, что вся жизнь, похоже, движется к войне."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то турель."
+},{"op":"replace","path":"/aegiDescription","value":
+"Башня корабля Авикан. Это впечатляет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта турель должна обеспечивать безопасность корабля."
+},{"op":"replace","path":"/trinkDescription","value":
+"Не очень эффективно, но эта турель Авикан вполне эффективна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена турель корабля Авангард."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Турель-большая. Прорывайтесь сквозь корабли."
+}]

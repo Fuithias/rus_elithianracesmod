@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Специальный сплав аллостали с высоким содержанием ферверия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Эритостальное покрытие^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Специальный сплав аллостали с высоким содержанием ферверия."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Эритостальное покрытие^white;"
+}]

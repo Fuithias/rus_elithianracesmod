@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Полноценный обед, предпочитаемый Эги.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эгинская трапеза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Полноценный обед, предпочитаемый Эги."
+},{"op":"replace","path":"/shortdescription","value":
+"Эгинская трапеза"
+}]

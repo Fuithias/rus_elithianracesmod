@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкианская антенна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна конструкции Тринкиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна для усиления радиосигналов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна, усиливающая сигнал.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может использовать это как металлическое копье...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Эта антенна глушит некоторые из моих датчиков.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна. Я бы не хотел, чтобы меня ткнули чем-то настолько острым.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна какая-то. Я не уверен, что делает поле под ним.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианская антенна. Это может усилить сигналы связи.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна. Он кажется неоправданно большим.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современная антенна, созданная для повышения эффективности.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радиосигнал обнаружен. Не удалось декодировать сообщение.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна-инопланетянка, отправляющая и принимающая сигналы издалека.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианская антенна"
+},{"op":"replace","path":"/description","value":
+"Антенна конструкции Тринкиана."
+},{"op":"replace","path":"/apexDescription","value":
+"Антенна для усиления радиосигналов."
+},{"op":"replace","path":"/avianDescription","value":
+"Антенна, усиливающая сигнал."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может использовать это как металлическое копьё..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Эта антенна глушит некоторые из моих датчиков."
+},{"op":"replace","path":"/humanDescription","value":
+"Антенна. Я бы не хотел, чтобы меня ткнули чем-то настолько острым."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Антенна какая-то. Я не уверен, что делает поле под ним."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианская антенна. Это может усилить сигналы связи."
+},{"op":"replace","path":"/avikanDescription","value":
+"Антенна. Он кажется неоправданно большим."
+},{"op":"replace","path":"/trinkDescription","value":
+"Современная антенна, созданная для повышения эффективности."
+},{"op":"replace","path":"/drodenDescription","value":
+"Радиосигнал обнаружен. Не удалось декодировать сообщение."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Антенна-инопланетянка, отправляющая и принимающая сигналы издалека."
+}]

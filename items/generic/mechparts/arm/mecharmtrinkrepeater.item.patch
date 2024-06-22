@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Лазерный репитер Trinkian для модульных механических костюмов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механическая рука с лазерным повторителем",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Лазерный репитер тринков для модульных механических костюмов."
+},{"op":"replace","path":"/shortdescription","value":
+"Механическая рука с лазерным повторителем"
+}]

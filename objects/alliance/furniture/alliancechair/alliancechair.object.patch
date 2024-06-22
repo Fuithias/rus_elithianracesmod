@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Председатель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простое, но удобное кресло.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий металлический стул.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобно, хотя и немного просто.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится это кресло.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Это кресло удобнее, чем кажется.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы сидеть над этим весь день.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенно, но все же удобно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я предпочитаю деревянные стулья.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой стул с удобной обивкой.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный стул. Из-за моего хвоста это довольно неудобно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стул, соответствующий стандартам Альянса.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стул пришельца.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки сиди.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Председатель Альянса"
+},{"op":"replace","path":"/description","value":
+"Простое, но удобное кресло."
+},{"op":"replace","path":"/apexDescription","value":
+"Мягкий металлический стул."
+},{"op":"replace","path":"/avianDescription","value":
+"Удобно, хотя и немного просто."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится это кресло."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Это кресло удобнее, чем кажется."
+},{"op":"replace","path":"/humanDescription","value":
+"Я мог бы сидеть над этим весь день."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Упрощенно, но все же удобно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я предпочитаю деревянные стулья."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой стул с удобной обивкой."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный стул. Из-за моего хвоста это довольно неудобно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стул, соответствующий стандартам Альянса."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стул пришельца."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки сиди."
+}]

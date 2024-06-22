@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Навес",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный навес, создающий тень у чьей-то двери.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный балдахин. Эффектно, но не очень красиво.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий кожаный балдахин.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой кожаный балдахин.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный навес, простой, но эффективный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный балдахин. Простой, но эффективный.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный тент. Обеспечивает хорошую защиту от пустынных ветров.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но функциональный кожаный балдахин.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент. Обеспечивает защиту от ветров пустыни.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Балдахин-кожа, защищает от ветра.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Навес"
+},{"op":"replace","path":"/description","value":
+"Кожаный навес, создающий тень у чьей-то двери."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный балдахин. Эффектно, но не очень красиво."
+},{"op":"replace","path":"/avianDescription","value":
+"Мягкий кожаный балдахин."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой кожаный балдахин."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаный навес, простой, но эффективный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кожаный балдахин. Простой, но эффективный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой кожаный тент. Обеспечивает хорошую защиту от пустынных ветров."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой, но функциональный кожаный балдахин."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный тент."
+},{"op":"replace","path":"/drodenDescription","value":
+"Кожаный тент. Обеспечивает защиту от ветров пустыни."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Балдахин-кожа, защищает от ветра."
+}]

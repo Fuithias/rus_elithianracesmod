@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Маленький, но мощный дрон, предназначенный для перевозки грузов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортный дрон ПАМ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Маленький, но мощный дрон, предназначенный для перевозки грузов."
+},{"op":"replace","path":"/shortdescription","value":
+"Транспортный дрон ПАИ"
+}]

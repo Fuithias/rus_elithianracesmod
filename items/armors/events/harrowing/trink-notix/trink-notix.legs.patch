@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;Ноги. ^white;Тело Нотикса для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело Нотикса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;Ноги. ^white;Тело Нотикса для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Тело Нотикса"
+}]

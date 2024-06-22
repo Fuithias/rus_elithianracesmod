@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Части пистолета, извлеченные из разобранного оружия дальнего боя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Части оружия",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Части пистолета, извлеченные из разобранного оружия дальнего боя."
+},{"op":"replace","path":"/shortdescription","value":
+"Части оружия"
+}]

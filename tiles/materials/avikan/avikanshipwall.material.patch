@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Стена Корабля авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая обшивка, для тех случаев, когда нужно защитить что-то очень сильно.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Толстая и тяжелая обшивка. Очень надежная защита.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большие пластины для обеспечения безопасности...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая обшивка подходит для создания больших сейфов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Теплостойкая металлическая обшивка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстые стены для использования на кораблях.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стена Корабля авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая обшивка, для тех случаев, когда нужно защитить что-то очень сильно."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Толстая и тяжелая обшивка. Очень надежная защита."
+},{"op":"replace","path":"/floranDescription","value":
+"Большие пластины для обеспечения безопасности..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая обшивка подходит для создания больших сейфов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Теплостойкая металлическая обшивка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Толстые стены для использования на кораблях."
+}]

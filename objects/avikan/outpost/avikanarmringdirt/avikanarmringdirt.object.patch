@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Потерянное кольцо на руке",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча грязной грязи. Возможно, в этом что-то есть?",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Если Флоран покопается в грязи, Флоран сможет что-нибудь найти?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвращение. Я бы предпочел не трогать эту гадость.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне кажется, или я вижу что-то блестящее в этой куче дерьма?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены канализационные отходы. Сканирование дополнительных элементов...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвратительно. Акки не хочет пачкать руки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Потерянное кольцо на руке"
+},{"op":"replace","path":"/description","value":
+"Куча грязной грязи. Возможно, в этом что-то есть?"
+},{"op":"replace","path":"/floranDescription","value":
+"Если Флоран покопается в грязи, Флоран сможет что-нибудь найти?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отвращение. Я бы предпочел не трогать эту гадость."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне кажется, или я вижу что-то блестящее в этой куче дерьма?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены канализационные отходы. Сканирование дополнительных элементов..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Отвратительно. Акки не хочет пачкать руки."
+}]

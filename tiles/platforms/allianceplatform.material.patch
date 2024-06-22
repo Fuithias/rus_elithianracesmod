@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Платформа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Часть металлической платформы.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические платформы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная металлическая платформа.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа-металл, очень чистая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Платформа Альянса"
+},{"op":"replace","path":"/description","value":
+"Металлическая платформа."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Часть металлической платформы."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические платформы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Обычная металлическая платформа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа-металл, очень чистая."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Подушка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная подушка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кожаная подушка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная подушка. Просто, но довольно удобно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо за сидение!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Эта примитивная кожаная подушка довольно удобна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая и удобная подушка.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивительно удобная кожаная подушка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная подушка, да?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кожаная подушка.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая коллекция кожаных листов, сложенных друг на друга.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная подушка.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обычная кожаная подушка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки присядь, отдохни немного.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Подушка"
+},{"op":"replace","path":"/description","value":
+"Простая кожаная подушка."
+},{"op":"replace","path":"/apexDescription","value":
+"Удобная кожаная подушка."
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаная подушка. Просто, но довольно удобно."
+},{"op":"replace","path":"/floranDescription","value":
+"Спасибо за сидение!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Эта примитивная кожаная подушка довольно удобна."
+},{"op":"replace","path":"/humanDescription","value":
+"Простая и удобная подушка."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Удивительно удобная кожаная подушка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаная подушка, да?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Удобная кожаная подушка."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простая коллекция кожаных листов, сложенных друг на друга."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простая кожаная подушка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обычная кожаная подушка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки присядь, отдохни немного."
+}]

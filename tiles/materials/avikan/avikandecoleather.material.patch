@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Обработанная авиканская кожа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаное покрытие стены, украшенное различными символами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдательный. На этой стеновой покрытии нарисовано много разных символов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает символов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это какие-то странные символы на стене.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Эти символы описывают события из истории авикан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не читает чужие буквы. Акки не интересует.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Обработанная авиканская кожа"
+},{"op":"replace","path":"/description","value":
+"Кожаное покрытие стены, украшенное различными символами."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдательный. На этой стеновой покрытии нарисовано много разных символов."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает символов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это какие-то странные символы на стене."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Эти символы описывают события из истории авикан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не читает чужие буквы. Акки не интересует."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Улучшение головы для элитных боевых единиц. Силовая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голова элиты тип-М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Улучшение головы для элитных боевых единиц. Силовая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Голова элиты в.-С"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Гладкая темная металлическая пластина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианское покрытие",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Гладкая темная металлическая пластина."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианское покрытие"
+}]

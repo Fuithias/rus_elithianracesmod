@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Мощная штурмовая винтовка, выдаваемая авиканским воинам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фокусный огонь",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощная штурмовая винтовка, выдаваемая авиканским воинам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Винтовка Авангарда"
+},{"op":"replace","path":"/altAbility/name","value":
+"Фокусный огонь"
+}]

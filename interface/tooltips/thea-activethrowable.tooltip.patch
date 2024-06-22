@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Урон за бросок:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость броска:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Расход снарядов:",
-    "path": "/ammoUsageTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Я баг. Прошу сообщите обо мне!",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за бросок:"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость броска:"
+},{"op":"replace","path":"/ammoUsageTitleLabel/value","value":
+"Расход снарядов:"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Я баг. Прошу сообщите обо мне!"
+}]

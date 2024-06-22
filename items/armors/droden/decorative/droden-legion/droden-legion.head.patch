@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Головной элемент для легионных единиц дроденов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голова легиона",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Головной элемент для легионных единиц дроденов."
+},{"op":"replace","path":"/shortdescription","value":
+"Голова легиона"
+}]

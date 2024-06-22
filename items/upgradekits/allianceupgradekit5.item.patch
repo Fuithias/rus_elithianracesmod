@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Полноценный комплект улучшения оружия. Улучшает оружие до 5 уровня.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Комплект обновления L.5",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Полноценный комплект улучшения оружия. Улучшает оружие до 5 уровня."
+},{"op":"replace","path":"/shortdescription","value":
+"Комплект обновления L.5"
+}]

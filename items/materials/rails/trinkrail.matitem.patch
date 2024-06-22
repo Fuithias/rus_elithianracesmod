@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный усиленный рельс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкянский рельс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный усиленный рельс."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкянский рельс"
+}]

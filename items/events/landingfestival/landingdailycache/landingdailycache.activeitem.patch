@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Завернутый подарок. Можно получить только один раз в день. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ежедневный подарок",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Завернутый подарок. Можно получить только один раз в день. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
+},{"op":"replace","path":"/shortdescription","value":
+"Ежедневный подарок"
+}]

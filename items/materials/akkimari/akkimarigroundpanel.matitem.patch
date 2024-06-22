@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Панели из металлолома, выполняющие роль половой доски.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Панель пола Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Панели из металлолома, выполняющие роль половой доски."
+},{"op":"replace","path":"/shortdescription","value":
+"Панель пола Акрис"
+}]

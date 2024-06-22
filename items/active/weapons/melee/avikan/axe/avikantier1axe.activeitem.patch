@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Простой костяной топор, заточенный до приличной остроты.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной топор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Простой костяной топор, заточенный до приличной остроты."
+},{"op":"replace","path":"/shortdescription","value":
+"Костяной топор"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Самодельная граната, начиненная заточенными гвоздями.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Самодельная гвоздебомба",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Самодельная граната, начиненная заточенными гвоздями.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Самодельная гвоздебомба"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

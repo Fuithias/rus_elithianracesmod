@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Маленький дрон, отправляемый солдатами авиканов для разведки местности.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Передовой Драалид",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Маленький дрон, отправляемый солдатами авиканов для разведки местности."
+},{"op":"replace","path":"/shortdescription","value":
+"Передовой Драалид"
+}]

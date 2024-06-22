@@ -1,212 +1,85 @@
-[
-  {
-    "value": "^orange;Стол Авикана Косторезчика^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Косторезчика используется для изготовления предметов из костей монстров.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, полный инструментов для резьбы по кости.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол для изготовления костей. Выглядит немного примитивно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран делает здесь оружие из костей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Как с помощью таких простых инструментов можно создавать изделия из кости превосходного качества?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для резьбы по кости. Я немного удивлен тем, насколько эффективным может быть костное оборудование!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканские косторезы — настоящие мастера своего дела.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для изготовления костей. Мы собираемся стать примитивными, да?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканцы называют тех, кто работает с костями, «резчиками по кости». На этом столе есть полный набор их инструментов.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Косторезчика. Здесь я могу изготавливать традиционное оружие и снаряжение.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, полный инструментов для резьбы по кости. Примитивный и неэффективный способ обработки костей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Стол Косторезчика. Используется для изготовления оборудования и других предметов из кости.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вырезает кости здесь!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Стол Авикана Косторезчика^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Косторезчика используется для изготовления предметов из костей монстров.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, полный инструментов для резьбы по кости.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол для изготовления костей. Выглядит немного примитивно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран делает здесь оружие из костей!",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Как с помощью таких простых инструментов можно создавать изделия из кости превосходного качества?",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для резьбы по кости. Я немного удивлен тем, насколько эффективным может быть костное оборудование!",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканские косторезы — настоящие мастера своего дела.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для изготовления костей. Мы собираемся стать примитивными, да?",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканцы называют тех, кто работает с костями, «резчиками по кости». На этом столе есть полный набор их инструментов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Косторезчика. Здесь я могу изготавливать традиционное оружие и снаряжение.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, полный инструментов для резьбы по кости. Примитивный и неэффективный способ обработки костей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Стол Косторезчика. Используется для изготовления оборудования и других предметов из кости.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вырезает кости здесь!",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Костеобрабатывающий станок «Авикан»^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция обработки костей используется для изготовления предметов из костей монстров.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная станция обработки костей. Я могу запрограммировать его на производство самых разных вещей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция используется для изготовления предметов из кости.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина делает костяное оружие для Флорана. Флоран доволен.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Эта станция автоматически создаст любой костяной предмет, который я запрошу.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированная станция обработки костей. Эта технология намного более продвинута, чем то, что она производит.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Искусство резьбы по кости изящно. К сожалению, сейчас эту работу выполняют машины...",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция по изготовлению костей? Зачем использовать такие причудливые технологии для создания простых предметов?",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция обработки костей. Он может производить костяные предметы более высокого качества.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хотя резчики по кости опытны, подобные машины просто более удобны.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированное решение для создания различных предметов из костей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Костяная станция. Используется для изготовления оборудования и других предметов из кости.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина делает инструменты-кость. Акки проще.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Стол Авикана Косторезчика^white;"
+},{"op":"replace","path":"/description","value":
+"Стол Косторезчика используется для изготовления предметов из костей монстров."
+},{"op":"replace","path":"/apexDescription","value":
+"Стол, полный инструментов для резьбы по кости."
+},{"op":"replace","path":"/avianDescription","value":
+"Стол для изготовления костей. Выглядит немного примитивно."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран делает здесь оружие из костей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Как с помощью таких простых инструментов можно создавать изделия из кости превосходного качества?"
+},{"op":"replace","path":"/humanDescription","value":
+"Инструменты для резьбы по кости. Я немного удивлен тем, насколько эффективным может быть костное оборудование!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Авиканские косторезы — настоящие мастера своего дела."
+},{"op":"replace","path":"/novakidDescription","value":
+"Инструменты для изготовления костей. Мы собираемся стать примитивными, да?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Авиканцы называют тех, кто работает с костями, резчиками по кости. На этом столе есть полный набор их инструментов."
+},{"op":"replace","path":"/avikanDescription","value":
+"Стол Косторезчика. Здесь я могу изготавливать традиционное оружие и снаряжение."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стол, полный инструментов для резьбы по кости. Примитивный и неэффективный способ обработки костей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Стол Косторезчика. Используется для изготовления оборудования и других предметов из кости."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки вырезает кости здесь!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Стол Авикана Косторезчика^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Стол Косторезчика используется для изготовления предметов из костей монстров."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Стол, полный инструментов для резьбы по кости."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Стол для изготовления костей. Выглядит немного примитивно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Флоран делает здесь оружие из костей!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Поражен. Как с помощью таких простых инструментов можно создавать изделия из кости превосходного качества?"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Инструменты для резьбы по кости. Я немного удивлен тем, насколько эффективным может быть костное оборудование!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Авиканские косторезы — настоящие мастера своего дела."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Инструменты для изготовления костей. Мы собираемся стать примитивными, да?"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Авиканцы называют тех, кто работает с костями, резчиками по кости. На этом столе есть полный набор их инструментов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Стол Косторезчика. Здесь я могу изготавливать традиционное оружие и снаряжение."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Стол, полный инструментов для резьбы по кости. Примитивный и неэффективный способ обработки костей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Стол Косторезчика. Используется для изготовления оборудования и других предметов из кости."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки вырезает кости здесь!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Костеобрабатывающий станок Авикан^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Станция обработки костей используется для изготовления предметов из костей монстров."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Автоматизированная станция обработки костей. Я могу запрограммировать его на производство самых разных вещей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Эта станция используется для изготовления предметов из кости."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Машина делает костяное оружие для Флорана. Флоран доволен."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Заинтригован. Эта станция автоматически создаст любой костяной предмет, который я запрошу."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Автоматизированная станция обработки костей. Эта технология намного более продвинута, чем то, что она производит."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Искусство резьбы по кости изящно. К сожалению, сейчас эту работу выполняют машины..."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Станция по изготовлению костей? Зачем использовать такие причудливые технологии для создания простых предметов?"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Станция обработки костей. Он может производить костяные предметы более высокого качества."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Хотя резчики по кости опытны, подобные машины просто более удобны."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Автоматизированное решение для создания различных предметов из костей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Костяная станция. Используется для изготовления оборудования и других предметов из кости."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Машина делает инструменты-кость. Акки проще."
+}]

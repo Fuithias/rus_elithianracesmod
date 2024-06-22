@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Важная линейная винтовка, созданная для уничтожения эрразмайров.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Копье Эрразбителя^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Рикошетный выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Уникальная линейная винтовка, созданная для уничтожения эрразмайров."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Пика Эрразбителя^white;"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Рикошетный выстрел"
+}]

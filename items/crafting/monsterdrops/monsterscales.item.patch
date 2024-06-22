@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Костяная чешуя инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Чешуя монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Костяная чешуя инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Чешуя монстра"
+}]

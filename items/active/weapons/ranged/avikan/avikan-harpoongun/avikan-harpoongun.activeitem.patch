@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Собирает кости и кожу монстров.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Гарпунное ружьё Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гарпунное ружьё",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Собирает кости и кожу монстров."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Гарпун-ружьё Авангарда"
+},{"op":"replace","path":"/category","value":
+"Гарпун-ружьё"
+}]

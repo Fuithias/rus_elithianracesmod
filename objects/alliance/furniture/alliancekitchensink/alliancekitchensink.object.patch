@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Кухонная мойка Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная столешница со встроенной мойкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная мойка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы выпить немного воды здесь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Синкссс дает Флорану воду.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Кухонная мойка.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мойка – важная часть любой хорошей кухни.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У меня всегда есть время, чтобы набрать воды.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раковина.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кухонная мойка должна оказаться полезной.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетяне используют воду довольно небрежно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная мойка.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный источник воды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки моет руки здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кухонная мойка Альянс"
+},{"op":"replace","path":"/description","value":
+"Кухонная столешница со встроенной мойкой."
+},{"op":"replace","path":"/apexDescription","value":
+"Кухонная мойка."
+},{"op":"replace","path":"/avianDescription","value":
+"Я мог бы выпить немного воды здесь."
+},{"op":"replace","path":"/floranDescription","value":
+"Синкссс даёт Флорану воду."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Кухонная мойка."
+},{"op":"replace","path":"/humanDescription","value":
+"Мойка – важная часть любой хорошей кухни."
+},{"op":"replace","path":"/hylotlDescription","value":
+"У меня всегда есть время, чтобы набрать воды."
+},{"op":"replace","path":"/novakidDescription","value":
+"Раковина."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта кухонная мойка должна оказаться полезной."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетяне используют воду довольно небрежно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кухонная мойка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный источник воды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки моет руки здесь."
+}]

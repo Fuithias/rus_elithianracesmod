@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Кубок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кубок, наполненный питательной жидкостью.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кубок, полный какой-то странной жидкости. Я не уверен, что это безопасно пить.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что бы ни было в этом кубке, я это не пью.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Напиток выглядит странно. Флорану не следует это пить.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвращение. Жидкость в этом кубке пахнет слишком сильно.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне действительно не следует это пить.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не думаю, что это безопасно пить.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не должен это пить.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это не выглядит безопасным для питья.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то инопланетный напиток. Один только запах меня тошнит.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу определить жидкость в этом кубке.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Чужой напиток. Крайне несовместим с биологией Авикан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет пить. Напиток-вкусно!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Кубок"
+},{"op":"replace","path":"/description","value":
+"Кубок, наполненный питательной жидкостью."
+},{"op":"replace","path":"/apexDescription","value":
+"Кубок, полный какой-то странной жидкости. Я не уверен, что это безопасно пить."
+},{"op":"replace","path":"/avianDescription","value":
+"Что бы ни было в этом кубке, я это не пью."
+},{"op":"replace","path":"/floranDescription","value":
+"Напиток выглядит странно. Флорану не следует это пить."
+},{"op":"replace","path":"/glitchDescription","value":
+"Отвращение. Жидкость в этом кубке пахнет слишком сильно."
+},{"op":"replace","path":"/humanDescription","value":
+"Мне действительно не следует это пить."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Я не думаю, что это безопасно пить."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я не должен это пить."
+},{"op":"replace","path":"/aegiDescription","value":
+"Это не выглядит безопасным для питья."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то инопланетный напиток. Один только запах меня тошнит."
+},{"op":"replace","path":"/trinkDescription","value":
+"Я не могу определить жидкость в этом кубке."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Чужой напиток. Крайне несовместим с биологией Авикан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочет пить. Напиток-вкусно!"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тринкианский лазерный диод, основа всего тринкианского лазерного оружия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерный диод Тринкиана",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тринкианский лазерный диод, основа всего тринкианского лазерного оружия."
+},{"op":"replace","path":"/shortdescription","value":
+"Лазерный диод Тринкиана"
+}]

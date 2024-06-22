@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Кожаный баннер, который носят дродены для идентификации своих владельцев.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Баннер дродена",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Кожаный баннер, который носят дродены для идентификации своих владельцев."
+},{"op":"replace","path":"/shortdescription","value":
+"Баннер дродена"
+}]

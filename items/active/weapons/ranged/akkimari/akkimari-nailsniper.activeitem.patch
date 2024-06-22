@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Самодельная снайперка, стреляющая жареными гвоздями.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Келрааки^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Рельса-гвоздь Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Прошивные гвозди",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Самодельная снайперка, стреляющая жареными гвоздями.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Келрааки^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Рельса-гвоздь Акриса"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Прошивные гвозди"
+}]

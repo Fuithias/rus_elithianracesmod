@@ -1,482 +1,193 @@
-[
-  {
-    "value": "Что ты делаешь на нашем корабле? Надеюсь, ты придешь с миром.",
-    "path": "/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело тебя на наш корабль, незнакомец?",
-    "path": "/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы, Авикан, уже много лет живем на борту космических кораблей. Это не слишком отличается от кочевой жизни в пустыне.",
-    "path": "/converse/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Держись подальше от систем корабля, ладно? Мы не хотим никаких осложнений.",
-    "path": "/converse/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вы только что запустили мех на наш корабль? Где я могу его получить?",
-    "path": "/converse/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Как... Что ты делаешь на нашем корабле?",
-    "path": "/converse/avikan/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Ты можешь остаться ненадолго, но держи руки при себе.",
-    "path": "/converse/avikan/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Гость на нашем корабле? Полагаю, ты можешь остаться ненадолго.",
-    "path": "/converse/avikan/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Для меня большая честь видеть вас на нашем корабле, капитан.",
-    "path": "/converse/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать на наш корабль, капитан. Вы пришли на осмотр?",
-    "path": "/converse/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, Теллы не доставили тебе слишком много хлопот.",
-    "path": "/converse/avikan/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать, капитан. Что вы думаете о нашем скромном корабле?",
-    "path": "/converse/avikan/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан.",
-    "path": "/converse/avikan/avikan/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мы видели приближающийся ваш корабль вдалеке. Она красавица.",
-    "path": "/converse/avikan/avikan/5",
-    "op": "replace"
-  },
-  {
-    "value": "Могу я вам помочь, капитан?",
-    "path": "/converse/avikan/avikan/6",
-    "op": "replace"
-  },
-  {
-    "value": "Подождите, капитан! Прошло много времени с тех пор, как у нас был последний посетитель!",
-    "path": "/converse/avikan/avikan/7",
-    "op": "replace"
-  },
-  {
-    "value": "Что ты делаешь на нашем корабле, машина?",
-    "path": "/converse/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Откуда взялась эта машина? Может ли кто-нибудь выбросить его из шлюза?",
-    "path": "/converse/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего не трогай, машина.",
-    "path": "/converse/avikan/glitch/2",
-    "op": "replace"
-  },
-  {
-    "value": "Устроим неприятности нашему кораблю, и я сам тебя разберу.",
-    "path": "/converse/avikan/glitch/3",
-    "op": "replace"
-  },
-  {
-    "value": "Не придумывай здесь никаких странных идей, машина.",
-    "path": "/converse/avikan/glitch/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не оставайся надолго.",
-    "path": "/converse/avikan/glitch/5",
-    "op": "replace"
-  },
-  {
-    "value": "Делай то, ради чего пришел сюда, и иди своей дорогой. Нам не нужны здесь машины.",
-    "path": "/converse/avikan/glitch/6",
-    "op": "replace"
-  },
-  {
-    "value": "Остальным членам команды может не понравиться ваше присутствие здесь. Я бы порекомендовал вам не оставаться здесь слишком долго.",
-    "path": "/converse/avikan/glitch/7",
-    "op": "replace"
-  },
-  {
-    "value": "Что ты делаешь на нашем корабле, машина?",
-    "path": "/converse/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Откуда взялась эта машина? Может ли кто-нибудь выбросить его из шлюза?",
-    "path": "/converse/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего не трогай, машина.",
-    "path": "/converse/avikan/trink/2",
-    "op": "replace"
-  },
-  {
-    "value": "Устроим неприятности нашему кораблю, и я сам тебя разберу.",
-    "path": "/converse/avikan/trink/3",
-    "op": "replace"
-  },
-  {
-    "value": "Не придумывай здесь никаких странных идей, машина.",
-    "path": "/converse/avikan/trink/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не оставайся надолго.",
-    "path": "/converse/avikan/trink/5",
-    "op": "replace"
-  },
-  {
-    "value": "Делай то, ради чего пришел сюда, и иди своей дорогой. Нам не нужны здесь машины.",
-    "path": "/converse/avikan/trink/6",
-    "op": "replace"
-  },
-  {
-    "value": "Остальным членам команды может не понравиться ваше присутствие здесь. Я бы порекомендовал вам не оставаться здесь слишком долго.",
-    "path": "/converse/avikan/trink/7",
-    "op": "replace"
-  },
-  {
-    "value": "Ты свободный Дроден? Это замечательно.",
-    "path": "/converse/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если Совет Старейшин счел целесообразным предоставить вам гражданский статус, добро пожаловать сюда.",
-    "path": "/converse/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе здесь не рады, Дроден.",
-    "path": "/converse/avikan/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся к мытью пола, Дроден.",
-    "path": "/converse/avikan/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Гражданский Дроден? Сейчас это редкое зрелище.",
-    "path": "/converse/avikan/droden/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я с трудом могу поверить, что ты капитан.",
-    "path": "/converse/avikan/droden/5",
-    "op": "replace"
-  },
-  {
-    "value": "Не обращайте внимания на других. Добро пожаловать сюда.",
-    "path": "/converse/avikan/droden/6",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, однажды за тобой придет Телл.",
-    "path": "/converse/avikan/droden/7",
-    "op": "replace"
-  },
-  {
-    "value": "Не беспокойте агрегат. Отделение работает.",
-    "path": "/converse/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. До свидания.",
-    "path": "/converse/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Отключение протоколов разговора.",
-    "path": "/converse/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот аппарат занят.",
-    "path": "/converse/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Объект недоступен. До свидания.",
-    "path": "/converse/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Отключение.",
-    "path": "/converse/droden/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Возобновление выполнения обязанностей.",
-    "path": "/converse/droden/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен незнакомый объект. Докладываю капитану корабля.",
-    "path": "/converse/droden/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Этот агрегат готов к работе.",
-    "path": "/converse/droden/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен капитан Кочевника. Приветствие.",
-    "path": "/converse/droden/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Ошибка. Ошибка.",
-    "path": "/converse/droden/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен статус капитана. Добро пожаловать.",
-    "path": "/converse/droden/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд ждет вашей команды.",
-    "path": "/converse/droden/avikan/4",
-    "op": "replace"
-  },
-  {
-    "value": "Объект недоступен. Возобновление выполнения обязанностей.",
-    "path": "/converse/droden/avikan/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужны услуги этого подразделения?",
-    "path": "/converse/droden/avikan/6",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство требует перезагрузки.",
-    "path": "/converse/droden/avikan/7",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать на наш корабль.",
-    "path": "/converse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело тебя на наш корабль, путешественник?",
-    "path": "/converse/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Наш корабль принимает мало посетителей. Пожалуйста, подождите немного.",
-    "path": "/converse/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Космические корабли весьма неэффективны, вам не кажется?",
-    "path": "/converse/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Меня зовут <собственное имя>. Приятно встретиться с вами здесь, в пустоте космоса.",
-    "path": "/converse/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать, космонавт. Мы заметили приближение вашего корабля и хотели бы узнать, посетите ли вы его.",
-    "path": "/converse/trink/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело вас в это место в космосе?",
-    "path": "/converse/trink/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Вы здесь, чтобы путешествовать автостопом?",
-    "path": "/converse/trink/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, ты здесь не для того, чтобы создавать проблемы.",
-    "path": "/converse/trink/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан на нашем корабле? Простите меня, но я немного волнуюсь.",
-    "path": "/converse/trink/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать сюда, пока вы ведете себя хорошо.",
-    "path": "/converse/trink/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Товарищ-космонавт. Добро пожаловать.",
-    "path": "/converse/trink/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, звание капитана весьма почетно в вашей культуре.",
-    "path": "/converse/trink/avikan/4",
-    "op": "replace"
-  },
-  {
-    "value": "Пока ты здесь, держи свое оружие при себе.",
-    "path": "/converse/trink/avikan/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вы же не хотите саботировать наш корабль, не так ли?",
-    "path": "/converse/trink/avikan/6",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать, звездопутец.",
-    "path": "/converse/trink/avikan/7",
-    "op": "replace"
-  },
-  {
-    "value": "Всем привет! Добро пожаловать на наш скромный корабль.",
-    "path": "/converse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело вас на наш маленький корабль?",
-    "path": "/converse/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Давненько я не видел здесь нового лица. Кто ты?",
-    "path": "/converse/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "В космосе становится одиноко. Приятно наконец встретить здесь кого-то нового.",
-    "path": "/converse/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я <имя>, приятно познакомиться!",
-    "path": "/converse/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, мой попутчик по звёздам.",
-    "path": "/converse/aegi/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь вам всегда рады, кем бы вы ни были.",
-    "path": "/converse/aegi/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "У вас на этом корабле большая команда?",
-    "path": "/converse/aegi/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Приятно видеть еще одну Aegi! Вы новый член экипажа или просто в гостях?",
-    "path": "/converse/aegi/aegi/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы здесь по официальному делу Союза?",
-    "path": "/converse/aegi/aegi/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, должно быть, бывали в колониях Союза. Мы пополняем их запасы, но сам я ни разу не посещал их.",
-    "path": "/converse/aegi/aegi/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал о тебе! Вы посол <имя_сущности>, верно?",
-    "path": "/converse/aegi/aegi/3",
-    "op": "replace"
-  },
-  {
-    "value": "Рад встрече с вами! Я <имя>.",
-    "path": "/converse/aegi/aegi/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вам когда-нибудь становилось одиноко в космосе? Я знаю, что.",
-    "path": "/converse/aegi/aegi/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужно посетить посольство Креона? У нас на борту есть телепорт, который доставит вас туда.",
-    "path": "/converse/aegi/aegi/6",
-    "op": "replace"
-  },
-  {
-    "value": "Вы здесь на осмотре?",
-    "path": "/converse/aegi/aegi/7",
-    "op": "replace"
-  },
-  {
-    "value": "Что ты делаешь на корабле-Аккимари?",
-    "path": "/converse/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Почему ты здесь?",
-    "path": "/converse/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Как вы сюда попали? Ты летаешь на мехе?",
-    "path": "/converse/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, приветствую тебя. Иногда в космосе одиноко...",
-    "path": "/converse/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки <собственное имя>. Какое имя-Дакка?",
-    "path": "/converse/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, мой попутчик по звёздам.",
-    "path": "/converse/akkimari/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "А пока добро пожаловать на корабль-Аккимари.",
-    "path": "/converse/akkimari/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не доставляете неприятностей на корабле-Аккимари, да?",
-    "path": "/converse/akkimari/default/7",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/converse/avikan/default/0","value":
+"Что ты делаешь на нашем корабле? Надеюсь, ты придешь с миром."
+},{"op":"replace","path":"/converse/avikan/default/1","value":
+"Что привело тебя на наш корабль, незнакомец?"
+},{"op":"replace","path":"/converse/avikan/default/2","value":
+"Мы, Авикан, уже много лет живем на борту космических кораблей. Это не слишком отличается от кочевой жизни в пустыне."
+},{"op":"replace","path":"/converse/avikan/default/3","value":
+"Держись подальше от систем корабля, ладно? Мы не хотим никаких осложнений."
+},{"op":"replace","path":"/converse/avikan/default/4","value":
+"Вы только что запустили мех на наш корабль? Где я могу его получить?"
+},{"op":"replace","path":"/converse/avikan/default/5","value":
+"Как... Что ты делаешь на нашем корабле?"
+},{"op":"replace","path":"/converse/avikan/default/6","value":
+"Ты можешь остаться ненадолго, но держи руки при себе."
+},{"op":"replace","path":"/converse/avikan/default/7","value":
+"Гость на нашем корабле? Полагаю, ты можешь остаться ненадолго."
+},{"op":"replace","path":"/converse/avikan/avikan/0","value":
+"Для меня большая честь видеть вас на нашем корабле, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/1","value":
+"Добро пожаловать на наш корабль, капитан. Вы пришли на осмотр?"
+},{"op":"replace","path":"/converse/avikan/avikan/2","value":
+"Надеюсь, Теллы не доставили тебе слишком много хлопот."
+},{"op":"replace","path":"/converse/avikan/avikan/3","value":
+"Добро пожаловать, капитан. Что вы думаете о нашем скромном корабле?"
+},{"op":"replace","path":"/converse/avikan/avikan/4","value":
+"Капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/5","value":
+"Мы видели приближающийся ваш корабль вдалеке. Она красавица."
+},{"op":"replace","path":"/converse/avikan/avikan/6","value":
+"Могу я вам помочь, капитан?"
+},{"op":"replace","path":"/converse/avikan/avikan/7","value":
+"Подождите, капитан! Прошло много времени с тех пор, как у нас был последний посетитель!"
+},{"op":"replace","path":"/converse/avikan/glitch/0","value":
+"Что ты делаешь на нашем корабле, машина?"
+},{"op":"replace","path":"/converse/avikan/glitch/1","value":
+"Откуда взялась эта машина? Может ли кто-нибудь выбросить его из шлюза?"
+},{"op":"replace","path":"/converse/avikan/glitch/2","value":
+"Ничего не трогай, машина."
+},{"op":"replace","path":"/converse/avikan/glitch/3","value":
+"Устроим неприятности нашему кораблю, и я сам тебя разберу."
+},{"op":"replace","path":"/converse/avikan/glitch/4","value":
+"Не придумывай здесь никаких странных идей, машина."
+},{"op":"replace","path":"/converse/avikan/glitch/5","value":
+"Не оставайся надолго."
+},{"op":"replace","path":"/converse/avikan/glitch/6","value":
+"Делай то, ради чего пришел сюда, и иди своей дорогой. Нам не нужны здесь машины."
+},{"op":"replace","path":"/converse/avikan/glitch/7","value":
+"Остальным членам команды может не понравиться ваше присутствие здесь. Я бы порекомендовал вам не оставаться здесь слишком долго."
+},{"op":"replace","path":"/converse/avikan/trink/0","value":
+"Что ты делаешь на нашем корабле, машина?"
+},{"op":"replace","path":"/converse/avikan/trink/1","value":
+"Откуда взялась эта машина? Может ли кто-нибудь выбросить его из шлюза?"
+},{"op":"replace","path":"/converse/avikan/trink/2","value":
+"Ничего не трогай, машина."
+},{"op":"replace","path":"/converse/avikan/trink/3","value":
+"Устроим неприятности нашему кораблю, и я сам тебя разберу."
+},{"op":"replace","path":"/converse/avikan/trink/4","value":
+"Не придумывай здесь никаких странных идей, машина."
+},{"op":"replace","path":"/converse/avikan/trink/5","value":
+"Не оставайся надолго."
+},{"op":"replace","path":"/converse/avikan/trink/6","value":
+"Делай то, ради чего пришел сюда, и иди своей дорогой. Нам не нужны здесь машины."
+},{"op":"replace","path":"/converse/avikan/trink/7","value":
+"Остальным членам команды может не понравиться ваше присутствие здесь. Я бы порекомендовал вам не оставаться здесь слишком долго."
+},{"op":"replace","path":"/converse/avikan/droden/0","value":
+"Ты свободный Дроден? Это замечательно."
+},{"op":"replace","path":"/converse/avikan/droden/1","value":
+"Если Совет Старейшин счел целесообразным предоставить вам гражданский статус, добро пожаловать сюда."
+},{"op":"replace","path":"/converse/avikan/droden/2","value":
+"Тебе здесь не рады, Дроден."
+},{"op":"replace","path":"/converse/avikan/droden/3","value":
+"Возвращайся к мытью пола, Дроден."
+},{"op":"replace","path":"/converse/avikan/droden/4","value":
+"Гражданский Дроден? Сейчас это редкое зрелище."
+},{"op":"replace","path":"/converse/avikan/droden/5","value":
+"Я с трудом могу поверить, что ты капитан."
+},{"op":"replace","path":"/converse/avikan/droden/6","value":
+"Не обращайте внимания на других. Добро пожаловать сюда."
+},{"op":"replace","path":"/converse/avikan/droden/7","value":
+"Надеюсь, однажды за тобой придет Телл."
+},{"op":"replace","path":"/converse/droden/default/0","value":
+"Не беспокойте агрегат. Отделение работает."
+},{"op":"replace","path":"/converse/droden/default/1","value":
+"Ошибка. До свидания."
+},{"op":"replace","path":"/converse/droden/default/2","value":
+"Отключение протоколов разговора."
+},{"op":"replace","path":"/converse/droden/default/3","value":
+"Этот аппарат занят."
+},{"op":"replace","path":"/converse/droden/default/4","value":
+"Объект недоступен. До свидания."
+},{"op":"replace","path":"/converse/droden/default/5","value":
+"Отключение."
+},{"op":"replace","path":"/converse/droden/default/6","value":
+"Возобновление выполнения обязанностей."
+},{"op":"replace","path":"/converse/droden/default/7","value":
+"Обнаружен незнакомый объект. Докладываю капитану корабля."
+},{"op":"replace","path":"/converse/droden/avikan/0","value":
+"Этот агрегат готов к работе."
+},{"op":"replace","path":"/converse/droden/avikan/1","value":
+"Обнаружен капитан Кочевника. Приветствие."
+},{"op":"replace","path":"/converse/droden/avikan/2","value":
+"Ошибка. Ошибка. Ошибка."
+},{"op":"replace","path":"/converse/droden/avikan/3","value":
+"Обнаружен статус капитана. Добро пожаловать."
+},{"op":"replace","path":"/converse/droden/avikan/4","value":
+"Этот отряд ждет вашей команды."
+},{"op":"replace","path":"/converse/droden/avikan/5","value":
+"Объект недоступен. Возобновление выполнения обязанностей."
+},{"op":"replace","path":"/converse/droden/avikan/6","value":
+"Вам нужны услуги этого подразделения?"
+},{"op":"replace","path":"/converse/droden/avikan/7","value":
+"Устройство требует перезагрузки."
+},{"op":"replace","path":"/converse/trink/default/0","value":
+"Добро пожаловать на наш корабль."
+},{"op":"replace","path":"/converse/trink/default/1","value":
+"Что привело тебя на наш корабль, путешественник?"
+},{"op":"replace","path":"/converse/trink/default/2","value":
+"Наш корабль принимает мало посетителей. Пожалуйста, подождите немного."
+},{"op":"replace","path":"/converse/trink/default/3","value":
+"Космические корабли весьма неэффективны, вам не кажется?"
+},{"op":"replace","path":"/converse/trink/default/4","value":
+"Меня зовут <selfname>. Приятно встретиться с вами здесь, в пустоте космоса."
+},{"op":"replace","path":"/converse/trink/default/5","value":
+"Добро пожаловать, космонавт. Мы заметили приближение вашего корабля и хотели бы узнать, посетите ли вы его."
+},{"op":"replace","path":"/converse/trink/default/6","value":
+"Что привело вас в это место в космосе?"
+},{"op":"replace","path":"/converse/trink/default/7","value":
+"Вы здесь, чтобы путешествовать автостопом?"
+},{"op":"replace","path":"/converse/trink/avikan/0","value":
+"Надеюсь, ты здесь не для того, чтобы создавать проблемы."
+},{"op":"replace","path":"/converse/trink/avikan/1","value":
+"Авикан на нашем корабле? Простите меня, но я немного волнуюсь."
+},{"op":"replace","path":"/converse/trink/avikan/2","value":
+"Добро пожаловать сюда, пока вы ведете себя хорошо."
+},{"op":"replace","path":"/converse/trink/avikan/3","value":
+"Товарищ-космонавт. Добро пожаловать."
+},{"op":"replace","path":"/converse/trink/avikan/4","value":
+"Я слышал, звание капитана весьма почетно в вашей культуре."
+},{"op":"replace","path":"/converse/trink/avikan/5","value":
+"Пока ты здесь, держи свое оружие при себе."
+},{"op":"replace","path":"/converse/trink/avikan/6","value":
+"Вы же не хотите саботировать наш корабль, не так ли?"
+},{"op":"replace","path":"/converse/trink/avikan/7","value":
+"Добро пожаловать, звездопутец."
+},{"op":"replace","path":"/converse/aegi/default/0","value":
+"Всем привет! Добро пожаловать на наш скромный корабль."
+},{"op":"replace","path":"/converse/aegi/default/1","value":
+"Что привело вас на наш маленький корабль?"
+},{"op":"replace","path":"/converse/aegi/default/2","value":
+"Давненько я не видел здесь нового лица. Кто ты?"
+},{"op":"replace","path":"/converse/aegi/default/3","value":
+"В космосе становится одиноко. Приятно наконец встретить здесь кого-то нового."
+},{"op":"replace","path":"/converse/aegi/default/4","value":
+"Я <имя>, приятно познакомиться!"
+},{"op":"replace","path":"/converse/aegi/default/5","value":
+"Приветствую тебя, мой попутчик по звёздам."
+},{"op":"replace","path":"/converse/aegi/default/6","value":
+"Здесь вам всегда рады, кем бы вы ни были."
+},{"op":"replace","path":"/converse/aegi/default/7","value":
+"У вас на этом корабле большая команда?"
+},{"op":"replace","path":"/converse/aegi/aegi/0","value":
+"Приятно видеть еще одну аеги! Вы новый член экипажа или просто в гостях?"
+},{"op":"replace","path":"/converse/aegi/aegi/1","value":
+"Вы здесь по официальному делу Союза?"
+},{"op":"replace","path":"/converse/aegi/aegi/2","value":
+"Вы, должно быть, бывали в колониях Союза. Мы пополняем их запасы, но сам я ни разу не посещал их."
+},{"op":"replace","path":"/converse/aegi/aegi/3","value":
+"Я слышал о тебе! Вы посол <имя_сущности>, верно?"
+},{"op":"replace","path":"/converse/aegi/aegi/4","value":
+"Рад встрече с вами! Я <имя>."
+},{"op":"replace","path":"/converse/aegi/aegi/5","value":
+"Вам когда-нибудь становилось одиноко в космосе? Я знаю, что."
+},{"op":"replace","path":"/converse/aegi/aegi/6","value":
+"Вам нужно посетить посольство Креона? У нас на борту есть телепорт, который доставит вас туда."
+},{"op":"replace","path":"/converse/aegi/aegi/7","value":
+"Вы здесь на осмотре?"
+},{"op":"replace","path":"/converse/akkimari/default/0","value":
+"Что ты делаешь на корабле-Аккимари?"
+},{"op":"replace","path":"/converse/akkimari/default/1","value":
+"Почему ты здесь?"
+},{"op":"replace","path":"/converse/akkimari/default/2","value":
+"Как вы сюда попали? Ты летаешь на мехе?"
+},{"op":"replace","path":"/converse/akkimari/default/3","value":
+"Акки, приветствую тебя. Иногда в космосе одиноко..."
+},{"op":"replace","path":"/converse/akkimari/default/4","value":
+"Акки <selfname>. Какое имя-Дакка?"
+},{"op":"replace","path":"/converse/akkimari/default/5","value":
+"Приветствую тебя, мой попутчик по звёздам."
+},{"op":"replace","path":"/converse/akkimari/default/6","value":
+"А пока добро пожаловать на корабль-Аккимари."
+},{"op":"replace","path":"/converse/akkimari/default/7","value":
+"Вы не доставляете неприятностей на корабле-Аккимари, да?"
+}]

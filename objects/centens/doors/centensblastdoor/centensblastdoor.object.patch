@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Взрывная дверь Сентенсиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя металлическая взрывозащитная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Старая взрывоопасная дверь. На удивление, до сих пор цел.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как эта древняя дверь сохранилась в таком прекрасном состоянии?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старые металлические двери. Это тсссс...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Древняя дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя взрывоопасная дверь. Что стоит за этим?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя противовзрывная дверь, все еще в первозданном виде.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывоопасная дверь Сентенсиана. Едва поврежденный, но ему тысячи лет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь, построенная Древними.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь Сентенсиана, вероятно, защищает что-то ценное.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Взрывная дверь. Происхождение: Центенсийское.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-древняя, устойчивая к взрывам-тяжелая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Сентенсиан"
+},{"op":"replace","path":"/description","value":
+"Древняя металлическая взрывозащитная дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Старая взрывоопасная дверь. На удивление, до сих пор цел."
+},{"op":"replace","path":"/avianDescription","value":
+"Как эта древняя дверь сохранилась в таком прекрасном состоянии?"
+},{"op":"replace","path":"/floranDescription","value":
+"Старые металлические двери. Это тсссс..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Древняя дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Древняя взрывоопасная дверь. Что стоит за этим?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Древняя противовзрывная дверь, все еще в первозданном виде."
+},{"op":"replace","path":"/aegiDescription","value":
+"Взрывоопасная дверь Сентенсиана. Едва поврежденный, но ему тысячи лет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Взрывная дверь, построенная Древними."
+},{"op":"replace","path":"/trinkDescription","value":
+"Взрывная дверь Сентенсиана, вероятно, защищает что-то ценное."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Взрывная дверь. Происхождение: Центенсийское."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-древняя, устойчивая к взрывам-тяжелая."
+}]

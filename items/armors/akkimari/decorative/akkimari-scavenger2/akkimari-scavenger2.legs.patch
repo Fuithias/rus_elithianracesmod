@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Поножи из металлолома, которые носят мусорщики аккимари",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поножи мусорщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Поножи из металлолома, которые носят мусорщики аккимари"
+},{"op":"replace","path":"/shortdescription","value":
+"Поножи мусорщика"
+}]

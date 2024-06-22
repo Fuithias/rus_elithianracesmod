@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Гигантский Пескоплев",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Элитный Драл",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Судья Аккимари",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  },
-  {
-    "value": "Це'Теннан Окулус",
-    "path": "/0/1/-/1/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/0/1/-/1/name","value":
+"Гигантский Пескоплев"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Элитный Драл"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Судья Аккимари"
+},{"op":"replace","path":"/0/1/-/1/name","value":
+"Це'Теннан Окулус"
+}]

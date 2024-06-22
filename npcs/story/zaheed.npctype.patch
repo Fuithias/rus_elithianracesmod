@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Нет времени на пустую болтовню.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Нет времени на пустую болтовню."
+}]

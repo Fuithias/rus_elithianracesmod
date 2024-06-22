@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Пистолет-пулемет, произведенный где-то на Рубеже.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Дилер РМ4",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет-пулемет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Пистолет-пулемет, произведенный где-то на Рубеже.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Дилер РМ4"
+},{"op":"replace","path":"/category","value":
+"Пистолет-пулемет"
+}]

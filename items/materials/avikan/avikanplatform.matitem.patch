@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая платформа цвета песка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая платформа цвета песка."
+},{"op":"replace","path":"/shortdescription","value":
+"Платформа Авикан"
+}]

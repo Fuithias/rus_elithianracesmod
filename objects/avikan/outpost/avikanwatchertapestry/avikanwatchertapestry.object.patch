@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гобелен Наблюдателя",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенные гобелены оформлены в стиле Дозорных.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Черный гобелен, украшенный глазом. Меня это пугает.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня немного пугает этот гобелен.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не боится больших глаз.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Непросто. Я чувствую, что за мной наблюдают.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это должно быть всевидящее око?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот гобелен заставляет меня чувствовать себя некомфортно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой белый глаз на черном холсте. Противный.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот гобелен принадлежит секретной службе Авикана «Наблюдатели».",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен, украшенный Глазом Наблюдателя.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен, оформленный в стиле Авиканских наблюдателей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Украшение стен наблюдателей.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшение, глаз большой.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Наблюдателя"
+},{"op":"replace","path":"/description","value":
+"Настенные гобелены оформлены в стиле Дозорных."
+},{"op":"replace","path":"/apexDescription","value":
+"Черный гобелен, украшенный глазом. Меня это пугает."
+},{"op":"replace","path":"/avianDescription","value":
+"Меня немного пугает этот гобелен."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не боится больших глаз."
+},{"op":"replace","path":"/glitchDescription","value":
+"Непросто. Я чувствую, что за мной наблюдают."
+},{"op":"replace","path":"/humanDescription","value":
+"Это должно быть всевидящее око?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот гобелен заставляет меня чувствовать себя некомфортно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Большой белый глаз на черном холсте. Противный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот гобелен принадлежит секретной службе Авикана Наблюдатели."
+},{"op":"replace","path":"/avikanDescription","value":
+"Гобелен, украшенный Глазом Смотрителя."
+},{"op":"replace","path":"/trinkDescription","value":
+"Гобелен, оформленный в стиле Авиканских Смотрителей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Украшение стен Смотрителей."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Украшение, глаз большой."
+}]

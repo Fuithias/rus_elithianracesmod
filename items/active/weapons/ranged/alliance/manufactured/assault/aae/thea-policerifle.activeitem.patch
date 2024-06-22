@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Штурмовая винтовка, иногда выдаваемая сотрудникам службы П-АСБ.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Подавитель П-АСБ И-17",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Штурмовая винтовка, иногда выдаваемая сотрудникам службы П-АСБ.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Подавитель П-АСБ И-17"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+}]

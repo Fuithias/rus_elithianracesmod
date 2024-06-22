@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Этот образ определенно в этом сезоне!",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошо выглядеть!",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Этот наряд выделит вашу команду. Отличный выбор, капитан!",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Невероятное чувство моды, капитан!",
-    "path": "/scriptConfig/dialog/converse/default/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите ко мне, если хотите обновить униформу своего экипажа!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мои навыки портняжного дела позволяют мне обновить униформу вашей команды. Просто поговорите со мной, когда вам понадобятся мои услуги!",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Этот образ определенно в этом сезоне!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Хорошо выглядеть!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Этот наряд выделит вашу команду. Отличный выбор, капитан!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/3","value":
+"Невероятное чувство моды, капитан!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/0","value":
+"Приходите ко мне, если хотите обновить униформу своего экипажа!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/default/default/1","value":
+"Мои навыки портняжного дела позволяют мне обновить униформу вашей команды. Просто поговорите со мной, когда вам понадобятся мои услуги!"
+}]

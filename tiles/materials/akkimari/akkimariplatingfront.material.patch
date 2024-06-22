@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Пластина Акрис (Фронт)",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нерегулярные металлические пластины, сделанные из разнообразного лома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Эти пластины сделаны из лома.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пластины из лома.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстые металлические пластины, выглядят очень солидно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обшивочные пластины из лома. Точный состав неизвестен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пластина-металл-большая. Прочная, да?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Пластина Акрис (Фронт)"
+},{"op":"replace","path":"/description","value":
+"Нерегулярные металлические пластины, сделанные из разнообразного лома."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Эти пластины сделаны из лома."
+},{"op":"replace","path":"/floranDescription","value":
+"Пластины из лома."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстые металлические пластины, выглядят очень солидно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обшивочные пластины из лома. Точный состав неизвестен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пластина-металл-большая. Прочная, да?"
+}]

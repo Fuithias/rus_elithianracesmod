@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Крейт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Громоздкий металлический контейнер от Akris.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странный тип ящика.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Громоздкий ящик. Почему он такой закругленный?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный ящик содержит странную вкуснятину.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Озадаченный. В чем причина округлой формы этого ящика?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный тип ящика.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Громоздкий, несколько округлый ящик.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик, что-то в нем странное.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на ящик, построенный Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик с пришельцами странного дизайна.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не самая эффективная конструкция ящика.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик-громоздкий, для хранения вещей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Крейт"
+},{"op":"replace","path":"/description","value":
+"Громоздкий металлический контейнер от Акрис."
+},{"op":"replace","path":"/apexDescription","value":
+"Странный в. ящика."
+},{"op":"replace","path":"/avianDescription","value":
+"Громоздкий ящик. Почему он такой закругленный?"
+},{"op":"replace","path":"/floranDescription","value":
+"Странный ящик содержит странную вкуснятину."
+},{"op":"replace","path":"/glitchDescription","value":
+"Озадаченный. В чем причина округлой формы этого ящика?"
+},{"op":"replace","path":"/humanDescription","value":
+"Странный в. ящика."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Громоздкий, несколько округлый ящик."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ящик, что-то в нем странное."
+},{"op":"replace","path":"/aegiDescription","value":
+"Похоже на ящик, построенный Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ящик с пришельцами странного дизайна."
+},{"op":"replace","path":"/trinkDescription","value":
+"Не самая эффективная конструкция ящика."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ящик-громоздкий, для хранения вещей."
+}]

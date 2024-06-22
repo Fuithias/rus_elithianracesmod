@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Радиатор небольшого, но мощного оружия, разработанного AEG-Corps.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Радиатор Excelsior^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Радиатор небольшого, но мощного оружия, разработанного AEG-Corps."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Радиатор Excelsior^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

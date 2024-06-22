@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Почти как хлеб, но вкус какой-то странный.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дюнебун",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Почти как хлеб, но вкус какой-то странный."
+},{"op":"replace","path":"/shortdescription","value":
+"Дюнебун"
+}]

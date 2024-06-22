@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Мощный дробовик, выдаваемый авиканским воинам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Мощный выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощный дробовик, выдаваемый авиканским воинам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Дробовик Авангарда"
+},{"op":"replace","path":"/category","value":
+"Дробовик"
+},{"op":"replace","path":"/altAbility/name","value":
+"Мощный выстрел"
+}]

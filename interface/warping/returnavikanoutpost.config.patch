@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Назад в Убедище Звездохода",
-    "path": "/destinations/name",
-    "op": "replace"
-  },
-  {
-    "value": "Флот Номада",
-    "path": "/destinations/planetName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/destinations/name","value":
+"Назад в Убедище Звездохода"
+},{"op":"replace","path":"/destinations/planetName","value":
+"Флот Номада"
+}]

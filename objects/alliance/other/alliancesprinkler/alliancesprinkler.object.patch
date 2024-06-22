@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Разбрызгиватель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированное решение для полива почвы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Разбрызгиватель. Довольно умный способ полива сельскохозяйственных культур.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это машина, которая автоматически поливает посевы.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Воды посевы..",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не впечатлен. Это автоматизированное решение для полива почвы. Мне нравится поливать растения вручную.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это разбрызгиватель для полива сельскохозяйственных культур! Пробежка по разбрызгивателям вызывает у меня ностальгию.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Его используют для полива сельскохозяйственных культур. Просто, но довольно умно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поливать посевы стало проще.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный потолочный спринклер.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая трата воды...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не самый эффективный разбрызгиватель.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная ирригационная система.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разбрызгиватель-инопланетянин. Разбрызгивает воду!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Разбрызгиватель Альянса"
+},{"op":"replace","path":"/description","value":
+"Автоматизированное решение для полива почвы."
+},{"op":"replace","path":"/apexDescription","value":
+"Разбрызгиватель. Довольно умный способ полива сельскохозяйственных культур."
+},{"op":"replace","path":"/avianDescription","value":
+"Это машина, которая автоматически поливает посевы."
+},{"op":"replace","path":"/floranDescription","value":
+"Воды посевы.."
+},{"op":"replace","path":"/glitchDescription","value":
+"Не впечатлен. Это автоматизированное решение для полива почвы. Мне нравится поливать растения вручную."
+},{"op":"replace","path":"/humanDescription","value":
+"Это разбрызгиватель для полива сельскохозяйственных культур! Пробежка по разбрызгивателям вызывает у меня ностальгию."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Его используют для полива сельскохозяйственных культур. Просто, но довольно умно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Поливать посевы стало проще."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стандартный потолочный спринклер."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какая трата воды..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Не самый эффективный разбрызгиватель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная ирригационная система."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Разбрызгиватель-инопланетянин. Разбрызгивает воду!"
+}]

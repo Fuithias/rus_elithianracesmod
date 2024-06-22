@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Тактический визор, который носят коварные рейдеры",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Визор мародера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Тактический визор, который носят коварные рейдеры"
+},{"op":"replace","path":"/shortdescription","value":
+"Визор мародера"
+}]

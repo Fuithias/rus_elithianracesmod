@@ -1,12 +1,5 @@
-[
-  {
-    "value": "В качестве внутренней стены используется металлическая обшивка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Внутренняя Стена",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"В качестве внутренней стены используется металлическая обшивка."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Внутренняя Стена"
+}]

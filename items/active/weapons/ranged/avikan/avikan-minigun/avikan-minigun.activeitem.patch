@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Авиканское оружие с высоким уроном и высокой отдачей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Миниган Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Миниган",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Авиканское оружие с высоким уроном и высокой отдачей."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Миниган Авангарда"
+},{"op":"replace","path":"/category","value":
+"Миниган"
+}]

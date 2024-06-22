@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Общее. ^white;Генератор очень высокой интенсивности для защиты головы, обеспечивает высокую энергию.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Энергетический щит ВХ-и",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Общее. ^white;Генератор очень высокой интенсивности для защиты головы, обеспечивает высокую энергию."
+},{"op":"replace","path":"/shortdescription","value":
+"Энергетический щит ВХ-и"
+}]

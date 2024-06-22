@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авиканский ящик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сравнительно легкий металлический ящик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический ящик, удивительно легкий.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический ящик. Что оно несет?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красссс полон вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Этот сундук легче, чем ожидалось.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что я найду внутри?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкий металлический ящик. Идеально подходит для транспортировки и хранения.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный грузовой ящик.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный ящик, который поместится в любой грузовой отсек Авикан.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой ящик Авикан. Его конструкция менее эффективна, чем у тринкианских ящиков.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки взломайте, заберите содержимое.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский ящик"
+},{"op":"replace","path":"/description","value":
+"Сравнительно легкий металлический ящик."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический ящик, удивительно легкий."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический ящик. Что оно несет?"
+},{"op":"replace","path":"/floranDescription","value":
+"Красссс полон вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Этот сундук легче, чем ожидалось."
+},{"op":"replace","path":"/humanDescription","value":
+"Что я найду внутри?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Легкий металлический ящик. Идеально подходит для транспортировки и хранения."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стандартный грузовой ящик."
+},{"op":"replace","path":"/avikanDescription","value":
+"Стандартный ящик, который поместится в любой грузовой отсек Авикан."
+},{"op":"replace","path":"/trinkDescription","value":
+"Грузовой ящик Авикан. Его конструкция менее эффективна, чем у тринкианских ящиков."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки взломайте, заберите содержимое."
+}]

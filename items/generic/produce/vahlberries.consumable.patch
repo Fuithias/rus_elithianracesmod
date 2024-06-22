@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Сочные, вкусные ягоды, полные витаминов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Валберри",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Сочные, вкусные ягоды, полные витаминов."
+},{"op":"replace","path":"/shortdescription","value":
+"Валберри"
+}]

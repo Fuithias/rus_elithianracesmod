@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Посадочный маяк Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, используемый для указания приближающихся кораблей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде руководства по посадке.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, используемый для безопасного спуска кораблей на землю.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет для направления корабля.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С облегчением. Этот свет поможет безопасно спустить корабли на землю.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это посадочный маяк.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет, направляющий корабли в безопасное место.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий мигающий свет для управления кораблями.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот маяк будет безопасно направлять приближающиеся корабли на землю.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, что это посадочный маяк.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой фонарь для навигации кораблей в ночное время. Вполне эффективное решение.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен мигающий свет. Ожидаемая цель - направлять прибывающие корабли в ночное время.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Световые путеводители по безопасности.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Посадочный маяк Альянса"
+},{"op":"replace","path":"/description","value":
+"Свет, используемый для указания приближающихся кораблей."
+},{"op":"replace","path":"/apexDescription","value":
+"Что-то вроде руководства по посадке."
+},{"op":"replace","path":"/avianDescription","value":
+"Свет, используемый для безопасного спуска кораблей на землю."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет для направления корабля."
+},{"op":"replace","path":"/glitchDescription","value":
+"С облегчением. Этот свет поможет безопасно спустить корабли на землю."
+},{"op":"replace","path":"/humanDescription","value":
+"Это посадочный маяк."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Свет, направляющий корабли в безопасное место."
+},{"op":"replace","path":"/novakidDescription","value":
+"Яркий мигающий свет для управления кораблями."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот маяк будет безопасно направлять приближающиеся корабли на землю."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я думаю, что это посадочный маяк."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простой фонарь для навигации кораблей в ночное время. Вполне эффективное решение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен мигающий свет. Ожидаемая цель - направлять прибывающие корабли в ночное время."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Световые путеводители по безопасности."
+}]

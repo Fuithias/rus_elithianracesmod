@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Водный ларек Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, наполненный емкостями с водой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пресная вода. Странное место для продажи.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свежая и чистая вода – сколько стоит?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит Флорана в воде.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожность. Эта вода может быть вредной для робототехники.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пресная вода? Мне бы выпить! Или два!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мало кто, кроме жителей пустыни, будет продавать воду на рынке.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продается кристально чистая вода.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода — редкий ресурс на Кадаване, но он абсолютно необходим для нашего выживания.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кристально чистая вода. Авиканцы ценят это больше, чем кто-либо другой.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен запас воды. Показания указывают на низкий уровень загрязнения.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода. Акки выпей здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Водный ларек Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок, наполненный емкостями с водой."
+},{"op":"replace","path":"/apexDescription","value":
+"Пресная вода. Странное место для продажи."
+},{"op":"replace","path":"/avianDescription","value":
+"Свежая и чистая вода – сколько стоит?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит Флорана в воде."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожность. Эта вода может быть вредной для робототехники."
+},{"op":"replace","path":"/humanDescription","value":
+"Пресная вода? Мне бы выпить! Или два!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мало кто, кроме жителей пустыни, будет продавать воду на рынке."
+},{"op":"replace","path":"/aegiDescription","value":
+"Здесь продается кристально чистая вода."
+},{"op":"replace","path":"/avikanDescription","value":
+"Вода — редкий ресурс на Кадаване, но он абсолютно необходим для нашего выживания."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кристально чистая вода. Авиканцы ценят это больше, чем кто-либо другой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен запас воды. Показания указывают на низкий уровень загрязнения."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вода. Акки выпей здесь."
+}]

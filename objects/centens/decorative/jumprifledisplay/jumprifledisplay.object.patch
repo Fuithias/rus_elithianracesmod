@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Показ прыжковых винтовок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлена ​​центенсийская прыгунная винтовка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Древнее оружие, похоже, больше не стреляет.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то древняя винтовка. Больше не горит.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старый пистолет больше не стреляет...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это оружие древнее и больше не работает.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древнее оружие! Вроде больше не стреляет...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя винтовка. У него сломан ударно-спусковой механизм.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта древняя прыжковая винтовка больше не стреляет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прыжковая винтовка, созданная Древними. Кажется, он больше не горит.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя прыжковая винтовка. В отличном состоянии, но больше не горит.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена технология Centensian Jumpgate. Статус: неактивен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие-солнечное, огненно-плазменное. Акки растопит врагов!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Показ прыжковых винтовок"
+},{"op":"replace","path":"/description","value":
+"На выставке представлена ​​центенсийская прыгунная винтовка."
+},{"op":"replace","path":"/apexDescription","value":
+"Древнее оружие, похоже, больше не стреляет."
+},{"op":"replace","path":"/avianDescription","value":
+"Какая-то древняя винтовка. Больше не горит."
+},{"op":"replace","path":"/floranDescription","value":
+"Старый пистолет больше не стреляет..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это оружие древнее и больше не работает."
+},{"op":"replace","path":"/humanDescription","value":
+"Древнее оружие! Вроде больше не стреляет..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Древняя винтовка. У него сломан ударно-спусковой механизм."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта древняя прыжковая винтовка больше не стреляет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Прыжковая винтовка, созданная Древними. Кажется, он больше не горит."
+},{"op":"replace","path":"/trinkDescription","value":
+"Древняя прыжковая винтовка. В отличном состоянии, но больше не горит."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена технология Centensian Jumpgate. Статус: неактивен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Оружие-солнечное, огненно-плазменное. Акки растопит врагов!"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Твердая, но гибкая чешуя Фарита.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фарит Весы",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Твердая, но гибкая чешуя Фарита."
+},{"op":"replace","path":"/shortdescription","value":
+"Фарит Весы"
+}]

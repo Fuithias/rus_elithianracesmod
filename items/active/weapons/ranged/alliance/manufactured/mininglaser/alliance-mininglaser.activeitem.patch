@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Мощный лазерный бур. Прожигает и камень, и врагов!^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Лазер-бур ПАМ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазер-бур",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Маломощный лазер",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощный лазерный бур. Прожигает и камень, и врагов!^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Лазер-бур ПАИ"
+},{"op":"replace","path":"/category","value":
+"Лазер-бур"
+},{"op":"replace","path":"/altAbility/name","value":
+"Маломощный лазер"
+}]

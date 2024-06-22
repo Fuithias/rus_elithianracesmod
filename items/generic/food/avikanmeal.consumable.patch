@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Традиционное блюдо Кадавана, любимое блюдо воинов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кадаванская еда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Традиционное блюдо Кадавана, любимое блюдо воинов."
+},{"op":"replace","path":"/shortdescription","value":
+"Кадаванская еда"
+}]

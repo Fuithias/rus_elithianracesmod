@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Толстый люк Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк, закрывающий вертикальные отсеки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдательный. Это металлический люк.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк, похожий на современный люк.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк инопланетян.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк прочный, его трудно сломать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Толстый люк Альянса"
+},{"op":"replace","path":"/description","value":
+"Металлический люк, закрывающий вертикальные отсеки."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлический люк."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдательный. Это металлический люк."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлический люк, похожий на современный люк."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк инопланетян."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Люк прочный, его трудно сломать."
+}]

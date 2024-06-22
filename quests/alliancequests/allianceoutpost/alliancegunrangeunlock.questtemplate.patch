@@ -1,32 +1,13 @@
-[
-  {
-    "value": "^orange;Справедливость для Юстициара",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Недавно на аванпост Союза напала группа Аккимари. Нам нужен кто-то, кто телепортируется на планету и ^green;положит конец ^orange;Юстициару Аккимари^green;, который возглавляет эту группу^white;. В качестве награды ^green;вы получите доступ к стрельбищу Посольства Креона^white;.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Отличная работа, я получил сообщение, что Юстициар был ликвидирован. Вот вам карта безопасности; она даст вам доступ к стрельбищу.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Поговорите с ^orange;Мумамом^reset;, чтобы телепортироваться на ^orange;авампост Союза^reset;",
-    "path": "/scriptConfig/descriptions/enterInstance",
-    "op": "replace"
-  },
-  {
-    "value": "Уничтожьте ^orange;Юстициара Аккимари^reset;",
-    "path": "/scriptConfig/descriptions/findGoal",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Мумаму^reset; в ^orange;Посольство Креона^reset;",
-    "path": "/scriptConfig/descriptions/turnIn",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Справедливость для Юстициара"
+},{"op":"replace","path":"/text","value":
+"Недавно на аванпост Союза напала группа Аккимари. Нам нужен кто-то, кто телепортируется на планету и ^green;положит конец ^orange;Юстициару Аккимари^green;, который возглавляет эту группу^white;. В качестве награды ^green;вы получите доступ к стрельбищу Посольства Креона^white;."
+},{"op":"replace","path":"/completionText","value":
+"Отличная работа, я получил сообщение, что Юстициар был ликвидирован. Вот вам карта безопасности; она даст вам доступ к стрельбищу."
+},{"op":"replace","path":"/scriptConfig/descriptions/enterInstance","value":
+"Поговорите с ^orange;Мумамом^reset;, чтобы телепортироваться на ^orange;авампост Союза^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/findGoal","value":
+"Уничтожьте ^orange;Юстициара Аккимари^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/turnIn","value":
+"Вернитесь к ^orange;Мумаму^reset; в ^orange;Посольство Креона^reset;"
+}]

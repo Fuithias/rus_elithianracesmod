@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Образец ферверия",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "«Идеальный образец фервериевой руды».",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Образец ферверия"
+},{"op":"replace","path":"/description","value":
+"Идеальный образец фервериевой руды."
+}]

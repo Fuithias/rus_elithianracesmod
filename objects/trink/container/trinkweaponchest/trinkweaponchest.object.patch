@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ящик с цепями питания",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высококачественный ящик с военными припасами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, внутри может быть оружие!",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом ящике с припасами используются материалы самого высокого качества.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. В таком ящике с припасами, скорее всего, будут храниться ценные вещи.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на тайник с военным оружием. Давайте откроем его!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик с припасами, предназначенный для перевозки оружия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Давайте уже заглянем внутрь!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, это ящик с электросхемами.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машинный ящик с припасами. Это может дать мне преимущество.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом ящике с припасами Circuit может храниться оружие.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен ящик с припасами машинной сборки. Рекомендую разобрать на запчасти.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грудь-военный. Акки нашел внутри оружие?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ящик с цепями питания"
+},{"op":"replace","path":"/description","value":
+"Высококачественный ящик с военными припасами."
+},{"op":"replace","path":"/apexDescription","value":
+"Я думаю, внутри может быть оружие!"
+},{"op":"replace","path":"/avianDescription","value":
+"В этом ящике с припасами используются материалы самого высокого качества."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. В таком ящике с припасами, скорее всего, будут храниться ценные вещи."
+},{"op":"replace","path":"/humanDescription","value":
+"Это похоже на тайник с военным оружием. Давайте откроем его!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ящик с припасами, предназначенный для перевозки оружия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Давайте уже заглянем внутрь!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Похоже, это ящик с электросхемами."
+},{"op":"replace","path":"/avikanDescription","value":
+"Машинный ящик с припасами. Это может дать мне преимущество."
+},{"op":"replace","path":"/trinkDescription","value":
+"В этом ящике с припасами Circuit может храниться оружие."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен ящик с припасами машинной сборки. Рекомендую разобрать на запчасти."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Грудь-военный. Акки нашел внутри оружие?"
+}]

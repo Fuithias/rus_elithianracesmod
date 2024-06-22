@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Прочная голова из титана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Титановая голова",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Прочная голова из титана."
+},{"op":"replace","path":"/shortdescription","value":
+"Титановая голова"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ядро любой плазменной винтовки Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плазменный инжектор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ядро любой плазменной винтовки Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Плазменный инжектор"
+}]

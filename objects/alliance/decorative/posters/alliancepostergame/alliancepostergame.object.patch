@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат НСИ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий игру New Space Inquisition.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что это значит.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Этот плакат простой, но запоминающийся.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это была одна из лучших игр прошлого года.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат НСИ"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий игру New Space Inquisition."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что это значит."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Этот плакат простой, но запоминающийся."
+},{"op":"replace","path":"/aegiDescription","value":
+"Это была одна из лучших игр прошлого года."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

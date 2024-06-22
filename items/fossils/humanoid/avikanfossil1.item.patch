@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменелый череп Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканский череп",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменелый череп Авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Авиканский череп"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская Тяжелая Труба",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая, толстая труба. Она не будет протекать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. С такими трубами я не буду беспокоиться о протечках.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба большая, но Флоран не может пройти через нее...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не знаю, что несет эта труба, но, думаю, это опасно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ не удался. Невозможно сканировать содержимое трубы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба-толстая, несет жидкости.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская Тяжелая Труба"
+},{"op":"replace","path":"/description","value":
+"Тяжелая, толстая труба. Она не будет протекать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. С такими трубами я не буду беспокоиться о протечках."
+},{"op":"replace","path":"/floranDescription","value":
+"Труба большая, но Флоран не может пройти через нее..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Не знаю, что несет эта труба, но, думаю, это опасно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ не удался. Невозможно сканировать содержимое трубы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Труба-толстая, несет жидкости."
+}]

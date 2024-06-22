@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^#BA66FF;Нож легендарного охотника Теллобоя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Нож Теллобоя^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нож",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^#BA66FF;Нож легендарного охотника Теллобоя."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Нож Теллобоя^white;"
+},{"op":"replace","path":"/category","value":
+"Нож"
+}]

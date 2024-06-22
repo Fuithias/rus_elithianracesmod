@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Столетняя колонна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивная колонна.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая металлическая колонна. Или это столб?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивная древняя колонна. Невероятно, что он до сих пор стоит.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не может сломать этот металл. Флоран злится.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Мои показания показывают, что эта колонна простояла здесь десятки тысяч лет, а может и больше.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот ЭТО колонка!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Колонны распространены во многих формах инопланетной архитектуры. Они представляют собой образ силы и спокойствия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это именно та колонка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Колонна, построенная в Сентенсе. Это довольно массивно.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древние построили множество впечатляющих сооружений.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая колонна. Их часто используют в качестве опоры, но, учитывая, что их построили Центены, скорее всего, они служат лишь украшением.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен центенский столбец.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Колонка-отлично, вес держит-отлично.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Столетняя колонна"
+},{"op":"replace","path":"/description","value":
+"Массивная колонна."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая металлическая колонна. Или это столб?"
+},{"op":"replace","path":"/avianDescription","value":
+"Массивная древняя колонна. Невероятно, что он до сих пор стоит."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не может сломать этот металл. Флоран злится."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Мои показания показывают, что эта колонна простояла здесь десятки тысяч лет, а может и больше."
+},{"op":"replace","path":"/humanDescription","value":
+"Вот ЭТО колонка!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Колонны распространены во многих формах инопланетной архитектуры. Они представляют собой образ силы и спокойствия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это именно та колонка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Колонна, построенная в Сентенсе. Это довольно массивно."
+},{"op":"replace","path":"/avikanDescription","value":
+"Древние построили множество впечатляющих сооружений."
+},{"op":"replace","path":"/trinkDescription","value":
+"Большая колонна. Их часто используют в качестве опоры, но, учитывая, что их построили Центены, скорее всего, они служат лишь украшением."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен центенский столбец."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Колонка-отлично, вес держит-отлично."
+}]

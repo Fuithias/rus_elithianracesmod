@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Маска Спукита для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска Спукита",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Маска Спукита для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска Спукита"
+}]

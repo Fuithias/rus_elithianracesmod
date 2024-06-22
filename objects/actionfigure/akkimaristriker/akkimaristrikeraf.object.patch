@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фигурка нападающего",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этикетке написано: «Боевой дрон-невидимка, используемый Аккимари».",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фигурка нападающего"
+},{"op":"replace","path":"/description","value":
+"На этикетке написано: Боевой дрон-невидимка, используемый Аккимари."
+}]

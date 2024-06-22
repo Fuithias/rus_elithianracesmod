@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Боеприпасы для дробовика, которые воспламеняются вскоре после выстрела.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Пылающие патроны",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мод на боеприпасы",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Боеприпасы для дробовика, которые воспламеняются вскоре после выстрела."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Пылающие патроны"
+},{"op":"replace","path":"/category","value":
+"Мод на боеприпасы"
+}]

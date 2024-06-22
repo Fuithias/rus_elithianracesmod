@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Стихийная стрела, отравляющая и ослабляющая цель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Ядовитая стрела",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стрела Мод",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Стихийная стрела, отравляющая и ослабляющая цель."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Ядовитая стрела"
+},{"op":"replace","path":"/category","value":
+"Стрела Мод"
+}]

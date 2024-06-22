@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат Элитианского Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий Элитианский Альянс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран уже видел этот символ раньше.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что это за Элитианский Альянс?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элитианский Альянс — это союз множества различных космических держав.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Инопланетная символика.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат Элитианского Альянса"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий Элитианский Альянс."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран уже видел этот символ раньше."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что это за Элитианский Альянс?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Элитианский Альянс — это союз множества различных космических держав."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Инопланетная символика."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

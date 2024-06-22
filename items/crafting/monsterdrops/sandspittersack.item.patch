@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Похожий на мешок орган, полный песка, готовый выплевывать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мешок Песочника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Похожий на мешок орган, полный песка, готовый выплевывать."
+},{"op":"replace","path":"/shortdescription","value":
+"Мешок Песочника"
+}]

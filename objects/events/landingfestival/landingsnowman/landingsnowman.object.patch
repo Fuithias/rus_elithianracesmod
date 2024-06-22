@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Снеговик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой снеговик в шляпе Элитского Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Снеговик в забавной шапке.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это снеговик. Ему не помешали бы крылья!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Человек из снега.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радостный. Снег всегда объединяет людей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это снежный человек!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но хорошо сделанный снеговик.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это что-то вроде снежного человека.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снеговик. Я люблю это делать!",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это... инопланетянин? Сделано из замерзшей воды? Люди здесь действительно странные.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Глупый снеговик, но он помогает людям чувствовать себя счастливыми.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализирующая конструкция. Обнаружен источник замерзшей воды. Рекомендуется немедленный сбор урожая.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетянин из снега. Инопланетяне веселятся!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Снеговик"
+},{"op":"replace","path":"/description","value":
+"Простой снеговик в шляпе Элитского Альянса."
+},{"op":"replace","path":"/apexDescription","value":
+"Снеговик в забавной шапке."
+},{"op":"replace","path":"/avianDescription","value":
+"Это снеговик. Ему не помешали бы крылья!"
+},{"op":"replace","path":"/floranDescription","value":
+"Человек из снега."
+},{"op":"replace","path":"/glitchDescription","value":
+"Радостный. Снег всегда объединяет людей."
+},{"op":"replace","path":"/humanDescription","value":
+"Это снежный человек!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой, но хорошо сделанный снеговик."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это что-то вроде снежного человека."
+},{"op":"replace","path":"/aegiDescription","value":
+"Снеговик. Я люблю это делать!"
+},{"op":"replace","path":"/avikanDescription","value":
+"Это... инопланетянин? Сделано из замерзшей воды? Люди здесь действительно странные."
+},{"op":"replace","path":"/trinkDescription","value":
+"Глупый снеговик, но он помогает людям чувствовать себя счастливыми."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализирующая конструкция. Обнаружен источник замерзшей воды. Рекомендуется немедленный сбор урожая."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инопланетянин из снега. Инопланетяне веселятся!"
+}]

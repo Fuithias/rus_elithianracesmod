@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринки",
-    "path": "/charCreationTooltip/title",
-    "op": "replace"
-  },
-  {
-    "value": "Разумные роботы",
-    "path": "/charCreationTooltip/subTitle",
-    "op": "replace"
-  },
-  {
-    "value": "Созданные нотиксами, тринки - раса владеющих разумом роботов, живущих в гармонии со своими создателями. Они ценят эффективность превыше всего и ответственны за многие технологические достижения Элитийского Альянса.",
-    "path": "/charCreationTooltip/description",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет покраски",
-    "path": "/charGenTextLabels/0",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна",
-    "path": "/charGenTextLabels/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мод рук",
-    "path": "/charGenTextLabels/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела",
-    "path": "/charGenTextLabels/3",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет рта",
-    "path": "/charGenTextLabels/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет антенны",
-    "path": "/charGenTextLabels/5",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет мода рук",
-    "path": "/charGenTextLabels/6",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет мода тела",
-    "path": "/charGenTextLabels/7",
-    "op": "replace"
-  },
-  {
-    "value": "ТРИНКИ",
-    "path": "/charGenTextLabels/8",
-    "op": "replace"
-  },
-  {
-    "value": "Личность",
-    "path": "/charGenTextLabels/9",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/charCreationTooltip/title","value":
+"Тринки"
+},{"op":"replace","path":"/charCreationTooltip/subTitle","value":
+"Разумные роботы"
+},{"op":"replace","path":"/charCreationTooltip/description","value":
+"Созданные нотиксами, тринки - раса владеющих разумом роботов, живущих в гармонии со своими создателями. Они ценят эффективность превыше всего и ответственны за многие технологические достижения Элитийского Альянса."
+},{"op":"replace","path":"/charGenTextLabels/0","value":
+"Цвет покраски"
+},{"op":"replace","path":"/charGenTextLabels/1","value":
+"Антенна"
+},{"op":"replace","path":"/charGenTextLabels/2","value":
+"Мод рук"
+},{"op":"replace","path":"/charGenTextLabels/3","value":
+"Мод тела"
+},{"op":"replace","path":"/charGenTextLabels/4","value":
+"Цвет рта"
+},{"op":"replace","path":"/charGenTextLabels/5","value":
+"Цвет антенны"
+},{"op":"replace","path":"/charGenTextLabels/6","value":
+"Цвет мода рук"
+},{"op":"replace","path":"/charGenTextLabels/7","value":
+"Цвет мода тела"
+},{"op":"replace","path":"/charGenTextLabels/8","value":
+"ТРИНКИ"
+},{"op":"replace","path":"/charGenTextLabels/9","value":
+"Личность"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Древняя скала с жутким сиянием.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Светящаяся скала",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Древняя скала с жутким сиянием."
+},{"op":"replace","path":"/shortdescription","value":
+"Светящаяся скала"
+}]

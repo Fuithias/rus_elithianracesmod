@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Крытый Авикан Кефф",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль «Авикан», обтянутый большим кожаным полотном.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Под этими простынями спрятано какое-то транспортное средство.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какие чудеса могут скрываться здесь?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаные простыни скрывают большие металлические вещи...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивляться. Что это может быть?.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это то, что я думаю?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот кожаный лист защищает все, что находится под ним.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде машины, покрытой большим кожаным полотном.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кефф, который уже давно не использовался.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль, покрытый большим кожаным полотном.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование. Обнаружен кефф.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист защищает транспортное средство-инопланетянин от пустыни.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Крытый Авикан Кефф"
+},{"op":"replace","path":"/description","value":
+"Автомобиль Авикан, обтянутый большим кожаным полотном."
+},{"op":"replace","path":"/apexDescription","value":
+"Под этими простынями спрятано какое-то транспортное средство."
+},{"op":"replace","path":"/avianDescription","value":
+"Какие чудеса могут скрываться здесь?"
+},{"op":"replace","path":"/floranDescription","value":
+"Кожаные простыни скрывают большие металлические вещи..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивляться. Что это может быть?."
+},{"op":"replace","path":"/humanDescription","value":
+"Это то, что я думаю?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот кожаный лист защищает все, что находится под ним."
+},{"op":"replace","path":"/aegiDescription","value":
+"Что-то вроде машины, покрытой большим кожаным полотном."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кефф, который уже давно не использовался."
+},{"op":"replace","path":"/trinkDescription","value":
+"Автомобиль, покрытый большим кожаным полотном."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование. Обнаружен кефф."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лист защищает транспортное средство-инопланетянин от пустыни."
+}]

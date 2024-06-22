@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Центенсианская консоль",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерная консоль.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Старая, но очень продвинутая консоль.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний компьютерный терминал, до сих пор работающий.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сссшный сссскрин.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Эта консоль все еще работает после многолетнего простоя.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нет голографического экрана? Я разочарован.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти древние компьютеры всегда остаются загадкой. Как здорово.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийская консоль.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль, созданная Древними.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта консоль была создана Centens.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Обнаружен Centensian интерфейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний компьютер, созданный богом.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенская консоль"
+},{"op":"replace","path":"/description","value":
+"Компьютерная консоль."
+},{"op":"replace","path":"/apexDescription","value":
+"Старая, но очень продвинутая консоль."
+},{"op":"replace","path":"/avianDescription","value":
+"Древний компьютерный терминал, до сих пор работающий."
+},{"op":"replace","path":"/floranDescription","value":
+"Сссшный сссскрин."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Эта консоль все еще работает после многолетнего простоя."
+},{"op":"replace","path":"/humanDescription","value":
+"Нет голографического экрана? Я разочарован."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эти древние компьютеры всегда остаются загадкой. Как здорово."
+},{"op":"replace","path":"/aegiDescription","value":
+"Центенсийская консоль."
+},{"op":"replace","path":"/avikanDescription","value":
+"Консоль, созданная Древними."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта консоль была создана Centens."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Обнаружен Centensian интерфейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Древний компьютер, созданный богом."
+}]

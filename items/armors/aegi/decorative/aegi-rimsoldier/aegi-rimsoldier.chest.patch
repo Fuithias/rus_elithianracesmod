@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Мощный бронежилет, который носят бойцы на Рубеже.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Боевой костюм Рубежа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Мощный бронежилет, который носят бойцы на Рубеже."
+},{"op":"replace","path":"/shortdescription","value":
+"Боевой костюм Рубежа"
+}]

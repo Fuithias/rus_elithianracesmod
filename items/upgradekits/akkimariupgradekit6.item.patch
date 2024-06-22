@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Великолепный комплект улучшения оружия. Улучшает оружие до 6 уровня.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Временный комплект L.6",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Великолепный комплект улучшения оружия. Улучшает оружие до 6 уровня."
+},{"op":"replace","path":"/shortdescription","value":
+"Временный комплект L.6"
+}]

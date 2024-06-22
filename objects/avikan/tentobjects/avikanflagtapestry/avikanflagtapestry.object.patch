@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Гобелен с флагом Авикана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен, украшенный флагом Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен, украшенный гербом. Интересно, что это значит?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшенный кожаный гобелен. Это крылья?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен напоминает Флорану дом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Этой эмблемы нет в моей базе данных.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный гобелен, украшенный какой-то эмблемой. Не очень хорошо проработано.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный способ украсить свой дом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта эмблема символизирует исход авикан из Кадавана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен, украшенный нашим флагом. Однажды мы вернемся в Кадаван и вернем себе наш дом.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта эмблема символизирует великий исход.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Значок-инопланетянин. Акки думает, что это означает Номада.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен с флагом Авикана"
+},{"op":"replace","path":"/description","value":
+"Кожаный гобелен, украшенный флагом Авикана."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный гобелен, украшенный гербом. Интересно, что это значит?"
+},{"op":"replace","path":"/avianDescription","value":
+"Украшенный кожаный гобелен. Это крылья?"
+},{"op":"replace","path":"/floranDescription","value":
+"Гобелен напоминает Флорану дом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Ошибка. Этой эмблемы нет в моей базе данных."
+},{"op":"replace","path":"/humanDescription","value":
+"Простой кожаный гобелен, украшенный какой-то эмблемой. Не очень хорошо проработано."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивный способ украсить свой дом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта эмблема символизирует исход авикан из Кадавана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Гобелен, украшенный нашим флагом. Однажды мы вернемся в Кадаван и вернем себе наш дом."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта эмблема символизирует великий исход."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Значок-инопланетянин. Акки думает, что это означает Номада."
+}]

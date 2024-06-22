@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Каменная лестница.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Каменная лестница Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Каменная лестница."
+},{"op":"replace","path":"/shortdescription","value":
+"Каменная лестница Альянса"
+}]

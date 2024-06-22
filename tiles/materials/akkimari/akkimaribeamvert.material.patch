@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Вертикальная балка Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая балка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта металлическая балка выглядит очень прочной.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинные балки из металла.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто большая металлическая балка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Балка-прочная держит дома-аккимари стоящими.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Вертикальная балка Акрис"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая балка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта металлическая балка выглядит очень прочной."
+},{"op":"replace","path":"/floranDescription","value":
+"Длинные балки из металла."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто большая металлическая балка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Балка-прочная держит дома-аккимари стоящими."
+}]

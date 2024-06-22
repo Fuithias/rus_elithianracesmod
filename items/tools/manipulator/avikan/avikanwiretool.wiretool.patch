@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Создан для размещения оптических проводов между точками входа. ^green;Быстрый выбор клавишей [T].",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Проводной режим",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструмент",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Создан для размещения оптических проводов между точками входа. ^green;Быстрый выбор клавишей [T]."
+},{"op":"replace","path":"/shortdescription","value":
+"Проводной режим"
+},{"op":"replace","path":"/category","value":
+"Инструмент"
+}]

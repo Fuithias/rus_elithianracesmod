@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Лавка с оружием Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, полный костяного оружия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Выбор костяного оружия.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие из кости. Удивительно острый.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из Бонессов получаются хорошие фехтовальщики.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Это костяное оружие острее многих металлических альтернатив.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие из костей. Как им удалось сделать их такими острыми?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие из костей. Примитивно и жестоко, но и эффективно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивное костяное оружие на вид, но из него получаются отличные охотничьи инструменты.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Костяное оружие по-прежнему любимо нашим народом, хотя теперь мы можем изготавливать его из металла.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это костяное оружие превосходит многие другие современные виды оружия.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это оборудование предшествует технологии этого устройства.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие-кость, не сильное-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Лавка с оружием Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок, полный костяного оружия."
+},{"op":"replace","path":"/apexDescription","value":
+"Выбор костяного оружия."
+},{"op":"replace","path":"/avianDescription","value":
+"Оружие из кости. Удивительно острый."
+},{"op":"replace","path":"/floranDescription","value":
+"Из Бонессов получаются хорошие фехтовальщики."
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Это костяное оружие острее многих металлических альтернатив."
+},{"op":"replace","path":"/humanDescription","value":
+"Оружие из костей. Как им удалось сделать их такими острыми?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Оружие из костей. Примитивно и жестоко, но и эффективно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Примитивное костяное оружие на вид, но из него получаются отличные охотничьи инструменты."
+},{"op":"replace","path":"/avikanDescription","value":
+"Костяное оружие по-прежнему любимо нашим народом, хотя теперь мы можем изготавливать его из металла."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это костяное оружие превосходит многие другие современные виды оружия."
+},{"op":"replace","path":"/drodenDescription","value":
+"Это оборудование предшествует технологии этого устройства."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Оружие-кость, не сильное-очень."
+}]

@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Телепорт Болтера",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт представляет собой полезный ярлык.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот телепорт представляет собой полезный ярлык.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Телепорт. Уровень опасности: средний.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт заставляет Акки чувствовать себя странно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт Болтера"
+},{"op":"replace","path":"/description","value":
+"Этот телепорт представляет собой полезный ярлык."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот телепорт представляет собой полезный ярлык."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Телепорт. Уровень опасности: средний."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт заставляет Акки чувствовать себя странно."
+}]

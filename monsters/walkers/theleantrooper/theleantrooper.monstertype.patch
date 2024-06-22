@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Обычный солдат телеан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанский солдат",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Обычный солдат телеан."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанский солдат"
+}]

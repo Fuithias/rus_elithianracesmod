@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Острый кинжал из прочной кости монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кинжал преследователя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Острый кинжал из прочной кости монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Кинжал преследователя"
+}]

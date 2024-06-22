@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Книжный шкаф Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий книжный шкаф.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Обычный металлический книжный шкаф.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто книжный шкаф.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой книжный шкаф.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неинтересно. Просто книжный шкаф.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычный книжный шкаф.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лучшее место для хранения книг.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книжный шкаф.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычный книжный шкаф.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде хранилища для свитков и тому подобного.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книжный шкаф.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены свитки пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Книг-много. Акки не все читал.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Книжный шкаф Альянс"
+},{"op":"replace","path":"/description","value":
+"Высокий книжный шкаф."
+},{"op":"replace","path":"/apexDescription","value":
+"Обычный металлический книжный шкаф."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто книжный шкаф."
+},{"op":"replace","path":"/floranDescription","value":
+"Простой книжный шкаф."
+},{"op":"replace","path":"/glitchDescription","value":
+"Неинтересно. Просто книжный шкаф."
+},{"op":"replace","path":"/humanDescription","value":
+"Обычный книжный шкаф."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Лучшее место для хранения книг."
+},{"op":"replace","path":"/novakidDescription","value":
+"Книжный шкаф."
+},{"op":"replace","path":"/aegiDescription","value":
+"Обычный книжный шкаф."
+},{"op":"replace","path":"/avikanDescription","value":
+"Что-то вроде хранилища для свитков и тому подобного."
+},{"op":"replace","path":"/trinkDescription","value":
+"Книжный шкаф."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены свитки пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Книг-много. Акки не все читал."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Темная металлическая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Панель поддержки Тринкиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Темная металлическая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Панель поддержки Тринкиан"
+}]

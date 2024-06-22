@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Дисплей скиприфлов Vanguard",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлена ​​винтовка Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то инопланетный пистолет.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот пистолет был разработан инопланетянами.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран использовал это, чтобы нанести удар?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Создатели этого оружия называют скипвинтовкой, потому что его патроны отскакивают от твердых поверхностей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный пистолет. Представьте, что вы владеете этим зверем двумя оружиями!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "К сожалению, насилие, а вместе с ним и оружие, являются необходимостью в этой вселенной.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта винтовка Авикан стреляет очередью пуль, предназначенных для отскакивания от поверхностей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленькая, но смертоносная винтовка — незаменимый инструмент для исследователей Авикана.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький и легкий пистолет, но исключительно эффективный для убийства.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен скиприфл Vanguard. Боеприпасы исчерпаны.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет-маленький. Акки находит это ничтожным.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дисплей скиприфлов Авангард"
+},{"op":"replace","path":"/description","value":
+"На выставке представлена ​​винтовка Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Какой-то инопланетный пистолет."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот пистолет был разработан инопланетянами."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран использовал это, чтобы нанести удар?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Создатели этого оружия называют скипвинтовкой, потому что его патроны отскакивают от твердых поверхностей."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетный пистолет. Представьте, что вы владеете этим зверем двумя оружиями!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"К сожалению, насилие, а вместе с ним и оружие, являются необходимостью в этой вселенной."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта винтовка Авикан стреляет очередью пуль, предназначенных для отскакивания от поверхностей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Маленькая, но смертоносная винтовка — незаменимый инструмент для исследователей Авикана."
+},{"op":"replace","path":"/trinkDescription","value":
+"Маленький и легкий пистолет, но исключительно эффективный для убийства."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен скиприфл Авангард. Боеприпасы исчерпаны."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пистолет-маленький. Акки находит это ничтожным."
+}]

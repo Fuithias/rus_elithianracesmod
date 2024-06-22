@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Полированные металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Полированные металлические панели."
+},{"op":"replace","path":"/shortdescription","value":
+"Панель Альянса"
+}]

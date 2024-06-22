@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Знамя Федерального Союза",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя, украшенное гербом Эгинского федерального союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эгинского Федерального Союза.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки считают, что это символ Союза-Эги.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Знамя Федерального Союза"
+},{"op":"replace","path":"/description","value":
+"Знамя, украшенное гербом Эгинского федерального союза."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эгинского Федерального Союза."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки считают, что это символ Союза-Эги."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелые каменные кирпичи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Необработанные кирпичи Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелые каменные кирпичи."
+},{"op":"replace","path":"/shortdescription","value":
+"Необработанные кирпичи Альянса"
+}]

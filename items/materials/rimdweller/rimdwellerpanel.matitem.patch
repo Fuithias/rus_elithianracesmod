@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ржавые старые металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ободная панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ржавые старые металлические панели."
+},{"op":"replace","path":"/shortdescription","value":
+"Ободная панель"
+}]

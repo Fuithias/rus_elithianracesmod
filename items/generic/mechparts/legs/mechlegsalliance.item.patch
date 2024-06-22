@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Надежные механические ножки, созданные компанией Enerth Engineering.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ноги робота-защитника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Надежные механические ножки, созданные компанией Enerth Engineering."
+},{"op":"replace","path":"/shortdescription","value":
+"Ноги робота-защитника"
+}]

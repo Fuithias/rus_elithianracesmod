@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Механическая рука со встроенной системой линейного заряда.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механическая рука линейной винтовки",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Механическая рука со встроенной системой линейного заряда."
+},{"op":"replace","path":"/shortdescription","value":
+"Механическая рука линейной винтовки"
+}]

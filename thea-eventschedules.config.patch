@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ужасающий",
-    "path": "/harrowing/eventName",
-    "op": "replace"
-  },
-  {
-    "value": "праздник Приземления",
-    "path": "/landingfestival/eventName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/harrowing/eventName","value":
+"Ужасающий"
+},{"op":"replace","path":"/landingfestival/eventName","value":
+"праздник Приземления"
+}]

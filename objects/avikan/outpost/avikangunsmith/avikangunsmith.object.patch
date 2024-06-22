@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Оружейная мастерская Аюрина",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, Аюрин — местный оружейник. Возможно, он сможет изготовить для меня какое-нибудь новое оружие.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Оружейник создает новое оружие для Флорана?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ожидание. Этот оружейник, возможно, сможет предоставить мне новое оружие.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружейник? Возможно, здесь купят новые винтовки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен сертифицированный оружейник Vanguard. Здесь отряд может приобрести новые схемы оружия.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки покупает чертежи, делает вещи новыми.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Оружейная мастерская Аюрина"
+},{"op":"replace","path":"/description","value":
+"Кажется, Аюрин — местный оружейник. Возможно, он сможет изготовить для меня какое-нибудь новое оружие."
+},{"op":"replace","path":"/floranDescription","value":
+"Оружейник создает новое оружие для Флорана?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Ожидание. Этот оружейник, возможно, сможет предоставить мне новое оружие."
+},{"op":"replace","path":"/novakidDescription","value":
+"Оружейник? Возможно, здесь купят новые винтовки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен сертифицированный оружейник Авангард. Здесь отряд может приобрести новые схемы оружия."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки покупает чертежи, делает вещи новыми."
+}]

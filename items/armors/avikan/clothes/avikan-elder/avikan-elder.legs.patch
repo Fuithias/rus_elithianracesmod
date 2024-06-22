@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Украшенная кожаная юбка, которую носят старейшины авиканских кланов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка старейшины",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Украшенная кожаная юбка, которую носят старейшины авиканских кланов."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка старейшины"
+}]

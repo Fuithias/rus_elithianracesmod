@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Эта лицензия является официальным подтверждением вашего статуса как Keffrider.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Лицензия Кеффрайдера^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "пропуск безопасности",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Эта лицензия является официальным подтверждением вашего статуса как Keffrider."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Лицензия Кеффрайдера^white;"
+},{"op":"replace","path":"/category","value":
+"пропуск безопасности"
+}]

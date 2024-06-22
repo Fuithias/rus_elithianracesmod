@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Ткань Рхаиод",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевое покрытие стены, украшенное в стиле Рхаиод.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Нейтральный. Я не уверен, что думать об этом цвете.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, как быстро это загорится...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фиолетовая ткань. Отлично подходит для палатки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Ткань для палатки, украшенная в стиле Рхаиод.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань-цветная, акки нравится цвет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ткань Рхаиод"
+},{"op":"replace","path":"/description","value":
+"Тканевое покрытие стены, украшенное в стиле Рхаиод."
+},{"op":"replace","path":"/glitchDescription","value":
+"Нейтральный. Я не уверен, что думать об этом цвете."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, как быстро это загорится..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Фиолетовая ткань. Отлично подходит для палатки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Ткань для палатки, украшенная в стиле Рхаиод."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ткань-цветная, акки нравится цвет."
+}]

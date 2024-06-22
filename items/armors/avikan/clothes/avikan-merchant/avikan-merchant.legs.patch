@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Украшенная кожаная юбка, любимая купцами пустыни.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Купеческая юбка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Украшенная кожаная юбка, любимая купцами пустыни."
+},{"op":"replace","path":"/shortdescription","value":
+"Купеческая юбка"
+}]

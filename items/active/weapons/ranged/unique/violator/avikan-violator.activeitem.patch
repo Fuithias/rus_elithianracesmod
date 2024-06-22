@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Ионная пушка, усовершенствованная с помощью телеанских технологий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Протокол нарушения^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ионная пушка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Ионный лазер",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Ионная пушка, улучшенная с помощью телеанских технологий."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Протокол нарушения^white;"
+},{"op":"replace","path":"/category","value":
+"Ионная пушка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Ионный лазер"
+}]

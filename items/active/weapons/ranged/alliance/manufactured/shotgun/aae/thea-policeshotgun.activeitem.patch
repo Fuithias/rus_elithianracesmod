@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Дробовик, иногда используемый офицерами П-АСБ.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Диспергатор П-АСБ С-3",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Дробовик, иногда используемый офицерами П-АСБ.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Диспергатор П-АСБ С-3"
+},{"op":"replace","path":"/category","value":
+"Дробовик"
+}]

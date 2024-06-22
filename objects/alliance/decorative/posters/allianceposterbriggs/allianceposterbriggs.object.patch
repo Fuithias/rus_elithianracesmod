@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат о судостроении Бриггса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий судостроение компании Briggs.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что этот плакат скучный.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Briggs Shipbuilding — производитель горнодобывающих и строительных судов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Briggs Shipbuilding производит большую часть строительных и горнодобывающих судов Союза.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат о судостроении Бриггса"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий судостроение компании Briggs."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что этот плакат скучный."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Briggs Shipbuilding — производитель горнодобывающих и строительных судов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Briggs Shipbuilding производит большую часть строительных и горнодобывающих судов Союза."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

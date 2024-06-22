@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Телепорт Звездного Путешественника",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, связанный с Убежищем Звездных Путешественников. ^red;Уничтожается при поломке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот телепорт привязан к заданному местоположению.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт Авикан напрямую связан с их Убежищем Звездных Путешественников.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт напрямую связан с Убежищем Звездных Путешественников.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению. Посмотрим, куда это приведет.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Показания показывают, что этот телепорт напрямую связан с Убежищем Звездоходов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт-инопланетянин, связанный с Refuge-Starfarers.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт Звездного Путешественника"
+},{"op":"replace","path":"/description","value":
+"Телепорт, связанный с Убежищем Звездных Путешественников. ^red;Уничтожается при поломке."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот телепорт Авикан напрямую связан с их Убежищем Звездных Путешественников."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот телепорт напрямую связан с Убежищем Звездных Путешественников."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот телепорт привязан к заданному местоположению. Посмотрим, куда это приведет."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Показания показывают, что этот телепорт напрямую связан с Убежищем Звездохода."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт-инопланетянин, связанный с Refuge-Starfarers."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Тринкианский генератор щита",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор щита, способный защитить построенные вами постройки от повреждений.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор щита.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это создает щит.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щитсс!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Утешен. Генератор щита.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это защитит меня!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грубое защитное устройство.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кому вообще нужен щит?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор щита, используемый для защиты колоний.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машинный генератор щита. Наверное, мне следует отключить его.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство создаст щит для защиты колоний от повреждений.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен машинный генератор щита. Рекомендую диверсию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор-щит, защищающий регионы от разрушения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Генератор щита тринков"
+},{"op":"replace","path":"/description","value":
+"Генератор щита, способный защитить построенные вами постройки от повреждений."
+},{"op":"replace","path":"/apexDescription","value":
+"Генератор щита."
+},{"op":"replace","path":"/avianDescription","value":
+"Это создает щит."
+},{"op":"replace","path":"/floranDescription","value":
+"Щитсс!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Утешен. Генератор щита."
+},{"op":"replace","path":"/humanDescription","value":
+"Это защитит меня!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Грубое защитное устройство."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кому вообще нужен щит?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Генератор щита, используемый для защиты колоний."
+},{"op":"replace","path":"/avikanDescription","value":
+"Машинный генератор щита. Наверное, мне следует отключить его."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это устройство создаст щит для защиты колоний от повреждений."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен машинный генератор щита. Рекомендую диверсию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Генератор-щит, защищающий регионы от разрушения."
+}]

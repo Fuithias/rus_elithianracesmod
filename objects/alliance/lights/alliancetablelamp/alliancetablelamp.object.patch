@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Настольная лампа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Декоративная настольная лампа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая настольная лампа.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой свет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный свет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой свет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нравится эта настольная лампа.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой светильник, легко перемещаемый.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настольная лампа.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Светлый-маленький.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настольная лампа Альянса"
+},{"op":"replace","path":"/description","value":
+"Декоративная настольная лампа."
+},{"op":"replace","path":"/apexDescription","value":
+"Простая настольная лампа."
+},{"op":"replace","path":"/avianDescription","value":
+"Свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой свет."
+},{"op":"replace","path":"/humanDescription","value":
+"Стандартный свет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой свет."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мне нравится эта настольная лампа."
+},{"op":"replace","path":"/avikanDescription","value":
+"Небольшой светильник, легко перемещаемый."
+},{"op":"replace","path":"/trinkDescription","value":
+"Настольная лампа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Светлый-маленький."
+}]

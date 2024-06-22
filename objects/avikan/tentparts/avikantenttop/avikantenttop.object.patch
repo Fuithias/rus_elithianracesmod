@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Верхний лист Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, используемый в качестве крыши для палаток Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист. Не очень хорошо проработано.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий кожаный лист.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Примитивная кожаная простыня.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист грубой кожи. Как примитивно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная кожаная простыня.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный верхний лист. Сохраняет палатку прохладной внутри.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный верхний лист, используемый в качестве крыши палатки. Базовый, но функциональный.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный верхний лист. Неотъемлемая часть хорошей палатки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист. Используется для поддержания прохлады внутри палатки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Листовая верхняя часть выполняет роль крыши.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Верхний лист Авикан"
+},{"op":"replace","path":"/description","value":
+"Кожаный лист, используемый в качестве крыши для палаток Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный лист. Не очень хорошо проработано."
+},{"op":"replace","path":"/avianDescription","value":
+"Мягкий кожаный лист."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Примитивная кожаная простыня."
+},{"op":"replace","path":"/humanDescription","value":
+"Лист грубой кожи. Как примитивно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивная кожаная простыня."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой кожаный верхний лист. Сохраняет палатку прохладной внутри."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаный верхний лист, используемый в качестве крыши палатки. Базовый, но функциональный."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный верхний лист. Неотъемлемая часть хорошей палатки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Верхний лист. Используется для поддержания прохлады внутри палатки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Листовая верхняя часть выполняет роль крыши."
+}]

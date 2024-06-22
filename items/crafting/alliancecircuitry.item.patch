@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Базовая универсальная схема для использования в электронике Alliance.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Схема Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Базовая универсальная схема для использования в электронике Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Схема Альянса"
+}]

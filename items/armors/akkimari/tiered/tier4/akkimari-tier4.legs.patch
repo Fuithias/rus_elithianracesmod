@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Поножи и тактический пояс, которые носят коварные рейдеры",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поножи мародера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Поножи и тактический пояс, которые носят коварные рейдеры"
+},{"op":"replace","path":"/shortdescription","value":
+"Поножи мародера"
+}]

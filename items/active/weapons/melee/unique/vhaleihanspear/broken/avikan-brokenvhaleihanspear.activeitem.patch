@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Копье, созданное в древнем Вас Вха'лейхе. От возраста и использования оно сломалось.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанное копье",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Копьё, созданное в древнем Вас Вха'лейхе. От возраста и использования оно сломалось."
+},{"op":"replace","path":"/shortdescription","value":
+"Сломанное копьё"
+}]

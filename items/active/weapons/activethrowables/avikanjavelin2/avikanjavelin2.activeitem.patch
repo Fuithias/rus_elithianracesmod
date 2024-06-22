@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Очень острое копье, сделанное из когтей чудовищ. С его помощью можно добывать особые охотничьи материалы.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Охотничье копье",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Очень острое копьё, сделанное из когтей чудовищ. С его помощью можно добывать особые охотничьи материалы.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Охотничье копьё"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

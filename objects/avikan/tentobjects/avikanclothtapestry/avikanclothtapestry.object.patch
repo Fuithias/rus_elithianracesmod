@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авиканский тканевый гобелен",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен из разноцветной ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевый гобелен. Какой простой узор.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цвета этого гобелена такие яркие!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся цвета.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Такие яркие цвета являются признаком богатства народа Авикан.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой тканевый гобелен. Хотя довольно красочно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой узор, но от этого не менее красивый.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий и красочный гобелен. Он сделан из ткани, а не кожи.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изготовлен из ткани, редкого ресурса на Кадаване.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочный гобелен. Он тонко сплетен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: ткань.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен-ткань, Акки используют как полотенце.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский тканевый гобелен"
+},{"op":"replace","path":"/description","value":
+"Гобелен из разноцветной ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Тканевый гобелен. Какой простой узор."
+},{"op":"replace","path":"/avianDescription","value":
+"Цвета этого гобелена такие яркие!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся цвета."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Такие яркие цвета являются признаком богатства народа Авикан."
+},{"op":"replace","path":"/humanDescription","value":
+"Простой тканевый гобелен. Хотя довольно красочно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой узор, но от этого не менее красивый."
+},{"op":"replace","path":"/aegiDescription","value":
+"Яркий и красочный гобелен. Он сделан из ткани, а не кожи."
+},{"op":"replace","path":"/avikanDescription","value":
+"Изготовлен из ткани, редкого ресурса на Кадаване."
+},{"op":"replace","path":"/trinkDescription","value":
+"Красочный гобелен. Он тонко сплетен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: ткань."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гобелен-ткань, Акки используют как полотенце."
+}]

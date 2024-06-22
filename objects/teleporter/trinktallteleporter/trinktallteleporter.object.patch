@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Тринкианский телепорт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение: Этот телепорт был построен в инопланетном стиле.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский телепорт, очень эффективно использует энергию.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт был построен машинами и для машин.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт позволяет быстро перемещаться между связанными локациями. Эффективный способ транспортировки юнитов Тринка.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена технология телепортации пришельцев. Пожалуйста, соблюдайте осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт-инопланетянин, выгляди причудливо.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианский телепорт"
+},{"op":"replace","path":"/description","value":
+"Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке."
+},{"op":"replace","path":"/apexDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/avianDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение: Этот телепорт был построен в инопланетном стиле."
+},{"op":"replace","path":"/humanDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/novakidDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианский телепорт, очень эффективно использует энергию."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот телепорт был построен машинами и для машин."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот телепорт позволяет быстро перемещаться между связанными локациями. Эффективный способ транспортировки юнитов Тринка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена технология телепортации пришельцев. Пожалуйста, соблюдайте осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт-инопланетянин, выгляди причудливо."
+}]

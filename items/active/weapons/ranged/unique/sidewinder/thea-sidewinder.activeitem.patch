@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Классический револьверный пистолет с традиционным магазином.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Боковой удар^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ручная пушка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Классический револьверный пистолет с традиционным магазином."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Боковой удар^white;"
+},{"op":"replace","path":"/category","value":
+"Ручная пушка"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Грузовик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелый транспортный грузовик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовик, для перевозки тяжелых грузов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот автомобиль хорош для перевозки тяжелых грузов.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не должен мешать измельчителю...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Этот грузовик может легко перевезти тяжелый груз.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот грузовик напоминает мне дом.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не самый элегантный автомобиль, но он легко перевезет тяжелые грузы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовик для перевозки грузов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот грузовик может легко перевозить тяжелые грузы.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наземное транспортное средство пришельцев. Похоже на транспортное судно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Самая распространенная модель транспортных грузовиков Альянса.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен неопознанный автомобиль.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортное средство-инопланетянин. Колеса-много.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Грузовик"
+},{"op":"replace","path":"/description","value":
+"Тяжелый транспортный грузовик."
+},{"op":"replace","path":"/apexDescription","value":
+"Грузовик, для перевозки тяжелых грузов."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот автомобиль хорош для перевозки тяжелых грузов."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не должен мешать измельчителю..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Этот грузовик может легко перевезти тяжелый груз."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот грузовик напоминает мне дом."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Не самый элегантный автомобиль, но он легко перевезет тяжелые грузы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Грузовик для перевозки грузов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот грузовик может легко перевозить тяжелые грузы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Наземное транспортное средство пришельцев. Похоже на транспортное судно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Самая распространенная модель транспортных грузовиков Альянса."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен неопознанный автомобиль."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Транспортное средство-инопланетянин. Колеса-много."
+}]

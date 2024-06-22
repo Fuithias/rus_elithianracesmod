@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Очень толстая металлическая труба.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая труба справа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Очень толстая металлическая труба."
+},{"op":"replace","path":"/shortdescription","value":
+"Большая труба справа"
+}]

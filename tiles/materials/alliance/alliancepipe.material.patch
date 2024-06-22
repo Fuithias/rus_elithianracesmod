@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Труба Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая, толстая труба. Это не будет протекать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. С такой трубой я не буду беспокоиться о протечках.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба большая, но Флоран не пролезет...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не уверен, что несет эта труба, но думаю, что это опасно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ не удался. Невозможно сканировать содержимое трубы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба несет жидкости. Акки надеется, что это не фекалии.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Труба Альянса"
+},{"op":"replace","path":"/description","value":
+"Тяжелая, толстая труба. Это не будет протекать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. С такой трубой я не буду беспокоиться о протечках."
+},{"op":"replace","path":"/floranDescription","value":
+"Труба большая, но Флоран не пролезет..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Не уверен, что несет эта труба, но думаю, что это опасно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ не удался. Невозможно сканировать содержимое трубы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Труба несет жидкости. Акки надеется, что это не фекалии."
+}]

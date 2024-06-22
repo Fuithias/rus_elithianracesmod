@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Ховербайк",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Личный транспорт на воздушной подушке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Компактный ховербайк.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот ховербайк довольно компактен.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорана тошнит, когда он летает на маленьком мотоцикле.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Компактный личный транспорт.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне всегда нравились ховербайки!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ховербайк, компактный по форме, но мощный по характеристикам.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поездка на одном из них обязательно вызовет восторг!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ховербайк, построенный компанией Veronas, крупнейшим конкурентом Aventor.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, что это инопланетный ховербайк, но его дизайн сильно отличается от нашего.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективно компактный дизайн этого автомобиля весьма приятен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное судно на воздушной подушке.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки летай на транспортном средстве-инопланетянине! Акки бесплатно!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Ховербайк"
+},{"op":"replace","path":"/description","value":
+"Личный транспорт на воздушной подушке."
+},{"op":"replace","path":"/apexDescription","value":
+"Компактный ховербайк."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот ховербайк довольно компактен."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорана тошнит, когда он летает на маленьком мотоцикле."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Компактный личный транспорт."
+},{"op":"replace","path":"/humanDescription","value":
+"Мне всегда нравились ховербайки!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ховербайк, компактный по форме, но мощный по характеристикам."
+},{"op":"replace","path":"/novakidDescription","value":
+"Поездка на одном из них обязательно вызовет восторг!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Ховербайк, построенный компанией Veronas, крупнейшим конкурентом Авентор."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я думаю, что это инопланетный ховербайк, но его дизайн сильно отличается от нашего."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективно компактный дизайн этого автомобиля весьма приятен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное судно на воздушной подушке."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки летай на транспортном средстве-инопланетянине! Акки бесплатно!"
+}]

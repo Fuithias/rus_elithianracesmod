@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Ноутбук",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Портативный персональный компьютер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Персональный компьютер. Миникног, возможно, следит за ним.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой компьютер, легко транспортировать.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не умеет пользоваться компьютером...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Персональный компьютер.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ноутбук. Тот, кто им пользовался, забыл стереть историю посещений...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой персональный компьютер.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Никогда не мог разобраться с этими клавиатурами...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ноутбук стандартной модели. Каждый гражданин Союза получает один из них.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то компьютер, но необычно маленький.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккумулятор в этом ноутбуке довольно эффективный.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Идет перевод...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не знает, интерфейс-чужой. Смущающе-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Ноутбук"
+},{"op":"replace","path":"/description","value":
+"Портативный персональный компьютер."
+},{"op":"replace","path":"/apexDescription","value":
+"Персональный компьютер. Миникног, возможно, следит за ним."
+},{"op":"replace","path":"/avianDescription","value":
+"Небольшой компьютер, легко транспортировать."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не умеет пользоваться компьютером..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Персональный компьютер."
+},{"op":"replace","path":"/humanDescription","value":
+"Ноутбук. Тот, кто им пользовался, забыл стереть историю посещений..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Небольшой персональный компьютер."
+},{"op":"replace","path":"/novakidDescription","value":
+"Никогда не мог разобраться с этими клавиатурами..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Ноутбук стандартной модели. Каждый гражданин Союза получает один из них."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то компьютер, но необычно маленький."
+},{"op":"replace","path":"/trinkDescription","value":
+"Аккумулятор в этом ноутбуке довольно эффективный."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Идет перевод..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не знает, интерфейс-чужой. Смущающе-очень."
+}]

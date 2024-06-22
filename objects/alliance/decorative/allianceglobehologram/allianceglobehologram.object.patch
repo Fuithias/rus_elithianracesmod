@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Голограмма Элитии",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой голографический дисплей Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая голограмма. Это планета Элития?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая планетарная голограмма.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Планета из огней.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Какая красивая планета.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это настоящий голографический дисплей.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта голограмма вселяет во меня чувство спокойствия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь это голограмма.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма, отображающая информацию об Элитии в реальном времени.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кочевники могли бы чему-то научиться из этой проекции.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая голографическая проекция Элитии.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена голографическая проекция. Анализируем. Доклад о результатах командованию Номады.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма-великая Элитии. Акки впечатлил.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Голограмма Элитии"
+},{"op":"replace","path":"/description","value":
+"Большой голографический дисплей Элитии."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая голограмма. Это планета Элития?"
+},{"op":"replace","path":"/avianDescription","value":
+"Большая планетарная голограмма."
+},{"op":"replace","path":"/floranDescription","value":
+"Планета из огней."
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Какая красивая планета."
+},{"op":"replace","path":"/humanDescription","value":
+"Это настоящий голографический дисплей."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта голограмма вселяет во меня чувство спокойствия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Теперь это голограмма."
+},{"op":"replace","path":"/aegiDescription","value":
+"Голограмма, отображающая информацию об Элитии в реальном времени."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кочевники могли бы чему-то научиться из этой проекции."
+},{"op":"replace","path":"/trinkDescription","value":
+"Большая голографическая проекция Элитии."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена голографическая проекция. Анализируем. Доклад о результатах командованию Номады."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Голограмма-великая Элитии. Акки впечатлил."
+}]

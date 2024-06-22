@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Торшер Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Декоративный торшер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стоячая лампа.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой свет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лампа.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный торшер.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой торшер.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Практичный светильник.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стоячая лампа.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Торшер Альянса"
+},{"op":"replace","path":"/description","value":
+"Декоративный торшер."
+},{"op":"replace","path":"/apexDescription","value":
+"Стоячая лампа."
+},{"op":"replace","path":"/avianDescription","value":
+"Свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой свет."
+},{"op":"replace","path":"/humanDescription","value":
+"Лампа."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный торшер."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой торшер."
+},{"op":"replace","path":"/avikanDescription","value":
+"Практичный светильник."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стоячая лампа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Свет."
+}]

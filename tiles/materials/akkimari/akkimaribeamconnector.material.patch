@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Соединитель балки Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный соединительный элемент для балки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот соединитель является структурной необходимостью.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Малый блок соединяет балки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это просто соединительный элемент для балки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Соединитель поддерживает большой вес. Даже аккимари-толстый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Соединитель балки Акрис"
+},{"op":"replace","path":"/description","value":
+"Прочный соединительный элемент для балки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот соединитель является структурной необходимостью."
+},{"op":"replace","path":"/floranDescription","value":
+"Малый блок соединяет балки."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это просто соединительный элемент для балки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая балка. Вероятно, поддерживающая конструкция."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Соединитель поддерживает большой вес. Даже аккимари-толстый."
+}]

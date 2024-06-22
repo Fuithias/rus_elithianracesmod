@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Переработанный телеанский проект, созданный для того, чтобы шокировать противников.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;СДЛ-02 Шокболтер^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прототип оружия",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Шоковая граната",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Переработанный телеанский проект, созданный чтобы шокировать противников."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;СДЛ-02 Шокболтер^white;"
+},{"op":"replace","path":"/category","value":
+"Протов. оружия"
+},{"op":"replace","path":"/altAbility/name","value":
+"Шоковая граната"
+}]

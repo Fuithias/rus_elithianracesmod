@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Стильный костюм для модных аеги.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костюм дизайнера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Стильный костюм для модных аеги."
+},{"op":"replace","path":"/shortdescription","value":
+"Костюм дизайнера"
+}]

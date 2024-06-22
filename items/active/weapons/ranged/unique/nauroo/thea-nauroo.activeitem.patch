@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Двуствольная ракетница, созданная для того, чтобы впечатлять.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Охрана Эрито^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Науроо^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ракетница",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Precision Rockets",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Двуствольная ракетница, созданная для того, чтобы впечатлять."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Охрана Эрито^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Науроо^white;"
+},{"op":"replace","path":"/category","value":
+"Ракетница"
+},{"op":"replace","path":"/altAbility/name","value":
+"Точные ракеты"
+}]

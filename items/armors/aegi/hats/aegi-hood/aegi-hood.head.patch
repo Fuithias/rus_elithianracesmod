@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Большой водонепроницаемый капюшон, пригодится в дождь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Капюшон Союза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Большой водонепроницаемый капюшон, пригодится в дождь."
+},{"op":"replace","path":"/shortdescription","value":
+"Капюшон Союза"
+}]

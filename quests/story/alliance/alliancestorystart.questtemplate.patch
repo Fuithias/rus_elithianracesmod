@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Сюжет Альянса - Начало сообщений",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Этот квест служит введением в сюжетную линию Альянса. Вы не должны видеть его в своем журнале.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Этот квест служит введением в сюжетную линию Альянса. Вы не должны видеть его в своем журнале.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/startMessage/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Посол! С вами все в порядке? Я пытаюсь связаться с вами с тех пор, как узнал о том, что случилось с Землей и Протекторатом...",
-    "path": "/scriptConfig/radioMessages/startMessage/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/secondMessage/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Приятно видеть, что вы выбрались из хаоса живым и невредимым. Сейчас, как никогда, нам нужны такие надежные люди, как вы.",
-    "path": "/scriptConfig/radioMessages/secondMessage/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/thirdMessage/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "В ближайшее время я встречусь с другими лидерами Альянса, чтобы обсудить последние события, и мы решим, каким должно быть ваше следующее задание.",
-    "path": "/scriptConfig/radioMessages/thirdMessage/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/fourthMessage/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Сейчас я хочу, чтобы вы сделали все возможное, чтобы выяснить, кто или что стоит за нападением на Протекторат. Наша первоочередная задача - не допустить, чтобы эта трагедия произошла с другими планетами.",
-    "path": "/scriptConfig/radioMessages/fourthMessage/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/endMessage/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Удачи, посол. Я свяжусь с вами снова, как только подготовлю для вас новое задание.",
-    "path": "/scriptConfig/radioMessages/endMessage/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"Сюжет Альянса - Начало сообщений"
+},{"op":"replace","path":"/text","value":
+"Этот квест служит введением в сюжетную линию Альянса. Вы не должны видеть его в своем журнале."
+},{"op":"replace","path":"/completionText","value":
+"Этот квест служит введением в сюжетную линию Альянса. Вы не должны видеть его в своем журнале."
+},{"op":"replace","path":"/scriptConfig/radioMessages/startMessage/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/startMessage/text","value":
+"Посол! С вами все в порядке? Я пытаюсь связаться с вами с тех пор, как узнал о том, что случилось с Землей и Протекторатом..."
+},{"op":"replace","path":"/scriptConfig/radioMessages/secondMessage/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/secondMessage/text","value":
+"Приятно видеть, что вы выбрались из хаоса живым и невредимым. Сейчас, как никогда, нам нужны такие надежные люди, как вы."
+},{"op":"replace","path":"/scriptConfig/radioMessages/thirdMessage/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/thirdMessage/text","value":
+"В ближайшее время я встречусь с другими лидерами Альянса, чтобы обсудить последние события, и мы решим, каким должно быть ваше следующее задание."
+},{"op":"replace","path":"/scriptConfig/radioMessages/fourthMessage/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/fourthMessage/text","value":
+"Сейчас я хочу, чтобы вы сделали все возможное, чтобы выяснить, кто или что стоит за нападением на Протекторат. Наша первоочередная задача - не допустить, чтобы эта трагедия произошла с другими планетами."
+},{"op":"replace","path":"/scriptConfig/radioMessages/endMessage/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/endMessage/text","value":
+"Удачи, посол. Я свяжусь с вами снова, как только подготовлю для вас новое задание."
+}]

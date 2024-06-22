@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Лофтгрейновые семена",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Быстрорастущее зерно, собранное Союзом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Растение, похожее на пшеницу.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Семена этого растения очень вкусны.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран тоже делает из этого хлеб?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Наверное, я смогу испечь из этого хлеб.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это растение очень похоже на пшеницу. Может ли это быть связано?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это растение растет быстрее, чем большинство его собратьев.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какое-то быстрорастущее зерно. Хорошо для хлеба.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лофтгрейн был создан нашими предками во время их путешествия с Земли на Элитию.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это чем-то похоже на стебель дюны.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генно-инженерная культура.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Отмечено сходство с dunestalk.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Травянисто-зеленый, цвет странный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Лофтгрейновые семена"
+},{"op":"replace","path":"/description","value":
+"Быстрорастущее зерно, собранное Союзом."
+},{"op":"replace","path":"/apexDescription","value":
+"Растение, похожее на пшеницу."
+},{"op":"replace","path":"/avianDescription","value":
+"Семена этого растения очень вкусны."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран тоже делает из этого хлеб?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Наверное, я смогу испечь из этого хлеб."
+},{"op":"replace","path":"/humanDescription","value":
+"Это растение очень похоже на пшеницу. Может ли это быть связано?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это растение растет быстрее, чем большинство его собратьев."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какое-то быстрорастущее зерно. Хорошо для хлеба."
+},{"op":"replace","path":"/aegiDescription","value":
+"Лофтгрейн был создан нашими предками во время их путешествия с Земли на Элитию."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это чем-то похоже на стебель дюны."
+},{"op":"replace","path":"/trinkDescription","value":
+"Генно-инженерная культура."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Отмечено сходство с dunestalk."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Травянисто-зеленый, цвет странный."
+}]

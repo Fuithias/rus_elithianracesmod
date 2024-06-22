@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из низкосортного железа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод оптики Марк I",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из низкосортного железа."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод оптики Мк I"
+}]

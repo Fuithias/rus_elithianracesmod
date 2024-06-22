@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Световая сфера Авикана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Левитирующий свет. Обеспечивает и свет, и тепло.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий свет. Изысканный.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивый, парящий свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает, как плывет свет.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Этот парящий фонарь использует органическую батарею для левитации и освещения.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий свет. Не ударяйся головой!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий свет. Технический подвиг, но ненужный под водой.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий свет. Похоже, что он основан на технологии Centensian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот светильник эффективен, легок и очень универсален.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий свет. Интересно, как был достигнут такой эффект?",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен световой шар.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкоплавучий.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Световая сфера Авикана"
+},{"op":"replace","path":"/description","value":
+"Левитирующий свет. Обеспечивает и свет, и тепло."
+},{"op":"replace","path":"/apexDescription","value":
+"Парящий свет. Изысканный."
+},{"op":"replace","path":"/avianDescription","value":
+"Красивый, парящий свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает, как плывет свет."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Этот парящий фонарь использует органическую батарею для левитации и освещения."
+},{"op":"replace","path":"/humanDescription","value":
+"Парящий свет. Не ударяйся головой!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Парящий свет. Технический подвиг, но ненужный под водой."
+},{"op":"replace","path":"/aegiDescription","value":
+"Парящий свет. Похоже, что он основан на технологии Centensian."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот светильник эффективен, легок и очень универсален."
+},{"op":"replace","path":"/trinkDescription","value":
+"Парящий свет. Интересно, как был достигнут такой эффект?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен световой шар."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Легкоплавучий."
+}]

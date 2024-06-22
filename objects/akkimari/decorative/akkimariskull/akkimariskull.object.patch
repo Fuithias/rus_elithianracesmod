@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Аккимари Череп",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп умершего Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Череп какого-то инопланетного существа.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, этот человек умер хорошо...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран делает музыку с-с-с-с-с-с-с-с-с-с.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрясен. Кто будет хранить такой череп?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сомневаюсь, что этот инопланетянин умер хорошо...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп умершего инопланетянина. Мне их жаль.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Да, это череп, и притом странный.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп Аккимари. Это печальное зрелище...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп пришельца. Я не уверен, узнаю ли я этот вид.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп умершего Аккимари.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование костей пришельцев. Анализ: череп Аккимари. Невозможно определить время смерти.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп Аккимари-мертвого.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Аккимари Череп"
+},{"op":"replace","path":"/description","value":
+"Череп умершего Аккимари."
+},{"op":"replace","path":"/apexDescription","value":
+"Череп какого-то инопланетного существа."
+},{"op":"replace","path":"/avianDescription","value":
+"Надеюсь, этот человек умер хорошо..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран делает музыку с-с-с-с-с-с-с-с-с-с."
+},{"op":"replace","path":"/glitchDescription","value":
+"Потрясен. Кто будет хранить такой череп?"
+},{"op":"replace","path":"/humanDescription","value":
+"Сомневаюсь, что этот инопланетянин умер хорошо..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Череп умершего инопланетянина. Мне их жаль."
+},{"op":"replace","path":"/novakidDescription","value":
+"Да, это череп, и притом странный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Череп Аккимари. Это печальное зрелище..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Череп пришельца. Я не уверен, узнаю ли я этот вид."
+},{"op":"replace","path":"/trinkDescription","value":
+"Череп умершего Аккимари."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование костей пришельцев. Анализ: череп Аккимари. Невозможно определить время смерти."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Череп Аккимари-мертвого."
+}]

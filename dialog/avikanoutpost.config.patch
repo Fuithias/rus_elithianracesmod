@@ -1,1372 +1,549 @@
-[
-  {
-    "value": "Мне нечего вам сказать.",
-    "path": "/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я не знаю, кто ты...",
-    "path": "/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Каким существом вы могли бы быть?",
-    "path": "/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Да?",
-    "path": "/converse/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, незнакомец.",
-    "path": "/converse/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел однажды побывать в Валас Андра'вейхе...",
-    "path": "/converse/avikan/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Хмф.",
-    "path": "/converse/avikan/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Вам что-нибудь нужно?",
-    "path": "/converse/avikan/default/8",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/default/9",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/default/10",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/default/11",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/default/12",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/default/13",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/default/14",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, мягкокожий.",
-    "path": "/converse/avikan/human/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что ваш род может быть весьма враждебен к чужакам.",
-    "path": "/converse/avikan/human/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваша кожа такая мягкая!",
-    "path": "/converse/avikan/human/2",
-    "op": "replace"
-  },
-  {
-    "value": "Не пытайтесь ничего делать здесь. Смотрители увидят.",
-    "path": "/converse/avikan/human/3",
-    "op": "replace"
-  },
-  {
-    "value": "У вас нет закрылков?",
-    "path": "/converse/avikan/human/4",
-    "op": "replace"
-  },
-  {
-    "value": "Твои глаза такие маленькие...",
-    "path": "/converse/avikan/human/5",
-    "op": "replace"
-  },
-  {
-    "value": "Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой.",
-    "path": "/converse/avikan/human/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/human/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/human/8",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/human/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/human/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/human/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/human/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/human/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/human/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/human/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/human/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, волосатая тварь.",
-    "path": "/converse/avikan/apex/0",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь нет Миникнога, если вам интересно.",
-    "path": "/converse/avikan/apex/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ты немного воняешь...",
-    "path": "/converse/avikan/apex/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я никогда раньше не видел человека с таким количеством волос.",
-    "path": "/converse/avikan/apex/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вы когда-нибудь бреетесь?",
-    "path": "/converse/avikan/apex/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ха! О, простите... Я просто подумал, что ты выглядишь забавно.",
-    "path": "/converse/avikan/apex/5",
-    "op": "replace"
-  },
-  {
-    "value": "Разве не жарко от такого меха?",
-    "path": "/converse/avikan/apex/6",
-    "op": "replace"
-  },
-  {
-    "value": "Вы уверены, что вы не Миникног?",
-    "path": "/converse/avikan/apex/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/apex/8",
-    "op": "replace"
-  },
-  {
-    "value": "Ты немного похож на аеги.",
-    "path": "/converse/avikan/apex/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/apex/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/apex/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/apex/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/apex/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/apex/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/apex/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/apex/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, пернатый.",
-    "path": "/converse/avikan/avian/0",
-    "op": "replace"
-  },
-  {
-    "value": "Эти ваши перья немного похожи на наши закрылки.",
-    "path": "/converse/avikan/avian/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что вы любите блестящие вещи.",
-    "path": "/converse/avikan/avian/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы умеете летать?",
-    "path": "/converse/avikan/avian/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я думал, у вас есть крылья.",
-    "path": "/converse/avikan/avian/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я впечатлен тем, что вы можете говорить на нашем языке с помощью своего клюва.",
-    "path": "/converse/avikan/avian/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, кажется, музыкальный человек. Спойте мне песню, ладно?",
-    "path": "/converse/avikan/avian/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/avian/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/avian/8",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан, авиан... Они звучат немного похоже, нет?",
-    "path": "/converse/avikan/avian/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/avian/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/avian/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/avian/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/avian/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/avian/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/avian/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/avian/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, растение.",
-    "path": "/converse/avikan/floran/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш вид действительно плотоядный? Я бы больше склонялся к тому, что это вас едят.",
-    "path": "/converse/avikan/floran/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы съедобны? Я довольно давно не ел овощей.",
-    "path": "/converse/avikan/floran/2",
-    "op": "replace"
-  },
-  {
-    "value": "Никакой поножовщины, растение.",
-    "path": "/converse/avikan/floran/3",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе не кажется, что ломать вещи веселее, чем колоть?",
-    "path": "/converse/avikan/floran/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вы кажетесь способным охотником.",
-    "path": "/converse/avikan/floran/5",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш вид делает весьма впечатляющие копья.",
-    "path": "/converse/avikan/floran/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/floran/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/floran/8",
-    "op": "replace"
-  },
-  {
-    "value": "Как у растения, есть ли у вас кровь?",
-    "path": "/converse/avikan/floran/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/floran/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/floran/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валиана ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/floran/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/floran/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/floran/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/floran/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/floran/16",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мне не нравишься.",
-    "path": "/converse/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Машина.",
-    "path": "/converse/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "У тебя нет души, машина.",
-    "path": "/converse/avikan/glitch/2",
-    "op": "replace"
-  },
-  {
-    "value": "Смотрители следят за вами.",
-    "path": "/converse/avikan/glitch/3",
-    "op": "replace"
-  },
-  {
-    "value": "Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина.",
-    "path": "/converse/avikan/glitch/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я не разговариваю с машиной.",
-    "path": "/converse/avikan/glitch/5",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь вы найдете мало друзей.",
-    "path": "/converse/avikan/glitch/6",
-    "op": "replace"
-  },
-  {
-    "value": "Я не люблю машины.",
-    "path": "/converse/avikan/glitch/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь.",
-    "path": "/converse/avikan/glitch/8",
-    "op": "replace"
-  },
-  {
-    "value": "Кто вас построил?",
-    "path": "/converse/avikan/glitch/9",
-    "op": "replace"
-  },
-  {
-    "value": "Убежище Звездохода принимает всех, даже машины.",
-    "path": "/converse/avikan/glitch/10",
-    "op": "replace"
-  },
-  {
-    "value": "Сомневаюсь, что в Звездоцел Инн есть хоть что-то, что можно пить.",
-    "path": "/converse/avikan/glitch/11",
-    "op": "replace"
-  },
-  {
-    "value": "Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас.",
-    "path": "/converse/avikan/glitch/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам.",
-    "path": "/converse/avikan/glitch/13",
-    "op": "replace"
-  },
-  {
-    "value": "Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им.",
-    "path": "/converse/avikan/glitch/14",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, вы могли бы обменять себя на бирже материалов.",
-    "path": "/converse/avikan/glitch/15",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?",
-    "path": "/converse/avikan/glitch/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, мокрый.",
-    "path": "/converse/avikan/hylotl/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты не боишься, что засохнешь здесь?",
-    "path": "/converse/avikan/hylotl/1",
-    "op": "replace"
-  },
-  {
-    "value": "Твоя кожа вся мокрая!",
-    "path": "/converse/avikan/hylotl/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что ваш род любит тайны. Вы должны исследовать Старейших.",
-    "path": "/converse/avikan/hylotl/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу только представить, как выглядит мир воды...",
-    "path": "/converse/avikan/hylotl/4",
-    "op": "replace"
-  },
-  {
-    "value": "Не могли бы вы когда-нибудь научить меня плавать?",
-    "path": "/converse/avikan/hylotl/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх, существо воды.",
-    "path": "/converse/avikan/hylotl/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/hylotl/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/hylotl/8",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радейсом, ты весь мокрый!",
-    "path": "/converse/avikan/hylotl/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/hylotl/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/hylotl/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/hylotl/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/hylotl/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/hylotl/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/hylotl/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/hylotl/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, сияющий.",
-    "path": "/converse/avikan/novakid/0",
-    "op": "replace"
-  },
-  {
-    "value": "Откуда ты взялся? Ах, да, вы, наверное, забыли.",
-    "path": "/converse/avikan/novakid/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ты помнишь, что ты делал вчера?",
-    "path": "/converse/avikan/novakid/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я видел ваш космический корабль, когда вы шли сюда. Он выглядел немного странно.",
-    "path": "/converse/avikan/novakid/3",
-    "op": "replace"
-  },
-  {
-    "value": "Из чего вы сделаны?",
-    "path": "/converse/avikan/novakid/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел, чтобы вы были со мной в следующий раз, когда я буду погружаться под землю.",
-    "path": "/converse/avikan/novakid/5",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не сможете играть в прятки.",
-    "path": "/converse/avikan/novakid/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/novakid/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/novakid/8",
-    "op": "replace"
-  },
-  {
-    "value": "Вы бог?",
-    "path": "/converse/avikan/novakid/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/novakid/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/novakid/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/novakid/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/novakid/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/novakid/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/novakid/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/novakid/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую вас, капитан.",
-    "path": "/converse/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, друг.",
-    "path": "/converse/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх.",
-    "path": "/converse/avikan/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Брат, добро пожаловать!",
-    "path": "/converse/avikan/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, капитан.",
-    "path": "/converse/avikan/avikan/4",
-    "op": "replace"
-  },
-  {
-    "value": "Поймали что-нибудь интересное за последнее время?",
-    "path": "/converse/avikan/avikan/5",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан! Это большая честь, сэр!",
-    "path": "/converse/avikan/avikan/6",
-    "op": "replace"
-  },
-  {
-    "value": "Я скучаю по Кадавану...",
-    "path": "/converse/avikan/avikan/7",
-    "op": "replace"
-  },
-  {
-    "value": "Говорю вам, Совет близок к нахождению Валас Андра'вейха!",
-    "path": "/converse/avikan/avikan/8",
-    "op": "replace"
-  },
-  {
-    "value": "Чистили ли вы недавно заслонки?",
-    "path": "/converse/avikan/avikan/9",
-    "op": "replace"
-  },
-  {
-    "value": "Подождите, у вас есть собственный корабль? Это должно быть воплощение мечты!",
-    "path": "/converse/avikan/avikan/10",
-    "op": "replace"
-  },
-  {
-    "value": "Я надеюсь, что ты соблюдаешь общее авиканское законодательство, друг. В противном случае у нас могут возникнуть проблемы.",
-    "path": "/converse/avikan/avikan/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы недавно демонтировали какие-нибудь машины?",
-    "path": "/converse/avikan/avikan/12",
-    "op": "replace"
-  },
-  {
-    "value": "Совет счел вас достойным собственного корабля? Что ж, если они считают вас способным, то и я тоже.",
-    "path": "/converse/avikan/avikan/13",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего, кроме уважения к капитану флота. Да здравствует Номада!",
-    "path": "/converse/avikan/avikan/14",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радейсом, вы выглядите так, словно прошли через ад!",
-    "path": "/converse/avikan/avikan/15",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел быть таким же капитаном, как вы...",
-    "path": "/converse/avikan/avikan/16",
-    "op": "replace"
-  },
-  {
-    "value": "Не могли бы вы поручиться за меня в Совете? Я подал прошение о приеме в капитаны флота, и мне нужна любая поддержка!",
-    "path": "/converse/avikan/avikan/17",
-    "op": "replace"
-  },
-  {
-    "value": "Есть что сообщить?",
-    "path": "/converse/avikan/avikan/18",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не видели интересных репортажей в последнее время?",
-    "path": "/converse/avikan/avikan/19",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, вы вносите свой вклад в дело Номада.",
-    "path": "/converse/avikan/avikan/20",
-    "op": "replace"
-  },
-  {
-    "value": "Роль капитана флота сопряжена с огромным количеством обязанностей. Вы уверены, что справитесь с ними?",
-    "path": "/converse/avikan/avikan/21",
-    "op": "replace"
-  },
-  {
-    "value": "Вы когда-нибудь совершали паломничество в Вас Вха'лейх?",
-    "path": "/converse/avikan/avikan/22",
-    "op": "replace"
-  },
-  {
-    "value": "Хотел бы я отправиться в такие приключения, как вы, капитан.",
-    "path": "/converse/avikan/avikan/23",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужен кто-нибудь в команду?",
-    "path": "/converse/avikan/avikan/24",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, вы хорошо обращаетесь со своим домашним песчаным червем. Эти твари могут стать очень агрессивными, если их игнорировать.",
-    "path": "/converse/avikan/avikan/25",
-    "op": "replace"
-  },
-  {
-    "value": "Номаде не помешало бы больше таких людей, как вы.",
-    "path": "/converse/avikan/avikan/26",
-    "op": "replace"
-  },
-  {
-    "value": "Вы слышали об этих 'глитчах', населяющих эту часть галактики? Мы должны уничтожить их, пока не стало слишком поздно.",
-    "path": "/converse/avikan/avikan/27",
-    "op": "replace"
-  },
-  {
-    "value": "Вас когда-нибудь вызывали в Совет?",
-    "path": "/converse/avikan/avikan/28",
-    "op": "replace"
-  },
-  {
-    "value": "У тебя уже есть права на катание на кефе?",
-    "path": "/converse/avikan/avikan/29",
-    "op": "replace"
-  },
-  {
-    "value": "А? О, простите, капитан! Я вас не заметил.",
-    "path": "/converse/avikan/avikan/30",
-    "op": "replace"
-  },
-  {
-    "value": "Вы уже нашли себе напарника?",
-    "path": "/converse/avikan/avikan/31",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, я знаю людей, которые хотели бы записаться в вашу команду.",
-    "path": "/converse/avikan/avikan/32",
-    "op": "replace"
-  },
-  {
-    "value": "Я забыл отчитаться за прошлую неделю... Надеюсь, это не доставит мне лишних неприятностей.",
-    "path": "/converse/avikan/avikan/33",
-    "op": "replace"
-  },
-  {
-    "value": "У вас есть какие-нибудь интересные истории, капитан?",
-    "path": "/converse/avikan/avikan/34",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс поддерживает вас, капитан.",
-    "path": "/converse/avikan/avikan/35",
-    "op": "replace"
-  },
-  {
-    "value": "В своих путешествиях вы наверняка встречаете много интересных людей.",
-    "path": "/converse/avikan/avikan/36",
-    "op": "replace"
-  },
-  {
-    "value": "Вам что-нибудь нужно, капитан?",
-    "path": "/converse/avikan/avikan/37",
-    "op": "replace"
-  },
-  {
-    "value": "Вы на задании?",
-    "path": "/converse/avikan/avikan/38",
-    "op": "replace"
-  },
-  {
-    "value": "Смотрители могли бы использовать кого-то вроде тебя.",
-    "path": "/converse/avikan/avikan/39",
-    "op": "replace"
-  },
-  {
-    "value": "Вы бы отлично подошли для Искателей, капитан.",
-    "path": "/converse/avikan/avikan/40",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что вы могли бы стать центларом, если бы захотели.",
-    "path": "/converse/avikan/avikan/41",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, звездоход.",
-    "path": "/converse/avikan/avikan/42",
-    "op": "replace"
-  },
-  {
-    "value": "Видели ли вы когда-нибудь в своих путешествиях руины Старейших?",
-    "path": "/converse/avikan/avikan/43",
-    "op": "replace"
-  },
-  {
-    "value": "Вы когда-нибудь убивали телла?",
-    "path": "/converse/avikan/avikan/44",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, капитан!",
-    "path": "/converse/avikan/avikan/45",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/avikan/46",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/avikan/47",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/avikan/48",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/avikan/49",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/avikan/50",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/avikan/51",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мне не нравишься.",
-    "path": "/converse/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Машина.",
-    "path": "/converse/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "У тебя нет души, машина.",
-    "path": "/converse/avikan/trink/2",
-    "op": "replace"
-  },
-  {
-    "value": "Смотрители следят за вами.",
-    "path": "/converse/avikan/trink/3",
-    "op": "replace"
-  },
-  {
-    "value": "Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина.",
-    "path": "/converse/avikan/trink/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я не разговариваю с машиной.",
-    "path": "/converse/avikan/trink/5",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь вы найдете мало друзей.",
-    "path": "/converse/avikan/trink/6",
-    "op": "replace"
-  },
-  {
-    "value": "Я не люблю машины.",
-    "path": "/converse/avikan/trink/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь.",
-    "path": "/converse/avikan/trink/8",
-    "op": "replace"
-  },
-  {
-    "value": "Кто вас построил?",
-    "path": "/converse/avikan/trink/9",
-    "op": "replace"
-  },
-  {
-    "value": "Убежище Звездохода принимает всех, даже машины.",
-    "path": "/converse/avikan/trink/10",
-    "op": "replace"
-  },
-  {
-    "value": "Сомневаюсь, что в Старсайт Инн есть хоть что-то, что можно пить.",
-    "path": "/converse/avikan/trink/11",
-    "op": "replace"
-  },
-  {
-    "value": "Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас.",
-    "path": "/converse/avikan/trink/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам.",
-    "path": "/converse/avikan/trink/13",
-    "op": "replace"
-  },
-  {
-    "value": "Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им.",
-    "path": "/converse/avikan/trink/14",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, вы могли бы обменять себя на бирже материалов.",
-    "path": "/converse/avikan/trink/15",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?",
-    "path": "/converse/avikan/trink/16",
-    "op": "replace"
-  },
-  {
-    "value": "Я вижу, вы получили статус гражданского. Впечатляет.",
-    "path": "/converse/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я не люблю машины, но вы, кажется, нормальный. Для машины, то есть.",
-    "path": "/converse/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Дроден с гражданским статусом. Как вы этого добились?",
-    "path": "/converse/avikan/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы только усугубляете ситуацию.",
-    "path": "/converse/avikan/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вы - пример того, какими могут быть машины.",
-    "path": "/converse/avikan/droden/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты мне не нравишься.",
-    "path": "/converse/avikan/droden/5",
-    "op": "replace"
-  },
-  {
-    "value": "Думаете, у вас есть душа? Ты думаешь неправильно.",
-    "path": "/converse/avikan/droden/6",
-    "op": "replace"
-  },
-  {
-    "value": "Бездушная машина. Убирайтесь отсюда.",
-    "path": "/converse/avikan/droden/7",
-    "op": "replace"
-  },
-  {
-    "value": "По крайней мере, ты на нашей стороне.",
-    "path": "/converse/avikan/droden/8",
-    "op": "replace"
-  },
-  {
-    "value": "Твоя голова станет отличным трофеем.",
-    "path": "/converse/avikan/droden/9",
-    "op": "replace"
-  },
-  {
-    "value": "Так ты настоящий ИИ? Я думал, ты будешь страшнее.",
-    "path": "/converse/avikan/droden/10",
-    "op": "replace"
-  },
-  {
-    "value": "Поскольку вы дроден, думаю, протокол взаимодействия с инопланетянами здесь не действует.",
-    "path": "/converse/avikan/droden/11",
-    "op": "replace"
-  },
-  {
-    "value": "Ты не получишь от меня любви.",
-    "path": "/converse/avikan/droden/12",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, дродены, годитесь только для того, чтобы выполнять рутинную работу.",
-    "path": "/converse/avikan/droden/13",
-    "op": "replace"
-  },
-  {
-    "value": "Машины тоже люди, но не говорите никому, что я это сказал.",
-    "path": "/converse/avikan/droden/14",
-    "op": "replace"
-  },
-  {
-    "value": "Хмф.",
-    "path": "/converse/avikan/droden/15",
-    "op": "replace"
-  },
-  {
-    "value": "Да?",
-    "path": "/converse/avikan/droden/16",
-    "op": "replace"
-  },
-  {
-    "value": "Моему кеффу нужен ремонт. Вы случайно не занимаетесь ремонтом?",
-    "path": "/converse/avikan/droden/17",
-    "op": "replace"
-  },
-  {
-    "value": "Подождите, ваш хозяин освободил вас?",
-    "path": "/converse/avikan/droden/18",
-    "op": "replace"
-  },
-  {
-    "value": "Ты не более чем ходячий мешок для мусора.",
-    "path": "/converse/avikan/droden/19",
-    "op": "replace"
-  },
-  {
-    "value": "Вы в сговоре с теллами, не так ли?",
-    "path": "/converse/avikan/droden/20",
-    "op": "replace"
-  },
-  {
-    "value": "Я слежу за тобой, машина.",
-    "path": "/converse/avikan/droden/21",
-    "op": "replace"
-  },
-  {
-    "value": "В наши дни лишь немногие дродены автономны. И это хорошо.",
-    "path": "/converse/avikan/droden/22",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, вы на нашей стороне. В противном случае мне придется вас ликвидировать.",
-    "path": "/converse/avikan/droden/23",
-    "op": "replace"
-  },
-  {
-    "value": "Не могу поверить, что твой хозяин действительно освободил тебя.",
-    "path": "/converse/avikan/droden/24",
-    "op": "replace"
-  },
-  {
-    "value": "Что вы за рама? Боевой? Ремонтный?",
-    "path": "/converse/avikan/droden/25",
-    "op": "replace"
-  },
-  {
-    "value": "Согласно протоколу взаимодействия... Ах да, по общему праву вы не считаетесь чужаком...",
-    "path": "/converse/avikan/droden/26",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, дродены, вымирающая раса.",
-    "path": "/converse/avikan/droden/27",
-    "op": "replace"
-  },
-  {
-    "value": "Разве ты не должен что-то чистить, машина?",
-    "path": "/converse/avikan/droden/28",
-    "op": "replace"
-  },
-  {
-    "value": "Если бы Радейс не согласился на то, чтобы дроден был свободен, полагаю, тебя бы здесь не было.",
-    "path": "/converse/avikan/droden/29",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, дроден.",
-    "path": "/converse/avikan/droden/30",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, выпивка вам ни к чему, но в гостинице Звездоцел Инн могут найтись другие вещи, которые вам пригодятся.",
-    "path": "/converse/avikan/droden/31",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/droden/32",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/droden/33",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/droden/34",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/droden/35",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/droden/36",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, длинноухий.",
-    "path": "/converse/avikan/aegi/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш род хорошо известен своими дипломатами.",
-    "path": "/converse/avikan/aegi/1",
-    "op": "replace"
-  },
-  {
-    "value": "Почему у вас такие острые уши? Я видел существ, очень похожих на вас, но с закругленными ушами.",
-    "path": "/converse/avikan/aegi/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эти ваши уши немного напоминают мне наши собственные закрылки.",
-    "path": "/converse/avikan/aegi/3",
-    "op": "replace"
-  },
-  {
-    "value": "У вас нет закрылков? Как оставаться в безопасности в пустыне?",
-    "path": "/converse/avikan/aegi/4",
-    "op": "replace"
-  },
-  {
-    "value": "У вас довольно маленькие глаза.",
-    "path": "/converse/avikan/aegi/5",
-    "op": "replace"
-  },
-  {
-    "value": "Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой.",
-    "path": "/converse/avikan/aegi/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/aegi/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/aegi/8",
-    "op": "replace"
-  },
-  {
-    "value": "Вы тот, кого называют человеком?",
-    "path": "/converse/avikan/aegi/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/aegi/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/aegi/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/aegi/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/aegi/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/aegi/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/aegi/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/aegi/16",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, незнакомец.",
-    "path": "/converse/avikan/akkimari/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что вы в основном падальщики. Не пытайтесь здесь ничего делать.",
-    "path": "/converse/avikan/akkimari/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вам лучше не быть одним из тех пиратов, о которых я слышал.",
-    "path": "/converse/avikan/akkimari/2",
-    "op": "replace"
-  },
-  {
-    "value": "У вас очень странные уши. Они похожи на трубки.",
-    "path": "/converse/avikan/akkimari/3",
-    "op": "replace"
-  },
-  {
-    "value": "У тебя мохнатый живот. Как странно.",
-    "path": "/converse/avikan/akkimari/4",
-    "op": "replace"
-  },
-  {
-    "value": "Для чего эти два твоих маленьких глаза?",
-    "path": "/converse/avikan/akkimari/5",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш живот выглядит мягким.",
-    "path": "/converse/avikan/akkimari/6",
-    "op": "replace"
-  },
-  {
-    "value": "Здравствуйте.",
-    "path": "/converse/avikan/akkimari/7",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу вам помочь?",
-    "path": "/converse/avikan/akkimari/8",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш род называется аккимари, верно?",
-    "path": "/converse/avikan/akkimari/9",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Убежище Звездохода, незнакомец!",
-    "path": "/converse/avikan/akkimari/10",
-    "op": "replace"
-  },
-  {
-    "value": "Почему бы тебе не пойти и не выпить в Звездоцел Инн?",
-    "path": "/converse/avikan/akkimari/11",
-    "op": "replace"
-  },
-  {
-    "value": "Вы еще не были у Валяна ас-Надата? Он может починить вашу технику.",
-    "path": "/converse/avikan/akkimari/12",
-    "op": "replace"
-  },
-  {
-    "value": "Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете.",
-    "path": "/converse/avikan/akkimari/13",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?",
-    "path": "/converse/avikan/akkimari/14",
-    "op": "replace"
-  },
-  {
-    "value": "Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов.",
-    "path": "/converse/avikan/akkimari/15",
-    "op": "replace"
-  },
-  {
-    "value": "Мне показалось, что я видел кого-то на тех астероидах вдалеке...",
-    "path": "/converse/avikan/akkimari/16",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/converse/default/default/0","value":
+"Мне нечего вам сказать."
+},{"op":"replace","path":"/converse/avikan/default/0","value":
+"Я не знаю, кто ты..."
+},{"op":"replace","path":"/converse/avikan/default/1","value":
+"Каким существом вы могли бы быть?"
+},{"op":"replace","path":"/converse/avikan/default/3","value":
+"Да?"
+},{"op":"replace","path":"/converse/avikan/default/4","value":
+"Приветствую тебя, незнакомец."
+},{"op":"replace","path":"/converse/avikan/default/5","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/default/6","value":
+"Я бы хотел однажды побывать в Валас Андра'вейхе..."
+},{"op":"replace","path":"/converse/avikan/default/7","value":
+"Хмф."
+},{"op":"replace","path":"/converse/avikan/default/8","value":
+"Вам что-нибудь нужно?"
+},{"op":"replace","path":"/converse/avikan/default/9","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/default/10","value":
+"Вы еще не были у Валиана ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/default/11","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/default/12","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/default/13","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/default/14","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/human/0","value":
+"Приветствую тебя, мягкокожий."
+},{"op":"replace","path":"/converse/avikan/human/1","value":
+"Я слышал, что ваш род может быть весьма враждебен к чужакам."
+},{"op":"replace","path":"/converse/avikan/human/2","value":
+"Ваша кожа такая мягкая!"
+},{"op":"replace","path":"/converse/avikan/human/3","value":
+"Не пытайтесь ничего делать здесь. Смотрители увидят."
+},{"op":"replace","path":"/converse/avikan/human/4","value":
+"У вас нет закрылков?"
+},{"op":"replace","path":"/converse/avikan/human/5","value":
+"Твои глаза такие маленькие..."
+},{"op":"replace","path":"/converse/avikan/human/6","value":
+"Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой."
+},{"op":"replace","path":"/converse/avikan/human/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/human/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/human/9","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/human/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/human/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/human/12","value":
+"Вы еще не были у Валиана ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/human/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/human/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/human/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/human/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/apex/0","value":
+"Приветствую тебя, волосатая тварь."
+},{"op":"replace","path":"/converse/avikan/apex/1","value":
+"Здесь нет Миникнога, если вам интересно."
+},{"op":"replace","path":"/converse/avikan/apex/2","value":
+"Ты немного воняешь..."
+},{"op":"replace","path":"/converse/avikan/apex/3","value":
+"Я никогда раньше не видел человека с таким количеством волос."
+},{"op":"replace","path":"/converse/avikan/apex/4","value":
+"Вы когда-нибудь бреетесь?"
+},{"op":"replace","path":"/converse/avikan/apex/5","value":
+"Ха! О, простите... Я просто подумал, что ты выглядишь забавно."
+},{"op":"replace","path":"/converse/avikan/apex/6","value":
+"Разве не жарко от такого меха?"
+},{"op":"replace","path":"/converse/avikan/apex/7","value":
+"Вы уверены, что вы не Миникног?"
+},{"op":"replace","path":"/converse/avikan/apex/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/apex/9","value":
+"Ты немного похож на аеги."
+},{"op":"replace","path":"/converse/avikan/apex/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/apex/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/apex/12","value":
+"Вы еще не были у Валиана ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/apex/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/apex/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/apex/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/apex/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/avian/0","value":
+"Приветствую тебя, пернатый."
+},{"op":"replace","path":"/converse/avikan/avian/1","value":
+"Эти ваши перья немного похожи на наши закрылки."
+},{"op":"replace","path":"/converse/avikan/avian/2","value":
+"Я слышал, что вы любите блестящие вещи."
+},{"op":"replace","path":"/converse/avikan/avian/3","value":
+"Вы умеете летать?"
+},{"op":"replace","path":"/converse/avikan/avian/4","value":
+"Я думал, у вас есть крылья."
+},{"op":"replace","path":"/converse/avikan/avian/5","value":
+"Я впечатлен тем, что вы можете говорить на нашем языке с помощью своего клюва."
+},{"op":"replace","path":"/converse/avikan/avian/6","value":
+"Вы, кажется, музыкальный человек. Спойте мне песню, ладно?"
+},{"op":"replace","path":"/converse/avikan/avian/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/avian/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/avian/9","value":
+"Авикан, авиан... Они звучат немного похоже, нет?"
+},{"op":"replace","path":"/converse/avikan/avian/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/avian/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/avian/12","value":
+"Вы еще не были у Валиана ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/avian/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/avian/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/avian/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/avian/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/floran/0","value":
+"Приветствую тебя, растение."
+},{"op":"replace","path":"/converse/avikan/floran/1","value":
+"Ваш вид действительно плотоядный? Я бы больше склонялся к тому, что это вас едят."
+},{"op":"replace","path":"/converse/avikan/floran/2","value":
+"Вы съедобны? Я довольно давно не ел овощей."
+},{"op":"replace","path":"/converse/avikan/floran/3","value":
+"Никакой поножовщины, растение."
+},{"op":"replace","path":"/converse/avikan/floran/4","value":
+"Тебе не кажется, что ломать вещи веселее, чем колоть?"
+},{"op":"replace","path":"/converse/avikan/floran/5","value":
+"Вы кажетесь способным охотником."
+},{"op":"replace","path":"/converse/avikan/floran/6","value":
+"Ваш вид делает весьма впечатляющие копья."
+},{"op":"replace","path":"/converse/avikan/floran/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/floran/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/floran/9","value":
+"Как у растения, есть ли у вас кровь?"
+},{"op":"replace","path":"/converse/avikan/floran/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/floran/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/floran/12","value":
+"Вы еще не были у Валиана ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/floran/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/floran/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/floran/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/floran/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/glitch/0","value":
+"Ты мне не нравишься."
+},{"op":"replace","path":"/converse/avikan/glitch/1","value":
+"Машина."
+},{"op":"replace","path":"/converse/avikan/glitch/2","value":
+"У тебя нет души, машина."
+},{"op":"replace","path":"/converse/avikan/glitch/3","value":
+"Смотрители следят за вами."
+},{"op":"replace","path":"/converse/avikan/glitch/4","value":
+"Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина."
+},{"op":"replace","path":"/converse/avikan/glitch/5","value":
+"Я не разговариваю с машиной."
+},{"op":"replace","path":"/converse/avikan/glitch/6","value":
+"Здесь вы найдете мало друзей."
+},{"op":"replace","path":"/converse/avikan/glitch/7","value":
+"Я не люблю машины."
+},{"op":"replace","path":"/converse/avikan/glitch/8","value":
+"Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь."
+},{"op":"replace","path":"/converse/avikan/glitch/9","value":
+"Кто вас построил?"
+},{"op":"replace","path":"/converse/avikan/glitch/10","value":
+"Убежище Звездохода принимает всех, даже машины."
+},{"op":"replace","path":"/converse/avikan/glitch/11","value":
+"Сомневаюсь, что в Звездоцел Инн есть хоть что-то, что можно пить."
+},{"op":"replace","path":"/converse/avikan/glitch/12","value":
+"Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас."
+},{"op":"replace","path":"/converse/avikan/glitch/13","value":
+"Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам."
+},{"op":"replace","path":"/converse/avikan/glitch/14","value":
+"Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им."
+},{"op":"replace","path":"/converse/avikan/glitch/15","value":
+"Возможно, вы могли бы обменять себя на бирже материалов."
+},{"op":"replace","path":"/converse/avikan/glitch/16","value":
+"Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?"
+},{"op":"replace","path":"/converse/avikan/hylotl/0","value":
+"Приветствую тебя, мокрый."
+},{"op":"replace","path":"/converse/avikan/hylotl/1","value":
+"Ты не боишься, что засохнешь здесь?"
+},{"op":"replace","path":"/converse/avikan/hylotl/2","value":
+"Твоя кожа вся мокрая!"
+},{"op":"replace","path":"/converse/avikan/hylotl/3","value":
+"Я слышал, что ваш род любит тайны. Вы должны исследовать Старейших."
+},{"op":"replace","path":"/converse/avikan/hylotl/4","value":
+"Я могу только представить, как выглядит мир воды..."
+},{"op":"replace","path":"/converse/avikan/hylotl/5","value":
+"Не могли бы вы когда-нибудь научить меня плавать?"
+},{"op":"replace","path":"/converse/avikan/hylotl/6","value":
+"Вас Вха'лейх, существо воды."
+},{"op":"replace","path":"/converse/avikan/hylotl/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/hylotl/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/hylotl/9","value":
+"Клянусь Радейсом, ты весь мокрый!"
+},{"op":"replace","path":"/converse/avikan/hylotl/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/hylotl/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/hylotl/12","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/hylotl/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/hylotl/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/hylotl/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/hylotl/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/novakid/0","value":
+"Приветствую тебя, сияющий."
+},{"op":"replace","path":"/converse/avikan/novakid/1","value":
+"Откуда ты взялся? Ах, да, вы, наверное, забыли."
+},{"op":"replace","path":"/converse/avikan/novakid/2","value":
+"Ты помнишь, что ты делал вчера?"
+},{"op":"replace","path":"/converse/avikan/novakid/3","value":
+"Я видел ваш космический корабль, когда вы шли сюда. Он выглядел немного странно."
+},{"op":"replace","path":"/converse/avikan/novakid/4","value":
+"Из чего вы сделаны?"
+},{"op":"replace","path":"/converse/avikan/novakid/5","value":
+"Я бы хотел, чтобы вы были со мной в следующий раз, когда я буду погружаться под землю."
+},{"op":"replace","path":"/converse/avikan/novakid/6","value":
+"Вы не сможете играть в прятки."
+},{"op":"replace","path":"/converse/avikan/novakid/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/novakid/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/novakid/9","value":
+"Вы бог?"
+},{"op":"replace","path":"/converse/avikan/novakid/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/novakid/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/novakid/12","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/novakid/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/novakid/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/novakid/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/novakid/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/avikan/0","value":
+"Приветствую вас, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/1","value":
+"Приветствую тебя, друг."
+},{"op":"replace","path":"/converse/avikan/avikan/2","value":
+"Вас Вха'лейх."
+},{"op":"replace","path":"/converse/avikan/avikan/3","value":
+"Брат, добро пожаловать!"
+},{"op":"replace","path":"/converse/avikan/avikan/4","value":
+"Добро пожаловать в Убежище Звездохода, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/5","value":
+"Поймали что-нибудь интересное за последнее время?"
+},{"op":"replace","path":"/converse/avikan/avikan/6","value":
+"Капитан! Это большая честь, сэр!"
+},{"op":"replace","path":"/converse/avikan/avikan/7","value":
+"Я скучаю по Кадавану..."
+},{"op":"replace","path":"/converse/avikan/avikan/8","value":
+"Говорю вам, Совет близок к нахождению Валас Андра'вейха!"
+},{"op":"replace","path":"/converse/avikan/avikan/9","value":
+"Чистили ли вы недавно заслонки?"
+},{"op":"replace","path":"/converse/avikan/avikan/10","value":
+"Подождите, у вас есть собственный корабль? Это должно быть воплощение мечты!"
+},{"op":"replace","path":"/converse/avikan/avikan/11","value":
+"Я надеюсь, что ты соблюдаешь общее авиканское законодательство, друг. В противном случае у нас могут возникнуть проблемы."
+},{"op":"replace","path":"/converse/avikan/avikan/12","value":
+"Вы недавно демонтировали какие-нибудь машины?"
+},{"op":"replace","path":"/converse/avikan/avikan/13","value":
+"Совет счел вас достойным собственного корабля? Что ж, если они считают вас способным, то и я тоже."
+},{"op":"replace","path":"/converse/avikan/avikan/14","value":
+"Ничего, кроме уважения к капитану флота. Да здравствует Номада!"
+},{"op":"replace","path":"/converse/avikan/avikan/15","value":
+"Клянусь Радейсом, вы выглядите так, словно прошли через ад!"
+},{"op":"replace","path":"/converse/avikan/avikan/16","value":
+"Я бы хотел быть таким же капитаном, как вы..."
+},{"op":"replace","path":"/converse/avikan/avikan/17","value":
+"Не могли бы вы поручиться за меня в Совете? Я подал прошение о приеме в капитаны флота, и мне нужна любая поддержка!"
+},{"op":"replace","path":"/converse/avikan/avikan/18","value":
+"Есть что сообщить?"
+},{"op":"replace","path":"/converse/avikan/avikan/19","value":
+"Вы не видели интересных репортажей в последнее время?"
+},{"op":"replace","path":"/converse/avikan/avikan/20","value":
+"Надеюсь, вы вносите свой вклад в дело Номада."
+},{"op":"replace","path":"/converse/avikan/avikan/21","value":
+"Роль капитана флота сопряжена с огромным количеством обязанностей. Вы уверены, что справитесь с ними?"
+},{"op":"replace","path":"/converse/avikan/avikan/22","value":
+"Вы когда-нибудь совершали паломничество в Вас Вха'лейх?"
+},{"op":"replace","path":"/converse/avikan/avikan/23","value":
+"Хотел бы я отправиться в такие приключения, как вы, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/24","value":
+"Вам нужен кто-нибудь в команду?"
+},{"op":"replace","path":"/converse/avikan/avikan/25","value":
+"Надеюсь, вы хорошо обращаетесь со своим домашним песчаным червем. Эти твари могут стать очень агрессивными, если их игнорировать."
+},{"op":"replace","path":"/converse/avikan/avikan/26","value":
+"Номаде не помешало бы больше таких людей, как вы."
+},{"op":"replace","path":"/converse/avikan/avikan/27","value":
+"Вы слышали об этих 'глитчах', населяющих эту часть галактики? Мы должны уничтожить их, пока не стало слишком поздно."
+},{"op":"replace","path":"/converse/avikan/avikan/28","value":
+"Вас когда-нибудь вызывали в Совет?"
+},{"op":"replace","path":"/converse/avikan/avikan/29","value":
+"У тебя уже есть права на катание на кефе?"
+},{"op":"replace","path":"/converse/avikan/avikan/30","value":
+"А? О, простите, капитан! Я вас не заметил."
+},{"op":"replace","path":"/converse/avikan/avikan/31","value":
+"Вы уже нашли себе напарника?"
+},{"op":"replace","path":"/converse/avikan/avikan/32","value":
+"Возможно, я знаю людей, которые хотели бы записаться в вашу команду."
+},{"op":"replace","path":"/converse/avikan/avikan/33","value":
+"Я забыл отчитаться за прошлую неделю... Надеюсь, это не доставит мне лишних неприятностей."
+},{"op":"replace","path":"/converse/avikan/avikan/34","value":
+"У вас есть какие-нибудь интересные истории, капитан?"
+},{"op":"replace","path":"/converse/avikan/avikan/35","value":
+"Радейс поддерживает вас, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/36","value":
+"В своих путешествиях вы наверняка встречаете много интересных людей."
+},{"op":"replace","path":"/converse/avikan/avikan/37","value":
+"Вам что-нибудь нужно, капитан?"
+},{"op":"replace","path":"/converse/avikan/avikan/38","value":
+"Вы на задании?"
+},{"op":"replace","path":"/converse/avikan/avikan/39","value":
+"Смотрители могли бы использовать кого-то вроде тебя."
+},{"op":"replace","path":"/converse/avikan/avikan/40","value":
+"Вы бы отлично подошли для Искателей, капитан."
+},{"op":"replace","path":"/converse/avikan/avikan/41","value":
+"Я уверен, что вы могли бы стать центларом, если бы захотели."
+},{"op":"replace","path":"/converse/avikan/avikan/42","value":
+"Добро пожаловать в Убежище Звездохода, звездоход."
+},{"op":"replace","path":"/converse/avikan/avikan/43","value":
+"Видели ли вы когда-нибудь в своих путешествиях руины Старейших?"
+},{"op":"replace","path":"/converse/avikan/avikan/44","value":
+"Вы когда-нибудь убивали телла?"
+},{"op":"replace","path":"/converse/avikan/avikan/45","value":
+"Добро пожаловать в Убежище Звездохода, капитан!"
+},{"op":"replace","path":"/converse/avikan/avikan/46","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/avikan/47","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/avikan/48","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/avikan/49","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/avikan/50","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/avikan/51","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/trink/0","value":
+"Ты мне не нравишься."
+},{"op":"replace","path":"/converse/avikan/trink/1","value":
+"Машина."
+},{"op":"replace","path":"/converse/avikan/trink/2","value":
+"У тебя нет души, машина."
+},{"op":"replace","path":"/converse/avikan/trink/3","value":
+"Смотрители следят за вами."
+},{"op":"replace","path":"/converse/avikan/trink/4","value":
+"Протокол взаимодействия с чужаками Б1 авиканского общего права требует, чтобы я игнорировал тебя, машина."
+},{"op":"replace","path":"/converse/avikan/trink/5","value":
+"Я не разговариваю с машиной."
+},{"op":"replace","path":"/converse/avikan/trink/6","value":
+"Здесь вы найдете мало друзей."
+},{"op":"replace","path":"/converse/avikan/trink/7","value":
+"Я не люблю машины."
+},{"op":"replace","path":"/converse/avikan/trink/8","value":
+"Я могу терпеть таких, как вы, но это не значит, что вы мне нравитесь."
+},{"op":"replace","path":"/converse/avikan/trink/9","value":
+"Кто вас построил?"
+},{"op":"replace","path":"/converse/avikan/trink/10","value":
+"Убежище Звездохода принимает всех, даже машины."
+},{"op":"replace","path":"/converse/avikan/trink/11","value":
+"Сомневаюсь, что в Старсайт Инн есть хоть что-то, что можно пить."
+},{"op":"replace","path":"/converse/avikan/trink/12","value":
+"Валян ас-Надата ремонтирует машины. Возможно, он сможет починить и вас."
+},{"op":"replace","path":"/converse/avikan/trink/13","value":
+"Одийн ас-Радейс предлагает оружие, но я не уверен, что он согласится предложить вам."
+},{"op":"replace","path":"/converse/avikan/trink/14","value":
+"Неподалеку отсюда есть магазин телепортов. Воспользуйтесь им."
+},{"op":"replace","path":"/converse/avikan/trink/15","value":
+"Возможно, вы могли бы обменять себя на бирже материалов."
+},{"op":"replace","path":"/converse/avikan/trink/16","value":
+"Почему бы тебе не оставить меня и не пойти посидеть на тех астероидах вдалеке?"
+},{"op":"replace","path":"/converse/avikan/droden/0","value":
+"Я вижу, вы получили статус гражданского. Впечатляет."
+},{"op":"replace","path":"/converse/avikan/droden/1","value":
+"Я не люблю машины, но вы, кажется, нормальный. Для машины, то есть."
+},{"op":"replace","path":"/converse/avikan/droden/2","value":
+"Дроден с гражданским статусом. Как вы этого добились?"
+},{"op":"replace","path":"/converse/avikan/droden/3","value":
+"Вы только усугубляете ситуацию."
+},{"op":"replace","path":"/converse/avikan/droden/4","value":
+"Вы - пример того, какими могут быть машины."
+},{"op":"replace","path":"/converse/avikan/droden/5","value":
+"Ты мне не нравишься."
+},{"op":"replace","path":"/converse/avikan/droden/6","value":
+"Думаете, у вас есть душа? Ты думаешь неправильно."
+},{"op":"replace","path":"/converse/avikan/droden/7","value":
+"Бездушная машина. Убирайтесь отсюда."
+},{"op":"replace","path":"/converse/avikan/droden/8","value":
+"По крайней мере, ты на нашей стороне."
+},{"op":"replace","path":"/converse/avikan/droden/9","value":
+"Твоя голова станет отличным трофеем."
+},{"op":"replace","path":"/converse/avikan/droden/10","value":
+"Так ты настоящий ИИ? Я думал, ты будешь страшнее."
+},{"op":"replace","path":"/converse/avikan/droden/11","value":
+"Поскольку вы дроден, думаю, протокол взаимодействия с инопланетянами здесь не действует."
+},{"op":"replace","path":"/converse/avikan/droden/12","value":
+"Ты не получишь от меня любви."
+},{"op":"replace","path":"/converse/avikan/droden/13","value":
+"Вы, дродены, годитесь только для того, чтобы выполнять рутинную работу."
+},{"op":"replace","path":"/converse/avikan/droden/14","value":
+"Машины тоже люди, но не говорите никому, что я это сказал."
+},{"op":"replace","path":"/converse/avikan/droden/15","value":
+"Хмф."
+},{"op":"replace","path":"/converse/avikan/droden/16","value":
+"Да?"
+},{"op":"replace","path":"/converse/avikan/droden/17","value":
+"Моему кеффу нужен ремонт. Вы случайно не занимаетесь ремонтом?"
+},{"op":"replace","path":"/converse/avikan/droden/18","value":
+"Подождите, ваш хозяин освободил вас?"
+},{"op":"replace","path":"/converse/avikan/droden/19","value":
+"Ты не более чем ходячий мешок для мусора."
+},{"op":"replace","path":"/converse/avikan/droden/20","value":
+"Вы в сговоре с теллами, не так ли?"
+},{"op":"replace","path":"/converse/avikan/droden/21","value":
+"Я слежу за тобой, машина."
+},{"op":"replace","path":"/converse/avikan/droden/22","value":
+"В наши дни лишь немногие дродены автономны. И это хорошо."
+},{"op":"replace","path":"/converse/avikan/droden/23","value":
+"Надеюсь, вы на нашей стороне. В противном случае мне придется вас ликвидировать."
+},{"op":"replace","path":"/converse/avikan/droden/24","value":
+"Не могу поверить, что твой хозяин действительно освободил тебя."
+},{"op":"replace","path":"/converse/avikan/droden/25","value":
+"Что вы за рама? Боевой? Ремонтный?"
+},{"op":"replace","path":"/converse/avikan/droden/26","value":
+"Согласно протоколу взаимодействия... Ах да, по общему праву вы не считаетесь чужаком..."
+},{"op":"replace","path":"/converse/avikan/droden/27","value":
+"Вы, дродены, вымирающая раса."
+},{"op":"replace","path":"/converse/avikan/droden/28","value":
+"Разве ты не должен что-то чистить, машина?"
+},{"op":"replace","path":"/converse/avikan/droden/29","value":
+"Если бы Радейс не согласился на то, чтобы дроден был свободен, полагаю, тебя бы здесь не было."
+},{"op":"replace","path":"/converse/avikan/droden/30","value":
+"Добро пожаловать в Убежище Звездохода, дроден."
+},{"op":"replace","path":"/converse/avikan/droden/31","value":
+"Думаю, выпивка вам ни к чему, но в гостинице Звездоцел Инн могут найтись другие вещи, которые вам пригодятся."
+},{"op":"replace","path":"/converse/avikan/droden/32","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/droden/33","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/droden/34","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/droden/35","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/droden/36","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/aegi/0","value":
+"Приветствую тебя, длинноухий."
+},{"op":"replace","path":"/converse/avikan/aegi/1","value":
+"Ваш род хорошо известен своими дипломатами."
+},{"op":"replace","path":"/converse/avikan/aegi/2","value":
+"Почему у вас такие острые уши? Я видел существ, очень похожих на вас, но с закругленными ушами."
+},{"op":"replace","path":"/converse/avikan/aegi/3","value":
+"Эти ваши уши немного напоминают мне наши собственные закрылки."
+},{"op":"replace","path":"/converse/avikan/aegi/4","value":
+"У вас нет закрылков? Как оставаться в безопасности в пустыне?"
+},{"op":"replace","path":"/converse/avikan/aegi/5","value":
+"У вас довольно маленькие глаза."
+},{"op":"replace","path":"/converse/avikan/aegi/6","value":
+"Я удивлен, что вы можете переносить здешнюю жару. Многие инопланетяне считают ее невыносимой."
+},{"op":"replace","path":"/converse/avikan/aegi/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/aegi/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/aegi/9","value":
+"Вы тот, кого называют человеком?"
+},{"op":"replace","path":"/converse/avikan/aegi/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/aegi/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/aegi/12","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/aegi/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/aegi/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/aegi/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/aegi/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+},{"op":"replace","path":"/converse/avikan/akkimari/0","value":
+"Приветствую тебя, незнакомец."
+},{"op":"replace","path":"/converse/avikan/akkimari/1","value":
+"Я слышал, что вы в основном падальщики. Не пытайтесь здесь ничего делать."
+},{"op":"replace","path":"/converse/avikan/akkimari/2","value":
+"Вам лучше не быть одним из тех пиратов, о которых я слышал."
+},{"op":"replace","path":"/converse/avikan/akkimari/3","value":
+"У вас очень странные уши. Они похожи на трубки."
+},{"op":"replace","path":"/converse/avikan/akkimari/4","value":
+"У тебя мохнатый живот. Как странно."
+},{"op":"replace","path":"/converse/avikan/akkimari/5","value":
+"Для чего эти два твоих маленьких глаза?"
+},{"op":"replace","path":"/converse/avikan/akkimari/6","value":
+"Ваш живот выглядит мягким."
+},{"op":"replace","path":"/converse/avikan/akkimari/7","value":
+"Здравствуйте."
+},{"op":"replace","path":"/converse/avikan/akkimari/8","value":
+"Я могу вам помочь?"
+},{"op":"replace","path":"/converse/avikan/akkimari/9","value":
+"Ваш род называется аккимари, верно?"
+},{"op":"replace","path":"/converse/avikan/akkimari/10","value":
+"Добро пожаловать в Убежище Звездохода, незнакомец!"
+},{"op":"replace","path":"/converse/avikan/akkimari/11","value":
+"Почему бы тебе не пойти и не выпить в Звездоцел Инн?"
+},{"op":"replace","path":"/converse/avikan/akkimari/12","value":
+"Вы еще не были у Валяна ас-Надата? Он может починить вашу технику."
+},{"op":"replace","path":"/converse/avikan/akkimari/13","value":
+"Одийн ас-Радейс - лучший торговец оружием, которого вы здесь найдете."
+},{"op":"replace","path":"/converse/avikan/akkimari/14","value":
+"Здесь, в Убежище Звездохода, есть магазин телепортов. Вы уже были там?"
+},{"op":"replace","path":"/converse/avikan/akkimari/15","value":
+"Если у вас остались материалы, вы можете обменять их на жетоны рядом с магазином телепортов."
+},{"op":"replace","path":"/converse/avikan/akkimari/16","value":
+"Мне показалось, что я видел кого-то на тех астероидах вдалеке..."
+}]

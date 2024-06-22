@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Корабельный шкафчик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик, для хранения вещей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельная система хранения.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство, в котором хранится множество предметов для безопасного хранения.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранение.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Система хранения на этом корабле действительно полезна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для хранения вещей. Это удобно!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантное решение для хранения.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для хранения вещей.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный шкафчик. Полезно для хранения вещей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный шкафчик. Полезно для хранения артефактов, найденных во время разведки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный шкафчик. По иронии судьбы, его нельзя запереть.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен корабельный шкафчик. Сканирование содержимого не удалось.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабль-шкафчик, для хранения вещей-много.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Корабельный шкафчик"
+},{"op":"replace","path":"/description","value":
+"Шкафчик, для хранения вещей."
+},{"op":"replace","path":"/apexDescription","value":
+"Корабельная система хранения."
+},{"op":"replace","path":"/avianDescription","value":
+"Устройство, в котором хранится множество предметов для безопасного хранения."
+},{"op":"replace","path":"/floranDescription","value":
+"Хранение."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Система хранения на этом корабле действительно полезна."
+},{"op":"replace","path":"/humanDescription","value":
+"Шкафчик для хранения вещей. Это удобно!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантное решение для хранения."
+},{"op":"replace","path":"/novakidDescription","value":
+"Шкафчик для хранения вещей."
+},{"op":"replace","path":"/aegiDescription","value":
+"Корабельный шкафчик. Полезно для хранения вещей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Корабельный шкафчик. Полезно для хранения артефактов, найденных во время разведки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Корабельный шкафчик. По иронии судьбы, его нельзя запереть."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен корабельный шкафчик. Сканирование содержимого не удалось."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Корабль-шкафчик, для хранения вещей-много."
+}]

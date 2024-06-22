@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прототип корпуса механизма с открытым верхом, разработанный Enerth Engineering.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механическое тело Стража-00",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Протов. корпуса механизма с открытым верхом, разработанный Enerth Engineering."
+},{"op":"replace","path":"/shortdescription","value":
+"Механическое тело Стража-00"
+}]

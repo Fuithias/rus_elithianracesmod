@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Полосатая панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полированная металлическая панель, украшенная цветной полосой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. Эта панель сильно отполирована.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран наслаждается цветами.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшенная металлическая панель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Украшенная металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нравится украшение-цветное.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Полосатая панель Альянса"
+},{"op":"replace","path":"/description","value":
+"Полированная металлическая панель, украшенная цветной полосой."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. Эта панель сильно отполирована."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран наслаждается цветами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Украшенная металлическая панель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Украшенная металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нравится украшение-цветное."
+}]

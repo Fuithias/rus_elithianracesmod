@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авиканское яйцо",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо Авикан. Зародыш новой жизни.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное яйцо. Он кажется немного кожаным.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это яйцо? Выглядит... странно...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца для еды?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарование. Это яйцо породит новую жизнь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное яйцо. Я не думаю, что это съедобно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Есть красота в создании новой жизни.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это яйцо может вылупиться через несколько месяцев.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Одинокое яйцо Авикана. Интересно, кто это положил?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо с кожистой кожицей. Скорее всего Авикан.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо Авикан. Предполагаемая дата вылупления: неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо-инопланетянин. Акки приготовь, вкусно-очень!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканское яйцо"
+},{"op":"replace","path":"/description","value":
+"Яйцо Авикан. Зародыш новой жизни."
+},{"op":"replace","path":"/apexDescription","value":
+"Инопланетное яйцо. Он кажется немного кожаным."
+},{"op":"replace","path":"/avianDescription","value":
+"Это яйцо? Выглядит... странно..."
+},{"op":"replace","path":"/floranDescription","value":
+"Яйца для еды?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарование. Это яйцо породит новую жизнь."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетное яйцо. Я не думаю, что это съедобно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Есть красота в создании новой жизни."
+},{"op":"replace","path":"/aegiDescription","value":
+"Это яйцо может вылупиться через несколько месяцев."
+},{"op":"replace","path":"/avikanDescription","value":
+"Одинокое яйцо Авикана. Интересно, кто это положил?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Яйцо с кожистой кожицей. Скорее всего Авикан."
+},{"op":"replace","path":"/drodenDescription","value":
+"Яйцо Авикан. Предполагаемая дата вылупления: неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Яйцо-инопланетянин. Акки приготовь, вкусно-очень!"
+}]

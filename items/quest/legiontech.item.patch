@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Уникальный переключатель, используемый в редком вооружении дроденов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Переключатель Легиона^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Уникальный переключатель, используемый в редком вооружении дроденов."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Переключатель Легиона^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

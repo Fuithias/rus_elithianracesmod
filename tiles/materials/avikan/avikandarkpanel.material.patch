@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Темная панель авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темная металлическая панель, идеально подходит для украшения комнаты.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Эта панель могла бы хорошо смотреться как украшение комнаты.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панели будут хорошо смотреться в корабле Флорана.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какая-то металлическая панель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Темная металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-темная, очень гладкая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Темная панель авикан"
+},{"op":"replace","path":"/description","value":
+"Темная металлическая панель, идеально подходит для украшения комнаты."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Эта панель могла бы хорошо смотреться как украшение комнаты."
+},{"op":"replace","path":"/floranDescription","value":
+"Панели будут хорошо смотреться в корабле Флорана."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какая-то металлическая панель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Темная металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-темная, очень гладкая."
+}]

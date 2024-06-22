@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Круизер Двигатель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель крейсера Акрис.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощный двигатель для огромного корабля.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой двигатель для корабля.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Благоговейный трепет. Это массивный двигатель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот ЭТО двигатель!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель для столь же массивного корабля.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Огромный двигатель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель для большого крейсера Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель для большого инопланетного корабля.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Массивный двигатель. Это удивительно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен корабельный двигатель. Обнаружены необычные пропорции.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель-мощный для летающего корабля. Бери топлива-много, давай тягу-больше.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Круизер Двигатель"
+},{"op":"replace","path":"/description","value":
+"Массивный двигатель крейсера Акрис."
+},{"op":"replace","path":"/apexDescription","value":
+"Массивный двигатель."
+},{"op":"replace","path":"/avianDescription","value":
+"Мощный двигатель для огромного корабля."
+},{"op":"replace","path":"/floranDescription","value":
+"Большой двигатель для корабля."
+},{"op":"replace","path":"/glitchDescription","value":
+"Благоговейный трепет. Это массивный двигатель."
+},{"op":"replace","path":"/humanDescription","value":
+"Вот ЭТО двигатель!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Массивный двигатель для столь же массивного корабля."
+},{"op":"replace","path":"/novakidDescription","value":
+"Огромный двигатель."
+},{"op":"replace","path":"/aegiDescription","value":
+"Массивный двигатель для большого крейсера Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Массивный двигатель для большого инопланетного корабля."
+},{"op":"replace","path":"/trinkDescription","value":
+"Массивный двигатель. Это удивительно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен корабельный двигатель. Обнаружены необычные пропорции."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Двигатель-мощный для летающего корабля. Бери топлива-много, давай тягу-больше."
+}]

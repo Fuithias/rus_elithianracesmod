@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Крепкие специи из Кадавана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кадаванские специи",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Крепкие специи из Кадавана."
+},{"op":"replace","path":"/shortdescription","value":
+"Кадаванские специи"
+}]

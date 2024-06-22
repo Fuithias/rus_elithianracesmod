@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Королева стаи Жалокрылов Кадавана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Королева Жалокрылов",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Королева стаи Жалокрылов Кадавана."
+},{"op":"replace","path":"/shortdescription","value":
+"Королева Жалокрылов"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя Борато",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение богато калориями и имеет и тот и другой вкус.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это немного похоже на большую картофелину.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне это растение кажется очень вкусным.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Твердый и вкусный корень, только что очищенный от грязи.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знающий. Борато можно приготовить десятками разных способов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Есть ли у этой штуки столько же применений, как у картофеля? Это определенно выглядит со стороны.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но полезный овощ.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какой-то жесткий корень.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Согласно учебникам истории, борато было создано из местной элитийской флоры и небольшого количества ДНК древнего картофеля.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это что-то вроде болбона? Он не так хорошо пахнет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Когда Эги впервые прибыли на Элитию, они занимались обширной биоинженерией. Это растение – результат тех дней.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена чужеродная флора. Отмечено сходство с болбоном.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки видит растительный жир, делает Акки тоже толстым?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя Борато"
+},{"op":"replace","path":"/description","value":
+"Растение богато калориями и имеет и тот и другой вкус."
+},{"op":"replace","path":"/apexDescription","value":
+"Это немного похоже на большую картофелину."
+},{"op":"replace","path":"/avianDescription","value":
+"Мне это растение кажется очень вкусным."
+},{"op":"replace","path":"/floranDescription","value":
+"Твердый и вкусный корень, только что очищенный от грязи."
+},{"op":"replace","path":"/glitchDescription","value":
+"Знающий. Борато можно приготовить десятками разных способов."
+},{"op":"replace","path":"/humanDescription","value":
+"Есть ли у этой штуки столько же применений, как у картофеля? Это определенно выглядит со стороны."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой, но полезный овощ."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какой-то жесткий корень."
+},{"op":"replace","path":"/aegiDescription","value":
+"Согласно учебникам истории, борато было создано из местной элитийской флоры и небольшого количества ДНК древнего картофеля."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это что-то вроде болбона? Он не так хорошо пахнет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Когда Эги впервые прибыли на Элитию, они занимались обширной биоинженерией. Это растение – результат тех дней."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена чужеродная флора. Отмечено сходство с болбоном."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки видит растительный жир, делает Акки тоже толстым?"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Маска телла для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска телла",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Маска телла для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска телла"
+}]

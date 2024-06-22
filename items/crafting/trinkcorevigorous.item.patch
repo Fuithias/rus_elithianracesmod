@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​для кольцевой брони. Увеличивает запасы здоровья пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Схема Core-S",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​для кольцевой брони. Увеличивает запасы здоровья пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Схема Core-S"
+}]

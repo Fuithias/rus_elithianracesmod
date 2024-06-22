@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя Ачваса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кораллоподобное растение, выделяющее вкусное желе.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странное растение, производящее странное желе.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Желе из этого растения действительно необычное, но тоже как-то вкусное.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродные растения делают странное желе.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Отвращение. Из пор этого растения сочится желе!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фу! Это желе сочится из растения?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычное растение, производящее необычное желеобразное вещество.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этого растения получается странное желе.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Желе, которое производит это растение, питательно, но на вкус оно не очень приятное...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение, производящее инопланетное желе. Мне действительно не стоит пытаться это съесть...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Желе из этого растения может сделать мои схемы липкими. Лучше будьте осторожны.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена местная флора Акриса. Ачвасс производит необычные желеобразные вещества.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Желе-вкусно, Акки хочется еще, еще, еще!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя Ачваса"
+},{"op":"replace","path":"/description","value":
+"Кораллоподобное растение, выделяющее вкусное желе."
+},{"op":"replace","path":"/apexDescription","value":
+"Странное растение, производящее странное желе."
+},{"op":"replace","path":"/avianDescription","value":
+"Желе из этого растения действительно необычное, но тоже как-то вкусное."
+},{"op":"replace","path":"/floranDescription","value":
+"Чужеродные растения делают странное желе."
+},{"op":"replace","path":"/glitchDescription","value":
+"Отвращение. Из пор этого растения сочится желе!"
+},{"op":"replace","path":"/humanDescription","value":
+"Фу! Это желе сочится из растения?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Необычное растение, производящее необычное желеобразное вещество."
+},{"op":"replace","path":"/novakidDescription","value":
+"Из этого растения получается странное желе."
+},{"op":"replace","path":"/aegiDescription","value":
+"Желе, которое производит это растение, питательно, но на вкус оно не очень приятное..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение, производящее инопланетное желе. Мне действительно не стоит пытаться это съесть..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Желе из этого растения может сделать мои схемы липкими. Лучше будьте осторожны."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена местная флора Акриса. Ачвасс производит необычные желеобразные вещества."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Желе-вкусно, Акки хочется еще, еще, еще!"
+}]

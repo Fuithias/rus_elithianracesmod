@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Освежающий, но несколько безвкусный кактус.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Разрезанный кактус Кадаван",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Освежающий, но несколько безвкусный кактус."
+},{"op":"replace","path":"/shortdescription","value":
+"Разрезанный кактус Кадаван"
+}]

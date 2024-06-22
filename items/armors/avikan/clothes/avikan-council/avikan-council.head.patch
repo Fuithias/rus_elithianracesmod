@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Кожаный плащ, который носят чиновники Номады.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плащ советника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Кожаный плащ, который носят чиновники Номады."
+},{"op":"replace","path":"/shortdescription","value":
+"Плащ советника"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Назад в посольство Креона",
-    "path": "/destinations/name",
-    "op": "replace"
-  },
-  {
-    "value": "Вернуться в Элитию",
-    "path": "/destinations/planetName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/destinations/name","value":
+"Назад в посольство Креона"
+},{"op":"replace","path":"/destinations/planetName","value":
+"Вернуться в Элитию"
+}]

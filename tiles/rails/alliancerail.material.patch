@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Союзный рельс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный усиленный рельс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Удовлетворен. Материал этого рельса делает его очень прочным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящие металлические рельсы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочные рельсы, хочется на них покататься.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен рельс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящие рельсы, акки быстро по ним ездит!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Союзный рельс"
+},{"op":"replace","path":"/description","value":
+"Прочный усиленный рельс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удовлетворен. Материал этого рельса делает его очень прочным."
+},{"op":"replace","path":"/floranDescription","value":
+"Блестящие металлические рельсы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Прочные рельсы, хочется на них покататься."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен рельс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Блестящие рельсы, акки быстро по ним ездит!"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Крейн",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механический кран, полезный для перемещения грузов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кран, вероятно, используемый для погрузки грузов на корабли и тому подобное.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой кран. Как можно это контролировать?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не нравятся большие металлические руки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересный. Как работает входной интерфейс этого крана?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кран для перемещения грузов. Где контроль?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой кран для перемещения грузов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механический кран для перемещения грузов.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механический кран. Он может выдерживать большой вес.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот кран неэффективен. Требуется больше петель.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Утилита: перемещение груза.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кран-механический.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Крейн"
+},{"op":"replace","path":"/description","value":
+"Механический кран, полезный для перемещения грузов."
+},{"op":"replace","path":"/apexDescription","value":
+"Кран, вероятно, используемый для погрузки грузов на корабли и тому подобное."
+},{"op":"replace","path":"/avianDescription","value":
+"Большой кран. Как можно это контролировать?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не нравятся большие металлические руки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Интересный. Как работает входной интерфейс этого крана?"
+},{"op":"replace","path":"/humanDescription","value":
+"Кран для перемещения грузов. Где контроль?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большой кран для перемещения грузов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Механический кран для перемещения грузов."
+},{"op":"replace","path":"/avikanDescription","value":
+"Механический кран. Он может выдерживать большой вес."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот кран неэффективен. Требуется больше петель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Утилита: перемещение груза."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кран-механический."
+}]

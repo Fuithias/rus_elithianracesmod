@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканский Пол",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель пола. Легко очищается.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. Эта металлическая панель пола легко чистится.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если Флоран полирует металлический пол, Флоран может видеть себя в нем!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полируйте этот пол еще немного, и вы сможете видеть себя в нем.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Панель пола.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель для земли, сделана для ходьбы.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский Пол"
+},{"op":"replace","path":"/description","value":
+"Металлическая панель пола. Легко очищается."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. Эта металлическая панель пола легко чистится."
+},{"op":"replace","path":"/floranDescription","value":
+"Если Флоран полирует металлический пол, Флоран может видеть себя в нем!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Полируйте этот пол еще немного, и вы сможете видеть себя в нем."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Панель пола."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель для земли, сделана для ходьбы."
+}]

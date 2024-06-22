@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Каменные кирпичи Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелые каменные кирпичи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Каменные кирпичи.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран любит ощущение камня под ногами.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каменные кирпичи, простые и понятные.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каменные кирпичи.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камень хорошо ощущается под ногами-акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Каменные кирпичи Альянса"
+},{"op":"replace","path":"/description","value":
+"Тяжелые каменные кирпичи."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Каменные кирпичи."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран любит ощущение камня под ногами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Каменные кирпичи, простые и понятные."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Каменные кирпичи."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Камень хорошо ощущается под ногами-акки."
+}]

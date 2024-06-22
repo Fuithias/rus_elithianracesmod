@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Темный шарф, который носят те, кто хочет оставаться анонимным.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шарф изгоя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Темный шарф, который носят те, кто хочет оставаться анонимным."
+},{"op":"replace","path":"/shortdescription","value":
+"Шарф изгоя"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Древняя металлическая платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсианская платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Древняя металлическая платформа."
+},{"op":"replace","path":"/shortdescription","value":
+"Центенская платформа"
+}]

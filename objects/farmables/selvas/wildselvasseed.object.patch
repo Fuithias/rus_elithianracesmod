@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя Сельваса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая трава с лечебными свойствами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эти травы должны пригодиться в моих приключениях.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запах этих трав невероятный!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится запах этого растения.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знающий. Эта трава имеет множество медицинских применений.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта трава прекрасно пахнет и имеет множество медицинских применений.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшое, но красивое растение. Он пахнет великолепно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшое лекарственное растение.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая трава сельвы. он имеет множество медицинских применений, а также прекрасно пахнет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение со странным запахом.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лекарственное растение, имеющее множество применений. Насколько эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена чужеродная флора. Возможное медицинское применение.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цветки голубые, содержат лекарственные вещества.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя Сельваса"
+},{"op":"replace","path":"/description","value":
+"Небольшая трава с лечебными свойствами."
+},{"op":"replace","path":"/apexDescription","value":
+"Эти травы должны пригодиться в моих приключениях."
+},{"op":"replace","path":"/avianDescription","value":
+"Запах этих трав невероятный!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится запах этого растения."
+},{"op":"replace","path":"/glitchDescription","value":
+"Знающий. Эта трава имеет множество медицинских применений."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта трава прекрасно пахнет и имеет множество медицинских применений."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Небольшое, но красивое растение. Он пахнет великолепно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Небольшое лекарственное растение."
+},{"op":"replace","path":"/aegiDescription","value":
+"Небольшая трава сельвы. он имеет множество медицинских применений, а также прекрасно пахнет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение со странным запахом."
+},{"op":"replace","path":"/trinkDescription","value":
+"Лекарственное растение, имеющее множество применений. Насколько эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена чужеродная флора. Возможное медицинское применение."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Цветки голубые, содержат лекарственные вещества."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая платформа, построенная из пластин металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая платформа, построенная из пластин металлолома."
+},{"op":"replace","path":"/shortdescription","value":
+"Платформа Акрис"
+}]

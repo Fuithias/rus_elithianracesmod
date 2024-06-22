@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Клинок-переключатель до Эксодуса, изготовленный для Дроденского легиона.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Легион^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клинок-переключатель",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Смена формы",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Клинов-перемычка до бегства, изготовленный для Дроденского легиона."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Легион^white;"
+},{"op":"replace","path":"/category","value":
+"Клинов-перемычка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Смена формы"
+}]

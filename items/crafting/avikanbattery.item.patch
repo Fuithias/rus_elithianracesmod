@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Компактный аккумулятор с большой мощностью.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Батарея",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Компактный аккумулятор с большой мощностью."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Батарея"
+}]

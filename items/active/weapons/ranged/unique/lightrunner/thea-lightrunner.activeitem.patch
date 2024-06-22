@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Прототип оружия, созданный в результате секретного исследовательского проекта.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;АЕГ-Корпус^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ц42 Бегущий по свету^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ускоритель частиц",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Вызов дрона",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Протов. оружия, созданный в результате секретного исследовательского проекта."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;АЕГ-Корпус^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ц42 Бегущий по свету^white;"
+},{"op":"replace","path":"/category","value":
+"Ускоритель частиц"
+},{"op":"replace","path":"/altAbility/name","value":
+"Вызов дрона"
+}]

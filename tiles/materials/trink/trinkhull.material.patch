@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Тринкская обшивка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический корпус для кораблей и зданий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Толстое и тяжелое обшивочное покрытие. Очень надежная защита.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая обшивка для создания безопасных мест...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая металлическая пластина, как некий большой сейф.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая обшивка состоит из нескольких слоев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обшивка-толстая, держит акки в безопасности.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкская обшивка"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический корпус для кораблей и зданий."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Толстое и тяжелое обшивочное покрытие. Очень надежная защита."
+},{"op":"replace","path":"/floranDescription","value":
+"Толстая обшивка для создания безопасных мест..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстая металлическая пластина, как некий большой сейф."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая обшивка состоит из нескольких слоев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Обшивка-толстая, держит акки в безопасности."
+}]

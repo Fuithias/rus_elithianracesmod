@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фигурка Фарита",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этикетке написано: «Летающее существо из Элитии, Фарит — быстрый и проворный хищник».",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фигурка Фарита"
+},{"op":"replace","path":"/description","value":
+"На этикетке написано: Летающее существо из Элитии, Фарит — быстрый и проворный хищник."
+}]

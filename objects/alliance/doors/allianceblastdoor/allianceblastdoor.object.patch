@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Взрывная дверь Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывобезопасная дверь с высокой устойчивостью.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая взрывоопасная дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая взрывоопасная дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Взрывная дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая взрывозащитная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая взрывоопасная дверь.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь инопланетянина.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная взрывоопасная дверь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена взрывоопасная дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толщина двери, для защиты от взрывов.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Альянса"
+},{"op":"replace","path":"/description","value":
+"Взрывобезопасная дверь с высокой устойчивостью."
+},{"op":"replace","path":"/apexDescription","value":
+"Тяжелая взрывоопасная дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая взрывоопасная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Взрывная дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Тяжелая металлическая взрывоопасная дверь. Прохладный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлическая взрывозащитная дверь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Толстая взрывоопасная дверь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Взрывная дверь инопланетянина."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мощная взрывоопасная дверь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена взрывоопасная дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Толщина двери, для защиты от взрывов."
+}]

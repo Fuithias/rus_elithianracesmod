@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Памятник Элитии",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой памятник, изображающий планету Элития.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой памятник какой-то планете.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя изображает планету.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Планета инопланетян.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что это за планета?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая статуя, изображающая инопланетный мир.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, этот памятник посвящен какой-то планете.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Великолепное произведение искусства.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элития, моя родная планета и дом Элитианского Альянса.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я считаю, что эта планета называется Элития.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Планета Элития. Именно здесь зародился Элитианский Альянс.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен памятник инопланетянам. База данных предполагает, что планета называется Элития.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки слышал, что эта планета — Элития.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Памятник Элитии"
+},{"op":"replace","path":"/description","value":
+"Большой памятник, изображающий планету Элития."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой памятник какой-то планете."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта статуя изображает планету."
+},{"op":"replace","path":"/floranDescription","value":
+"Планета инопланетян."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что это за планета?"
+},{"op":"replace","path":"/humanDescription","value":
+"Большая статуя, изображающая инопланетный мир."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Похоже, этот памятник посвящен какой-то планете."
+},{"op":"replace","path":"/novakidDescription","value":
+"Великолепное произведение искусства."
+},{"op":"replace","path":"/aegiDescription","value":
+"Элития, моя родная планета и дом Элитианского Альянса."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я считаю, что эта планета называется Элития."
+},{"op":"replace","path":"/trinkDescription","value":
+"Планета Элития. Именно здесь зародился Элитианский Альянс."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен памятник инопланетянам. База данных предполагает, что планета называется Элития."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки слышал, что эта планета — Элития."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Шаттл Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортный корабль земля-космос.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот шаттл может перевозить людей и грузы с поверхности на космические корабли на орбите.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Летающий транспортный автомобиль. Лучше бы с крыльями.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "От полета на маленьком корабле Флорану тошнит.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Этот аппарат сможет легко перевозить людей и грузы с Земли на орбиту.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шаттл для наземных перевозок в космос.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантное транспортное судно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что это пройдёт как волшебство.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "ASA-26 Ranger, пожалуй, самая популярная машина, построенная ASA.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный шаттл. Это немного напоминает мне наши десантные корабли.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "ASA-26 Ranger — высокоэффективный шаттл, заслуживающий такой популярности.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен космический корабль пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль-бронированный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Шаттл Альянса"
+},{"op":"replace","path":"/description","value":
+"Транспортный корабль земля-космос."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот шаттл может перевозить людей и грузы с поверхности на космические корабли на орбите."
+},{"op":"replace","path":"/avianDescription","value":
+"Летающий транспортный автомобиль. Лучше бы с крыльями."
+},{"op":"replace","path":"/floranDescription","value":
+"От полета на маленьком корабле Флорану тошнит."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Этот аппарат сможет легко перевозить людей и грузы с Земли на орбиту."
+},{"op":"replace","path":"/humanDescription","value":
+"Шаттл для наземных перевозок в космос."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантное транспортное судно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я уверен, что это пройдёт как волшебство."
+},{"op":"replace","path":"/aegiDescription","value":
+"АСБ-26 Рейнджер, пожалуй, самая популярная машина, построенная АСБ."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный шаттл. Это немного напоминает мне наши десантные корабли."
+},{"op":"replace","path":"/trinkDescription","value":
+"АСБ-26 Рейнджер — высокоэффективный шаттл, заслуживающий такой популярности."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен космический корабль пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Автомобиль-бронированный."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Мучительная тыква",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Резная тыква для празднования Терзания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тыква с вырезанным на ней лицом.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня не пугает эта тыква!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран вырежет-ссстрашные лица из тыкв, чтобы напугать детей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Напуган. Ура!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это тыква на Хэллоуин! Я думаю...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая тыква с грубо вырезанным лицом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, это сделано для того, чтобы напугать людей. У меня это не работает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тыква, вырезанная для Терзания! Я слышал, что эта традиция возникла еще до нашего прибытия на Элитию.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение с вырезанным на нем странным лицом. Зачем тратить такую ​​хорошую еду?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это растение имеет необычную форму. Это почти похоже на Тринк.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Чужеродная растительная жизнь. Обнаружены симметричные резьбы. Цель неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочу попробовать инопланетное растение! Акки не боялся заболеть.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Мучительная тыква"
+},{"op":"replace","path":"/description","value":
+"Резная тыква для празднования Терзания."
+},{"op":"replace","path":"/apexDescription","value":
+"Тыква с вырезанным на ней лицом."
+},{"op":"replace","path":"/avianDescription","value":
+"Меня не пугает эта тыква!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран вырежет-ссстрашные лица из тыкв, чтобы напугать детей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Напуган. Ура!"
+},{"op":"replace","path":"/humanDescription","value":
+"Это тыква на Хэллоуин! Я думаю..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большая тыква с грубо вырезанным лицом."
+},{"op":"replace","path":"/novakidDescription","value":
+"Похоже, это сделано для того, чтобы напугать людей. У меня это не работает."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тыква, вырезанная для Терзания! Я слышал, что эта традиция возникла еще до нашего прибытия на Элитию."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение с вырезанным на нем странным лицом. Зачем тратить такую ​​хорошую еду?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Это растение имеет необычную форму. Это почти похоже на Тринк."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Чужеродная растительная жизнь. Обнаружены симметричные резьбы. Цель неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочу попробовать инопланетное растение! Акки не боялся заболеть."
+}]

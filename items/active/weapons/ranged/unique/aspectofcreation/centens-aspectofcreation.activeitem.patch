@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Артефакт великой силы, инструмент созидания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Аспект творения^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Well of Creation",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Артефакт великой силы, инструмент созидания."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Аспект творения^white;"
+},{"op":"replace","path":"/category","value":
+"Артефакт"
+},{"op":"replace","path":"/altAbility/name","value":
+"Колодец Творения"
+}]

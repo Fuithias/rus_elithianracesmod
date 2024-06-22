@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Низкосортный лазерный пистолет стандартной комплектации, созданный тринками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Схема-столет Марк II",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерный пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Низкосортный лазерный пистолет стандартной комплектации, созданный тринками."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Схема-столет Мк II"
+},{"op":"replace","path":"/category","value":
+"Лазерный пистолет"
+}]

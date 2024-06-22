@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Мешковатые брюки, популярные среди граждан Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мешковатые брюки",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Мешковатые брюки, популярные среди граждан Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Мешковатые брюки"
+}]

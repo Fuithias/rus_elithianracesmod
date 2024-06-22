@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Знамена Элитского Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамена всех членов Элитианского Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эти знамена украшены множеством инопланетных эмблем.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены инопланетные баннеры.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамен-много, для наций-чужих.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Знамена Элитского Альянса"
+},{"op":"replace","path":"/description","value":
+"Знамена всех членов Элитианского Альянса."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эти знамена украшены множеством инопланетных эмблем."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены инопланетные баннеры."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Знамен-много, для наций-чужих."
+}]

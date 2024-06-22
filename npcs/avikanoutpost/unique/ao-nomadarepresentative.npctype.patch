@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Совет Старейшин приветствует вас в Убежище Звездных Путешественников.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Совет Старейшин приветствует вас в Убежище Звездных Путешественников.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Совет Старейшин приветствует вас в Убежище Звездных Путешественников."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Совет Старейшин приветствует вас в Убежище Звездных Путешественников."
+}]

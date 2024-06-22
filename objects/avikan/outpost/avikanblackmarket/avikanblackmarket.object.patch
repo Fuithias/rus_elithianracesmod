@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Эмпориум Дрифтера",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот человек выглядит немного подозрительно...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "С-с-с-с-с-шшшш-выглядящий мужчина может-с-с-с продать Флорану много товаров.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный на вид парень. Должно быть, это своего рода черный рынок.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я очень сомневаюсь, что магазин этого человека является законным...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен незарегистрированный торговец. Рекомендую осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой-теневой. Акки-шейди тоже. Друзья?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Эмпориум Дрифтера"
+},{"op":"replace","path":"/description","value":
+"Этот человек выглядит немного подозрительно..."
+},{"op":"replace","path":"/floranDescription","value":
+"С-с-с-с-с-шшшш-выглядящий мужчина может-с-с-с продать Флорану много товаров."
+},{"op":"replace","path":"/glitchDescription","value":
+"Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странный на вид парень. Должно быть, это своего рода черный рынок."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я очень сомневаюсь, что магазин этого человека является законным..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен незарегистрированный торговец. Рекомендую осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Чужой-теневой. Акки-шейди тоже. Друзья?"
+}]

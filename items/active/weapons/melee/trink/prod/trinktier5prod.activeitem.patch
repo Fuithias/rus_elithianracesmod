@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Электрошок, призванный держать нападающих на расстоянии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Схема-стрежень Марк V",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Электрод",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Электрошок, призванный держать нападающих на расстоянии."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Схема-стрежень Мк V"
+},{"op":"replace","path":"/category","value":
+"Электрод"
+}]

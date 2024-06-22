@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Длинный лук, созданный кланами нагорья Ракори.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Ракор^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Длинный лук Ракори^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный лук",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Длинный лук, созданный кланами нагорья Ракори."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Ракор^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Длинный лук Ракори^white;"
+},{"op":"replace","path":"/category","value":
+"Длинный лук"
+}]

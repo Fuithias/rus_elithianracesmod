@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Дроден Манекен",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Покажите и легко экипируйте свои наборы брони в стиле Дродена!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Манекен для демонстрации доспехов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Манекен, созданный для инопланетного вида.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен манекен. Адаптирован к форме Дродена.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки одел броню на манекен, посмотрите, броня красивая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дроден Манекен"
+},{"op":"replace","path":"/description","value":
+"Покажите и легко экипируйте свои наборы брони в стиле Дродена!"
+},{"op":"replace","path":"/floranDescription","value":
+"Манекен для демонстрации доспехов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Манекен, созданный для инопланетного вида."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен манекен. Адаптирован к форме Дродена."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки одел броню на манекен, посмотрите, броня красивая."
+}]

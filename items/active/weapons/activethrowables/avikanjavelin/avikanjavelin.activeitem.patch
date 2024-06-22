@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Острое копье, сделанное из кости монстра. С его помощью можно добывать особые охотничьи материалы.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяное копье",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Острое копьё, сделанное из кости монстра. С его помощью можно добывать особые охотничьи материалы.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Костяное копьё"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

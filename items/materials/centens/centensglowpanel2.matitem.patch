@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Светящаяся панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Светящееся центинское панно",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Светящаяся панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Светящееся центинское панно"
+}]

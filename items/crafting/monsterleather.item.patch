@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочная кожа, изготовленная путем дубления шкуры монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочная кожа, изготовленная путем дубления шкуры монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Кожа монстра"
+}]

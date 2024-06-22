@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Кожаная юбка, которую носят писцы Номады.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка писца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Кожаная юбка, которую носят писцы Номады."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка писца"
+}]

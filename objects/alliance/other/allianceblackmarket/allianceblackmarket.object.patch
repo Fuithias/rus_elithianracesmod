@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Болтерский базар",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот Тринк выглядит подозрительно...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Робот-с-с-с-с-с-с-с-с-с-с-мнимным видом может продать Флорану много товаров.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный на вид парень. Должно быть, это своего рода черный рынок.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина, и притом подозрительная. Мне следует быть осторожным.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен незарегистрированный робот-торговец. Рекомендую осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой-теневой продает хорошие вещи.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Болтерский базар"
+},{"op":"replace","path":"/description","value":
+"Этот Тринк выглядит подозрительно..."
+},{"op":"replace","path":"/floranDescription","value":
+"Робот-с-с-с-с-с-с-с-с-с-с-мнимным видом может продать Флорану много товаров."
+},{"op":"replace","path":"/glitchDescription","value":
+"Нерешительный. Я не уверен, стоит ли мне иметь дело с такими сомнительными фигурами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странный на вид парень. Должно быть, это своего рода черный рынок."
+},{"op":"replace","path":"/avikanDescription","value":
+"Машина, и притом подозрительная. Мне следует быть осторожным."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен незарегистрированный робот-торговец. Рекомендую осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Чужой-теневой продает хорошие вещи."
+}]

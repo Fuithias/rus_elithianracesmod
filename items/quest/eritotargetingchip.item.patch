@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Чип наведения для небольших ракет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Чип наведения Эрито^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Чип наведения для небольших ракет."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Чип наведения Эрито^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

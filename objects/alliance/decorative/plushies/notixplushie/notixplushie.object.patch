@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Нотикс Плюшевый",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка Нотикс из мягкой ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая игрушка. На самом деле это довольно мило.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка для самых маленьких. Не уверен, что это должно быть.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это кажется милым.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обожаю. Этот плюшевый милый.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плюшевый какой-то милый инопланетянин. Я люблю это!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта игрушка довольно милая.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то плюшевая штука.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти плюшевые игрушки Notix довольно популярны.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная игрушка. Он очень мягкий.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чучело Notix. Я не уверен, что об этом думать.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная игрушка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки находит это милым.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Нотикс Плюшевый"
+},{"op":"replace","path":"/description","value":
+"Игрушка Нотикс из мягкой ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Мягкая игрушка. На самом деле это довольно мило."
+},{"op":"replace","path":"/avianDescription","value":
+"Игрушка для самых маленьких. Не уверен, что это должно быть."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это кажется милым."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обожаю. Этот плюшевый милый."
+},{"op":"replace","path":"/humanDescription","value":
+"Плюшевый какой-то милый инопланетянин. Я люблю это!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта игрушка довольно милая."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то плюшевая штука."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти плюшевые игрушки Notix довольно популярны."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная игрушка. Он очень мягкий."
+},{"op":"replace","path":"/trinkDescription","value":
+"Чучело Notix. Я не уверен, что об этом думать."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная игрушка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки находит это милым."
+}]

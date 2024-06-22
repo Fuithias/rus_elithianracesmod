@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Старсайт Инн Бар",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Идеальное место, чтобы выпить.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Давай выпьем.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Возможно, этот бар предлагает больше, чем просто напитки.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Бар Старсайт Инн. Популярность: высокая.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, выпей здесь. Напивайтесь, веселитесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Старсайт Инн Бар"
+},{"op":"replace","path":"/description","value":
+"Идеальное место, чтобы выпить."
+},{"op":"replace","path":"/floranDescription","value":
+"Давай выпьем."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Возможно, этот бар предлагает больше, чем просто напитки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Бар Старсайт Инн. Популярность: высокая."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки, выпей здесь. Напивайтесь, веселитесь."
+}]

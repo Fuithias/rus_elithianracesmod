@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Охлаждаемое хранилище Тринкиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Охлаждаемый складской блок для сохранения продуктов свежими.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Охлаждаемое хранилище, идеально подходящее для хранения бананов свежими.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, холодильник.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран это любопытно. Что внутри?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Есть ли еда в холодильнике?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мой желудок урчит от волнения!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Охлаждаемое запоминающее устройство. Здесь еда не испортится быстро.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина холодна на ощупь. Это какой-то холодильник?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринк обычно не хранит еду, если только не ожидает посетителей-органиков.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машинное охлаждающее устройство. На мой взгляд, слишком холодно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокоэффективное охлаждающее устройство. Полезно для хранения органических веществ.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено охлаждаемое запоминающее устройство. Устройство предохранит органику от разложения.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранение в холодильнике, сохраняет продукты свежими.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Охлаждаемое хранилище Тринкиан"
+},{"op":"replace","path":"/description","value":
+"Охлаждаемый складской блок для сохранения продуктов свежими."
+},{"op":"replace","path":"/apexDescription","value":
+"Охлаждаемое хранилище, идеально подходящее для хранения бананов свежими."
+},{"op":"replace","path":"/avianDescription","value":
+"Думаю, холодильник."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран это любопытно. Что внутри?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Есть ли еда в холодильнике?"
+},{"op":"replace","path":"/humanDescription","value":
+"Мой желудок урчит от волнения!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Охлаждаемое запоминающее устройство. Здесь еда не испортится быстро."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта машина холодна на ощупь. Это какой-то холодильник?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринк обычно не хранит еду, если только не ожидает посетителей-органиков."
+},{"op":"replace","path":"/avikanDescription","value":
+"Машинное охлаждающее устройство. На мой взгляд, слишком холодно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Высокоэффективное охлаждающее устройство. Полезно для хранения органических веществ."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено охлаждаемое запоминающее устройство. Устройство предохранит органику от разложения."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Хранение в холодильнике, сохраняет продукты свежими."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полированные металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. Эта металлическая панель хорошо отполирована.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран хочет поцарапать идеальные металлические панели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель сильно отполирована.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-гладкая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Панель Альянса"
+},{"op":"replace","path":"/description","value":
+"Полированные металлические панели."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. Эта металлическая панель хорошо отполирована."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран хочет поцарапать идеальные металлические панели."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая панель сильно отполирована."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-гладкая."
+}]

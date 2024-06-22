@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;Ноги. ^white;Тело снеговика для праздника Приземления!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело снеговика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;Ноги. ^white;Тело снеговика для праздника Приземления!"
+},{"op":"replace","path":"/shortdescription","value":
+"Тело снеговика"
+}]

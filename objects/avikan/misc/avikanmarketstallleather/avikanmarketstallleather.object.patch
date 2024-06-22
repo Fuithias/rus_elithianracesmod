@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Кожаный ларек Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, полный кожи и ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаные тряпки и кусочки разноцветной ткани.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столько ткани!.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожасс для Флорана?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Много кожи и ткани.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что из всего этого можно сделать?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этого можно многое сделать.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, сколько животных пришлось убить, чтобы найти такое количество кожи...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа и ткань для изготовления одежды, палаток и многого другого.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот рыночный прилавок предлагает различные изделия из кожи.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены кожаные изделия: Одежда Авикан. Коврики. Гобелены. Листы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань и кожа. Акки использую для плетения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кожаный ларек Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок, полный кожи и ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаные тряпки и кусочки разноцветной ткани."
+},{"op":"replace","path":"/avianDescription","value":
+"Столько ткани!."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожасс для Флорана?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Много кожи и ткани."
+},{"op":"replace","path":"/humanDescription","value":
+"Интересно, что из всего этого можно сделать?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"С помощью этого можно многое сделать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Интересно, сколько животных пришлось убить, чтобы найти такое количество кожи..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожа и ткань для изготовления одежды, палаток и многого другого."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот рыночный прилавок предлагает различные изделия из кожи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены кожаные изделия: Одежда Авикан. Коврики. Гобелены. Листы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ткань и кожа. Акки использую для плетения."
+}]

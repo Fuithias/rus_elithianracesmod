@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Электрический стержень, выдаваемый миротворцам Авангарда.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Стержень Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Электрод",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Электрический стержень, выдаваемый миротворцам Авангарда."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Стержень Авангарда"
+},{"op":"replace","path":"/category","value":
+"Электрод"
+}]

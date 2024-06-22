@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Очень агрессивное органическое вещество.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вааш",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Очень агрессивное органическое вещество."
+},{"op":"replace","path":"/shortdescription","value":
+"Вааш"
+}]

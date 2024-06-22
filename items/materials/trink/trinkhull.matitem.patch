@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный металлический корпус как для кораблей, так и для зданий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкиан Халл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный металлический корпус как для кораблей, так и для зданий."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкиан Халл"
+}]

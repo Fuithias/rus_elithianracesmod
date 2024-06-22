@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Линейный лук, созданный уединенными кланами Валакиса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Валура^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Лук Валакина^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лине-лук",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Тройной выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Линейный лук, созданный уединенными кланами Валакиса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Валура^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Лук Валакина^white;"
+},{"op":"replace","path":"/category","value":
+"Лине-лук"
+},{"op":"replace","path":"/altAbility/name","value":
+"Тройной выстрел"
+}]

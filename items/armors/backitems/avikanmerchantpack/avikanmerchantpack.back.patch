@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Большой, украшенный рюкзак, используемый торговцами пустыни.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рюкзак торговца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Большой, украшенный рюкзак, используемый торговцами пустыни."
+},{"op":"replace","path":"/shortdescription","value":
+"Рюкзак торговца"
+}]

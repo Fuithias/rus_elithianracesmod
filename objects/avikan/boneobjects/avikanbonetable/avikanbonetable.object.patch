@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Костяной стол Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол из кости, обтянутый кожей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол из кости.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столы из костей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Стол из кости.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол из кости. Как мило.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол из костей монстра. Примитивный, но на удивление крепкий.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой костяной стол.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционный костяной стол.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный костяной стол.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол. Кость.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столовая кость. Обтянут листовой кожей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Костяной стол Авикан"
+},{"op":"replace","path":"/description","value":
+"Стол из кости, обтянутый кожей."
+},{"op":"replace","path":"/apexDescription","value":
+"Стол из кости."
+},{"op":"replace","path":"/avianDescription","value":
+"Примитивный стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Столы из костей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Стол из кости."
+},{"op":"replace","path":"/humanDescription","value":
+"Стол из кости. Как мило."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Стол из костей монстра. Примитивный, но на удивление крепкий."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой костяной стол."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционный костяной стол."
+},{"op":"replace","path":"/trinkDescription","value":
+"Примитивный костяной стол."
+},{"op":"replace","path":"/drodenDescription","value":
+"Стол. Кость."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Столовая кость. Обтянут листовой кожей."
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Кровать",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кровать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кровать с чистыми простынями.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кровать довольно удобна.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран редко с-спит в такой красивой постели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усталый. Мне следует прилечь на некоторое время.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая, но удобная кровать.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошее место, чтобы закрыть глаза.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Достойное место, чтобы немного поспать.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошая и удобная кровать.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кровать выглядит довольно удобной.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кровать. Я предпочитаю ремонтную капсулу.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное постельное белье.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки спит здесь. Устал-очень...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Кровать"
+},{"op":"replace","path":"/description","value":
+"Удобная кровать."
+},{"op":"replace","path":"/apexDescription","value":
+"Удобная кровать с чистыми простынями."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта кровать довольно удобна."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран редко с-спит в такой красивой постели."
+},{"op":"replace","path":"/glitchDescription","value":
+"Усталый. Мне следует прилечь на некоторое время."
+},{"op":"replace","path":"/humanDescription","value":
+"Простая, но удобная кровать."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Хорошее место, чтобы закрыть глаза."
+},{"op":"replace","path":"/novakidDescription","value":
+"Достойное место, чтобы немного поспать."
+},{"op":"replace","path":"/aegiDescription","value":
+"Хорошая и удобная кровать."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта кровать выглядит довольно удобной."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кровать. Я предпочитаю ремонтную капсулу."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное постельное белье."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки спит здесь. Устал-очень..."
+}]

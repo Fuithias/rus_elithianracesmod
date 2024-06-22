@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тканевое настенное полотно, оформленное в стиле Райод.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ткань Райод без полей",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тканевое настенное полотно, оформленное в стиле Райод."
+},{"op":"replace","path":"/shortdescription","value":
+"Ткань Райод без полей"
+}]

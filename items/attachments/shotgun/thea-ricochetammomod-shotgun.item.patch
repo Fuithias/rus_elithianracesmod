@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Боеприпасы для дробовика, которые пробивают цель и рикошетят от стен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Рикошетные патроны",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мод на боеприпасы",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Боеприпасы для дробовика, которые пробивают цель и рикошетят от стен."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Рикошетные патроны"
+},{"op":"replace","path":"/category","value":
+"Мод на боеприпасы"
+}]

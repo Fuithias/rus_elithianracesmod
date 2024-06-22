@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая пара глаз Тринка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринк глаз",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая пара глаз Тринка."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринк глаз"
+}]

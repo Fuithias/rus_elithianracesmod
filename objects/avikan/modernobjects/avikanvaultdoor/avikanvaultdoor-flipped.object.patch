@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Дверь хранилища Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая взрывоопасная дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Взрывная дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая взрывозащитная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь хранилища. Полезно для защиты ценных вещей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь хранилища не позволит потенциальным злоумышленникам проникнуть за пределы нашего Тервеса.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь хранилища Авикан. Что он может защищать?",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Дверь хранилища. Защищает Тервес от потенциальных злоумышленников.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-хранилище, обеспечивает безопасность комнаты.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дверь хранилища Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая противовзрывная дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная металлическая противовзрывная дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая взрывоопасная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Взрывная дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Тяжелая металлическая взрывоопасная дверь. Прохладный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлическая взрывозащитная дверь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Дверь хранилища. Полезно для защиты ценных вещей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта дверь хранилища не позволит потенциальным злоумышленникам проникнуть за пределы нашего Тервеса."
+},{"op":"replace","path":"/trinkDescription","value":
+"Дверь хранилища Авикан. Что он может защищать?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Дверь хранилища. Защищает Тервес от потенциальных злоумышленников."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-хранилище, обеспечивает безопасность комнаты."
+}]

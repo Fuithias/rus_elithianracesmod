@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканский Забор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический забор.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен. Прочный забор, как этот, не пустит нежеланных существ.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный забор.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический забор. Может пригодиться для строительства ранчо.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическое ограждение.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Забор-прочный, удерживает акки от падения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканский Забор"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический забор."
+},{"op":"replace","path":"/glitchDescription","value":
+"Доволен. Прочный забор, как этот, не пустит нежеланных существ."
+},{"op":"replace","path":"/floranDescription","value":
+"Прочный забор."
+},{"op":"replace","path":"/novakidDescription","value":
+"Прочный металлический забор. Может пригодиться для строительства ранчо."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическое ограждение."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Забор-прочный, удерживает акки от падения."
+}]

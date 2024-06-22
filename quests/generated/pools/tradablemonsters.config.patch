@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Пескоползень",
-    "path": "/0/1/-/name",
-    "op": "replace"
-  },
-  {
-    "value": "Трангии",
-    "path": "/0/1/-/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/0/1/-/name","value":
+"Пескоползень"
+},{"op":"replace","path":"/0/1/-/name","value":
+"Трангии"
+}]

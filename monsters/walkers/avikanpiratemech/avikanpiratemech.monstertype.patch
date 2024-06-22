@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Пиратский Крал.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пиратский Крал",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Пиратский Крал."
+},{"op":"replace","path":"/shortdescription","value":
+"Пиратский Крал"
+}]

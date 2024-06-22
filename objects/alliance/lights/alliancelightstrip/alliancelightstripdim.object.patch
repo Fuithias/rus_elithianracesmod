@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Световая полоса Дим Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая световая полоска.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая световая полоска.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой свет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный свет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой свет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тонкий, тусклый светильник, полезный, когда мало места.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный свет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Светло-тускло.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Световая полоса Дим Альянс"
+},{"op":"replace","path":"/description","value":
+"Простая световая полоска."
+},{"op":"replace","path":"/apexDescription","value":
+"Простая световая полоска."
+},{"op":"replace","path":"/avianDescription","value":
+"Свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой свет."
+},{"op":"replace","path":"/humanDescription","value":
+"Стандартный свет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой свет."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тонкий, тусклый светильник, полезный, когда мало места."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эффективный свет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Свет."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Светло-тускло."
+}]

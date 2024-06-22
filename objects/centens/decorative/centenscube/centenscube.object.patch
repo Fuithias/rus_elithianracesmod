@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Сотовый куб",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенный металлический куб, но с завораживающей аурой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой металлический куб, но в нем есть что-то захватывающее.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом кубе есть что-то странно захватывающее.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран смотрит на куб. Флоран не знает почему...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В восторге. В этом кубе есть что-то загадочное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не знаю почему, но мне трудно оторвать взгляд от этого куба.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каким-то образом этот куб заставляет меня чувствовать себя безмятежно. Это увлекательно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня странно завораживает этот простой кубик... Что это за волшебство?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куб, построенный Centens. Это странно захватывает...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот артефакт Древних завораживает. Я просто продолжаю смотреть на это.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мои системы улавливают странные помехи вокруг этого куба.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен центенский артефакт. Ошибка. Ошибка. Ошибка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки чувствует себя спокойно. Ощущение-странное.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сотовый куб"
+},{"op":"replace","path":"/description","value":
+"Упрощенный металлический куб, но с завораживающей аурой."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой металлический куб, но в нем есть что-то захватывающее."
+},{"op":"replace","path":"/avianDescription","value":
+"В этом кубе есть что-то странно захватывающее."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран смотрит на куб. Флоран не знает почему..."
+},{"op":"replace","path":"/glitchDescription","value":
+"В восторге. В этом кубе есть что-то загадочное."
+},{"op":"replace","path":"/humanDescription","value":
+"Не знаю почему, но мне трудно оторвать взгляд от этого куба."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Каким-то образом этот куб заставляет меня чувствовать себя безмятежно. Это увлекательно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Меня странно завораживает этот простой кубик... Что это за волшебство?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Куб, построенный Centens. Это странно захватывает..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот артефакт Древних завораживает. Я просто продолжаю смотреть на это."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мои системы улавливают странные помехи вокруг этого куба."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен центенский артефакт. Ошибка. Ошибка. Ошибка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки чувствует себя спокойно. Ощущение-странное."
+}]

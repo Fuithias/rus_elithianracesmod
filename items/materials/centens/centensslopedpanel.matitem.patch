@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Наклонная панель, изготовленная из легкого, но невероятно прочного металла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Centensian наклонная панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Наклонная панель, изготовленная из легкого, но невероятно прочного металла."
+},{"op":"replace","path":"/shortdescription","value":
+"Centensian наклонная панель"
+}]

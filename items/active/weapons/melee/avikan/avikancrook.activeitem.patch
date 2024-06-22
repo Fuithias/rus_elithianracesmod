@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Костяной крюк, используемый пастухами Гад'ура.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяной крюк",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крюк",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Костяной крюк, используемый пастухами Гад'ура."
+},{"op":"replace","path":"/shortdescription","value":
+"Костяной крюк"
+},{"op":"replace","path":"/category","value":
+"Крюк"
+}]

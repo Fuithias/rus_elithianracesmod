@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Маска, которую носят последователи Рхаиода в глубоких пустынях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска пустынника Рхаиода",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Маска, которую носят последователи Рхаиода в глубоких пустынях."
+},{"op":"replace","path":"/shortdescription","value":
+"Маска пустынника Рхаиода"
+}]

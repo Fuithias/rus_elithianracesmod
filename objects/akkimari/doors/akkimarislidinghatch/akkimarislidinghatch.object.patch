@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Раздвижной люк Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк, который выдвигается и выдвигается из фона.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Грубый сдвижной люк.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк может задвигаться в стену.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Врезался в стену, Флоран это увидел.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Этот люк может врезаться в стену, в результате чего платформа исчезнет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сдвижной люк.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк может задвигаться обратно в стену.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если я не буду осторожен, он врежется в стену.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сдвижной люк. Получается хорошая выдвижная платформа.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк может сдвинуться. Это странная дверь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк сдвигается на удивление плавно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк. Задвигается в заднюю стенку.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки осторожен. Люк может соскользнуть.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Раздвижной люк Акрис"
+},{"op":"replace","path":"/description","value":
+"Люк, который выдвигается и выдвигается из фона."
+},{"op":"replace","path":"/apexDescription","value":
+"Грубый сдвижной люк."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот люк может задвигаться в стену."
+},{"op":"replace","path":"/floranDescription","value":
+"Врезался в стену, Флоран это увидел."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Этот люк может врезаться в стену, в результате чего платформа исчезнет."
+},{"op":"replace","path":"/humanDescription","value":
+"Сдвижной люк."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот люк может задвигаться обратно в стену."
+},{"op":"replace","path":"/novakidDescription","value":
+"Если я не буду осторожен, он врежется в стену."
+},{"op":"replace","path":"/aegiDescription","value":
+"Сдвижной люк. Получается хорошая выдвижная платформа."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот люк может сдвинуться. Это странная дверь."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот люк сдвигается на удивление плавно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк. Задвигается в заднюю стенку."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки осторожен. Люк может соскользнуть."
+}]

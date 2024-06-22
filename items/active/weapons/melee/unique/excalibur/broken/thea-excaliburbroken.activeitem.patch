@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Некогда великий Аэвис, теперь сломанный в ходе долгой эксплуатации.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный щит-меч",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щит-меч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Некогда великий Аэвис, теперь сломанный в ходе долгой эксплуатации."
+},{"op":"replace","path":"/shortdescription","value":
+"Сломанный щит-меч"
+},{"op":"replace","path":"/category","value":
+"Щит-меч"
+}]

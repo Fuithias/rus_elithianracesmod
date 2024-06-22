@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Маленький агрессивный дрон, созданный для подавления врагов в роевом порядке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аррак'аш",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Маленький агрессивный дрон, созданный для подавления врагов в роевом порядке."
+},{"op":"replace","path":"/shortdescription","value":
+"Аррак'аш"
+}]

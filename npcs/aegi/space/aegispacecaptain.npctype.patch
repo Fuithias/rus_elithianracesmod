@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Добро пожаловать на наш корабль, путешественник.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать на наш корабль, путешественник.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я вижу, у тебя тоже есть свой корабль. Добро пожаловать, мой коллега-капитан.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело вас на наш корабль?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Командовать кораблем может быть утомительной работой, но я все равно люблю ее.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мои навигаторы обнаружили приближающийся корабль. Что привело вас к нам в этой огромной пустоте космоса?",
-    "path": "/scriptConfig/dialog/converse/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, не отвлекайте слишком сильно моих навигаторов. Они очень заняты управлением навигационными системами корабля.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Ах, привет! Вы здесь, чтобы заняться бизнесом? У нас должен быть дополнительный груз, который вы можете купить.",
-    "path": "/scriptConfig/dialog/converse/aegi/default/6",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Добро пожаловать на наш корабль, путешественник."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/0","value":
+"Добро пожаловать на наш корабль, путешественник."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/1","value":
+"Я вижу, у тебя тоже есть свой корабль. Добро пожаловать, мой коллега-капитан."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/2","value":
+"Что привело вас на наш корабль?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/3","value":
+"Командовать кораблем может быть утомительной работой, но я все равно люблю ее."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/4","value":
+"Мои навигаторы обнаружили приближающийся корабль. Что привело вас к нам в этой огромной пустоте космоса?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/5","value":
+"Пожалуйста, не отвлекайте слишком сильно моих навигаторов. Они очень заняты управлением навигационными системами корабля."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/6","value":
+"Ах, привет! Вы здесь, чтобы заняться бизнесом? У нас должен быть дополнительный груз, который вы можете купить."
+}]

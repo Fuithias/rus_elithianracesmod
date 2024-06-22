@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Образец телиальной мышечной ткани. Оно все еще движется.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанский усик",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Образец телиальной мышечной ткани. Оно все еще движется."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанский усик"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Шторы",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная занавеска. Обычное украшение для домов Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная занавеска. Из какого существа было сделано это существо?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная занавеска. Не очень красочно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен напоминает Флорану дом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Животное, из которого это было сделано, не указано в моей базе данных.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная штора. Не очень хорошо проработано.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный способ украсить свой дом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штора из кожи. Необычный.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная занавеска. Они никогда не были так популярны, как гобелены для украшения дома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штора из кожи.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штора для окна.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Шторы"
+},{"op":"replace","path":"/description","value":
+"Кожаная занавеска. Обычное украшение для домов Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаная занавеска. Из какого существа было сделано это существо?"
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаная занавеска. Не очень красочно."
+},{"op":"replace","path":"/floranDescription","value":
+"Гобелен напоминает Флорану дом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Ошибка. Животное, из которого это было сделано, не указано в моей базе данных."
+},{"op":"replace","path":"/humanDescription","value":
+"Простая кожаная штора. Не очень хорошо проработано."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивный способ украсить свой дом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Штора из кожи. Необычный."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаная занавеска. Они никогда не были так популярны, как гобелены для украшения дома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Штора из кожи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Штора для окна."
+}]

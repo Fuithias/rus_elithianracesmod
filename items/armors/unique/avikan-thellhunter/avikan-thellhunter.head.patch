@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Шлем легендарного Теллобоя. Встроенный дисплей автоматически отмечает потенциальные цели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем Теллобоя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Шлем легендарного Теллобоя. Встроенный дисплей автоматически отмечает потенциальные цели."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем Теллобоя"
+}]

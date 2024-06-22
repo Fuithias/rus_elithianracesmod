@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Полка магазина Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полка, полная элитианских товаров.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Разнообразный ассортимент товаров.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь есть еда, а также безделушки и материалы.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полка полна вкусностей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Эта полка заполнена различными товарами.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этой полке странное сочетание товаров.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, какой будет вкус у этой еды?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча случайного товара, мне кажется.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полка, полная обычных товаров из Элитии.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полка, полная инопланетных товаров.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта полка организована прилично, но я мог бы сделать лучше.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена полка магазина. Сканирование ближайших торговцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки крадет еду?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Полка магазина Альянса"
+},{"op":"replace","path":"/description","value":
+"Полка, полная элитианских товаров."
+},{"op":"replace","path":"/apexDescription","value":
+"Разнообразный ассортимент товаров."
+},{"op":"replace","path":"/avianDescription","value":
+"Здесь есть еда, а также безделушки и материалы."
+},{"op":"replace","path":"/floranDescription","value":
+"Полка полна вкусностей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Эта полка заполнена различными товарами."
+},{"op":"replace","path":"/humanDescription","value":
+"На этой полке странное сочетание товаров."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Интересно, какой будет вкус у этой еды?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Куча случайного товара, мне кажется."
+},{"op":"replace","path":"/aegiDescription","value":
+"Полка, полная обычных товаров из Элитии."
+},{"op":"replace","path":"/avikanDescription","value":
+"Полка, полная инопланетных товаров."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта полка организована прилично, но я мог бы сделать лучше."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена полка магазина. Сканирование ближайших торговцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки крадет еду?"
+}]

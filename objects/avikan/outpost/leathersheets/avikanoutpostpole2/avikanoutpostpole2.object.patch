@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Металлический столб",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тонкий металлический столб.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран уссс метал без шеста как ссспирс?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скучающий. Простой металлический столб.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический столб, тонкий, как ветка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен металлический столб.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полюс-металл.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Металлический столб"
+},{"op":"replace","path":"/description","value":
+"Тонкий металлический столб."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран уссс метал без шеста как ссспирс?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Скучающий. Простой металлический столб."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлический столб, тонкий, как ветка."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен металлический столб."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Полюс-металл."
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Контракт на найм услуг членов экипажа Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Контракт экипажа Альянса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Договор",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Контракт на найм услуг членов экипажа Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Контракт экипажа Альянса^white;"
+},{"op":"replace","path":"/category","value":
+"Договор"
+}]

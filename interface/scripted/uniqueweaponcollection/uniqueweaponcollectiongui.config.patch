@@ -1,37 +1,15 @@
-[
-  {
-    "value": " Unique Equipment Reforger",
-    "path": "/gui/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " Reclaim lost Unique equipment",
-    "path": "/gui/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "Replace Me",
-    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value",
-    "op": "replace"
-  },
-  {
-    "value": "You don't have Unique Equipment in your Collections!",
-    "path": "/gui/emptyLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "REQUIRED ESSENCE",
-    "path": "/gui/essenceCostDescription/value",
-    "op": "replace"
-  },
-  {
-    "value": "Reclaim",
-    "path": "/gui/btnReconstruct/caption",
-    "op": "replace"
-  },
-  {
-    "value": "Cancel",
-    "path": "/gui/btnCancel/caption",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/windowtitle/title","value":
+" Рековка Важного снаряжения"
+},{"op":"replace","path":"/gui/windowtitle/subtitle","value":
+" Верните утраченное важное снаряжение"
+},{"op":"replace","path":"/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value","value":
+"Замените меня"
+},{"op":"replace","path":"/gui/emptyLabel/value","value":
+"У вас в коллекциях нет важного снаряжения!"
+},{"op":"replace","path":"/gui/essenceCostDescription/value","value":
+"ТРЕБУЕМАЯ ЭССЕНЦИЯ"
+},{"op":"replace","path":"/gui/btnReconstruct/caption","value":
+"Возместить"
+},{"op":"replace","path":"/gui/btnCancel/caption","value":
+"Отменить"
+}]

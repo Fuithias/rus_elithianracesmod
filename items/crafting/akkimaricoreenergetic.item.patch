@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​брони Аккимари. Увеличивает запасы энергии пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дефлектор Сердечник RA",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​брони Аккимари. Увеличивает запасы энергии пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Дефлектор Сердечник RA"
+}]

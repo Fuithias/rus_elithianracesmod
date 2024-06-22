@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Адмирал Лийин",
-    "path": "/alliancestory-intro1/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Рад видеть, что с вами все в порядке, посол. Я узнал о разрушении Земли и Протектората от других послов, которым удалось спастись, и боялся, что вы могли погибнуть в хаосе.",
-    "path": "/alliancestory-intro1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/alliancestory-intro2/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Я скоро встречусь с другими лидерами Альянса, чтобы обсудить эту трагедию в полном объеме. Мы также обсудим ваше следующее задание.",
-    "path": "/alliancestory-intro1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/alliancestory-intro3/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Пока что вы свободны странствовать по галактике как пожелаете. Как только у меня будут новые детали, я свяжусь с вами снова. Удачи вам, посол, и будьте осторожны.",
-    "path": "/alliancestory-intro1/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/alliancestory-intro1/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/alliancestory-intro1/text","value":
+"Рад видеть, что с вами все в порядке, посол. Я узнал о разрушении Земли и Протектората от других послов, которым удалось спастись, и боялся, что вы могли погибнуть в хаосе."
+},{"op":"replace","path":"/alliancestory-intro2/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/alliancestory-intro1/text","value":
+"Я скоро встречусь с другими лидерами Альянса, чтобы обсудить эту трагедию в полном объеме. Мы также обсудим ваше следующее задание."
+},{"op":"replace","path":"/alliancestory-intro3/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/alliancestory-intro1/text","value":
+"Пока что вы свободны странствовать по галактике как пожелаете. Как только у меня будут новые детали, я свяжусь с вами снова. Удачи вам, посол, и будьте осторожны."
+}]

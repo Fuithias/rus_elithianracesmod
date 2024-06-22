@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Небольшая металлическая безделушка, знак благодарности Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Гифт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Небольшая металлическая безделушка, знак благодарности Авикан."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Гифт"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

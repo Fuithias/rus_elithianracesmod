@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Дрон",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой дрон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой дрон.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это всего лишь небольшой дрон.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит дрон, Флоран хочет им управлять.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Небольшой дрон.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Круто, это дрон!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон. Он может парить очень тихо.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая парящая конструкция.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой дрон, построенный компанией AAE.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное транспортное средство. Это немного похоже на Драла.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективная конструкция дрона.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный автомобиль. Отмечено сходство с подразделениями Vanguard Drahl.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон-маленький, для полетов. Акки используют для шпионажа?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Дрон"
+},{"op":"replace","path":"/description","value":
+"Небольшой дрон."
+},{"op":"replace","path":"/apexDescription","value":
+"Небольшой дрон."
+},{"op":"replace","path":"/avianDescription","value":
+"Это всего лишь небольшой дрон."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит дрон, Флоран хочет им управлять."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Небольшой дрон."
+},{"op":"replace","path":"/humanDescription","value":
+"Круто, это дрон!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Дрон. Он может парить очень тихо."
+},{"op":"replace","path":"/novakidDescription","value":
+"Небольшая парящая конструкция."
+},{"op":"replace","path":"/aegiDescription","value":
+"Небольшой дрон, построенный компанией ПАИ."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное транспортное средство. Это немного похоже на Драла."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективная конструкция дрона."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный автомобиль. Отмечено сходство с подразделениями Авангард Drahl."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дрон-маленький, для полетов. Акки используют для шпионажа?"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочные ноги робота, созданные Авангардом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ноги меха Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочные ноги робота, созданные Авангардом."
+},{"op":"replace","path":"/shortdescription","value":
+"Ноги меха Авангарда"
+}]

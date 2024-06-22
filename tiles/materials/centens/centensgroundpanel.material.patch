@@ -1,37 +1,15 @@
-[
-  {
-    "value": "центенский пол",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкая, но невероятно прочная металлическая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заворожен. Эта металлическая панель прочнее и легче всего, что я когда-либо встречал.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран в замешательстве. Металл такой легкий и такой прочный, что Флоран не может его поцарапать...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня озадачивает, как легок и прочен этот металл.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружена центенская металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пол-красивый, очень чистый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"центенский пол"
+},{"op":"replace","path":"/description","value":
+"Легкая, но невероятно прочная металлическая панель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заворожен. Эта металлическая панель прочнее и легче всего, что я когда-либо встречал."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран в замешательстве. Металл такой легкий и такой прочный, что Флоран не может его поцарапать..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Меня озадачивает, как легок и прочен этот металл."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружена центенская металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пол-красивый, очень чистый."
+}]

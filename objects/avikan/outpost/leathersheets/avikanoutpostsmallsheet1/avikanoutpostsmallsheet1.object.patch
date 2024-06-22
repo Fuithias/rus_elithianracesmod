@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Кожаный лист",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист кожи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная простыня.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Это кожаный лист.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, простой и понятный.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен кожаный лист.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист-кожа. Не интересно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кожаный лист"
+},{"op":"replace","path":"/description","value":
+"Лист кожи."
+},{"op":"replace","path":"/floranDescription","value":
+"Простая кожаная простыня."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Это кожаный лист."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаный лист, простой и понятный."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен кожаный лист."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лист-кожа. Не интересно."
+}]

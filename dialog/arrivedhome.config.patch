@@ -1,252 +1,101 @@
-[
-  {
-    "value": "Вы звали меня?",
-    "path": "/beacon/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Могу я вам чем-то помочь?",
-    "path": "/beacon/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, друг. Я тебе понадобился?",
-    "path": "/beacon/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы хотели бы что-нибудь обсудить?",
-    "path": "/beacon/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх, мой друг",
-    "path": "/beacon/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вот, возьмите! Я был очень доволен вашим сервисом.",
-    "path": "/rent/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Номаде нужно больше таких людей, как вы. Пожалуйста, примите этот знак благодарности.",
-    "path": "/rent/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо, что приютили такого путешественника, как я. Пожалуйста, возьмите это.",
-    "path": "/rent/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты был хорошим другом. Вот, возьми.",
-    "path": "/rent/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть для вас небольшой подарок. В знак моей благодарности.",
-    "path": "/rent/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужна моя помощь?",
-    "path": "/beacon/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы меня звали?",
-    "path": "/beacon/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужно было поговорить?",
-    "path": "/beacon/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Требуются ли мои услуги?",
-    "path": "/beacon/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "И снова здравствуйте.",
-    "path": "/beacon/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Возьмите это. Это знак моей благодарности.",
-    "path": "/rent/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были добры ко мне. Возьми это.",
-    "path": "/rent/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были невероятно полезны. Вот вам подарок.",
-    "path": "/rent/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Подарок за ваши хлопоты.",
-    "path": "/rent/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "За все, что ты для меня сделал, возьми это.",
-    "path": "/rent/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд принял ваш вызов.",
-    "path": "/beacon/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужны услуги этого отряда?",
-    "path": "/beacon/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вызов принят. Отряд прибыл, как и просили.",
-    "path": "/beacon/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Звонок принят. Нужен ли этот отряд?",
-    "path": "/beacon/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх.",
-    "path": "/beacon/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Довольны обслуживанием. Преподношу подарок.",
-    "path": "/rent/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вручение подарка. Ваша служба была достойна восхищения.",
-    "path": "/rent/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваши действия заслуживают награды. Возьмите это.",
-    "path": "/rent/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы получили заслугу. Вручаю подарок.",
-    "path": "/rent/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вручаю знак благодарности. Возьмите его.",
-    "path": "/rent/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вы меня звали?",
-    "path": "/beacon/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Чем могу помочь?",
-    "path": "/beacon/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я вам нужен?",
-    "path": "/beacon/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эй! Зачем ты мне звонил?",
-    "path": "/beacon/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите поговорить?",
-    "path": "/beacon/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вы отличный домовладелец. Вот, возьмите.",
-    "path": "/rent/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, вам понравится!",
-    "path": "/rent/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Дом замечательный! Пожалуйста, возьмите это.",
-    "path": "/rent/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть кое-что для вас!",
-    "path": "/rent/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Продолжайте оказывать отличные услуги, а я буду продолжать платить за квартиру",
-    "path": "/rent/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты зовешь, акки приходит!",
-    "path": "/beacon/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Позовите акки, акки здесь.",
-    "path": "/beacon/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вызвать акки?",
-    "path": "/beacon/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Дааа?",
-    "path": "/beacon/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Чего ты хочешь? Акки, послушай!",
-    "path": "/beacon/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки доволен домом-акки. Прими награду!",
-    "path": "/rent/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Дом-акки делает акки счастливым. Акки-счастливый дарит подарки!",
-    "path": "/rent/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы делаете дом хорошим. Акки дарит подарок.",
-    "path": "/rent/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки радуют, это правда-правда. Акки тоже сделает вас счастливыми!",
-    "path": "/rent/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки платит за аренду, акки снимать жилье - хорошо. А теперь к тому, что делать акки",
-    "path": "/rent/akkimari/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/beacon/avikan/default/0","value":
+"Вы звали меня?"
+},{"op":"replace","path":"/beacon/avikan/default/1","value":
+"Могу я вам чем-то помочь?"
+},{"op":"replace","path":"/beacon/avikan/default/2","value":
+"Приветствую тебя, друг. Я тебе понадобился?"
+},{"op":"replace","path":"/beacon/avikan/default/3","value":
+"Вы хотели бы что-нибудь обсудить?"
+},{"op":"replace","path":"/beacon/avikan/default/4","value":
+"Вас Вха'лейх, мой друг"
+},{"op":"replace","path":"/rent/avikan/default/0","value":
+"Вот, возьмите! Я был очень доволен вашим сервисом."
+},{"op":"replace","path":"/rent/avikan/default/1","value":
+"Номаде нужно больше таких людей, как вы. Пожалуйста, примите этот знак благодарности."
+},{"op":"replace","path":"/rent/avikan/default/2","value":
+"Спасибо, что приютили такого путешественника, как я. Пожалуйста, возьмите это."
+},{"op":"replace","path":"/rent/avikan/default/3","value":
+"Ты был хорошим другом. Вот, возьми."
+},{"op":"replace","path":"/rent/avikan/default/4","value":
+"У меня есть для вас небольшой подарок. В знак моей благодарности."
+},{"op":"replace","path":"/beacon/trink/default/0","value":
+"Вам нужна моя помощь?"
+},{"op":"replace","path":"/beacon/trink/default/1","value":
+"Вы меня звали?"
+},{"op":"replace","path":"/beacon/trink/default/2","value":
+"Вам нужно было поговорить?"
+},{"op":"replace","path":"/beacon/trink/default/3","value":
+"Требуются ли мои услуги?"
+},{"op":"replace","path":"/beacon/trink/default/4","value":
+"И снова здравствуйте."
+},{"op":"replace","path":"/rent/trink/default/0","value":
+"Возьмите это. Это знак моей благодарности."
+},{"op":"replace","path":"/rent/trink/default/1","value":
+"Вы были добры ко мне. Возьми это."
+},{"op":"replace","path":"/rent/trink/default/2","value":
+"Вы были невероятно полезны. Вот вам подарок."
+},{"op":"replace","path":"/rent/trink/default/3","value":
+"Подарок за ваши хлопоты."
+},{"op":"replace","path":"/rent/trink/default/4","value":
+"За все, что ты для меня сделал, возьми это."
+},{"op":"replace","path":"/beacon/droden/default/0","value":
+"Этот отряд принял ваш вызов."
+},{"op":"replace","path":"/beacon/droden/default/1","value":
+"Вам нужны услуги этого отряда?"
+},{"op":"replace","path":"/beacon/droden/default/2","value":
+"Вызов принят. Отряд прибыл, как и просили."
+},{"op":"replace","path":"/beacon/droden/default/3","value":
+"Звонок принят. Нужен ли этот отряд?"
+},{"op":"replace","path":"/beacon/droden/default/4","value":
+"Вас Вха'лейх."
+},{"op":"replace","path":"/rent/droden/default/0","value":
+"Довольны обслуживанием. Преподношу подарок."
+},{"op":"replace","path":"/rent/droden/default/1","value":
+"Вручение подарка. Ваша служба была достойна восхищения."
+},{"op":"replace","path":"/rent/droden/default/2","value":
+"Ваши действия заслуживают награды. Возьмите это."
+},{"op":"replace","path":"/rent/droden/default/3","value":
+"Вы получили заслугу. Вручаю подарок."
+},{"op":"replace","path":"/rent/droden/default/4","value":
+"Вручаю знак благодарности. Возьмите его."
+},{"op":"replace","path":"/beacon/aegi/default/0","value":
+"Вы меня звали?"
+},{"op":"replace","path":"/beacon/aegi/default/1","value":
+"Чем могу помочь?"
+},{"op":"replace","path":"/beacon/aegi/default/2","value":
+"Я вам нужен?"
+},{"op":"replace","path":"/beacon/aegi/default/3","value":
+"Эй! Зачем ты мне звонил?"
+},{"op":"replace","path":"/beacon/aegi/default/4","value":
+"Хотите поговорить?"
+},{"op":"replace","path":"/rent/aegi/default/0","value":
+"Вы отличный домовладелец. Вот, возьмите."
+},{"op":"replace","path":"/rent/aegi/default/1","value":
+"Думаю, вам понравится!"
+},{"op":"replace","path":"/rent/aegi/default/2","value":
+"Дом замечательный! Пожалуйста, возьмите это."
+},{"op":"replace","path":"/rent/aegi/default/3","value":
+"У меня есть кое-что для вас!"
+},{"op":"replace","path":"/rent/aegi/default/4","value":
+"Продолжайте оказывать отличные услуги, а я буду продолжать платить за квартиру"
+},{"op":"replace","path":"/beacon/akkimari/default/0","value":
+"Ты зовешь, акки приходит!"
+},{"op":"replace","path":"/beacon/akkimari/default/1","value":
+"Позовите акки, акки здесь."
+},{"op":"replace","path":"/beacon/akkimari/default/2","value":
+"Вызвать акки?"
+},{"op":"replace","path":"/beacon/akkimari/default/3","value":
+"Дааа?"
+},{"op":"replace","path":"/beacon/akkimari/default/4","value":
+"Чего ты хочешь? Акки, послушай!"
+},{"op":"replace","path":"/rent/akkimari/default/0","value":
+"Акки доволен домом-акки. Прими награду!"
+},{"op":"replace","path":"/rent/akkimari/default/1","value":
+"Дом-акки делает акки счастливым. Акки-счастливый дарит подарки!"
+},{"op":"replace","path":"/rent/akkimari/default/2","value":
+"Вы делаете дом хорошим. Акки дарит подарок."
+},{"op":"replace","path":"/rent/akkimari/default/3","value":
+"Акки радуют, это правда-правда. Акки тоже сделает вас счастливыми!"
+},{"op":"replace","path":"/rent/akkimari/default/4","value":
+"Акки платит за аренду, акки снимать жилье - хорошо. А теперь к тому, что делать акки"
+}]

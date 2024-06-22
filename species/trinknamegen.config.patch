@@ -1,307 +1,123 @@
-[
-  {
-    "value": "Нив",
-    "path": "/names/1/1/1",
-    "op": "replace"
-  },
-  {
-    "value": "Кило",
-    "path": "/names/1/1/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мега",
-    "path": "/names/1/1/3",
-    "op": "replace"
-  },
-  {
-    "value": "Гига",
-    "path": "/names/1/1/4",
-    "op": "replace"
-  },
-  {
-    "value": "Тера",
-    "path": "/names/1/1/5",
-    "op": "replace"
-  },
-  {
-    "value": "Пета",
-    "path": "/names/1/1/6",
-    "op": "replace"
-  },
-  {
-    "value": "Экса",
-    "path": "/names/1/1/7",
-    "op": "replace"
-  },
-  {
-    "value": "Зетта",
-    "path": "/names/1/1/8",
-    "op": "replace"
-  },
-  {
-    "value": "Йотта",
-    "path": "/names/1/1/9",
-    "op": "replace"
-  },
-  {
-    "value": "Киби",
-    "path": "/names/1/1/10",
-    "op": "replace"
-  },
-  {
-    "value": "Меби",
-    "path": "/names/1/1/11",
-    "op": "replace"
-  },
-  {
-    "value": "Гиби",
-    "path": "/names/1/1/12",
-    "op": "replace"
-  },
-  {
-    "value": "Теби",
-    "path": "/names/1/1/13",
-    "op": "replace"
-  },
-  {
-    "value": "Пеби",
-    "path": "/names/1/1/14",
-    "op": "replace"
-  },
-  {
-    "value": "Эксби",
-    "path": "/names/1/1/15",
-    "op": "replace"
-  },
-  {
-    "value": "Зеби",
-    "path": "/names/1/1/16",
-    "op": "replace"
-  },
-  {
-    "value": "Йоби",
-    "path": "/names/1/1/17",
-    "op": "replace"
-  },
-  {
-    "value": "Альфа",
-    "path": "/names/1/1/18",
-    "op": "replace"
-  },
-  {
-    "value": "Бета",
-    "path": "/names/1/1/19",
-    "op": "replace"
-  },
-  {
-    "value": "Гамма",
-    "path": "/names/1/1/20",
-    "op": "replace"
-  },
-  {
-    "value": "Дельта",
-    "path": "/names/1/1/21",
-    "op": "replace"
-  },
-  {
-    "value": "Эпсилон",
-    "path": "/names/1/1/22",
-    "op": "replace"
-  },
-  {
-    "value": "Зета",
-    "path": "/names/1/1/23",
-    "op": "replace"
-  },
-  {
-    "value": "Эта",
-    "path": "/names/1/1/24",
-    "op": "replace"
-  },
-  {
-    "value": "Тета",
-    "path": "/names/1/1/25",
-    "op": "replace"
-  },
-  {
-    "value": "Йота",
-    "path": "/names/1/1/26",
-    "op": "replace"
-  },
-  {
-    "value": "Каппа",
-    "path": "/names/1/1/27",
-    "op": "replace"
-  },
-  {
-    "value": "Лямбда",
-    "path": "/names/1/1/28",
-    "op": "replace"
-  },
-  {
-    "value": "Му",
-    "path": "/names/1/1/29",
-    "op": "replace"
-  },
-  {
-    "value": "Си",
-    "path": "/names/1/1/30",
-    "op": "replace"
-  },
-  {
-    "value": "Омикрон",
-    "path": "/names/1/1/31",
-    "op": "replace"
-  },
-  {
-    "value": "Пи",
-    "path": "/names/1/1/32",
-    "op": "replace"
-  },
-  {
-    "value": "Ро",
-    "path": "/names/1/1/33",
-    "op": "replace"
-  },
-  {
-    "value": "Сигма",
-    "path": "/names/1/1/34",
-    "op": "replace"
-  },
-  {
-    "value": "Тау",
-    "path": "/names/1/1/35",
-    "op": "replace"
-  },
-  {
-    "value": "Ипсилон",
-    "path": "/names/1/1/36",
-    "op": "replace"
-  },
-  {
-    "value": "Фи",
-    "path": "/names/1/1/37",
-    "op": "replace"
-  },
-  {
-    "value": "Чи",
-    "path": "/names/1/1/38",
-    "op": "replace"
-  },
-  {
-    "value": "Пси",
-    "path": "/names/1/1/39",
-    "op": "replace"
-  },
-  {
-    "value": "Омега",
-    "path": "/names/1/1/40",
-    "op": "replace"
-  },
-  {
-    "value": "Вверх",
-    "path": "/names/1/1/41",
-    "op": "replace"
-  },
-  {
-    "value": "Вниз",
-    "path": "/names/1/1/42",
-    "op": "replace"
-  },
-  {
-    "value": "Привет",
-    "path": "/names/1/1/43",
-    "op": "replace"
-  },
-  {
-    "value": "Ви",
-    "path": "/names/1/1/44",
-    "op": "replace"
-  },
-  {
-    "value": "Би",
-    "path": "/names/1/1/45",
-    "op": "replace"
-  },
-  {
-    "value": "ОЗУ",
-    "path": "/names/1/2/1",
-    "op": "replace"
-  },
-  {
-    "value": "ПЗУ",
-    "path": "/names/1/2/2",
-    "op": "replace"
-  },
-  {
-    "value": "ЦПУ",
-    "path": "/names/1/2/3",
-    "op": "replace"
-  },
-  {
-    "value": "ОС",
-    "path": "/names/1/2/4",
-    "op": "replace"
-  },
-  {
-    "value": "ВЭР",
-    "path": "/names/1/2/5",
-    "op": "replace"
-  },
-  {
-    "value": "ОБЛАКО",
-    "path": "/names/1/2/6",
-    "op": "replace"
-  },
-  {
-    "value": "БИТ",
-    "path": "/names/1/2/7",
-    "op": "replace"
-  },
-  {
-    "value": "НАЙББЛ",
-    "path": "/names/1/2/8",
-    "op": "replace"
-  },
-  {
-    "value": "БАЙТ",
-    "path": "/names/1/2/9",
-    "op": "replace"
-  },
-  {
-    "value": "ФЛОП",
-    "path": "/names/1/2/10",
-    "op": "replace"
-  },
-  {
-    "value": "ГЕРЦ",
-    "path": "/names/1/2/11",
-    "op": "replace"
-  },
-  {
-    "value": "ДИСК",
-    "path": "/names/1/2/12",
-    "op": "replace"
-  },
-  {
-    "value": "ДРАЙВ",
-    "path": "/names/1/2/13",
-    "op": "replace"
-  },
-  {
-    "value": "ПОТОК",
-    "path": "/names/1/2/14",
-    "op": "replace"
-  },
-  {
-    "value": "ЗАГРУЗКА",
-    "path": "/names/1/2/15",
-    "op": "replace"
-  },
-  {
-    "value": "ДАННЫЕ",
-    "path": "/names/1/2/16",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/names/1/1/1","value":
+"Нив"
+},{"op":"replace","path":"/names/1/1/2","value":
+"Кило"
+},{"op":"replace","path":"/names/1/1/3","value":
+"Мега"
+},{"op":"replace","path":"/names/1/1/4","value":
+"Гига"
+},{"op":"replace","path":"/names/1/1/5","value":
+"Тера"
+},{"op":"replace","path":"/names/1/1/6","value":
+"Пета"
+},{"op":"replace","path":"/names/1/1/7","value":
+"Экса"
+},{"op":"replace","path":"/names/1/1/8","value":
+"Зетта"
+},{"op":"replace","path":"/names/1/1/9","value":
+"Йотта"
+},{"op":"replace","path":"/names/1/1/10","value":
+"Киби"
+},{"op":"replace","path":"/names/1/1/11","value":
+"Меби"
+},{"op":"replace","path":"/names/1/1/12","value":
+"Гиби"
+},{"op":"replace","path":"/names/1/1/13","value":
+"Теби"
+},{"op":"replace","path":"/names/1/1/14","value":
+"Пеби"
+},{"op":"replace","path":"/names/1/1/15","value":
+"Эксби"
+},{"op":"replace","path":"/names/1/1/16","value":
+"Зеби"
+},{"op":"replace","path":"/names/1/1/17","value":
+"Йоби"
+},{"op":"replace","path":"/names/1/1/18","value":
+"Альфа"
+},{"op":"replace","path":"/names/1/1/19","value":
+"Бета"
+},{"op":"replace","path":"/names/1/1/20","value":
+"Гамма"
+},{"op":"replace","path":"/names/1/1/21","value":
+"Дельта"
+},{"op":"replace","path":"/names/1/1/22","value":
+"Эпсилон"
+},{"op":"replace","path":"/names/1/1/23","value":
+"Зета"
+},{"op":"replace","path":"/names/1/1/24","value":
+"Эта"
+},{"op":"replace","path":"/names/1/1/25","value":
+"Тета"
+},{"op":"replace","path":"/names/1/1/26","value":
+"Йота"
+},{"op":"replace","path":"/names/1/1/27","value":
+"Каппа"
+},{"op":"replace","path":"/names/1/1/28","value":
+"Лямбда"
+},{"op":"replace","path":"/names/1/1/29","value":
+"Му"
+},{"op":"replace","path":"/names/1/1/30","value":
+"Си"
+},{"op":"replace","path":"/names/1/1/31","value":
+"Омикрон"
+},{"op":"replace","path":"/names/1/1/32","value":
+"Пи"
+},{"op":"replace","path":"/names/1/1/33","value":
+"Ро"
+},{"op":"replace","path":"/names/1/1/34","value":
+"Сигма"
+},{"op":"replace","path":"/names/1/1/35","value":
+"Тау"
+},{"op":"replace","path":"/names/1/1/36","value":
+"Ипсилон"
+},{"op":"replace","path":"/names/1/1/37","value":
+"Фи"
+},{"op":"replace","path":"/names/1/1/38","value":
+"Чи"
+},{"op":"replace","path":"/names/1/1/39","value":
+"Пси"
+},{"op":"replace","path":"/names/1/1/40","value":
+"Омега"
+},{"op":"replace","path":"/names/1/1/41","value":
+"Вверх"
+},{"op":"replace","path":"/names/1/1/42","value":
+"Вниз"
+},{"op":"replace","path":"/names/1/1/43","value":
+"Привет"
+},{"op":"replace","path":"/names/1/1/44","value":
+"Ви"
+},{"op":"replace","path":"/names/1/1/45","value":
+"Би"
+},{"op":"replace","path":"/names/1/2/1","value":
+"ОЗУ"
+},{"op":"replace","path":"/names/1/2/2","value":
+"ПЗУ"
+},{"op":"replace","path":"/names/1/2/3","value":
+"ЦПУ"
+},{"op":"replace","path":"/names/1/2/4","value":
+"ОС"
+},{"op":"replace","path":"/names/1/2/5","value":
+"ВЭР"
+},{"op":"replace","path":"/names/1/2/6","value":
+"ОБЛАКО"
+},{"op":"replace","path":"/names/1/2/7","value":
+"БИТ"
+},{"op":"replace","path":"/names/1/2/8","value":
+"НАЙББЛ"
+},{"op":"replace","path":"/names/1/2/9","value":
+"БАЙТ"
+},{"op":"replace","path":"/names/1/2/10","value":
+"ФЛОП"
+},{"op":"replace","path":"/names/1/2/11","value":
+"ГЕРЦ"
+},{"op":"replace","path":"/names/1/2/12","value":
+"ДИСК"
+},{"op":"replace","path":"/names/1/2/13","value":
+"ДРАЙВ"
+},{"op":"replace","path":"/names/1/2/14","value":
+"ПОТОК"
+},{"op":"replace","path":"/names/1/2/15","value":
+"ЗАГРУЗКА"
+},{"op":"replace","path":"/names/1/2/16","value":
+"ДАННЫЕ"
+}]

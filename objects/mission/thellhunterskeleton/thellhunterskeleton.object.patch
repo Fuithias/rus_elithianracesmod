@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Скелет Охотника за Теллом",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сам легендарный Теллхантер...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Старые кости, кости Теллхантера...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот скелет принадлежал самому легендарному Теллхантеру.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скелет самого великого Охотника на Теллов...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены кости Авикана. Анализ: Следы ДНК совпадают с профилем Теллхантера.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетянин-мертв. Похож на Теллхантера.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Скелет Охотника за Теллом"
+},{"op":"replace","path":"/description","value":
+"Сам легендарный Теллхантер..."
+},{"op":"replace","path":"/floranDescription","value":
+"Старые кости, кости Теллхантера..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Этот скелет принадлежал самому легендарному Теллхантеру."
+},{"op":"replace","path":"/avikanDescription","value":
+"Скелет самого великого Охотника на Теллов..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены кости Авикана. Анализ: Следы ДНК совпадают с профилем Теллхантера."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инопланетянин-мертв. Похож на Теллхантера."
+}]

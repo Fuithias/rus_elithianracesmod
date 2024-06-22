@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Убедище Звездохода",
-    "path": "/bookmarkName",
-    "op": "replace"
-  },
-  {
-    "value": "Назад на корабль",
-    "path": "/destinations/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/bookmarkName","value":
+"Убедище Звездохода"
+},{"op":"replace","path":"/destinations/name","value":
+"Назад на корабль"
+}]

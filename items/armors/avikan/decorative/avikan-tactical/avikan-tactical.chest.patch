@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Легкая броня для тактических операций.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тактическая пластина",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Легкая броня для тактических операций."
+},{"op":"replace","path":"/shortdescription","value":
+"Тактическая пластина"
+}]

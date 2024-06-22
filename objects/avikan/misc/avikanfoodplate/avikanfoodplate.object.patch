@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Тарелка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тарелка полная еды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ужин.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вкусная еда.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Едасс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Тарелка полная еды.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еда. Вкусная еда!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сбалансированный ужин.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сбалансированное питание.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционный обед.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканское блюдо.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Пищевая ценность: отличная.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тарелка-еда, вкусная.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Тарелка"
+},{"op":"replace","path":"/description","value":
+"Тарелка полная еды."
+},{"op":"replace","path":"/apexDescription","value":
+"Ужин."
+},{"op":"replace","path":"/avianDescription","value":
+"Вкусная еда."
+},{"op":"replace","path":"/floranDescription","value":
+"Едасс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Тарелка полная еды."
+},{"op":"replace","path":"/humanDescription","value":
+"Еда. Вкусная еда!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Сбалансированный ужин."
+},{"op":"replace","path":"/aegiDescription","value":
+"Сбалансированное питание."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционный обед."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авиканское блюдо."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Пищевая ценность: отличная."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Тарелка-еда, вкусная."
+}]

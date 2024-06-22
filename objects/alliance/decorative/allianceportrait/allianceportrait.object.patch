@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Портрет адмирала Лиина",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой портрет адмирала Лиина Атмаэры.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой портрет какого-то важного человека.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот человек, должно быть, очень важный.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая фотография важного человека.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Кто это?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то важный человек.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот человек обладает аурой ответственности и власти.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сома очень важный парень.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Портрет Лиина Атмаэры, адмирала посольства Креона.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Должно быть, это инопланетный лидер.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Портрет Лиина Атмаэры. Он адмирал посольства Креона.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен портрет инопланетянина.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки считает, что это важно для человека.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Портрет адмирала Лиина"
+},{"op":"replace","path":"/description","value":
+"Большой портрет адмирала Лиина Атмаэры."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой портрет какого-то важного человека."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот человек, должно быть, очень важный."
+},{"op":"replace","path":"/floranDescription","value":
+"Большая фотография важного человека."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Кто это?"
+},{"op":"replace","path":"/humanDescription","value":
+"Какой-то важный человек."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот человек обладает аурой ответственности и власти."
+},{"op":"replace","path":"/novakidDescription","value":
+"Сома очень важный парень."
+},{"op":"replace","path":"/aegiDescription","value":
+"Портрет Лиина Атмаэры, адмирала посольства Креона."
+},{"op":"replace","path":"/avikanDescription","value":
+"Должно быть, это инопланетный лидер."
+},{"op":"replace","path":"/trinkDescription","value":
+"Портрет Лиина Атмаэры. Он адмирал посольства Креона."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен портрет инопланетянина."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки считает, что это важно для человека."
+}]

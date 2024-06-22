@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Важнейшая часть виброклинков Vanguard.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Вибро Ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Важнейшая часть виброклинков Авангард."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Вибро Ядро"
+}]

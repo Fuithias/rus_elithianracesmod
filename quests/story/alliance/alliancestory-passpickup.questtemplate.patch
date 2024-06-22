@@ -1,77 +1,31 @@
-[
-  {
-    "value": "Возвращение в Элитийский Альянс",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Я получил передачу от ^orange;адмирала Лийина^reset;, пока вы были заняты разведкой. ^green;Я могу передать её вам сейчас, если у вас есть время.^reset;",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "А вот и вы, посол. Это ваш собственный ^orange;пропуск посла^reset;: он позволит вам ^green;посетить ^orange;командный центр ^green;на самом верху посольства Креона^reset;.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/0/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Ах, очень рады снова услышать вас, посол!",
-    "path": "/scriptConfig/radioMessages/0/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/1/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Недавно рядом с Креоном открылось новое посольство, и я хотел бы пригласить вас прибыть ко мне туда.",
-    "path": "/scriptConfig/radioMessages/1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/2/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Все корабли Альянса, которые вы найдете в космосе, должны быть оборудованы телепортом, который доставит вас в посольство Креона.",
-    "path": "/scriptConfig/radioMessages/2/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/3/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Как только вы окажетесь на месте, подойдите к столу секретаря в вестибюле посольства. Секретарь выдаст вам ^orange;пропуск посла^reset;, который понадобится для доступа на верхние этажи посольства.",
-    "path": "/scriptConfig/radioMessages/3/text",
-    "op": "replace"
-  },
-  {
-    "value": "Адмирал Лийин",
-    "path": "/scriptConfig/radioMessages/4/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Навестите Креон в ближайшее время, посол. Я буду ждать вас.",
-    "path": "/scriptConfig/radioMessages/4/text",
-    "op": "replace"
-  },
-  {
-    "value": "Слушайте передачу ^orange;адмирала Лийина^reset;...",
-    "path": "/scriptConfig/description",
-    "op": "replace"
-  },
-  {
-    "value": "Зарегистрируйтесь у ^orange;Дейлида ^reset;в ^orange;посольстве Креона^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"Возвращение в Элитийский Альянс"
+},{"op":"replace","path":"/text","value":
+"Я получил передачу от ^orange;адмирала Лиина^reset;, пока вы были заняты разведкой. ^green;Я могу передать её вам сейчас, если у вас есть время.^reset;"
+},{"op":"replace","path":"/completionText","value":
+"А вот и вы, посол. Это ваш собственный ^orange;пропуск посла^reset;: он позволит вам ^green;посетить ^orange;командный центр ^green;на самом верху посольства Креона^reset;."
+},{"op":"replace","path":"/scriptConfig/radioMessages/0/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/0/text","value":
+"Ах, очень рады снова услышать вас, посол!"
+},{"op":"replace","path":"/scriptConfig/radioMessages/1/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/1/text","value":
+"Недавно рядом с Креоном открылось новое посольство, и я хотел бы пригласить вас прибыть ко мне туда."
+},{"op":"replace","path":"/scriptConfig/radioMessages/2/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/2/text","value":
+"Все корабли Альянса, которые вы найдете в космосе, должны быть оборудованы телепортом, который доставит вас в посольство Креона."
+},{"op":"replace","path":"/scriptConfig/radioMessages/3/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/3/text","value":
+"Как только вы окажетесь на месте, подойдите к столу секретаря в вестибюле посольства. Секретарь выдаст вам ^orange;пропуск посла^reset;, который понадобится для доступа на верхние этажи посольства."
+},{"op":"replace","path":"/scriptConfig/radioMessages/4/senderName","value":
+"Адмирал Лиин"
+},{"op":"replace","path":"/scriptConfig/radioMessages/4/text","value":
+"Навестите Креон в ближайшее время, посол. Я буду ждать вас."
+},{"op":"replace","path":"/scriptConfig/description","value":
+"Слушайте передачу ^orange;адмирала Лиина^reset;..."
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Зарегистрируйтесь у ^orange;Дейлида ^reset;в ^orange;посольстве Креона^reset;"
+}]

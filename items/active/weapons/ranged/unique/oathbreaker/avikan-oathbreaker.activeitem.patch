@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Дробовик, стреляющий одной разрушительной пулей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Горе клятвопреступника^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Удар оружием",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Дробовик, стреляющий одной разрушительной пулей."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Горе клятвопреступника^white;"
+},{"op":"replace","path":"/category","value":
+"Дробовик"
+},{"op":"replace","path":"/altAbility/name","value":
+"Удар оружием"
+}]

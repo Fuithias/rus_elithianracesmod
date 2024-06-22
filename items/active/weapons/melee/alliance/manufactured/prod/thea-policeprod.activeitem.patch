@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Электрошокер, используемый органами Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Кузница Страйкера^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "П-АСБ Ухудшитель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Электро-дубинка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Электрошокер, используемый органами Союза."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Кузница Страйкера^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"П-АСБ Ухудшитель"
+},{"op":"replace","path":"/category","value":
+"Электро-дубинка"
+}]

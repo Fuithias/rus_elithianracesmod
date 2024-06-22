@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Штаны, которые часто носят авиканские звездопроходцы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны звездопроходца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Штаны, которые часто носят авиканские звездопроходцы."
+},{"op":"replace","path":"/shortdescription","value":
+"Штаны звездопроходца"
+}]

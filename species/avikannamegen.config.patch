@@ -1,537 +1,215 @@
-[
-  {
-    "value": "Идьян",
-    "path": "/names/1/1/1",
-    "op": "replace"
-  },
-  {
-    "value": "Идьяри",
-    "path": "/names/1/1/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мадьяки",
-    "path": "/names/1/1/3",
-    "op": "replace"
-  },
-  {
-    "value": "Яллар",
-    "path": "/names/1/1/4",
-    "op": "replace"
-  },
-  {
-    "value": "Яяр",
-    "path": "/names/1/1/5",
-    "op": "replace"
-  },
-  {
-    "value": "Удялон",
-    "path": "/names/1/1/6",
-    "op": "replace"
-  },
-  {
-    "value": "Удён",
-    "path": "/names/1/1/7",
-    "op": "replace"
-  },
-  {
-    "value": "Адьяси",
-    "path": "/names/1/1/8",
-    "op": "replace"
-  },
-  {
-    "value": "Идиси",
-    "path": "/names/1/1/9",
-    "op": "replace"
-  },
-  {
-    "value": "Редако",
-    "path": "/names/1/1/10",
-    "op": "replace"
-  },
-  {
-    "value": "Редял",
-    "path": "/names/1/1/11",
-    "op": "replace"
-  },
-  {
-    "value": "Эдял",
-    "path": "/names/1/1/12",
-    "op": "replace"
-  },
-  {
-    "value": "Эдьони",
-    "path": "/names/1/1/13",
-    "op": "replace"
-  },
-  {
-    "value": "Адьяра",
-    "path": "/names/1/1/14",
-    "op": "replace"
-  },
-  {
-    "value": "Одион",
-    "path": "/names/1/1/15",
-    "op": "replace"
-  },
-  {
-    "value": "Адьякар",
-    "path": "/names/1/1/16",
-    "op": "replace"
-  },
-  {
-    "value": "Один",
-    "path": "/names/1/1/17",
-    "op": "replace"
-  },
-  {
-    "value": "Вальян",
-    "path": "/names/1/1/18",
-    "op": "replace"
-  },
-  {
-    "value": "Адако",
-    "path": "/names/1/1/19",
-    "op": "replace"
-  },
-  {
-    "value": "Идако",
-    "path": "/names/1/1/20",
-    "op": "replace"
-  },
-  {
-    "value": "Идион",
-    "path": "/names/1/1/21",
-    "op": "replace"
-  },
-  {
-    "value": "Якан",
-    "path": "/names/1/1/22",
-    "op": "replace"
-  },
-  {
-    "value": "Адьяко",
-    "path": "/names/1/1/23",
-    "op": "replace"
-  },
-  {
-    "value": "Азион",
-    "path": "/names/1/1/24",
-    "op": "replace"
-  },
-  {
-    "value": "Медьики",
-    "path": "/names/1/1/25",
-    "op": "replace"
-  },
-  {
-    "value": "Одян",
-    "path": "/names/1/1/26",
-    "op": "replace"
-  },
-  {
-    "value": "Адьян",
-    "path": "/names/1/1/27",
-    "op": "replace"
-  },
-  {
-    "value": "Адьяран",
-    "path": "/names/1/1/28",
-    "op": "replace"
-  },
-  {
-    "value": "Изитья",
-    "path": "/names/1/1/29",
-    "op": "replace"
-  },
-  {
-    "value": "Азял",
-    "path": "/names/1/1/30",
-    "op": "replace"
-  },
-  {
-    "value": "Азак",
-    "path": "/names/1/1/31",
-    "op": "replace"
-  },
-  {
-    "value": "Урияр",
-    "path": "/names/1/1/32",
-    "op": "replace"
-  },
-  {
-    "value": "Ирион",
-    "path": "/names/1/1/33",
-    "op": "replace"
-  },
-  {
-    "value": "Эриан",
-    "path": "/names/1/1/34",
-    "op": "replace"
-  },
-  {
-    "value": "Мидьял",
-    "path": "/names/1/1/35",
-    "op": "replace"
-  },
-  {
-    "value": "Захир",
-    "path": "/names/1/1/36",
-    "op": "replace"
-  },
-  {
-    "value": "Эйдики",
-    "path": "/names/1/1/37",
-    "op": "replace"
-  },
-  {
-    "value": "Кахан",
-    "path": "/names/1/1/38",
-    "op": "replace"
-  },
-  {
-    "value": "Калар",
-    "path": "/names/1/1/39",
-    "op": "replace"
-  },
-  {
-    "value": "Канаве",
-    "path": "/names/1/1/40",
-    "op": "replace"
-  },
-  {
-    "value": "Азята",
-    "path": "/names/1/1/41",
-    "op": "replace"
-  },
-  {
-    "value": "Молока",
-    "path": "/names/1/1/42",
-    "op": "replace"
-  },
-  {
-    "value": "Дьялар",
-    "path": "/names/1/1/43",
-    "op": "replace"
-  },
-  {
-    "value": "Солай",
-    "path": "/names/1/1/44",
-    "op": "replace"
-  },
-  {
-    "value": "Вайрек",
-    "path": "/names/1/1/45",
-    "op": "replace"
-  },
-  {
-    "value": "Авата",
-    "path": "/names/1/1/46",
-    "op": "replace"
-  },
-  {
-    "value": "Аката",
-    "path": "/names/1/1/47",
-    "op": "replace"
-  },
-  {
-    "value": "Аймени",
-    "path": "/names/1/1/48",
-    "op": "replace"
-  },
-  {
-    "value": "Ходьяри",
-    "path": "/names/1/1/49",
-    "op": "replace"
-  },
-  {
-    "value": "Маньяри",
-    "path": "/names/1/1/50",
-    "op": "replace"
-  },
-  {
-    "value": "Заваан",
-    "path": "/names/1/1/51",
-    "op": "replace"
-  },
-  {
-    "value": "Канаан",
-    "path": "/names/1/1/52",
-    "op": "replace"
-  },
-  {
-    "value": "Кахид",
-    "path": "/names/1/1/53",
-    "op": "replace"
-  },
-  {
-    "value": "Дяхид",
-    "path": "/names/1/1/54",
-    "op": "replace"
-  },
-  {
-    "value": "Амейри",
-    "path": "/names/1/1/55",
-    "op": "replace"
-  },
-  {
-    "value": "Бахар",
-    "path": "/names/1/1/56",
-    "op": "replace"
-  },
-  {
-    "value": "Бахад",
-    "path": "/names/1/1/57",
-    "op": "replace"
-  },
-  {
-    "value": "Идьяка",
-    "path": "/names/1/1/58",
-    "op": "replace"
-  },
-  {
-    "value": "Армаан",
-    "path": "/names/1/1/59",
-    "op": "replace"
-  },
-  {
-    "value": "Гахид",
-    "path": "/names/1/1/60",
-    "op": "replace"
-  },
-  {
-    "value": "Икаар",
-    "path": "/names/1/1/61",
-    "op": "replace"
-  },
-  {
-    "value": "Окир",
-    "path": "/names/1/1/62",
-    "op": "replace"
-  },
-  {
-    "value": "Ханаан",
-    "path": "/names/1/1/63",
-    "op": "replace"
-  },
-  {
-    "value": "Ладьяки",
-    "path": "/names/1/1/64",
-    "op": "replace"
-  },
-  {
-    "value": "Лакир",
-    "path": "/names/1/1/65",
-    "op": "replace"
-  },
-  {
-    "value": "Манаан",
-    "path": "/names/1/1/66",
-    "op": "replace"
-  },
-  {
-    "value": "Эйдаки",
-    "path": "/names/1/1/67",
-    "op": "replace"
-  },
-  {
-    "value": "Ирялаан",
-    "path": "/names/1/1/68",
-    "op": "replace"
-  },
-  {
-    "value": "Арьялаан",
-    "path": "/names/1/1/69",
-    "op": "replace"
-  },
-  {
-    "value": "Адьяан",
-    "path": "/names/1/1/70",
-    "op": "replace"
-  },
-  {
-    "value": "Алхаан",
-    "path": "/names/1/1/71",
-    "op": "replace"
-  },
-  {
-    "value": "Хадьяки",
-    "path": "/names/1/1/72",
-    "op": "replace"
-  },
-  {
-    "value": "Хайяр",
-    "path": "/names/1/1/73",
-    "op": "replace"
-  },
-  {
-    "value": "Хадион",
-    "path": "/names/1/1/74",
-    "op": "replace"
-  },
-  {
-    "value": "Уряан",
-    "path": "/names/1/1/75",
-    "op": "replace"
-  },
-  {
-    "value": "Уряри",
-    "path": "/names/1/1/76",
-    "op": "replace"
-  },
-  {
-    "value": "Уряки",
-    "path": "/names/1/1/77",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Кавара",
-    "path": "/names/1/2/1",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Коден",
-    "path": "/names/1/2/2",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Номени",
-    "path": "/names/1/2/3",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Удини",
-    "path": "/names/1/2/4",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Валара",
-    "path": "/names/1/2/5",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Монуми",
-    "path": "/names/1/2/6",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Валеих",
-    "path": "/names/1/2/7",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Радас",
-    "path": "/names/1/2/8",
-    "op": "replace"
-  },
-  {
-    "value": " ас -Ромэни",
-    "path": "/names/1/2/9",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Фетали",
-    "path": "/names/1/2/10",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Лодай",
-    "path": "/names/1/2/11",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Канан",
-    "path": "/names/1/2/12",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Тевира",
-    "path": "/names/1/2/13",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Якана",
-    "path": "/names/1/2/14",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Манада",
-    "path": "/names/1/2/15",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Валуда",
-    "path": "/names/1/2/16",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Радейн",
-    "path": "/names/1/2/17",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Вагаард",
-    "path": "/names/1/2/18",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Ахлаад",
-    "path": "/names/1/2/19",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Ахран",
-    "path": "/names/1/2/20",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Фаллор",
-    "path": "/names/1/2/21",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Андрава",
-    "path": "/names/1/2/22",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Валани",
-    "path": "/names/1/2/23",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Хараад",
-    "path": "/names/1/2/24",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Ленир",
-    "path": "/names/1/2/25",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Похьяр",
-    "path": "/names/1/2/26",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Анаан",
-    "path": "/names/1/2/27",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Калачи",
-    "path": "/names/1/2/28",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Авиха",
-    "path": "/names/1/2/29",
-    "op": "replace"
-  },
-  {
-    "value": " ас-Валакис",
-    "path": "/names/1/2/30",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/names/1/1/1","value":
+"Идьян"
+},{"op":"replace","path":"/names/1/1/2","value":
+"Идьяри"
+},{"op":"replace","path":"/names/1/1/3","value":
+"Мадьяки"
+},{"op":"replace","path":"/names/1/1/4","value":
+"Яллар"
+},{"op":"replace","path":"/names/1/1/5","value":
+"Яяр"
+},{"op":"replace","path":"/names/1/1/6","value":
+"Удялон"
+},{"op":"replace","path":"/names/1/1/7","value":
+"Удён"
+},{"op":"replace","path":"/names/1/1/8","value":
+"Адьяси"
+},{"op":"replace","path":"/names/1/1/9","value":
+"Идиси"
+},{"op":"replace","path":"/names/1/1/10","value":
+"Редако"
+},{"op":"replace","path":"/names/1/1/11","value":
+"Редял"
+},{"op":"replace","path":"/names/1/1/12","value":
+"Эдял"
+},{"op":"replace","path":"/names/1/1/13","value":
+"Эдьони"
+},{"op":"replace","path":"/names/1/1/14","value":
+"Адьяра"
+},{"op":"replace","path":"/names/1/1/15","value":
+"Одион"
+},{"op":"replace","path":"/names/1/1/16","value":
+"Адьякар"
+},{"op":"replace","path":"/names/1/1/17","value":
+"Один"
+},{"op":"replace","path":"/names/1/1/18","value":
+"Вальян"
+},{"op":"replace","path":"/names/1/1/19","value":
+"Адако"
+},{"op":"replace","path":"/names/1/1/20","value":
+"Идако"
+},{"op":"replace","path":"/names/1/1/21","value":
+"Идион"
+},{"op":"replace","path":"/names/1/1/22","value":
+"Якан"
+},{"op":"replace","path":"/names/1/1/23","value":
+"Адьяко"
+},{"op":"replace","path":"/names/1/1/24","value":
+"Азион"
+},{"op":"replace","path":"/names/1/1/25","value":
+"Медьики"
+},{"op":"replace","path":"/names/1/1/26","value":
+"Одян"
+},{"op":"replace","path":"/names/1/1/27","value":
+"Адьян"
+},{"op":"replace","path":"/names/1/1/28","value":
+"Адьяран"
+},{"op":"replace","path":"/names/1/1/29","value":
+"Изитья"
+},{"op":"replace","path":"/names/1/1/30","value":
+"Азял"
+},{"op":"replace","path":"/names/1/1/31","value":
+"Азак"
+},{"op":"replace","path":"/names/1/1/32","value":
+"Урияр"
+},{"op":"replace","path":"/names/1/1/33","value":
+"Ирион"
+},{"op":"replace","path":"/names/1/1/34","value":
+"Эриан"
+},{"op":"replace","path":"/names/1/1/35","value":
+"Мидьял"
+},{"op":"replace","path":"/names/1/1/36","value":
+"Захир"
+},{"op":"replace","path":"/names/1/1/37","value":
+"Эйдики"
+},{"op":"replace","path":"/names/1/1/38","value":
+"Кахан"
+},{"op":"replace","path":"/names/1/1/39","value":
+"Калар"
+},{"op":"replace","path":"/names/1/1/40","value":
+"Канаве"
+},{"op":"replace","path":"/names/1/1/41","value":
+"Азята"
+},{"op":"replace","path":"/names/1/1/42","value":
+"Молока"
+},{"op":"replace","path":"/names/1/1/43","value":
+"Дьялар"
+},{"op":"replace","path":"/names/1/1/44","value":
+"Солай"
+},{"op":"replace","path":"/names/1/1/45","value":
+"Вайрек"
+},{"op":"replace","path":"/names/1/1/46","value":
+"Авата"
+},{"op":"replace","path":"/names/1/1/47","value":
+"Аката"
+},{"op":"replace","path":"/names/1/1/48","value":
+"Аймени"
+},{"op":"replace","path":"/names/1/1/49","value":
+"Ходьяри"
+},{"op":"replace","path":"/names/1/1/50","value":
+"Маньяри"
+},{"op":"replace","path":"/names/1/1/51","value":
+"Заваан"
+},{"op":"replace","path":"/names/1/1/52","value":
+"Канаан"
+},{"op":"replace","path":"/names/1/1/53","value":
+"Кахид"
+},{"op":"replace","path":"/names/1/1/54","value":
+"Дяхид"
+},{"op":"replace","path":"/names/1/1/55","value":
+"Амейри"
+},{"op":"replace","path":"/names/1/1/56","value":
+"Бахар"
+},{"op":"replace","path":"/names/1/1/57","value":
+"Бахад"
+},{"op":"replace","path":"/names/1/1/58","value":
+"Идьяка"
+},{"op":"replace","path":"/names/1/1/59","value":
+"Армаан"
+},{"op":"replace","path":"/names/1/1/60","value":
+"Гахид"
+},{"op":"replace","path":"/names/1/1/61","value":
+"Икаар"
+},{"op":"replace","path":"/names/1/1/62","value":
+"Окир"
+},{"op":"replace","path":"/names/1/1/63","value":
+"Ханаан"
+},{"op":"replace","path":"/names/1/1/64","value":
+"Ладьяки"
+},{"op":"replace","path":"/names/1/1/65","value":
+"Лакир"
+},{"op":"replace","path":"/names/1/1/66","value":
+"Манаан"
+},{"op":"replace","path":"/names/1/1/67","value":
+"Эйдаки"
+},{"op":"replace","path":"/names/1/1/68","value":
+"Ирялаан"
+},{"op":"replace","path":"/names/1/1/69","value":
+"Арьялаан"
+},{"op":"replace","path":"/names/1/1/70","value":
+"Адьяан"
+},{"op":"replace","path":"/names/1/1/71","value":
+"Алхаан"
+},{"op":"replace","path":"/names/1/1/72","value":
+"Хадьяки"
+},{"op":"replace","path":"/names/1/1/73","value":
+"Хайяр"
+},{"op":"replace","path":"/names/1/1/74","value":
+"Хадион"
+},{"op":"replace","path":"/names/1/1/75","value":
+"Уряан"
+},{"op":"replace","path":"/names/1/1/76","value":
+"Уряри"
+},{"op":"replace","path":"/names/1/1/77","value":
+"Уряки"
+},{"op":"replace","path":"/names/1/2/1","value":
+" ас-Кавара"
+},{"op":"replace","path":"/names/1/2/2","value":
+" ас-Коден"
+},{"op":"replace","path":"/names/1/2/3","value":
+" ас-Номени"
+},{"op":"replace","path":"/names/1/2/4","value":
+" ас-Удини"
+},{"op":"replace","path":"/names/1/2/5","value":
+" ас-Валара"
+},{"op":"replace","path":"/names/1/2/6","value":
+" ас-Монуми"
+},{"op":"replace","path":"/names/1/2/7","value":
+" ас-Валеих"
+},{"op":"replace","path":"/names/1/2/8","value":
+" ас-Радас"
+},{"op":"replace","path":"/names/1/2/9","value":
+" ас -Ромэни"
+},{"op":"replace","path":"/names/1/2/10","value":
+" ас-Фетали"
+},{"op":"replace","path":"/names/1/2/11","value":
+" ас-Лодай"
+},{"op":"replace","path":"/names/1/2/12","value":
+" ас-Канан"
+},{"op":"replace","path":"/names/1/2/13","value":
+" ас-Тевира"
+},{"op":"replace","path":"/names/1/2/14","value":
+" ас-Якана"
+},{"op":"replace","path":"/names/1/2/15","value":
+" ас-Манада"
+},{"op":"replace","path":"/names/1/2/16","value":
+" ас-Валуда"
+},{"op":"replace","path":"/names/1/2/17","value":
+" ас-Радейн"
+},{"op":"replace","path":"/names/1/2/18","value":
+" ас-Вагаард"
+},{"op":"replace","path":"/names/1/2/19","value":
+" ас-Ахлаад"
+},{"op":"replace","path":"/names/1/2/20","value":
+" ас-Ахран"
+},{"op":"replace","path":"/names/1/2/21","value":
+" ас-Фаллор"
+},{"op":"replace","path":"/names/1/2/22","value":
+" ас-Андрава"
+},{"op":"replace","path":"/names/1/2/23","value":
+" ас-Валани"
+},{"op":"replace","path":"/names/1/2/24","value":
+" ас-Хараад"
+},{"op":"replace","path":"/names/1/2/25","value":
+" ас-Ленир"
+},{"op":"replace","path":"/names/1/2/26","value":
+" ас-Похьяр"
+},{"op":"replace","path":"/names/1/2/27","value":
+" ас-Анаан"
+},{"op":"replace","path":"/names/1/2/28","value":
+" ас-Калачи"
+},{"op":"replace","path":"/names/1/2/29","value":
+" ас-Авиха"
+},{"op":"replace","path":"/names/1/2/30","value":
+" ас-Валакис"
+}]

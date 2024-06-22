@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Нашел какие-нибудь интересные чертежи, путешественник?",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы производите впечатление способного мастера.",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Что ты думаешь о моих работах, путешественник?",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Нашел какие-нибудь интересные чертежи, разведчик?",
-    "path": "/scriptConfig/dialog/converse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Из вас получилась бы отличная инженерная единица.",
-    "path": "/scriptConfig/dialog/converse/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Пришел проверить мою работу, разведчик?",
-    "path": "/scriptConfig/dialog/converse/trink/default/2",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Нашел какие-нибудь интересные чертежи, путешественник?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Вы производите впечатление способного мастера."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Что ты думаешь о моих работах, путешественник?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/0","value":
+"Нашел какие-нибудь интересные чертежи, разведчик?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/1","value":
+"Из вас получилась бы отличная инженерная единица."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/trink/default/2","value":
+"Пришел проверить мою работу, разведчик?"
+}]

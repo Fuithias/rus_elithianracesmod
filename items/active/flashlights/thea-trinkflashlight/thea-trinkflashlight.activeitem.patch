@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Высокоэффективный фонарь с узким лучом тринкианской работы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианский фонарик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фонарик",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Высокоэффективный фонарь с узким лучом тринкианской работы."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианский фонарик"
+},{"op":"replace","path":"/category","value":
+"Фонарик"
+}]

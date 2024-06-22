@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Хлеб, приготовленный из лофтзерна. Очень вкусно.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лофтхлеб",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Хлеб, приготовленный из лофтзерна. Очень вкусно."
+},{"op":"replace","path":"/shortdescription","value":
+"Лофтхлеб"
+}]

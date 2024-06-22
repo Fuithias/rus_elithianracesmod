@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Древний потусторонний камень с развращающей аурой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Осквернённое каменное ядро^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Древний потусторонний камень с развращающей аурой."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Осквернённое каменное ядро^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

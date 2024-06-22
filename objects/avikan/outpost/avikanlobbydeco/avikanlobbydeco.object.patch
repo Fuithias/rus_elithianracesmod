@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Лобби Дерево",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пальма для украшения вашего интерьера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пальма.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Листья этих деревьев напоминают мне крылья.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустынные деревья.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта пальма была посажена в чужой почве.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Круто, пальма внутри!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жизнь процветает даже в самых суровых условиях.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта пальма является признаком богатства среди авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дерево. Это был настоящий признак богатства на Кадаване, где деревья были редкостью.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пальма. Родная планета моих Учителей слишком холодна, чтобы такое дерево могло там выжить.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена аборигенная флора Кадавана. Пожалуйста, обращаться осторожно.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высоким как дерево. Акки лезть туда?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Лобби Дерево"
+},{"op":"replace","path":"/description","value":
+"Пальма для украшения вашего интерьера."
+},{"op":"replace","path":"/apexDescription","value":
+"Пальма."
+},{"op":"replace","path":"/avianDescription","value":
+"Листья этих деревьев напоминают мне крылья."
+},{"op":"replace","path":"/floranDescription","value":
+"Пустынные деревья."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта пальма была посажена в чужой почве."
+},{"op":"replace","path":"/humanDescription","value":
+"Круто, пальма внутри!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Жизнь процветает даже в самых суровых условиях."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта пальма является признаком богатства среди авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дерево. Это был настоящий признак богатства на Кадаване, где деревья были редкостью."
+},{"op":"replace","path":"/trinkDescription","value":
+"Пальма. Родная планета моих Учителей слишком холодна, чтобы такое дерево могло там выжить."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена аборигенная флора Кадавана. Пожалуйста, обращаться осторожно."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Высоким как дерево. Акки лезть туда?"
+}]

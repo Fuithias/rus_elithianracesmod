@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Безрамное стекло Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тройное стеклоподобное пластиковое окно, идеально изолированное.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это стекло на самом деле пластик.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стекло.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это стекло чистое, как новый револьвер.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Многослойный пластик.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пластик-прозрачный, похож на стекло.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Безрамное стекло Альянса"
+},{"op":"replace","path":"/description","value":
+"Тройное стеклоподобное пластиковое окно, идеально изолированное."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это стекло на самом деле пластик."
+},{"op":"replace","path":"/floranDescription","value":
+"Стекло."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это стекло чистое, как новый револьвер."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Многослойный пластик."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пластик-прозрачный, похож на стекло."
+}]

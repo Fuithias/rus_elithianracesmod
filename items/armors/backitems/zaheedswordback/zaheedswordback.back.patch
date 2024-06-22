@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Захид носит свой меч на спине, когда не использует его.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Меч Захида",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Захид носит свой меч на спине, когда не использует его."
+},{"op":"replace","path":"/shortdescription","value":
+"Меч Захида"
+}]

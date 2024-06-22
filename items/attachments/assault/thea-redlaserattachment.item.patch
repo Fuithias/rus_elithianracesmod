@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Подствольный лазерный прицел красного цвета.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Красный лазерный прицел",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крепление для оружия",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Подствольный лазерный прицел красного цвета."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Красный лазерный прицел"
+},{"op":"replace","path":"/category","value":
+"Крепление для оружия"
+}]

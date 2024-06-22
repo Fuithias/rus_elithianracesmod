@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Торговец одеждой",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "  Традиционная одежда Авикан.",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
+"Торговец одеждой"
+},{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
+"  Традиционная одежда Авикан."
+}]

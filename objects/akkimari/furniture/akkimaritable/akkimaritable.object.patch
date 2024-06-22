@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Стол",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Круглый стол.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой круглый стол.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Круглый металлический стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не впечатлен. Базовый стол.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязный стол.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сильно запятнанный стол.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто стол.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол. Давно его не чистили.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный стол. Хотя дизайн не очень инопланетный.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенная таблица. Дизайн столов не сильно меняется в зависимости от вида.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стол пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки кладет вещи на стол. Стол достаточно прочный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Стол"
+},{"op":"replace","path":"/description","value":
+"Круглый стол."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой круглый стол."
+},{"op":"replace","path":"/avianDescription","value":
+"Круглый металлический стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Столссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Не впечатлен. Базовый стол."
+},{"op":"replace","path":"/humanDescription","value":
+"Грязный стол."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Сильно запятнанный стол."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто стол."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стол. Давно его не чистили."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный стол. Хотя дизайн не очень инопланетный."
+},{"op":"replace","path":"/trinkDescription","value":
+"Упрощенная таблица. Дизайн столов не сильно меняется в зависимости от вида."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стол пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки кладет вещи на стол. Стол достаточно прочный."
+}]

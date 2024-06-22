@@ -1,42 +1,17 @@
-[
-  {
-    "value": "<собственное имя> никакого боя! <selfname> присоединяюсь к вам!",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты сильный! <selfname> следуй за тобой!",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> прекращает борьбу. Присоединиться к вам?",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> не сражаюсь с тобой, <selfname> сражаюсь за тебя сейчас!",
-    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> долго собирает мусор. Теперь сильный.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Сражайся за тебя сейчас, <собственность> будет.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "<selfname> сделает для вас острые лезвия. Когда бой?",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Хочу бороться за тебя.",
-    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/0","value":
+"<selfname> никакого боя! <selfname> присоединяюсь к вам!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/1","value":
+"Ты сильный! <selfname> следуй за тобой!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/2","value":
+"<selfname> прекращает борьбу. Присоединиться к вам?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/offer/akkimari/default/3","value":
+"<selfname> не сражаюсь с тобой, <selfname> сражаюсь за тебя сейчас!"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0","value":
+"<selfname> долго собирает мусор. Теперь сильный."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1","value":
+"Сражайся за тебя сейчас, <selfname> будет."
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2","value":
+"<selfname> сделает для вас острые лезвия. Когда бой?"
+},{"op":"replace","path":"/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3","value":
+"Хочу бороться за тебя."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Официальное одеяние президента Аегинского Федерального Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фуражка президента",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Официальное одеяние президента Аегинского Федерального Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Фуражка президента"
+}]

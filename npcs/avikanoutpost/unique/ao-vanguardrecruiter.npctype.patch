@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Думаешь, у тебя есть все необходимое, чтобы присоединиться к Авангарду?",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Думаешь, у тебя есть все необходимое, чтобы присоединиться к Авангарду?",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Думаешь, у тебя есть все необходимое, чтобы присоединиться к Авангарду?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Думаешь, у тебя есть все необходимое, чтобы присоединиться к Авангарду?"
+}]

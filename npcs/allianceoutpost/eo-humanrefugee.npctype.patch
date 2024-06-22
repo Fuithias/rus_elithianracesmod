@@ -1,57 +1,23 @@
-[
-  {
-    "value": "Мы пришли сюда в поисках убежища, и эги хорошо нас обеспечили.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Совершенно невероятно, что мы оказались на одной планете с нашими предками, покинувшими Землю до нас.",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это место во многом похоже на дом, но оно никогда не сможет заменить Землю...",
-    "path": "/scriptConfig/dialog/converse/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я потерял всё, когда Земля была разрушена...",
-    "path": "/scriptConfig/dialog/converse/default/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я надеюсь, что Эги скоро смогут предложить нам настоящее место для проживания.",
-    "path": "/scriptConfig/dialog/converse/default/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Это место напоминает мне Протекторат.",
-    "path": "/scriptConfig/dialog/converse/default/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "В Протекторате гораздо больше разумных видов, чем у нас. Это увлекательно.",
-    "path": "/scriptConfig/dialog/converse/default/default/6",
-    "op": "replace"
-  },
-  {
-    "value": "Трудно поверить, что Эги тоже покинули Землю много сотен лет назад.",
-    "path": "/scriptConfig/dialog/converse/default/default/7",
-    "op": "replace"
-  },
-  {
-    "value": "Странно видеть вид, произошедший от нас, людей.",
-    "path": "/scriptConfig/dialog/converse/default/default/8",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел вернуться на Землю...",
-    "path": "/scriptConfig/dialog/converse/default/default/9",
-    "op": "replace"
-  },
-  {
-    "value": "Я скучаю по дому.",
-    "path": "/scriptConfig/dialog/converse/default/default/10",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Мы пришли сюда в поисках убежища, и эги хорошо нас обеспечили."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Совершенно невероятно, что мы оказались на одной планете с нашими предками, покинувшими Землю до нас."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/2","value":
+"Это место во многом похоже на дом, но оно никогда не сможет заменить Землю..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/3","value":
+"Я потерял всё, когда Земля была разрушена..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/4","value":
+"Я надеюсь, что Эги скоро смогут предложить нам настоящее место для проживания."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/5","value":
+"Это место напоминает мне Протекторат."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/6","value":
+"В Протекторате гораздо больше разумных видов, чем у нас. Это увлекательно."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/7","value":
+"Трудно поверить, что Эги тоже покинули Землю много сотен лет назад."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/8","value":
+"Странно видеть вид, произошедший от нас, людей."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/9","value":
+"Я бы хотел вернуться на Землю..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/10","value":
+"Я скучаю по дому."
+}]

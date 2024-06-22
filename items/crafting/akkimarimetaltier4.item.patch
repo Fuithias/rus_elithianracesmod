@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Закаленные пластины металлолома, собранные из источников среднего качества.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Закаленный металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Закаленные пластины металлолома, собранные из источников среднего качества."
+},{"op":"replace","path":"/shortdescription","value":
+"Закаленный металлолом"
+}]

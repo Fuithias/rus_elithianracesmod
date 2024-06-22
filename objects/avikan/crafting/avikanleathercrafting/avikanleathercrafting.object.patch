@@ -1,212 +1,85 @@
-[
-  {
-    "value": "^orange;Стойка для загара Avikan^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дубильная стойка используется для изготовления изделий из кожи монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой стенд для загара. Здесь я могу изготовить изделия из кожи.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран использует дубильный станок для изготовления кожи из кожи монстра...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недовольный. Дубление кожи – очень трудоемкий процесс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара? Пойдем, сделаем мне новые ботинки!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Все необходимое оборудование для изготовления изделий из кожи.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара. Он выполняет свою работу, но не очень эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь прячется Акки Тан.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Стойка для загара Avikan^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дубильная стойка используется для изготовления изделий из кожи монстра.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой стенд для загара. Здесь я могу изготовить изделия из кожи.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран использует дубильный станок для изготовления кожи из кожи монстра...",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недовольный. Дубление кожи – очень трудоемкий процесс.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара? Пойдем, сделаем мне новые ботинки!",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Все необходимое оборудование для изготовления изделий из кожи.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка для загара. Он выполняет свою работу, но не очень эффективно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь прячется Акки Тан.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Кожевенная станция Авикан^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожевенная станция используется для изготовления предметов из кожи монстров.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эта автоматизированная кожевенная станция позволяет создавать самые разнообразные изделия из кожи.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Работа с кожей еще никогда не была такой простой! За автоматизированным производством действительно будущее.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран велит машине делать кожу... Машина подчиняется Флорану!",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Эта станция изготовит практически любую кожаную вещь, которую я запрошу.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автоматизированное дубление и кожевенное производство. Удобный!",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина обрабатывает кожу гораздо эффективнее, чем когда-либо мог сделать человек.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Итак, эта машина будет шить мне кожаные изделия? Может, мне тоже сделают новую шляпу?",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно изготовить высококачественные кожаные изделия.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина позволяет мне создавать кожаные изделия еще более высокого качества.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машины гораздо более эффективны при обработке кожи, чем любые органические продукты.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Кожевенная станция. Используется для изготовления снаряжения и других предметов из кожи.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки ставил шкуры, машина шила-кожу.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Стойка загара авикан^white;"
+},{"op":"replace","path":"/description","value":
+"Дубильная стойка используется для изготовления изделий из кожи монстра."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой стенд для загара. Здесь я могу изготовить изделия из кожи."
+},{"op":"replace","path":"/avianDescription","value":
+"Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран использует дубильный станок для изготовления кожи из кожи монстра..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Недовольный. Дубление кожи – очень трудоемкий процесс."
+},{"op":"replace","path":"/humanDescription","value":
+"Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу."
+},{"op":"replace","path":"/novakidDescription","value":
+"Стойка для загара? Пойдем, сделаем мне новые ботинки!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Все необходимое оборудование для изготовления изделий из кожи."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стойка для загара. Он выполняет свою работу, но не очень эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Здесь прячется Акки Тан."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Стойка загара авикан^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Дубильная стойка используется для изготовления изделий из кожи монстра."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Простой стенд для загара. Здесь я могу изготовить изделия из кожи."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Стойки для загара — это примитивные инструменты, но они по-прежнему очень удобны в использовании."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Флоран использует дубильный станок для изготовления кожи из кожи монстра..."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Недовольный. Дубление кожи – очень трудоемкий процесс."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Примитивный инструмент, но эта стойка для загара позволит мне изготовить несколько хороших кожаных изделий."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Стойка для загара. Мне грустно думать, что эта кожа когда-то принадлежала живому, дышащему существу."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Стойка для загара? Пойдем, сделаем мне новые ботинки!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Все необходимое оборудование для изготовления изделий из кожи."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Традиционный стенд для загара. Здесь я могу изготовить множество изделий из кожи."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Стойка для загара. Он выполняет свою работу, но не очень эффективно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Стойка для загара. Используется для изготовления снаряжения и других предметов из кожи."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Здесь прячется Акки Тан."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Кожевенная станция Авикан^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Кожевенная станция используется для изготовления предметов из кожи монстров."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Эта автоматизированная кожевенная станция позволяет создавать самые разнообразные изделия из кожи."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Работа с кожей еще никогда не была такой простой! За автоматизированным производством действительно будущее."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Флоран велит машине делать кожу... Машина подчиняется Флорану!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Взволнованный. Эта станция изготовит практически любую кожаную вещь, которую я запрошу."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Автоматизированное дубление и кожевенное производство. Удобный!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Эта машина обрабатывает кожу гораздо эффективнее, чем когда-либо мог сделать человек."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Итак, эта машина будет шить мне кожаные изделия? Может, мне тоже сделают новую шляпу?"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Здесь можно изготовить высококачественные кожаные изделия."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Эта машина позволяет мне создавать кожаные изделия еще более высокого качества."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Машины гораздо более эффективны при обработке кожи, чем любые органические продукты."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Кожевенная станция. Используется для изготовления снаряжения и других предметов из кожи."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Акки ставил шкуры, машина шила-кожу."
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Элементальные боеприпасы для штурмовой винтовки, электризующие цели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Электрические боеприпасы",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мод на боеприпасы",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Элементальные боеприпасы для штурмовой винтовки, электризующие цели."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Электрические боеприпасы"
+},{"op":"replace","path":"/category","value":
+"Мод на боеприпасы"
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Энергетическая винтовка, созданная для тактических вылазок.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Аккумулятор ГЛ-5^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Направленная энергтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Target Marking",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Энергетическая винтовка, созданная для тактических вылазок."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Аккумулятор ГЛ-5^white;"
+},{"op":"replace","path":"/category","value":
+"Направленная энергтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Маркировка цели"
+}]

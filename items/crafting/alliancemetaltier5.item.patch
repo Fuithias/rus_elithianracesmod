@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Аллосталь с высокой концентрацией ферроверия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Армированная аллосталь",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Аллосталь с высокой концентрацией ферроверия."
+},{"op":"replace","path":"/shortdescription","value":
+"Армированная аллосталь"
+}]

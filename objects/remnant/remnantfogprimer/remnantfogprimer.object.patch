@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Остаточный источник тумана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Остаточный источник тумана"
+},{"op":"replace","path":"/description","value":
+"..."
+}]

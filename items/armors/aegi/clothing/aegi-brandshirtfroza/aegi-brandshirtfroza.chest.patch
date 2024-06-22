@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Рекламная футболка Фроза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Футболка Фроза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Рекламная футболка Фроза."
+},{"op":"replace","path":"/shortdescription","value":
+"Футболка Фроза"
+}]

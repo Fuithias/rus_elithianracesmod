@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Легкий и обтекаемый шлем, который носят кеффоходы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем кеффохода",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Легкий и обтекаемый шлем, который носят кеффоходы."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем кеффохода"
+}]

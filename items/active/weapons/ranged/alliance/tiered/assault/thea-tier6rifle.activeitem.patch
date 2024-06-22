@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Компактная, мощная штурмовая винтовка.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Альянс Коллектив^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АЦ.А-6 Комета",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Умная пуля",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Компактная, мощная штурмовая винтовка.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Альянс Коллектив^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АЦ.А-6 Комета"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Умная пуля"
+}]

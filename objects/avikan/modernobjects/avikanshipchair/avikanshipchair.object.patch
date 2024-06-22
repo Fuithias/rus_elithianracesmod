@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Стул Корабль Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло, найденное в кабине Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло. Похоже, им пользовались недавно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобное кресло.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пахнет инопланетной задницей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Это кресло довольно удобное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стул. Как круто.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный стул.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобное кресло.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современный стул. Он очень хорошо поддерживает мою спину, но протащить хвост через отверстие — хлопотно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло. Он был создан не с учетом моей формы тела.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ: стул.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло-инопланетянин. Акки удобный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стул Корабль Авикан"
+},{"op":"replace","path":"/description","value":
+"Кресло, найденное в кабине Авикана."
+},{"op":"replace","path":"/apexDescription","value":
+"Кресло. Похоже, им пользовались недавно."
+},{"op":"replace","path":"/avianDescription","value":
+"Удобное кресло."
+},{"op":"replace","path":"/floranDescription","value":
+"Пахнет инопланетной задницей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Это кресло довольно удобное."
+},{"op":"replace","path":"/humanDescription","value":
+"Металлический стул. Как круто."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный стул."
+},{"op":"replace","path":"/aegiDescription","value":
+"Удобное кресло."
+},{"op":"replace","path":"/avikanDescription","value":
+"Современный стул. Он очень хорошо поддерживает мою спину, но протащить хвост через отверстие — хлопотно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кресло. Он был создан не с учетом моей формы тела."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ: стул."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кресло-инопланетянин. Акки удобный."
+}]

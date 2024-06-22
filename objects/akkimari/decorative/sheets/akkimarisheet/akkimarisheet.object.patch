@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Силкен Простыни",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шелковые простыни подвешены на металлических кольцах.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Я не уверен, какова цель этих листов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочные простыни из странного расписного шелка.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочные листы из шелка. Это шелковисто-гладко!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поражен. Эта ткань невероятно мягкая на ощупь!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти листы просто для украшения?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простыни из инопланетного шелка. Они удивительно мягкие на ощупь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какие-то листы.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я уже видел, как Аккимари взбирался на них раньше. Возможно, эти простыни служат для них лестницей?",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужие листы. Стиль немного напоминает наш.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне еще предстоит определить какое-либо назначение этих листов, кроме украшения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены листы инопланетного шелкоподобного материала. Стиль напоминает эстетику Nomada.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простыни для дома-красиво. Акки тоже на них лазит.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Силкен Простыни"
+},{"op":"replace","path":"/description","value":
+"Шелковые простыни подвешены на металлических кольцах."
+},{"op":"replace","path":"/apexDescription","value":
+"Я не уверен, какова цель этих листов."
+},{"op":"replace","path":"/avianDescription","value":
+"Красочные простыни из странного расписного шелка."
+},{"op":"replace","path":"/floranDescription","value":
+"Красочные листы из шелка. Это шелковисто-гладко!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Поражен. Эта ткань невероятно мягкая на ощупь!"
+},{"op":"replace","path":"/humanDescription","value":
+"Эти листы просто для украшения?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простыни из инопланетного шелка. Они удивительно мягкие на ощупь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какие-то листы."
+},{"op":"replace","path":"/aegiDescription","value":
+"Я уже видел, как Аккимари взбирался на них раньше. Возможно, эти простыни служат для них лестницей?"
+},{"op":"replace","path":"/avikanDescription","value":
+"Чужие листы. Стиль немного напоминает наш."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мне еще предстоит определить какое-либо назначение этих листов, кроме украшения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены листы инопланетного шелкоподобного материала. Стиль напоминает эстетику Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Простыни для дома-красиво. Акки тоже на них лазит."
+}]

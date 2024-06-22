@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Этот пропуск открывает доступ к стрелковому полигону «Авангард» в Убежище Звездоходов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Проход на стрельбище Авангарда^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "пропуск безопасности",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Этот пропуск открывает доступ к стрелковому полигону Авангард в Убежище Звездохода."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Пропуск стрельца Авангарда^white;"
+},{"op":"replace","path":"/category","value":
+"пропуск безопасности"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Панель Корабля авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полая металлическая панель, идеально подходящая для утепления стен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Информативно. Эта металлическая панель полая, что делает её идеальной для утепления.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран знает, что эта панель полая, постучав по ней. Флоран умный.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полая металлическая панель, хороша для утепления.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершён. Полая металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панели - металлические, ничего особенного.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Панель Корабля авикан"
+},{"op":"replace","path":"/description","value":
+"Полая металлическая панель, идеально подходящая для утепления стен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информативно. Эта металлическая панель полая, что делает её идеальной для утепления."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран знает, что эта панель полая, постучав по ней. Флоран умный."
+},{"op":"replace","path":"/novakidDescription","value":
+"Полая металлическая панель, хороша для утепления."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершён. Полая металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панели - металлические, ничего особенного."
+}]

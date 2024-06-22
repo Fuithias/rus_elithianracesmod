@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кожаный гобелен для отделки и утепления стен.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа Авикан без полей",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кожаный гобелен для отделки и утепления стен."
+},{"op":"replace","path":"/shortdescription","value":
+"Кожа Авикан без полей"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ярко-красные листья растения Врелли.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Листья Врелли",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ярко-красные листья растения Врелли."
+},{"op":"replace","path":"/shortdescription","value":
+"Листья Врелли"
+}]

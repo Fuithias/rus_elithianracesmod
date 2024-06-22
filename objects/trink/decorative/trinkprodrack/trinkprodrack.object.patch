@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкиан Прод Стойка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция длинных штырей Тринкиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Длинные подталкивания. Для скота или для врагов?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Электрифицирующие продукты. Гораздо сильнее тех, что использовались для выпаса скота.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану кажется, что это-с-с-странно выглядит...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Инопланетные продукты.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы не хотел, чтобы меня ударил один из этих толчков.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинные электрические штыри. Для оборонительного боя.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкиан подталкивает. Они доставляют немало жала.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное вооружение. Кочевникам это могло бы пригодиться.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианские длинные иглы — отличное оружие для оборонительного боя.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружено инопланетное вооружение. Обнаружены электрические генераторы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щитки-электрические, для выпаса скота?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкиан Прод Стойка"
+},{"op":"replace","path":"/description","value":
+"Коллекция длинных штырей Тринкиана."
+},{"op":"replace","path":"/apexDescription","value":
+"Длинные подталкивания. Для скота или для врагов?"
+},{"op":"replace","path":"/avianDescription","value":
+"Электрифицирующие продукты. Гораздо сильнее тех, что использовались для выпаса скота."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану кажется, что это-с-с-странно выглядит..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Инопланетные продукты."
+},{"op":"replace","path":"/humanDescription","value":
+"Я бы не хотел, чтобы меня ударил один из этих толчков."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Длинные электрические штыри. Для оборонительного боя."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкиан подталкивает. Они доставляют немало жала."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное вооружение. Кочевникам это могло бы пригодиться."
+},{"op":"replace","path":"/trinkDescription","value":
+"Тринкианские длинные иглы — отличное оружие для оборонительного боя."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружено инопланетное вооружение. Обнаружены электрические генераторы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Щитки-электрические, для выпаса скота?"
+}]

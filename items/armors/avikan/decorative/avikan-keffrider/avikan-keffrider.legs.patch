@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Металлическая юбка и плетеные леггинсы, которые носят кеффоходы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка кеффохода",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Металлическая юбка и плетеные леггинсы, которые носят кеффоходы."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка кеффохода"
+}]

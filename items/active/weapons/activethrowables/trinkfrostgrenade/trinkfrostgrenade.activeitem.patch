@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Баллон, который при разрыве выпускает облако замораживающего газа.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Баллон МОРОЗ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Баллон, который при разрыве выпускает облако замораживающего газа.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Баллон МОРОЗ"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

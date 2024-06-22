@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Стул",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобный стул с открытой спинкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странный стул с открытой спинкой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло удобное, но почему-то отсутствует спинка.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что это кресло странное.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смущенный. Почему у этого стула есть опоры по бокам, а не сзади?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный стул. Это также странно удобно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычный дизайн и одновременно необычайно удобный.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я даже не знаю, как правильно сидеть в этой штуке.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный дизайн, конечно. Хотя это довольно удобно.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это кресло-инопланетянин довольно удобное. Открытая спина отлично подходит для моего хвоста.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычный стул, изготовленный Аккимари. С этими боковыми пластинами это кажется неэффективным.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стул пришельца.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нужно сесть. Акки отдых.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Стул"
+},{"op":"replace","path":"/description","value":
+"Удобный стул с открытой спинкой."
+},{"op":"replace","path":"/apexDescription","value":
+"Странный стул с открытой спинкой."
+},{"op":"replace","path":"/avianDescription","value":
+"Кресло удобное, но почему-то отсутствует спинка."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что это кресло странное."
+},{"op":"replace","path":"/glitchDescription","value":
+"Смущенный. Почему у этого стула есть опоры по бокам, а не сзади?"
+},{"op":"replace","path":"/humanDescription","value":
+"Странный стул. Это также странно удобно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Необычный дизайн и одновременно необычайно удобный."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я даже не знаю, как правильно сидеть в этой штуке."
+},{"op":"replace","path":"/aegiDescription","value":
+"Странный дизайн, конечно. Хотя это довольно удобно."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это кресло-инопланетянин довольно удобное. Открытая спина отлично подходит для моего хвоста."
+},{"op":"replace","path":"/trinkDescription","value":
+"Необычный стул, изготовленный Аккимари. С этими боковыми пластинами это кажется неэффективным."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стул пришельца."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нужно сесть. Акки отдых."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Если вы обнаружите какие-либо древние руины в своих путешествиях, пожалуйста, сообщите мне.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если вы обнаружите какие-либо древние руины в своих путешествиях, пожалуйста, сообщите мне.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Если вы обнаружите какие-либо древние руины в своих путешествиях, пожалуйста, сообщите мне."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Если вы обнаружите какие-либо древние руины в своих путешествиях, пожалуйста, сообщите мне."
+}]

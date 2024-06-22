@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Шип Лайт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая световая полоска.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Светлая полоска. Он мягко мерцает.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет. Это странно успокаивает.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Световой пульсссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот свет медленно пульсирует.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий источник света. Это кажется вполне естественным.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет, он кажется живым.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет медленно пульсирует, как дышащая звезда.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет медленно пульсирует, почти как живой.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный, пульсирующий инопланетный свет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет не очень эффективен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен пульсирующий источник света.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет успокаивает Аккимари.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Шип Лайт"
+},{"op":"replace","path":"/description","value":
+"Простая световая полоска."
+},{"op":"replace","path":"/apexDescription","value":
+"Светлая полоска. Он мягко мерцает."
+},{"op":"replace","path":"/avianDescription","value":
+"Пульсирующий свет. Это странно успокаивает."
+},{"op":"replace","path":"/floranDescription","value":
+"Световой пульсссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот свет медленно пульсирует."
+},{"op":"replace","path":"/humanDescription","value":
+"Пульсирующий источник света. Это кажется вполне естественным."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Пульсирующий свет, он кажется живым."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот свет медленно пульсирует, как дышащая звезда."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот свет медленно пульсирует, почти как живой."
+},{"op":"replace","path":"/avikanDescription","value":
+"Странный, пульсирующий инопланетный свет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот свет не очень эффективен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен пульсирующий источник света."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пульсирующий свет успокаивает Аккимари."
+}]

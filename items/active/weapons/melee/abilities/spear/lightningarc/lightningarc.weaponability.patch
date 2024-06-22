@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Дуговая молния",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Дуговая молния"
+}]

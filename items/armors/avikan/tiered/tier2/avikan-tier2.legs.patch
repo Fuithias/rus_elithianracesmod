@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Костяные накладки и кожаная юбка, которые носят авиканские охотники.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка охотника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Костяные накладки и кожаная юбка, которые носят авиканские охотники."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка охотника"
+}]

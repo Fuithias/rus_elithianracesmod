@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Тактический жилет и нагрудная пластина, которые носят коварные рейдеры",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кираса мародера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Тактический жилет и нагрудная пластина, которые носят коварные рейдеры"
+},{"op":"replace","path":"/shortdescription","value":
+"Кираса мародера"
+}]

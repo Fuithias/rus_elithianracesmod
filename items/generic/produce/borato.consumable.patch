@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Вкусное и калорийное растение.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Борато",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Вкусное и калорийное растение."
+},{"op":"replace","path":"/shortdescription","value":
+"Борато"
+}]

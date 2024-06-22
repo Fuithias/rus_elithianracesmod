@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​авиканской брони. Увеличивает силу пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мощное силовое ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​авиканской брони. Увеличивает силу пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Выносливое силовое ядро"
+}]

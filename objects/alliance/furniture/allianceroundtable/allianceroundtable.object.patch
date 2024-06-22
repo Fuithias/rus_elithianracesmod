@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стол переговоров Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой круглый стол для переговоров.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой стол для переговоров.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой круглый стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Размер предполагает, что это стол для переговоров.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это вполне стол.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой стол для переговоров.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, достаточно большой, чтобы вместить целую команду.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой стол для переговоров.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то большой стол. Возможно, здесь встречаются инопланетяне.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, подходящий для встреч лидеров.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен большой стол.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не может украсть большой стол.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стол переговоров Альянса"
+},{"op":"replace","path":"/description","value":
+"Большой круглый стол для переговоров."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой стол для переговоров."
+},{"op":"replace","path":"/avianDescription","value":
+"Большой круглый стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Столссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Размер предполагает, что это стол для переговоров."
+},{"op":"replace","path":"/humanDescription","value":
+"Это вполне стол."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большой стол для переговоров."
+},{"op":"replace","path":"/novakidDescription","value":
+"Стол, достаточно большой, чтобы вместить целую команду."
+},{"op":"replace","path":"/aegiDescription","value":
+"Большой стол для переговоров."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то большой стол. Возможно, здесь встречаются инопланетяне."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стол, подходящий для встреч лидеров."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен большой стол."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не может украсть большой стол."
+}]

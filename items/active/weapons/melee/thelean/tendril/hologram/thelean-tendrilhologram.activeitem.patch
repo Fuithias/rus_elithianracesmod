@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Голографическое изображение усика телеанца.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма телеанского уса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Голографическое изображение усика телеанца."
+},{"op":"replace","path":"/shortdescription","value":
+"Голограмма телеанского уса"
+},{"op":"replace","path":"/category","value":
+"Голограмма"
+}]

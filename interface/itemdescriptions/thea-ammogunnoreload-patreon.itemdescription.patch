@@ -1,32 +1,13 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за выстрел:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость стрельбы:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Объём магазина:",
-    "path": "/magazineSizeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Время перезарядки:",
-    "path": "/reloadTimeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за выстрел:"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость стрельбы:"
+},{"op":"replace","path":"/magazineSizeTitleLabel/value","value":
+"Объём магазина:"
+},{"op":"replace","path":"/reloadTimeTitleLabel/value","value":
+"Время перезарядки:"
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

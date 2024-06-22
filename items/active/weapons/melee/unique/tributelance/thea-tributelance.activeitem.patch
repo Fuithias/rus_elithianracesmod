@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Длинное и мощное копье, выкованное в честь Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Элитийское копье^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копье",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Длинное и мощное копьё, выкованное в честь Элитии."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Элитийское копьё^white;"
+},{"op":"replace","path":"/category","value":
+"Копьё"
+}]

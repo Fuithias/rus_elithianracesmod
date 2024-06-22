@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Колпак, который носили шефы Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кулинарный колпак",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Колпак, который носили шефы Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Кулинарный колпак"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "Подствольный гранатомет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;AAE^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Гранатомет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крепление для оружия",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Подствольный гранатомет."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Гранатомет"
+},{"op":"replace","path":"/category","value":
+"Крепление для оружия"
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Посох, снабженный двойными статическими линейно-зарядными приводами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Системы Анакар^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Посох Анакар^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Линейный посох",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Разрядка",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Посох, снабженный двойными статическими линейно-зарядными приводами."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Системы Анакар^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Посох Анакар^white;"
+},{"op":"replace","path":"/category","value":
+"Линейный посох"
+},{"op":"replace","path":"/altAbility/name","value":
+"Разрядка"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Постоянный факел",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий стоячий факел, излучающий теплое сияние.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поднятый факел.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий мерцающий факел.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокий факел держит огонь.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Безмятежный. Высокий факел, пламя мерцает.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрескивающий факел.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поднятый факел обеспечивает освещение большой площади.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пламя потрескивает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой фонарь с металлическим шестом.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот факел напоминает мне о доме.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крайне неэффективный способ освещения вашего окружения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена опасность пожара.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высоким как факел, сделан быстрым. Сильно-нет, Акки, не натыкайся на него.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Постоянный факел"
+},{"op":"replace","path":"/description","value":
+"Высокий стоячий факел, излучающий теплое сияние."
+},{"op":"replace","path":"/apexDescription","value":
+"Поднятый факел."
+},{"op":"replace","path":"/avianDescription","value":
+"Высокий мерцающий факел."
+},{"op":"replace","path":"/floranDescription","value":
+"Высокий факел держит огонь."
+},{"op":"replace","path":"/glitchDescription","value":
+"Безмятежный. Высокий факел, пламя мерцает."
+},{"op":"replace","path":"/humanDescription","value":
+"Потрескивающий факел."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Поднятый факел обеспечивает освещение большой площади."
+},{"op":"replace","path":"/novakidDescription","value":
+"Пламя потрескивает."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой фонарь с металлическим шестом."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот факел напоминает мне о доме."
+},{"op":"replace","path":"/trinkDescription","value":
+"Крайне неэффективный способ освещения вашего окружения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена опасность пожара."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Высоким как факел, сделан быстрым. Сильно-нет, Акки, не натыкайся на него."
+}]

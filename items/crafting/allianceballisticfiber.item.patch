@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Небольшой кусочек баллистического волокна.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Баллистическое волокно",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Небольшой кусочек баллистического волокна."
+},{"op":"replace","path":"/shortdescription","value":
+"Баллистическое волокно"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Многоцелевой дрон малого размера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон ПАМ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Многоцелевой дрон малого размера."
+},{"op":"replace","path":"/shortdescription","value":
+"Дрон ПАИ"
+}]

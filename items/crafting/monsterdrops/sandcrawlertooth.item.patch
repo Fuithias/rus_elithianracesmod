@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Зуб кадаванского песчаного краулера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Зуб песчаного краулера",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Зуб кадаванского песчаного краулера."
+},{"op":"replace","path":"/shortdescription","value":
+"Зуб песчаного краулера"
+}]

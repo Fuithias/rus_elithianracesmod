@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Жестокое копье с наэлектризованным лезвием.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Шаккар^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шоковое копье",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Overload",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Жестокое копьё с наэлектризованным лезвием."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Шаккар^white;"
+},{"op":"replace","path":"/category","value":
+"Шоковое копьё"
+},{"op":"replace","path":"/altAbility/name","value":
+"Перегрузка"
+}]

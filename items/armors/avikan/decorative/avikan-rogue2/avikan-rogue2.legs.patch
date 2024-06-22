@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Металлические пластины для защиты боков, не ограничивающие маневренность.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Боковые пластины изгоя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Металлические пластины для защиты боков, не ограничивающие маневренность."
+},{"op":"replace","path":"/shortdescription","value":
+"Боковые пластины изгоя"
+}]

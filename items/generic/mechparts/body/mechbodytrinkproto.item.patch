@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Старый прототип брони МЕГА-ТРИНК.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механический корпус MEGA-TRINK-00",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Старый протов. брони МЕГА-ТРИНК."
+},{"op":"replace","path":"/shortdescription","value":
+"Механический корпус МЕГА-ТРИНК-00"
+}]

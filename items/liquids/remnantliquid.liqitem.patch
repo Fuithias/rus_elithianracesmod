@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Черная сочащаяся жидкость, которая кажется чужой этой вселенной.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Остаток Гупа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Черная сочащаяся жидкость, которая кажется чужой этой вселенной."
+},{"op":"replace","path":"/shortdescription","value":
+"Остаток Гупа"
+}]

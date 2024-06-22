@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Лист",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист кожи, который часто вешают между стенами, чтобы создать немного тени.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лист кожи, отбрасывающий прохладную тень днем.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выглядит просто, но тень, которую он отбрасывает, бесценна.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Листы блокируют ссссун...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта простыня используется для защиты от солнца в теплые дни.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая простыня, но тень, которую она отбрасывает, приветствуется в течение дня.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Практичный способ защититься от солнца в теплые дни.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист кожи, используемый в пустыне для защиты от солнца и создания прохладной тени.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подобные простыни необходимы для предотвращения перегрева на городских улицах.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кожаная простыня может создать прохладную тень, защищая от солнца пустыни.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот лист может обеспечить тень в пустыне.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист-кожа, отбрасывающий тень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Лист"
+},{"op":"replace","path":"/description","value":
+"Лист кожи, который часто вешают между стенами, чтобы создать немного тени."
+},{"op":"replace","path":"/apexDescription","value":
+"Лист кожи, отбрасывающий прохладную тень днем."
+},{"op":"replace","path":"/avianDescription","value":
+"Выглядит просто, но тень, которую он отбрасывает, бесценна."
+},{"op":"replace","path":"/floranDescription","value":
+"Листы блокируют ссссун..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта простыня используется для защиты от солнца в теплые дни."
+},{"op":"replace","path":"/humanDescription","value":
+"Простая простыня, но тень, которую она отбрасывает, приветствуется в течение дня."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Практичный способ защититься от солнца в теплые дни."
+},{"op":"replace","path":"/aegiDescription","value":
+"Лист кожи, используемый в пустыне для защиты от солнца и создания прохладной тени."
+},{"op":"replace","path":"/avikanDescription","value":
+"Подобные простыни необходимы для предотвращения перегрева на городских улицах."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта кожаная простыня может создать прохладную тень, защищая от солнца пустыни."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Этот лист может обеспечить тень в пустыне."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лист-кожа, отбрасывающий тень."
+}]

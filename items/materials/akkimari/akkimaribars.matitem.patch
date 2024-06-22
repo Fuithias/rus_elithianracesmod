@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Невероятно прочные металлические прутья.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Барс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Невероятно прочные металлические прутья."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Барс"
+}]

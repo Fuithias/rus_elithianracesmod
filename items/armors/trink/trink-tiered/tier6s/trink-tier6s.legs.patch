@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усилением из соляриума очень высокого качества.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела Авангарда в2",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усилением из соляриума очень высокого качества."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод тела Авангарда в2"
+}]

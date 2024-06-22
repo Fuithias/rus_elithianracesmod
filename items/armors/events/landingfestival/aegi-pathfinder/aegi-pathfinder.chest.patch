@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Костюм Следопыта, воплощение праздника Приземления!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Одежда Следопыта",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Костюм Следопыта, воплощение праздника Приземления!"
+},{"op":"replace","path":"/shortdescription","value":
+"Одежда Следопыта"
+}]

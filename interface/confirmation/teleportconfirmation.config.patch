@@ -1,182 +1,73 @@
-[
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/vanguarddronebattle/title",
-    "op": "replace"
-  },
-  {
-    "value": "Поверхность Хармани",
-    "path": "/vanguarddronebattle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nГотовы ли вы к отправке на ^orange;поверхность Хармани^white;? \n^red;Вам понадобится мощное оборудование, чтобы выжить там.",
-    "path": "/vanguarddronebattle/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готов",
-    "path": "/vanguarddronebattle/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/vanguarddronebattle/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Вербовщик Рохан",
-    "path": "/vanguarddronebattle/labels/name",
-    "op": "replace"
-  },
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/avikanroguebattle/title",
-    "op": "replace"
-  },
-  {
-    "value": "Убежище воров",
-    "path": "/avikanroguebattle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nГотовы ли вы к отправке в ^orange;убежище воров^white;? \n^red;Чтобы выжить там, вам понадобится мощное снаряжение.",
-    "path": "/avikanroguebattle/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готов",
-    "path": "/avikanroguebattle/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/avikanroguebattle/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Аюрин",
-    "path": "/avikanroguebattle/labels/name",
-    "op": "replace"
-  },
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/vanguardmechunlock/title",
-    "op": "replace"
-  },
-  {
-    "value": "Испытательный центр Авангарда",
-    "path": "/vanguardmechunlock/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nГотовы ли вы войти в ^orange;испытательный центр Авангарда^white;?",
-    "path": "/vanguardmechunlock/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готовы",
-    "path": "/vanguardmechunlock/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/vanguardmechunlock/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Вербовщик Рохан",
-    "path": "/vanguardmechunlock/labels/name",
-    "op": "replace"
-  },
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/akkimaridronebattle/title",
-    "op": "replace"
-  },
-  {
-    "value": "Застава Союза",
-    "path": "/akkimaridronebattle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nГотовы ли вы к отправке на атакованный ^orange;аванпост Союза^white;? \n^red;Вам понадобится мощное оборудование, чтобы выжить там.",
-    "path": "/akkimaridronebattle/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готов",
-    "path": "/akkimaridronebattle/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/akkimaridronebattle/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Делегат Мумам",
-    "path": "/akkimaridronebattle/labels/name",
-    "op": "replace"
-  },
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/remnantcaves/title",
-    "op": "replace"
-  },
-  {
-    "value": "Оскверненная пещера",
-    "path": "/remnantcaves/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nГотовы ли вы исследовать ^orange;Загаженную пещеру^white;? \n^red;Не забудьте взять с собой мощное снаряжение, а также инструменты для подводного плавания.",
-    "path": "/remnantcaves/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готов",
-    "path": "/remnantcaves/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/remnantcaves/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Айала",
-    "path": "/remnantcaves/labels/name",
-    "op": "replace"
-  },
-  {
-    "value": "Подтверждение телепорта",
-    "path": "/thea-techchallenge-stealthtech/title",
-    "op": "replace"
-  },
-  {
-    "value": "Курс испытаний Чачарры",
-    "path": "/thea-techchallenge-stealthtech/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "\n\nЧачарра все подготовила. Вы готовы к курсу тестирования?",
-    "path": "/thea-techchallenge-stealthtech/message",
-    "op": "replace"
-  },
-  {
-    "value": "Готов",
-    "path": "/thea-techchallenge-stealthtech/okCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Не сейчас",
-    "path": "/thea-techchallenge-stealthtech/cancelCaption",
-    "op": "replace"
-  },
-  {
-    "value": "Чачарра",
-    "path": "/thea-techchallenge-stealthtech/labels/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/vanguarddronebattle/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/vanguarddronebattle/subtitle","value":
+"Поверхность Хармани"
+},{"op":"replace","path":"/vanguarddronebattle/message","value":
+"\n\nГотовы ли вы к отправке на ^orange;поверхность Хармани^white;?\n^red;Вам понадобится мощное оборудование, чтобы выжить там."
+},{"op":"replace","path":"/vanguarddronebattle/okCaption","value":
+"Готов"
+},{"op":"replace","path":"/vanguarddronebattle/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/vanguarddronebattle/labels/name","value":
+"Вербовщик Рохан"
+},{"op":"replace","path":"/avikanroguebattle/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/avikanroguebattle/subtitle","value":
+"Убежище воров"
+},{"op":"replace","path":"/avikanroguebattle/message","value":
+"\n\nГотовы ли вы к отправке в ^orange;убежище воров^white;?\n^red;Чтобы выжить там, вам понадобится мощное снаряжение."
+},{"op":"replace","path":"/avikanroguebattle/okCaption","value":
+"Готов"
+},{"op":"replace","path":"/avikanroguebattle/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/avikanroguebattle/labels/name","value":
+"Аюрин"
+},{"op":"replace","path":"/vanguardmechunlock/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/vanguardmechunlock/subtitle","value":
+"Испытательный центр Авангарда"
+},{"op":"replace","path":"/vanguardmechunlock/message","value":
+"\n\nГотовы ли вы войти в ^orange;испытательный центр Авангарда^white;?"
+},{"op":"replace","path":"/vanguardmechunlock/okCaption","value":
+"Готовы"
+},{"op":"replace","path":"/vanguardmechunlock/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/vanguardmechunlock/labels/name","value":
+"Вербовщик Рохан"
+},{"op":"replace","path":"/akkimaridronebattle/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/akkimaridronebattle/subtitle","value":
+"Застава Союза"
+},{"op":"replace","path":"/akkimaridronebattle/message","value":
+"\n\nГотовы ли вы к отправке на атакованный ^orange;аванпост Союза^white;?\n^red;Вам понадобится мощное оборудование, чтобы выжить там."
+},{"op":"replace","path":"/akkimaridronebattle/okCaption","value":
+"Готов"
+},{"op":"replace","path":"/akkimaridronebattle/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/akkimaridronebattle/labels/name","value":
+"Делегат Мумам"
+},{"op":"replace","path":"/remnantcaves/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/remnantcaves/subtitle","value":
+"Оскверненная пещера"
+},{"op":"replace","path":"/remnantcaves/message","value":
+"\n\nГотовы ли вы исследовать ^orange;Загаженную пещеру^white;?\n^red;Не забудьте взять с собой мощное снаряжение, а также инструменты для подводного плавания."
+},{"op":"replace","path":"/remnantcaves/okCaption","value":
+"Готов"
+},{"op":"replace","path":"/remnantcaves/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/remnantcaves/labels/name","value":
+"Айала"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/title","value":
+"Подтверждение телепорта"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/subtitle","value":
+"Курс испытаний Чачарры"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/message","value":
+"\n\nЧачарра все подготовила. Вы готовы к курсу тестирования?"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/okCaption","value":
+"Готов"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/cancelCaption","value":
+"Не сейчас"
+},{"op":"replace","path":"/thea-techchallenge-stealthtech/labels/name","value":
+"Чачарра"
+}]

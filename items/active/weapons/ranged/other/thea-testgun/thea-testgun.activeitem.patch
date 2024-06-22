@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Пушка для испытания новых снарядов. Будьте осторожны, она очень непредсказуема!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Экспериментальная пушка^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Пушка для испытания новых снарядов. Будьте осторожны, она очень непредсказуема!"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Экспериментальная пушка^white;"
+},{"op":"replace","path":"/category","value":
+"Пистолет"
+}]

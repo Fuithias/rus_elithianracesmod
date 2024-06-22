@@ -1,32 +1,13 @@
-[
-  {
-    "value": "^orange;Зараженная Пещера",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Недавно я наткнулся на пещеру, полную ^green;жутко светящихся камней^reset;. Я подумал, что это будет отличное место для Ужасного Праздника, но это место слишком опасно для меня. Камни там действительно завораживающие... ^green;Может быть, ты готов к ^orange;исследованию этой пещеры^reset;?",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Я действительно не уверен, что это за штуку ты нашел... Это явно древнее. И достаточно жуткое для Ужасного Праздника, но боюсь, это может быть слишком жутко даже для нашего праздника...",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Поговорите с ^orange;Айала^reset;, чтобы отправиться в ^orange;Зараженную Пещеру^reset;",
-    "path": "/scriptConfig/descriptions/enterInstance",
-    "op": "replace"
-  },
-  {
-    "value": "Найдите и исследуйте ^orange;центральную камеру^reset;",
-    "path": "/scriptConfig/descriptions/findGoal",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Айала^reset; в ^orange;Посольство Креон^reset;",
-    "path": "/scriptConfig/descriptions/turnIn",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Зараженная Пещера"
+},{"op":"replace","path":"/text","value":
+"Недавно я наткнулся на пещеру, полную ^green;жутко светящихся камней^reset;. Я подумал, что это будет отличное место для Ужасного Праздника, но это место слишком опасно для меня. Камни там действительно завораживающие... ^green;Может быть, ты готов к ^orange;исследованию этой пещеры^reset;?"
+},{"op":"replace","path":"/completionText","value":
+"Я действительно не уверен, что это за штуку ты нашел... Это явно древнее. И достаточно жуткое для Ужасного Праздника, но боюсь, это может быть слишком жутко даже для нашего праздника..."
+},{"op":"replace","path":"/scriptConfig/descriptions/enterInstance","value":
+"Поговорите с ^orange;Айала^reset;, чтобы отправиться в ^orange;Зараженную Пещеру^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/findGoal","value":
+"Найдите и исследуйте ^orange;центральную камеру^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/turnIn","value":
+"Вернитесь к ^orange;Айала^reset; в ^orange;Посольство Креон^reset;"
+}]

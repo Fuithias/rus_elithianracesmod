@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Тяжелый лук, созданный уединенными кланами Валакиса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Валура^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Длиннолук Валакина^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лине-лук",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Пятикратный выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Тяжелый лук, созданный уединенными кланами Валакиса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Валура^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Длиннолук Валакина^white;"
+},{"op":"replace","path":"/category","value":
+"Лине-лук"
+},{"op":"replace","path":"/altAbility/name","value":
+"Пятикратный выстрел"
+}]

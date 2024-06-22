@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Настольный светильник Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький свет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой настольный светильник.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Настольный светильник.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый настольный светильник.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный настольный светильник.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто свет.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет обеспечивает достаточно света для комфортной работы.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настольный светильник.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкий-маленький, для чтения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настольный светильник Альянса"
+},{"op":"replace","path":"/description","value":
+"Маленький свет."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой настольный светильник."
+},{"op":"replace","path":"/avianDescription","value":
+"Свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Настольный светильник."
+},{"op":"replace","path":"/humanDescription","value":
+"Базовый настольный светильник."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный настольный светильник."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто свет."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот свет обеспечивает достаточно света для комфортной работы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Свет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Настольный светильник."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Легкий-маленький, для чтения."
+}]

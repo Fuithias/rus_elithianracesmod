@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская Панель С Электропроводкой (Светящаяся)",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель с электропроводкой, встроенной в ее обшивку.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Электричество проходит через провода, скрытые внутри этих панелей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические панели излучают энергию...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этой стене течет энергия.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. В этой панели проходят силовые кабели.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кабели и огни в панели, заставляют ее светиться.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская Панель С Электропроводкой (Светящаяся)"
+},{"op":"replace","path":"/description","value":
+"Металлическая панель с электропроводкой, встроенной в ее обшивку."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Электричество проходит через провода, скрытые внутри этих панелей."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические панели излучают энергию..."
+},{"op":"replace","path":"/novakidDescription","value":
+"В этой стене течет энергия."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. В этой панели проходят силовые кабели."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кабели и огни в панели, заставляют ее светиться."
+}]

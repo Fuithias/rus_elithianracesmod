@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^#BA66FF;Некогда знаменитый меч, ныне погнутый и сломанный.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Сломанный меч славы^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^#BA66FF;Некогда знаменитый меч, ныне погнутый и сломанный."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Сломанный меч славы^white;"
+},{"op":"replace","path":"/category","value":
+"Меч"
+}]

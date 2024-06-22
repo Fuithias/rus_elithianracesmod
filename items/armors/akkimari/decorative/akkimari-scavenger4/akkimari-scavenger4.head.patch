@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Шлем из металлолома, который носят мусорщики аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем мусорщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Шлем из металлолома, который носят мусорщики аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем мусорщика"
+}]

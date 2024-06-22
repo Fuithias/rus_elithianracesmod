@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Телеанский меч",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меч мертвого Телеана. Он застрял слишком сильно, чтобы его можно было вытащить.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран хочет взять меч, но Флоран недостаточно силен...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Слабый. У меня нет сил вытащить этот меч из скал.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот меч, должно быть, убил многих представителей моего вида.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено телеанское вооружение. Анализ: застрял.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меч бога-вора. Акки возьми меч и убей бога-вора.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телеанский меч"
+},{"op":"replace","path":"/description","value":
+"Меч мертвого Телеана. Он застрял слишком сильно, чтобы его можно было вытащить."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран хочет взять меч, но Флоран недостаточно силен..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Слабый. У меня нет сил вытащить этот меч из скал."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот меч, должно быть, убил многих представителей моего вида."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено телеанское вооружение. Анализ: застрял."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Меч бога-вора. Акки возьми меч и убей бога-вора."
+}]

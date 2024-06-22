@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Яйцо песчаного ползуна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожистое яйцо кадаванского песчаного краулера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное яйцо. Он кажется кожаным.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это довольно странное яйцо...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца для еды?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивляться. Какое существо могло появиться из этого яйца?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное яйцо. Выглядит не очень съедобно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зародыш новой жизни.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо червеобразного существа из Кадавана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо песчаного ползуна. Возможно, мне стоит его высидеть и вырастить как своего.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо песчаного ползуна. Лучше не злить родителя.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйцо песчаного краулера. Пожалуйста, обращаться осторожно.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное яйцо, наверное, странный вкус. Акки все еще хочет есть.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Яйцо песчаного ползуна"
+},{"op":"replace","path":"/description","value":
+"Кожистое яйцо кадаванского песчаного краулера."
+},{"op":"replace","path":"/apexDescription","value":
+"Инопланетное яйцо. Он кажется кожаным."
+},{"op":"replace","path":"/avianDescription","value":
+"Это довольно странное яйцо..."
+},{"op":"replace","path":"/floranDescription","value":
+"Яйца для еды?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивляться. Какое существо могло появиться из этого яйца?"
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетное яйцо. Выглядит не очень съедобно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Зародыш новой жизни."
+},{"op":"replace","path":"/aegiDescription","value":
+"Яйцо червеобразного существа из Кадавана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Яйцо песчаного ползуна. Возможно, мне стоит его высидеть и вырастить как своего."
+},{"op":"replace","path":"/trinkDescription","value":
+"Яйцо песчаного ползуна. Лучше не злить родителя."
+},{"op":"replace","path":"/drodenDescription","value":
+"Яйцо песчаного краулера. Пожалуйста, обращаться осторожно."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Странное яйцо, наверное, странный вкус. Акки все еще хочет есть."
+}]

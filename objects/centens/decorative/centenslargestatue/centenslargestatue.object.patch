@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Большая статуя Це'теннана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая статуя, изображающая центенского воина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя изображает своего рода инопланетного воина.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сияющая статуя инопланетного воина.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая статуя блестящая!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарование. Эта статуя древняя, но все еще находится в первозданном состоянии.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя прекрасна! Я бы хотел иметь такой меч...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя очаровательна. Мастерство не имеет себе равных.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя выглядит очень старой!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Действительно, очаровательная статуя! Для меня эти центенские реликвии всегда кажутся загадочными!",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, оставленная Древними. Он прекрасен, как и все их реликвии.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя изображает Цетеннана или Центена — оба названия применимы.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ статуи. Обнаружено центенское мастерство.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя бога-создателя, размером с меч. Акки хочет взять меч!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большая статуя Це'теннана"
+},{"op":"replace","path":"/description","value":
+"Большая статуя, изображающая центенского воина."
+},{"op":"replace","path":"/apexDescription","value":
+"Эта статуя изображает своего рода инопланетного воина."
+},{"op":"replace","path":"/avianDescription","value":
+"Сияющая статуя инопланетного воина."
+},{"op":"replace","path":"/floranDescription","value":
+"Большая статуя блестящая!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарование. Эта статуя древняя, но все еще находится в первозданном состоянии."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта статуя прекрасна! Я бы хотел иметь такой меч..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта статуя очаровательна. Мастерство не имеет себе равных."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта статуя выглядит очень старой!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Действительно, очаровательная статуя! Для меня эти центенские реликвии всегда кажутся загадочными!"
+},{"op":"replace","path":"/avikanDescription","value":
+"Статуя, оставленная Древними. Он прекрасен, как и все их реликвии."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта статуя изображает Цетеннана или Центена — оба названия применимы."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ статуи. Обнаружено центенское мастерство."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Статуя бога-создателя, размером с меч. Акки хочет взять меч!"
+}]

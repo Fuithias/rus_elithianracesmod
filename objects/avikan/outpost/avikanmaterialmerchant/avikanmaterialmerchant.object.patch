@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Обмен токенов Nomada",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, здесь я могу обменять свои материалы на знаки отличия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран дает материалы, Флоран получает жетоны здесь!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот торговец обменяет мои материалы на знаки отличия.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, этот парень наградит меня наградами за мои материалы.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот Дроден обменяет мои материалы на знаки отличия.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Торговец обнаружен. Предлагает знаки отличия за обмененные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Робот дает жетоны Акки, если Акки дает роботу материалы.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Обмен токенов Номада"
+},{"op":"replace","path":"/description","value":
+"Кажется, здесь я могу обменять свои материалы на знаки отличия."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран даёт материалы, Флоран получает жетоны здесь!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот торговец обменяет мои материалы на знаки отличия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Думаю, этот парень наградит меня наградами за мои материалы."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот Дроден обменяет мои материалы на знаки отличия."
+},{"op":"replace","path":"/drodenDescription","value":
+"Торговец обнаружен. Предлагает знаки отличия за обмененные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Робот даёт жетоны Акки, если Акки даёт роботу материалы."
+}]

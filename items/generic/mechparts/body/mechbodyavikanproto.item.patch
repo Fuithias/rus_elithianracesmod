@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прототип механического корпуса с открытым верхом, разработанный Vanguard.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тело меха Авангард-00",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Протов. механического корпуса с открытым верхом, разработанный Авангард."
+},{"op":"replace","path":"/shortdescription","value":
+"Тело меха Авангард-00"
+}]

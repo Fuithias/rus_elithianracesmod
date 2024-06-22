@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Части клинка, извлеченные из разобранного оружия ближнего боя или лука.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Части лезвия",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Части клинка, извлеченные из разобранного оружия ближнего боя или лука."
+},{"op":"replace","path":"/shortdescription","value":
+"Части лезвия"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Голограмма Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма, отображающая активный интерфейс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма, отображающая полезную информацию.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не уверен, что отображает эта голограмма.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скай-письмо сбивает Флорана с толку.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Голограмма.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне всегда нравились голограммы.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограммы — элегантная замена физическим экранам.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то написал что-то в небе.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта голограмма проецируется крошечным проектором неподалеку.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная голограмма. Кочевники могли бы почерпнуть из него полезную информацию.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограммы могут быть весьма эффективными.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена голограмма пришельца. Попытка перевода.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма-инопланетянин.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Голограмма Альянса"
+},{"op":"replace","path":"/description","value":
+"Голограмма, отображающая активный интерфейс."
+},{"op":"replace","path":"/apexDescription","value":
+"Голограмма, отображающая полезную информацию."
+},{"op":"replace","path":"/avianDescription","value":
+"Я не уверен, что отображает эта голограмма."
+},{"op":"replace","path":"/floranDescription","value":
+"Скай-письмо сбивает Флорана с толку."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Голограмма."
+},{"op":"replace","path":"/humanDescription","value":
+"Мне всегда нравились голограммы."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Голограммы — элегантная замена физическим экранам."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кто-то написал что-то в небе."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта голограмма проецируется крошечным проектором неподалеку."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная голограмма. Кочевники могли бы почерпнуть из него полезную информацию."
+},{"op":"replace","path":"/trinkDescription","value":
+"Голограммы могут быть весьма эффективными."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена голограмма пришельца. Попытка перевода."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Голограмма-инопланетянин."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Дары Следопыта",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "  Для всего вашего праздник Приземления!",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "Хо-хо-хо! У меня есть все подарки, которые вам понадобятся на этом Фестивале приземления!",
-    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хо-хо-хо! Возвращайся скорее!",
-    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мои подарки там!",
-    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хо-хо-хо! Давайте посмотрим, что вам нужно!",
-    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хо-хо-хо! Счастливого фестиваля приземления, ребята!",
-    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
+"Дары Следопыта"
+},{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
+"  Для всего вашего праздник Приземления!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/start/default/default/0","value":
+"Хо-хо-хо! У меня есть все подарки, которые вам понадобятся на этом Фестивале приземления!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/end/default/default/0","value":
+"Хо-хо-хо! Возвращайся скорее!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/follow/default/default/0","value":
+"Мои подарки там!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/welcome/default/default/0","value":
+"Хо-хо-хо! Давайте посмотрим, что вам нужно!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/tout/default/default/0","value":
+"Хо-хо-хо! Счастливого фестиваля приземления, ребята!"
+}]

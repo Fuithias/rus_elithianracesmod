@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат ААЭ",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий ААЕ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится зелень.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. AAE означает «Передовая эгинская инженерия».",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "ААЭ производит множество товаров: от военной техники до предметов домашнего обихода и городских электросетей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат ПАИ"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий ПАИ."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится зелень."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. ПАИ означает Передовая эгинская инженерия."
+},{"op":"replace","path":"/aegiDescription","value":
+"ПАИ производит множество товаров: от военной техники до предметов домашнего обихода и городских электросетей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

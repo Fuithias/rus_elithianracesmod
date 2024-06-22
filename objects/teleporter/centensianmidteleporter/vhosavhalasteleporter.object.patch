@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Телепорт Восса Авха'ласа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, ведущий в какое-то загадочное место.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт в странное место...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Беспокойство. Этот телепорт может привести куда-то опасно.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен телепорт. Пункт назначения неизвестен. Рекомендую тщательное исследование.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет знать-знать, куда уходит древний телепорт.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт Восса Авха'ласа"
+},{"op":"replace","path":"/description","value":
+"Телепорт, ведущий в какое-то загадочное место."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт в странное место..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Беспокойство. Этот телепорт может привести куда-то опасно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен телепорт. Пункт назначения неизвестен. Рекомендую тщательное исследование."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочет знать-знать, куда уходит древний телепорт."
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Кефф",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль, созданный для пересечения пустыни на высокой скорости.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Надежный ховербайк. Я думаю, что его создатели называют это кеффом.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вождение таких ховербайков вызывает у меня ощущение полета.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большие металлические летающие вещи. Фассст.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изумление. Этот ховербайк оснащен невероятно передовыми технологиями.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ховербайк. Это так круто!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ховербайк, созданный для использования в пустыне. Не для использования под водой.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан производит одни из самых надежных автомобилей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надежный кефф. Как и мы, он может противостоять экстремальным условиям.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ховербайк конструкции Авикан, он невероятно надежен.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кефф обнаружен. Владелец: неизвестен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мотоцикл-инопланетянин, выглядит быстрым.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Кефф"
+},{"op":"replace","path":"/description","value":
+"Автомобиль, созданный для пересечения пустыни на высокой скорости."
+},{"op":"replace","path":"/apexDescription","value":
+"Надежный ховербайк. Я думаю, что его создатели называют это кеффом."
+},{"op":"replace","path":"/avianDescription","value":
+"Вождение таких ховербайков вызывает у меня ощущение полета."
+},{"op":"replace","path":"/floranDescription","value":
+"Большие металлические летающие вещи. Фассст."
+},{"op":"replace","path":"/glitchDescription","value":
+"Изумление. Этот ховербайк оснащен невероятно передовыми технологиями."
+},{"op":"replace","path":"/humanDescription","value":
+"Ховербайк. Это так круто!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ховербайк, созданный для использования в пустыне. Не для использования под водой."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авикан производит одни из самых надежных автомобилей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Надежный кефф. Как и мы, он может противостоять экстремальным условиям."
+},{"op":"replace","path":"/trinkDescription","value":
+"Ховербайк конструкции Авикан, он невероятно надежен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Кефф обнаружен. Владелец: неизвестен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Мотоцикл-инопланетянин, выглядит быстрым."
+}]

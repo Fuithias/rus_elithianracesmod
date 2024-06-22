@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Минимальное энергетическое оружие, выдаваемое дроденским солдатам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Дроденская снайперка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Минимальное энергетическое оружие, выдаваемое дроденским солдатам."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Дроденская снайперка"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+}]

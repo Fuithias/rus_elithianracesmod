@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Гибридная штурмовая винтовка с традиционным магазином.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Бегущий в осаде^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Гибридная штурмовая винтовка с традиционным магазином."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Бегущий в осаде^white;"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+}]

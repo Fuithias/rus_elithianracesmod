@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочные металлические пластины, обладающие исключительной термостойкостью.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дранитовая пластина",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочные металлические пластины, обладающие исключительной термостойкостью."
+},{"op":"replace","path":"/shortdescription","value":
+"Дранитовая пластина"
+}]

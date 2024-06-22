@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Щитовой Глаз II",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор щита в отличном состоянии, но все соединения сгорели, и у него нет источника питания. ^green;Найдите для меня ^orange;8 кусочков Центенсианской Технологии ^green;и ^orange;16 кусочков Центенсианского Металла^reset;, и я смогу создать рабочий корпус для генератора.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Вот, капитан. Этот щит начинает выглядеть довольно хорошо!",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Щитовой Глаз II"
+},{"op":"replace","path":"/text","value":
+"Генератор щита в отличном состоянии, но все соединения сгорели, и у него нет источника питания. ^green;Найдите для меня ^orange;8 кусочков Центенской Технологии ^green;и ^orange;16 кусочков Центенского Металла^reset;, и я смогу создать рабочий корпус для генератора."
+},{"op":"replace","path":"/completionText","value":
+"Вот, капитан. Этот щит начинает выглядеть довольно хорошо!"
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Найдите ^orange;Адако ^reset;в ^orange;Убежище Звездохода^reset;"
+}]

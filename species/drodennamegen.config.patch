@@ -1,517 +1,207 @@
-[
-  {
-    "value": "Дроде-",
-    "path": "/names/1/1/1",
-    "op": "replace"
-  },
-  {
-    "value": "Номен-",
-    "path": "/names/1/1/2",
-    "op": "replace"
-  },
-  {
-    "value": "Авика-",
-    "path": "/names/1/1/3",
-    "op": "replace"
-  },
-  {
-    "value": "Коден-",
-    "path": "/names/1/1/4",
-    "op": "replace"
-  },
-  {
-    "value": "Кавир-",
-    "path": "/names/1/1/5",
-    "op": "replace"
-  },
-  {
-    "value": "Мачна-",
-    "path": "/names/1/1/6",
-    "op": "replace"
-  },
-  {
-    "value": "Эвири-",
-    "path": "/names/1/1/7",
-    "op": "replace"
-  },
-  {
-    "value": "Калачи-",
-    "path": "/names/1/1/8",
-    "op": "replace"
-  },
-  {
-    "value": "Валахки-",
-    "path": "/names/1/1/9",
-    "op": "replace"
-  },
-  {
-    "value": "Валеих-",
-    "path": "/names/1/1/10",
-    "op": "replace"
-  },
-  {
-    "value": "Радан-",
-    "path": "/names/1/1/11",
-    "op": "replace"
-  },
-  {
-    "value": "Тера-",
-    "path": "/names/1/1/12",
-    "op": "replace"
-  },
-  {
-    "value": "Серен-",
-    "path": "/names/1/1/13",
-    "op": "replace"
-  },
-  {
-    "value": "Ванан-",
-    "path": "/names/1/1/14",
-    "op": "replace"
-  },
-  {
-    "value": "Канан-",
-    "path": "/names/1/1/15",
-    "op": "replace"
-  },
-  {
-    "value": "Ренин-",
-    "path": "/names/1/1/16",
-    "op": "replace"
-  },
-  {
-    "value": "К1",
-    "path": "/names/1/2/1",
-    "op": "replace"
-  },
-  {
-    "value": "К2",
-    "path": "/names/1/2/2",
-    "op": "replace"
-  },
-  {
-    "value": "К3",
-    "path": "/names/1/2/3",
-    "op": "replace"
-  },
-  {
-    "value": "К3",
-    "path": "/names/1/2/4",
-    "op": "replace"
-  },
-  {
-    "value": "К4",
-    "path": "/names/1/2/5",
-    "op": "replace"
-  },
-  {
-    "value": "К5",
-    "path": "/names/1/2/6",
-    "op": "replace"
-  },
-  {
-    "value": "К6",
-    "path": "/names/1/2/7",
-    "op": "replace"
-  },
-  {
-    "value": "К7",
-    "path": "/names/1/2/8",
-    "op": "replace"
-  },
-  {
-    "value": "К8",
-    "path": "/names/1/2/9",
-    "op": "replace"
-  },
-  {
-    "value": "К9",
-    "path": "/names/1/2/10",
-    "op": "replace"
-  },
-  {
-    "value": "МТ12",
-    "path": "/names/1/2/11",
-    "op": "replace"
-  },
-  {
-    "value": "МТ13",
-    "path": "/names/1/2/12",
-    "op": "replace"
-  },
-  {
-    "value": "МТ14",
-    "path": "/names/1/2/13",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК1",
-    "path": "/names/1/2/14",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК2",
-    "path": "/names/1/2/15",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК3",
-    "path": "/names/1/2/16",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК4",
-    "path": "/names/1/2/17",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК5",
-    "path": "/names/1/2/18",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК6",
-    "path": "/names/1/2/19",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК7",
-    "path": "/names/1/2/20",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК8",
-    "path": "/names/1/2/21",
-    "op": "replace"
-  },
-  {
-    "value": "ЛСК9",
-    "path": "/names/1/2/22",
-    "op": "replace"
-  },
-  {
-    "value": "УВ1",
-    "path": "/names/1/2/23",
-    "op": "replace"
-  },
-  {
-    "value": "УВ2",
-    "path": "/names/1/2/24",
-    "op": "replace"
-  },
-  {
-    "value": "УВ3",
-    "path": "/names/1/2/25",
-    "op": "replace"
-  },
-  {
-    "value": "УВ4",
-    "path": "/names/1/2/26",
-    "op": "replace"
-  },
-  {
-    "value": "УВ5",
-    "path": "/names/1/2/27",
-    "op": "replace"
-  },
-  {
-    "value": "УВ6",
-    "path": "/names/1/2/28",
-    "op": "replace"
-  },
-  {
-    "value": "УВ7",
-    "path": "/names/1/2/29",
-    "op": "replace"
-  },
-  {
-    "value": "УВ8",
-    "path": "/names/1/2/30",
-    "op": "replace"
-  },
-  {
-    "value": "УФ9",
-    "path": "/names/1/2/31",
-    "op": "replace"
-  },
-  {
-    "value": "ПТ16",
-    "path": "/names/1/2/32",
-    "op": "replace"
-  },
-  {
-    "value": "Ф6",
-    "path": "/names/1/2/33",
-    "op": "replace"
-  },
-  {
-    "value": "Г42",
-    "path": "/names/1/2/34",
-    "op": "replace"
-  },
-  {
-    "value": "31993",
-    "path": "/names/1/2/35",
-    "op": "replace"
-  },
-  {
-    "value": "98742",
-    "path": "/names/1/2/36",
-    "op": "replace"
-  },
-  {
-    "value": "76932",
-    "path": "/names/1/2/37",
-    "op": "replace"
-  },
-  {
-    "value": "39671",
-    "path": "/names/1/2/38",
-    "op": "replace"
-  },
-  {
-    "value": "30684",
-    "path": "/names/1/2/39",
-    "op": "replace"
-  },
-  {
-    "value": "60926",
-    "path": "/names/1/2/40",
-    "op": "replace"
-  },
-  {
-    "value": "83760",
-    "path": "/names/1/2/41",
-    "op": "replace"
-  },
-  {
-    "value": "18564",
-    "path": "/names/1/2/42",
-    "op": "replace"
-  },
-  {
-    "value": "02956",
-    "path": "/names/1/2/43",
-    "op": "replace"
-  },
-  {
-    "value": "92752",
-    "path": "/names/1/2/44",
-    "op": "replace"
-  },
-  {
-    "value": "35753",
-    "path": "/names/1/2/45",
-    "op": "replace"
-  },
-  {
-    "value": "98637",
-    "path": "/names/1/2/46",
-    "op": "replace"
-  },
-  {
-    "value": "78325",
-    "path": "/names/1/2/47",
-    "op": "replace"
-  },
-  {
-    "value": "78435",
-    "path": "/names/1/2/48",
-    "op": "replace"
-  },
-  {
-    "value": "13325",
-    "path": "/names/1/2/49",
-    "op": "replace"
-  },
-  {
-    "value": "04389",
-    "path": "/names/1/2/50",
-    "op": "replace"
-  },
-  {
-    "value": "74342",
-    "path": "/names/1/2/51",
-    "op": "replace"
-  },
-  {
-    "value": "53026",
-    "path": "/names/1/2/52",
-    "op": "replace"
-  },
-  {
-    "value": "94363",
-    "path": "/names/1/2/53",
-    "op": "replace"
-  },
-  {
-    "value": "73063",
-    "path": "/names/1/2/54",
-    "op": "replace"
-  },
-  {
-    "value": "21333",
-    "path": "/names/1/2/55",
-    "op": "replace"
-  },
-  {
-    "value": "43623",
-    "path": "/names/1/2/56",
-    "op": "replace"
-  },
-  {
-    "value": "36743",
-    "path": "/names/1/2/57",
-    "op": "replace"
-  },
-  {
-    "value": "03623",
-    "path": "/names/1/2/58",
-    "op": "replace"
-  },
-  {
-    "value": "92464",
-    "path": "/names/1/2/59",
-    "op": "replace"
-  },
-  {
-    "value": "56336",
-    "path": "/names/1/2/60",
-    "op": "replace"
-  },
-  {
-    "value": "62874",
-    "path": "/names/1/2/61",
-    "op": "replace"
-  },
-  {
-    "value": "74347",
-    "path": "/names/1/2/62",
-    "op": "replace"
-  },
-  {
-    "value": "34563",
-    "path": "/names/1/2/63",
-    "op": "replace"
-  },
-  {
-    "value": "65244",
-    "path": "/names/1/2/64",
-    "op": "replace"
-  },
-  {
-    "value": "96643",
-    "path": "/names/1/2/65",
-    "op": "replace"
-  },
-  {
-    "value": "67544",
-    "path": "/names/1/2/66",
-    "op": "replace"
-  },
-  {
-    "value": "93825",
-    "path": "/names/1/2/67",
-    "op": "replace"
-  },
-  {
-    "value": "13435",
-    "path": "/names/1/2/68",
-    "op": "replace"
-  },
-  {
-    "value": "23576",
-    "path": "/names/1/2/69",
-    "op": "replace"
-  },
-  {
-    "value": "99623",
-    "path": "/names/1/2/70",
-    "op": "replace"
-  },
-  {
-    "value": "78532",
-    "path": "/names/1/2/71",
-    "op": "replace"
-  },
-  {
-    "value": "53562",
-    "path": "/names/1/2/72",
-    "op": "replace"
-  },
-  {
-    "value": "63425",
-    "path": "/names/1/2/73",
-    "op": "replace"
-  },
-  {
-    "value": "74385",
-    "path": "/names/1/2/74",
-    "op": "replace"
-  },
-  {
-    "value": "94662",
-    "path": "/names/1/2/75",
-    "op": "replace"
-  },
-  {
-    "value": "54332",
-    "path": "/names/1/2/76",
-    "op": "replace"
-  },
-  {
-    "value": "83457",
-    "path": "/names/1/2/77",
-    "op": "replace"
-  },
-  {
-    "value": "92542",
-    "path": "/names/1/2/78",
-    "op": "replace"
-  },
-  {
-    "value": "44623",
-    "path": "/names/1/2/79",
-    "op": "replace"
-  },
-  {
-    "value": "04325",
-    "path": "/names/1/2/80",
-    "op": "replace"
-  },
-  {
-    "value": "36545",
-    "path": "/names/1/2/81",
-    "op": "replace"
-  },
-  {
-    "value": "37543",
-    "path": "/names/1/2/82",
-    "op": "replace"
-  },
-  {
-    "value": "45463",
-    "path": "/names/1/2/83",
-    "op": "replace"
-  },
-  {
-    "value": "65434",
-    "path": "/names/1/2/84",
-    "op": "replace"
-  },
-  {
-    "value": "23546",
-    "path": "/names/1/2/85",
-    "op": "replace"
-  },
-  {
-    "value": "34463",
-    "path": "/names/1/2/86",
-    "op": "replace"
-  },
-  {
-    "value": "36472",
-    "path": "/names/1/2/87",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/names/1/1/1","value":
+"Дроде-"
+},{"op":"replace","path":"/names/1/1/2","value":
+"Номен-"
+},{"op":"replace","path":"/names/1/1/3","value":
+"Авика-"
+},{"op":"replace","path":"/names/1/1/4","value":
+"Коден-"
+},{"op":"replace","path":"/names/1/1/5","value":
+"Кавир-"
+},{"op":"replace","path":"/names/1/1/6","value":
+"Мачна-"
+},{"op":"replace","path":"/names/1/1/7","value":
+"Эвири-"
+},{"op":"replace","path":"/names/1/1/8","value":
+"Калачи-"
+},{"op":"replace","path":"/names/1/1/9","value":
+"Валахки-"
+},{"op":"replace","path":"/names/1/1/10","value":
+"Валеих-"
+},{"op":"replace","path":"/names/1/1/11","value":
+"Радан-"
+},{"op":"replace","path":"/names/1/1/12","value":
+"Тера-"
+},{"op":"replace","path":"/names/1/1/13","value":
+"Серен-"
+},{"op":"replace","path":"/names/1/1/14","value":
+"Ванан-"
+},{"op":"replace","path":"/names/1/1/15","value":
+"Канан-"
+},{"op":"replace","path":"/names/1/1/16","value":
+"Ренин-"
+},{"op":"replace","path":"/names/1/2/1","value":
+"К1"
+},{"op":"replace","path":"/names/1/2/2","value":
+"К2"
+},{"op":"replace","path":"/names/1/2/3","value":
+"К3"
+},{"op":"replace","path":"/names/1/2/4","value":
+"К3"
+},{"op":"replace","path":"/names/1/2/5","value":
+"К4"
+},{"op":"replace","path":"/names/1/2/6","value":
+"К5"
+},{"op":"replace","path":"/names/1/2/7","value":
+"К6"
+},{"op":"replace","path":"/names/1/2/8","value":
+"К7"
+},{"op":"replace","path":"/names/1/2/9","value":
+"К8"
+},{"op":"replace","path":"/names/1/2/10","value":
+"К9"
+},{"op":"replace","path":"/names/1/2/11","value":
+"МТ12"
+},{"op":"replace","path":"/names/1/2/12","value":
+"МТ13"
+},{"op":"replace","path":"/names/1/2/13","value":
+"МТ14"
+},{"op":"replace","path":"/names/1/2/14","value":
+"ЛСК1"
+},{"op":"replace","path":"/names/1/2/15","value":
+"ЛСК2"
+},{"op":"replace","path":"/names/1/2/16","value":
+"ЛСК3"
+},{"op":"replace","path":"/names/1/2/17","value":
+"ЛСК4"
+},{"op":"replace","path":"/names/1/2/18","value":
+"ЛСК5"
+},{"op":"replace","path":"/names/1/2/19","value":
+"ЛСК6"
+},{"op":"replace","path":"/names/1/2/20","value":
+"ЛСК7"
+},{"op":"replace","path":"/names/1/2/21","value":
+"ЛСК8"
+},{"op":"replace","path":"/names/1/2/22","value":
+"ЛСК9"
+},{"op":"replace","path":"/names/1/2/23","value":
+"УВ1"
+},{"op":"replace","path":"/names/1/2/24","value":
+"УВ2"
+},{"op":"replace","path":"/names/1/2/25","value":
+"УВ3"
+},{"op":"replace","path":"/names/1/2/26","value":
+"УВ4"
+},{"op":"replace","path":"/names/1/2/27","value":
+"УВ5"
+},{"op":"replace","path":"/names/1/2/28","value":
+"УВ6"
+},{"op":"replace","path":"/names/1/2/29","value":
+"УВ7"
+},{"op":"replace","path":"/names/1/2/30","value":
+"УВ8"
+},{"op":"replace","path":"/names/1/2/31","value":
+"УФ9"
+},{"op":"replace","path":"/names/1/2/32","value":
+"ПТ16"
+},{"op":"replace","path":"/names/1/2/33","value":
+"Ф6"
+},{"op":"replace","path":"/names/1/2/34","value":
+"Г42"
+},{"op":"replace","path":"/names/1/2/35","value":
+"31993"
+},{"op":"replace","path":"/names/1/2/36","value":
+"98742"
+},{"op":"replace","path":"/names/1/2/37","value":
+"76932"
+},{"op":"replace","path":"/names/1/2/38","value":
+"39671"
+},{"op":"replace","path":"/names/1/2/39","value":
+"30684"
+},{"op":"replace","path":"/names/1/2/40","value":
+"60926"
+},{"op":"replace","path":"/names/1/2/41","value":
+"83760"
+},{"op":"replace","path":"/names/1/2/42","value":
+"18564"
+},{"op":"replace","path":"/names/1/2/43","value":
+"02956"
+},{"op":"replace","path":"/names/1/2/44","value":
+"92752"
+},{"op":"replace","path":"/names/1/2/45","value":
+"35753"
+},{"op":"replace","path":"/names/1/2/46","value":
+"98637"
+},{"op":"replace","path":"/names/1/2/47","value":
+"78325"
+},{"op":"replace","path":"/names/1/2/48","value":
+"78435"
+},{"op":"replace","path":"/names/1/2/49","value":
+"13325"
+},{"op":"replace","path":"/names/1/2/50","value":
+"04389"
+},{"op":"replace","path":"/names/1/2/51","value":
+"74342"
+},{"op":"replace","path":"/names/1/2/52","value":
+"53026"
+},{"op":"replace","path":"/names/1/2/53","value":
+"94363"
+},{"op":"replace","path":"/names/1/2/54","value":
+"73063"
+},{"op":"replace","path":"/names/1/2/55","value":
+"21333"
+},{"op":"replace","path":"/names/1/2/56","value":
+"43623"
+},{"op":"replace","path":"/names/1/2/57","value":
+"36743"
+},{"op":"replace","path":"/names/1/2/58","value":
+"03623"
+},{"op":"replace","path":"/names/1/2/59","value":
+"92464"
+},{"op":"replace","path":"/names/1/2/60","value":
+"56336"
+},{"op":"replace","path":"/names/1/2/61","value":
+"62874"
+},{"op":"replace","path":"/names/1/2/62","value":
+"74347"
+},{"op":"replace","path":"/names/1/2/63","value":
+"34563"
+},{"op":"replace","path":"/names/1/2/64","value":
+"65244"
+},{"op":"replace","path":"/names/1/2/65","value":
+"96643"
+},{"op":"replace","path":"/names/1/2/66","value":
+"67544"
+},{"op":"replace","path":"/names/1/2/67","value":
+"93825"
+},{"op":"replace","path":"/names/1/2/68","value":
+"13435"
+},{"op":"replace","path":"/names/1/2/69","value":
+"23576"
+},{"op":"replace","path":"/names/1/2/70","value":
+"99623"
+},{"op":"replace","path":"/names/1/2/71","value":
+"78532"
+},{"op":"replace","path":"/names/1/2/72","value":
+"53562"
+},{"op":"replace","path":"/names/1/2/73","value":
+"63425"
+},{"op":"replace","path":"/names/1/2/74","value":
+"74385"
+},{"op":"replace","path":"/names/1/2/75","value":
+"94662"
+},{"op":"replace","path":"/names/1/2/76","value":
+"54332"
+},{"op":"replace","path":"/names/1/2/77","value":
+"83457"
+},{"op":"replace","path":"/names/1/2/78","value":
+"92542"
+},{"op":"replace","path":"/names/1/2/79","value":
+"44623"
+},{"op":"replace","path":"/names/1/2/80","value":
+"04325"
+},{"op":"replace","path":"/names/1/2/81","value":
+"36545"
+},{"op":"replace","path":"/names/1/2/82","value":
+"37543"
+},{"op":"replace","path":"/names/1/2/83","value":
+"45463"
+},{"op":"replace","path":"/names/1/2/84","value":
+"65434"
+},{"op":"replace","path":"/names/1/2/85","value":
+"23546"
+},{"op":"replace","path":"/names/1/2/86","value":
+"34463"
+},{"op":"replace","path":"/names/1/2/87","value":
+"36472"
+}]

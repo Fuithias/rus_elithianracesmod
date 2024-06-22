@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Посольство Креона",
-    "path": "/destinations/name",
-    "op": "replace"
-  },
-  {
-    "value": "Элития",
-    "path": "/destinations/planetName",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/destinations/name","value":
+"Посольство Креона"
+},{"op":"replace","path":"/destinations/planetName","value":
+"Элития"
+}]

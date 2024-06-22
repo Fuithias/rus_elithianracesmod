@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фестиваль высадки в подарок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фестиваль высадки в подарок"
+},{"op":"replace","path":"/description","value":
+"..."
+}]

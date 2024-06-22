@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Аккимари",
-    "path": "/charCreationTooltip/title",
-    "op": "replace"
-  },
-  {
-    "value": "Космические мусорщики",
-    "path": "/charCreationTooltip/subTitle",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари - сломленная раса, их общество все еще восстанавливается после потери ИИ, который руководил ими. Теперь многие аккимари скитаются по галактике как мусорщики и охотники за головами в поисках своего ИИ и наживы.",
-    "path": "/charCreationTooltip/description",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет кожи",
-    "path": "/charGenTextLabels/0",
-    "op": "replace"
-  },
-  {
-    "value": "Н/Д",
-    "path": "/charGenTextLabels/1",
-    "op": "replace"
-  },
-  {
-    "value": " Одежда",
-    "path": "/charGenTextLabels/2",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны",
-    "path": "/charGenTextLabels/3",
-    "op": "replace"
-  },
-  {
-    "value": "Размер уха",
-    "path": "/charGenTextLabels/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет меха",
-    "path": "/charGenTextLabels/5",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет одежды",
-    "path": "/charGenTextLabels/6",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет штанов",
-    "path": "/charGenTextLabels/7",
-    "op": "replace"
-  },
-  {
-    "value": "АККИМАРИ",
-    "path": "/charGenTextLabels/8",
-    "op": "replace"
-  },
-  {
-    "value": "Личность",
-    "path": "/charGenTextLabels/9",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/charCreationTooltip/title","value":
+"Аккимари"
+},{"op":"replace","path":"/charCreationTooltip/subTitle","value":
+"Космические мусорщики"
+},{"op":"replace","path":"/charCreationTooltip/description","value":
+"Аккимари - сломленная раса, их общество все еще восстанавливается после потери ИИ, который руководил ими. Теперь многие аккимари скитаются по галактике как мусорщики и охотники за головами в поисках своего ИИ и наживы."
+},{"op":"replace","path":"/charGenTextLabels/0","value":
+"Цвет кожи"
+},{"op":"replace","path":"/charGenTextLabels/1","value":
+"Н/Д"
+},{"op":"replace","path":"/charGenTextLabels/2","value":
+" Одежда"
+},{"op":"replace","path":"/charGenTextLabels/3","value":
+"Штаны"
+},{"op":"replace","path":"/charGenTextLabels/4","value":
+"Размер уха"
+},{"op":"replace","path":"/charGenTextLabels/5","value":
+"Цвет меха"
+},{"op":"replace","path":"/charGenTextLabels/6","value":
+"Цвет одежды"
+},{"op":"replace","path":"/charGenTextLabels/7","value":
+"Цвет штанов"
+},{"op":"replace","path":"/charGenTextLabels/8","value":
+"АККИМАРИ"
+},{"op":"replace","path":"/charGenTextLabels/9","value":
+"Личность"
+}]

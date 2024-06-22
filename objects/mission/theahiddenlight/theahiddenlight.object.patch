@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Скрытый свет",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Скрытый свет"
+},{"op":"replace","path":"/description","value":
+"..."
+}]

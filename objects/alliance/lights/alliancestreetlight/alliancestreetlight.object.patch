@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Уличный фонарь Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий, но эффективный уличный фонарь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий уличный свет.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет на вершине длинного шеста.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не может дотянуться до света.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радостный. Благодаря такому освещению выходить на улицу в ночное время будет намного безопаснее.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Уличный фонарь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный уличный фонарь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это уличный фонарь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет сделает улицы намного безопаснее в ночное время.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий свет на вершине длинного шеста.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивительно эффективный уличный фонарь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Источник света обнаружен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Световысокий, для освещения улицы.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Уличный фонарь Альянса"
+},{"op":"replace","path":"/description","value":
+"Яркий, но эффективный уличный фонарь."
+},{"op":"replace","path":"/apexDescription","value":
+"Яркий уличный свет."
+},{"op":"replace","path":"/avianDescription","value":
+"Яркий свет на вершине длинного шеста."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не может дотянуться до света."
+},{"op":"replace","path":"/glitchDescription","value":
+"Радостный. Благодаря такому освещению выходить на улицу в ночное время будет намного безопаснее."
+},{"op":"replace","path":"/humanDescription","value":
+"Уличный фонарь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный уличный фонарь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это уличный фонарь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот свет сделает улицы намного безопаснее в ночное время."
+},{"op":"replace","path":"/avikanDescription","value":
+"Яркий свет на вершине длинного шеста."
+},{"op":"replace","path":"/trinkDescription","value":
+"Удивительно эффективный уличный фонарь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Источник света обнаружен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Световысокий, для освещения улицы."
+}]

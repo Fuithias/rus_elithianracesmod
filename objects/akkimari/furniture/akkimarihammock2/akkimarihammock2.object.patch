@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Гамак",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но удобный гамак.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это не совсем роскошно, но вполне приличное место для сна.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой гамак.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гамак — это простая кровать.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Испуганный. Надеюсь, я не выпаду, пока сплю.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это всего лишь гамак, хотя материал мягкий и гладкий, как шелк.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но элегантный гамак.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне никогда не нравилась идея гамака.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий, удобный гамак из шелка Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инопланетяне подвешивают свои кровати к потолку.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подобные гамаки позволяют эффективно использовать доступное пространство.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное постельное белье.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки любят гамаки. Спать подальше от земли, подальше от вещей – противно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Гамак"
+},{"op":"replace","path":"/description","value":
+"Простой, но удобный гамак."
+},{"op":"replace","path":"/apexDescription","value":
+"Это не совсем роскошно, но вполне приличное место для сна."
+},{"op":"replace","path":"/avianDescription","value":
+"Простой гамак."
+},{"op":"replace","path":"/floranDescription","value":
+"Гамак — это простая кровать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Испуганный. Надеюсь, я не выпаду, пока сплю."
+},{"op":"replace","path":"/humanDescription","value":
+"Это всего лишь гамак, хотя материал мягкий и гладкий, как шелк."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой, но элегантный гамак."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне никогда не нравилась идея гамака."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мягкий, удобный гамак из шелка Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эти инопланетяне подвешивают свои кровати к потолку."
+},{"op":"replace","path":"/trinkDescription","value":
+"Подобные гамаки позволяют эффективно использовать доступное пространство."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное постельное белье."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки любят гамаки. Спать подальше от земли, подальше от вещей – противно."
+}]

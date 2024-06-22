@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Клинок, используемый диким племенем Карчаа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Карчаа^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Клинок Карчаа^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Перчатка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Клинок, используемый диким племенем Карчаа."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Карчаа^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Клинок Карчаа^white;"
+},{"op":"replace","path":"/category","value":
+"Перчатка"
+}]

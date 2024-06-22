@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканское наклонное стекло",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстое и прочное стекло, часто используемое на космических кораблях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатлен. Это стекло достаточно прочное для использования на космических кораблях.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран красиво выглядит в стекле.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстое стекло, но я все еще могу видеть сквозь него.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Толстое стекло, используемое на космических кораблях.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стекло-темное, очень толстое. Полезное для кораблей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканское наклонное стекло"
+},{"op":"replace","path":"/description","value":
+"Толстое и прочное стекло, часто используемое на космических кораблях."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатлен. Это стекло достаточно прочное для использования на космических кораблях."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран красиво выглядит в стекле."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстое стекло, но я все еще могу видеть сквозь него."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Толстое стекло, используемое на космических кораблях."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стекло-темное, очень толстое. Полезное для кораблей."
+}]

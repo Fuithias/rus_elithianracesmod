@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Шкафчик для хранения Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивое, просторное настенное решение для хранения вещей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик из металла.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место для хранения ваших вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может сспрятать вещи в шкафчик.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нейтрально. Металлический шкафчик для хранения вещей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это шкаф для хранения вещей промышленного вида.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Где-то хранить личные вещи.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик в стене.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический шкафчик для хранения вещей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для хранения вещей, встроенный в стену.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот шкафчик для хранения вещей позволяет эффективно использовать пространство.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен шкафчик для хранения вещей.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранилище в стене, Акки считает это полезным.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Шкафчик для хранения Альянса"
+},{"op":"replace","path":"/description","value":
+"Красивое, просторное настенное решение для хранения вещей."
+},{"op":"replace","path":"/apexDescription","value":
+"Шкафчик из металла."
+},{"op":"replace","path":"/avianDescription","value":
+"Место для хранения ваших вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может сспрятать вещи в шкафчик."
+},{"op":"replace","path":"/glitchDescription","value":
+"Нейтрально. Металлический шкафчик для хранения вещей."
+},{"op":"replace","path":"/humanDescription","value":
+"Это шкаф для хранения вещей промышленного вида."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Где-то хранить личные вещи."
+},{"op":"replace","path":"/novakidDescription","value":
+"Шкафчик в стене."
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлический шкафчик для хранения вещей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Шкафчик для хранения вещей, встроенный в стену."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот шкафчик для хранения вещей позволяет эффективно использовать пространство."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен шкафчик для хранения вещей."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Хранилище в стене, Акки считает это полезным."
+}]

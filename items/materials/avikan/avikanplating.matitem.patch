@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочное металлическое покрытие для лучшей защиты.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Плейтинг",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочное металлическое покрытие для лучшей защиты."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Плейтинг"
+}]

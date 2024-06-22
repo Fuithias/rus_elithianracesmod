@@ -1,292 +1,117 @@
-[
-  {
-    "value": "Мне нужна помощь!",
-    "path": "/helpme/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "На меня напали!",
-    "path": "/helpme/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Оповести клан, враги!",
-    "path": "/helpme/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис, помоги мне!",
-    "path": "/helpme/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Нас вторгаются!",
-    "path": "/helpme/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты меня не возьмешь!",
-    "path": "/helpme/avikan/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь снова безопасно...",
-    "path": "/safe/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мне помнить носить оружие в следующий раз...",
-    "path": "/safe/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я выжил, спасибо Радеису!",
-    "path": "/safe/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис спас меня...",
-    "path": "/safe/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это было серьезное испытание.",
-    "path": "/safe/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я рад, что это закончилось.",
-    "path": "/safe/avikan/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужна помощь!",
-    "path": "/helpme/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "На меня напали!",
-    "path": "/helpme/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не был создан для боя!",
-    "path": "/helpme/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, прекратите это!",
-    "path": "/helpme/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу себя защитить!",
-    "path": "/helpme/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Помогите!",
-    "path": "/helpme/trink/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Я рад, что это закончилось.",
-    "path": "/safe/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужны мелкие ремонты.",
-    "path": "/safe/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, снова безопасно.",
-    "path": "/safe/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Враги ушли?",
-    "path": "/safe/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я никогда не предназначался для боя...",
-    "path": "/safe/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ситуация снова под контролем?",
-    "path": "/safe/trink/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Юнит под атакой. Запрашиваю помощь.",
-    "path": "/helpme/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен бой. Запрашиваю подмогу.",
-    "path": "/helpme/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен враг. Активирую модуль полета.",
-    "path": "/helpme/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Невозможно загрузить боевые модули. Бегу.",
-    "path": "/helpme/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Боевые модули повреждены. Прекращаю бой.",
-    "path": "/helpme/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Прекращаю бой. Бой завершен.",
-    "path": "/safe/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Уровни угрозы нормальные.",
-    "path": "/safe/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Юнит подтверждает побег.",
-    "path": "/safe/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Побег подтвержден.",
-    "path": "/safe/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Протоколы полета завершаются.",
-    "path": "/safe/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужна помощь!",
-    "path": "/helpme/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Помогите мне!",
-    "path": "/helpme/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я под атакой!",
-    "path": "/helpme/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Охрана, пожалуйста, помогите мне!",
-    "path": "/helpme/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Позовите охрану!",
-    "path": "/helpme/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Прекратите это безумие!",
-    "path": "/helpme/aegi/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, теперь безопасно.",
-    "path": "/safe/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я ненавижу драки...",
-    "path": "/safe/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я плох в драках...",
-    "path": "/safe/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, это конец.",
-    "path": "/safe/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Рад, что это закончилось.",
-    "path": "/safe/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я выбрался невредим...",
-    "path": "/safe/aegi/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Акки без оружия. Нечестно!",
-    "path": "/helpme/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нужна помощь!",
-    "path": "/helpme/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Гах, ты меня удивил. Акки не был готов к бою!",
-    "path": "/helpme/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки безоружен! Убирайся!",
-    "path": "/helpme/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты скоро пожалеешь об этом! Подожди, пока Акки найдет оружие!",
-    "path": "/helpme/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Прекратите это безумие!",
-    "path": "/helpme/akkimari/default/5",
-    "op": "replace"
-  },
-  {
-    "value": "Акки снова в безопасности.",
-    "path": "/safe/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки должен быть лучше подготовлен. Всегда иметь оружие наготове...",
-    "path": "/safe/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Лучше беги! Акки скоро найдет оружие...",
-    "path": "/safe/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Атакующий-трус. Боишься Акки, да?",
-    "path": "/safe/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки в порядке теперь.",
-    "path": "/safe/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Гах, Акки только собирался драться.",
-    "path": "/safe/akkimari/default/5",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/helpme/avikan/default/0","value":
+"Мне нужна помощь!"
+},{"op":"replace","path":"/helpme/avikan/default/1","value":
+"На меня напали!"
+},{"op":"replace","path":"/helpme/avikan/default/2","value":
+"Оповести клан, враги!"
+},{"op":"replace","path":"/helpme/avikan/default/3","value":
+"Радеис, помоги мне!"
+},{"op":"replace","path":"/helpme/avikan/default/4","value":
+"Нас вторгаются!"
+},{"op":"replace","path":"/helpme/avikan/default/5","value":
+"Ты меня не возьмешь!"
+},{"op":"replace","path":"/safe/avikan/default/0","value":
+"Теперь снова безопасно..."
+},{"op":"replace","path":"/safe/avikan/default/1","value":
+"Мне помнить носить оружие в следующий раз..."
+},{"op":"replace","path":"/safe/avikan/default/2","value":
+"Я выжил, спасибо Радеису!"
+},{"op":"replace","path":"/safe/avikan/default/3","value":
+"Радеис спас меня..."
+},{"op":"replace","path":"/safe/avikan/default/4","value":
+"Это было серьезное испытание."
+},{"op":"replace","path":"/safe/avikan/default/5","value":
+"Я рад, что это закончилось."
+},{"op":"replace","path":"/helpme/trink/default/0","value":
+"Мне нужна помощь!"
+},{"op":"replace","path":"/helpme/trink/default/1","value":
+"На меня напали!"
+},{"op":"replace","path":"/helpme/trink/default/2","value":
+"Я не был создан для боя!"
+},{"op":"replace","path":"/helpme/trink/default/3","value":
+"Пожалуйста, прекратите это!"
+},{"op":"replace","path":"/helpme/trink/default/4","value":
+"Я не могу себя защитить!"
+},{"op":"replace","path":"/helpme/trink/default/5","value":
+"Помогите!"
+},{"op":"replace","path":"/safe/trink/default/0","value":
+"Я рад, что это закончилось."
+},{"op":"replace","path":"/safe/trink/default/1","value":
+"Мне нужны мелкие ремонты."
+},{"op":"replace","path":"/safe/trink/default/2","value":
+"Кажется, снова безопасно."
+},{"op":"replace","path":"/safe/trink/default/3","value":
+"Враги ушли?"
+},{"op":"replace","path":"/safe/trink/default/4","value":
+"Я никогда не предназначался для боя..."
+},{"op":"replace","path":"/safe/trink/default/5","value":
+"Ситуация снова под контролем?"
+},{"op":"replace","path":"/helpme/droden/default/0","value":
+"Юнит под атакой. Запрашиваю помощь."
+},{"op":"replace","path":"/helpme/droden/default/1","value":
+"Обнаружен бой. Запрашиваю подмогу."
+},{"op":"replace","path":"/helpme/droden/default/2","value":
+"Обнаружен враг. Активирую модуль полета."
+},{"op":"replace","path":"/helpme/droden/default/3","value":
+"Невозможно загрузить боевые модули. Бегу."
+},{"op":"replace","path":"/helpme/droden/default/4","value":
+"Боевые модули повреждены. Прекращаю бой."
+},{"op":"replace","path":"/safe/droden/default/0","value":
+"Прекращаю бой. Бой завершен."
+},{"op":"replace","path":"/safe/droden/default/1","value":
+"Уровни угрозы нормальные."
+},{"op":"replace","path":"/safe/droden/default/2","value":
+"Юнит подтверждает побег."
+},{"op":"replace","path":"/safe/droden/default/3","value":
+"Побег подтвержден."
+},{"op":"replace","path":"/safe/droden/default/4","value":
+"Протоколы полета завершаются."
+},{"op":"replace","path":"/helpme/aegi/default/0","value":
+"Мне нужна помощь!"
+},{"op":"replace","path":"/helpme/aegi/default/1","value":
+"Помогите мне!"
+},{"op":"replace","path":"/helpme/aegi/default/2","value":
+"Я под атакой!"
+},{"op":"replace","path":"/helpme/aegi/default/3","value":
+"Охрана, пожалуйста, помогите мне!"
+},{"op":"replace","path":"/helpme/aegi/default/4","value":
+"Позовите охрану!"
+},{"op":"replace","path":"/helpme/aegi/default/5","value":
+"Прекратите это безумие!"
+},{"op":"replace","path":"/safe/aegi/default/0","value":
+"Кажется, теперь безопасно."
+},{"op":"replace","path":"/safe/aegi/default/1","value":
+"Я ненавижу драки..."
+},{"op":"replace","path":"/safe/aegi/default/2","value":
+"Я плох в драках..."
+},{"op":"replace","path":"/safe/aegi/default/3","value":
+"Надеюсь, это конец."
+},{"op":"replace","path":"/safe/aegi/default/4","value":
+"Рад, что это закончилось."
+},{"op":"replace","path":"/safe/aegi/default/5","value":
+"Я выбрался невредим..."
+},{"op":"replace","path":"/helpme/akkimari/default/0","value":
+"Акки без оружия. Нечестно!"
+},{"op":"replace","path":"/helpme/akkimari/default/1","value":
+"Акки нужна помощь!"
+},{"op":"replace","path":"/helpme/akkimari/default/2","value":
+"Гах, ты меня удивил. Акки не был готов к бою!"
+},{"op":"replace","path":"/helpme/akkimari/default/3","value":
+"Акки безоружен! Убирайся!"
+},{"op":"replace","path":"/helpme/akkimari/default/4","value":
+"Ты скоро пожалеешь об этом! Подожди, пока Акки найдет оружие!"
+},{"op":"replace","path":"/helpme/akkimari/default/5","value":
+"Прекратите это безумие!"
+},{"op":"replace","path":"/safe/akkimari/default/0","value":
+"Акки снова в безопасности."
+},{"op":"replace","path":"/safe/akkimari/default/1","value":
+"Акки должен быть лучше подготовлен. Всегда иметь оружие наготове..."
+},{"op":"replace","path":"/safe/akkimari/default/2","value":
+"Лучше беги! Акки скоро найдет оружие..."
+},{"op":"replace","path":"/safe/akkimari/default/3","value":
+"Атакующий-трус. Боишься Акки, да?"
+},{"op":"replace","path":"/safe/akkimari/default/4","value":
+"Акки в порядке теперь."
+},{"op":"replace","path":"/safe/akkimari/default/5","value":
+"Гах, Акки только собирался драться."
+}]

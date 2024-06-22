@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Таинственный торговец",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "У этого купца есть чувство тайны и удивления, связанное с ним...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает этого человека...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Этот торговец чувствует себя неправым.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Идентификация не удалась. Неисправность сканера. Обнаружено нарушение поля. Ошибка. Ошибка. Ошибка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лица-тени о чем-то напоминают Акки. Акки, нет фокуса...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Таинственный торговец"
+},{"op":"replace","path":"/description","value":
+"У этого купца есть чувство тайны и удивления, связанное с ним..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает этого человека..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Этот торговец чувствует себя неправым."
+},{"op":"replace","path":"/drodenDescription","value":
+"Ошибка. Идентификация не удалась. Неисправность сканера. Обнаружено нарушение поля. Ошибка. Ошибка. Ошибка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лица-тени о чем-то напоминают Акки. Акки, нет фокуса..."
+}]

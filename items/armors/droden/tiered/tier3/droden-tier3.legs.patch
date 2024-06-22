@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Прочные ноги из титана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Титановые ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Прочные ноги из титана."
+},{"op":"replace","path":"/shortdescription","value":
+"Титановые ноги"
+}]

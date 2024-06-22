@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Антенный блок Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная антенна.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна необычной конструкции.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая антенна.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические палочки принимают сигналы издалека.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Антенна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна, очевидно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная антенна.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то антенна.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная антенна.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная антенна.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта антенна достаточно эффективна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена антенна пришельца. Невозможно декодировать сигнал.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна-инопланетянка. Акки любопытно, что он отправляет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Антенный блок Альянса"
+},{"op":"replace","path":"/description","value":
+"Мощная антенна."
+},{"op":"replace","path":"/apexDescription","value":
+"Антенна необычной конструкции."
+},{"op":"replace","path":"/avianDescription","value":
+"Базовая антенна."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические палочки принимают сигналы издалека."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Антенна."
+},{"op":"replace","path":"/humanDescription","value":
+"Антенна, очевидно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Прочная антенна."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то антенна."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мощная антенна."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная антенна."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта антенна достаточно эффективна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена антенна пришельца. Невозможно декодировать сигнал."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Антенна-инопланетянка. Акки любопытно, что он отправляет."
+}]

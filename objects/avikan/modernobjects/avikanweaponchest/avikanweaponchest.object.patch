@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ящик с припасами Авангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сундук военного образца для хранения оружия и других военных припасов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на ящик с военными припасами. Внутри может быть оружие!",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик с припасами военного уровня, созданный для полной безопасности его содержимого.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жаждущий. В таком ящике с военными припасами наверняка хранится что-то ценное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сундук с инопланетным оружием. Давайте заглянем внутрь!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подарки вызывают наибольший интерес, когда они еще завернуты.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом сундуке может быть какое-то оружие!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик с припасами Авангарда. Вероятно, он содержит некоторое количество оружия, произведенного Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик с припасами Авангарда! Давайте посмотрим, что внутри!",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом сундуке, скорее всего, находится какое-то военное снаряжение.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен ящик с припасами Авангарда.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сундук для оружия.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ящик с припасами Авангарда"
+},{"op":"replace","path":"/description","value":
+"Сундук военного образца для хранения оружия и других военных припасов."
+},{"op":"replace","path":"/apexDescription","value":
+"Это похоже на ящик с военными припасами. Внутри может быть оружие!"
+},{"op":"replace","path":"/avianDescription","value":
+"Ящик с припасами военного уровня, созданный для полной безопасности его содержимого."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не терпится открыть шахматы. Может быть, о-с-с-с-оружие внутри!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Жаждущий. В таком ящике с военными припасами наверняка хранится что-то ценное."
+},{"op":"replace","path":"/humanDescription","value":
+"Сундук с инопланетным оружием. Давайте заглянем внутрь!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Подарки вызывают наибольший интерес, когда они еще завернуты."
+},{"op":"replace","path":"/novakidDescription","value":
+"В этом сундуке может быть какое-то оружие!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Ящик с припасами Авангарда. Вероятно, он содержит некоторое количество оружия, произведенного Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ящик с припасами Авангарда! Давайте посмотрим, что внутри!"
+},{"op":"replace","path":"/trinkDescription","value":
+"В этом сундуке, скорее всего, находится какое-то военное снаряжение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен ящик с припасами Авангарда."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Сундук для оружия."
+}]

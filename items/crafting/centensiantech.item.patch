@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Технология, используемая при создании центенских артефактов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсианская технология",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Технология, используемая при создании центенских артефактов."
+},{"op":"replace","path":"/shortdescription","value":
+"Центенская технология"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Древнее копье, созданное из осколка ксанафира.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Копье Вха'лейхана^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заряд Радейса",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Древнее копьё, созданное из осколка ксанафира."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Копьё Вха'лейхана^white;"
+},{"op":"replace","path":"/altAbility/name","value":
+"Заряд Радейса"
+}]

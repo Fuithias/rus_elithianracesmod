@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Тринкское покрытие",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гладкая, темная металлическая пластина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Утверждение. Гладкая и толстая металлическая пластина.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, насколько толста пластина...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гладкая как шелк, эта пластина.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Толстое металлическое покрытие.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкское покрытие"
+},{"op":"replace","path":"/description","value":
+"Гладкая, темная металлическая пластина."
+},{"op":"replace","path":"/glitchDescription","value":
+"Утверждение. Гладкая и толстая металлическая пластина."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, насколько толста пластина..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Гладкая как шелк, эта пластина."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Толстое металлическое покрытие."
+}]

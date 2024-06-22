@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелая, толстая труба. Это не будет утечки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианская трубка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелая, толстая труба. Это не будет утечки."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкианская трубка"
+}]

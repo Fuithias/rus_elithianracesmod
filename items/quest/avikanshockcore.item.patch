@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Небольшой электрический генератор, часто встречающийся в технике Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Ударный сердечник Авикан^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Небольшой электрический генератор, часто встречающийся в технике Авикан."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Ударный сердечник Авикан^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

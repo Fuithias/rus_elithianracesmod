@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фигурка юстикара",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этикетке написано: «Большой юстикар Аккимари, лидер стаи Аккимари».",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фигурка юстикара"
+},{"op":"replace","path":"/description","value":
+"На этикетке написано: Большой юстикар Аккимари, лидер стаи Аккимари."
+}]

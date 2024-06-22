@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ящик с оружием Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Замок, наполненный оружием.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это оружие могло бы оказаться очень полезным для повстанцев.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие заблокировано.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нужно это оружие.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Это оружие может быть опасным. Лучше держите шкаф запертым.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Замок, полный классного оружия!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция инопланетного огнестрельного оружия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф для моего оружия.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для военного оружия.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранилище инопланетного оружия.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для оружия имеет множество функций безопасности. Это довольно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено хранилище инопланетного оружия. Сканирование предметов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки взять оружие-инопланетянин?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ящик с оружием Альянса"
+},{"op":"replace","path":"/description","value":
+"Замок, наполненный оружием."
+},{"op":"replace","path":"/apexDescription","value":
+"Это оружие могло бы оказаться очень полезным для повстанцев."
+},{"op":"replace","path":"/avianDescription","value":
+"Оружие заблокировано."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нужно это оружие."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Это оружие может быть опасным. Лучше держите шкаф запертым."
+},{"op":"replace","path":"/humanDescription","value":
+"Замок, полный классного оружия!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Коллекция инопланетного огнестрельного оружия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Шкаф для моего оружия."
+},{"op":"replace","path":"/aegiDescription","value":
+"Шкафчик для военного оружия."
+},{"op":"replace","path":"/avikanDescription","value":
+"Хранилище инопланетного оружия."
+},{"op":"replace","path":"/trinkDescription","value":
+"Шкафчик для оружия имеет множество функций безопасности. Это довольно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено хранилище инопланетного оружия. Сканирование предметов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки взять оружие-инопланетянин?"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Общее. ^white;Генератор низкой интенсивности для защиты груди.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Щит для груди Л-и",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Общее. ^white;Генератор низкой интенсивности для защиты груди."
+},{"op":"replace","path":"/shortdescription","value":
+"Щит для груди Л-и"
+}]

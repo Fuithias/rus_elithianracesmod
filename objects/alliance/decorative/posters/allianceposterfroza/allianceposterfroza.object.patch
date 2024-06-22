@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Плакат «Фроза»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плакат, рекламирующий газировку «Фроза».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран хочет знать, что такое Фроза.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Испытывающий жажду. Я слышал, что Фроза делает отличную газировку.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "«Фроза», наверное, самая популярная газировка в Союзе.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Рекламные материалы.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки этого не знает. Плакат-инопланетянин выглядит красочно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плакат Фроза"
+},{"op":"replace","path":"/description","value":
+"Плакат, рекламирующий газировку Фроза."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран хочет знать, что такое Фроза."
+},{"op":"replace","path":"/glitchDescription","value":
+"Испытывающий жажду. Я слышал, что Фроза делает отличную газировку."
+},{"op":"replace","path":"/aegiDescription","value":
+"Фроза, наверное, самая популярная газировка в Союзе."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Рекламные материалы."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки этого не знает. Плакат-инопланетянин выглядит красочно."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменелый туловище Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Торс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменелый туловище Авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Торс"
+}]

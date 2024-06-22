@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Баннер мероприятия",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Баннер мероприятия"
+},{"op":"replace","path":"/description","value":
+"..."
+}]

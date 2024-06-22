@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Оружие аккимари, стреляющее болтами с вааш, ищущими цель.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рашакр^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Странник Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странник",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Оружие аккимари, стреляющее болтами с вааш, ищущими цель.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рашакр^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Странник Акриса"
+},{"op":"replace","path":"/category","value":
+"Странник"
+}]

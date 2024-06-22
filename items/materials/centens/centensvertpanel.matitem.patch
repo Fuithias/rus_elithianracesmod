@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Легкая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вертикальная центенсианская панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Легкая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Вертикальная центенсианская панель"
+}]

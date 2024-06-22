@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Стазисная капсула Центенсиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стазисная капсула. Он может поддерживать криосон в течение тысячелетий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стазисная капсула! Есть кто-нибудь внутри?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта стазис-капсула выглядит древней — есть кто-нибудь внутри?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спальный ящик выглядит старым...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Есть ли кто-нибудь внутри стазис-капсулы?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древняя стазис-капсула — есть ли в ней кто-нибудь?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подобная стазис-капсула может сохранять жизнь на протяжении тысячелетий.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийская стазис-капсула! Есть ли кто-нибудь внутри?",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эту стазис-капсулу построили Древние! Может ли там все еще быть кто-то внутри?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эту стазис-капсулу создали Центены. Кажется, нет возможности заглянуть внутрь...",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена стазисная капсула Centensian. Статус жильца: неизвестен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Под-стазис, для длительного сна. Бог-творец внутри?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стазисная капсула Центенсиан"
+},{"op":"replace","path":"/description","value":
+"Стазисная капсула. Он может поддерживать криосон в течение тысячелетий."
+},{"op":"replace","path":"/apexDescription","value":
+"Стазисная капсула! Есть кто-нибудь внутри?"
+},{"op":"replace","path":"/avianDescription","value":
+"Эта стазис-капсула выглядит древней — есть кто-нибудь внутри?"
+},{"op":"replace","path":"/floranDescription","value":
+"Спальный ящик выглядит старым..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Есть ли кто-нибудь внутри стазис-капсулы?"
+},{"op":"replace","path":"/humanDescription","value":
+"Древняя стазис-капсула — есть ли в ней кто-нибудь?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Подобная стазис-капсула может сохранять жизнь на протяжении тысячелетий."
+},{"op":"replace","path":"/aegiDescription","value":
+"Центенсийская стазис-капсула! Есть ли кто-нибудь внутри?"
+},{"op":"replace","path":"/avikanDescription","value":
+"Эту стазис-капсулу построили Древние! Может ли там все еще быть кто-то внутри?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Эту стазис-капсулу создали Центены. Кажется, нет возможности заглянуть внутрь..."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена стазисная капсула Centensian. Статус жильца: неизвестен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Под-стазис, для длительного сна. Бог-творец внутри?"
+}]

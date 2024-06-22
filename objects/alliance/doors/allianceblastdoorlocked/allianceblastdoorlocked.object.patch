@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Взрывная дверь Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запертая взрывоопасная дверь. Никакого пути мимо этого.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран расстроен. Эта дверь не открывается.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раздраженный. Эта дверь не откроется.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В ближайшее время я не пройду через эту дверь. Оно плотно заперто.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена запертая дверь. Невозможно принудительно открыть.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь закрыта. Акки не пройти.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Альянса"
+},{"op":"replace","path":"/description","value":
+"Запертая взрывоопасная дверь. Никакого пути мимо этого."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран расстроен. Эта дверь не открывается."
+},{"op":"replace","path":"/glitchDescription","value":
+"Раздраженный. Эта дверь не откроется."
+},{"op":"replace","path":"/novakidDescription","value":
+"В ближайшее время я не пройду через эту дверь. Оно плотно заперто."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена запертая дверь. Невозможно принудительно открыть."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь закрыта. Акки не пройти."
+}]

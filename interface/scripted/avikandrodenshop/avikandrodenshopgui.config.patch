@@ -1,67 +1,27 @@
-[
-  {
-    "value": " Droden Legion Terminal",
-    "path": "/gui/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " Recruit Droden Legion units",
-    "path": "/gui/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "Trade tokens to recruit Droden crewmembers",
-    "path": "/gui/lblInformationText/value",
-    "op": "replace"
-  },
-  {
-    "value": "Make sure your crew isn't full. No refunds possible!",
-    "path": "/gui/lblWarningText/value",
-    "op": "replace"
-  },
-  {
-    "value": "Token of Merit",
-    "path": "/gui/lblTradeItemName/value",
-    "op": "replace"
-  },
-  {
-    "value": "Soldier",
-    "path": "/gui/lblCombat/value",
-    "op": "replace"
-  },
-  {
-    "value": "Medic",
-    "path": "/gui/lblMedic/value",
-    "op": "replace"
-  },
-  {
-    "value": "Engineer",
-    "path": "/gui/lblEngineer/value",
-    "op": "replace"
-  },
-  {
-    "value": "Mechanic",
-    "path": "/gui/lblMechanic/value",
-    "op": "replace"
-  },
-  {
-    "value": "Recruit",
-    "path": "/gui/btnRecruitCombat/caption",
-    "op": "replace"
-  },
-  {
-    "value": "Recruit",
-    "path": "/gui/btnRecruitMedic/caption",
-    "op": "replace"
-  },
-  {
-    "value": "Recruit",
-    "path": "/gui/btnRecruitEngineer/caption",
-    "op": "replace"
-  },
-  {
-    "value": "Recruit",
-    "path": "/gui/btnRecruitMechanic/caption",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/windowtitle/title","value":
+" Терминал Легиона дроден"
+},{"op":"replace","path":"/gui/windowtitle/subtitle","value":
+" Набрать членов Легиона дродена"
+},{"op":"replace","path":"/gui/lblInformationText/value","value":
+"Обменяйте жетоны, чтобы завербовать членов экипажа дродена"
+},{"op":"replace","path":"/gui/lblWarningText/value","value":
+"Убедитесь, что ваш экипаж не переполнен. Возврат денег невозможен!"
+},{"op":"replace","path":"/gui/lblTradeItemName/value","value":
+"Жетон заслуг"
+},{"op":"replace","path":"/gui/lblCombat/value","value":
+"Солдат"
+},{"op":"replace","path":"/gui/lblMedic/value","value":
+"Медик"
+},{"op":"replace","path":"/gui/lblEngineer/value","value":
+"Инженер"
+},{"op":"replace","path":"/gui/lblMechanic/value","value":
+"Механик"
+},{"op":"replace","path":"/gui/btnRecruitCombat/caption","value":
+"Рекрут"
+},{"op":"replace","path":"/gui/btnRecruitMedic/caption","value":
+"Рекрут"
+},{"op":"replace","path":"/gui/btnRecruitEngineer/caption","value":
+"Рекрут"
+},{"op":"replace","path":"/gui/btnRecruitMechanic/caption","value":
+"Рекрут"
+}]

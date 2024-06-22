@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Мощная потоковая винтовка, стреляющая разрывными снарядами, наводящимися на цель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кетх (НИП)",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потокомет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощная потоковая винтовка, стреляющая разрывными снарядами, наводящимися на цель."
+},{"op":"replace","path":"/shortdescription","value":
+"Кетх (НИП)"
+},{"op":"replace","path":"/category","value":
+"Потокомет"
+}]

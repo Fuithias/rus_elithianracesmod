@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Призывает Гад'ура из грузового отсека вашего корабля.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Контроллер Гад'ура",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Призывает Гад'ура из грузового отсека вашего корабля."
+},{"op":"replace","path":"/shortdescription","value":
+"Контроллер Гад'ура"
+}]

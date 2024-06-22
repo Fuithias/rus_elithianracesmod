@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Я баг. Прошу сообщите обо мне!",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость стрельбы:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за выстрел:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии на выстрел:",
-    "path": "/energyPerShotTitleLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Я баг. Прошу сообщите обо мне!"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость стрельбы:"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за выстрел:"
+},{"op":"replace","path":"/energyPerShotTitleLabel/value","value":
+"Энергии на выстрел:"
+}]

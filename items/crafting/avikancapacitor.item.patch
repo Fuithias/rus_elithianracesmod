@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Жизненно важный компонент любого энергетического оружия, одобренного Vanguard.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Конденсатор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Жизненно важный компонент любого энергетического оружия, одобренного Авангард."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Конденсатор"
+}]

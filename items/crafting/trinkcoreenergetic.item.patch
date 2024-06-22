@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​для кольцевой брони. Увеличивает запасы энергии пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Цепь Core-A",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​для кольцевой брони. Увеличивает запасы энергии пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Цепь Core-A"
+}]

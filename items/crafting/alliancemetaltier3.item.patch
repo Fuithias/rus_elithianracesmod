@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Толстое покрытие из аллостали для большей долговечности.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая аллосталь",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Толстое покрытие из аллостали для большей долговечности."
+},{"op":"replace","path":"/shortdescription","value":
+"Толстая аллосталь"
+}]

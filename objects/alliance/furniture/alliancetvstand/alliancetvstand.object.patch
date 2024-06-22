@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс ТВ Стенд",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф, часто используемый как подставка для телевизора.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Подставка для телевизора.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой кабинет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран поставь телевизор на топсссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта подставка была сделана для телевизора.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подставка для телевизора. Что находится внутри небольшого отсека для хранения вещей?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компактная подставка для телевизора.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это просто подставка для телевизионного экрана.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подставка для телевизора.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то инопланетный стол. Там тоже есть место для хранения.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективное использование пространства. Эта подставка для телевизора имеет небольшой, но полезный отсек для хранения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен письменный стол.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки поместите скрин сюда.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс ТВ Стенд"
+},{"op":"replace","path":"/description","value":
+"Шкаф, часто используемый как подставка для телевизора."
+},{"op":"replace","path":"/apexDescription","value":
+"Подставка для телевизора."
+},{"op":"replace","path":"/avianDescription","value":
+"Небольшой кабинет."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран поставь телевизор на топсссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта подставка была сделана для телевизора."
+},{"op":"replace","path":"/humanDescription","value":
+"Подставка для телевизора. Что находится внутри небольшого отсека для хранения вещей?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Компактная подставка для телевизора."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это просто подставка для телевизионного экрана."
+},{"op":"replace","path":"/aegiDescription","value":
+"Подставка для телевизора."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то инопланетный стол. Там тоже есть место для хранения."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективное использование пространства. Эта подставка для телевизора имеет небольшой, но полезный отсек для хранения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен письменный стол."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки поместите скрин сюда."
+}]

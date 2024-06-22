@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Теплая и удобная шапочка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шапочка Союза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Теплая и удобная шапочка."
+},{"op":"replace","path":"/shortdescription","value":
+"Шапочка Союза"
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Усиление Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический блок, используемый для усиления крупных структур.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот блок вероятно служит для поддержки большого веса.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочные металлические блоки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на поддержку.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Структурное усиление.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усиление-прочное.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Усиление Альянса"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический блок, используемый для усиления крупных структур."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот блок вероятно служит для поддержки большого веса."
+},{"op":"replace","path":"/floranDescription","value":
+"Прочные металлические блоки."
+},{"op":"replace","path":"/novakidDescription","value":
+"Похоже на поддержку."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Структурное усиление."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Усиление-прочное."
+}]

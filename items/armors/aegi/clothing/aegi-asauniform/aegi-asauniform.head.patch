@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Это фирменная фуражка официальных лиц АСБ, ставшая символом Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фуражка АСБ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Это фирменная фуражка официальных лиц АСБ, ставшая символом Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Фуражка АСБ"
+}]

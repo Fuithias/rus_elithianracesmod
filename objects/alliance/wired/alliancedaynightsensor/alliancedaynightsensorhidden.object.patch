@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Датчик дня/ночи Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь ничего...",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Датчик дня/ночи Альянса"
+},{"op":"replace","path":"/description","value":
+"Здесь ничего..."
+}]

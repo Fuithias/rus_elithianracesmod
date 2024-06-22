@@ -1,57 +1,23 @@
-[
-  {
-    "value": "Теле-2-Го",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот магазин предлагает персональные телепорты в самых разных стилях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин по продаже телепортов. Это может пригодиться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "О, это магазин по продаже устройств телепортации! Очень полезно знать.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может купить телепорты в этом магазине.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтересовано. Продавец, торгующий устройствами телепортации!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин, полный телепортов. Создан для идеального отдыха...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин по продаже телепортов. Возможно, мне стоит просмотреть его.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин, торгующий телепортами... Если у вас есть лишняя горшок пикселей.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен торговец. Предлагает различные персональные телепорты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки купи телепорт здесь. Акки используют для проникновения.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Теле-2-Го"
+},{"op":"replace","path":"/description","value":
+"Этот магазин предлагает персональные телепорты в самых разных стилях."
+},{"op":"replace","path":"/apexDescription","value":
+"Магазин по продаже телепортов. Это может пригодиться."
+},{"op":"replace","path":"/avianDescription","value":
+"О, это магазин по продаже устройств телепортации! Очень полезно знать."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может купить телепорты в этом магазине."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтересовано. Продавец, торгующий устройствами телепортации!"
+},{"op":"replace","path":"/humanDescription","value":
+"Магазин, полный телепортов. Создан для идеального отдыха..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Магазин по продаже телепортов. Возможно, мне стоит просмотреть его."
+},{"op":"replace","path":"/novakidDescription","value":
+"Магазин, торгующий телепортами... Если у вас есть лишняя горшок пикселей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен торговец. Предлагает различные персональные телепорты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки купи телепорт здесь. Акки используют для проникновения."
+}]

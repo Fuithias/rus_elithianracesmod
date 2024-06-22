@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Инструменты Старейших IV",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Вот, капитан. ^green;Принесите этот ^orange;Осколок Ксанафира^green; обратно к Адако^reset;, и он сможет собрать инструмент, над которым вы работали.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Осколок идеально подошёл! Вот, капитан: один полностью восстановленный инструмент Старейших.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Адако ^reset;в ^orange;Убежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Инструменты Старейших IV"
+},{"op":"replace","path":"/text","value":
+"Вот, капитан. ^green;Принесите этот ^orange;Осколок Ксанафира^green; обратно к Адако^reset;, и он сможет собрать инструмент, над которым вы работали."
+},{"op":"replace","path":"/completionText","value":
+"Осколок идеально подошёл! Вот, капитан: один полностью восстановленный инструмент Старейших."
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Вернитесь к ^orange;Адако ^reset;в ^orange;Убежище Звездохода^reset;"
+}]

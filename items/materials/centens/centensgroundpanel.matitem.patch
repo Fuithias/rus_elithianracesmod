@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Легкая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Столетний этаж",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Легкая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Столетний этаж"
+}]

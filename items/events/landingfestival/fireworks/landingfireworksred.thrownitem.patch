@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Красочный фейерверк в честь Фестиваля Приземления!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Красный фейерверк",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Красочный салют в честь праздника Приземления!"
+},{"op":"replace","path":"/shortdescription","value":
+"Красный салют"
+}]

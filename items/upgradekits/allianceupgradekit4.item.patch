@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Усовершенствованный комплект улучшения оружия. Улучшает оружие до 4 уровня.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Комплект обновления L.4",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Усовершенствованный комплект улучшения оружия. Улучшает оружие до 4 уровня."
+},{"op":"replace","path":"/shortdescription","value":
+"Комплект обновления L.4"
+}]

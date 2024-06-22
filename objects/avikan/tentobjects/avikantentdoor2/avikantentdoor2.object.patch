@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Дверь для палатки из ткани Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочная дверь палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Красочная дверь палатки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шикарная дверь в палатку.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевые двери не смогут остановить Флорана.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Дверь палатки из необычной ткани.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевая дверь для палатки. Красочный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изящно украшенная дверь палатки.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевая дверь для палатки. Яркий и красочный.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь палатки из ткани. Для кочевников, у которых есть лишние ресурсы.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочная дверь палатки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Материал: ткань.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь-тканевая, хлипкая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дверь для палатки из ткани Авикан"
+},{"op":"replace","path":"/description","value":
+"Красочная дверь палатки."
+},{"op":"replace","path":"/apexDescription","value":
+"Красочная дверь палатки."
+},{"op":"replace","path":"/avianDescription","value":
+"Шикарная дверь в палатку."
+},{"op":"replace","path":"/floranDescription","value":
+"Тканевые двери не смогут остановить Флорана."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Дверь палатки из необычной ткани."
+},{"op":"replace","path":"/humanDescription","value":
+"Тканевая дверь для палатки. Красочный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Изящно украшенная дверь палатки."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тканевая дверь для палатки. Яркий и красочный."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дверь палатки из ткани. Для кочевников, у которых есть лишние ресурсы."
+},{"op":"replace","path":"/trinkDescription","value":
+"Красочная дверь палатки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Материал: ткань."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь-тканевая, хлипкая."
+}]

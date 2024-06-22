@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Устройство хранения данных, содержащее чертежи Главного контура.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Чертежи Прайм Цепи^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Устройство хранения данных, содержащее чертежи Главного контура."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Чертежи Прайм Цепи^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

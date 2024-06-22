@@ -1,17 +1,7 @@
-[
-  {
-    "value": "предметы ^orange;мебели Авикан^reset;",
-    "path": "/0/1/-/name",
-    "op": "replace"
-  },
-  {
-    "value": "предметы ^orange;мебели Альянса^reset;",
-    "path": "/0/1/-/name",
-    "op": "replace"
-  },
-  {
-    "value": "предметы ^orange;мебели Тринкианцев^reset;",
-    "path": "/0/1/-/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/0/1/-/name","value":
+"предметы ^orange;мебели Авикан^reset;"
+},{"op":"replace","path":"/0/1/-/name","value":
+"предметы ^orange;мебели Альянса^reset;"
+},{"op":"replace","path":"/0/1/-/name","value":
+"предметы ^orange;мебели Тринкианцев^reset;"
+}]

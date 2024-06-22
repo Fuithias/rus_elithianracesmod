@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Тыквенная маска для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тыквенная маска",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Тыквенная маска для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Тыквенная маска"
+}]

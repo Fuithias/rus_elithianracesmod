@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Тайник с оружием Одина",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дистрибьютор оружия Vanguard, Odyin as-Rhadeis, предлагает только лучшие товары.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие на продажу.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот торговец предлагает разнообразное оружие.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен одобренный Vanguard дистрибьютор оружия. Имя: Одинин ас-Радейс.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетянин-крепкий. Готовься к бою-хорошо.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тайник с оружием Одина"
+},{"op":"replace","path":"/description","value":
+"Дистрибьютор оружия Авангард, Odyin as-Rhadeis, предлагает только лучшие товары."
+},{"op":"replace","path":"/floranDescription","value":
+"Оружие на продажу."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот торговец предлагает разнообразное оружие."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен одобренный Авангард дистрибьютор оружия. Имя: Одинин ас-Радейс."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инопланетянин-крепкий. Готовься к бою-хорошо."
+}]

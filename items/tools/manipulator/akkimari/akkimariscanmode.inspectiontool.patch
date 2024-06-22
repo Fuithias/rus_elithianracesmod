@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Описывайте вещи в мире и сканируйте объекты для печати. ^green;Быстрый выбор клавишей [N].",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Режим сканирования",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструмент",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Описывайте вещи в мире и сканируйте объекты для печати. ^green;Быстрый выбор клавишей [N]."
+},{"op":"replace","path":"/shortdescription","value":
+"Режим сканирования"
+},{"op":"replace","path":"/category","value":
+"Инструмент"
+}]

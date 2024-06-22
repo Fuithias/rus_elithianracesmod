@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Прототип компактной лайнтовки, разработанный Ищущими.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Искатель МЛР-02^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мини лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Протов. компактной лайнтовки, разработанный Ищущими."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Искатель МЛР-02^white;"
+},{"op":"replace","path":"/category","value":
+"Мини лайнтовка"
+}]

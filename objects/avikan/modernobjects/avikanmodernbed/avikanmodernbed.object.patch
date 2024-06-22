@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Кровать",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современная тяжелая кровать.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная кровать. Как-то очень удобно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная кровать. На удивление удобно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кровати для сна!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивлен. Эта примитивная кожаная кровать довольно удобна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная, но удобная кожаная кровать. Время вздремнуть!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кожаная кровать удивительно удобна.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная кожаная кровать.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, покрывающий стопки сырой кожи. Это заставляет меня думать о доме.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная кровать.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот агрегат не требует отдыха.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Постельный пришельец, Акки отдыхает здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Кровать"
+},{"op":"replace","path":"/description","value":
+"Современная тяжелая кровать."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаная кровать. Как-то очень удобно."
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаная кровать. На удивление удобно."
+},{"op":"replace","path":"/floranDescription","value":
+"Кровати для сна!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивлен. Эта примитивная кожаная кровать довольно удобна."
+},{"op":"replace","path":"/humanDescription","value":
+"Примитивная, но удобная кожаная кровать. Время вздремнуть!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта кожаная кровать удивительно удобна."
+},{"op":"replace","path":"/aegiDescription","value":
+"Удобная кожаная кровать."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаный лист, покрывающий стопки сырой кожи. Это заставляет меня думать о доме."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простая кожаная кровать."
+},{"op":"replace","path":"/drodenDescription","value":
+"Этот агрегат не требует отдыха."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Постельный пришельец, Акки отдыхает здесь."
+}]

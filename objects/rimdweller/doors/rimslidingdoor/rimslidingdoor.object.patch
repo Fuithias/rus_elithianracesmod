@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Раздвижная дверь с ободом",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Изящная раздвижная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая раздвижная дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь упирается в стену при открытии.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раздвижная дверь хреновая.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Практичный. Раздвижные двери экономят много места.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ненавижу, когда эти двери не открываются достаточно быстро...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Практичная раздвижная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне всегда нравились такие раздвижные двери.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавая на вид раздвижная дверь.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная раздвижная дверь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективная раздвижная дверь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена раздвижная дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, открой дверь, издай звук «вуш-вуш»!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Раздвижная дверь с ободом"
+},{"op":"replace","path":"/description","value":
+"Изящная раздвижная дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Простая раздвижная дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта дверь упирается в стену при открытии."
+},{"op":"replace","path":"/floranDescription","value":
+"Раздвижная дверь хреновая."
+},{"op":"replace","path":"/glitchDescription","value":
+"Практичный. Раздвижные двери экономят много места."
+},{"op":"replace","path":"/humanDescription","value":
+"Ненавижу, когда эти двери не открываются достаточно быстро..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Практичная раздвижная дверь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне всегда нравились такие раздвижные двери."
+},{"op":"replace","path":"/aegiDescription","value":
+"Ржавая на вид раздвижная дверь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная раздвижная дверь."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективная раздвижная дверь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена раздвижная дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки, открой дверь, издай звук вуш-вуш!"
+}]

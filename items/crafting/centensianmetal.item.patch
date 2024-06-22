@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлический куб из потустороннего материала.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийский металл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлический куб из потустороннего материала."
+},{"op":"replace","path":"/shortdescription","value":
+"Центенсийский металл"
+}]

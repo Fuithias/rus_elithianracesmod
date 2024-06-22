@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Легкая и обтекаемая броня, которую носят кеффоходы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Броня кеффохода",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Легкая и обтекаемая броня, которую носят кеффоходы."
+},{"op":"replace","path":"/shortdescription","value":
+"Броня кеффохода"
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Энергетическое оружие, используемое высокопоставленными членами Клангарда.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Молот Клангарда",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разрядка энергии",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Энергетическое оружие, используемое высокопоставленными членами Клангарда."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Молот Клангарда"
+},{"op":"replace","path":"/altAbility/name","value":
+"Разрядка энергии"
+}]

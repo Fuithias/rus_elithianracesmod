@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Шлем, построенный для взаимодействия с системами управления меха.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем оператора меха",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Шлем, построенный для взаимодействия с системами управления меха."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем оператора меха"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Мучительное знамя",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя в честь Терзания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Баннер, украшенный резной тыквой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жуткий баннер.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран будет смеяться, если глупые дети этим испугаются!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Знамя Терзания.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на баннер Хэллоуина, но это немного не так...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Порванное знамя, украшенное тыквенным лицом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот баннер меня не пугает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя Терзания. Мне нравится видеть это.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баннер пришельцев с каким-то странным дизайном.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Порванное знамя. Эги выставили их во время Терзания.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный баннер. Символика неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На рваном знамени написано смешное лицо. Акки вроде.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Мучительное знамя"
+},{"op":"replace","path":"/description","value":
+"Знамя в честь Терзания."
+},{"op":"replace","path":"/apexDescription","value":
+"Баннер, украшенный резной тыквой."
+},{"op":"replace","path":"/avianDescription","value":
+"Жуткий баннер."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран будет смеяться, если глупые дети этим испугаются!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Знамя Терзания."
+},{"op":"replace","path":"/humanDescription","value":
+"Это похоже на баннер Хэллоуина, но это немного не так..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Порванное знамя, украшенное тыквенным лицом."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот баннер меня не пугает."
+},{"op":"replace","path":"/aegiDescription","value":
+"Знамя Терзания. Мне нравится видеть это."
+},{"op":"replace","path":"/avikanDescription","value":
+"Баннер пришельцев с каким-то странным дизайном."
+},{"op":"replace","path":"/trinkDescription","value":
+"Порванное знамя. Эги выставили их во время Терзания."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный баннер. Символика неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"На рваном знамени написано смешное лицо. Акки вроде."
+}]

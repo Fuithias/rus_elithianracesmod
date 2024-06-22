@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Каменная платформа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каменная платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Толстая каменная платформа.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каменные платформы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая, тяжелая каменная платформа. Определенно прочная.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каменная платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа-камень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Каменная платформа Альянса"
+},{"op":"replace","path":"/description","value":
+"Каменная платформа."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Толстая каменная платформа."
+},{"op":"replace","path":"/floranDescription","value":
+"Каменные платформы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстая, тяжелая каменная платформа. Определенно прочная."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Каменная платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа-камень."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

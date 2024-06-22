@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за выстрел:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Время зарядки:",
-    "path": "/chargeTimeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии на выстрел:",
-    "path": "/energyPerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за выстрел:"
+},{"op":"replace","path":"/chargeTimeTitleLabel/value","value":
+"Время зарядки:"
+},{"op":"replace","path":"/energyPerShotTitleLabel/value","value":
+"Энергии на выстрел:"
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

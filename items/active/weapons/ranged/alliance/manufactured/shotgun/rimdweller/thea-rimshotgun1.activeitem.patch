@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Дробовик, произведенный где-то на Рубеже.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Взломщик РМ14",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дробовик",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Дробовик, произведенный где-то на Рубеже.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Взломщик РМ14"
+},{"op":"replace","path":"/category","value":
+"Дробовик"
+}]

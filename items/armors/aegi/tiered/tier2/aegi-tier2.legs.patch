@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Широкие штаны и бронированные сапоги, которые часто носили аегинские навигаторы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны навигатора",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Широкие штаны и бронированные сапоги, которые часто носили аегинские навигаторы."
+},{"op":"replace","path":"/shortdescription","value":
+"Штаны навигатора"
+}]

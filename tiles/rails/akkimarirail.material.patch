@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Акрисовый рельс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рельс, сделанный из разного металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Обеспокоен. Этот рельс не выглядит очень прочным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические рельсы из металлолома.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавые старые рельсы, это не годится.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены рельсы. Материальный анализ: разный металлолом.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки ездит по рельсам, акки веселится.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрисовый рельс"
+},{"op":"replace","path":"/description","value":
+"Рельс, сделанный из разного металлолома."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обеспокоен. Этот рельс не выглядит очень прочным."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические рельсы из металлолома."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ржавые старые рельсы, это не годится."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены рельсы. Материальный анализ: разный металлолом."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки ездит по рельсам, акки веселится."
+}]

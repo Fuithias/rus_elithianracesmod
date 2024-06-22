@@ -1,627 +1,251 @@
-[
-  {
-    "value": "Кто переместил мои вещи? Хочу, чтобы все было как раньше!",
-    "path": "/tagCriteria/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так.",
-    "path": "/tagCriteria/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Моя комната вся в беспорядке...",
-    "path": "/tagCriteria/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то изменилось здесь. Мне это не нравится.",
-    "path": "/tagCriteria/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно подать жалобу. Кто-то испортил мою комнату.",
-    "path": "/tagCriteria/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом поврежден. Мне нужны ремонты!",
-    "path": "/enclosedArea/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то сломал мои стены. Можешь починить?",
-    "path": "/enclosedArea/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу на повреждение дома.",
-    "path": "/enclosedArea/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом нуждается в ремонте.",
-    "path": "/enclosedArea/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Где я могу подать заявку на ремонт дома?",
-    "path": "/enclosedArea/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то еще переезжает в это место? Что насчет меня?",
-    "path": "/otherDeed/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я думал, мы договорились, что это место будет моим.",
-    "path": "/otherDeed/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не против делить дом, но это не было частью нашего контракта.",
-    "path": "/otherDeed/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу. Это место должно было быть моим.",
-    "path": "/otherDeed/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это, должно быть, ошибка. В моем доме другой документ на право собственности!",
-    "path": "/otherDeed/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Даже открытая пустыня более комфортна, чем это место.",
-    "path": "/severe/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я скучаю по Кадавану. Это место просто никуда не годится.",
-    "path": "/severe/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу. Это место не подойдет совсем.",
-    "path": "/severe/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эти условия никуда не годятся. Я думаю о переезде.",
-    "path": "/severe/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радеисом, это место ужасно.",
-    "path": "/severe/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "С меня хватит. Я ухожу.",
-    "path": "/final/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь к Номада. По крайней мере, там люди заботятся друг о друге.",
-    "path": "/final/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "С меня хватит. Я расторгаю контракт.",
-    "path": "/final/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радеисом, это какая-то неразбериха. Я переезжаю.",
-    "path": "/final/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я свяжусь с Номада. Пора мне покинуть это место.",
-    "path": "/final/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "В моей ситуации произошли изменения.",
-    "path": "/tagCriteria/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Эта комната изменилась...",
-    "path": "/tagCriteria/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность ниже стандартов. Произошли изменения.",
-    "path": "/tagCriteria/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то изменилось. Хочу, чтобы все было как раньше.",
-    "path": "/tagCriteria/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Уровень удовлетворенности падает.",
-    "path": "/tagCriteria/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом требует ремонта!",
-    "path": "/enclosedArea/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность ниже стандартов. Эта зона больше не ограждена.",
-    "path": "/enclosedArea/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Стены повреждены. Требуется ремонт.",
-    "path": "/enclosedArea/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место нуждается в ремонте.",
-    "path": "/enclosedArea/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не был создан для строительства. Мне нужен кто-то, чтобы починить мои стены.",
-    "path": "/enclosedArea/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я предпочитаю не делить это место с кем-либо.",
-    "path": "/otherDeed/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Было достигнуто соглашение, что я буду жить здесь один.",
-    "path": "/otherDeed/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Перемещение кого-то другого в этот дом нарушает контракт.",
-    "path": "/otherDeed/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это не было частью сделки. Это место должно было быть моим.",
-    "path": "/otherDeed/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Еще одно свидетельство на право собственности появилось в моем доме. Это, должно быть, ошибка.",
-    "path": "/otherDeed/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Даже ледяные просторы Айсикла более комфортны, чем это место.",
-    "path": "/severe/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если мои жалобы не будут услышаны, я вернусь в Цепь.",
-    "path": "/severe/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это место больше не соответствует моим стандартам. Возможно, мне стоит переехать.",
-    "path": "/severe/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу достичь оптимальной эффективности в этом месте. Возможно, пора уходить.",
-    "path": "/severe/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Если ситуация останется такой же плохой, как сейчас, мне придется уехать.",
-    "path": "/severe/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я крайне недоволен этим местом. Я уезжаю.",
-    "path": "/final/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь в Цепь.",
-    "path": "/final/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность достигла минимума. Я уезжаю.",
-    "path": "/final/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место не соответствует моим стандартам. Я вынужден уехать.",
-    "path": "/final/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Пришло время уехать.",
-    "path": "/final/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Изменена жилищная ситуация.",
-    "path": "/tagCriteria/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Недоволен. Условия изменились.",
-    "path": "/tagCriteria/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено изменение. Недоволен.",
-    "path": "/tagCriteria/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Подаю жалобу. Ситуация изменилась.",
-    "path": "/tagCriteria/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Окружение изменилось.",
-    "path": "/tagCriteria/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Безопасность дома нарушена.",
-    "path": "/enclosedArea/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю ремонт.",
-    "path": "/enclosedArea/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Требуется ремонт.",
-    "path": "/enclosedArea/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Стены нарушены. Жалуюсь.",
-    "path": "/enclosedArea/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Подаю запрос на ремонт дома.",
-    "path": "/enclosedArea/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено дополнительное свидетельство на право собственности. Недоволен.",
-    "path": "/otherDeed/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено дополнительное свидетельство на право собственности. Жалуюсь.",
-    "path": "/otherDeed/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено нарушение контракта. Пожалуйста, удалите дополнительные свидетельства.",
-    "path": "/otherDeed/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю удаление дополнительных свидетельств.",
-    "path": "/otherDeed/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Обнаружено дополнительное свидетельство на право собственности.",
-    "path": "/otherDeed/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Готовлюсь к отъезду. Недоволен обслуживанием.",
-    "path": "/severe/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Этот юнит недоволен. Готовлюсь к отъезду.",
-    "path": "/severe/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Подаю жалобу. Этот дом ниже универсальных стандартов.",
-    "path": "/severe/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Недоволен. Готовлюсь к отъезду.",
-    "path": "/severe/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Обслуживание неудовлетворительно.",
-    "path": "/severe/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Уезжаю.",
-    "path": "/final/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю подвоз от Номада.",
-    "path": "/final/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Расторгаю контракт.",
-    "path": "/final/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот юнит недоволен. Уезжаю из дома.",
-    "path": "/final/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Начинаю отъезд.",
-    "path": "/final/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то переместил мои вещи!",
-    "path": "/tagCriteria/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так...",
-    "path": "/tagCriteria/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Моя комната вся в беспорядке!",
-    "path": "/tagCriteria/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мне не нравятся эти изменения.",
-    "path": "/tagCriteria/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то испортил мое место!",
-    "path": "/tagCriteria/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Стены рухнули!",
-    "path": "/enclosedArea/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Можешь, пожалуйста, починить мой дом? Стены сломаны!",
-    "path": "/enclosedArea/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мое место повреждено! Можешь починить его?",
-    "path": "/enclosedArea/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место нуждается в ремонте.",
-    "path": "/enclosedArea/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то должен заняться этими сломанными стенами.",
-    "path": "/enclosedArea/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Что это за второе свидетельство на право собственности? Это место должно было быть моим!",
-    "path": "/otherDeed/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Разве это место не должно было быть моим?",
-    "path": "/otherDeed/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Контракт не упоминал о втором жильце.",
-    "path": "/otherDeed/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эй, что это!? Я никогда не соглашался жить вместе с кем-то другим.",
-    "path": "/otherDeed/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Произошла ошибка, это место должно было быть моим!",
-    "path": "/otherDeed/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Это место больше не кажется мне домом...",
-    "path": "/severe/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, я переезжаю обратно на Элитию.",
-    "path": "/severe/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мне больше здесь не нравится.",
-    "path": "/severe/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Если это не станет лучше скоро, я переезжаю.",
-    "path": "/severe/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Даже путешествие сюда было более комфортным, чем это дурацкое место.",
-    "path": "/severe/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "С меня хватит этого места. Я уезжаю.",
-    "path": "/final/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я переезжаю. Это место стало абсолютной неразберихой.",
-    "path": "/final/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это все, я уезжаю отсюда.",
-    "path": "/final/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь в дом своих родителей.",
-    "path": "/final/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это место вызывает у меня отвращение. Я ухожу.",
-    "path": "/final/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки злится! Кекки переместил вещи-Акки...",
-    "path": "/tagCriteria/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так. Акки что-то пропало.",
-    "path": "/tagCriteria/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Комната-Акки вся в беспорядке!",
-    "path": "/tagCriteria/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не нравится изменение! Измените обратно, сейчас же!",
-    "path": "/tagCriteria/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кекки испортил дом-Акки!",
-    "path": "/tagCriteria/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Дом-Акки сломан! Нужен ремонт!",
-    "path": "/enclosedArea/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты должен починить дом-Акки, сейчас же!",
-    "path": "/enclosedArea/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Стены сломаны, нужен ремонт...",
-    "path": "/enclosedArea/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты починишь дом-Акки сейчас. Акки злится!",
-    "path": "/enclosedArea/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Стена сломана, плохие вещи могут войти в дом-Акки. Акки не нравится.",
-    "path": "/enclosedArea/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не хочет делить дом-Акки!",
-    "path": "/otherDeed/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Дом-Акки только для Акки. Убью других жильцов, если придется!",
-    "path": "/otherDeed/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки согласился жить один. Не хочу другого жильца.",
-    "path": "/otherDeed/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки злится, Акки не хочет жить вместе.",
-    "path": "/otherDeed/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты удалишь другое свидетельство! Акки хочет жить один.",
-    "path": "/otherDeed/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Дом-Акки больше нет дом...",
-    "path": "/severe/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вернется к сбору хлама. Акки больше не нравится дом.",
-    "path": "/severe/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки зол, хочет покинуть это место...",
-    "path": "/severe/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки скоро уедет, если ничего не изменится.",
-    "path": "/severe/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты плохой домовладелец. Акки не нравится это место.",
-    "path": "/severe/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки уходит. Зол на тебя.",
-    "path": "/final/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Дом Акки больше не дом. Акки найдет другой дом.",
-    "path": "/final/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Га, Акки ненавидит это место!",
-    "path": "/final/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки в отвращении. Дом ужасен, Акки уходит.",
-    "path": "/final/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Дом плохой, Акки не нравится жить здесь. Акки вернется к сбору хлама.",
-    "path": "/final/akkimari/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/tagCriteria/avikan/default/0","value":
+"Кто переместил мои вещи? Хочу, чтобы все было как раньше!"
+},{"op":"replace","path":"/tagCriteria/avikan/default/1","value":
+"Что-то здесь не так."
+},{"op":"replace","path":"/tagCriteria/avikan/default/2","value":
+"Моя комната вся в беспорядке..."
+},{"op":"replace","path":"/tagCriteria/avikan/default/3","value":
+"Что-то изменилось здесь. Мне это не нравится."
+},{"op":"replace","path":"/tagCriteria/avikan/default/4","value":
+"Мне нужно подать жалобу. Кто-то испортил мою комнату."
+},{"op":"replace","path":"/enclosedArea/avikan/default/0","value":
+"Мой дом поврежден. Мне нужны ремонты!"
+},{"op":"replace","path":"/enclosedArea/avikan/default/1","value":
+"Кто-то сломал мои стены. Можешь починить?"
+},{"op":"replace","path":"/enclosedArea/avikan/default/2","value":
+"Я подаю жалобу на повреждение дома."
+},{"op":"replace","path":"/enclosedArea/avikan/default/3","value":
+"Мой дом нуждается в ремонте."
+},{"op":"replace","path":"/enclosedArea/avikan/default/4","value":
+"Где я могу подать заявку на ремонт дома?"
+},{"op":"replace","path":"/otherDeed/avikan/default/0","value":
+"Кто-то еще переезжает в это место? Что насчет меня?"
+},{"op":"replace","path":"/otherDeed/avikan/default/1","value":
+"Я думал, мы договорились, что это место будет моим."
+},{"op":"replace","path":"/otherDeed/avikan/default/2","value":
+"Я не против делить дом, но это не было частью нашего контракта."
+},{"op":"replace","path":"/otherDeed/avikan/default/3","value":
+"Я подаю жалобу. Это место должно было быть моим."
+},{"op":"replace","path":"/otherDeed/avikan/default/4","value":
+"Это, должно быть, ошибка. В моем доме другой документ на право собственности!"
+},{"op":"replace","path":"/severe/avikan/default/0","value":
+"Даже открытая пустыня более комфортна, чем это место."
+},{"op":"replace","path":"/severe/avikan/default/1","value":
+"Я скучаю по Кадавану. Это место просто никуда не годится."
+},{"op":"replace","path":"/severe/avikan/default/2","value":
+"Я подаю жалобу. Это место не подойдет совсем."
+},{"op":"replace","path":"/severe/avikan/default/3","value":
+"Эти условия никуда не годятся. Я думаю о переезде."
+},{"op":"replace","path":"/severe/avikan/default/4","value":
+"Клянусь Радеисом, это место ужасно."
+},{"op":"replace","path":"/final/avikan/default/0","value":
+"С меня хватит. Я ухожу."
+},{"op":"replace","path":"/final/avikan/default/1","value":
+"Я возвращаюсь к Номада. По крайней мере, там люди заботятся друг о друге."
+},{"op":"replace","path":"/final/avikan/default/2","value":
+"С меня хватит. Я расторгаю контракт."
+},{"op":"replace","path":"/final/avikan/default/3","value":
+"Клянусь Радеисом, это какая-то неразбериха. Я переезжаю."
+},{"op":"replace","path":"/final/avikan/default/4","value":
+"Я свяжусь с Номада. Пора мне покинуть это место."
+},{"op":"replace","path":"/tagCriteria/trink/default/0","value":
+"В моей ситуации произошли изменения."
+},{"op":"replace","path":"/tagCriteria/trink/default/1","value":
+"Эта комната изменилась..."
+},{"op":"replace","path":"/tagCriteria/trink/default/2","value":
+"Эффективность ниже стандартов. Произошли изменения."
+},{"op":"replace","path":"/tagCriteria/trink/default/3","value":
+"Что-то изменилось. Хочу, чтобы все было как раньше."
+},{"op":"replace","path":"/tagCriteria/trink/default/4","value":
+"Уровень удовлетворенности падает."
+},{"op":"replace","path":"/enclosedArea/trink/default/0","value":
+"Мой дом требует ремонта!"
+},{"op":"replace","path":"/enclosedArea/trink/default/1","value":
+"Эффективность ниже стандартов. Эта зона больше не ограждена."
+},{"op":"replace","path":"/enclosedArea/trink/default/2","value":
+"Стены повреждены. Требуется ремонт."
+},{"op":"replace","path":"/enclosedArea/trink/default/3","value":
+"Это место нуждается в ремонте."
+},{"op":"replace","path":"/enclosedArea/trink/default/4","value":
+"Я не был создан для строительства. Мне нужен кто-то, чтобы починить мои стены."
+},{"op":"replace","path":"/otherDeed/trink/default/0","value":
+"Я предпочитаю не делить это место с кем-либо."
+},{"op":"replace","path":"/otherDeed/trink/default/1","value":
+"Было достигнуто соглашение, что я буду жить здесь один."
+},{"op":"replace","path":"/otherDeed/trink/default/2","value":
+"Перемещение кого-то другого в этот дом нарушает контракт."
+},{"op":"replace","path":"/otherDeed/trink/default/3","value":
+"Это не было частью сделки. Это место должно было быть моим."
+},{"op":"replace","path":"/otherDeed/trink/default/4","value":
+"Еще одно свидетельство на право собственности появилось в моем доме. Это, должно быть, ошибка."
+},{"op":"replace","path":"/severe/trink/default/0","value":
+"Даже ледяные просторы Айсикла более комфортны, чем это место."
+},{"op":"replace","path":"/severe/trink/default/1","value":
+"Если мои жалобы не будут услышаны, я вернусь в Цепь."
+},{"op":"replace","path":"/severe/trink/default/2","value":
+"Это место больше не соответствует моим стандартам. Возможно, мне стоит переехать."
+},{"op":"replace","path":"/severe/trink/default/3","value":
+"Я не могу достичь оптимальной эффективности в этом месте. Возможно, пора уходить."
+},{"op":"replace","path":"/severe/trink/default/4","value":
+"Если ситуация останется такой же плохой, как сейчас, мне придется уехать."
+},{"op":"replace","path":"/final/trink/default/0","value":
+"Я крайне недоволен этим местом. Я уезжаю."
+},{"op":"replace","path":"/final/trink/default/1","value":
+"Я возвращаюсь в Цепь."
+},{"op":"replace","path":"/final/trink/default/2","value":
+"Эффективность достигла минимума. Я уезжаю."
+},{"op":"replace","path":"/final/trink/default/3","value":
+"Это место не соответствует моим стандартам. Я вынужден уехать."
+},{"op":"replace","path":"/final/trink/default/4","value":
+"Пришло время уехать."
+},{"op":"replace","path":"/tagCriteria/droden/default/0","value":
+"Изменена жилищная ситуация."
+},{"op":"replace","path":"/tagCriteria/droden/default/1","value":
+"Недоволен. Условия изменились."
+},{"op":"replace","path":"/tagCriteria/droden/default/2","value":
+"Обнаружено изменение. Недоволен."
+},{"op":"replace","path":"/tagCriteria/droden/default/3","value":
+"Подаю жалобу. Ситуация изменилась."
+},{"op":"replace","path":"/tagCriteria/droden/default/4","value":
+"Ошибка. Окружение изменилось."
+},{"op":"replace","path":"/enclosedArea/droden/default/0","value":
+"Безопасность дома нарушена."
+},{"op":"replace","path":"/enclosedArea/droden/default/1","value":
+"Запрашиваю ремонт."
+},{"op":"replace","path":"/enclosedArea/droden/default/2","value":
+"Требуется ремонт."
+},{"op":"replace","path":"/enclosedArea/droden/default/3","value":
+"Стены нарушены. Жалуюсь."
+},{"op":"replace","path":"/enclosedArea/droden/default/4","value":
+"Подаю запрос на ремонт дома."
+},{"op":"replace","path":"/otherDeed/droden/default/0","value":
+"Обнаружено дополнительное свидетельство на право собственности. Недоволен."
+},{"op":"replace","path":"/otherDeed/droden/default/1","value":
+"Обнаружено дополнительное свидетельство на право собственности. Жалуюсь."
+},{"op":"replace","path":"/otherDeed/droden/default/2","value":
+"Обнаружено нарушение контракта. Пожалуйста, удалите дополнительные свидетельства."
+},{"op":"replace","path":"/otherDeed/droden/default/3","value":
+"Запрашиваю удаление дополнительных свидетельств."
+},{"op":"replace","path":"/otherDeed/droden/default/4","value":
+"Ошибка. Обнаружено дополнительное свидетельство на право собственности."
+},{"op":"replace","path":"/severe/droden/default/0","value":
+"Готовлюсь к отъезду. Недоволен обслуживанием."
+},{"op":"replace","path":"/severe/droden/default/1","value":
+"Этот юнит недоволен. Готовлюсь к отъезду."
+},{"op":"replace","path":"/severe/droden/default/2","value":
+"Подаю жалобу. Этот дом ниже универсальных стандартов."
+},{"op":"replace","path":"/severe/droden/default/3","value":
+"Недоволен. Готовлюсь к отъезду."
+},{"op":"replace","path":"/severe/droden/default/4","value":
+"Обслуживание неудовлетворительно."
+},{"op":"replace","path":"/final/droden/default/0","value":
+"Уезжаю."
+},{"op":"replace","path":"/final/droden/default/1","value":
+"Запрашиваю подвоз от Номада."
+},{"op":"replace","path":"/final/droden/default/2","value":
+"Расторгаю контракт."
+},{"op":"replace","path":"/final/droden/default/3","value":
+"Этот юнит недоволен. Уезжаю из дома."
+},{"op":"replace","path":"/final/droden/default/4","value":
+"Начинаю отъезд."
+},{"op":"replace","path":"/tagCriteria/aegi/default/0","value":
+"Кто-то переместил мои вещи!"
+},{"op":"replace","path":"/tagCriteria/aegi/default/1","value":
+"Что-то здесь не так..."
+},{"op":"replace","path":"/tagCriteria/aegi/default/2","value":
+"Моя комната вся в беспорядке!"
+},{"op":"replace","path":"/tagCriteria/aegi/default/3","value":
+"Мне не нравятся эти изменения."
+},{"op":"replace","path":"/tagCriteria/aegi/default/4","value":
+"Кто-то испортил мое место!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/0","value":
+"Стены рухнули!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/1","value":
+"Можешь, пожалуйста, починить мой дом? Стены сломаны!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/2","value":
+"Мое место повреждено! Можешь починить его?"
+},{"op":"replace","path":"/enclosedArea/aegi/default/3","value":
+"Это место нуждается в ремонте."
+},{"op":"replace","path":"/enclosedArea/aegi/default/4","value":
+"Кто-то должен заняться этими сломанными стенами."
+},{"op":"replace","path":"/otherDeed/aegi/default/0","value":
+"Что это за второе свидетельство на право собственности? Это место должно было быть моим!"
+},{"op":"replace","path":"/otherDeed/aegi/default/1","value":
+"Разве это место не должно было быть моим?"
+},{"op":"replace","path":"/otherDeed/aegi/default/2","value":
+"Контракт не упоминал о втором жильце."
+},{"op":"replace","path":"/otherDeed/aegi/default/3","value":
+"Эй, что это!? Я никогда не соглашался жить вместе с кем-то другим."
+},{"op":"replace","path":"/otherDeed/aegi/default/4","value":
+"Произошла ошибка, это место должно было быть моим!"
+},{"op":"replace","path":"/severe/aegi/default/0","value":
+"Это место больше не кажется мне домом..."
+},{"op":"replace","path":"/severe/aegi/default/1","value":
+"Я думаю, я переезжаю обратно на Элитию."
+},{"op":"replace","path":"/severe/aegi/default/2","value":
+"Мне больше здесь не нравится."
+},{"op":"replace","path":"/severe/aegi/default/3","value":
+"Если это не станет лучше скоро, я переезжаю."
+},{"op":"replace","path":"/severe/aegi/default/4","value":
+"Даже путешествие сюда было более комфортным, чем это дурацкое место."
+},{"op":"replace","path":"/final/aegi/default/0","value":
+"С меня хватит этого места. Я уезжаю."
+},{"op":"replace","path":"/final/aegi/default/1","value":
+"Я переезжаю. Это место стало абсолютной неразберихой."
+},{"op":"replace","path":"/final/aegi/default/2","value":
+"Это все, я уезжаю отсюда."
+},{"op":"replace","path":"/final/aegi/default/3","value":
+"Я возвращаюсь в дом своих родителей."
+},{"op":"replace","path":"/final/aegi/default/4","value":
+"Это место вызывает у меня отвращение. Я ухожу."
+},{"op":"replace","path":"/tagCriteria/akkimari/default/0","value":
+"Акки злится! Кекки переместил вещи-Акки..."
+},{"op":"replace","path":"/tagCriteria/akkimari/default/1","value":
+"Что-то здесь не так. Акки что-то пропало."
+},{"op":"replace","path":"/tagCriteria/akkimari/default/2","value":
+"Комната-Акки вся в беспорядке!"
+},{"op":"replace","path":"/tagCriteria/akkimari/default/3","value":
+"Акки не нравится изменение! Измените обратно, сейчас же!"
+},{"op":"replace","path":"/tagCriteria/akkimari/default/4","value":
+"Кекки испортил дом-Акки!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/0","value":
+"Дом-Акки сломан! Нужен ремонт!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/1","value":
+"Ты должен починить дом-Акки, сейчас же!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/2","value":
+"Стены сломаны, нужен ремонт..."
+},{"op":"replace","path":"/enclosedArea/akkimari/default/3","value":
+"Ты починишь дом-Акки сейчас. Акки злится!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/4","value":
+"Стена сломана, плохие вещи могут войти в дом-Акки. Акки не нравится."
+},{"op":"replace","path":"/otherDeed/akkimari/default/0","value":
+"Акки не хочет делить дом-Акки!"
+},{"op":"replace","path":"/otherDeed/akkimari/default/1","value":
+"Дом-Акки только для Акки. Убью других жильцов, если придется!"
+},{"op":"replace","path":"/otherDeed/akkimari/default/2","value":
+"Акки согласился жить один. Не хочу другого жильца."
+},{"op":"replace","path":"/otherDeed/akkimari/default/3","value":
+"Акки злится, Акки не хочет жить вместе."
+},{"op":"replace","path":"/otherDeed/akkimari/default/4","value":
+"Ты удалишь другое свидетельство! Акки хочет жить один."
+},{"op":"replace","path":"/severe/akkimari/default/0","value":
+"Дом-Акки больше нет дом..."
+},{"op":"replace","path":"/severe/akkimari/default/1","value":
+"Акки вернется к сбору хлама. Акки больше не нравится дом."
+},{"op":"replace","path":"/severe/akkimari/default/2","value":
+"Акки зол, хочет покинуть это место..."
+},{"op":"replace","path":"/severe/akkimari/default/3","value":
+"Акки скоро уедет, если ничего не изменится."
+},{"op":"replace","path":"/severe/akkimari/default/4","value":
+"Ты плохой домовладелец. Акки не нравится это место."
+},{"op":"replace","path":"/final/akkimari/default/0","value":
+"Акки уходит. Зол на тебя."
+},{"op":"replace","path":"/final/akkimari/default/1","value":
+"Дом Акки больше не дом. Акки найдет другой дом."
+},{"op":"replace","path":"/final/akkimari/default/2","value":
+"Га, Акки ненавидит это место!"
+},{"op":"replace","path":"/final/akkimari/default/3","value":
+"Акки в отвращении. Дом ужасен, Акки уходит."
+},{"op":"replace","path":"/final/akkimari/default/4","value":
+"Дом плохой, Акки не нравится жить здесь. Акки вернется к сбору хлама."
+}]

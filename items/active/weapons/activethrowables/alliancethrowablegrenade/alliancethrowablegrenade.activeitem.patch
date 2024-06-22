@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Ручная граната, используемая солдатами Альянса.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Граната типа 2",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Ручная граната, используемая солдатами Альянса.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Граната в.а 2"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

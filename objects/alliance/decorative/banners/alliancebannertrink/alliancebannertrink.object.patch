@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Баннер цепи Тринка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баннер, украшенный эмблемой трассы Тринк.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Trink Circuit.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Символ означает, что он принадлежит Circuit-Trink.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Баннер цепи Тринка"
+},{"op":"replace","path":"/description","value":
+"Баннер, украшенный эмблемой трассы Тринк."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Схемы тринков."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Символ означает, что он принадлежит Схемы тринков."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куча металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Без интереса. Куча хлама.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит только хлам.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это точно хлам.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен металлолом. Материальная ценность минимальна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки берет металлолом, делает вещи!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Металлолом"
+},{"op":"replace","path":"/description","value":
+"Куча металлолома."
+},{"op":"replace","path":"/glitchDescription","value":
+"Без интереса. Куча хлама."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит только хлам."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это точно хлам."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен металлолом. Материальная ценность минимальна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки берет металлолом, делает вещи!"
+}]

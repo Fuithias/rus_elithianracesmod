@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Взрывная дверь Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая противовзрывная дверь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая взрывоопасная дверь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Взрывная дверь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая металлическая взрывоопасная дверь. Прохладный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая взрывозащитная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая взрывоопасная дверь.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая взрывоопасная дверь. Он хорошо служит своей терве.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная взрывоопасная дверь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь. Структурная целостность: 98 процентов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Уплотнители дверей комнаты.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Взрывная дверь Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая противовзрывная дверь."
+},{"op":"replace","path":"/apexDescription","value":
+"Прочная металлическая противовзрывная дверь."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящая взрывоопасная дверь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Взрывная дверь."
+},{"op":"replace","path":"/humanDescription","value":
+"Тяжелая металлическая взрывоопасная дверь. Прохладный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлическая взрывозащитная дверь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Толстая взрывоопасная дверь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Толстая взрывоопасная дверь. Он хорошо служит своей терве."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мощная взрывоопасная дверь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Взрывная дверь. Структурная целостность: 98 процентов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Уплотнители дверей комнаты."
+}]

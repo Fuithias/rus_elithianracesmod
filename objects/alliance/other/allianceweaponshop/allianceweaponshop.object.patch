@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Магазин оружия Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом магазине продается разнообразное оружие.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин оружия.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Оружейный магазин.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мог бы купить себе новый пистолет здесь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен магазин инопланетного оружия.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки куплю оружие-новое.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Магазин оружия Альянса"
+},{"op":"replace","path":"/description","value":
+"В этом магазине продается разнообразное оружие."
+},{"op":"replace","path":"/floranDescription","value":
+"Магазин оружия."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Оружейный магазин."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мог бы купить себе новый пистолет здесь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен магазин инопланетного оружия."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки куплю оружие-новое."
+}]

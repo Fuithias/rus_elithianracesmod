@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Телеанский труп",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мертвый телеан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран тыкает трупы палками...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот телеан мертв уже несколько десятилетий, но его тело все еще в хорошей форме.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телеан, каким он должен быть: мертв.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен Телеан. Анализ: мертв.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бог-вор-мертв. Акки доволен.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телеанский труп"
+},{"op":"replace","path":"/description","value":
+"Мертвый телеан."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран тыкает трупы палками..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Этот телеан мертв уже несколько десятилетий, но его тело все еще в хорошей форме."
+},{"op":"replace","path":"/avikanDescription","value":
+"Телеан, каким он должен быть: мертв."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен Телеан. Анализ: мертв."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Бог-вор-мертв. Акки доволен."
+}]

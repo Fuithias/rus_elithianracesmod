@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урона в секунду:",
-    "path": "/dpsTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Мощь рубления:",
-    "path": "/miningStrengthTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии в секунду:",
-    "path": "/energyPerSecondTitleLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/dpsTitleLabel/value","value":
+"Урона в секунду:"
+},{"op":"replace","path":"/miningStrengthTitleLabel/value","value":
+"Мощь рубления:"
+},{"op":"replace","path":"/energyPerSecondTitleLabel/value","value":
+"Энергии в секунду:"
+}]

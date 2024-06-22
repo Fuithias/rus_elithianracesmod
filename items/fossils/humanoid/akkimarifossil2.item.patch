@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменелый торс Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари Торс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменелый торс Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Аккимари Торс"
+}]

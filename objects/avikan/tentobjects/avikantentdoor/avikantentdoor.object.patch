@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Дверь для палатки Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная дверь для палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная кожаная дверь для палатки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая кожаная дверь палатки.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Примитивная кожаная дверь палатки.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная дверь для палатки. Не очень интересно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная дверь для палатки.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная дверь в палатку. Просто, но очень полезно.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная дверь в палатку. Это обеспечивает нам достаточную защиту от ветров пустыни.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная дверь в палатку.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена дверь. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь в палатку.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дверь для палатки Авикан"
+},{"op":"replace","path":"/description","value":
+"Простая кожаная дверь для палатки."
+},{"op":"replace","path":"/apexDescription","value":
+"Обычная кожаная дверь для палатки."
+},{"op":"replace","path":"/avianDescription","value":
+"Мягкая кожаная дверь палатки."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Примитивная кожаная дверь палатки."
+},{"op":"replace","path":"/humanDescription","value":
+"Простая кожаная дверь для палатки. Не очень интересно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простая кожаная дверь для палатки."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кожаная дверь в палатку. Просто, но очень полезно."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаная дверь в палатку. Это обеспечивает нам достаточную защиту от ветров пустыни."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаная дверь в палатку."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена дверь. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь в палатку."
+}]

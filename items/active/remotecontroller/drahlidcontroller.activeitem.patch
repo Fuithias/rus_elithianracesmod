@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Позволяет вызывать и контролировать маленького дралида.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Контроллер дралида",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульт управления",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Позволяет вызывать и контролировать маленького дралида."
+},{"op":"replace","path":"/shortdescription","value":
+"Контроллер дралида"
+},{"op":"replace","path":"/category","value":
+"Пульт управления"
+}]

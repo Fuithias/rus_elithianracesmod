@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Ремонтная станция Драль",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция может ремонтировать дроны, поврежденные в бою.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран кладет сломанный дрон на стол, дрон для ремонта стола!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С облегчением. Если у меня когда-нибудь окажется поврежденный дрон, я смогу отремонтировать его здесь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, здесь смогут починить дроны.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена ремонтная станция Драла. Способен ремонтировать юниты Драла, поврежденные в бою.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки ремонтируют дроны здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ремонтная станция Драль"
+},{"op":"replace","path":"/description","value":
+"Эта станция может ремонтировать дроны, поврежденные в бою."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран кладет сломанный дрон на стол, дрон для ремонта стола!"
+},{"op":"replace","path":"/glitchDescription","value":
+"С облегчением. Если у меня когда-нибудь окажется поврежденный дрон, я смогу отремонтировать его здесь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Возможно, здесь смогут починить дроны."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена ремонтная станция Драла. Способен ремонтировать юниты Драла, поврежденные в бою."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки ремонтируют дроны здесь."
+}]

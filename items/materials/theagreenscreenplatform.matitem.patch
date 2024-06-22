@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Без описания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа зеленого экрана",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Без описания."
+},{"op":"replace","path":"/shortdescription","value":
+"Платформа зеленого экрана"
+}]

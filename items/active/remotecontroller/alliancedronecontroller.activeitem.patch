@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Позволяет вызывать и управлять разведывательным дроном ПАМ",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Контроллер Фантом-5",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульт управления",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Позволяет вызывать и управлять разведывательным дроном ПАИ"
+},{"op":"replace","path":"/shortdescription","value":
+"Контроллер Фантом-5"
+},{"op":"replace","path":"/category","value":
+"Пульт управления"
+}]

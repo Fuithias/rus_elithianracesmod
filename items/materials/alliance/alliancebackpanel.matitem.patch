@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая стеновая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Задняя панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая стеновая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Задняя панель Альянса"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Знак заслуг, чтобы показать свою ценность среди Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#0094FF;Знак заслуг^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Знак заслуг, чтобы показать свою ценность среди Авикан."
+},{"op":"replace","path":"/shortdescription","value":
+"^#0094FF;Знак заслуг^white;"
+}]

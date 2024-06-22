@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Рельс из разного металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари Железная дорога",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Рельс из разного металлолома."
+},{"op":"replace","path":"/shortdescription","value":
+"Аккимари Железная дорога"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Маленький стол Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький обшарпанный столик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой столик.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто маленький столик.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая таблица.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скучающий. Просто базовый стол.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол очень грязный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то должен убрать этот стол.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то маленький столик. Похоже, кто-то пролил здесь свой напиток.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот маленький столик нуждается в чистке.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой стол. Это выглядит грубо.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький, простой, но лоскутный столик.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стол пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол-маленький, но стол-крепкий. Акки знает.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленький стол Акрис"
+},{"op":"replace","path":"/description","value":
+"Маленький обшарпанный столик."
+},{"op":"replace","path":"/apexDescription","value":
+"Небольшой столик."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто маленький столик."
+},{"op":"replace","path":"/floranDescription","value":
+"Простая таблица."
+},{"op":"replace","path":"/glitchDescription","value":
+"Скучающий. Просто базовый стол."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот стол очень грязный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кто-то должен убрать этот стол."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то маленький столик. Похоже, кто-то пролил здесь свой напиток."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот маленький столик нуждается в чистке."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой стол. Это выглядит грубо."
+},{"op":"replace","path":"/trinkDescription","value":
+"Маленький, простой, но лоскутный столик."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стол пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стол-маленький, но стол-крепкий. Акки знает."
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Сломанный топливный люк",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный люк бензобака. Это не пойдет!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот люк бензобака сломан.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это нужно будет исправить, прежде чем мы сможем куда-нибудь отправиться на этом корабле.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лючок бензобака сломан...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Как только этот люк починят, он снова будет принимать топливо, и я отправлюсь к звездам!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Топливная панель. Сломан, но не подлежит ремонту.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный люк бензобака.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабль никуда не денется, пока не починят топливный люк.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция подачи топлива сломана. Давайте отремонтируем его.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный люк бензобака. Ремонт в порядке.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена станция подачи топлива. Статус: сломан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У Акки нет топливного корабля, пока панель сломана.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сломанный топливный люк"
+},{"op":"replace","path":"/description","value":
+"Сломанный люк бензобака. Это не пойдет!"
+},{"op":"replace","path":"/apexDescription","value":
+"Этот люк бензобака сломан."
+},{"op":"replace","path":"/avianDescription","value":
+"Это нужно будет исправить, прежде чем мы сможем куда-нибудь отправиться на этом корабле."
+},{"op":"replace","path":"/floranDescription","value":
+"Лючок бензобака сломан..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Как только этот люк починят, он снова будет принимать топливо, и я отправлюсь к звездам!"
+},{"op":"replace","path":"/humanDescription","value":
+"Топливная панель. Сломан, но не подлежит ремонту."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Сломанный люк бензобака."
+},{"op":"replace","path":"/aegiDescription","value":
+"Корабль никуда не денется, пока не починят топливный люк."
+},{"op":"replace","path":"/avikanDescription","value":
+"Станция подачи топлива сломана. Давайте отремонтируем его."
+},{"op":"replace","path":"/trinkDescription","value":
+"Сломанный люк бензобака. Ремонт в порядке."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена станция подачи топлива. Статус: сломан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"У Акки нет топливного корабля, пока панель сломана."
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Маленькая гивериевая скала",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хрупкая скала, наполненная гивериевой рудой. Возможно, я смогу сломать его.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сссшный камень. Разрушьте это!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдательный. Эта скала содержит гивериум и покрыта трещинами. Его должно быть легко сломать.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки разбей камень, добудь Хайвериум.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленькая гивериевая скала"
+},{"op":"replace","path":"/description","value":
+"Хрупкая скала, наполненная гивериевой рудой. Возможно, я смогу сломать его."
+},{"op":"replace","path":"/floranDescription","value":
+"Сссшный камень. Разрушьте это!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдательный. Эта скала содержит гивериум и покрыта трещинами. Его должно быть легко сломать."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки разбей камень, добудь Хайвериум."
+}]

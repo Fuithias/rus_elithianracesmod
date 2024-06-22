@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Бенч",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удобная скамейка с открытой спинкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странная скамейка с открытой спинкой.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта скамейка удобная, но почему-то отсутствует спинка.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что эта скамейка странная.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смущенный. Почему у этой скамьи есть опоры по бокам, а не сзади?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странная скамейка. Это также странно удобно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычный дизайн и одновременно необычайно удобный.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я даже не знаю, как правильно сидеть в этой штуке.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный дизайн, конечно. Хотя это довольно удобно.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта инопланетная скамейка довольно удобна. Открытая спина отлично подходит для моего хвоста.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необычная скамейка, построенная Аккимари. С этими боковыми пластинами это кажется неэффективным.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена скамейка пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Скамейка для сидения. Акки нравится.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Бенч"
+},{"op":"replace","path":"/description","value":
+"Удобная скамейка с открытой спинкой."
+},{"op":"replace","path":"/apexDescription","value":
+"Странная скамейка с открытой спинкой."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта скамейка удобная, но почему-то отсутствует спинка."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что эта скамейка странная."
+},{"op":"replace","path":"/glitchDescription","value":
+"Смущенный. Почему у этой скамьи есть опоры по бокам, а не сзади?"
+},{"op":"replace","path":"/humanDescription","value":
+"Странная скамейка. Это также странно удобно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Необычный дизайн и одновременно необычайно удобный."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я даже не знаю, как правильно сидеть в этой штуке."
+},{"op":"replace","path":"/aegiDescription","value":
+"Странный дизайн, конечно. Хотя это довольно удобно."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта инопланетная скамейка довольно удобна. Открытая спина отлично подходит для моего хвоста."
+},{"op":"replace","path":"/trinkDescription","value":
+"Необычная скамейка, построенная Аккимари. С этими боковыми пластинами это кажется неэффективным."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена скамейка пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Скамейка для сидения. Акки нравится."
+}]

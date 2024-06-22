@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Кресло Akris Pirate Captain",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неряшливый стул, подвешенный на крепких шелковых нитях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стул из металлолома висел на веревках.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный стул висел на веревках.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, почему это кресло висит.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Небрежный подвесной стул.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это кресло выглядит очень круто.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на кресло командира.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сидеть здесь небезопасно...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Трон мусорщика.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный, но удобный стул, подвешенный на каких-то веревках.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стул, сделанный из металлолома. Это выглядит устрашающе.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стул пришельца. Шелковые нити превосходят ожидания прочности материала.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло для вождя. Уважение-большое для вождя-сильного.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кресло Акрис Pirate Captain"
+},{"op":"replace","path":"/description","value":
+"Неряшливый стул, подвешенный на крепких шелковых нитях."
+},{"op":"replace","path":"/apexDescription","value":
+"Стул из металлолома висел на веревках."
+},{"op":"replace","path":"/avianDescription","value":
+"Странный стул висел на веревках."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, почему это кресло висит."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Небрежный подвесной стул."
+},{"op":"replace","path":"/humanDescription","value":
+"Это кресло выглядит очень круто."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Похоже на кресло командира."
+},{"op":"replace","path":"/novakidDescription","value":
+"Сидеть здесь небезопасно..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Трон мусорщика."
+},{"op":"replace","path":"/avikanDescription","value":
+"Странный, но удобный стул, подвешенный на каких-то веревках."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стул, сделанный из металлолома. Это выглядит устрашающе."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стул пришельца. Шелковые нити превосходят ожидания прочности материала."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кресло для вождя. Уважение-большое для вождя-сильного."
+}]

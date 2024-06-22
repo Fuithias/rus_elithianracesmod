@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Лазерная снайперская винтовка среднего класса, созданная тринками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Снайп-схемантовка Марк I",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерная снайперка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Piercing Laser",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Лазерная снайперская винтовка среднего класса, созданная тринками."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Снайп-схемантовка Мк I"
+},{"op":"replace","path":"/category","value":
+"Лазерная снайперка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Piercing Laser"
+}]

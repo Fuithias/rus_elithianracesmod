@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Знамя Республики Хизолия",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя, украшенное гербом Гимидийской Республики Хизолия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Гимидийской Республики Хизолия.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки думают, что это символ Республики-Химид.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Знамя Республики Хизолия"
+},{"op":"replace","path":"/description","value":
+"Знамя, украшенное гербом Гимидийской Республики Хизолия."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Гимидийской Республики Хизолия."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки думают, что это символ Республики-Химид."
+}]

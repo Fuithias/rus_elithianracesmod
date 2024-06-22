@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Большая труба Слева",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Левая половина очень толстой трубы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. В такую трубу много что может поместиться.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большие трубы...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба больше, чем я когда-либо видел.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Большая труба.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Труба-большая, акки мог бы почти проползти через неё.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большая труба Слева"
+},{"op":"replace","path":"/description","value":
+"Левая половина очень толстой трубы."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. В такую трубу много что может поместиться."
+},{"op":"replace","path":"/floranDescription","value":
+"Большие трубы..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Труба больше, чем я когда-либо видел."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Большая труба."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Труба-большая, акки мог бы почти проползти через неё."
+}]

@@ -1,167 +1,67 @@
-[
-  {
-    "value": "Прибежище Звездоплавателя",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в Прибежище Звездоплавателя, новый прибытие! Я - ^orange;Азана^white;, ваш виртуальный гид. Пожалуйста, найдите время, чтобы ознакомиться с множеством услуг, предлагаемых в ^orange;Прибежище Звездоплавателя^reset. ^green;Сканируйте интересующие вас области, и я предоставлю информацию об услугах, предоставляемых там.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо за использование виртуального гида от Anakhar Systems. Надеюсь, я предоставила вам полезную информацию сегодня. Vas Vha'leih.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "^green;Сканируйте объекты^reset, чтобы узнать больше о ^orange;Прибежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/descriptions/findClues",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Азане^reset в ^orange;Прибежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/descriptions/turnIn",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Я - Азана, виртуальный гид, созданный Anakhar Systems. Я предоставляю информацию о Прибежище Звездоплавателя как новичкам, так и ветеранам.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Этот торговец из Обменника Токенов Nomada позволяет вам обменивать остаточные материалы на Токены Заслуг.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Этот торговец из Обменника Токенов Nomada позволяет вам покупать различные материалы, используя Токены Заслуг.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин Транслокаторов Nomada предлагает персонализированные устройства телепортации. Также здесь имеется телепортер для общественного пользования.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Айурин - местный оружейник. Он продает чертежи оружия и помогает Звездоплавателям в создании оружия.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "В обмен на Токены Заслуг Терминал Легиона Дроден позволяет вам нанимать членов экипажа из Дроден.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Жахкар продает сертифицированные транспортные средства и компоненты для них от Nomada.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Вальян предлагает услуги по ремонту и восстановлению транспортных средств.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Напитки и еду можно приобрести в баре в Звездной Гостинице.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Офисы Смотрителей находятся за этими охранными консолями. Доступ в офисы возможен только для членов организации.",
-    "path": "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование - отличный инструмент для исследования.",
-    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Прибежище Звездоплавателя предлагает множество услуг. Здесь еще многое можно найти.",
-    "path": "/scriptConfig/radioMessages/startWithProgress/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, вы решили самостоятельно исследовать Прибежище Звездоплавателя.",
-    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
-    "op": "replace"
-  },
-  {
-    "value": "Азана",
-    "path": "/scriptConfig/radioMessages/complete/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "На этом завершается тур по Прибежищу Звездоплавателя. Пожалуйста, ^green;вернитесь ко мне^white;, когда будете готовы получить небольшую награду.",
-    "path": "/scriptConfig/radioMessages/complete/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"Убежище Звездохода"
+},{"op":"replace","path":"/text","value":
+"Добро пожаловать в Убежище Звездохода, новый прибытие! Я - ^orange;Азана^white;, ваш виртуальный гид. Пожалуйста, найдите время, чтобы ознакомиться с множеством услуг, предлагаемых в ^orange;Убежище Звездохода^reset. ^green;Сканируйте интересующие вас области, и я предоставлю информацию об услугах, предоставляемых там."
+},{"op":"replace","path":"/completionText","value":
+"Спасибо за использование виртуального гида от Anakhar Systems. Надеюсь, я предоставила вам полезную информацию сегодня. Vas Vha'leih."
+},{"op":"replace","path":"/scriptConfig/descriptions/findClues","value":
+"^green;Сканируйте объекты^reset, чтобы узнать больше о ^orange;Убежище Звездохода^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/turnIn","value":
+"Вернитесь к ^orange;Азане^reset в ^orange;Убежище Звездохода^reset;"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/text","value":
+"Я - Азана, виртуальный гид, созданный Anakhar Systems. Я предоставляю информацию о Убежище Звездохода как новичкам, так и ветеранам."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/text","value":
+"Этот торговец из Обменника Токенов Номада позволяет вам обменивать остаточные материалы на Токены Заслуг."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/text","value":
+"Этот торговец из Обменника Токенов Номада позволяет вам покупать различные материалы, используя Токены Заслуг."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/text","value":
+"Магазин Транслокаторов Номада предлагает персонализированные устройства телепортации. Также здесь имеется телепортер для общественного пользования."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/text","value":
+"Айурин - местный оружейник. Он продает чертежи оружия и помогает Звездоходам в создании оружия."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/text","value":
+"В обмен на Токены Заслуг Терминал Легиона Дроден позволяет вам нанимать членов экипажа из Дроден."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/text","value":
+"Жахкар продает сертифицированные транспортные средства и компоненты для них от Номада."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/text","value":
+"Вальян предлагает услуги по ремонту и восстановлению транспортных средств."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/text","value":
+"Напитки и еду можно приобрести в баре в Звездной Гостинице."
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/text","value":
+"Офисы Смотрителей находятся за этими охранными консолями. Доступ в офисы возможен только для членов организации."
+},{"op":"replace","path":"/scriptConfig/radioMessages/genericProgress/0/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/genericProgress/0/text","value":
+"Сканирование - отличный инструмент для исследования."
+},{"op":"replace","path":"/scriptConfig/radioMessages/startWithProgress/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/startWithProgress/text","value":
+"Убежище Звездохода предлагает множество услуг. Здесь еще многое можно найти."
+},{"op":"replace","path":"/scriptConfig/radioMessages/startAlreadyComplete/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/startAlreadyComplete/text","value":
+"Кажется, вы решили самостоятельно исследовать Убежище Звездохода."
+},{"op":"replace","path":"/scriptConfig/radioMessages/complete/senderName","value":
+"Азана"
+},{"op":"replace","path":"/scriptConfig/radioMessages/complete/text","value":
+"На этом завершается тур по Прибежищу Звездохода. Пожалуйста, ^green;вернитесь ко мне^white;, когда будете готовы получить небольшую награду."
+}]

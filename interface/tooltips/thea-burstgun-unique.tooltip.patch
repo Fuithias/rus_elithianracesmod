@@ -1,37 +1,15 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за очередь:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Патрон за очередь:",
-    "path": "/roundsPerBurstTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Скорость стрельбы:",
-    "path": "/speedTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Энергии на очередь:",
-    "path": "/energyPerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Я баг. Прошу сообщите обо мне!",
-    "path": "/descriptionLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за очередь:"
+},{"op":"replace","path":"/roundsPerBurstTitleLabel/value","value":
+"Патрон за очередь:"
+},{"op":"replace","path":"/speedTitleLabel/value","value":
+"Скорость стрельбы:"
+},{"op":"replace","path":"/energyPerShotTitleLabel/value","value":
+"Энергии на очередь:"
+},{"op":"replace","path":"/descriptionLabel/value","value":
+"Я баг. Прошу сообщите обо мне!"
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

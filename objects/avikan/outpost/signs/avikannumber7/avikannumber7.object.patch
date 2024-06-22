@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Номер семь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер семь в сценарии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Номер семь в инопланетном сценарии.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой номер. Я считаю, что это семь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что означает инопланетный символ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот инопланетный символ означает семь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Семь в каком-то инопланетном сценарии.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный символ числа семь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это число означает семь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер семь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Число. Семь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-чужой. Семь, думает Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номер семь"
+},{"op":"replace","path":"/description","value":
+"Номер семь в сценарии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Номер семь в инопланетном сценарии."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужой номер. Я считаю, что это семь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что означает инопланетный символ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот инопланетный символ означает семь."
+},{"op":"replace","path":"/humanDescription","value":
+"Семь в каком-то инопланетном сценарии."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетный символ числа семь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это число означает семь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номер семь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Число. Семь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Номер-чужой. Семь, думает Акки."
+}]

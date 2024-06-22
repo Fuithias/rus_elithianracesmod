@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Забор Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический забор.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Удовлетворение. Такой прочный забор не пропустит нежелательных существ.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный забор.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический забор. Может быть полезен для строительства ранчо.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлический забор.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Забор-прочный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Забор Альянса"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический забор."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удовлетворение. Такой прочный забор не пропустит нежелательных существ."
+},{"op":"replace","path":"/floranDescription","value":
+"Прочный забор."
+},{"op":"replace","path":"/novakidDescription","value":
+"Прочный металлический забор. Может быть полезен для строительства ранчо."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлический забор."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Забор-прочный."
+}]

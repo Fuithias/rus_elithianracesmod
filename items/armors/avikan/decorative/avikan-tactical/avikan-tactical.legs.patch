@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Пояс, наполненный тактическим оборудованием.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тактический пояс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Пояс, наполненный тактическим оборудованием."
+},{"op":"replace","path":"/shortdescription","value":
+"Тактический пояс"
+}]

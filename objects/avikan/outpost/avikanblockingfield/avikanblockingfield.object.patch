@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Блокирующее поле Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Энергетическое поле, защищающее от нежелательных гостей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эта стена света не пускает Флорана...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Это поле не пропускает большинство крупных объектов и сущностей, но пропускает снаряды.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено блокирующее поле. Анализ: пройти могут только снаряды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Поле-энергия. Акки нелегко пройти.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Блокирующее поле Авикан"
+},{"op":"replace","path":"/description","value":
+"Энергетическое поле, защищающее от нежелательных гостей."
+},{"op":"replace","path":"/floranDescription","value":
+"Эта стена света не пускает Флорана..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Это поле не пропускает большинство крупных объектов и сущностей, но пропускает снаряды."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено блокирующее поле. Анализ: пройти могут только снаряды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Поле-энергия. Акки нелегко пройти."
+}]

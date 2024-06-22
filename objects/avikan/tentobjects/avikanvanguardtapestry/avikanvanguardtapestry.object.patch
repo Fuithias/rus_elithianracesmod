@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авангардный гобелен",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенные гобелены оформлены в стиле Авангард.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Отделка стен. Я не узнаю этот символ.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что означает этот символ",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравится кроваво-красная одежда.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Красные цвета часто ассоциируются с войной.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенный гобелен окрашен в темно-красный цвет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это настенное украшение имеет милитаристский оттенок.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, что означает этот значок?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенная отделка оформлена в стиле Авикан Авангард.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот гобелен был оформлен в стиле Авангарда.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот гобелен был оформлен для «Авангарда». Они не особенно любят Тринк.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Авангардная отделка стен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эмблема Авангарда, военно-инопланетянин.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авангардный гобелен"
+},{"op":"replace","path":"/description","value":
+"Настенные гобелены оформлены в стиле Авангард."
+},{"op":"replace","path":"/apexDescription","value":
+"Отделка стен. Я не узнаю этот символ."
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, что означает этот символ"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравится кроваво-красная одежда."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Красные цвета часто ассоциируются с войной."
+},{"op":"replace","path":"/humanDescription","value":
+"Настенный гобелен окрашен в темно-красный цвет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это настенное украшение имеет милитаристский оттенок."
+},{"op":"replace","path":"/novakidDescription","value":
+"Интересно, что означает этот значок?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Настенная отделка оформлена в стиле Авикан Авангард."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот гобелен был оформлен в стиле Авангарда."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот гобелен был оформлен для Авангарда. Они не особенно любят Тринк."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Авангардная отделка стен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Эмблема Авангарда, военно-инопланетянин."
+}]

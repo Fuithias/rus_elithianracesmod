@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Жизненно важная часть любой баллистической винтовки Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Журнал Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Жизненно важная часть любой баллистической винтовки Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Журнал Альянс"
+}]

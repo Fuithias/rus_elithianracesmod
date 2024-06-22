@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Острые шипы наносят урон и отравляют проходящих над ними врагов.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяные шипы с ядом",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бросаемый",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Острые шипы наносят урон и отравляют проходящих над ними врагов.^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Костяные шипы с ядом"
+},{"op":"replace","path":"/category","value":
+"Бросаемый"
+}]

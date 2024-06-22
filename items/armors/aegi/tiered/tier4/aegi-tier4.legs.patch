@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Балистическая юбка и металлические сапоги, которые носят аегинский спецназ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны спецназа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Балистическая юбка и металлические сапоги, которые носят аегинский спецназ."
+},{"op":"replace","path":"/shortdescription","value":
+"Штаны спецназа"
+}]

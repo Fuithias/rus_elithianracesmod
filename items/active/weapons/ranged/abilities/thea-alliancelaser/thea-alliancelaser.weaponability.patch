@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Плазменный луч",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Плазменный луч"
+}]

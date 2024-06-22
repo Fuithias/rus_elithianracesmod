@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авиканские яйца",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца Авикан. Зародыш новой жизни.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Чужие яйца. Они кажутся немного кожистыми.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это яйца? Они выглядят... странно...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца для еды?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарование. Эти яйца породят новую жизнь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужие яйца. Я не думаю, что они съедобны.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Есть красота в создании новой жизни.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти яйца могут вылупиться через несколько месяцев.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца Авикан. Интересно, кто их положил?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца авикан легко узнать по кожистой кожице.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца Авикан. Предполагаемая дата вылупления: неизвестна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яйца-инопланетяне, для приготовления и употребления в пищу. Акки голоден.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканские яйца"
+},{"op":"replace","path":"/description","value":
+"Яйца Авикан. Зародыш новой жизни."
+},{"op":"replace","path":"/apexDescription","value":
+"Чужие яйца. Они кажутся немного кожистыми."
+},{"op":"replace","path":"/avianDescription","value":
+"Это яйца? Они выглядят... странно..."
+},{"op":"replace","path":"/floranDescription","value":
+"Яйца для еды?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарование. Эти яйца породят новую жизнь."
+},{"op":"replace","path":"/humanDescription","value":
+"Чужие яйца. Я не думаю, что они съедобны."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Есть красота в создании новой жизни."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эти яйца могут вылупиться через несколько месяцев."
+},{"op":"replace","path":"/avikanDescription","value":
+"Яйца Авикан. Интересно, кто их положил?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Яйца авикан легко узнать по кожистой кожице."
+},{"op":"replace","path":"/drodenDescription","value":
+"Яйца Авикан. Предполагаемая дата вылупления: неизвестна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Яйца-инопланетяне, для приготовления и употребления в пищу. Акки голоден."
+}]

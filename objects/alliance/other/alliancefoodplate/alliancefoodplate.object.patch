@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Эгинская плита",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тарелка полная еды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ужин.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вкусная еда.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Едасс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Здоровая еда.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еда. Вкусная еда!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сбалансированный ужин.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Еда.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сбалансированное питание.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное блюдо.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартная эгинская еда.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Пищевая ценность: отличная.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки голоден.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Эгинская плита"
+},{"op":"replace","path":"/description","value":
+"Тарелка полная еды."
+},{"op":"replace","path":"/apexDescription","value":
+"Ужин."
+},{"op":"replace","path":"/avianDescription","value":
+"Вкусная еда."
+},{"op":"replace","path":"/floranDescription","value":
+"Едасс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Здоровая еда."
+},{"op":"replace","path":"/humanDescription","value":
+"Еда. Вкусная еда!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Сбалансированный ужин."
+},{"op":"replace","path":"/novakidDescription","value":
+"Еда."
+},{"op":"replace","path":"/aegiDescription","value":
+"Сбалансированное питание."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное блюдо."
+},{"op":"replace","path":"/trinkDescription","value":
+"Стандартная эгинская еда."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Пищевая ценность: отличная."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки голоден."
+}]

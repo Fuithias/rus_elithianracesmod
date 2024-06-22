@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Драалид авиканов, искаженный Тилеанским Весомиром.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Искаженный Драалид",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Драалид авиканов, искаженный Тилеанским Весомиром."
+},{"op":"replace","path":"/shortdescription","value":
+"Искаженный Драалид"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Производит дыхательный воздух. Полезен в местах с ^red;невдыхаемой атмосферой^reset;.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дыхательный набор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Производит дыхательный воздух. Полезен в местах с ^red;невдыхаемой атмосферой^reset;."
+},{"op":"replace","path":"/shortdescription","value":
+"Дыхательный набор"
+}]

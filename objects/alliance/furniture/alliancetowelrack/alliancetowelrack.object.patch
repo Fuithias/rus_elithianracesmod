@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Вешалка для полотенец Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вешалка для полотенец.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вешалка с чистым полотенцем.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистая ткань, чтобы вытереться.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран сушит ткань.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это полотенце довольно чистое.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистое белое полотенце. Полезный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это полотенце недавно было постирано.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надо быть осторожным, чтобы не сжечь это полотенце.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистое полотенце, которым можно вытереться после душа.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то тряпочка для чистки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вешалка для полотенец.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена вешалка для одежды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если Акки мокрая, Акки здесь сухая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Вешалка для полотенец Альянса"
+},{"op":"replace","path":"/description","value":
+"Вешалка для полотенец."
+},{"op":"replace","path":"/apexDescription","value":
+"Вешалка с чистым полотенцем."
+},{"op":"replace","path":"/avianDescription","value":
+"Чистая ткань, чтобы вытереться."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран сушит ткань."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это полотенце довольно чистое."
+},{"op":"replace","path":"/humanDescription","value":
+"Чистое белое полотенце. Полезный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это полотенце недавно было постирано."
+},{"op":"replace","path":"/novakidDescription","value":
+"Надо быть осторожным, чтобы не сжечь это полотенце."
+},{"op":"replace","path":"/aegiDescription","value":
+"Чистое полотенце, которым можно вытереться после душа."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какая-то тряпочка для чистки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Вешалка для полотенец."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена вешалка для одежды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Если Акки мокрая, Акки здесь сухая."
+}]

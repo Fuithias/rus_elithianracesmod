@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Драл авиканов, искаженный Тилеанским Весомиром.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Искаженный драл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Драл авиканов, искаженный Тилеанским Весомиром."
+},{"op":"replace","path":"/shortdescription","value":
+"Искаженный драл"
+}]

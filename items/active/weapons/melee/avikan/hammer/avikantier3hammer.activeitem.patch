@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Гигантский молот, сделанный из прочной кости монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Молот преследователя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Гигантский молот, сделанный из прочной кости монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Молот преследователя"
+}]

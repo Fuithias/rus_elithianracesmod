@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Пара ног дроденов, взломанных телеанским везомиром.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Взломанные ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Пара ног дроденов, взломанных телеанским везомиром."
+},{"op":"replace","path":"/shortdescription","value":
+"Взломанные ноги"
+}]

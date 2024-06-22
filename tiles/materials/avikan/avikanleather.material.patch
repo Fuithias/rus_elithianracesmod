@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Авиканская кожа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаное покрытие стены для украшения и изоляции.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожен. Это кожаное покрытие стены легко загорится.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран вспоминает дом, когда видит кожаные листы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаное покрытие, отличное для палаток, но в остальном довольно скучное.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Кожаное покрытие стены.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа-прочная. Акки нравится узор.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская кожа"
+},{"op":"replace","path":"/description","value":
+"Кожаное покрытие стены для украшения и изоляции."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожен. Это кожаное покрытие стены легко загорится."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран вспоминает дом, когда видит кожаные листы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаное покрытие, отличное для палаток, но в остальном довольно скучное."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Кожаное покрытие стены."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кожа-прочная. Акки нравится узор."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Я обнаружил близлежащий аккимарийский бур. Если ты останешься рядом, я смогу захватить его и позволить тебе получить награды.",
-    "path": "/akkimaridrillcapturestart/text",
-    "op": "replace"
-  },
-  {
-    "value": "Я успешно захватил аккимарийский бур. Все награды твои!",
-    "path": "/akkimaridrillcapturecomplete/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/akkimaridrillcapturestart/text","value":
+"Я обнаружил близлежащий аккимарийский бур. Если ты останешься рядом, я смогу захватить его и позволить тебе получить награды."
+},{"op":"replace","path":"/akkimaridrillcapturecomplete/text","value":
+"Я успешно захватил аккимарийский бур. Все награды твои!"
+}]

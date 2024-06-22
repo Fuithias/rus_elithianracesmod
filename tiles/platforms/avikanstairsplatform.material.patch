@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Авиканские ступени",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочные металлические ступени.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эти ступени кажутся очень прочными.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ступени для подъема. Флорана знает это.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Набор прочных металлических ступеней.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлические ступени.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ступени-металл.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканские ступени"
+},{"op":"replace","path":"/description","value":
+"Прочные металлические ступени."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эти ступени кажутся очень прочными."
+},{"op":"replace","path":"/floranDescription","value":
+"Ступени для подъема. Флорана знает это."
+},{"op":"replace","path":"/novakidDescription","value":
+"Набор прочных металлических ступеней."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлические ступени."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ступени-металл."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

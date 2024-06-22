@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Кровать из лома Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кровать из металлолома и мягкого чехла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Грубая кровать, сделанная из пластин металлолома. По крайней мере, чехол мягкий.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта кровать была заправлена ​​очень грубо.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не нравится эта кровать.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Потрясен. Кто будет спать на такой кровати?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на тюремную койку, если тюрьма была сделана из металлолома.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это не очень приятная кровать. Обложка мягкая, но слишком тонкая.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы предпочел не тратить на это ночь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хотя покрытие мягкое, остальная часть этой кровати крайне дрянная.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта инопланетная кровать крайне неудобна.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кровать, состоящая из пластин металлолома, сверху уложена мягкая простыня.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное постельное белье. Обнаружены материалы низкого качества.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не против того, чтобы постель была лоскутной. Чехол достаточно мягкий.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кровать из лома Акрис"
+},{"op":"replace","path":"/description","value":
+"Простая кровать из металлолома и мягкого чехла."
+},{"op":"replace","path":"/apexDescription","value":
+"Грубая кровать, сделанная из пластин металлолома. По крайней мере, чехол мягкий."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта кровать была заправлена ​​очень грубо."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не нравится эта кровать."
+},{"op":"replace","path":"/glitchDescription","value":
+"Потрясен. Кто будет спать на такой кровати?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это похоже на тюремную койку, если тюрьма была сделана из металлолома."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это не очень приятная кровать. Обложка мягкая, но слишком тонкая."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я бы предпочел не тратить на это ночь."
+},{"op":"replace","path":"/aegiDescription","value":
+"Хотя покрытие мягкое, остальная часть этой кровати крайне дрянная."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта инопланетная кровать крайне неудобна."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кровать, состоящая из пластин металлолома, сверху уложена мягкая простыня."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное постельное белье. Обнаружены материалы низкого качества."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не против того, чтобы постель была лоскутной. Чехол достаточно мягкий."
+}]

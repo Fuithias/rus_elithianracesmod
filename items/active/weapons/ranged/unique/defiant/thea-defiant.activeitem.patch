@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Высокоточная лазерная винтовка, мощность которой нарастает с течением времени.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;АЕГ-Корпус^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ц56 Дефиант^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лучевая винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Волатильный луч",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Высокоточная лазерная винтовка, мощность которой нарастает с течением времени."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;АЕГ-Корпус^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ц56 Дефиант^white;"
+},{"op":"replace","path":"/category","value":
+"Лучевая винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Волатильный луч"
+}]

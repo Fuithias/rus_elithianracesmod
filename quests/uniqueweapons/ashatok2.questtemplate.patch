@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Кислотная Война II",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Чачарре нужны материалы. Много материалов. Много пикселей тоже, хочу оплату. ^green;Найдите Чачарре ^orange;12 кусочков закалённого металла ^green;и ^orange;30000 пикселей^green;. ^white;Тогда Чачарра сделает для вас оружие.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Чачарра счастлив, у него всё, что нужно. Вот ваше оружие: используйте его часто, победы вам гарантированы.",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольство Креона^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Кислотная Война II"
+},{"op":"replace","path":"/text","value":
+"Чачарре нужны материалы. Много материалов. Много пикселей тоже, хочу оплату. ^green;Найдите Чачарре ^orange;12 кусочков закалённого металла ^green;и ^orange;30000 пикселей^green;. ^white;Тогда Чачарра сделает для вас оружие."
+},{"op":"replace","path":"/completionText","value":
+"Чачарра счастлив, у него всё, что нужно. Вот ваше оружие: используйте его часто, победы вам гарантированы."
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольство Креона^reset;"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Экран компьютера Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный компьютер и экран в одном.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот экран также является компьютером.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютер и экран в одном.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не умеет пользоваться компьютером...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Персональный компьютер и экран в одном.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот экран также является компьютером. Умный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Экран и компьютер в одном.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютеры - это не мое.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой компьютер и экран в одном.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тип инопланетного компьютера и экрана.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Совместить компьютер и экран в одном довольно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Идет перевод...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не уверен, что это значит. Интерфейс-странный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Экран компьютера Альянса"
+},{"op":"replace","path":"/description","value":
+"Стандартный компьютер и экран в одном."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот экран также является компьютером."
+},{"op":"replace","path":"/avianDescription","value":
+"Компьютер и экран в одном."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не умеет пользоваться компьютером..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Персональный компьютер и экран в одном."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот экран также является компьютером. Умный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Экран и компьютер в одном."
+},{"op":"replace","path":"/novakidDescription","value":
+"Компьютеры - это не мое."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой компьютер и экран в одном."
+},{"op":"replace","path":"/avikanDescription","value":
+"Тип инопланетного компьютера и экрана."
+},{"op":"replace","path":"/trinkDescription","value":
+"Совместить компьютер и экран в одном довольно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Идет перевод..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не уверен, что это значит. Интерфейс-странный."
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Самодельное оружие аккимари, стреляющее острыми как бритва лезвиями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Келрааки^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Бритварельс^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Самодельное оружие",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Hard Launch",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Самодельное оружие аккимари, стреляющее острыми как бритва лезвиями."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Келрааки^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Бритварельс^white;"
+},{"op":"replace","path":"/category","value":
+"Самодельное оружие"
+},{"op":"replace","path":"/altAbility/name","value":
+"Жесткий cпуск"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Небольшой дрон, используемый аккимарской полицией.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флик",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Небольшой дрон, используемый аккимарской полицией."
+},{"op":"replace","path":"/shortdescription","value":
+"Флик"
+}]

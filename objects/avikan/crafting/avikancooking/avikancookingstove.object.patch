@@ -1,72 +1,29 @@
-[
-  {
-    "value": "^orange;Плита Авикан^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь для приготовления еды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Многофункциональная плита для приготовления пищи и выпечки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я мог бы испечь здесь хлеб.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран однажды залез в печь. Как не приятно...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на печку, но я вообще не понимаю в управлении...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Многофункциональная печь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Давайте займемся выпечкой!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Многофункциональная плита Авикан, предназначенная для приготовления различных блюд.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу приготовить множество блюд.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несколько неэффективная печь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена печка. Органические продукты питания можно использовать в качестве топлива.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки готовь, делай еду вкуснее-больше.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Плита Авикан^white;"
+},{"op":"replace","path":"/description","value":
+"Печь для приготовления еды."
+},{"op":"replace","path":"/apexDescription","value":
+"Многофункциональная плита для приготовления пищи и выпечки."
+},{"op":"replace","path":"/avianDescription","value":
+"Я мог бы испечь здесь хлеб."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран однажды залез в печь. Как не приятно..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Благодарный. Эта многофункциональная плита позволяет мне готовить разнообразные блюда."
+},{"op":"replace","path":"/humanDescription","value":
+"Похоже на печку, но я вообще не понимаю в управлении..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Многофункциональная печь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Давайте займемся выпечкой!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Многофункциональная плита Авикан, предназначенная для приготовления различных блюд."
+},{"op":"replace","path":"/avikanDescription","value":
+"Здесь я могу приготовить множество блюд."
+},{"op":"replace","path":"/trinkDescription","value":
+"Несколько неэффективная печь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена печка. Органические продукты питания можно использовать в качестве топлива."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки готовь, делай еду вкуснее-больше."
+}]

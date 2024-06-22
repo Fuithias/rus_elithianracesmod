@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Авиканская платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая платформа. Цвет напоминает песок.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сообщение. Цвет этой платформы позволяет легко спрятаться в пустыне.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа цвета песка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта платформа имеет текстуру, похожую на песок.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Платформа-металл. Акки не интересует.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авиканская платформа"
+},{"op":"replace","path":"/description","value":
+"Металлическая платформа. Цвет напоминает песок."
+},{"op":"replace","path":"/glitchDescription","value":
+"Сообщение. Цвет этой платформы позволяет легко спрятаться в пустыне."
+},{"op":"replace","path":"/floranDescription","value":
+"Платформа цвета песка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта платформа имеет текстуру, похожую на песок."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Платформа-металл. Акки не интересует."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

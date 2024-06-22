@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авангард Крал",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль «Авангард», созданный для боевых целей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот механизм выглядит долговечным.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механика! Это может летать?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой металлический человек... Металлический человек ссмэш!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запуган. Мне бы не хотелось оказаться под огнем этого меха.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный механизм! Давайте угоним его!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мех, созданный для боя. Инструмент насилия или защиты?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, у этого меха не самое лучшее вооружение, но его броня превосходна.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авангард отправляет подобных роботов только в действительно тяжелых ситуациях.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Надежный боевой мех, имеет толстую броню и достойное вооружение.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен Мех Авангарда. Статус: Неактивен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мех-инопланетянин, контроль Акки! Акки топчется, наступает на щуплых инопланетян!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авангард Крал"
+},{"op":"replace","path":"/description","value":
+"Автомобиль Авангард, созданный для боевых целей."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот механизм выглядит долговечным."
+},{"op":"replace","path":"/avianDescription","value":
+"Механика! Это может летать?"
+},{"op":"replace","path":"/floranDescription","value":
+"Большой металлический человек... Металлический человек ссмэш!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Запуган. Мне бы не хотелось оказаться под огнем этого меха."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетный механизм! Давайте угоним его!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мех, созданный для боя. Инструмент насилия или защиты?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Возможно, у этого меха не самое лучшее вооружение, но его броня превосходна."
+},{"op":"replace","path":"/avikanDescription","value":
+"Авангард отправляет подобных роботов только в действительно тяжелых ситуациях."
+},{"op":"replace","path":"/trinkDescription","value":
+"Надежный боевой мех, имеет толстую броню и достойное вооружение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен Мех Авангарда. Статус: Неактивен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Мех-инопланетянин, контроль Акки! Акки топчется, наступает на щуплых инопланетян!"
+}]

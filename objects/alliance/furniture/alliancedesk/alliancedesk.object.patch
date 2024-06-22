@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стол Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но функциональный стол.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый письменный стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не хочет сидеть за столом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Простой, но функциональный стол.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полагаю, пора идти на работу?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "За таким столом можно было сделать много работы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ба, это просто стол.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой письменный стол с ящиками для хранения мелких вещей.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол какой-то.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол предлагает минимальное пространство для хранения.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен письменный стол.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол-чужой, есть хранилище-маленькое.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стол Альянса"
+},{"op":"replace","path":"/description","value":
+"Простой, но функциональный стол."
+},{"op":"replace","path":"/apexDescription","value":
+"Стол."
+},{"op":"replace","path":"/avianDescription","value":
+"Базовый письменный стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не хочет сидеть за столом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Простой, но функциональный стол."
+},{"op":"replace","path":"/humanDescription","value":
+"Полагаю, пора идти на работу?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"За таким столом можно было сделать много работы."
+},{"op":"replace","path":"/novakidDescription","value":
+"Ба, это просто стол."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой письменный стол с ящиками для хранения мелких вещей."
+},{"op":"replace","path":"/avikanDescription","value":
+"Стол какой-то."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот стол предлагает минимальное пространство для хранения."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен письменный стол."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стол-чужой, есть хранилище-маленькое."
+}]

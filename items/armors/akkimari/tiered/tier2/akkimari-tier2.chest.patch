@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Нагрудная пластина и шарф, носимые теми, кто разделывает инопланетные корабли на запчасти",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кираса вандала",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Нагрудная пластина и шарф, носимые теми, кто разделывает инопланетные корабли на запчасти"
+},{"op":"replace","path":"/shortdescription","value":
+"Кираса вандала"
+}]

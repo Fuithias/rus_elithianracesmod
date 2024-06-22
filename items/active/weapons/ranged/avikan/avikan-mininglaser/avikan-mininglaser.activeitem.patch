@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Мощный шахтерский лазер. Прожигает и камень, и врагов!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Лазерный бур Номада",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лазер-бур",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Маломощный лазер",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Мощный шахтерский лазер. Прожигает и камень, и врагов!"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Лазерный бур Номада"
+},{"op":"replace","path":"/category","value":
+"Лазер-бур"
+},{"op":"replace","path":"/altAbility/name","value":
+"Маломощный лазер"
+}]

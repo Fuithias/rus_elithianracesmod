@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​брони Альянса. Увеличивает силу пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ядро v2.М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​брони Альянса. Увеличивает силу пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Ядро v2.М"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшая пара ног Тринка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринк Ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшая пара ног Тринка."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринк Ноги"
+}]

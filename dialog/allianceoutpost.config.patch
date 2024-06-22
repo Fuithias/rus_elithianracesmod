@@ -1,472 +1,189 @@
-[
-  {
-    "value": "Мне нечего вам сказать.",
-    "path": "/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "О, привет.",
-    "path": "/converse/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Разве это место не замечательное? Здесь есть все, что мне только может понадобиться!",
-    "path": "/converse/aegi/generic/0",
-    "op": "replace"
-  },
-  {
-    "value": "Посольство Креона это действительно нечто, да? Это такое замечательное место, которое стоит посетить",
-    "path": "/converse/aegi/generic/1",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь есть люди самых разных видов.",
-    "path": "/converse/aegi/generic/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были на верхнем уровне правительства? Там есть запертая дверь. Интересно, что за ней?",
-    "path": "/converse/aegi/generic/3",
-    "op": "replace"
-  },
-  {
-    "value": "В ангарах посольства есть механик, который чинит сломанные машины.",
-    "path": "/converse/aegi/generic/4",
-    "op": "replace"
-  },
-  {
-    "value": "Женщина на стойке регистрации в посольстве была мне очень полезна.",
-    "path": "/converse/aegi/generic/5",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы тоже хотел быть послом. Какие места я бы посетил...",
-    "path": "/converse/aegi/generic/6",
-    "op": "replace"
-  },
-  {
-    "value": "Видя город вдали, я всегда чувствую себя счастливым.",
-    "path": "/converse/aegi/generic/7",
-    "op": "replace"
-  },
-  {
-    "value": "Баннеры в посольстве - это так здорово. Заставляют нас всех чувствовать связь.",
-    "path": "/converse/aegi/generic/8",
-    "op": "replace"
-  },
-  {
-    "value": "Однажды я побывал в канализации под городом. Там страшновато.",
-    "path": "/converse/aegi/generic/9",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал странные звуки в канализации под городом. Может, мне стоит сообщить о них в П-АСБ...",
-    "path": "/converse/aegi/generic/10",
-    "op": "replace"
-  },
-  {
-    "value": "Я видел здесь странных людей. Я был немного напуган.",
-    "path": "/converse/aegi/generic/11",
-    "op": "replace"
-  },
-  {
-    "value": "Сады здесь такие красивые.",
-    "path": "/converse/aegi/generic/12",
-    "op": "replace"
-  },
-  {
-    "value": "В городе есть замечательный сувенирный магазин.",
-    "path": "/converse/aegi/generic/13",
-    "op": "replace"
-  },
-  {
-    "value": "В городе есть магазин, где продают плакаты. Я хотел плакат НСИ, но он довольно дорогой.",
-    "path": "/converse/aegi/generic/14",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело вас сегодня в посольство?",
-    "path": "/converse/aegi/generic/15",
-    "op": "replace"
-  },
-  {
-    "value": "Вы часто здесь бываете?",
-    "path": "/converse/aegi/generic/16",
-    "op": "replace"
-  },
-  {
-    "value": "Вы, должно быть, видели невероятные места.",
-    "path": "/converse/aegi/generic/17",
-    "op": "replace"
-  },
-  {
-    "value": "Я опять забыл, где припарковал свой экраноплан. Надеюсь, я не оставил его на крыше, как в прошлый раз...",
-    "path": "/converse/aegi/generic/18",
-    "op": "replace"
-  },
-  {
-    "value": "Кельбет здесь такой спокойный.",
-    "path": "/converse/aegi/generic/19",
-    "op": "replace"
-  },
-  {
-    "value": "Я хочу транджи.",
-    "path": "/converse/aegi/generic/20",
-    "op": "replace"
-  },
-  {
-    "value": "Мой питомец транджи должен быть где-то здесь.",
-    "path": "/converse/aegi/generic/21",
-    "op": "replace"
-  },
-  {
-    "value": "В автосалоне города продается несколько отличных автомобилей.",
-    "path": "/converse/aegi/generic/22",
-    "op": "replace"
-  },
-  {
-    "value": "Книжный магазин в городе небольшой, но довольно хороший.",
-    "path": "/converse/aegi/generic/23",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, почему канализация запрещена?",
-    "path": "/converse/aegi/generic/24",
-    "op": "replace"
-  },
-  {
-    "value": "Хочешь выпить?",
-    "path": "/converse/aegi/generic/25",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть дом в большом городе. Вы можете увидеть его отсюда.",
-    "path": "/converse/aegi/generic/26",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотела жить в большом городе.",
-    "path": "/converse/aegi/generic/27",
-    "op": "replace"
-  },
-  {
-    "value": "Креон - удивительный город.",
-    "path": "/converse/aegi/generic/28",
-    "op": "replace"
-  },
-  {
-    "value": "Город официально называется посольской деревней. На самом деле он не является частью Креона, но на самом краю.",
-    "path": "/converse/aegi/generic/29",
-    "op": "replace"
-  },
-  {
-    "value": "В посольстве так много лифтов.",
-    "path": "/converse/aegi/generic/30",
-    "op": "replace"
-  },
-  {
-    "value": "Я хочу пойти домой и поиграть в какую-нибудь игру.",
-    "path": "/converse/aegi/generic/31",
-    "op": "replace"
-  },
-  {
-    "value": "Я недавно закончила школу!",
-    "path": "/converse/aegi/generic/32",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение за экранопланами вдали успокаивает.",
-    "path": "/converse/aegi/generic/33",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, насколько высока та башня вдалеке?",
-    "path": "/converse/aegi/generic/34",
-    "op": "replace"
-  },
-  {
-    "value": "Посольство Креона - это такое большое здание.",
-    "path": "/converse/aegi/generic/35",
-    "op": "replace"
-  },
-  {
-    "value": "Однажды я хочу посетить колонии.",
-    "path": "/converse/aegi/generic/36",
-    "op": "replace"
-  },
-  {
-    "value": "Вы когда-нибудь бывали в одной из колоний Союза? Что там было?",
-    "path": "/converse/aegi/generic/37",
-    "op": "replace"
-  },
-  {
-    "value": "В здешних парках невероятно спокойно.",
-    "path": "/converse/aegi/generic/38",
-    "op": "replace"
-  },
-  {
-    "value": "У меня снова началась сенная лихорадка.",
-    "path": "/converse/aegi/generic/39",
-    "op": "replace"
-  },
-  {
-    "value": "Климат здесь очень комфортный. Даже дождь не страшен.",
-    "path": "/converse/aegi/generic/40",
-    "op": "replace"
-  },
-  {
-    "value": "Мой двоюродный брат на днях получил новый Авентор Галлиот. Я немного завидую.",
-    "path": "/converse/aegi/generic/41",
-    "op": "replace"
-  },
-  {
-    "value": "Когда-то я был таким же путешественником, как и вы, но мне наскучила такая жизнь.",
-    "path": "/converse/aegi/generic/42",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что с Землей случилось что-то ужасное.",
-    "path": "/converse/aegi/generic/43",
-    "op": "replace"
-  },
-  {
-    "value": "Я хочу когда-нибудь посетить Скию.",
-    "path": "/converse/aegi/generic/44",
-    "op": "replace"
-  },
-  {
-    "value": "Может быть, посольство Креона и не самое большое, но одно из лучших.",
-    "path": "/converse/aegi/generic/45",
-    "op": "replace"
-  },
-  {
-    "value": "Я хочу когда-нибудь посетить Скию.",
-    "path": "/converse/aegi/generic/46",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нравятся эти глобусы Элитии. Они заставляют меня чувствовать себя маленькой.",
-    "path": "/converse/aegi/generic/47",
-    "op": "replace"
-  },
-  {
-    "value": "В посольстве действительно есть стрельбище. Но для доступа к нему нужен специальный пропуск.",
-    "path": "/converse/aegi/generic/48",
-    "op": "replace"
-  },
-  {
-    "value": "В посольстве есть один авиканский парень. Надеюсь, они тоже когда-нибудь присоединятся к Альянсу.",
-    "path": "/converse/aegi/generic/49",
-    "op": "replace"
-  },
-  {
-    "value": "В посольстве я увидел странного пришельца, кажется, аккимари. Мне стало не по себе.",
-    "path": "/converse/aegi/generic/50",
-    "op": "replace"
-  },
-  {
-    "value": "В ангаре посольства есть отличные тринкианские инженеры и механики.",
-    "path": "/converse/aegi/generic/51",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нравятся рыбки в бассейнах посольства.",
-    "path": "/converse/aegi/generic/52",
-    "op": "replace"
-  },
-  {
-    "value": "Вы уже были в офисе по набору персонала? Там можно легко найти больше членов экипажа.",
-    "path": "/converse/aegi/generic/53",
-    "op": "replace"
-  },
-  {
-    "value": "Я где-то потерял ключи. Возможно, в будке находок мне помогут.",
-    "path": "/converse/aegi/generic/54",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что в канализации живет тринк по кличке Болтер. Звучит заманчиво.",
-    "path": "/converse/aegi/generic/55",
-    "op": "replace"
-  },
-  {
-    "value": "Я видел этот сундук на башне. Интересно, что в нем?",
-    "path": "/converse/aegi/generic/56",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите пойти со мной и посетить стенд Hotbrod?",
-    "path": "/converse/aegi/generic/57",
-    "op": "replace"
-  },
-  {
-    "value": "Я рад, что в посольстве много общественных туалетов.",
-    "path": "/converse/aegi/generic/58",
-    "op": "replace"
-  },
-  {
-    "value": "Я видел солдат на башне посольства. Интересно, зачем они там?",
-    "path": "/converse/aegi/generic/59",
-    "op": "replace"
-  },
-  {
-    "value": "А? О, привет!",
-    "path": "/converse/aegi/generic/60",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нравится видеть, как ночью загораются городские огни.",
-    "path": "/converse/aegi/generic/61",
-    "op": "replace"
-  },
-  {
-    "value": "Мне кажется, я что-то видел на тех скалах возле города.",
-    "path": "/converse/aegi/generic/62",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую вас.",
-    "path": "/converse/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Это место просто завораживает.",
-    "path": "/converse/trink/generic/0",
-    "op": "replace"
-  },
-  {
-    "value": "Это посольство является хорошим представителем Элитийского Альянса.",
-    "path": "/converse/trink/generic/1",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, авикан в посольстве не охотится за машинами...",
-    "path": "/converse/trink/generic/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я помогал проектировать электросеть посольства. Она очень эффективна.",
-    "path": "/converse/trink/generic/3",
-    "op": "replace"
-  },
-  {
-    "value": "В ангарах посольства много тринкианских инженеров. Рад видеть здесь больше таких, как я.",
-    "path": "/converse/trink/generic/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вы впервые посещаете Элитию?",
-    "path": "/converse/trink/generic/5",
-    "op": "replace"
-  },
-  {
-    "value": "Посольство всегда предлагает исключительную связь с Союзной Межзвездной сетью.",
-    "path": "/converse/trink/generic/6",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал о вас! Вы <entityname>, верно?",
-    "path": "/converse/trink/generic/7",
-    "op": "replace"
-  },
-  {
-    "value": "Не заходите в канализацию. Там можно легко заблудиться.",
-    "path": "/converse/trink/generic/8",
-    "op": "replace"
-  },
-  {
-    "value": "Аеги - большие поклонники Hotbrod, но я не понимаю, чем они так очарованы.",
-    "path": "/converse/trink/generic/9",
-    "op": "replace"
-  },
-  {
-    "value": "Офицеры П-АСБ здесь очень бдительны.",
-    "path": "/converse/trink/generic/10",
-    "op": "replace"
-  },
-  {
-    "value": "Вы уже были в Тринкианском посольстве?",
-    "path": "/converse/trink/generic/11",
-    "op": "replace"
-  },
-  {
-    "value": "Лифты в посольстве работают очень эффективно.",
-    "path": "/converse/trink/generic/12",
-    "op": "replace"
-  },
-  {
-    "value": "Завораживает вид деревьев, растущих на вершинах аегианских зданий.. Это очень эффективное использование пространства.",
-    "path": "/converse/trink/generic/13",
-    "op": "replace"
-  },
-  {
-    "value": "Странно видеть здесь так много диких животных. Они нас не боятся.",
-    "path": "/converse/trink/generic/14",
-    "op": "replace"
-  },
-  {
-    "value": "Я слышал, что посольство планируют расширить еще больше. Мне интересно посмотреть, что будет добавлено дальше.",
-    "path": "/converse/trink/generic/15",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, путешественник.",
-    "path": "/converse/trink/generic/16",
-    "op": "replace"
-  },
-  {
-    "value": "На верхних уровнях посольства находится Адмирал Союза. Мне еще не разрешили с ним поговорить.",
-    "path": "/converse/trink/generic/17",
-    "op": "replace"
-  },
-  {
-    "value": "Однажды я пытался войти в Авентор Галлиот. Я не совсем вписался.",
-    "path": "/converse/trink/generic/18",
-    "op": "replace"
-  },
-  {
-    "value": "Приятно видеть, что аеги больше полагаются на общественный транспорт, чем на личный.. Это очень эффективно.",
-    "path": "/converse/trink/generic/19",
-    "op": "replace"
-  },
-  {
-    "value": "Один из этих Транджи лаял на меня раньше. Не думаю, что я ему нравлюсь.",
-    "path": "/converse/trink/generic/20",
-    "op": "replace"
-  },
-  {
-    "value": "Однажды один из кельбетов ударил меня головой. Бедняжка очень сильно поранилась.",
-    "path": "/converse/trink/generic/21",
-    "op": "replace"
-  },
-  {
-    "value": "В городе есть несколько хороших магазинов, но большинство из них не имеют для меня особого значения.",
-    "path": "/converse/trink/generic/22",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть пропуск на территорию посольства. Нет, вы не можете его получить.",
-    "path": "/converse/trink/generic/23",
-    "op": "replace"
-  },
-  {
-    "value": "Я добирался сюда автостопом.",
-    "path": "/converse/trink/generic/24",
-    "op": "replace"
-  },
-  {
-    "value": "Знаете ли вы смысл жизни?",
-    "path": "/converse/trink/generic/25",
-    "op": "replace"
-  },
-  {
-    "value": "Вы когда-нибудь пробовали путешествовать автостопом? Это очень весело.",
-    "path": "/converse/trink/generic/26",
-    "op": "replace"
-  },
-  {
-    "value": "Многие светильники в посольстве включаются только ночью. Мне нравится эффективность этой системы.",
-    "path": "/converse/trink/generic/27",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/converse/default/default/0","value":
+"Мне нечего вам сказать."
+},{"op":"replace","path":"/converse/aegi/default/0","value":
+"О, привет."
+},{"op":"replace","path":"/converse/aegi/generic/0","value":
+"Разве это место не замечательное? Здесь есть все, что мне только может понадобиться!"
+},{"op":"replace","path":"/converse/aegi/generic/1","value":
+"Посольство Креона это действительно нечто, да? Это такое замечательное место, которое стоит посетить"
+},{"op":"replace","path":"/converse/aegi/generic/2","value":
+"Здесь есть люди самых разных видов."
+},{"op":"replace","path":"/converse/aegi/generic/3","value":
+"Вы были на верхнем уровне правительства? Там есть запертая дверь. Интересно, что за ней?"
+},{"op":"replace","path":"/converse/aegi/generic/4","value":
+"В ангарах посольства есть механик, который чинит сломанные машины."
+},{"op":"replace","path":"/converse/aegi/generic/5","value":
+"Женщина на стойке регистрации в посольстве была мне очень полезна."
+},{"op":"replace","path":"/converse/aegi/generic/6","value":
+"Я бы тоже хотел быть послом. Какие места я бы посетил..."
+},{"op":"replace","path":"/converse/aegi/generic/7","value":
+"Видя город вдали, я всегда чувствую себя счастливым."
+},{"op":"replace","path":"/converse/aegi/generic/8","value":
+"Баннеры в посольстве - это так здорово. Заставляют нас всех чувствовать связь."
+},{"op":"replace","path":"/converse/aegi/generic/9","value":
+"Однажды я побывал в канализации под городом. Там страшновато."
+},{"op":"replace","path":"/converse/aegi/generic/10","value":
+"Я слышал странные звуки в канализации под городом. Может, мне стоит сообщить о них в П-АСБ..."
+},{"op":"replace","path":"/converse/aegi/generic/11","value":
+"Я видел здесь странных людей. Я был немного напуган."
+},{"op":"replace","path":"/converse/aegi/generic/12","value":
+"Сады здесь такие красивые."
+},{"op":"replace","path":"/converse/aegi/generic/13","value":
+"В городе есть замечательный сувенирный магазин."
+},{"op":"replace","path":"/converse/aegi/generic/14","value":
+"В городе есть магазин, где продают плакаты. Я хотел плакат НСИ, но он довольно дорогой."
+},{"op":"replace","path":"/converse/aegi/generic/15","value":
+"Что привело вас сегодня в посольство?"
+},{"op":"replace","path":"/converse/aegi/generic/16","value":
+"Вы часто здесь бываете?"
+},{"op":"replace","path":"/converse/aegi/generic/17","value":
+"Вы, должно быть, видели невероятные места."
+},{"op":"replace","path":"/converse/aegi/generic/18","value":
+"Я опять забыл, где припарковал свой экраноплан. Надеюсь, я не оставил его на крыше, как в прошлый раз..."
+},{"op":"replace","path":"/converse/aegi/generic/19","value":
+"Кельбет здесь такой спокойный."
+},{"op":"replace","path":"/converse/aegi/generic/20","value":
+"Я хочу транджи."
+},{"op":"replace","path":"/converse/aegi/generic/21","value":
+"Мой питомец транджи должен быть где-то здесь."
+},{"op":"replace","path":"/converse/aegi/generic/22","value":
+"В автосалоне города продается несколько отличных автомобилей."
+},{"op":"replace","path":"/converse/aegi/generic/23","value":
+"Книжный магазин в городе небольшой, но довольно хороший."
+},{"op":"replace","path":"/converse/aegi/generic/24","value":
+"Интересно, почему канализация запрещена?"
+},{"op":"replace","path":"/converse/aegi/generic/25","value":
+"Хочешь выпить?"
+},{"op":"replace","path":"/converse/aegi/generic/26","value":
+"У меня есть дом в большом городе. Вы можете увидеть его отсюда."
+},{"op":"replace","path":"/converse/aegi/generic/27","value":
+"Я бы хотела жить в большом городе."
+},{"op":"replace","path":"/converse/aegi/generic/28","value":
+"Креон - удивительный город."
+},{"op":"replace","path":"/converse/aegi/generic/29","value":
+"Город официально называется посольской деревней. На самом деле он не является частью Креона, но на самом краю."
+},{"op":"replace","path":"/converse/aegi/generic/30","value":
+"В посольстве так много лифтов."
+},{"op":"replace","path":"/converse/aegi/generic/31","value":
+"Я хочу пойти домой и поиграть в какую-нибудь игру."
+},{"op":"replace","path":"/converse/aegi/generic/32","value":
+"Я недавно закончила школу!"
+},{"op":"replace","path":"/converse/aegi/generic/33","value":
+"Наблюдение за экранопланами вдали успокаивает."
+},{"op":"replace","path":"/converse/aegi/generic/34","value":
+"Интересно, насколько высока та башня вдалеке?"
+},{"op":"replace","path":"/converse/aegi/generic/35","value":
+"Посольство Креона - это такое большое здание."
+},{"op":"replace","path":"/converse/aegi/generic/36","value":
+"Однажды я хочу посетить колонии."
+},{"op":"replace","path":"/converse/aegi/generic/37","value":
+"Вы когда-нибудь бывали в одной из колоний Союза? Что там было?"
+},{"op":"replace","path":"/converse/aegi/generic/38","value":
+"В здешних парках невероятно спокойно."
+},{"op":"replace","path":"/converse/aegi/generic/39","value":
+"У меня снова началась сенная лихорадка."
+},{"op":"replace","path":"/converse/aegi/generic/40","value":
+"Климат здесь очень комфортный. Даже дождь не страшен."
+},{"op":"replace","path":"/converse/aegi/generic/41","value":
+"Мой двоюродный брат на днях получил новый Авентор Галлиот. Я немного завидую."
+},{"op":"replace","path":"/converse/aegi/generic/42","value":
+"Когда-то я был таким же путешественником, как и вы, но мне наскучила такая жизнь."
+},{"op":"replace","path":"/converse/aegi/generic/43","value":
+"Я слышал, что с Землей случилось что-то ужасное."
+},{"op":"replace","path":"/converse/aegi/generic/44","value":
+"Я хочу когда-нибудь посетить Скию."
+},{"op":"replace","path":"/converse/aegi/generic/45","value":
+"Может быть, посольство Креона и не самое большое, но одно из лучших."
+},{"op":"replace","path":"/converse/aegi/generic/46","value":
+"Я хочу когда-нибудь посетить Скию."
+},{"op":"replace","path":"/converse/aegi/generic/47","value":
+"Мне нравятся эти глобусы Элитии. Они заставляют меня чувствовать себя маленькой."
+},{"op":"replace","path":"/converse/aegi/generic/48","value":
+"В посольстве действительно есть стрельбище. Но для доступа к нему нужен специальный пропуск."
+},{"op":"replace","path":"/converse/aegi/generic/49","value":
+"В посольстве есть один авиканский парень. Надеюсь, они тоже когда-нибудь присоединятся к Альянсу."
+},{"op":"replace","path":"/converse/aegi/generic/50","value":
+"В посольстве я увидел странного пришельца, кажется, аккимари. Мне стало не по себе."
+},{"op":"replace","path":"/converse/aegi/generic/51","value":
+"В ангаре посольства есть отличные тринкианские инженеры и механики."
+},{"op":"replace","path":"/converse/aegi/generic/52","value":
+"Мне нравятся рыбки в бассейнах посольства."
+},{"op":"replace","path":"/converse/aegi/generic/53","value":
+"Вы уже были в офисе по набору персонала? Там можно легко найти больше членов экипажа."
+},{"op":"replace","path":"/converse/aegi/generic/54","value":
+"Я где-то потерял ключи. Возможно, в будке находок мне помогут."
+},{"op":"replace","path":"/converse/aegi/generic/55","value":
+"Я слышал, что в канализации живет тринк по кличке Болтер. Звучит заманчиво."
+},{"op":"replace","path":"/converse/aegi/generic/56","value":
+"Я видел этот сундук на башне. Интересно, что в нем?"
+},{"op":"replace","path":"/converse/aegi/generic/57","value":
+"Хотите пойти со мной и посетить стенд Hotbrod?"
+},{"op":"replace","path":"/converse/aegi/generic/58","value":
+"Я рад, что в посольстве много общественных туалетов."
+},{"op":"replace","path":"/converse/aegi/generic/59","value":
+"Я видел солдат на башне посольства. Интересно, зачем они там?"
+},{"op":"replace","path":"/converse/aegi/generic/60","value":
+"А? О, привет!"
+},{"op":"replace","path":"/converse/aegi/generic/61","value":
+"Мне нравится видеть, как ночью загораются городские огни."
+},{"op":"replace","path":"/converse/aegi/generic/62","value":
+"Мне кажется, я что-то видел на тех скалах возле города."
+},{"op":"replace","path":"/converse/trink/default/0","value":
+"Приветствую вас."
+},{"op":"replace","path":"/converse/trink/generic/0","value":
+"Это место просто завораживает."
+},{"op":"replace","path":"/converse/trink/generic/1","value":
+"Это посольство является хорошим представителем Элитийского Альянса."
+},{"op":"replace","path":"/converse/trink/generic/2","value":
+"Надеюсь, авикан в посольстве не охотится за машинами..."
+},{"op":"replace","path":"/converse/trink/generic/3","value":
+"Я помогал проектировать электросеть посольства. Она очень эффективна."
+},{"op":"replace","path":"/converse/trink/generic/4","value":
+"В ангарах посольства много тринкианских инженеров. Рад видеть здесь больше таких, как я."
+},{"op":"replace","path":"/converse/trink/generic/5","value":
+"Вы впервые посещаете Элитию?"
+},{"op":"replace","path":"/converse/trink/generic/6","value":
+"Посольство всегда предлагает исключительную связь с Союзной Межзвездной сетью."
+},{"op":"replace","path":"/converse/trink/generic/7","value":
+"Я слышал о вас! Вы <entityname>, верно?"
+},{"op":"replace","path":"/converse/trink/generic/8","value":
+"Не заходите в канализацию. Там можно легко заблудиться."
+},{"op":"replace","path":"/converse/trink/generic/9","value":
+"Аеги - большие поклонники Hotbrod, но я не понимаю, чем они так очарованы."
+},{"op":"replace","path":"/converse/trink/generic/10","value":
+"Офицеры П-АСБ здесь очень бдительны."
+},{"op":"replace","path":"/converse/trink/generic/11","value":
+"Вы уже были в Тринкианском посольстве?"
+},{"op":"replace","path":"/converse/trink/generic/12","value":
+"Лифты в посольстве работают очень эффективно."
+},{"op":"replace","path":"/converse/trink/generic/13","value":
+"Завораживает вид деревьев, растущих на вершинах аегианских зданий.. Это очень эффективное использование пространства."
+},{"op":"replace","path":"/converse/trink/generic/14","value":
+"Странно видеть здесь так много диких животных. Они нас не боятся."
+},{"op":"replace","path":"/converse/trink/generic/15","value":
+"Я слышал, что посольство планируют расширить еще больше. Мне интересно посмотреть, что будет добавлено дальше."
+},{"op":"replace","path":"/converse/trink/generic/16","value":
+"Приветствую тебя, путешественник."
+},{"op":"replace","path":"/converse/trink/generic/17","value":
+"На верхних уровнях посольства находится Адмирал Союза. Мне еще не разрешили с ним поговорить."
+},{"op":"replace","path":"/converse/trink/generic/18","value":
+"Однажды я пытался войти в Авентор Галлиот. Я не совсем вписался."
+},{"op":"replace","path":"/converse/trink/generic/19","value":
+"Приятно видеть, что аеги больше полагаются на общественный транспорт, чем на личный.. Это очень эффективно."
+},{"op":"replace","path":"/converse/trink/generic/20","value":
+"Один из этих Транджи лаял на меня раньше. Не думаю, что я ему нравлюсь."
+},{"op":"replace","path":"/converse/trink/generic/21","value":
+"Однажды один из кельбетов ударил меня головой. Бедняжка очень сильно поранилась."
+},{"op":"replace","path":"/converse/trink/generic/22","value":
+"В городе есть несколько хороших магазинов, но большинство из них не имеют для меня особого значения."
+},{"op":"replace","path":"/converse/trink/generic/23","value":
+"У меня есть пропуск на территорию посольства. Нет, вы не можете его получить."
+},{"op":"replace","path":"/converse/trink/generic/24","value":
+"Я добирался сюда автостопом."
+},{"op":"replace","path":"/converse/trink/generic/25","value":
+"Знаете ли вы смысл жизни?"
+},{"op":"replace","path":"/converse/trink/generic/26","value":
+"Вы когда-нибудь пробовали путешествовать автостопом? Это очень весело."
+},{"op":"replace","path":"/converse/trink/generic/27","value":
+"Многие светильники в посольстве включаются только ночью. Мне нравится эффективность этой системы."
+}]

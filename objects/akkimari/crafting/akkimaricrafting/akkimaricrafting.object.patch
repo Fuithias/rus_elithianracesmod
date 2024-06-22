@@ -1,282 +1,113 @@
-[
-  {
-    "value": "^orange;Мастерская Скрангера^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый мастер-класс с простыми инструментами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой лоскутный мастер-класс.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская. У него также есть базовая наковальня.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Давайте что-нибудь придумаем!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто базовый семинар. Ничего особенного.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несмотря на простоту инструментов, здесь можно было изготовить многое.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты просто ждут, чтобы их использовали.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый семинар. Не хватает некоторых инструментов...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такое ощущение, что его собрали из металлолома...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта мастерская была построена очень плохо.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки мастерит здесь вещи. Не нужны инструменты-много.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мастерская Скрангера^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый мастер-класс с простыми инструментами.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой лоскутный мастер-класс.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская. У него также есть базовая наковальня.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Давайте что-нибудь придумаем!",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто базовый семинар. Ничего особенного.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несмотря на простоту инструментов, здесь можно было изготовить многое.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты просто ждут, чтобы их использовали.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый семинар. Не хватает некоторых инструментов...",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такое ощущение, что его собрали из металлолома...",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта мастерская была построена очень плохо.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки мастерит здесь вещи. Не нужны инструменты-много.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мастерская фуражиров^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская с небольшой настольной печью.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простая печь действительно помогает разнообразить этот мастер-класс.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый семинар. Эта маленькая печь должна быть полезной.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Давайте что-нибудь придумаем!",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этой мастерской есть крошечная печь. Аккуратный.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тепло небольшой встроенной печи вполне комфортное.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты просто ждут, чтобы их использовали.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязная мастерская. Эта печь должна пригодиться.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это немного грубовато, но эта мастерская вполне функциональна.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Умеренно эффективная конструкция для мастерской.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Обнаружена миниатюрная печь для низкоинтенсивной плавки.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленькая печь делает этот мастер-класс завершенным.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мастерская рейдеров^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокотехнологичная мастерская, способная быстро создавать материалы.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "В этой мастерской можно быстро создавать предметы из сырья.",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде высокотехнологичного крафтового пространства.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению вещей.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Это устройство позволяет быстро создавать предметы из сырья.",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не уверен, как работает этот дефив, но то, как он создает предметы, выглядит круто!",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство позволяет быстро создавать предметы из простого сырья.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то вроде строительного устройства. Что произойдет, если я суну руку?",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокопрофильный семинар. Это напоминает мне агрегат Multi-Fabricator.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне следует сделать заметки о том, как работает это устройство. Кочевники могли бы чему-то научиться из этого.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокоэффективное, хотя и несколько небезопасное устройство для крафта.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Невозможно определить используемый метод строительства.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки подвозит материалы, станция строит вещи – много.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Мастерская Скрангера^white;"
+},{"op":"replace","path":"/description","value":
+"Базовый мастер-класс с простыми инструментами."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой лоскутный мастер-класс."
+},{"op":"replace","path":"/avianDescription","value":
+"Мастерская. У него также есть базовая наковальня."
+},{"op":"replace","path":"/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Давайте что-нибудь придумаем!"
+},{"op":"replace","path":"/humanDescription","value":
+"Просто базовый семинар. Ничего особенного."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Несмотря на простоту инструментов, здесь можно было изготовить многое."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эти инструменты просто ждут, чтобы их использовали."
+},{"op":"replace","path":"/aegiDescription","value":
+"Базовый семинар. Не хватает некоторых инструментов..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Такое ощущение, что его собрали из металлолома..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта мастерская была построена очень плохо."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки мастерит здесь вещи. Не нужны инструменты-много."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Мастерская Скрангера^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Базовый мастер-класс с простыми инструментами."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Простой лоскутный мастер-класс."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Мастерская. У него также есть базовая наковальня."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Взволнованный. Давайте что-нибудь придумаем!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Просто базовый семинар. Ничего особенного."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Несмотря на простоту инструментов, здесь можно было изготовить многое."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Эти инструменты просто ждут, чтобы их использовали."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Базовый семинар. Не хватает некоторых инструментов..."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Такое ощущение, что его собрали из металлолома..."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Эта мастерская была построена очень плохо."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки мастерит здесь вещи. Не нужны инструменты-много."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Мастерская фуражиров^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Мастерская с небольшой настольной печью."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Простая печь действительно помогает разнообразить этот мастер-класс."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Базовый семинар. Эта маленькая печь должна быть полезной."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Взволнованный. Давайте что-нибудь придумаем!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"В этой мастерской есть крошечная печь. Аккуратный."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Тепло небольшой встроенной печи вполне комфортное."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Эти инструменты просто ждут, чтобы их использовали."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Грязная мастерская. Эта печь должна пригодиться."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Это немного грубовато, но эта мастерская вполне функциональна."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Умеренно эффективная конструкция для мастерской."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Мастерская. Обнаружена миниатюрная печь для низкоинтенсивной плавки."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Маленькая печь делает этот мастер-класс завершенным."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange;Мастерская рейдеров^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Высокотехнологичная мастерская, способная быстро создавать материалы."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"В этой мастерской можно быстро создавать предметы из сырья."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"Что-то вроде высокотехнологичного крафтового пространства."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Мастерская по изготовлению вещей."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Впечатленный. Это устройство позволяет быстро создавать предметы из сырья."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Я не уверен, как работает этот дефив, но то, как он создает предметы, выглядит круто!"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Это устройство позволяет быстро создавать предметы из простого сырья."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"Что-то вроде строительного устройства. Что произойдет, если я суну руку?"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"Высокопрофильный семинар. Это напоминает мне агрегат Multi-Fabricator."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"Мне следует сделать заметки о том, как работает это устройство. Кочевники могли бы чему-то научиться из этого."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Высокоэффективное, хотя и несколько небезопасное устройство для крафта."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Мастерская. Невозможно определить используемый метод строительства."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Акки подвозит материалы, станция строит вещи – много."
+}]

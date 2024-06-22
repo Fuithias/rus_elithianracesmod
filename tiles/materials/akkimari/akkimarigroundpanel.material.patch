@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Панель пола Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические панели из лома, используемые как пол.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Неуютно. Это не выглядит очень надежным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран думает, что эта панель для хождения.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический пол... Мне больше нравится звук ботинок по дереву.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлический пол.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панели-металлические для пола.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Панель пола Акрис"
+},{"op":"replace","path":"/description","value":
+"Металлические панели из лома, используемые как пол."
+},{"op":"replace","path":"/glitchDescription","value":
+"Неуютно. Это не выглядит очень надежным."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран думает, что эта панель для хождения."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлический пол... Мне больше нравится звук ботинок по дереву."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлический пол."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панели-металлические для пола."
+}]

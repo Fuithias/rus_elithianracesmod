@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Внутренняя стена Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая обшивка, вероятно используемая как внутренняя стена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Эта металлическая обшивка вероятно служит внутренней стеной.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические стены.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то металлическая стена.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая внутренняя стена.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стены-пластины-внутренние. Дома-аккимари нуждаются в них.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Внутренняя стена Акрис"
+},{"op":"replace","path":"/description","value":
+"Металлическая обшивка, вероятно используемая как внутренняя стена."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Эта металлическая обшивка вероятно служит внутренней стеной."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлические стены."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то металлическая стена."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая внутренняя стена."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стены-пластины-внутренние. Дома-аккимари нуждаются в них."
+}]

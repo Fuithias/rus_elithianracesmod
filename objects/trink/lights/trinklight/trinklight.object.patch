@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкиан Лайт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет от дизайна Trink.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Зелёная световая полоса.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Ссшины.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Зеленый свет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет. Как странно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет. Это кажется неестественным.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зелёная световая полоса.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленый свет. Как странно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет. Цвет: зеленый.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Светло-зеленый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкиан Лайт"
+},{"op":"replace","path":"/description","value":
+"Зеленый свет от дизайна тринков."
+},{"op":"replace","path":"/apexDescription","value":
+"Зелёная световая полоса."
+},{"op":"replace","path":"/avianDescription","value":
+"Зеленый свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет. Ссшины."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Зеленый свет."
+},{"op":"replace","path":"/humanDescription","value":
+"Зеленый свет. Как странно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Зеленый свет. Это кажется неестественным."
+},{"op":"replace","path":"/aegiDescription","value":
+"Зелёная световая полоса."
+},{"op":"replace","path":"/avikanDescription","value":
+"Зеленый свет. Как странно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Свет."
+},{"op":"replace","path":"/drodenDescription","value":
+"Свет. Цвет: зеленый."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Светло-зеленый."
+}]

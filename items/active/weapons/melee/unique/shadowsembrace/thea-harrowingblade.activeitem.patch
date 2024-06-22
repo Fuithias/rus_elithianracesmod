@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Длинный тонкий клинок, созданный для Ужасающего.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Ужасающий^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Клинок Ужасающего",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Длинный тонкий клинок, созданный для Ужасающего."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Ужасающий^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Клинок Ужасающего"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+}]

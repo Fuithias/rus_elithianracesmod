@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Ржавый шаттл Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавый шаттл, давно вышедший из строя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавый шаттл. На данный момент это бесполезно никому, кроме мусорщиков.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бесполезный ржавый шаттл. Его крылья были подрезаны временем.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вышедший шаттл бесполезен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Опечаленный. Этот автомобиль пережил лучшие свои времена.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот шаттл проржавел насквозь. Сейчас это не более чем металлолом.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Некогда красивый шаттл, разрушенный временем и погодой.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабль проржавевший, теперь он бесполезен.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот ASA-26 Ranger знавал лучшие времена. Я сомневаюсь, что он когда-нибудь снова полетит.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавый инопланетный корабль.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рейнджеру нужно немало времени, чтобы начать ржаветь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен космический корабль пришельцев. Статус: списан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки разбирай детали, делай новый корабль. Корабль-лучше!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Ржавый шаттл Альянса"
+},{"op":"replace","path":"/description","value":
+"Ржавый шаттл, давно вышедший из строя."
+},{"op":"replace","path":"/apexDescription","value":
+"Ржавый шаттл. На данный момент это бесполезно никому, кроме мусорщиков."
+},{"op":"replace","path":"/avianDescription","value":
+"Бесполезный ржавый шаттл. Его крылья были подрезаны временем."
+},{"op":"replace","path":"/floranDescription","value":
+"Вышедший шаттл бесполезен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Опечаленный. Этот автомобиль пережил лучшие свои времена."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот шаттл проржавел насквозь. Сейчас это не более чем металлолом."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Некогда красивый шаттл, разрушенный временем и погодой."
+},{"op":"replace","path":"/novakidDescription","value":
+"Корабль проржавевший, теперь он бесполезен."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот АСБ-26 Рейнджер знавал лучшие времена. Я сомневаюсь, что он когда-нибудь снова полетит."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ржавый инопланетный корабль."
+},{"op":"replace","path":"/trinkDescription","value":
+"Рейнджеру нужно немало времени, чтобы начать ржаветь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен космический корабль пришельцев. Статус: списан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки разбирай детали, делай новый корабль. Корабль-лучше!"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Шелковая набедренная повязка, которую носят те, кто работает в горнах.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поясная повязка горновщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Шелковая набедренная повязка, которую носят те, кто работает в горнах."
+},{"op":"replace","path":"/shortdescription","value":
+"Поясная повязка горновщика"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Навес",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный навес, создающий тень в пустыне.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный балдахин. Эффектно, но не очень красиво.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий кожаный балдахин.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой кожаный балдахин.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный навес, простой, но эффективный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный балдахин. Простой, но эффективный.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный навес, обеспечивающий тень в солнечную погоду.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В пустыне такой простой навес станет благословением в течение дня.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенный, но эффективный кожаный навес.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен кожаный балдахин. Обеспечивает тень в течение дня.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Навес для тени, Акки защищает от солнца.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Навес"
+},{"op":"replace","path":"/description","value":
+"Кожаный навес, создающий тень в пустыне."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный балдахин. Эффектно, но не очень красиво."
+},{"op":"replace","path":"/avianDescription","value":
+"Мягкий кожаный балдахин."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой кожаный балдахин."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаный навес, простой, но эффективный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кожаный балдахин. Простой, но эффективный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой кожаный навес, обеспечивающий тень в солнечную погоду."
+},{"op":"replace","path":"/avikanDescription","value":
+"В пустыне такой простой навес станет благословением в течение дня."
+},{"op":"replace","path":"/trinkDescription","value":
+"Упрощенный, но эффективный кожаный навес."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен кожаный балдахин. Обеспечивает тень в течение дня."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Навес для тени, Акки защищает от солнца."
+}]

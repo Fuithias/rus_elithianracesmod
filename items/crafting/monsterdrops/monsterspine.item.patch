@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Позвоночник инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Позвоночник монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Позвоночник инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Позвоночник монстра"
+}]

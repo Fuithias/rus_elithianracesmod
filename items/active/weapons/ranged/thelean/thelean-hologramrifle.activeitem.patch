@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^gray;Голографическая винтовка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма Сол'тасс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голограмма",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Голографическая винтовка."
+},{"op":"replace","path":"/shortdescription","value":
+"Голограмма Сол'тасс"
+},{"op":"replace","path":"/category","value":
+"Голограмма"
+}]

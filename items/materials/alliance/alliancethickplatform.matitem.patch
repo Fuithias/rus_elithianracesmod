@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Толстая металлическая платформа. Очень прочный.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Толстая платформа альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Толстая металлическая платформа. Очень прочный."
+},{"op":"replace","path":"/shortdescription","value":
+"Толстая платформа альянса"
+}]

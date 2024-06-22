@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Консоль",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерная консоль, способная соединять цепи вместе.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль для управления подключенными объектами.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель, вероятно, управляет механизмами поблизости.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что произойдет, если я коснусь этих кнопок?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель управления какая-то.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая консоль с еще более блестящим интерфейсом.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный интерфейс, конечно. Консоли Аккимари для меня не имеют смысла.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой интерфейс. Я не могу понять этого.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль, созданная Аккимари. Интерфейс мне незнаком.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Консоль. Расшифровка интерфейса не удалась.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль для управления механизмом. Акки соединяет все воедино.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Консоль"
+},{"op":"replace","path":"/description","value":
+"Компьютерная консоль, способная соединять цепи вместе."
+},{"op":"replace","path":"/apexDescription","value":
+"Консоль для управления подключенными объектами."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта панель, вероятно, управляет механизмами поблизости."
+},{"op":"replace","path":"/floranDescription","value":
+"Ссс блестящие пуговицы, Флоран нажимает?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что произойдет, если я коснусь этих кнопок?"
+},{"op":"replace","path":"/humanDescription","value":
+"Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Панель управления какая-то."
+},{"op":"replace","path":"/novakidDescription","value":
+"Блестящая консоль с еще более блестящим интерфейсом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Странный интерфейс, конечно. Консоли Аккимари для меня не имеют смысла."
+},{"op":"replace","path":"/avikanDescription","value":
+"Чужой интерфейс. Я не могу понять этого."
+},{"op":"replace","path":"/trinkDescription","value":
+"Консоль, созданная Аккимари. Интерфейс мне незнаком."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Консоль. Расшифровка интерфейса не удалась."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Консоль для управления механизмом. Акки соединяет все воедино."
+}]

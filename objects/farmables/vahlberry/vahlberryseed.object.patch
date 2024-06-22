@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семена Валберри",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сочные ягоды, полные витаминов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "На этом растении растут яркие ягоды. Они выглядят восхитительно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вкусные ягоды!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся мягкие ягоды.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Измельчение этих ягод может привести к образованию липкого беспорядка.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродные ягоды, они выглядят очень вкусно!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркие фрукты из другого мира. Безопасно ли есть?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ягоды. Крошечные шарики сахара.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Валберри – любимое блюдо эгинцев.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродный фрукт. Я не уверен, стоит ли мне пытаться их съесть.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Валберри популярны среди эги.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Анализ: плодоносящее растение. Богат витаминами.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки наслаждается дегустацией новых вкусов. Ягоды выглядят аппетитно!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семена Валберри"
+},{"op":"replace","path":"/description","value":
+"Сочные ягоды, полные витаминов."
+},{"op":"replace","path":"/apexDescription","value":
+"На этом растении растут яркие ягоды. Они выглядят восхитительно."
+},{"op":"replace","path":"/avianDescription","value":
+"Вкусные ягоды!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся мягкие ягоды."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Измельчение этих ягод может привести к образованию липкого беспорядка."
+},{"op":"replace","path":"/humanDescription","value":
+"Чужеродные ягоды, они выглядят очень вкусно!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Яркие фрукты из другого мира. Безопасно ли есть?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Ягоды. Крошечные шарики сахара."
+},{"op":"replace","path":"/aegiDescription","value":
+"Валберри – любимое блюдо эгинцев."
+},{"op":"replace","path":"/avikanDescription","value":
+"Чужеродный фрукт. Я не уверен, стоит ли мне пытаться их съесть."
+},{"op":"replace","path":"/trinkDescription","value":
+"Валберри популярны среди эги."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Анализ: плодоносящее растение. Богат витаминами."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки наслаждается дегустацией новых вкусов. Ягоды выглядят аппетитно!"
+}]

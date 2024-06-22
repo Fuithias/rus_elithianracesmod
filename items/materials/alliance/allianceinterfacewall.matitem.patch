@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Экран интерфейса интегрирован в настенную панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стена интерфейса Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Экран интерфейса интегрирован в настенную панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Стена интерфейса Альянса"
+}]

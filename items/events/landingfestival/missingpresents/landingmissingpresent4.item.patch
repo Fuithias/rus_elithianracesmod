@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Пропавший подарок Фестиваля высадки. Верните его Следопыту!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пропал подарок 4",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Пропавший подарок праздника Приземления. Верните его Следопыту!"
+},{"op":"replace","path":"/shortdescription","value":
+"Пропал подарок 4"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

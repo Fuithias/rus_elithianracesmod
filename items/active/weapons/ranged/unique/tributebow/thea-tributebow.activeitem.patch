@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Мощный лук, созданный в честь Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Элитийский лук^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рекурсивный лук",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Опрокидная стрела",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Мощный лук, созданный в честь Элитии."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Элитийский лук^white;"
+},{"op":"replace","path":"/category","value":
+"Рекурсивный лук"
+},{"op":"replace","path":"/altAbility/name","value":
+"Опрокидная стрела"
+}]

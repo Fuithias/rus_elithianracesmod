@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Номер три",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер три, в сценарии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Номер три в инопланетном сценарии.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой номер. Я считаю, что это три.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что означает инопланетный символ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот инопланетный символ означает три.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Три в каком-то инопланетном сценарии.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный символ числа три.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это число означает три.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер три.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Число. Три.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-чужой. Три, думает Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номер три"
+},{"op":"replace","path":"/description","value":
+"Номер три, в сценарии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Номер три в инопланетном сценарии."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужой номер. Я считаю, что это три."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что означает инопланетный символ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот инопланетный символ означает три."
+},{"op":"replace","path":"/humanDescription","value":
+"Три в каком-то инопланетном сценарии."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетный символ числа три."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это число означает три."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номер три."
+},{"op":"replace","path":"/drodenDescription","value":
+"Число. Три."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Номер-чужой. Три, думает Акки."
+}]

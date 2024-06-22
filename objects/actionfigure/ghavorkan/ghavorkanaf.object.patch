@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фигурка Гаворкана",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этикетке написано: «Извращенное существо, созданное телеанцами».",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фигурка Гаворкана"
+},{"op":"replace","path":"/description","value":
+"На этикетке написано: Извращенное существо, созданное телеанцами."
+}]

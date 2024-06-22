@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Трангии Плюшевые",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка Трангии из мягких тканей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Чучело животного. Хотя я не уверен, что это за животное.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чучело животного. Игрушка для самых маленьких.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это кажется милым.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обожаю. Этот плюшевый милый.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это как плюшевая космическая собака. Я люблю это!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное, но очаровательное существо.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то собака.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плюшевый Транги. Довольно популярный в Союзе.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушечная версия инопланетного животного.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушки доставляют удовольствие, и эта мягкая игрушка Трангии не разочаровывает.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная игрушка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вроде еда-хорошая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Трангии Плюшевые"
+},{"op":"replace","path":"/description","value":
+"Игрушка Трангии из мягких тканей."
+},{"op":"replace","path":"/apexDescription","value":
+"Чучело животного. Хотя я не уверен, что это за животное."
+},{"op":"replace","path":"/avianDescription","value":
+"Чучело животного. Игрушка для самых маленьких."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это кажется милым."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обожаю. Этот плюшевый милый."
+},{"op":"replace","path":"/humanDescription","value":
+"Это как плюшевая космическая собака. Я люблю это!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Странное, но очаровательное существо."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то собака."
+},{"op":"replace","path":"/aegiDescription","value":
+"Плюшевый Транги. Довольно популярный в Союзе."
+},{"op":"replace","path":"/avikanDescription","value":
+"Игрушечная версия инопланетного животного."
+},{"op":"replace","path":"/trinkDescription","value":
+"Игрушки доставляют удовольствие, и эта мягкая игрушка Трангии не разочаровывает."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная игрушка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вроде еда-хорошая."
+}]

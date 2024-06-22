@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Мед-магазин",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенный шкаф, полный медикаментов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический шкаф, вероятно, для медикаментов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на аптечку первой помощи.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, что там внутри?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С облегчением. Медицинские товары всегда приветствуются.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полагаю, это что-то вроде медицинского кабинета.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом шкафу лежат обезболивающие и другие анодирующие средства.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кабинет для поддержания здоровья.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф с лекарствами Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этих медицинских магазинах продаются медикаменты для экстренного использования.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри, вероятно, можно найти аптечку неотложной медицинской помощи.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен одобренный Nomada магазин Med. Содержит предметы первой необходимости.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кабинет-медицина. Акки не хочет исцеления-инопланетянина.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Мед-магазин"
+},{"op":"replace","path":"/description","value":
+"Настенный шкаф, полный медикаментов."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический шкаф, вероятно, для медикаментов."
+},{"op":"replace","path":"/avianDescription","value":
+"Это похоже на аптечку первой помощи."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, что там внутри?"
+},{"op":"replace","path":"/glitchDescription","value":
+"С облегчением. Медицинские товары всегда приветствуются."
+},{"op":"replace","path":"/humanDescription","value":
+"Полагаю, это что-то вроде медицинского кабинета."
+},{"op":"replace","path":"/hylotlDescription","value":
+"В этом шкафу лежат обезболивающие и другие анодирующие средства."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кабинет для поддержания здоровья."
+},{"op":"replace","path":"/aegiDescription","value":
+"Шкаф с лекарствами Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"В этих медицинских магазинах продаются медикаменты для экстренного использования."
+},{"op":"replace","path":"/trinkDescription","value":
+"Внутри, вероятно, можно найти аптечку неотложной медицинской помощи."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен одобренный Номада магазин Med. Содержит предметы первой необходимости."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кабинет-медицина. Акки не хочет исцеления-инопланетянина."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлические прутья.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Канализационные бары Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлические прутья."
+},{"op":"replace","path":"/shortdescription","value":
+"Канализационные бары Альянса"
+}]

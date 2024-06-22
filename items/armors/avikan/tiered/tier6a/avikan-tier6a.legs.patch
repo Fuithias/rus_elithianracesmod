@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Великолепная металлическая юбка, надеваемая членами Клангарда авикан. Энергичная версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка Клангарда тип-А",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Великолепная металлическая юбка, надеваемая членами Клангарда авикан. Энергичная версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка Клангарда в.-Э"
+}]

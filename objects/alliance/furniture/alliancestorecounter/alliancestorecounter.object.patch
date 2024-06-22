@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Прилавок магазина Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина. Я должен подтвердить свои покупки здесь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто прилавок магазина.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Прилавок магазина.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь покупки совершаются окончательные.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Собрала ли я все свои продукты?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то инопланетный стол. Может быть, здесь сидят торговцы?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прилавок магазина. Также имеется место для демонстрации продукции.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен счетчик пришельцев.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не платят. Акки воруй!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Прилавок магазина Альянса"
+},{"op":"replace","path":"/description","value":
+"Прилавок магазина."
+},{"op":"replace","path":"/apexDescription","value":
+"Прилавок магазина. Я должен подтвердить свои покупки здесь."
+},{"op":"replace","path":"/avianDescription","value":
+"Просто прилавок магазина."
+},{"op":"replace","path":"/floranDescription","value":
+"Прилавок магазина."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Прилавок магазина."
+},{"op":"replace","path":"/humanDescription","value":
+"Прилавок магазина."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь покупки совершаются окончательные."
+},{"op":"replace","path":"/novakidDescription","value":
+"Собрала ли я все свои продукты?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Прилавок магазина."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то инопланетный стол. Может быть, здесь сидят торговцы?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Прилавок магазина. Также имеется место для демонстрации продукции."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен счетчик пришельцев."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не платят. Акки воруй!"
+}]

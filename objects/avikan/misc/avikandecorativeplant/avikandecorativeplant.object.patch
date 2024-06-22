@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Декоративный завод Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Коллекция экзотических растений и трав.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Свежие зеленые растения. Символ свободы.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простые растения.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растения без цветов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Эти растения пахнут невероятно свежестью.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Комнатные растения всегда поднимают мне настроение.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "За этими растениями ухаживают с большим трудом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленые растения. Это нормально, да?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан очень заботятся о тех немногих растениях, которые у них есть.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здоровые растения – признак богатства.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти растения очень эффективно используют воду.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаруженные растения. Состояние: здоров.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение-инопланетянин, запах странный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Декоративный завод Авикан"
+},{"op":"replace","path":"/description","value":
+"Коллекция экзотических растений и трав."
+},{"op":"replace","path":"/apexDescription","value":
+"Свежие зеленые растения. Символ свободы."
+},{"op":"replace","path":"/avianDescription","value":
+"Простые растения."
+},{"op":"replace","path":"/floranDescription","value":
+"Растения без цветов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Довольный. Эти растения пахнут невероятно свежестью."
+},{"op":"replace","path":"/humanDescription","value":
+"Комнатные растения всегда поднимают мне настроение."
+},{"op":"replace","path":"/hylotlDescription","value":
+"За этими растениями ухаживают с большим трудом."
+},{"op":"replace","path":"/novakidDescription","value":
+"Зеленые растения. Это нормально, да?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Авикан очень заботятся о тех немногих растениях, которые у них есть."
+},{"op":"replace","path":"/avikanDescription","value":
+"Здоровые растения – признак богатства."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эти растения очень эффективно используют воду."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаруженные растения. Состояние: здоров."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение-инопланетянин, запах странный."
+}]

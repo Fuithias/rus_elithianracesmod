@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Запечатанный тайник, содержащий предметы события «Мучение». Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мучительный тайник",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Запечатанный тайник, содержащий предметы события Мучение. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
+},{"op":"replace","path":"/shortdescription","value":
+"Мучительный тайник"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Обычно я бы не обратился за помощью к незнакомцу, но здесь мои возможности ограничены...",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обычно я бы не обратился за помощью к незнакомцу, но здесь мои возможности ограничены...",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Обычно я бы не обратился за помощью к незнакомцу, но здесь мои возможности ограничены..."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Обычно я бы не обратился за помощью к незнакомцу, но здесь мои возможности ограничены..."
+}]

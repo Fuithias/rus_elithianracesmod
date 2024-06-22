@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Плащ авиканца, сделанный из двух длинных листов кожи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плащ авиканца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Плащ авиканца, сделанный из двух длинных листов кожи."
+},{"op":"replace","path":"/shortdescription","value":
+"Плащ авиканца"
+}]

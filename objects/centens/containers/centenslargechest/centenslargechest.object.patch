@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Большой столетний контейнер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний металлический контейнер.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелый металлический контейнер. Выглядит очень старым.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Великолепный металлический сундук.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Старые сундуки дают лучшую добычу!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Автоматический запирающий механизм этого древнего контейнера все еще работает.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний сундук? Наверное, полно вкусностей!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Древний контейнер. Что он может хранить?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсианский контейнер. Возможно, там хранятся какие-то артефакты.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер из Древних. В них часто хранятся артефакты Старой Цивилизации.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсианский контейнер. Он старый, но механизм его открывания все еще работает.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен центенский контейнер. Содержание неизвестно.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранилище бога-создателя, Акки находит внутри ценные вещи.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большой столетний контейнер"
+},{"op":"replace","path":"/description","value":
+"Древний металлический контейнер."
+},{"op":"replace","path":"/apexDescription","value":
+"Тяжелый металлический контейнер. Выглядит очень старым."
+},{"op":"replace","path":"/avianDescription","value":
+"Великолепный металлический сундук."
+},{"op":"replace","path":"/floranDescription","value":
+"Старые сундуки дают лучшую добычу!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Автоматический запирающий механизм этого древнего контейнера все еще работает."
+},{"op":"replace","path":"/humanDescription","value":
+"Древний сундук? Наверное, полно вкусностей!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Древний контейнер. Что он может хранить?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Центенский контейнер. Возможно, там хранятся какие-то артефакты."
+},{"op":"replace","path":"/avikanDescription","value":
+"Контейнер из Древних. В них часто хранятся артефакты Старой Цивилизации."
+},{"op":"replace","path":"/trinkDescription","value":
+"Центенский контейнер. Он старый, но механизм его открывания все еще работает."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен центенский контейнер. Содержание неизвестно."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Хранилище бога-создателя, Акки находит внутри ценные вещи."
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Оружие, которым когда-то владел легендарный охотник на теллов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Лук Теллобоя^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Три-выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Оружие, которым когда-то владел легендарный охотник на теллов."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Стрел Теллобоя^white;"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Три-выстрел"
+}]

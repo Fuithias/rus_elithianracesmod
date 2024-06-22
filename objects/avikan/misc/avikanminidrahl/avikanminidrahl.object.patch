@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный Дралид",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленький неактивный дрон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой дрон, вероятно, используемый в разведывательных целях.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон. Я не знаю, как он может летать...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон не пугает Флорана. Флоран, черт возьми, ничтожный глупец.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот дрон, скорее всего, предназначен для разведывательных целей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крошечный дрон. Он автономный или дистанционно управляемый?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой разведывательный дрон.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то крошечный дрон.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой разведывательный дрон. В него не встроено никакого оружия.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дралид. Мы используем их для разведки местности перед отправкой наших войск.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой разведывательный дрон, мало чем отличающийся от нашего.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен отряд Дралидов. Статус: неактивен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон-маленький, забавный.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный Дралид"
+},{"op":"replace","path":"/description","value":
+"Маленький неактивный дрон."
+},{"op":"replace","path":"/apexDescription","value":
+"Небольшой дрон, вероятно, используемый в разведывательных целях."
+},{"op":"replace","path":"/avianDescription","value":
+"Крошечный дрон. Я не знаю, как он может летать..."
+},{"op":"replace","path":"/floranDescription","value":
+"Крошечный дрон не пугает Флорана. Флоран, черт возьми, ничтожный глупец."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот дрон, скорее всего, предназначен для разведывательных целей."
+},{"op":"replace","path":"/humanDescription","value":
+"Крошечный дрон. Он автономный или дистанционно управляемый?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Небольшой разведывательный дрон."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то крошечный дрон."
+},{"op":"replace","path":"/aegiDescription","value":
+"Небольшой разведывательный дрон. В него не встроено никакого оружия."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дралид. Мы используем их для разведки местности перед отправкой наших войск."
+},{"op":"replace","path":"/trinkDescription","value":
+"Небольшой разведывательный дрон, мало чем отличающийся от нашего."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен отряд Дралидов. Статус: неактивен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дрон-маленький, забавный."
+}]

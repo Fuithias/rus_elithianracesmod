@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Дилер автомобилей",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "  Все лучшие автомобили",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть только поездка для тебя!",
-    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам нужны еще машины, я ваш человек!",
-    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Пройдите за мной в мой офис, пожалуйста.",
-    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Садитесь, пожалуйста!",
-    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ищете поездку? Вы пришли в нужное место!",
-    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
+"Дилер автомобилей"
+},{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
+"  Все лучшие автомобили"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/start/default/default/0","value":
+"У меня есть только поездка для тебя!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/end/default/default/0","value":
+"Если вам нужны еще машины, я ваш человек!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/follow/default/default/0","value":
+"Пройдите за мной в мой офис, пожалуйста."
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/welcome/default/default/0","value":
+"Садитесь, пожалуйста!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/tout/default/default/0","value":
+"Ищете поездку? Вы пришли в нужное место!"
+}]

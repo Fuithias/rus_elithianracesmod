@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Ягоды Валль, смешанные с различными газированными напитками, придают причудливый, но восхитительный вкус.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Vahlberry Содовая смесь",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Ягоды Валль, смешанные с различными газированными напитками, придают причудливый, но восхитительный вкус."
+},{"op":"replace","path":"/shortdescription","value":
+"Vahlberry Содовая смесь"
+}]

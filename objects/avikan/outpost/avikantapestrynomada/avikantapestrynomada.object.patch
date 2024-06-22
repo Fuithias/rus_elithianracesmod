@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гобелен Авикан Кочевник",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен с эмблемой Кочевника.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На гобеленах повсюду следы инопланетян...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный гобелен. В него встроена инопланетная эмблема.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой кожаный гобелен с эмблемой Авикан Кочевника.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой кожаный гобелен с эмблемой нашего великого Кочевника.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой кожаный гобелен с эмблемой Авикан Кочевника.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема Авикан Номада.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баннер-большой, для Номады.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Авикан Кочевник"
+},{"op":"replace","path":"/description","value":
+"Кожаный гобелен с эмблемой Кочевника."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/floranDescription","value":
+"На гобеленах повсюду следы инопланетян..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаный гобелен. В него встроена инопланетная эмблема."
+},{"op":"replace","path":"/aegiDescription","value":
+"Большой кожаный гобелен с эмблемой Авикан Кочевника."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большой кожаный гобелен с эмблемой нашего великого Кочевника."
+},{"op":"replace","path":"/trinkDescription","value":
+"Большой кожаный гобелен с эмблемой Авикан Кочевника."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема Авикан Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Баннер-большой, для Номады."
+}]

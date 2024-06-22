@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Запечатанный свиток, подаренный мне авиканским звездочетом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Послание Звездного Путешественника^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Запечатанный свиток, подаренный мне авиканским звездочетом."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Послание Звездного Путешественника^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

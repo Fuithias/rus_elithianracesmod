@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Модификации рук, используемые тринками Рубежа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод руки Рубежника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ ГРУДИ. ^white;Модификации рук, используемые тринками Рубежа."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод руки Рубежника"
+}]

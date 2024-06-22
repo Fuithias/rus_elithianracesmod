@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Массивная шоковая дубинка, предназначенная для обездвиживания врагов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Фабрика тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Дебилизатор СБ-4^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ударная дубинка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Оглушающий разряд",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Массивная шоковая дубинка, предназначенная для обездвиживания врагов."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Дебилизатор СБ-4^white;"
+},{"op":"replace","path":"/category","value":
+"Ударная дубинка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Оглушающий разряд"
+}]

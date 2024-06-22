@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Тяжелая шиповая пушка, собранная аккимари.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Келрааки^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Шип-пушка Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шип-пушка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Тяжелая шиповая пушка, собранная аккимари.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Келрааки^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Шип-пушка Акриса"
+},{"op":"replace","path":"/category","value":
+"Шип-пушка"
+}]

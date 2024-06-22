@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Капсула командира Тринка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан сидит здесь и управляет кораблем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Модуль управления, используемый роботом, управляющим этим кораблем.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Громоздкая капсула управления для командира корабля.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический ящик для сидения?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ожидание. Куда дальше?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это то, что капитан использует для управления кораблем? Как странно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Модуль управления с интерфейсом управления кораблем.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это должно быть что-то вроде сиденья? Конечно, это выглядит неуютно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринк используют подобные капсулы управления для управления своими кораблями.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель управления машиной, управляющей этим кораблем.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот модуль управления обеспечивает доступ к навигационному интерфейсу корабля.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная технология. Анализ: модуль управления кораблём.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кресло-капитан. Связано с консольной навигацией.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Капсула командира Тринка"
+},{"op":"replace","path":"/description","value":
+"Капитан сидит здесь и управляет кораблем."
+},{"op":"replace","path":"/apexDescription","value":
+"Модуль управления, используемый роботом, управляющим этим кораблем."
+},{"op":"replace","path":"/avianDescription","value":
+"Громоздкая капсула управления для командира корабля."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлический ящик для сидения?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Ожидание. Куда дальше?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это то, что капитан использует для управления кораблем? Как странно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Модуль управления с интерфейсом управления кораблем."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это должно быть что-то вроде сиденья? Конечно, это выглядит неуютно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринк используют подобные капсулы управления для управления своими кораблями."
+},{"op":"replace","path":"/avikanDescription","value":
+"Панель управления машиной, управляющей этим кораблем."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот модуль управления обеспечивает доступ к навигационному интерфейсу корабля."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная технология. Анализ: модуль управления кораблём."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кресло-капитан. Связано с консольной навигацией."
+}]

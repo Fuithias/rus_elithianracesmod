@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя Врелли",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокое растение ярко-красного цвета.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Толстые красные листья. Уверена, из них можно приготовить что-нибудь съедобное.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ярко-красное растение.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся ярко-красные листья.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Ярко-красные листья.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ярко-красное растение. Это съедобно?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстые, ярко-красные листья. Странное инопланетное растение.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Среди таких растений можно было хорошо спрятаться.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странные, толстые листья ярко-красного цвета.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное растение. Выглядит съедобно, но я не уверен, что это безопасно.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Из этих листьев, измельченных в порошок, можно сделать хорошую пасту.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена местная флора Акриса. Врелли уходит.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки собери Врелли, раздави в порошок. Приготовьте из него паштет-вкусно!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя Врелли"
+},{"op":"replace","path":"/description","value":
+"Высокое растение ярко-красного цвета."
+},{"op":"replace","path":"/apexDescription","value":
+"Толстые красные листья. Уверена, из них можно приготовить что-нибудь съедобное."
+},{"op":"replace","path":"/avianDescription","value":
+"Ярко-красное растение."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся ярко-красные листья."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Ярко-красные листья."
+},{"op":"replace","path":"/humanDescription","value":
+"Ярко-красное растение. Это съедобно?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Толстые, ярко-красные листья. Странное инопланетное растение."
+},{"op":"replace","path":"/novakidDescription","value":
+"Среди таких растений можно было хорошо спрятаться."
+},{"op":"replace","path":"/aegiDescription","value":
+"Странные, толстые листья ярко-красного цвета."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетное растение. Выглядит съедобно, но я не уверен, что это безопасно."
+},{"op":"replace","path":"/trinkDescription","value":
+"Из этих листьев, измельченных в порошок, можно сделать хорошую пасту."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена местная флора Акриса. Врелли уходит."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки собери Врелли, раздави в порошок. Приготовьте из него паштет-вкусно!"
+}]

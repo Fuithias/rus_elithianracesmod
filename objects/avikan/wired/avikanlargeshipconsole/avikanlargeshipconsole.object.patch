@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Консоль корабля «Авикан»",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая компьютерная консоль для соединения цепей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пульт управления частями корабля.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель управляет определенными частями корабля.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтересовано. Эта система управления мне незнакома.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель управления, интерфейс для меня новый.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль с необычным интерфейсом. Я ничего в этом не понимаю.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль, разработанная Avikan. Для меня его интерфейс слишком сложен.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль для взаимодействия с различными системами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс этой консоли был разработан для рук Авикан.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Консоль. Используется для взаимодействия с различными системами.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль-управление. Акки не знает интерфейса.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Консоль корабля Авикан"
+},{"op":"replace","path":"/description","value":
+"Большая компьютерная консоль для соединения цепей."
+},{"op":"replace","path":"/apexDescription","value":
+"Пульт управления частями корабля."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта панель управляет определенными частями корабля."
+},{"op":"replace","path":"/floranDescription","value":
+"Ссс блестящие пуговицы, Флоран нажимает?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтересовано. Эта система управления мне незнакома."
+},{"op":"replace","path":"/humanDescription","value":
+"Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Панель управления, интерфейс для меня новый."
+},{"op":"replace","path":"/novakidDescription","value":
+"Консоль с необычным интерфейсом. Я ничего в этом не понимаю."
+},{"op":"replace","path":"/aegiDescription","value":
+"Консоль, разработанная авикан. Для меня его интерфейс слишком сложен."
+},{"op":"replace","path":"/avikanDescription","value":
+"Консоль для взаимодействия с различными системами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Интерфейс этой консоли был разработан для рук Авикан."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Консоль. Используется для взаимодействия с различными системами."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Консоль-управление. Акки не знает интерфейса."
+}]

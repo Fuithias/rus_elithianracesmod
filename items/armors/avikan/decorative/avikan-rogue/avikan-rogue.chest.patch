@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Одежда, предпочитаемая теми, кто хочет оставаться анонимным.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Одеяния изгоя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Одежда, предпочитаемая теми, кто хочет оставаться анонимным."
+},{"op":"replace","path":"/shortdescription","value":
+"Одеяния изгоя"
+}]

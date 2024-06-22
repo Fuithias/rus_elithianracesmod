@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тонкий стол Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол. Блестящий.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Стол.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол. Кто-то должен это почистить.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Качественный металлический стол.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол. Не такой громоздкий, как большинство других столов, разработанных Avikan.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический стол из дома.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тонкий металлический стол, изготовленный компанией «Авикан».",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены пятна. Рекомендуемое действие: очистить.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Таблица-простая. Акки скучно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тонкий стол Авикан"
+},{"op":"replace","path":"/description","value":
+"Металлический стол."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический стол."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлический стол. Блестящий."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Стол."
+},{"op":"replace","path":"/humanDescription","value":
+"Металлический стол. Кто-то должен это почистить."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Качественный металлический стол."
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлический стол. Не такой громоздкий, как большинство других столов, разработанных авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Металлический стол из дома."
+},{"op":"replace","path":"/trinkDescription","value":
+"Тонкий металлический стол, изготовленный компанией Авикан."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены пятна. Рекомендуемое действие: очистить."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Таблица-простая. Акки скучно."
+}]

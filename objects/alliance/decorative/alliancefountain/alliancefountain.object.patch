@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Фонтан Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивый фонтан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Симпатичный фонтан. Звук воды успокаивает.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой фонтан. Напоминает купальню для птиц.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода – источник жизни для Флорана.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Расслабился. Звуки этой воды успокаивают.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если бы у меня была копейка, я бы ее бросил.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красивая чистая вода. Иногда я скучаю по океану.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то блестящая статуя, извергающая воду.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фонтан. Его звук всегда успокаивал меня.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетяне тратят воду разными способами...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот фонтан почти не тратит воду. Это довольно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен источник воды. Рекомендую экстракцию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода течет. Акки испытывает жажду.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фонтан Альянса"
+},{"op":"replace","path":"/description","value":
+"Красивый фонтан."
+},{"op":"replace","path":"/apexDescription","value":
+"Симпатичный фонтан. Звук воды успокаивает."
+},{"op":"replace","path":"/avianDescription","value":
+"Большой фонтан. Напоминает купальню для птиц."
+},{"op":"replace","path":"/floranDescription","value":
+"Вода – источник жизни для Флорана."
+},{"op":"replace","path":"/glitchDescription","value":
+"Расслабился. Звуки этой воды успокаивают."
+},{"op":"replace","path":"/humanDescription","value":
+"Если бы у меня была копейка, я бы ее бросил."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Красивая чистая вода. Иногда я скучаю по океану."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то блестящая статуя, извергающая воду."
+},{"op":"replace","path":"/aegiDescription","value":
+"Фонтан. Его звук всегда успокаивал меня."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетяне тратят воду разными способами..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот фонтан почти не тратит воду. Это довольно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен источник воды. Рекомендую экстракцию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вода течет. Акки испытывает жажду."
+}]

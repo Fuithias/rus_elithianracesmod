@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Неприметная кожаная юбка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка изгоя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Неприметная кожаная юбка."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка изгоя"
+}]

@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Плантатор Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный горшок с местной элитийской флорой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран против того, чтобы складывать растения в ящики.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Длинный горшок, полный растений.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растения-инопланетяне.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Плантатор Альянса"
+},{"op":"replace","path":"/description","value":
+"Длинный горшок с местной элитийской флорой."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран против того, чтобы складывать растения в ящики."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Длинный горшок, полный растений."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Анализ биохимии."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растения-инопланетяне."
+}]

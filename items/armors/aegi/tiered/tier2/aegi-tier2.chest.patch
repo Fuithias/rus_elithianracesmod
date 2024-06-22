@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Прочный нагрудный знак, который часто носят аегинские навигаторы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Нагрудник навигатора",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Прочный нагрудный знак, который часто носят аегинские навигаторы."
+},{"op":"replace","path":"/shortdescription","value":
+"Нагрудник навигатора"
+}]

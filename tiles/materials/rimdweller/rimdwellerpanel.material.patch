@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Панель из Края",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавые старые металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Недоволен. Кто-то должен отполировать эту панель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавые металлические панели хороши для массажа.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель, нуждающаяся в полировке.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая панель. Обнаружено умеренное ухудшение.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-ржавая, акки не сможет её очистить.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Панель из Края"
+},{"op":"replace","path":"/description","value":
+"Ржавые старые металлические панели."
+},{"op":"replace","path":"/glitchDescription","value":
+"Недоволен. Кто-то должен отполировать эту панель."
+},{"op":"replace","path":"/floranDescription","value":
+"Ржавые металлические панели хороши для массажа."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлическая панель, нуждающаяся в полировке."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая панель. Обнаружено умеренное ухудшение."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-ржавая, акки не сможет её очистить."
+}]

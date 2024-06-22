@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Чрезвычайно прочные баллистические штаны и металлические ботинки. Силовая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Боевые штаны Союза тип-М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Чрезвычайно прочные баллистические штаны и металлические ботинки. Силовая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Боевые штаны Союза в.-С"
+}]

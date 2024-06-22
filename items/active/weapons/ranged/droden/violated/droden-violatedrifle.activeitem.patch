@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Взломанная дроденская штурмовая винтовка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Нарушенные/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Нарушенная дроденская винтовка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Взломанная дроденская штурмовая винтовка."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Нарушенные/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Нарушенная дроденская винтовка"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+}]

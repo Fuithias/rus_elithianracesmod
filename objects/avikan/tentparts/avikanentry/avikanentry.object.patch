@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Тент",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент из кожи, используемый для защиты входа в дома Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент. Не очень хорошо проработано.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкий кожаный тент.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Примитивный кожаный тент.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент? Как примитивно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный кожаный тент.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный тент. Обеспечивает хорошую защиту от пустынных ветров.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но функциональный кожаный тент — важная часть любой палатки.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный тент. Обеспечивает защиту от ветров пустыни.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тент для палатки, Акки заходим внутрь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Тент"
+},{"op":"replace","path":"/description","value":
+"Тент из кожи, используемый для защиты входа в дома Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный тент. Не очень хорошо проработано."
+},{"op":"replace","path":"/avianDescription","value":
+"Мягкий кожаный тент."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Примитивный кожаный тент."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаный тент? Как примитивно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивный кожаный тент."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой кожаный тент. Обеспечивает хорошую защиту от пустынных ветров."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой, но функциональный кожаный тент — важная часть любой палатки."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный тент."
+},{"op":"replace","path":"/drodenDescription","value":
+"Кожаный тент. Обеспечивает защиту от ветров пустыни."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Тент для палатки, Акки заходим внутрь."
+}]

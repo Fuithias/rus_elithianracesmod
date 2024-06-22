@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Верхний лист Райода",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыша шатра, оформленная в стиле Райода.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фиолетовая крыша шатра.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыша шатра из фиолетовой ткани.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Фиолетовая палатка на крыше.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Крыша шатра фиолетового цвета.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист фиолетовой ткани выполняет функцию крыши палатки.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыша этой палатки окрашена в странный фиолетовый цвет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист украшен цветами Райода.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист палатки Райод. В наших лагерях это всегда выделяется.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот верхний лист украшен цветами Райода.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист. Цвет предполагает, что эта палатка принадлежит Райоду.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Листовая верхняя часть выполняет роль крыши.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Верхний лист Райода"
+},{"op":"replace","path":"/description","value":
+"Крыша шатра, оформленная в стиле Райода."
+},{"op":"replace","path":"/apexDescription","value":
+"Фиолетовая крыша шатра."
+},{"op":"replace","path":"/avianDescription","value":
+"Крыша шатра из фиолетовой ткани."
+},{"op":"replace","path":"/floranDescription","value":
+"Фиолетовая палатка на крыше."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Крыша шатра фиолетового цвета."
+},{"op":"replace","path":"/humanDescription","value":
+"Лист фиолетовой ткани выполняет функцию крыши палатки."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Крыша этой палатки окрашена в странный фиолетовый цвет."
+},{"op":"replace","path":"/aegiDescription","value":
+"Верхний лист украшен цветами Райода."
+},{"op":"replace","path":"/avikanDescription","value":
+"Верхний лист палатки Райод. В наших лагерях это всегда выделяется."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот верхний лист украшен цветами Райода."
+},{"op":"replace","path":"/drodenDescription","value":
+"Верхний лист. Цвет предполагает, что эта палатка принадлежит Райоду."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Листовая верхняя часть выполняет роль крыши."
+}]

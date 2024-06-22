@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Торговец плакатами",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "  Плакаты для всех!",
-    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть все плакаты, которые вам когда-либо понадобятся.",
-    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вернись!",
-    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин находится там.",
-    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мы здесь. Какие плакаты вы ищете?",
-    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Все плакаты, которые вам когда-либо понадобятся, прямо здесь!",
-    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
+"Торговец плакатами"
+},{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
+"  Плакаты для всех!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/start/default/default/0","value":
+"У меня есть все плакаты, которые вам когда-либо понадобятся."
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/end/default/default/0","value":
+"Вернись!"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/follow/default/default/0","value":
+"Мой магазин находится там."
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/welcome/default/default/0","value":
+"Мы здесь. Какие плакаты вы ищете?"
+},{"op":"replace","path":"/scriptConfig/dialog/merchant/tout/default/default/0","value":
+"Все плакаты, которые вам когда-либо понадобятся, прямо здесь!"
+}]

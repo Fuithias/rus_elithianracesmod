@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Терминал центрального контура",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой терминал связи, напрямую подключенный к цепи.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, это большой терминал связи.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интерфейс связи, но я понятия не имею, к чему он подключается.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что это такое.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Перегруженный. Данные, проходящие через этот терминал связи, слишком велики для меня.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал для связи с... чем-то.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, этот терминал важен для местных жителей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то терминал, конечно, но я не знаю, что он делает.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал, подключенный к цепи. Это позволяет практически мгновенно общаться независимо от расстояния.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Терминал связи, построенный и используемый машинами. Авангард хотел бы, чтобы я его уничтожил.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот терминал позволяет мне общаться с любыми другими подобными терминалами по всей галактике.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен машинный терминал связи. Рекомендуемое действие: демонтировать.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль-большая, должно быть важна. Акки попробуй прочитать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Терминал центрального контура"
+},{"op":"replace","path":"/description","value":
+"Большой терминал связи, напрямую подключенный к цепи."
+},{"op":"replace","path":"/apexDescription","value":
+"Я думаю, это большой терминал связи."
+},{"op":"replace","path":"/avianDescription","value":
+"Интерфейс связи, но я понятия не имею, к чему он подключается."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что это такое."
+},{"op":"replace","path":"/glitchDescription","value":
+"Перегруженный. Данные, проходящие через этот терминал связи, слишком велики для меня."
+},{"op":"replace","path":"/humanDescription","value":
+"Терминал для связи с... чем-то."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Похоже, этот терминал важен для местных жителей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то терминал, конечно, но я не знаю, что он делает."
+},{"op":"replace","path":"/aegiDescription","value":
+"Терминал, подключенный к цепи. Это позволяет практически мгновенно общаться независимо от расстояния."
+},{"op":"replace","path":"/avikanDescription","value":
+"Терминал связи, построенный и используемый машинами. Авангард хотел бы, чтобы я его уничтожил."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот терминал позволяет мне общаться с любыми другими подобными терминалами по всей галактике."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен машинный терминал связи. Рекомендуемое действие: демонтировать."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Консоль-большая, должно быть важна. Акки попробуй прочитать."
+}]

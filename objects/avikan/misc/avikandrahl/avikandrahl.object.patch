@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный Драл",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный боевой и разведывательный дрон.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон. Он оснащен некоторым базовым вооружением.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я бы хотел летать так, как умеет этот дрон.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сможет ли Флоран оседлать дронсссс?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Жаждущий. Мне бы очень хотелось, чтобы такой дрон сопровождал меня в моих путешествиях.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон, способный вести разведку и вести бой.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Универсальный дрон. Это быстро, надежно и эффективно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон. Не уверен, что он будет летать дальше.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканцы называют этих дронов Дралами.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что такой Драл был бы полезным компаньоном.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Энергопотребление этого дрона удивительно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен отряд Драла. Статус: неактивен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дрон-маленький, Акки бой?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный Драл"
+},{"op":"replace","path":"/description","value":
+"Неактивный боевой и разведывательный дрон."
+},{"op":"replace","path":"/apexDescription","value":
+"Дрон. Он оснащен некоторым базовым вооружением."
+},{"op":"replace","path":"/avianDescription","value":
+"Я бы хотел летать так, как умеет этот дрон."
+},{"op":"replace","path":"/floranDescription","value":
+"Сможет ли Флоран оседлать дронсссс?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Жаждущий. Мне бы очень хотелось, чтобы такой дрон сопровождал меня в моих путешествиях."
+},{"op":"replace","path":"/humanDescription","value":
+"Дрон, способный вести разведку и вести бой."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Универсальный дрон. Это быстро, надежно и эффективно."
+},{"op":"replace","path":"/novakidDescription","value":
+"Дрон. Не уверен, что он будет летать дальше."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авиканцы называют этих дронов Дралами."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я уверен, что такой Драл был бы полезным компаньоном."
+},{"op":"replace","path":"/trinkDescription","value":
+"Энергопотребление этого дрона удивительно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен отряд Драла. Статус: неактивен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дрон-маленький, Акки бой?"
+}]

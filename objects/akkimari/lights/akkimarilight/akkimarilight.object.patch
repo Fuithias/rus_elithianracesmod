@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Настольный Светильник",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нежная настольная лампа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Настольная лампа. Он мягко пульсирует.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта настольная лампа заставляет меня чувствовать себя спокойно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спокойствие. Этот пульсирующий свет расслабляет.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот пульсирующий свет вызывает ощущение спокойствия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маленькая настольная лампа, слегка пульсирующая.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет. Это успокаивает аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная лампа. Свет какой-то странный.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий свет.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен пульсирующий источник света.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки словно светится пульсирующим светом. Акки чувствует себя спокойно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Настольный Светильник"
+},{"op":"replace","path":"/description","value":
+"Нежная настольная лампа."
+},{"op":"replace","path":"/apexDescription","value":
+"Настольная лампа. Он мягко пульсирует."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта настольная лампа заставляет меня чувствовать себя спокойно."
+},{"op":"replace","path":"/floranDescription","value":
+"Пульсирующий свет."
+},{"op":"replace","path":"/glitchDescription","value":
+"Спокойствие. Этот пульсирующий свет расслабляет."
+},{"op":"replace","path":"/humanDescription","value":
+"Пульсирующий свет."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот пульсирующий свет вызывает ощущение спокойствия."
+},{"op":"replace","path":"/novakidDescription","value":
+"Маленькая настольная лампа, слегка пульсирующая."
+},{"op":"replace","path":"/aegiDescription","value":
+"Пульсирующий свет. Это успокаивает аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная лампа. Свет какой-то странный."
+},{"op":"replace","path":"/trinkDescription","value":
+"Пульсирующий свет."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен пульсирующий источник света."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки словно светится пульсирующим светом. Акки чувствует себя спокойно."
+}]

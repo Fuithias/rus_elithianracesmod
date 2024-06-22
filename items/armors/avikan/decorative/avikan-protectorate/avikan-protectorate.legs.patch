@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Модифицированная униформа Терренского Протектората, специально сшитая для авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка Протектората",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Модифицированная униформа Терренского Протектората, специально сшитая для авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка Протектората"
+}]

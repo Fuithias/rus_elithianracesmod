@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Банка вкусного Коруса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Корус Кан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Банка вкусного Коруса."
+},{"op":"replace","path":"/shortdescription","value":
+"Корус Кан"
+}]

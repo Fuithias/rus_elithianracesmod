@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Металлический нагрудник с внутренним охлаждением. Энергичная версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Броня Номады тип-А",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Металлический нагрудник с внутренним охлаждением. Энергичная версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Броня Номады в.-Э"
+}]

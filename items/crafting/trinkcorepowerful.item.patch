@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Силовое ядро ​​для кольцевой брони. Увеличивает силу пользователя.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Схема Ядро-М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Силовое ядро ​​для кольцевой брони. Увеличивает силу пользователя."
+},{"op":"replace","path":"/shortdescription","value":
+"Схема Ядро-М"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Броня, которую носят Почетные Капитаны Номады.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Броня почетного капитана",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Броня, которую носят Почетные Капитаны Номады."
+},{"op":"replace","path":"/shortdescription","value":
+"Броня почетного капитана"
+}]

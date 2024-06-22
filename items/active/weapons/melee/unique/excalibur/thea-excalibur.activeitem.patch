@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Грандиозный Аэвис, созданный в честь семьи Таемера.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Аэвирское вооружение^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Экскалибур^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щит-меч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Грандиозный Аэвис, созданный в честь семьи Таемера."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Аэвирское вооружение^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Экскалибур^white;"
+},{"op":"replace","path":"/category","value":
+"Щит-меч"
+}]

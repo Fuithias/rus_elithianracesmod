@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Штурмовая винтовка с высоким темпом стрельбы.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;ПАМ^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Гелиос И-16Б",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Штурмовая винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Штурмовая винтовка с высоким темпом стрельбы.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;ПАИ^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Гелиос И-16Б"
+},{"op":"replace","path":"/category","value":
+"Штурмовая винтовка"
+}]

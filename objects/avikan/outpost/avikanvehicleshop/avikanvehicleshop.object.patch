@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Лицензированные автомобили Джакара",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, здесь можно приобрести транспортные средства.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может покупать здесь транспортные средства.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Похоже, этот торговец продает автомобили.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это подходящее место, чтобы купить мне нового металлического скакуна.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дистрибьютор автомобилей, сертифицированный Nomada. Однако для большинства покупок мне понадобится лицензия.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Торговец обнаружен. Предлагает автомобили, сертифицированные Nomada.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возьми новые машины, катайся, летай.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Лицензированные автомобили Джакара"
+},{"op":"replace","path":"/description","value":
+"Кажется, здесь можно приобрести транспортные средства."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может покупать здесь транспортные средства."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Похоже, этот торговец продает автомобили."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это подходящее место, чтобы купить мне нового металлического скакуна."
+},{"op":"replace","path":"/avikanDescription","value":
+"Дистрибьютор автомобилей, сертифицированный Номада. Однако для большинства покупок мне понадобится лицензия."
+},{"op":"replace","path":"/drodenDescription","value":
+"Торговец обнаружен. Предлагает автомобили, сертифицированные Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки возьми новые машины, катайся, летай."
+}]

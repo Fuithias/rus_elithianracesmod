@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Одобренное Номадой улучшение каркаса. Энергичная версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Каркас Номады тип-А",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Одобренное Номадой улучшение каркаса. Энергичная версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Каркас Номады в.-Э"
+}]

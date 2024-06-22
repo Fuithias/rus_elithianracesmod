@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^orange;Таймер",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не должны видеть это в своем журнале!",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Вы не должны видеть это в своем журнале!",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Вы уже получили подарок сегодня!",
-    "path": "/scriptConfig/debugText",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Таймер"
+},{"op":"replace","path":"/text","value":
+"Вы не должны видеть это в своем журнале!"
+},{"op":"replace","path":"/completionText","value":
+"Вы не должны видеть это в своем журнале!"
+},{"op":"replace","path":"/scriptConfig/debugText","value":
+"Вы уже получили подарок сегодня!"
+}]

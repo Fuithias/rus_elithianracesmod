@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Номер восемь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер восемь в сценарии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Номер восемь в инопланетном сценарии.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой номер. Я считаю, что это восемь.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что означает инопланетный символ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот инопланетный символ означает восемь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Восемь в каком-то инопланетном сценарии.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный символ числа восемь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это число означает восемь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер восемь.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Число. Восемь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-чужой. Восемь, думает Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номер восемь"
+},{"op":"replace","path":"/description","value":
+"Номер восемь в сценарии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Номер восемь в инопланетном сценарии."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужой номер. Я считаю, что это восемь."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что означает инопланетный символ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот инопланетный символ означает восемь."
+},{"op":"replace","path":"/humanDescription","value":
+"Восемь в каком-то инопланетном сценарии."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетный символ числа восемь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это число означает восемь."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номер восемь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Число. Восемь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Номер-чужой. Восемь, думает Акки."
+}]

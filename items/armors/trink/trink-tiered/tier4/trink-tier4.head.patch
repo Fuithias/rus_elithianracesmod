@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из среднесортного дюростали.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод оптики Марк IV",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ ГОЛОВЫ. ^white;Мод оптики из среднесортного дюростали."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод оптики Мк IV"
+}]

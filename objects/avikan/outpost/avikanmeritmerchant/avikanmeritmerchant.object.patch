@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Обмен токенов Nomada",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь жетоны заслуг можно обменять на различные товары.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Если Флоран дает жетоны человека-робота, человек-робот дает Флорану предметы.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Соблазненный. Здесь жетоны заслуг можно обменять на различные товары.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Если я хочу торговать здесь, у меня должны быть какие-то знаки отличия.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь жетоны заслуг можно обменять на различные товары.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Торговец обнаружен. Покупки совершаются с использованием жетонов заслуг.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки покупайте вещи за жетоны. Акки не нравится.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Обмен токенов Номада"
+},{"op":"replace","path":"/description","value":
+"Здесь жетоны заслуг можно обменять на различные товары."
+},{"op":"replace","path":"/floranDescription","value":
+"Если Флоран даёт жетоны человека-робота, человек-робот даёт Флорану предметы."
+},{"op":"replace","path":"/glitchDescription","value":
+"Соблазненный. Здесь жетоны заслуг можно обменять на различные товары."
+},{"op":"replace","path":"/novakidDescription","value":
+"Если я хочу торговать здесь, у меня должны быть какие-то знаки отличия."
+},{"op":"replace","path":"/avikanDescription","value":
+"Здесь жетоны заслуг можно обменять на различные товары."
+},{"op":"replace","path":"/drodenDescription","value":
+"Торговец обнаружен. Покупки совершаются с использованием жетонов заслуг."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки покупайте вещи за жетоны. Акки не нравится."
+}]

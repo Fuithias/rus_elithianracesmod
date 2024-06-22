@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Многоствольный огонь",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Многоствольный огонь"
+}]

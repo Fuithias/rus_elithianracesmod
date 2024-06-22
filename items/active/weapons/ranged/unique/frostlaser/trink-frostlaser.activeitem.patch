@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Ледяной лазер, который замораживает цели намертво.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Завод тринков^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;ДС-03 МОРОЗ^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хладопушка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Облако МОРОЗ",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Ледяной лазер, который замораживает цели намертво."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Завод тринков^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;ДС-03 МОРОЗ^white;"
+},{"op":"replace","path":"/category","value":
+"Хладопушка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Облако МОРОЗ"
+}]

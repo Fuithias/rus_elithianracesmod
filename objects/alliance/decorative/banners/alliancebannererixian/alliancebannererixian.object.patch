@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Знамя Эриксийской Республики",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Знамя, украшенное гербом Эриксийской Республики.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нравятся красочные баннеры.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эриксийской Республики.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки знаю, что это символ Республики-Эриксиан.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Знамя Эриксийской Республики"
+},{"op":"replace","path":"/description","value":
+"Знамя, украшенное гербом Эриксийской Республики."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нравятся красочные баннеры."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эриксийской Республики."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки знаю, что это символ Республики-Эриксиан."
+}]

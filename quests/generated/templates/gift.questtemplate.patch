@@ -1,62 +1,25 @@
-[
-  {
-    "value": "^cyan;Я хочу произвести впечатление на <target> отличным подарком, но мне нужна ваша помощь!",
-    "path": "/scriptConfig/generatedText/goalText/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "^cyan;Я хочу сделать что-то приятное для моего друга, но мне нужна помощь. Вы можете мне помочь?",
-    "path": "/scriptConfig/generatedText/goalText/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "^cyan;Я бы хотел произвести хорошее впечатление на <target>. Вы можете помочь мне собрать некоторые вещи?",
-    "path": "/scriptConfig/generatedText/goalText/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "^cyan;Мне нужна помощь в создании подарка для <target>. Ваша помощь будет очень ценна.",
-    "path": "/scriptConfig/generatedText/goalText/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "^cyan;Акки хочет впечатлить <target>. Поможешь Акки?",
-    "path": "/scriptConfig/generatedText/goalText/akkimari/0",
-    "op": "replace"
-  },
-  {
-    "value": "^cyan;<target> друг Акки. Хочет подарить вещи, поможешь Акки?",
-    "path": "/scriptConfig/generatedText/goalText/akkimari/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что ^orange;<target>^white; очень оценит этот ^orange;<gift>^white;! ^green;Вы могли бы доставить его <target.pronoun.object> для меня?",
-    "path": "/scriptConfig/generatedText/text/next/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Этот ^orange;<gift>^white; - идеальный подарок для ^orange;<target>^white;, я уверен! ^green;Вы могли бы помочь мне в последний раз и доставить его <target.pronoun.object>?",
-    "path": "/scriptConfig/generatedText/text/next/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Тот ^orange;<gift>^white;, который мы собрали, является идеальным подарком для ^orange;<target>^white;. ^green;Вы могли бы доставить его <target.pronoun.object>?",
-    "path": "/scriptConfig/generatedText/text/next/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что ^orange;<target>^white; оценит этот ^orange;<gift>^white;. ^green;Вы могли бы доставить его <target.pronoun.object> для меня?",
-    "path": "/scriptConfig/generatedText/text/next/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки уверен, что подарок хороший. Поможешь доставить? Акки очень ценит это!",
-    "path": "/scriptConfig/generatedText/text/next/akkimari/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки думает, что ^orange;<gift>^white; - хороший подарок. Иди к ^orange;<target>^white; и дай подарок?",
-    "path": "/scriptConfig/generatedText/text/next/akkimari/1",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/generatedText/goalText/avikan/0","value":
+"^cyan;Я хочу произвести впечатление на <target> отличным подарком, но мне нужна ваша помощь!"
+},{"op":"replace","path":"/scriptConfig/generatedText/goalText/avikan/1","value":
+"^cyan;Я хочу сделать что-то приятное для моего друга, но мне нужна помощь. Вы можете мне помочь?"
+},{"op":"replace","path":"/scriptConfig/generatedText/goalText/trink/0","value":
+"^cyan;Я бы хотел произвести хорошее впечатление на <target>. Вы можете помочь мне собрать некоторые вещи?"
+},{"op":"replace","path":"/scriptConfig/generatedText/goalText/trink/1","value":
+"^cyan;Мне нужна помощь в создании подарка для <target>. Ваша помощь будет очень ценна."
+},{"op":"replace","path":"/scriptConfig/generatedText/goalText/akkimari/0","value":
+"^cyan;Акки хочет впечатлить <target>. Поможешь Акки?"
+},{"op":"replace","path":"/scriptConfig/generatedText/goalText/akkimari/1","value":
+"^cyan;<target> друг Акки. Хочет подарить вещи, поможешь Акки?"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/avikan/0","value":
+"Я уверен, что ^orange;<target>^white; очень оценит этот ^orange;<gift>^white;! ^green;Вы могли бы доставить его <target.pronoun.object> для меня?"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/avikan/1","value":
+"Этот ^orange;<gift>^white; - идеальный подарок для ^orange;<target>^white;, я уверен! ^green;Вы могли бы помочь мне в последний раз и доставить его <target.pronoun.object>?"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/trink/0","value":
+"Тот ^orange;<gift>^white;, который мы собрали, является идеальным подарком для ^orange;<target>^white;. ^green;Вы могли бы доставить его <target.pronoun.object>?"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/trink/1","value":
+"Я уверен, что ^orange;<target>^white; оценит этот ^orange;<gift>^white;. ^green;Вы могли бы доставить его <target.pronoun.object> для меня?"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/akkimari/0","value":
+"Акки уверен, что подарок хороший. Поможешь доставить? Акки очень ценит это!"
+},{"op":"replace","path":"/scriptConfig/generatedText/text/next/akkimari/1","value":
+"Акки думает, что ^orange;<gift>^white; - хороший подарок. Иди к ^orange;<target>^white; и дай подарок?"
+}]

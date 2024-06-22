@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Костяное Корыто",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Костяная корыта для кормления скота и животных.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Костяное корыто, полное еды и воды.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта корыта полна сырой еды. Отлично подходит для скота, но вреден для людей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран нюхает еду. Флоран ест еду?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смущенный. Почему это корыто сделано из кости?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сюда приходят есть и пить скот и конные животные.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эту кормушку используют для кормления скота и животных.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Идеальное место, чтобы покормить могучего коня. Или просто домашний скот.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционное корыто производства Авикан. Они используют его, чтобы накормить своего Гад'хура.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гад'хуры, которых содержат наши кланы, кормятся из этих кормушек.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивное костяное корыто.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено корыто. Содержит еду для маунтов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кормушка для кормления животных.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Костяное Корыто"
+},{"op":"replace","path":"/description","value":
+"Костяная корыта для кормления скота и животных."
+},{"op":"replace","path":"/apexDescription","value":
+"Костяное корыто, полное еды и воды."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта корыта полна сырой еды. Отлично подходит для скота, но вреден для людей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран нюхает еду. Флоран ест еду?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Смущенный. Почему это корыто сделано из кости?"
+},{"op":"replace","path":"/humanDescription","value":
+"Сюда приходят есть и пить скот и конные животные."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эту кормушку используют для кормления скота и животных."
+},{"op":"replace","path":"/novakidDescription","value":
+"Идеальное место, чтобы покормить могучего коня. Или просто домашний скот."
+},{"op":"replace","path":"/aegiDescription","value":
+"Традиционное корыто производства Авикан. Они используют его, чтобы накормить своего Гад'хура."
+},{"op":"replace","path":"/avikanDescription","value":
+"Гад'хуры, которых содержат наши кланы, кормятся из этих кормушек."
+},{"op":"replace","path":"/trinkDescription","value":
+"Примитивное костяное корыто."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено корыто. Содержит еду для маунтов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кормушка для кормления животных."
+}]

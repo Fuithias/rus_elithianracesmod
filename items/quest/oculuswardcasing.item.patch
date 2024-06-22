@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Щит, построенный из центенских компонентов. Источник питания все еще сломан...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Оболочка центенского щита^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Щит, построенный из центенских компонентов. Источник питания все еще сломан..."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Оболочка центенского щита^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Гобелены Авикан в рулонах",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пара свернутых кожаных гобеленов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рулоны кожаного гобелена.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тусклые гобелены.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа была однажды шкурой.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Несколько аккуратно свернутых кожаных гобеленов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти гобелены будут выглядеть лучше, если добавить немного цвета.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаные гобелены. Полезен в качестве украшения.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несколько кожаных гобеленов, свернутых в рулоны, чтобы их было легче хранить.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Куда мне положить эти гобелены?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Несколько свернутых кожаных гобеленов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Материал: кожа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Роллс-кожаный, кстати.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелены Авикан в рулонах"
+},{"op":"replace","path":"/description","value":
+"Пара свернутых кожаных гобеленов."
+},{"op":"replace","path":"/apexDescription","value":
+"Рулоны кожаного гобелена."
+},{"op":"replace","path":"/avianDescription","value":
+"Тусклые гобелены."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа была однажды шкурой."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Несколько аккуратно свернутых кожаных гобеленов."
+},{"op":"replace","path":"/humanDescription","value":
+"Эти гобелены будут выглядеть лучше, если добавить немного цвета."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кожаные гобелены. Полезен в качестве украшения."
+},{"op":"replace","path":"/aegiDescription","value":
+"Несколько кожаных гобеленов, свернутых в рулоны, чтобы их было легче хранить."
+},{"op":"replace","path":"/avikanDescription","value":
+"Куда мне положить эти гобелены?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Несколько свернутых кожаных гобеленов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Материал: кожа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Роллс-кожаный, кстати."
+}]

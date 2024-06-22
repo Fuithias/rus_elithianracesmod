@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Грязь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязная на вид земля.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Равнодушен. Это обычная почва.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязная земля!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грязная на вид земля.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Грязь"
+},{"op":"replace","path":"/description","value":
+"Грязная на вид земля."
+},{"op":"replace","path":"/glitchDescription","value":
+"Равнодушен. Это обычная почва."
+},{"op":"replace","path":"/floranDescription","value":
+"Грязная земля!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Грязная на вид земля."
+}]

@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Наклонное стекло Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстый и прочный пластик, часто используемый на борту космических кораблей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатлен. Этот пластик выглядит точно как стекло.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран красиво смотрится в стекле.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстое стекло, но я все равно вижу насквозь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Толстый пластик, используемый на космических кораблях.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пластик-прозрачный, акки удивлен его прочностью.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Наклонное стекло Альянса"
+},{"op":"replace","path":"/description","value":
+"Толстый и прочный пластик, часто используемый на борту космических кораблей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатлен. Этот пластик выглядит точно как стекло."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран красиво смотрится в стекле."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстое стекло, но я все равно вижу насквозь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Толстый пластик, используемый на космических кораблях."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пластик-прозрачный, акки удивлен его прочностью."
+}]

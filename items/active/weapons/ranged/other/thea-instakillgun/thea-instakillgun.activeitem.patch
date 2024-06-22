@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Золотое ружье для высшей власти. Ты мошенник!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Золотое ружье^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Золотое ружье для высшей власти. Ты мошенник!"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Золотое ружье^white;"
+},{"op":"replace","path":"/category","value":
+"Пистолет"
+}]

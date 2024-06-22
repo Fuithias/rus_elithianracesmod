@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочное стекло, используемое для изготовления предметов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкян Гласс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочное стекло, используемое для изготовления предметов."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкян Гласс"
+}]

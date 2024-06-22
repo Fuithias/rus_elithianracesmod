@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^green;Техники Крафта Авикан",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите узнать больше о техниках крафта Авикан? ^green;Соберите специальные материалы с ^orange;Пескоплюя^green;, ^orange;Пескокраба^green;, ^orange;Роя Жалокрыла^green; и ^orange;Валаара^white;, и я дам вам ^orange;Руководство по Крафту Авикан^white; и ^orange;специальный чертеж ^white;оружия, над которым я работаю.",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Вот, капитан. Руководство по Крафту Авикан и чертеж по-настоящему уникального оружия!",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Айурину ^reset;в ^orange;Прибежище Звездоплавателя^reset;",
-    "path": "/scriptConfig/turnInDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^green;Техники Крафта Авикан"
+},{"op":"replace","path":"/text","value":
+"Хотите узнать больше о техниках крафта Авикан? ^green;Соберите специальные материалы с ^orange;Пескоплюя^green;, ^orange;Пескокраба^green;, ^orange;Роя Жалокрыла^green; и ^orange;Валаара^white;, и я дам вам ^orange;Руководство по Крафту Авикан^white; и ^orange;специальный чертеж ^white;оружия, над которым я работаю."
+},{"op":"replace","path":"/completionText","value":
+"Вот, капитан. Руководство по Крафту Авикан и чертеж по-настоящему уникального оружия!"
+},{"op":"replace","path":"/scriptConfig/turnInDescription","value":
+"Вернитесь к ^orange;Айурину ^reset;в ^orange;Убежище Звездохода^reset;"
+}]

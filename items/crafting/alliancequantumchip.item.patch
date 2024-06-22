@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мощный квантовый процессор, построенный по стандартам Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Квантовый процессор",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мощный квантовый процессор, построенный по стандартам Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Квантовый процессор"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Закрытый тайник, содержащий что-то ценное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Праздничный тайник III^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Закрытый тайник",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Закрытый тайник, содержащий что-то ценное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Праздничный тайник III^white;"
+},{"op":"replace","path":"/category","value":
+"Закрытый тайник"
+}]

@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Глушиспец стрела",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Глушиспец стрела"
+}]

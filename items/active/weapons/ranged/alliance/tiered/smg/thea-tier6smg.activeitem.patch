@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Стандартный пистолет-пулемет Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Альянс Коллектив^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "АЦ.П-9 Брокер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пистолет-пулемет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Стандартный пистолет-пулемет Альянса."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Альянс Коллектив^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"АЦ.П-9 Брокер"
+},{"op":"replace","path":"/category","value":
+"Пистолет-пулемет"
+}]

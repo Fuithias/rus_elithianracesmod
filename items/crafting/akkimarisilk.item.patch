@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Длинная шелковая нить из шелковой железы Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари Шелк",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Длинная шелковая нить из шелковой железы Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Аккимари Шелк"
+}]

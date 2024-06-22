@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Большой Авикан Контейнер",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочный металлический контейнер. Для хранения вещей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой металлический шкаф.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический контейнер. Что внутри?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнеры полны вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Большой металлический шкаф.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер. Наверное, полно вкусностей!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер для хранения ваших вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая кожаная сумка для хранения.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой металлический контейнер для хранения личных вещей.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический шкаф. Его форма приводит к неэффективному использованию пространства.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки открой, загляни внутрь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большой Авикан Контейнер"
+},{"op":"replace","path":"/description","value":
+"Прочный металлический контейнер. Для хранения вещей."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой металлический шкаф."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический контейнер. Что внутри?"
+},{"op":"replace","path":"/floranDescription","value":
+"Контейнеры полны вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Большой металлический шкаф."
+},{"op":"replace","path":"/humanDescription","value":
+"Металлический контейнер. Наверное, полно вкусностей!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Металлический контейнер для хранения ваших вещей."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая кожаная сумка для хранения."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большой металлический контейнер для хранения личных вещей."
+},{"op":"replace","path":"/trinkDescription","value":
+"Металлический шкаф. Его форма приводит к неэффективному использованию пространства."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки открой, загляни внутрь."
+}]

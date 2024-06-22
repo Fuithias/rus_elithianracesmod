@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Консоль безопасности Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эту консоль можно активировать только с помощью правильного пароля.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нужны пропуска.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Расстроенный. Для этой консоли требуется действительный пропуск безопасности.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то терминал безопасности. Чтобы получить к нему доступ, нужен правильный пропуск.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне понадобится пропуск для доступа к этой консоли.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен терминал безопасности пришельцев. Для доступа требуется пропуск.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нужен пропуск-охрана.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Консоль безопасности Альянса"
+},{"op":"replace","path":"/description","value":
+"Эту консоль можно активировать только с помощью правильного пароля."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нужны пропуска."
+},{"op":"replace","path":"/glitchDescription","value":
+"Расстроенный. Для этой консоли требуется действительный пропуск безопасности."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то терминал безопасности. Чтобы получить к нему доступ, нужен правильный пропуск."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мне понадобится пропуск для доступа к этой консоли."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен терминал безопасности пришельцев. Для доступа требуется пропуск."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нужен пропуск-охрана."
+}]

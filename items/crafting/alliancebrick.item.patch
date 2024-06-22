@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелый и чрезвычайно твердый каменный кирпич.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Альянс Брик",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелый и чрезвычайно твердый каменный кирпич."
+},{"op":"replace","path":"/shortdescription","value":
+"Альянс Брик"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Тринк Плюшевый",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка Тринк из мягких тканей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая и круглая мягкая игрушка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это мягкая игрушка-робот?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это кажется милым.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обожаю. Этот плюшевый милый.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очаровательный плюш.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Необыкновенно милая игрушка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то плюшевая штука.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкие игрушки всегда очаровательны.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкая инопланетная игрушка.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это игрушка Тринк. И тревожно, и мило.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная игрушка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки видел реальную версию. Это мило-более.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринк Плюшевый"
+},{"op":"replace","path":"/description","value":
+"Игрушка Тринк из мягких тканей."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая и круглая мягкая игрушка."
+},{"op":"replace","path":"/avianDescription","value":
+"Это мягкая игрушка-робот?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это кажется милым."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обожаю. Этот плюшевый милый."
+},{"op":"replace","path":"/humanDescription","value":
+"Очаровательный плюш."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Необыкновенно милая игрушка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то плюшевая штука."
+},{"op":"replace","path":"/aegiDescription","value":
+"Мягкие игрушки всегда очаровательны."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мягкая инопланетная игрушка."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это игрушка Тринк. И тревожно, и мило."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная игрушка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки видел реальную версию. Это мило-более."
+}]

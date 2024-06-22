@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкианская радиолокационная антенна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радарная антенна конструкции Тринкиана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая радиолокационная тарелка. Выглядит мощно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ничто не проходит мимо этого радара.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это большой металлический цветок?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Эта радиолокационная тарелка может обнаруживать космические корабли в глубоком космосе.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая плохая радиолокационная тарелка.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая радиолокационная тарелка. Тот, кто им управляет, должно быть, увидел приближающийся мой космический корабль задолго до моего прибытия.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианская радиолокационная антенна, одна из лучших в Альянсе.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая радиолокационная тарелка.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощная радиолокационная антенна конструкции Тринкиана. Тщательно откалиброван.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ: радиолокационная тарелка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая тарелка, сигнал перехвата Акки! Акки хочет знать, что говорят инопланетяне.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианская радиолокационная антенна"
+},{"op":"replace","path":"/description","value":
+"Радарная антенна конструкции Тринкиана."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая радиолокационная тарелка. Выглядит мощно."
+},{"op":"replace","path":"/avianDescription","value":
+"Ничто не проходит мимо этого радара."
+},{"op":"replace","path":"/floranDescription","value":
+"Это большой металлический цветок?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Эта радиолокационная тарелка может обнаруживать космические корабли в глубоком космосе."
+},{"op":"replace","path":"/humanDescription","value":
+"Большая плохая радиолокационная тарелка."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большая радиолокационная тарелка. Тот, кто им управляет, должно быть, увидел приближающийся мой космический корабль задолго до моего прибытия."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианская радиолокационная антенна, одна из лучших в Альянсе."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большая радиолокационная тарелка."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мощная радиолокационная антенна конструкции Тринкиана. Тщательно откалиброван."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ: радиолокационная тарелка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Большая тарелка, сигнал перехвата Акки! Акки хочет знать, что говорят инопланетяне."
+}]

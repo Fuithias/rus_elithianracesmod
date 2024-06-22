@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Продуктовый ларек Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок, полный инопланетной еды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Выбор инопланетной еды.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужеродное мясо, специи и другие продукты. Выглядит вкусно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хорошее мясо, но плохая зелень.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересный. Каким будет вкус этой еды?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная еда. Выглядит вкусно, но я не уверена, стоит ли это есть.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разнообразная еда – это счастье для всех.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этом рыночном прилавке представлен широкий выбор продуктов питания Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиционная еда Кадавана. Лучшее, что есть.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканская еда. Он не имеет никакой ценности для неорганики.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены органические продукты питания.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки ворует здесь еду.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Продуктовый ларек Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок, полный инопланетной еды."
+},{"op":"replace","path":"/apexDescription","value":
+"Выбор инопланетной еды."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужеродное мясо, специи и другие продукты. Выглядит вкусно."
+},{"op":"replace","path":"/floranDescription","value":
+"Хорошее мясо, но плохая зелень."
+},{"op":"replace","path":"/glitchDescription","value":
+"Интересный. Каким будет вкус этой еды?"
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетная еда. Выглядит вкусно, но я не уверена, стоит ли это есть."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Разнообразная еда – это счастье для всех."
+},{"op":"replace","path":"/aegiDescription","value":
+"На этом рыночном прилавке представлен широкий выбор продуктов питания Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Традиционная еда Кадавана. Лучшее, что есть."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авиканская еда. Он не имеет никакой ценности для неорганики."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены органические продукты питания."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки ворует здесь еду."
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Древний, потусторонний фрагмент камня.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Осколок заражённого камня",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Древний, потусторонний фрагмент камня."
+},{"op":"replace","path":"/shortdescription","value":
+"Осколок заражённого камня"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^gray;Гранатомет, изготовленный где-то на Рубеже.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Упряжа РМ22 (НИП)",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гранатомет",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Зажигательная граната",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Гранатомет, изготовленный где-то на Рубеже.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Упряжа РМ22 (НИП)"
+},{"op":"replace","path":"/category","value":
+"Гранатомет"
+},{"op":"replace","path":"/altAbility/name","value":
+"Зажигающая граната"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлический куб, легко хранится и готов к изготовлению.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкян Металл",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлический куб, легко хранится и готов к изготовлению."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкян Металл"
+}]

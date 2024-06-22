@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Малый грузовой контейнер AAE",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой контейнер, используемый для сброса и транспортировки грузов на космическом корабле.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер для сброса груза.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небесный сундук.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран открой его и найди внутри товар.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Ящик для груза, что может быть внутри?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наверняка внутри есть что-то хорошее.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой контейнер, одинаково подходящий как для космических перевозок, так и для десантирования грузов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер для сброса груза. Хороший.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер, часто используемый для сброса грузов.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный контейнер. Там могут быть инопланетные товары.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективно спроектированный грузовой контейнер.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ контента.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки вижу ящики с неба. Груз ценный?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Малый грузовой контейнер ПАИ"
+},{"op":"replace","path":"/description","value":
+"Грузовой контейнер, используемый для сброса и транспортировки грузов на космическом корабле."
+},{"op":"replace","path":"/apexDescription","value":
+"Контейнер для сброса груза."
+},{"op":"replace","path":"/avianDescription","value":
+"Небесный сундук."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран открой его и найди внутри товар."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Ящик для груза, что может быть внутри?"
+},{"op":"replace","path":"/humanDescription","value":
+"Наверняка внутри есть что-то хорошее."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Грузовой контейнер, одинаково подходящий как для космических перевозок, так и для десантирования грузов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Контейнер для сброса груза. Хороший."
+},{"op":"replace","path":"/aegiDescription","value":
+"Контейнер, часто используемый для сброса грузов."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный контейнер. Там могут быть инопланетные товары."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективно спроектированный грузовой контейнер."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ контента."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки вижу ящики с неба. Груз ценный?"
+}]

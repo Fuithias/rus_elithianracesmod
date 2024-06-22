@@ -1,282 +1,113 @@
-[
-  {
-    "value": "^orange;Мастерская каркасов Дродена^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению новых деталей для роботов.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Этот тип роботов для меня новый.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой мастер-класс по сборке деталей робота.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, построенная для создания новых деталей роботов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по созданию деталей роботов.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая мастерская, где изготавливаются новые рамы Droden.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот мастер-класс очень простой, но в нем есть все необходимые инструменты.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки сделай кадры-Дроден сюда... Зачем Акки?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Каркасный верстак Дродена^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская по изготовлению новых деталей для роботов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Этот тип роботов для меня новый.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой мастер-класс по сборке деталей робота.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, построенная для создания новых деталей роботов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая мастерская по созданию деталей роботов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая мастерская, где изготавливаются новые рамы Droden.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот мастер-класс очень простой, но в нем есть все необходимое.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каркасный верстак. Используется для создания и установки новых рам на устройства Droden.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки сделай кадры-Дроден сюда... Зачем Акки?",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Мастерская каркасов Дродена^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская большего размера, с большим пространством и лучшими инструментами для создания высококачественных деталей роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полностью загруженная мастерская по изготовлению деталей для роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана...",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мотивированный. В этой мастерской есть все инструменты, необходимые для создания новых деталей роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настоящая мастерская, в которой есть все инструменты, необходимые для изготовления деталей роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С помощью этой мастерской можно создавать новые детали роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я считаю, что кто-то с нужными навыками сможет изготовить здесь некоторые причудливые детали роботов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая печь и множество инструментов — все это есть в этой мастерской.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полностью спланированная каркасная мастерская Дродена.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо оптимизированный семинар. Размещение инструмента вряд ли эффективно.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская-большая, Акки крафт Дродэн.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Droden Frame Factory^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно изготовить замену рамы для юнитов Дродена.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Миниатюрная автоматизированная фабрика роботов. Лучше не позволять Миникногам заполучить один из них.",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшая фабрика роботов. Он создает только один тип робота.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это завод делает металлистов? Флоран не знаю, что об этом думать.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Философский. Был ли я создан на подобной фабрике?",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой, в значительной степени автоматизированный завод. Она производит роботов выдающегося качества.",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такая маленькая фабрика может одновременно выполнять работу дюжины человек.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то фабрика по созданию роботов.",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рамочная фабрика «Дроден» по созданию высококачественных рам.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полностью автоматизированный завод по производству каркасов в Дродене. Это было обычным явлением до войны с Дроденом.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективное заводское подразделение Дродена.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каркасный завод. Используется для создания и установки новых рам на устройства Droden.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Машина производства Рамы-Дроден. Акки не придется делать работу самостоятельно.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Мастерская каркасов Дродена^white;"
+},{"op":"replace","path":"/description","value":
+"Здесь можно изготовить замену рамы для юнитов Дродена."
+},{"op":"replace","path":"/apexDescription","value":
+"Мастерская по изготовлению новых деталей для роботов."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты."
+},{"op":"replace","path":"/floranDescription","value":
+"Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Этот в. роботов для меня новый."
+},{"op":"replace","path":"/humanDescription","value":
+"Простой мастер-класс по сборке деталей робота."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мастерская, построенная для создания новых деталей роботов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мастерская по созданию деталей роботов."
+},{"op":"replace","path":"/aegiDescription","value":
+"Базовая мастерская, где изготавливаются новые рамы Droden."
+},{"op":"replace","path":"/avikanDescription","value":
+"В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот мастер-класс очень простой, но в нем есть все необходимые инструменты."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки сделай кадры-Дроден сюда... Зачем Акки?"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Каркасный верстак Дродена^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Здесь можно изготовить замену рамы для юнитов Дродена."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Мастерская по изготовлению новых деталей для роботов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Этот мастер-класс довольно простой, но в нем есть все необходимые инструменты."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана..."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Заинтригован. Этот в. роботов для меня новый."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Простой мастер-класс по сборке деталей робота."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Мастерская, построенная для создания новых деталей роботов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Базовая мастерская по созданию деталей роботов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Базовая мастерская, где изготавливаются новые рамы Droden."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"В этой мастерской есть специальные инструменты, используемые для создания новых оправ Droden."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Этот мастер-класс очень простой, но в нем есть все необходимое."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Каркасный верстак. Используется для создания и установки новых рам на устройства Droden."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки сделай кадры-Дроден сюда... Зачем Акки?"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Мастерская каркасов Дродена^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Здесь можно изготовить замену рамы для юнитов Дродена."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Мастерская большего размера, с большим пространством и лучшими инструментами для создания высококачественных деталей роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Полностью загруженная мастерская по изготовлению деталей для роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана..."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Мотивированный. В этой мастерской есть все инструменты, необходимые для создания новых деталей роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Настоящая мастерская, в которой есть все инструменты, необходимые для изготовления деталей роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"С помощью этой мастерской можно создавать новые детали роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Я считаю, что кто-то с нужными навыками сможет изготовить здесь некоторые причудливые детали роботов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Небольшая печь и множество инструментов — все это есть в этой мастерской."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Полностью спланированная каркасная мастерская Дродена."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Плохо оптимизированный семинар. Размещение инструмента вряд ли эффективно."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Мастерская-большая, Акки крафт Дродэн."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange;Droden Frame Factory^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Здесь можно изготовить замену рамы для юнитов Дродена."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"Миниатюрная автоматизированная фабрика роботов. Лучше не позволять Миникногам заполучить один из них."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"Небольшая фабрика роботов. Он создает только один в. робота."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Это завод делает металлистов? Флоран не знаю, что об этом думать."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Философский. Был ли я создан на подобной фабрике?"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Небольшой, в значительной степени автоматизированный завод. Она производит роботов выдающегося качества."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Такая маленькая фабрика может одновременно выполнять работу дюжины человек."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"Какая-то фабрика по созданию роботов."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"Рамочная фабрика Дроден по созданию высококачественных рам."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"Полностью автоматизированный завод по производству каркасов в Дродене. Это было обычным явлением до войны с Дроденом."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Эффективное заводское подразделение Дродена."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Каркасный завод. Используется для создания и установки новых рам на устройства Droden."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Машина производства Рамы-Дроден. Акки не придется делать работу самостоятельно."
+}]

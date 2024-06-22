@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Вкусное и витаминное варенье.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Валберри Джем",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Вкусное и витаминное варенье."
+},{"op":"replace","path":"/shortdescription","value":
+"Валберри Джем"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Семя басброна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактус, производящий мягкие волокна, пригодные для изготовления ткани.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам удастся пройти мимо колючек, из этого растения получится превосходное тканое волокно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактус, производящий волокна для ткачества ткани.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран возьми пух и сделай ткань. Флоран умный.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Беспечный. Эти шипы мне не повредят.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хлопковый кактус. Как странно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я считаю, что из этих волокон может получиться отличный тканевый материал.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мягкие пушистые волокна. Вот это и хорошо.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кактус из Кадавана. Из него производятся волокна, полезные для изготовления ткани.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Волокна, производимые этим заводом, являются отличным материалом для ткачества.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан собирает эти растения из-за их мягких пушистых волокон.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено богатое клетчаткой растение. Рекомендую урожай.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Волокна мягкие, для плетения полотна.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Семя басброна"
+},{"op":"replace","path":"/description","value":
+"Кактус, производящий мягкие волокна, пригодные для изготовления ткани."
+},{"op":"replace","path":"/apexDescription","value":
+"Если вам удастся пройти мимо колючек, из этого растения получится превосходное тканое волокно."
+},{"op":"replace","path":"/avianDescription","value":
+"Кактус, производящий волокна для ткачества ткани."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран возьми пух и сделай ткань. Флоран умный."
+},{"op":"replace","path":"/glitchDescription","value":
+"Беспечный. Эти шипы мне не повредят."
+},{"op":"replace","path":"/humanDescription","value":
+"Хлопковый кактус. Как странно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Я считаю, что из этих волокон может получиться отличный тканевый материал."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мягкие пушистые волокна. Вот это и хорошо."
+},{"op":"replace","path":"/aegiDescription","value":
+"Кактус из Кадавана. Из него производятся волокна, полезные для изготовления ткани."
+},{"op":"replace","path":"/avikanDescription","value":
+"Волокна, производимые этим заводом, являются отличным материалом для ткачества."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авикан собирает эти растения из-за их мягких пушистых волокон."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено богатое клетчаткой растение. Рекомендую урожай."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Волокна мягкие, для плетения полотна."
+}]

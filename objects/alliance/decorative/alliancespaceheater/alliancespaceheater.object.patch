@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Космический обогреватель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой обогреватель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый обогреватель.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это должно сделать дом теплым и уютным.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический короб делает помещения теплыми.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Обогреватель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто обогреватель.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это позволит поддерживать в доме комфортную температуру.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне не нужен обогреватель.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартный обогреватель, произведенный компанией Enerth Engineering.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство излучает тепло.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивительно эффективный обогреватель.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено нагревательное устройство.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство нагревает.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Космический обогреватель Альянса"
+},{"op":"replace","path":"/description","value":
+"Небольшой обогреватель."
+},{"op":"replace","path":"/apexDescription","value":
+"Базовый обогреватель."
+},{"op":"replace","path":"/avianDescription","value":
+"Это должно сделать дом теплым и уютным."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлический короб делает помещения теплыми."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Обогреватель."
+},{"op":"replace","path":"/humanDescription","value":
+"Просто обогреватель."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это позволит поддерживать в доме комфортную температуру."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне не нужен обогреватель."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стандартный обогреватель, произведенный компанией Enerth Engineering."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это устройство излучает тепло."
+},{"op":"replace","path":"/trinkDescription","value":
+"Удивительно эффективный обогреватель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено нагревательное устройство."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Устройство нагревает."
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Небольшой металлический перстень на руку, вероятно, его ищет владелец.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Кольцо «Авикан»^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Небольшой металлический перстень на руку, вероятно, его ищет владелец."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Кольцо Авикан^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

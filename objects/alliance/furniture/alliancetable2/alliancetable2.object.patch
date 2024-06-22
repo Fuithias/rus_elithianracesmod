@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Круглый стол Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкий круглый стол.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Базовый стол.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой металлический стол.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Столссс.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не впечатлен. Базовый стол.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистый металлический стол.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стол недавно был убран.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто стол.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистый стол.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Легкий стол.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Минималистичный стол.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаруженная таблица.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол-инопланетянин.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Круглый стол Альянса"
+},{"op":"replace","path":"/description","value":
+"Легкий круглый стол."
+},{"op":"replace","path":"/apexDescription","value":
+"Базовый стол."
+},{"op":"replace","path":"/avianDescription","value":
+"Простой металлический стол."
+},{"op":"replace","path":"/floranDescription","value":
+"Столссс."
+},{"op":"replace","path":"/glitchDescription","value":
+"Не впечатлен. Базовый стол."
+},{"op":"replace","path":"/humanDescription","value":
+"Чистый металлический стол."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот стол недавно был убран."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто стол."
+},{"op":"replace","path":"/aegiDescription","value":
+"Чистый стол."
+},{"op":"replace","path":"/avikanDescription","value":
+"Легкий стол."
+},{"op":"replace","path":"/trinkDescription","value":
+"Минималистичный стол."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаруженная таблица."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стол-инопланетянин."
+}]

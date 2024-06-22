@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кусочки приготовленного тыквенного корня. Очень питательный.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Отбивные из тыквы",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кусочки приготовленного тыквенного корня. Очень питательный."
+},{"op":"replace","path":"/shortdescription","value":
+"Отбивные из тыквы"
+}]

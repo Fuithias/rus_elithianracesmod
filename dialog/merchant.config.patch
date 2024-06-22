@@ -1,1637 +1,655 @@
-[
-  {
-    "value": "Добро пожаловать в мой магазин, путешественник.",
-    "path": "/merchantStart/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хочешь поторговать, путешественник?",
-    "path": "/merchantStart/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую, путешественник! Давай поторгуем!",
-    "path": "/merchantStart/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Взгляни на мои скромные товары, хорошо?",
-    "path": "/merchantStart/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите поторговать, капитан?",
-    "path": "/merchantStart/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в мой магазин, капитан.",
-    "path": "/merchantStart/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Для меня будет честью показать вам мои товары.",
-    "path": "/merchantStart/avikan/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан! Вас интересует торговля?",
-    "path": "/merchantStart/avikan/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я покажу тебе свои товары, машина, но только потому, что мне нужны деньги.",
-    "path": "/merchantStart/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты хочешь поторговать, машина?",
-    "path": "/merchantStart/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не слишком люблю машины, но ты можешь взглянуть на мои товары, если хочешь.",
-    "path": "/merchantStart/avikan/glitch/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин открыт для тебя, машина.",
-    "path": "/merchantStart/avikan/glitch/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я покажу тебе свой товар, машина, но только потому, что мне нужна монета.",
-    "path": "/merchantStart/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хочешь торговать, машина?",
-    "path": "/merchantStart/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не слишком люблю машины, но если хотите, вы можете посмотреть мои изделия.",
-    "path": "/merchantStart/avikan/trink/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин открыт для тебя, машина.",
-    "path": "/merchantStart/avikan/trink/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я покажу тебе свой товар, машина, но только потому, что мне нужна монета.",
-    "path": "/merchantStart/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хочешь торговать, машина?",
-    "path": "/merchantStart/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не слишком люблю машины, но если хотите, вы можете посмотреть мои изделия.",
-    "path": "/merchantStart/avikan/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин открыт для тебя, машина.",
-    "path": "/merchantStart/avikan/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся в любое время, путник!",
-    "path": "/merchantEnd/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся, когда тебе понадобится больше товаров, путешественник.",
-    "path": "/merchantEnd/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, если тебе когда-нибудь понадобится что-нибудь еще.",
-    "path": "/merchantEnd/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Радейс снова приведет тебя обратно в мой магазин. А пока, путник.",
-    "path": "/merchantEnd/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайтесь в любое время, капитан!",
-    "path": "/merchantEnd/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, если мой товар вам когда-нибудь снова понадобится, капитан.",
-    "path": "/merchantEnd/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо за покупку здесь, капитан.",
-    "path": "/merchantEnd/avikan/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис будет сопровождать вас в вашем путешествии, капитан.",
-    "path": "/merchantEnd/avikan/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Молодец, машина.",
-    "path": "/merchantEnd/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты вернешься с большим количеством товаров, да?",
-    "path": "/merchantEnd/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, если тебе снова понадобится торговать, машина.",
-    "path": "/merchantEnd/avikan/glitch/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы закончили торговать?",
-    "path": "/merchantEnd/avikan/glitch/3",
-    "op": "replace"
-  },
-  {
-    "value": "Молодец, машина.",
-    "path": "/merchantEnd/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты вернешься с большим количеством товаров, да?",
-    "path": "/merchantEnd/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, если тебе снова понадобится торговать, машина.",
-    "path": "/merchantEnd/avikan/trink/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы закончили торговать?",
-    "path": "/merchantEnd/avikan/trink/3",
-    "op": "replace"
-  },
-  {
-    "value": "Надеюсь, вы нашли то, что искали.",
-    "path": "/merchantEnd/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я буду здесь, если тебе понадобится еще товаров, Дроден.",
-    "path": "/merchantEnd/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "До свидания, Дроден.",
-    "path": "/merchantEnd/avikan/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо за ваши транзакции, Дроден.",
-    "path": "/merchantEnd/avikan/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Позвольте мне отвезти вас в мой магазин, путник.",
-    "path": "/follow/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Следуй за мной в мой магазин, путник.",
-    "path": "/follow/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я покажу вам мой магазин, капитан.",
-    "path": "/follow/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мои припасы в моем магазине, капитан. Позвольте мне вести вас.",
-    "path": "/follow/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин здесь, машина.",
-    "path": "/follow/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь ты можешь следовать за мной в мой магазин, машина.",
-    "path": "/follow/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин здесь, машина.",
-    "path": "/follow/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Теперь ты можешь следовать за мной в мой магазин, машина.",
-    "path": "/follow/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Следуй за мной в мой магазин, Дроден.",
-    "path": "/follow/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мои припасы здесь, Дроден.",
-    "path": "/follow/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы здесь. Теперь давайте займемся торговлей!",
-    "path": "/welcome/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Это мой магазин, путешественник. Добро пожаловать!",
-    "path": "/welcome/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы здесь. Добро пожаловать в мой магазин, капитан!",
-    "path": "/welcome/avikan/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в мой скромный магазин, Капитан!",
-    "path": "/welcome/avikan/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Тогда давай поторгуемся, машина.",
-    "path": "/welcome/avikan/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего не сломай, машина.",
-    "path": "/welcome/avikan/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Тогда давай поторгуемся, машина.",
-    "path": "/welcome/avikan/trink/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего не сломай, машина.",
-    "path": "/welcome/avikan/trink/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы достигли пункта назначения, Дроден. Давай торговать.",
-    "path": "/welcome/avikan/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Это мои припасы. Давай торговать.",
-    "path": "/welcome/avikan/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Лучшие товары по лучшим ценам!",
-    "path": "/tout/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите торговать? Лучшие товары здесь!",
-    "path": "/tout/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Товары из Кадавана продаются прямо здесь!",
-    "path": "/tout/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь только лучшие вещи ручной работы!",
-    "path": "/tout/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто перевез мои вещи? Я хочу вернуть всё как было!",
-    "path": "/tagCriteria/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так.",
-    "path": "/tagCriteria/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "В моей комнате все в беспорядке...",
-    "path": "/tagCriteria/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь что-то изменилось. Мне это не нравится.",
-    "path": "/tagCriteria/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Мне следует подать жалобу. Кто-то испортил мою комнату.",
-    "path": "/tagCriteria/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом был поврежден. Мне нужен ремонт!",
-    "path": "/enclosedArea/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то сломал мои стены. Ты можешь починить это?",
-    "path": "/enclosedArea/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу о порче дома.",
-    "path": "/enclosedArea/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом требует ремонта.",
-    "path": "/enclosedArea/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Куда можно подать заявку на ремонт дома?",
-    "path": "/enclosedArea/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то еще переезжает в это место? А что я?",
-    "path": "/otherDeed/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я думал, мы договорились, что это место будет моим.",
-    "path": "/otherDeed/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я не против жить в одном доме, но это не входило в наш контракт.",
-    "path": "/otherDeed/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу. Это место должно было принадлежать мне.",
-    "path": "/otherDeed/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Должно быть, это ошибка. В моем доме есть еще одна вещь!",
-    "path": "/otherDeed/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Даже открытая пустыня уютнее этого места.",
-    "path": "/severe/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я скучаю по Кадавану. Это место просто никуда не годится.",
-    "path": "/severe/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я подаю жалобу. Это место вообще не подойдет.",
-    "path": "/severe/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эти условия никуда не годятся. Я думаю о переезде.",
-    "path": "/severe/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радеисом, это место ужасно.",
-    "path": "/severe/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мне этого достаточно. Я ухожу.",
-    "path": "/final/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь в Номаду. По крайней мере, там люди заботятся друг о друге.",
-    "path": "/final/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вот и все. Я заканчиваю свой контракт.",
-    "path": "/final/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Клянусь Радеисом, это какой-то беспорядок. Я уезжаю.",
-    "path": "/final/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я связываюсь с Номадой. Мне пора покинуть это место.",
-    "path": "/final/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты звал меня?",
-    "path": "/beacon/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Могу ли я вам чем-то помочь?",
-    "path": "/beacon/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приветствую тебя, друг. Я тебе был нужен?",
-    "path": "/beacon/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Есть ли что-нибудь, что вы хотели бы обсудить?",
-    "path": "/beacon/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх, мой друг.",
-    "path": "/beacon/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вот, возьми это! Я очень доволен вашим сервисом.",
-    "path": "/rent/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Кочевнику нужно больше таких людей, как вы. Пожалуйста, примите этот знак благодарности.",
-    "path": "/rent/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо, что приняли такого путешественника, как я. Пожалуйста, возьмите это.",
-    "path": "/rent/avikan/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ты был хорошим другом. Вот, возьми это.",
-    "path": "/rent/avikan/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть для тебя небольшой подарок. Знак благодарности, хоть и небольшой.",
-    "path": "/rent/avikan/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в мой магазин, путешественник.",
-    "path": "/merchantStart/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Собираешься ли ты торговать, путешественник?",
-    "path": "/merchantStart/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы пришли в нужное место для торговли!",
-    "path": "/merchantStart/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Посмотрите мои товары. Вы не будете разочарованы.",
-    "path": "/merchantStart/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся скорее, путник!",
-    "path": "/merchantEnd/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я останусь здесь, если тебе понадобятся еще товары, путешественник.",
-    "path": "/merchantEnd/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам нужно больше товаров, не стесняйтесь вернуться сюда.",
-    "path": "/merchantEnd/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Цех благодарит вас за ваш вклад.",
-    "path": "/merchantEnd/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Разреши мне показать тебе мой магазин, путник.",
-    "path": "/follow/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Следуй за мной в мой магазин, путник.",
-    "path": "/follow/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы приехали в мой магазин. Давай торговать.",
-    "path": "/welcome/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в мой магазин, путешественник.",
-    "path": "/welcome/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Все принадлежности, необходимые для межзвездных путешествий, доступны прямо здесь!",
-    "path": "/tout/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть все необходимое прямо здесь!",
-    "path": "/tout/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин одобрен Единой торговой палатой Альянса!",
-    "path": "/tout/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Лучшие товары продаются прямо здесь!",
-    "path": "/tout/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "В моей ситуации произошли изменения.",
-    "path": "/tagCriteria/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Эта комната изменилась...",
-    "path": "/tagCriteria/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность ниже стандартов. Произошла перемена.",
-    "path": "/tagCriteria/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то изменилось. Я хочу вернуть всё как было.",
-    "path": "/tagCriteria/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Уровень удовлетворенности резко падает.",
-    "path": "/tagCriteria/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Мой дом требует ремонта!",
-    "path": "/enclosedArea/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективность ниже стандартов. Эта территория больше не огорожена.",
-    "path": "/enclosedArea/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Стены получили повреждения. Они требуют ремонта.",
-    "path": "/enclosedArea/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место нуждается в ремонте.",
-    "path": "/enclosedArea/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Я не был создан для строительства. Мне нужен кто-то, чтобы починить мои стены.",
-    "path": "/enclosedArea/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я предпочитаю не делить это место ни с кем другим.",
-    "path": "/otherDeed/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Было достигнуто соглашение – я должен был жить здесь один.",
-    "path": "/otherDeed/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Переселение кого-либо в этот дом является нарушением договора.",
-    "path": "/otherDeed/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это не было частью сделки. Это место должно было принадлежать мне.",
-    "path": "/otherDeed/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "В моем доме появился еще один документ. Должно быть, это ошибка.",
-    "path": "/otherDeed/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Даже ледяные щиты Сосульки удобнее, чем это место.",
-    "path": "/severe/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если мои жалобы не будут услышаны, я вернусь в автодром.",
-    "path": "/severe/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Это место больше не соответствует моим стандартам. Возможно, мне стоит съехать.",
-    "path": "/severe/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я не могу достичь оптимальной эффективности в этом месте. Возможно, пришло время уйти.",
-    "path": "/severe/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Если ситуация останется такой же плохой, как сейчас, я буду вынужден уйти.",
-    "path": "/severe/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Я крайне недоволен этим местом. Я ухожу.",
-    "path": "/final/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь в Круг.",
-    "path": "/final/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "КПД достиг минимума. Я ухожу.",
-    "path": "/final/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место не соответствует моим стандартам. Я вынужден оставить это.",
-    "path": "/final/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Пришло время мне уйти.",
-    "path": "/final/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Вам потребовалась моя помощь?",
-    "path": "/beacon/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Ты звал меня?",
-    "path": "/beacon/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе нужно было поговорить?",
-    "path": "/beacon/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Требуются ли мои услуги?",
-    "path": "/beacon/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "И снова здравствуйте.",
-    "path": "/beacon/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Возьми это. Это знак моей благодарности.",
-    "path": "/rent/trink/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были добры ко мне. Возьми это.",
-    "path": "/rent/trink/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были невероятно полезны. Вот подарок для тебя.",
-    "path": "/rent/trink/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Подарок за твои проблемы.",
-    "path": "/rent/trink/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "За все, что ты для меня сделал, возьми это.",
-    "path": "/rent/trink/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, просмотрите товары.",
-    "path": "/merchantStart/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Представление товара. Пожалуйста, рассмотрите покупку.",
-    "path": "/merchantStart/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд предлагает ресурсы.",
-    "path": "/merchantStart/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш вклад оценен по достоинству.",
-    "path": "/merchantStart/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Капитан. Пожалуйста, просмотрите товары.",
-    "path": "/merchantStart/droden/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Представление товара. Пожалуйста, рассмотрите покупку.",
-    "path": "/merchantStart/droden/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд предлагает ресурсы.",
-    "path": "/merchantStart/droden/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш вклад оценен по достоинству.",
-    "path": "/merchantStart/droden/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Инициализация процедур продаж.",
-    "path": "/merchantStart/droden/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Представление товара. Пожалуйста, рассмотрите покупку.",
-    "path": "/merchantStart/droden/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд предлагает ресурсы.",
-    "path": "/merchantStart/droden/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Ваш вклад оценен по достоинству.",
-    "path": "/merchantStart/droden/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Торговое государство отключилось.",
-    "path": "/merchantEnd/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, вернитесь поскорее.",
-    "path": "/merchantEnd/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо вам за ваш вклад.",
-    "path": "/merchantEnd/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд останется здесь до вашего возвращения.",
-    "path": "/merchantEnd/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, подумайте о возвращении в будущем, капитан.",
-    "path": "/merchantEnd/droden/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Торговое государство отключилось.",
-    "path": "/merchantEnd/droden/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Завершение продажи. Спасибо, капитан.",
-    "path": "/merchantEnd/droden/avikan/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх.",
-    "path": "/merchantEnd/droden/avikan/3",
-    "op": "replace"
-  },
-  {
-    "value": "Торговое государство отключилось.",
-    "path": "/merchantEnd/droden/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, вернитесь поскорее.",
-    "path": "/merchantEnd/droden/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Спасибо вам за ваш вклад.",
-    "path": "/merchantEnd/droden/droden/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд останется здесь до вашего возвращения.",
-    "path": "/merchantEnd/droden/droden/3",
-    "op": "replace"
-  },
-  {
-    "value": "Следуйте за устройством для сохранения.",
-    "path": "/follow/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отделение движется к товарам. Пожалуйста, следуйте.",
-    "path": "/follow/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Пожалуйста, следуйте за этим отрядом в магазин, капитан.",
-    "path": "/follow/droden/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Припасы находятся в другом месте. Пожалуйста, следуйте.",
-    "path": "/follow/droden/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Следуйте за устройством для сохранения.",
-    "path": "/follow/droden/droden/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отделение движется к товарам. Пожалуйста, следуйте.",
-    "path": "/follow/droden/droden/1",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство достигло магазина. Пожалуйста, занимайтесь торговлей.",
-    "path": "/welcome/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отделение прибыло. Торговля теперь включена.",
-    "path": "/welcome/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство достигло магазина. Пожалуйста, занимайтесь торговлей.",
-    "path": "/welcome/droden/avikan/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отделение прибыло. Торговля теперь включена.",
-    "path": "/welcome/droden/avikan/1",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство достигло магазина. Пожалуйста, занимайтесь торговлей.",
-    "path": "/welcome/droden/glitch/0",
-    "op": "replace"
-  },
-  {
-    "value": "Отделение прибыло. Торговля теперь включена.",
-    "path": "/welcome/droden/glitch/1",
-    "op": "replace"
-  },
-  {
-    "value": "Доступные ресурсы. Пожалуйста, рассмотрите покупку.",
-    "path": "/tout/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вещи на продажу. Пожалуйста, торгуйтесь.",
-    "path": "/tout/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Этот отряд предлагает ресурсы. Пожалуйста, рассмотрите покупку.",
-    "path": "/tout/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это подразделение имеет право продавать товары. Пожалуйста, рассмотрите возможность торговли.",
-    "path": "/tout/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Изменилась жилищная ситуация.",
-    "path": "/tagCriteria/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Неудовлетворенный. Условия изменились.",
-    "path": "/tagCriteria/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено изменение. Неудовлетворенный.",
-    "path": "/tagCriteria/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Подача жалобы. Ситуации изменились.",
-    "path": "/tagCriteria/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Окружение изменилось.",
-    "path": "/tagCriteria/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Безопасность дома нарушена.",
-    "path": "/enclosedArea/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрос на ремонт.",
-    "path": "/enclosedArea/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Требуется ремонт.",
-    "path": "/enclosedArea/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Стены повреждены. Жаловаться.",
-    "path": "/enclosedArea/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Оформление заявки на ремонт дома.",
-    "path": "/enclosedArea/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен дополнительный акт. Неудовлетворенный.",
-    "path": "/otherDeed/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен дополнительный акт. Жаловаться.",
-    "path": "/otherDeed/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено нарушение договора. Пожалуйста, удалите дополнительные документы.",
-    "path": "/otherDeed/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Запрос на удаление дополнительных документов.",
-    "path": "/otherDeed/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. Обнаружен дополнительный акт.",
-    "path": "/otherDeed/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Подготовка к отъезду. Недоволен сервисом.",
-    "path": "/severe/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Этот аппарат неудовлетворительный. Подготовка к отъезду.",
-    "path": "/severe/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Подача жалобы. Этот дом не соответствует универсальным стандартам.",
-    "path": "/severe/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Неудовлетворенный. Готовимся к отъезду.",
-    "path": "/severe/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Сервис неудовлетворительный.",
-    "path": "/severe/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Отправление.",
-    "path": "/final/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Запрашиваю трансфер от Nomada.",
-    "path": "/final/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Завершение контракта.",
-    "path": "/final/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Этот аппарат неудовлетворительный. Выходя из дома.",
-    "path": "/final/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Начинаем выезд.",
-    "path": "/final/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Этот аппарат принял ваш звонок.",
-    "path": "/beacon/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вам нужны услуги этого подразделения?",
-    "path": "/beacon/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вызов принят. Аппарат прибыл, как и просили.",
-    "path": "/beacon/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Звонок услышан. Нужен ли этот агрегат?",
-    "path": "/beacon/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вас Вха'лейх.",
-    "path": "/beacon/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Доволен обслуживанием. Вручение подарка.",
-    "path": "/rent/droden/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Вручение подарка. Ваша служба достойна восхищения.",
-    "path": "/rent/droden/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Ваши действия заслуживают награды. Возьми это.",
-    "path": "/rent/droden/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы были заслужены. Вручение подарка.",
-    "path": "/rent/droden/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вручение знака благодарности. Возьми это.",
-    "path": "/rent/droden/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите и посмотрите!",
-    "path": "/merchantStart/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я уверен, что вы найдете то, что ищете.",
-    "path": "/merchantStart/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Посмотрите, у меня много товаров на продажу.",
-    "path": "/merchantStart/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Взгляните на мой товар, ладно?",
-    "path": "/merchantStart/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты будешь знать, где я буду, если тебе понадобится что-нибудь еще!",
-    "path": "/merchantEnd/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся в любое время.",
-    "path": "/merchantEnd/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите еще!",
-    "path": "/merchantEnd/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вспомни меня в следующий раз, когда тебе понадобятся припасы!",
-    "path": "/merchantEnd/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Давай, следуй за мной в мой магазин.",
-    "path": "/follow/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Мой магазин находится в этой стороне.",
-    "path": "/follow/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мы здесь. Вы искали что-то конкретное?",
-    "path": "/welcome/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в мой магазин!",
-    "path": "/welcome/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть лучшие товары, которые можно купить за деньги!",
-    "path": "/tout/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Лучшие товары по лучшим ценам!",
-    "path": "/tout/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я могу получить все, что вам нужно!",
-    "path": "/tout/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Только лучшее для моих клиентов!",
-    "path": "/tout/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то переместил мои вещи!",
-    "path": "/tagCriteria/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так...",
-    "path": "/tagCriteria/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "В моей комнате все в беспорядке!",
-    "path": "/tagCriteria/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Мне не нравятся эти изменения.",
-    "path": "/tagCriteria/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то испортил мое место!",
-    "path": "/tagCriteria/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Стены рухнули!",
-    "path": "/enclosedArea/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Не могли бы вы отремонтировать мой дом? Стены сломаны!",
-    "path": "/enclosedArea/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мое место было повреждено! Ты можешь починить это?",
-    "path": "/enclosedArea/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Это место нуждается в ремонте.",
-    "path": "/enclosedArea/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то должен заглянуть в эти разрушенные стены.",
-    "path": "/enclosedArea/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Что с этим вторым делом? Это должно было быть мое место!",
-    "path": "/otherDeed/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Разве это место не должно было принадлежать только мне?",
-    "path": "/otherDeed/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "В договоре не упоминался второй житель.",
-    "path": "/otherDeed/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Эй, что это!? Я никогда не соглашалась жить вместе с кем-то еще.",
-    "path": "/otherDeed/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Произошла ошибка, это место должно было быть моим!",
-    "path": "/otherDeed/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Это место больше не похоже на дом...",
-    "path": "/severe/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, я возвращаюсь в Элитию.",
-    "path": "/severe/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Мне здесь больше не нравится.",
-    "path": "/severe/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Если в ближайшее время ситуация не улучшится, я уеду.",
-    "path": "/severe/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Даже путешествие сюда было более комфортным, чем в это дурацкое место.",
-    "path": "/severe/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "У меня было это с этим местом. Я ухожу.",
-    "path": "/final/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я уезжаю. Это место превратилось в абсолютный беспорядок.",
-    "path": "/final/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Всё, я покидаю это место.",
-    "path": "/final/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Я возвращаюсь в дом своих родителей.",
-    "path": "/final/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Это место вызывает у меня отвращение. Я выхожу отсюда.",
-    "path": "/final/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты звал меня?",
-    "path": "/beacon/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Могу ли я помочь?",
-    "path": "/beacon/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Я тебе был нужен?",
-    "path": "/beacon/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Привет! Зачем ты меня позвал?",
-    "path": "/beacon/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Хотите поговорить?",
-    "path": "/beacon/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты отличный хозяин. Вот, возьми это.",
-    "path": "/rent/aegi/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, тебе это понравится!",
-    "path": "/rent/aegi/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Дом отличный! Пожалуйста, возьмите это.",
-    "path": "/rent/aegi/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "У меня есть кое-что для тебя!",
-    "path": "/rent/aegi/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Продолжайте в том же духе, а я буду продолжать платить за квартиру.",
-    "path": "/rent/aegi/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки продают вещи, вы покупаете!",
-    "path": "/merchantStart/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите посмотреть, приходите посмотреть! Акки продаю вещей-много!",
-    "path": "/merchantStart/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Смотришь на товары-Акки, или Акки злятся.",
-    "path": "/merchantStart/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет, чтобы ты купил много вещей. Акки продают товар-хорошо!",
-    "path": "/merchantStart/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Возвращайся скорее-скорее! Акки ждет тебя!",
-    "path": "/merchantEnd/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет продавать больше. Возвращайся скорее.",
-    "path": "/merchantEnd/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Покупайте вещи - скорее!",
-    "path": "/merchantEnd/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "У Акки есть вещи - больше продавай!",
-    "path": "/merchantEnd/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Следуйте за Акки к припасам-Акки. Приобретайте товары там.",
-    "path": "/follow/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин-Акки вот так. Следовать.",
-    "path": "/follow/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Припасы-Акки здесь! Что вам нужно?",
-    "path": "/welcome/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать в магазин-Акки!",
-    "path": "/welcome/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "У Акки товар-лучший! Цены-тоже лучшие!",
-    "path": "/tout/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки продаю вещей-много! Приходите посмотреть!",
-    "path": "/tout/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите покупать у Акки! Акки обещают только продавать товар-хорошо!",
-    "path": "/tout/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "У Акки дела-лучшие! Купите их сейчас!",
-    "path": "/tout/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки злится! Кекки перенес вещи-Акки...",
-    "path": "/tagCriteria/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то здесь не так. Акки что-то упустил.",
-    "path": "/tagCriteria/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-Акки все перепутал!",
-    "path": "/tagCriteria/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, нет, как перемены! Измените его обратно, сейчас же!",
-    "path": "/tagCriteria/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Кекки разрушил дом-Акки!",
-    "path": "/tagCriteria/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Главная-Акки сломаны! Нужен ремонт!",
-    "path": "/enclosedArea/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Тебе нужно починить дом-Акки, сейчас же!",
-    "path": "/enclosedArea/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Стены сломаны, надо чинить...",
-    "path": "/enclosedArea/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Вы ремонтируете дом-акки сейчас. Акки злится!",
-    "path": "/enclosedArea/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Стены разбиты, в дом-Акки приходят плохие вещи. Акки не нравится.",
-    "path": "/enclosedArea/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки, не хочу делить дом-Акки!",
-    "path": "/otherDeed/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Home-Akki только для Akki. Убейте других жильцов, если это необходимо Акки!",
-    "path": "/otherDeed/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки согласилась жить одна. Нет необходимости в другом арендаторе.",
-    "path": "/otherDeed/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки злится, Акки не хочет жить вместе.",
-    "path": "/otherDeed/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вы удалите другой поступок! Акки хочет жить одна.",
-    "path": "/otherDeed/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Дома-Акки дома больше нет...",
-    "path": "/severe/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Акки собирается вернуться к уборке мусора. Акки больше не похож на дом.",
-    "path": "/severe/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Акки злится, хочет покинуть это место - это...",
-    "path": "/severe/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки скоро уйдет, если ничего не изменится.",
-    "path": "/severe/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Ты, домовладелец, плохой. Акки не нравится место-это.",
-    "path": "/severe/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки уходит. Зол на тебя.",
-    "path": "/final/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Дома-Акки дома больше нет. Акки находит другой дом.",
-    "path": "/final/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Гах, Акки ненавижу это место! .",
-    "path": "/final/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки почувствовала отвращение. Дома-ужасно, Акки уходит.",
-    "path": "/final/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Дома-плохо, Акки не нравится здесь жить. Акки возвращается к уборке мусора.",
-    "path": "/final/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Ты зови, Акки приезжай!",
-    "path": "/beacon/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Позовите Акки, Акки здесь.",
-    "path": "/beacon/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Позвать Акки?",
-    "path": "/beacon/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Дааа?",
-    "path": "/beacon/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Что вы хотите? Акки, послушай!",
-    "path": "/beacon/akkimari/default/4",
-    "op": "replace"
-  },
-  {
-    "value": "Акки доволен домом-Акки. Вы получаете награду!",
-    "path": "/rent/akkimari/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Home-Akki делает Акки счастливой. Акки-рада дарить подарки!",
-    "path": "/rent/akkimari/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Вы делаете дом добрым. Акки подари подарок.",
-    "path": "/rent/akkimari/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Акки доволен, это правда-правда. Акки тебя тоже порадует!",
-    "path": "/rent/akkimari/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Акки платят аренду, Акки арендатор-хорошо. Теперь вернемся к тому, что делал Акки.",
-    "path": "/rent/akkimari/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/merchantStart/avikan/default/0","value":
+"Добро пожаловать в мой магазин, путешественник."
+},{"op":"replace","path":"/merchantStart/avikan/default/1","value":
+"Хочешь поторговать, путешественник?"
+},{"op":"replace","path":"/merchantStart/avikan/default/2","value":
+"Приветствую, путешественник! Давай поторгуем!"
+},{"op":"replace","path":"/merchantStart/avikan/default/3","value":
+"Взгляни на мои скромные товары, хорошо?"
+},{"op":"replace","path":"/merchantStart/avikan/avikan/0","value":
+"Хотите поторговать, капитан?"
+},{"op":"replace","path":"/merchantStart/avikan/avikan/1","value":
+"Добро пожаловать в мой магазин, капитан."
+},{"op":"replace","path":"/merchantStart/avikan/avikan/2","value":
+"Для меня будет честью показать вам мои товары."
+},{"op":"replace","path":"/merchantStart/avikan/avikan/3","value":
+"Капитан! Вас интересует торговля?"
+},{"op":"replace","path":"/merchantStart/avikan/glitch/0","value":
+"Я покажу тебе свои товары, машина, но только потому, что мне нужны деньги."
+},{"op":"replace","path":"/merchantStart/avikan/glitch/1","value":
+"Ты хочешь поторговать, машина?"
+},{"op":"replace","path":"/merchantStart/avikan/glitch/2","value":
+"Я не слишком люблю машины, но ты можешь взглянуть на мои товары, если хочешь."
+},{"op":"replace","path":"/merchantStart/avikan/glitch/3","value":
+"Мой магазин открыт для тебя, машина."
+},{"op":"replace","path":"/merchantStart/avikan/trink/0","value":
+"Я покажу тебе свой товар, машина, но только потому, что мне нужна монета."
+},{"op":"replace","path":"/merchantStart/avikan/trink/1","value":
+"Хочешь торговать, машина?"
+},{"op":"replace","path":"/merchantStart/avikan/trink/2","value":
+"Я не слишком люблю машины, но если хотите, вы можете посмотреть мои изделия."
+},{"op":"replace","path":"/merchantStart/avikan/trink/3","value":
+"Мой магазин открыт для тебя, машина."
+},{"op":"replace","path":"/merchantStart/avikan/droden/0","value":
+"Я покажу тебе свой товар, машина, но только потому, что мне нужна монета."
+},{"op":"replace","path":"/merchantStart/avikan/droden/1","value":
+"Хочешь торговать, машина?"
+},{"op":"replace","path":"/merchantStart/avikan/droden/2","value":
+"Я не слишком люблю машины, но если хотите, вы можете посмотреть мои изделия."
+},{"op":"replace","path":"/merchantStart/avikan/droden/3","value":
+"Мой магазин открыт для тебя, машина."
+},{"op":"replace","path":"/merchantEnd/avikan/default/0","value":
+"Возвращайся в любое время, путник!"
+},{"op":"replace","path":"/merchantEnd/avikan/default/1","value":
+"Возвращайся, когда тебе понадобится больше товаров, путешественник."
+},{"op":"replace","path":"/merchantEnd/avikan/default/2","value":
+"Я буду здесь, если тебе когда-нибудь понадобится что-нибудь еще."
+},{"op":"replace","path":"/merchantEnd/avikan/default/3","value":
+"Радейс снова приведет тебя обратно в мой магазин. А пока, путник."
+},{"op":"replace","path":"/merchantEnd/avikan/avikan/0","value":
+"Возвращайтесь в любое время, капитан!"
+},{"op":"replace","path":"/merchantEnd/avikan/avikan/1","value":
+"Я буду здесь, если мой товар вам когда-нибудь снова понадобится, капитан."
+},{"op":"replace","path":"/merchantEnd/avikan/avikan/2","value":
+"Спасибо за покупку здесь, капитан."
+},{"op":"replace","path":"/merchantEnd/avikan/avikan/3","value":
+"Радеис будет сопровождать вас в вашем путешествии, капитан."
+},{"op":"replace","path":"/merchantEnd/avikan/glitch/0","value":
+"Молодец, машина."
+},{"op":"replace","path":"/merchantEnd/avikan/glitch/1","value":
+"Ты вернешься с большим количеством товаров, да?"
+},{"op":"replace","path":"/merchantEnd/avikan/glitch/2","value":
+"Я буду здесь, если тебе снова понадобится торговать, машина."
+},{"op":"replace","path":"/merchantEnd/avikan/glitch/3","value":
+"Вы закончили торговать?"
+},{"op":"replace","path":"/merchantEnd/avikan/trink/0","value":
+"Молодец, машина."
+},{"op":"replace","path":"/merchantEnd/avikan/trink/1","value":
+"Ты вернешься с большим количеством товаров, да?"
+},{"op":"replace","path":"/merchantEnd/avikan/trink/2","value":
+"Я буду здесь, если тебе снова понадобится торговать, машина."
+},{"op":"replace","path":"/merchantEnd/avikan/trink/3","value":
+"Вы закончили торговать?"
+},{"op":"replace","path":"/merchantEnd/avikan/droden/0","value":
+"Надеюсь, вы нашли то, что искали."
+},{"op":"replace","path":"/merchantEnd/avikan/droden/1","value":
+"Я буду здесь, если тебе понадобится еще товаров, Дроден."
+},{"op":"replace","path":"/merchantEnd/avikan/droden/2","value":
+"До свидания, Дроден."
+},{"op":"replace","path":"/merchantEnd/avikan/droden/3","value":
+"Спасибо за ваши транзакции, Дроден."
+},{"op":"replace","path":"/follow/avikan/default/0","value":
+"Позвольте мне отвезти вас в мой магазин, путник."
+},{"op":"replace","path":"/follow/avikan/default/1","value":
+"Следуй за мной в мой магазин, путник."
+},{"op":"replace","path":"/follow/avikan/avikan/0","value":
+"Я покажу вам мой магазин, капитан."
+},{"op":"replace","path":"/follow/avikan/avikan/1","value":
+"Мои припасы в моем магазине, капитан. Позвольте мне вести вас."
+},{"op":"replace","path":"/follow/avikan/glitch/0","value":
+"Мой магазин здесь, машина."
+},{"op":"replace","path":"/follow/avikan/glitch/1","value":
+"Теперь ты можешь следовать за мной в мой магазин, машина."
+},{"op":"replace","path":"/follow/avikan/trink/0","value":
+"Мой магазин здесь, машина."
+},{"op":"replace","path":"/follow/avikan/trink/1","value":
+"Теперь ты можешь следовать за мной в мой магазин, машина."
+},{"op":"replace","path":"/follow/avikan/droden/0","value":
+"Следуй за мной в мой магазин, Дроден."
+},{"op":"replace","path":"/follow/avikan/droden/1","value":
+"Мои припасы здесь, Дроден."
+},{"op":"replace","path":"/welcome/avikan/default/0","value":
+"Мы здесь. Теперь давайте займемся торговлей!"
+},{"op":"replace","path":"/welcome/avikan/default/1","value":
+"Это мой магазин, путешественник. Добро пожаловать!"
+},{"op":"replace","path":"/welcome/avikan/avikan/0","value":
+"Мы здесь. Добро пожаловать в мой магазин, капитан!"
+},{"op":"replace","path":"/welcome/avikan/avikan/1","value":
+"Добро пожаловать в мой скромный магазин, Капитан!"
+},{"op":"replace","path":"/welcome/avikan/glitch/0","value":
+"Тогда давай поторгуемся, машина."
+},{"op":"replace","path":"/welcome/avikan/glitch/1","value":
+"Ничего не сломай, машина."
+},{"op":"replace","path":"/welcome/avikan/trink/0","value":
+"Тогда давай поторгуемся, машина."
+},{"op":"replace","path":"/welcome/avikan/trink/1","value":
+"Ничего не сломай, машина."
+},{"op":"replace","path":"/welcome/avikan/droden/0","value":
+"Мы достигли пункта назначения, Дроден. Давай торговать."
+},{"op":"replace","path":"/welcome/avikan/droden/1","value":
+"Это мои припасы. Давай торговать."
+},{"op":"replace","path":"/tout/avikan/default/0","value":
+"Лучшие товары по лучшим ценам!"
+},{"op":"replace","path":"/tout/avikan/default/1","value":
+"Хотите торговать? Лучшие товары здесь!"
+},{"op":"replace","path":"/tout/avikan/default/2","value":
+"Товары из Кадавана продаются прямо здесь!"
+},{"op":"replace","path":"/tout/avikan/default/3","value":
+"Здесь только лучшие вещи ручной работы!"
+},{"op":"replace","path":"/tagCriteria/avikan/default/0","value":
+"Кто перевез мои вещи? Я хочу вернуть всё как было!"
+},{"op":"replace","path":"/tagCriteria/avikan/default/1","value":
+"Что-то здесь не так."
+},{"op":"replace","path":"/tagCriteria/avikan/default/2","value":
+"В моей комнате все в беспорядке..."
+},{"op":"replace","path":"/tagCriteria/avikan/default/3","value":
+"Здесь что-то изменилось. Мне это не нравится."
+},{"op":"replace","path":"/tagCriteria/avikan/default/4","value":
+"Мне следует подать жалобу. Кто-то испортил мою комнату."
+},{"op":"replace","path":"/enclosedArea/avikan/default/0","value":
+"Мой дом был поврежден. Мне нужен ремонт!"
+},{"op":"replace","path":"/enclosedArea/avikan/default/1","value":
+"Кто-то сломал мои стены. Ты можешь починить это?"
+},{"op":"replace","path":"/enclosedArea/avikan/default/2","value":
+"Я подаю жалобу о порче дома."
+},{"op":"replace","path":"/enclosedArea/avikan/default/3","value":
+"Мой дом требует ремонта."
+},{"op":"replace","path":"/enclosedArea/avikan/default/4","value":
+"Куда можно подать заявку на ремонт дома?"
+},{"op":"replace","path":"/otherDeed/avikan/default/0","value":
+"Кто-то еще переезжает в это место? А что я?"
+},{"op":"replace","path":"/otherDeed/avikan/default/1","value":
+"Я думал, мы договорились, что это место будет моим."
+},{"op":"replace","path":"/otherDeed/avikan/default/2","value":
+"Я не против жить в одном доме, но это не входило в наш контракт."
+},{"op":"replace","path":"/otherDeed/avikan/default/3","value":
+"Я подаю жалобу. Это место должно было принадлежать мне."
+},{"op":"replace","path":"/otherDeed/avikan/default/4","value":
+"Должно быть, это ошибка. В моем доме есть еще одна вещь!"
+},{"op":"replace","path":"/severe/avikan/default/0","value":
+"Даже открытая пустыня уютнее этого места."
+},{"op":"replace","path":"/severe/avikan/default/1","value":
+"Я скучаю по Кадавану. Это место просто никуда не годится."
+},{"op":"replace","path":"/severe/avikan/default/2","value":
+"Я подаю жалобу. Это место вообще не подойдет."
+},{"op":"replace","path":"/severe/avikan/default/3","value":
+"Эти условия никуда не годятся. Я думаю о переезде."
+},{"op":"replace","path":"/severe/avikan/default/4","value":
+"Клянусь Радеисом, это место ужасно."
+},{"op":"replace","path":"/final/avikan/default/0","value":
+"Мне этого достаточно. Я ухожу."
+},{"op":"replace","path":"/final/avikan/default/1","value":
+"Я возвращаюсь в Номаду. По крайней мере, там люди заботятся друг о друге."
+},{"op":"replace","path":"/final/avikan/default/2","value":
+"Вот и все. Я заканчиваю свой контракт."
+},{"op":"replace","path":"/final/avikan/default/3","value":
+"Клянусь Радеисом, это какой-то беспорядок. Я уезжаю."
+},{"op":"replace","path":"/final/avikan/default/4","value":
+"Я связываюсь с Номадой. Мне пора покинуть это место."
+},{"op":"replace","path":"/beacon/avikan/default/0","value":
+"Ты звал меня?"
+},{"op":"replace","path":"/beacon/avikan/default/1","value":
+"Могу ли я вам чем-то помочь?"
+},{"op":"replace","path":"/beacon/avikan/default/2","value":
+"Приветствую тебя, друг. Я тебе был нужен?"
+},{"op":"replace","path":"/beacon/avikan/default/3","value":
+"Есть ли что-нибудь, что вы хотели бы обсудить?"
+},{"op":"replace","path":"/beacon/avikan/default/4","value":
+"Вас Вха'лейх, мой друг."
+},{"op":"replace","path":"/rent/avikan/default/0","value":
+"Вот, возьми это! Я очень доволен вашим сервисом."
+},{"op":"replace","path":"/rent/avikan/default/1","value":
+"Кочевнику нужно больше таких людей, как вы. Пожалуйста, примите этот знак благодарности."
+},{"op":"replace","path":"/rent/avikan/default/2","value":
+"Спасибо, что приняли такого путешественника, как я. Пожалуйста, возьмите это."
+},{"op":"replace","path":"/rent/avikan/default/3","value":
+"Ты был хорошим другом. Вот, возьми это."
+},{"op":"replace","path":"/rent/avikan/default/4","value":
+"У меня есть для тебя небольшой подарок. Знак благодарности, хоть и небольшой."
+},{"op":"replace","path":"/merchantStart/trink/default/0","value":
+"Добро пожаловать в мой магазин, путешественник."
+},{"op":"replace","path":"/merchantStart/trink/default/1","value":
+"Собираешься ли ты торговать, путешественник?"
+},{"op":"replace","path":"/merchantStart/trink/default/2","value":
+"Вы пришли в нужное место для торговли!"
+},{"op":"replace","path":"/merchantStart/trink/default/3","value":
+"Посмотрите мои товары. Вы не будете разочарованы."
+},{"op":"replace","path":"/merchantEnd/trink/default/0","value":
+"Возвращайся скорее, путник!"
+},{"op":"replace","path":"/merchantEnd/trink/default/1","value":
+"Я останусь здесь, если тебе понадобятся еще товары, путешественник."
+},{"op":"replace","path":"/merchantEnd/trink/default/2","value":
+"Если вам нужно больше товаров, не стесняйтесь вернуться сюда."
+},{"op":"replace","path":"/merchantEnd/trink/default/3","value":
+"Цех благодарит вас за ваш вклад."
+},{"op":"replace","path":"/follow/trink/default/0","value":
+"Разреши мне показать тебе мой магазин, путник."
+},{"op":"replace","path":"/follow/trink/default/1","value":
+"Следуй за мной в мой магазин, путник."
+},{"op":"replace","path":"/welcome/trink/default/0","value":
+"Мы приехали в мой магазин. Давай торговать."
+},{"op":"replace","path":"/welcome/trink/default/1","value":
+"Добро пожаловать в мой магазин, путешественник."
+},{"op":"replace","path":"/tout/trink/default/0","value":
+"Все принадлежности, необходимые для межзвездных путешествий, доступны прямо здесь!"
+},{"op":"replace","path":"/tout/trink/default/1","value":
+"У меня есть все необходимое прямо здесь!"
+},{"op":"replace","path":"/tout/trink/default/2","value":
+"Мой магазин одобрен Единой торговой палатой Альянса!"
+},{"op":"replace","path":"/tout/trink/default/3","value":
+"Лучшие товары продаются прямо здесь!"
+},{"op":"replace","path":"/tagCriteria/trink/default/0","value":
+"В моей ситуации произошли изменения."
+},{"op":"replace","path":"/tagCriteria/trink/default/1","value":
+"Эта комната изменилась..."
+},{"op":"replace","path":"/tagCriteria/trink/default/2","value":
+"Эффективность ниже стандартов. Произошла перемена."
+},{"op":"replace","path":"/tagCriteria/trink/default/3","value":
+"Что-то изменилось. Я хочу вернуть всё как было."
+},{"op":"replace","path":"/tagCriteria/trink/default/4","value":
+"Уровень удовлетворенности резко падает."
+},{"op":"replace","path":"/enclosedArea/trink/default/0","value":
+"Мой дом требует ремонта!"
+},{"op":"replace","path":"/enclosedArea/trink/default/1","value":
+"Эффективность ниже стандартов. Эта территория больше не огорожена."
+},{"op":"replace","path":"/enclosedArea/trink/default/2","value":
+"Стены получили повреждения. Они требуют ремонта."
+},{"op":"replace","path":"/enclosedArea/trink/default/3","value":
+"Это место нуждается в ремонте."
+},{"op":"replace","path":"/enclosedArea/trink/default/4","value":
+"Я не был создан для строительства. Мне нужен кто-то, чтобы починить мои стены."
+},{"op":"replace","path":"/otherDeed/trink/default/0","value":
+"Я предпочитаю не делить это место ни с кем другим."
+},{"op":"replace","path":"/otherDeed/trink/default/1","value":
+"Было достигнуто соглашение – я должен был жить здесь один."
+},{"op":"replace","path":"/otherDeed/trink/default/2","value":
+"Переселение кого-либо в этот дом является нарушением договора."
+},{"op":"replace","path":"/otherDeed/trink/default/3","value":
+"Это не было частью сделки. Это место должно было принадлежать мне."
+},{"op":"replace","path":"/otherDeed/trink/default/4","value":
+"В моем доме появился еще один документ. Должно быть, это ошибка."
+},{"op":"replace","path":"/severe/trink/default/0","value":
+"Даже ледяные щиты Сосульки удобнее, чем это место."
+},{"op":"replace","path":"/severe/trink/default/1","value":
+"Если мои жалобы не будут услышаны, я вернусь в автодром."
+},{"op":"replace","path":"/severe/trink/default/2","value":
+"Это место больше не соответствует моим стандартам. Возможно, мне стоит съехать."
+},{"op":"replace","path":"/severe/trink/default/3","value":
+"Я не могу достичь оптимальной эффективности в этом месте. Возможно, пришло время уйти."
+},{"op":"replace","path":"/severe/trink/default/4","value":
+"Если ситуация останется такой же плохой, как сейчас, я буду вынужден уйти."
+},{"op":"replace","path":"/final/trink/default/0","value":
+"Я крайне недоволен этим местом. Я ухожу."
+},{"op":"replace","path":"/final/trink/default/1","value":
+"Я возвращаюсь в Круг."
+},{"op":"replace","path":"/final/trink/default/2","value":
+"КПД достиг минимума. Я ухожу."
+},{"op":"replace","path":"/final/trink/default/3","value":
+"Это место не соответствует моим стандартам. Я вынужден оставить это."
+},{"op":"replace","path":"/final/trink/default/4","value":
+"Пришло время мне уйти."
+},{"op":"replace","path":"/beacon/trink/default/0","value":
+"Вам потребовалась моя помощь?"
+},{"op":"replace","path":"/beacon/trink/default/1","value":
+"Ты звал меня?"
+},{"op":"replace","path":"/beacon/trink/default/2","value":
+"Тебе нужно было поговорить?"
+},{"op":"replace","path":"/beacon/trink/default/3","value":
+"Требуются ли мои услуги?"
+},{"op":"replace","path":"/beacon/trink/default/4","value":
+"И снова здравствуйте."
+},{"op":"replace","path":"/rent/trink/default/0","value":
+"Возьми это. Это знак моей благодарности."
+},{"op":"replace","path":"/rent/trink/default/1","value":
+"Вы были добры ко мне. Возьми это."
+},{"op":"replace","path":"/rent/trink/default/2","value":
+"Вы были невероятно полезны. Вот подарок для тебя."
+},{"op":"replace","path":"/rent/trink/default/3","value":
+"Подарок за твои проблемы."
+},{"op":"replace","path":"/rent/trink/default/4","value":
+"За все, что ты для меня сделал, возьми это."
+},{"op":"replace","path":"/merchantStart/droden/default/0","value":
+"Пожалуйста, просмотрите товары."
+},{"op":"replace","path":"/merchantStart/droden/default/1","value":
+"Представление товара. Пожалуйста, рассмотрите покупку."
+},{"op":"replace","path":"/merchantStart/droden/default/2","value":
+"Этот отряд предлагает ресурсы."
+},{"op":"replace","path":"/merchantStart/droden/default/3","value":
+"Ваш вклад оценен по достоинству."
+},{"op":"replace","path":"/merchantStart/droden/avikan/0","value":
+"Капитан. Пожалуйста, просмотрите товары."
+},{"op":"replace","path":"/merchantStart/droden/avikan/1","value":
+"Представление товара. Пожалуйста, рассмотрите покупку."
+},{"op":"replace","path":"/merchantStart/droden/avikan/2","value":
+"Этот отряд предлагает ресурсы."
+},{"op":"replace","path":"/merchantStart/droden/avikan/3","value":
+"Ваш вклад оценен по достоинству."
+},{"op":"replace","path":"/merchantStart/droden/droden/0","value":
+"Инициализация процедур продаж."
+},{"op":"replace","path":"/merchantStart/droden/droden/1","value":
+"Представление товара. Пожалуйста, рассмотрите покупку."
+},{"op":"replace","path":"/merchantStart/droden/droden/2","value":
+"Этот отряд предлагает ресурсы."
+},{"op":"replace","path":"/merchantStart/droden/droden/3","value":
+"Ваш вклад оценен по достоинству."
+},{"op":"replace","path":"/merchantEnd/droden/default/0","value":
+"Торговое государство отключилось."
+},{"op":"replace","path":"/merchantEnd/droden/default/1","value":
+"Пожалуйста, вернитесь поскорее."
+},{"op":"replace","path":"/merchantEnd/droden/default/2","value":
+"Спасибо вам за ваш вклад."
+},{"op":"replace","path":"/merchantEnd/droden/default/3","value":
+"Этот отряд останется здесь до вашего возвращения."
+},{"op":"replace","path":"/merchantEnd/droden/avikan/0","value":
+"Пожалуйста, подумайте о возвращении в будущем, капитан."
+},{"op":"replace","path":"/merchantEnd/droden/avikan/1","value":
+"Торговое государство отключилось."
+},{"op":"replace","path":"/merchantEnd/droden/avikan/2","value":
+"Завершение продажи. Спасибо, капитан."
+},{"op":"replace","path":"/merchantEnd/droden/avikan/3","value":
+"Вас Вха'лейх."
+},{"op":"replace","path":"/merchantEnd/droden/droden/0","value":
+"Торговое государство отключилось."
+},{"op":"replace","path":"/merchantEnd/droden/droden/1","value":
+"Пожалуйста, вернитесь поскорее."
+},{"op":"replace","path":"/merchantEnd/droden/droden/2","value":
+"Спасибо вам за ваш вклад."
+},{"op":"replace","path":"/merchantEnd/droden/droden/3","value":
+"Этот отряд останется здесь до вашего возвращения."
+},{"op":"replace","path":"/follow/droden/default/0","value":
+"Следуйте за устройством для сохранения."
+},{"op":"replace","path":"/follow/droden/default/1","value":
+"Отделение движется к товарам. Пожалуйста, следуйте."
+},{"op":"replace","path":"/follow/droden/avikan/0","value":
+"Пожалуйста, следуйте за этим отрядом в магазин, капитан."
+},{"op":"replace","path":"/follow/droden/avikan/1","value":
+"Припасы находятся в другом месте. Пожалуйста, следуйте."
+},{"op":"replace","path":"/follow/droden/droden/0","value":
+"Следуйте за устройством для сохранения."
+},{"op":"replace","path":"/follow/droden/droden/1","value":
+"Отделение движется к товарам. Пожалуйста, следуйте."
+},{"op":"replace","path":"/welcome/droden/default/0","value":
+"Устройство достигло магазина. Пожалуйста, занимайтесь торговлей."
+},{"op":"replace","path":"/welcome/droden/default/1","value":
+"Отделение прибыло. Торговля теперь включена."
+},{"op":"replace","path":"/welcome/droden/avikan/0","value":
+"Устройство достигло магазина. Пожалуйста, занимайтесь торговлей."
+},{"op":"replace","path":"/welcome/droden/avikan/1","value":
+"Отделение прибыло. Торговля теперь включена."
+},{"op":"replace","path":"/welcome/droden/glitch/0","value":
+"Устройство достигло магазина. Пожалуйста, занимайтесь торговлей."
+},{"op":"replace","path":"/welcome/droden/glitch/1","value":
+"Отделение прибыло. Торговля теперь включена."
+},{"op":"replace","path":"/tout/droden/default/0","value":
+"Доступные ресурсы. Пожалуйста, рассмотрите покупку."
+},{"op":"replace","path":"/tout/droden/default/1","value":
+"Вещи на продажу. Пожалуйста, торгуйтесь."
+},{"op":"replace","path":"/tout/droden/default/2","value":
+"Этот отряд предлагает ресурсы. Пожалуйста, рассмотрите покупку."
+},{"op":"replace","path":"/tout/droden/default/3","value":
+"Это подразделение имеет право продавать товары. Пожалуйста, рассмотрите возможность торговли."
+},{"op":"replace","path":"/tagCriteria/droden/default/0","value":
+"Изменилась жилищная ситуация."
+},{"op":"replace","path":"/tagCriteria/droden/default/1","value":
+"Неудовлетворенный. Условия изменились."
+},{"op":"replace","path":"/tagCriteria/droden/default/2","value":
+"Обнаружено изменение. Неудовлетворенный."
+},{"op":"replace","path":"/tagCriteria/droden/default/3","value":
+"Подача жалобы. Ситуации изменились."
+},{"op":"replace","path":"/tagCriteria/droden/default/4","value":
+"Ошибка. Окружение изменилось."
+},{"op":"replace","path":"/enclosedArea/droden/default/0","value":
+"Безопасность дома нарушена."
+},{"op":"replace","path":"/enclosedArea/droden/default/1","value":
+"Запрос на ремонт."
+},{"op":"replace","path":"/enclosedArea/droden/default/2","value":
+"Требуется ремонт."
+},{"op":"replace","path":"/enclosedArea/droden/default/3","value":
+"Стены повреждены. Жаловаться."
+},{"op":"replace","path":"/enclosedArea/droden/default/4","value":
+"Оформление заявки на ремонт дома."
+},{"op":"replace","path":"/otherDeed/droden/default/0","value":
+"Обнаружен дополнительный акт. Неудовлетворенный."
+},{"op":"replace","path":"/otherDeed/droden/default/1","value":
+"Обнаружен дополнительный акт. Жаловаться."
+},{"op":"replace","path":"/otherDeed/droden/default/2","value":
+"Обнаружено нарушение договора. Пожалуйста, удалите дополнительные документы."
+},{"op":"replace","path":"/otherDeed/droden/default/3","value":
+"Запрос на удаление дополнительных документов."
+},{"op":"replace","path":"/otherDeed/droden/default/4","value":
+"Ошибка. Обнаружен дополнительный акт."
+},{"op":"replace","path":"/severe/droden/default/0","value":
+"Подготовка к отъезду. Недоволен сервисом."
+},{"op":"replace","path":"/severe/droden/default/1","value":
+"Этот аппарат неудовлетворительный. Подготовка к отъезду."
+},{"op":"replace","path":"/severe/droden/default/2","value":
+"Подача жалобы. Этот дом не соответствует универсальным стандартам."
+},{"op":"replace","path":"/severe/droden/default/3","value":
+"Неудовлетворенный. Готовимся к отъезду."
+},{"op":"replace","path":"/severe/droden/default/4","value":
+"Сервис неудовлетворительный."
+},{"op":"replace","path":"/final/droden/default/0","value":
+"Отправление."
+},{"op":"replace","path":"/final/droden/default/1","value":
+"Запрашиваю трансфер от Номада."
+},{"op":"replace","path":"/final/droden/default/2","value":
+"Завершение контракта."
+},{"op":"replace","path":"/final/droden/default/3","value":
+"Этот аппарат неудовлетворительный. Выходя из дома."
+},{"op":"replace","path":"/final/droden/default/4","value":
+"Начинаем выезд."
+},{"op":"replace","path":"/beacon/droden/default/0","value":
+"Этот аппарат принял ваш звонок."
+},{"op":"replace","path":"/beacon/droden/default/1","value":
+"Вам нужны услуги этого подразделения?"
+},{"op":"replace","path":"/beacon/droden/default/2","value":
+"Вызов принят. Аппарат прибыл, как и просили."
+},{"op":"replace","path":"/beacon/droden/default/3","value":
+"Звонок услышан. Нужен ли этот агрегат?"
+},{"op":"replace","path":"/beacon/droden/default/4","value":
+"Вас Вха'лейх."
+},{"op":"replace","path":"/rent/droden/default/0","value":
+"Доволен обслуживанием. Вручение подарка."
+},{"op":"replace","path":"/rent/droden/default/1","value":
+"Вручение подарка. Ваша служба достойна восхищения."
+},{"op":"replace","path":"/rent/droden/default/2","value":
+"Ваши действия заслуживают награды. Возьми это."
+},{"op":"replace","path":"/rent/droden/default/3","value":
+"Вы были заслужены. Вручение подарка."
+},{"op":"replace","path":"/rent/droden/default/4","value":
+"Вручение знака благодарности. Возьми это."
+},{"op":"replace","path":"/merchantStart/aegi/default/0","value":
+"Приходите и посмотрите!"
+},{"op":"replace","path":"/merchantStart/aegi/default/1","value":
+"Я уверен, что вы найдете то, что ищете."
+},{"op":"replace","path":"/merchantStart/aegi/default/2","value":
+"Посмотрите, у меня много товаров на продажу."
+},{"op":"replace","path":"/merchantStart/aegi/default/3","value":
+"Взгляните на мой товар, ладно?"
+},{"op":"replace","path":"/merchantEnd/aegi/default/0","value":
+"Ты будешь знать, где я буду, если тебе понадобится что-нибудь еще!"
+},{"op":"replace","path":"/merchantEnd/aegi/default/1","value":
+"Возвращайся в любое время."
+},{"op":"replace","path":"/merchantEnd/aegi/default/2","value":
+"Приходите еще!"
+},{"op":"replace","path":"/merchantEnd/aegi/default/3","value":
+"Вспомни меня в следующий раз, когда тебе понадобятся припасы!"
+},{"op":"replace","path":"/follow/aegi/default/0","value":
+"Давай, следуй за мной в мой магазин."
+},{"op":"replace","path":"/follow/aegi/default/1","value":
+"Мой магазин находится в этой стороне."
+},{"op":"replace","path":"/welcome/aegi/default/0","value":
+"Мы здесь. Вы искали что-то конкретное?"
+},{"op":"replace","path":"/welcome/aegi/default/1","value":
+"Добро пожаловать в мой магазин!"
+},{"op":"replace","path":"/tout/aegi/default/0","value":
+"У меня есть лучшие товары, которые можно купить за деньги!"
+},{"op":"replace","path":"/tout/aegi/default/1","value":
+"Лучшие товары по лучшим ценам!"
+},{"op":"replace","path":"/tout/aegi/default/2","value":
+"Я могу получить все, что вам нужно!"
+},{"op":"replace","path":"/tout/aegi/default/3","value":
+"Только лучшее для моих клиентов!"
+},{"op":"replace","path":"/tagCriteria/aegi/default/0","value":
+"Кто-то переместил мои вещи!"
+},{"op":"replace","path":"/tagCriteria/aegi/default/1","value":
+"Что-то здесь не так..."
+},{"op":"replace","path":"/tagCriteria/aegi/default/2","value":
+"В моей комнате все в беспорядке!"
+},{"op":"replace","path":"/tagCriteria/aegi/default/3","value":
+"Мне не нравятся эти изменения."
+},{"op":"replace","path":"/tagCriteria/aegi/default/4","value":
+"Кто-то испортил мое место!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/0","value":
+"Стены рухнули!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/1","value":
+"Не могли бы вы отремонтировать мой дом? Стены сломаны!"
+},{"op":"replace","path":"/enclosedArea/aegi/default/2","value":
+"Мое место было повреждено! Ты можешь починить это?"
+},{"op":"replace","path":"/enclosedArea/aegi/default/3","value":
+"Это место нуждается в ремонте."
+},{"op":"replace","path":"/enclosedArea/aegi/default/4","value":
+"Кто-то должен заглянуть в эти разрушенные стены."
+},{"op":"replace","path":"/otherDeed/aegi/default/0","value":
+"Что с этим вторым делом? Это должно было быть мое место!"
+},{"op":"replace","path":"/otherDeed/aegi/default/1","value":
+"Разве это место не должно было принадлежать только мне?"
+},{"op":"replace","path":"/otherDeed/aegi/default/2","value":
+"В договоре не упоминался второй житель."
+},{"op":"replace","path":"/otherDeed/aegi/default/3","value":
+"Эй, что это!? Я никогда не соглашалась жить вместе с кем-то еще."
+},{"op":"replace","path":"/otherDeed/aegi/default/4","value":
+"Произошла ошибка, это место должно было быть моим!"
+},{"op":"replace","path":"/severe/aegi/default/0","value":
+"Это место больше не похоже на дом..."
+},{"op":"replace","path":"/severe/aegi/default/1","value":
+"Думаю, я возвращаюсь в Элитию."
+},{"op":"replace","path":"/severe/aegi/default/2","value":
+"Мне здесь больше не нравится."
+},{"op":"replace","path":"/severe/aegi/default/3","value":
+"Если в ближайшее время ситуация не улучшится, я уеду."
+},{"op":"replace","path":"/severe/aegi/default/4","value":
+"Даже путешествие сюда было более комфортным, чем в это дурацкое место."
+},{"op":"replace","path":"/final/aegi/default/0","value":
+"У меня было это с этим местом. Я ухожу."
+},{"op":"replace","path":"/final/aegi/default/1","value":
+"Я уезжаю. Это место превратилось в абсолютный беспорядок."
+},{"op":"replace","path":"/final/aegi/default/2","value":
+"Всё, я покидаю это место."
+},{"op":"replace","path":"/final/aegi/default/3","value":
+"Я возвращаюсь в дом своих родителей."
+},{"op":"replace","path":"/final/aegi/default/4","value":
+"Это место вызывает у меня отвращение. Я выхожу отсюда."
+},{"op":"replace","path":"/beacon/aegi/default/0","value":
+"Ты звал меня?"
+},{"op":"replace","path":"/beacon/aegi/default/1","value":
+"Могу ли я помочь?"
+},{"op":"replace","path":"/beacon/aegi/default/2","value":
+"Я тебе был нужен?"
+},{"op":"replace","path":"/beacon/aegi/default/3","value":
+"Привет! Зачем ты меня позвал?"
+},{"op":"replace","path":"/beacon/aegi/default/4","value":
+"Хотите поговорить?"
+},{"op":"replace","path":"/rent/aegi/default/0","value":
+"Ты отличный хозяин. Вот, возьми это."
+},{"op":"replace","path":"/rent/aegi/default/1","value":
+"Я думаю, тебе это понравится!"
+},{"op":"replace","path":"/rent/aegi/default/2","value":
+"Дом отличный! Пожалуйста, возьмите это."
+},{"op":"replace","path":"/rent/aegi/default/3","value":
+"У меня есть кое-что для тебя!"
+},{"op":"replace","path":"/rent/aegi/default/4","value":
+"Продолжайте в том же духе, а я буду продолжать платить за квартиру."
+},{"op":"replace","path":"/merchantStart/akkimari/default/0","value":
+"Акки продают вещи, вы покупаете!"
+},{"op":"replace","path":"/merchantStart/akkimari/default/1","value":
+"Приходите посмотреть, приходите посмотреть! Акки продаю вещей-много!"
+},{"op":"replace","path":"/merchantStart/akkimari/default/2","value":
+"Смотришь на товары-Акки, или Акки злятся."
+},{"op":"replace","path":"/merchantStart/akkimari/default/3","value":
+"Акки хочет, чтобы ты купил много вещей. Акки продают товар-хорошо!"
+},{"op":"replace","path":"/merchantEnd/akkimari/default/0","value":
+"Возвращайся скорее-скорее! Акки ждет тебя!"
+},{"op":"replace","path":"/merchantEnd/akkimari/default/1","value":
+"Акки хочет продавать больше. Возвращайся скорее."
+},{"op":"replace","path":"/merchantEnd/akkimari/default/2","value":
+"Покупайте вещи - скорее!"
+},{"op":"replace","path":"/merchantEnd/akkimari/default/3","value":
+"У Акки есть вещи - больше продавай!"
+},{"op":"replace","path":"/follow/akkimari/default/0","value":
+"Следуйте за Акки к припасам-Акки. Приобретайте товары там."
+},{"op":"replace","path":"/follow/akkimari/default/1","value":
+"Магазин-Акки вот так. Следовать."
+},{"op":"replace","path":"/welcome/akkimari/default/0","value":
+"Припасы-Акки здесь! Что вам нужно?"
+},{"op":"replace","path":"/welcome/akkimari/default/1","value":
+"Добро пожаловать в магазин-Акки!"
+},{"op":"replace","path":"/tout/akkimari/default/0","value":
+"У Акки товар-лучший! Цены-тоже лучшие!"
+},{"op":"replace","path":"/tout/akkimari/default/1","value":
+"Акки продаю вещей-много! Приходите посмотреть!"
+},{"op":"replace","path":"/tout/akkimari/default/2","value":
+"Приходите покупать у Акки! Акки обещают только продавать товар-хорошо!"
+},{"op":"replace","path":"/tout/akkimari/default/3","value":
+"У Акки дела-лучшие! Купите их сейчас!"
+},{"op":"replace","path":"/tagCriteria/akkimari/default/0","value":
+"Акки злится! Кекки перенес вещи-Акки..."
+},{"op":"replace","path":"/tagCriteria/akkimari/default/1","value":
+"Что-то здесь не так. Акки что-то упустил."
+},{"op":"replace","path":"/tagCriteria/akkimari/default/2","value":
+"Номер-Акки все перепутал!"
+},{"op":"replace","path":"/tagCriteria/akkimari/default/3","value":
+"Акки, нет, как перемены! Измените его обратно, сейчас же!"
+},{"op":"replace","path":"/tagCriteria/akkimari/default/4","value":
+"Кекки разрушил дом-Акки!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/0","value":
+"Главная-Акки сломаны! Нужен ремонт!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/1","value":
+"Тебе нужно починить дом-Акки, сейчас же!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/2","value":
+"Стены сломаны, надо чинить..."
+},{"op":"replace","path":"/enclosedArea/akkimari/default/3","value":
+"Вы ремонтируете дом-акки сейчас. Акки злится!"
+},{"op":"replace","path":"/enclosedArea/akkimari/default/4","value":
+"Стены разбиты, в дом-Акки приходят плохие вещи. Акки не нравится."
+},{"op":"replace","path":"/otherDeed/akkimari/default/0","value":
+"Акки, не хочу делить дом-Акки!"
+},{"op":"replace","path":"/otherDeed/akkimari/default/1","value":
+"Дом-акки только для акки. Убейте других жильцов, если это необходимо Акки!"
+},{"op":"replace","path":"/otherDeed/akkimari/default/2","value":
+"Акки согласилась жить одна. Нет необходимости в другом арендаторе."
+},{"op":"replace","path":"/otherDeed/akkimari/default/3","value":
+"Акки злится, Акки не хочет жить вместе."
+},{"op":"replace","path":"/otherDeed/akkimari/default/4","value":
+"Вы удалите другой поступок! Акки хочет жить одна."
+},{"op":"replace","path":"/severe/akkimari/default/0","value":
+"Дома-Акки дома больше нет..."
+},{"op":"replace","path":"/severe/akkimari/default/1","value":
+"Акки собирается вернуться к уборке мусора. Акки больше не похож на дом."
+},{"op":"replace","path":"/severe/akkimari/default/2","value":
+"Акки злится, хочет покинуть это место - это..."
+},{"op":"replace","path":"/severe/akkimari/default/3","value":
+"Акки скоро уйдет, если ничего не изменится."
+},{"op":"replace","path":"/severe/akkimari/default/4","value":
+"Ты, домовладелец, плохой. Акки не нравится место-это."
+},{"op":"replace","path":"/final/akkimari/default/0","value":
+"Акки уходит. Зол на тебя."
+},{"op":"replace","path":"/final/akkimari/default/1","value":
+"Дома-Акки дома больше нет. Акки находит другой дом."
+},{"op":"replace","path":"/final/akkimari/default/2","value":
+"Гах, Акки ненавижу это место! ."
+},{"op":"replace","path":"/final/akkimari/default/3","value":
+"Акки почувствовала отвращение. Дома-ужасно, Акки уходит."
+},{"op":"replace","path":"/final/akkimari/default/4","value":
+"Дома-плохо, Акки не нравится здесь жить. Акки возвращается к уборке мусора."
+},{"op":"replace","path":"/beacon/akkimari/default/0","value":
+"Ты зови, Акки приезжай!"
+},{"op":"replace","path":"/beacon/akkimari/default/1","value":
+"Позовите Акки, Акки здесь."
+},{"op":"replace","path":"/beacon/akkimari/default/2","value":
+"Позвать Акки?"
+},{"op":"replace","path":"/beacon/akkimari/default/3","value":
+"Дааа?"
+},{"op":"replace","path":"/beacon/akkimari/default/4","value":
+"Что вы хотите? Акки, послушай!"
+},{"op":"replace","path":"/rent/akkimari/default/0","value":
+"Акки доволен домом-Акки. Вы получаете награду!"
+},{"op":"replace","path":"/rent/akkimari/default/1","value":
+"Дом-акки делает Акки счастливой. Акки-рада дарить подарки!"
+},{"op":"replace","path":"/rent/akkimari/default/2","value":
+"Вы делаете дом добрым. Акки подари подарок."
+},{"op":"replace","path":"/rent/akkimari/default/3","value":
+"Акки доволен, это правда-правда. Акки тебя тоже порадует!"
+},{"op":"replace","path":"/rent/akkimari/default/4","value":
+"Акки платят аренду, Акки арендатор-хорошо. Теперь вернемся к тому, что делал Акки."
+}]

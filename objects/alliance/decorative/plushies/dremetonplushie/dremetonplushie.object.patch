@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Дреметон Плюшевый",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка Дреметон из мягких тканей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это существо выглядит водным.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Детская игрушка, какой-то водный инопланетянин.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану это кажется милым.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Какое существо это может представлять?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная плюшевая игрушка. Выглядит водным.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне кажется, что эти существа тоже могут быть обитателями океанов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то плюшевая штука.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот плюшевый Дреметон очень популярен среди эгинских детей. Взрослые, кстати, тоже.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная игрушка. Я думаю, что это может быть основано на водном существе.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это игрушечный Дреметон.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная игрушка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Игрушка-инопланетянка, мягкая-очень.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дреметон Плюшевый"
+},{"op":"replace","path":"/description","value":
+"Игрушка Дреметон из мягких тканей."
+},{"op":"replace","path":"/apexDescription","value":
+"Это существо выглядит водным."
+},{"op":"replace","path":"/avianDescription","value":
+"Детская игрушка, какой-то водный инопланетянин."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану это кажется милым."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Какое существо это может представлять?"
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетная плюшевая игрушка. Выглядит водным."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Мне кажется, что эти существа тоже могут быть обитателями океанов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то плюшевая штука."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот плюшевый Дреметон очень популярен среди эгинских детей. Взрослые, кстати, тоже."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетная игрушка. Я думаю, что это может быть основано на водном существе."
+},{"op":"replace","path":"/trinkDescription","value":
+"Это игрушечный Дреметон."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная игрушка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Игрушка-инопланетянка, мягкая-очень."
+}]

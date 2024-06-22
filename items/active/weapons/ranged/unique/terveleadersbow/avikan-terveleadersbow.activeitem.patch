@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Разносторонняя лайнтовка, достойная настоящего лидера терва.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Лук Терваничия^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Ищущий выстрел",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Разносторонняя лайнтовка, достойная настоящего лидера терва."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Стрел Терваничия^white;"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Ищущий выстрел"
+}]

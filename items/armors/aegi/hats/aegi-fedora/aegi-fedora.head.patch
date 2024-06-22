@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Стильная федора.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Федора Союза",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Стильная федора."
+},{"op":"replace","path":"/shortdescription","value":
+"Федора Союза"
+}]

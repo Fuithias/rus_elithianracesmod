@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Центенсийский монолит",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит из чистого центенского металла.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит из какого-то странного металла. Кто бы мог построить такое?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий монолит. У меня странное ощущение, просто стоя рядом с ним...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит заставляет Флорана чувствовать себя странно внутри...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Этот монолит каким-то образом мешает моим сенсорам.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит какой-то. Почему я чувствую себя так странно?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит из неизвестного металла – как загадочно!",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот прекрасный монолит.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсийский монолит. Нам так и не удалось выяснить назначение этих плит.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот монолит Древних является объектом огромной важности в религии Райод.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Монолит, построенный в Сентенсиане. Какова может быть его цель?",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен центенский монолит. Расчет возраста не удался.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Артефакт-странный монолит бога-творца.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенсийский монолит"
+},{"op":"replace","path":"/description","value":
+"Монолит из чистого центенского металла."
+},{"op":"replace","path":"/apexDescription","value":
+"Монолит из какого-то странного металла. Кто бы мог построить такое?"
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий монолит. У меня странное ощущение, просто стоя рядом с ним..."
+},{"op":"replace","path":"/floranDescription","value":
+"Монолит заставляет Флорана чувствовать себя странно внутри..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Этот монолит каким-то образом мешает моим сенсорам."
+},{"op":"replace","path":"/humanDescription","value":
+"Монолит какой-то. Почему я чувствую себя так странно?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Монолит из неизвестного металла – как загадочно!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Вот прекрасный монолит."
+},{"op":"replace","path":"/aegiDescription","value":
+"Центенсийский монолит. Нам так и не удалось выяснить назначение этих плит."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот монолит Древних является объектом огромной важности в религии Райод."
+},{"op":"replace","path":"/trinkDescription","value":
+"Монолит, построенный в Сентенсиане. Какова может быть его цель?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен центенский монолит. Расчет возраста не удался."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Артефакт-странный монолит бога-творца."
+}]

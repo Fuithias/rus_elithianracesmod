@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авангардная ролевая игра",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлена ​​ракетная установка «Авикан».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Эта ракетная установка выглядит устрашающе.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие огромной силы.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорана не пугает бум-сспалка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запуган. Одна-единственная ракета из этого оружия могла разрушить мой корпус.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крутая ракетная установка, если я ее когда-либо видел!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие огромной разрушительной силы.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатляющее оружие конструкции Авикан.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта ракетная установка «Авангард» вселяет страх в любого врага.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно неэффективная машина для убийства, но тем не менее эффективная.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено взрывное оружие. Пожалуйста, соблюдайте осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ракета-пусковая установка, сделайте большой взрыв! Сделайте Акки счастливой.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авангардная РПГ"
+},{"op":"replace","path":"/description","value":
+"На выставке представлена ​​ракетная установка Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Эта ракетная установка выглядит устрашающе."
+},{"op":"replace","path":"/avianDescription","value":
+"Оружие огромной силы."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорана не пугает бум-сспалка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Запуган. Одна-единственная ракета из этого оружия могла разрушить мой корпус."
+},{"op":"replace","path":"/humanDescription","value":
+"Крутая ракетная установка, если я ее когда-либо видел!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Оружие огромной разрушительной силы."
+},{"op":"replace","path":"/aegiDescription","value":
+"Впечатляющее оружие конструкции Авикан."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта ракетная установка Авангард вселяет страх в любого врага."
+},{"op":"replace","path":"/trinkDescription","value":
+"Довольно неэффективная машина для убийства, но тем не менее эффективная."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено взрывное оружие. Пожалуйста, соблюдайте осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ракета-пусковая установка, сделайте большой взрыв! Сделайте Акки счастливой."
+}]

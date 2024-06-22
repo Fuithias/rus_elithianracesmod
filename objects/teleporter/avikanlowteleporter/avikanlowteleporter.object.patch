@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Маленький Авиканский телепорт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение: Этот телепорт был построен в инопланетном стиле.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, построенный в инопланетном стиле.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканский телепорт. Он испускает частицы, напоминающие те, что встречаются в устройствах Centensian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепортатор. На Кадаване их использовали редко, но те времена давно прошли...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт использует технологии, изобретенные Центенами.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено телепортационное устройство Авикан. Шанс на успешную телепортацию: 99 процентов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт-инопланетянин, застави Акки закружиться.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленький Авиканский телепорт"
+},{"op":"replace","path":"/description","value":
+"Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке."
+},{"op":"replace","path":"/apexDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/avianDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение: Этот телепорт был построен в инопланетном стиле."
+},{"op":"replace","path":"/humanDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/novakidDescription","value":
+"Телепорт, построенный в инопланетном стиле."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авиканский телепорт. Он испускает частицы, напоминающие те, что встречаются в устройствах Centensian."
+},{"op":"replace","path":"/avikanDescription","value":
+"Телепортатор. На Кадаване их использовали редко, но те времена давно прошли..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот телепорт использует технологии, изобретенные Центенами."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено телепортационное устройство Авикан. Шанс на успешную телепортацию: 99 процентов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт-инопланетянин, застави Акки закружиться."
+}]

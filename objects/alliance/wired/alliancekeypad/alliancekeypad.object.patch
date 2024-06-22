@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Клавиатура Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Программируемая клавиатура для запирания дверей паролем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура. Я могу использовать его, чтобы запереть дверь паролем.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура, полезная для блокировки драгоценных камней в хранилище.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран нажимает кнопки, Флоран открывает двери!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Что это может разблокировать?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это клавиатура. Надо попробовать несколько комбинаций!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура, высокоэффективная для надежного запирания вещей.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я никогда не хорошо запоминал пароли.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура, созданная AAE. Он использует простой пятизначный пароль.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура. Символы на нем странные.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Клавиатура. Очень эффективен и эффективен для надежного запирания дверей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена клавиатура безопасности инопланетянина.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нужен код... Акки хочу сломать!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Клавиатура Альянса"
+},{"op":"replace","path":"/description","value":
+"Программируемая клавиатура для запирания дверей паролем."
+},{"op":"replace","path":"/apexDescription","value":
+"Клавиатура. Я могу использовать его, чтобы запереть дверь паролем."
+},{"op":"replace","path":"/avianDescription","value":
+"Клавиатура, полезная для блокировки драгоценных камней в хранилище."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран нажимает кнопки, Флоран открывает двери!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Что это может разблокировать?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это клавиатура. Надо попробовать несколько комбинаций!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Клавиатура, высокоэффективная для надежного запирания вещей."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я никогда не хорошо запоминал пароли."
+},{"op":"replace","path":"/aegiDescription","value":
+"Клавиатура, созданная ПАИ. Он использует простой пятизначный пароль."
+},{"op":"replace","path":"/avikanDescription","value":
+"Клавиатура. Символы на нем странные."
+},{"op":"replace","path":"/trinkDescription","value":
+"Клавиатура. Очень эффективен и эффективен для надежного запирания дверей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена клавиатура безопасности инопланетянина."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нужен код... Акки хочу сломать!"
+}]

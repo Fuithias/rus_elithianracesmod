@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Номер Ноль",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер ноль в сценарии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Номер ноль в инопланетном письме.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чужой номер. Я считаю, что это ноль.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что означает инопланетный символ.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Информирован. Этот инопланетный символ означает ноль.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ноль в каком-то инопланетном сценарии.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный символ числа ноль.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, это число означает ноль.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер ноль.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Число. Нуль.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номер-чужой. Ноль, думает Акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Номер Ноль"
+},{"op":"replace","path":"/description","value":
+"Номер ноль в сценарии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Номер ноль в инопланетном письме."
+},{"op":"replace","path":"/avianDescription","value":
+"Чужой номер. Я считаю, что это ноль."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что означает инопланетный символ."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информирован. Этот инопланетный символ означает ноль."
+},{"op":"replace","path":"/humanDescription","value":
+"Ноль в каком-то инопланетном сценарии."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетный символ числа ноль."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, это число означает ноль."
+},{"op":"replace","path":"/avikanDescription","value":
+"Номер ноль."
+},{"op":"replace","path":"/drodenDescription","value":
+"Число. Нуль."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Номер-чужой. Ноль, думает Акки."
+}]

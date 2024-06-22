@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Вызывает ховербайк Воробей Веронаса из грузового отсека вашего корабля.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Контроллер Воробья Веронаса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Вызывает ховербайк Воробей Веронаса из грузового отсека вашего корабля."
+},{"op":"replace","path":"/shortdescription","value":
+"Контроллер Воробья Веронаса"
+}]

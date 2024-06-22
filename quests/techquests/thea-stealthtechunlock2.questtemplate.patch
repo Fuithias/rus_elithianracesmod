@@ -1,32 +1,13 @@
-[
-  {
-    "value": "^orange;Скрытная Технология Чачарры II",
-    "path": "/title",
-    "op": "replace"
-  },
-  {
-    "value": "Прежде чем вы получите технологию, Чачарра должен убедиться, что вы знаете, как она работает. ^green;Пройдите ^orange;тестовый курс ^green;Чачарры^reset;, тогда ^orange;Скрытная Технология ^reset;будет вашей навсегда!",
-    "path": "/text",
-    "op": "replace"
-  },
-  {
-    "value": "Чачарра впечатлен, вы умелы! Вы сохраняете ^orange;Скрытную Технологию^reset;, используйте её, чтобы прокрасться мимо многих врагов...",
-    "path": "/completionText",
-    "op": "replace"
-  },
-  {
-    "value": "Поговорите с ^orange;Чачаррой^reset;, чтобы войти в ^orange;тестовый курс^reset;",
-    "path": "/scriptConfig/descriptions/enterInstance",
-    "op": "replace"
-  },
-  {
-    "value": "Пройдите ^orange;тестовый курс Скрытной Технологии^reset;",
-    "path": "/scriptConfig/descriptions/findGoal",
-    "op": "replace"
-  },
-  {
-    "value": "Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольстве Креона^reset;",
-    "path": "/scriptConfig/descriptions/turnIn",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/title","value":
+"^orange;Скрытная Технология Чачарры II"
+},{"op":"replace","path":"/text","value":
+"Прежде чем вы получите технологию, Чачарра должен убедиться, что вы знаете, как она работает. ^green;Пройдите ^orange;тестовый курс ^green;Чачарры^reset;, тогда ^orange;Скрытная Технология ^reset;будет вашей навсегда!"
+},{"op":"replace","path":"/completionText","value":
+"Чачарра впечатлен, вы умелы! Вы сохраняете ^orange;Скрытную Технологию^reset;, используйте её, чтобы прокрасться мимо многих врагов..."
+},{"op":"replace","path":"/scriptConfig/descriptions/enterInstance","value":
+"Поговорите с ^orange;Чачаррой^reset;, чтобы войти в ^orange;тестовый курс^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/findGoal","value":
+"Пройдите ^orange;тестовый курс Скрытной Технологии^reset;"
+},{"op":"replace","path":"/scriptConfig/descriptions/turnIn","value":
+"Вернитесь к ^orange;Чачарре ^reset;в ^orange;Посольстве Креона^reset;"
+}]

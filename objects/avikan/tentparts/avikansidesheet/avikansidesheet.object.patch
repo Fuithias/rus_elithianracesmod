@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Лист",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, прикрепленный к стене здания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный лист.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист. Довольно скучно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Простой кожаный лист.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, простой и простой.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой кожаный лист.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, простой и понятный.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой лист кожи, который можно прикрепить к стене здания.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист. В основном он носит декоративный характер.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен кожаный лист.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист-кожа.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Лист"
+},{"op":"replace","path":"/description","value":
+"Кожаный лист, прикрепленный к стене здания."
+},{"op":"replace","path":"/apexDescription","value":
+"Простой кожаный лист."
+},{"op":"replace","path":"/avianDescription","value":
+"Кожаный лист. Довольно скучно."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Простой кожаный лист."
+},{"op":"replace","path":"/humanDescription","value":
+"Кожаный лист, простой и простой."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой кожаный лист."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаный лист, простой и понятный."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простой лист кожи, который можно прикрепить к стене здания."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кожаный лист. В основном он носит декоративный характер."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный лист."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен кожаный лист."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Лист-кожа."
+}]

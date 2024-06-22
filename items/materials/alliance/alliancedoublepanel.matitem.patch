@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Многослойные металлические панели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Двойная панель альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Многослойные металлические панели."
+},{"op":"replace","path":"/shortdescription","value":
+"Двойная панель альянса"
+}]

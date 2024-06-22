@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Боевая кираса из прочных металлов. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Поножи налетчика р.С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Боевая кираса из прочных металлов. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Поножи налетчика р.С"
+}]

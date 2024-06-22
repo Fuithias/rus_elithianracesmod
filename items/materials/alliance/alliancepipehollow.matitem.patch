@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Тяжелая, толстая труба. Через него могут течь жидкости.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Трубка Альянса (полая)",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Тяжелая, толстая труба. Через него могут течь жидкости."
+},{"op":"replace","path":"/shortdescription","value":
+"Трубка Альянса (полая)"
+}]

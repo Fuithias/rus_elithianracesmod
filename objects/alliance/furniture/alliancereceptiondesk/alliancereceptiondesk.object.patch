@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стойка регистрации Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол, который часто можно увидеть в корпоративных вестибюлях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка регистрации. Возможно, я смогу здесь чему-то научиться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол администратора.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол для приветствия людей.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Стойка регистрации.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка регистрации. Я должен здесь зарегистрироваться?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая стойка регистрации. Судя по всему, его недавно чистили.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, здесь я смогу получить некоторую информацию.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка регистрации. Часто это первое место, куда приходят новые посетители.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный стол. Это просто для приветствия людей?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка регистрации. Возможно, я здесь чему-то научусь.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стол пришельца.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки задавайте вопросы здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стойка регистрации Альянса"
+},{"op":"replace","path":"/description","value":
+"Стол, который часто можно увидеть в корпоративных вестибюлях."
+},{"op":"replace","path":"/apexDescription","value":
+"Стойка регистрации. Возможно, я смогу здесь чему-то научиться."
+},{"op":"replace","path":"/avianDescription","value":
+"Стол администратора."
+},{"op":"replace","path":"/floranDescription","value":
+"Стол для приветствия людей."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Стойка регистрации."
+},{"op":"replace","path":"/humanDescription","value":
+"Стойка регистрации. Я должен здесь зарегистрироваться?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простая стойка регистрации. Судя по всему, его недавно чистили."
+},{"op":"replace","path":"/novakidDescription","value":
+"Возможно, здесь я смогу получить некоторую информацию."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стойка регистрации. Часто это первое место, куда приходят новые посетители."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный стол. Это просто для приветствия людей?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Стойка регистрации. Возможно, я здесь чему-то научусь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стол пришельца."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки задавайте вопросы здесь."
+}]

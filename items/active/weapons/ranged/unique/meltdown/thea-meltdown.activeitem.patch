@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Мощная лучевая винтовка, заставляющая цели перегреваться.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;АЕГ-Корпус^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ц66 Расплавление^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лучевая винтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Огнемёт",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Мощная лучевая винтовка, заставляющая цели перегреваться."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;АЕГ-Корпус^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ц66 Расплавление^white;"
+},{"op":"replace","path":"/category","value":
+"Лучевая винтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Огнемёт"
+}]

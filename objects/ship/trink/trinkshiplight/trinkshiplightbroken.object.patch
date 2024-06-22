@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Сломанный корабельный фонарь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неисправный свет.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этому свету не хватает мощности.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мерцающий свет.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свет кружит голову!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот свет неисправен.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет мигает.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Недостаточно мощный свет.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сломанный свет.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот свет работает не оптимально.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен свет. Статус: сломан.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Разбитый светом, взволнуй Акки...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сломанный корабельный фонарь"
+},{"op":"replace","path":"/description","value":
+"Неисправный свет."
+},{"op":"replace","path":"/apexDescription","value":
+"Этому свету не хватает мощности."
+},{"op":"replace","path":"/avianDescription","value":
+"Мерцающий свет."
+},{"op":"replace","path":"/floranDescription","value":
+"Свет кружит голову!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Этот свет неисправен."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот свет мигает."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Недостаточно мощный свет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Сломанный свет."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот свет работает не оптимально."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен свет. Статус: сломан."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Разбитый светом, взволнуй Акки..."
+}]

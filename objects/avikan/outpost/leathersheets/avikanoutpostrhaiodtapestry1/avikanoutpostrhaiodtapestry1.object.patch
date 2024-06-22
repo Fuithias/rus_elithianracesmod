@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Гобелен Райода",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой гобелен из фиолетовой ткани. Маркировка выглядит религиозной.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "От фиолетовых простыней Флорану тошнит.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Надписи на этих гобеленах выглядят религиозными.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой лист фиолетовой ткани. Непонятно, что означают эти маркировки.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой гобелен Райода. Монолит Райода легко узнать.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен гобелен с пометкой Райода.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Баннеры-большие. Акки любит цвет.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Райода"
+},{"op":"replace","path":"/description","value":
+"Большой гобелен из фиолетовой ткани. Мкировка выглядит религиозной."
+},{"op":"replace","path":"/floranDescription","value":
+"От фиолетовых простыней Флорану тошнит."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Надписи на этих гобеленах выглядят религиозными."
+},{"op":"replace","path":"/novakidDescription","value":
+"Большой лист фиолетовой ткани. Непонятно, что означают эти маркировки."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большой гобелен Райода. Монолит Райода легко узнать."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен гобелен с пометкой Райода."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Баннеры-большие. Акки любит цвет."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Стелс-дрон боевого назначения, используемый аккимарами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Страйкер",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Стелс-дрон боевого назначения, используемый аккимарами."
+},{"op":"replace","path":"/shortdescription","value":
+"Страйкер"
+}]

@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Сломанная панель авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель выглядит сломанной. Возможно, я смогу ее пробить.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Разрушительно. Я мог бы пробить эти металлические панели.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран пробивает панели с трещинами. Флоран силен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Поврежденная металлическая панель. Единица может пробить.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-поврежденная, близка к поломке.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Сломанная панель авикан"
+},{"op":"replace","path":"/description","value":
+"Эта панель выглядит сломанной. Возможно, я смогу ее пробить."
+},{"op":"replace","path":"/glitchDescription","value":
+"Разрушительно. Я мог бы пробить эти металлические панели."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран пробивает панели с трещинами. Флоран силен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Поврежденная металлическая панель. Единица может пробить."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-поврежденная, близка к поломке."
+}]

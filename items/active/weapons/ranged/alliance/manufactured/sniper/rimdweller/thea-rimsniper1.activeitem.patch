@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Снайперка, произведенная где-то на Рубеже.^reset;",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Рубеж^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Палач РМ2",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Снайперская винтовка",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Снайперка, произведенная где-то на Рубеже.^reset;"
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Рубеж^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Палач РМ2"
+},{"op":"replace","path":"/category","value":
+"Снайперская винтовка"
+}]

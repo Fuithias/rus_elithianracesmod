@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Выставка линейных винтовок Vanguard",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "На выставке представлена ​​линейная винтовка Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Необычное инопланетное оружие. Я даже не уверен, как это работает...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это оружие приводится в действие таинственным оружейным ядром.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает, как работает это оружие...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ошибка. У меня нет информации о том, как работает ударно-спусковой механизм этого оружия.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это оружие светится и излучает странные энергетические поля...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это оружие для меня загадка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканцы используют центенскую технологию для своего оружия. Впечатляющий.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Линейные винтовки — фирменное оружие нашего великого Кочевника.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ядро этого оружия работает способами, которые даже я не могу понять.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Линейная винтовка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Винтовка-странная. Похоже на дрифт-винтовку?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Выставка линейных винтовок Авангард"
+},{"op":"replace","path":"/description","value":
+"На выставке представлена ​​линейная винтовка Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Необычное инопланетное оружие. Я даже не уверен, как это работает..."
+},{"op":"replace","path":"/avianDescription","value":
+"Это оружие приводится в действие таинственным оружейным ядром."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает, как работает это оружие..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Ошибка. У меня нет информации о том, как работает ударно-спусковой механизм этого оружия."
+},{"op":"replace","path":"/humanDescription","value":
+"Это оружие светится и излучает странные энергетические поля..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это оружие для меня загадка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авиканцы используют центенскую технологию для своего оружия. Впечатляющий."
+},{"op":"replace","path":"/avikanDescription","value":
+"Линейные винтовки — фирменное оружие нашего великого Кочевника."
+},{"op":"replace","path":"/trinkDescription","value":
+"Ядро этого оружия работает способами, которые даже я не могу понять."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Линейная винтовка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Винтовка-странная. Похоже на дрифт-винтовку?"
+}]

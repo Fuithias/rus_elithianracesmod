@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Гладкая авиканская панель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гладко отполированная металлическая обшивка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Почему эта панель имеет такой песчаный вид?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану трудно увидеть разницу с песком...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то очень старался сделать этот металл похожим на песок.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-гладкая. Акки не может по ней взобраться.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гладкая авиканская панель"
+},{"op":"replace","path":"/description","value":
+"Гладко отполированная металлическая обшивка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Почему эта панель имеет такой песчаный вид?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану трудно увидеть разницу с песком..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кто-то очень старался сделать этот металл похожим на песок."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-гладкая. Акки не может по ней взобраться."
+}]

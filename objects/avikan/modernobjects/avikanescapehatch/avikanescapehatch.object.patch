@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Эвакуационный люк Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усиленный металлический люк, часто встречающийся в эвакуационных туннелях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может сбежать через люк.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "С облегчением. Этот люк может вести к эвакуационному туннелю!",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический люк, похожий на современный люк.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен люк, построенный Nomada.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Люк металлический, для побега.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Эвакуационный люк Авикан"
+},{"op":"replace","path":"/description","value":
+"Усиленный металлический люк, часто встречающийся в эвакуационных туннелях."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может сбежать через люк."
+},{"op":"replace","path":"/glitchDescription","value":
+"С облегчением. Этот люк может вести к эвакуационному туннелю!"
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлический люк, похожий на современный люк."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен люк, построенный Номада."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Люк металлический, для побега."
+}]

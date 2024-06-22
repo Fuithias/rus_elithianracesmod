@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Настенное полотно из ткани Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист ткани, используемый в качестве стены в палатках Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Яркая сторона палатки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркая тентовая простыня. Прекрасный.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркие цвета рассердили Флорана.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Кусок палатки из ткани.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевая сторона палатки. Красочный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тщательно декорированная палатка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенка палатки, сделанная из разноцветных листов ткани.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист ткани, используемый в качестве борта палатки. Гораздо дороже, чем простая кожа.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая стенка палатки, выполненная из листов яркой ткани.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Несколько слоев тканевых полотен.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палатка-колоритная.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настенное полотно из ткани Авикан"
+},{"op":"replace","path":"/description","value":
+"Лист ткани, используемый в качестве стены в палатках Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Яркая сторона палатки."
+},{"op":"replace","path":"/avianDescription","value":
+"Яркая тентовая простыня. Прекрасный."
+},{"op":"replace","path":"/floranDescription","value":
+"Яркие цвета рассердили Флорана."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Кусок палатки из ткани."
+},{"op":"replace","path":"/humanDescription","value":
+"Тканевая сторона палатки. Красочный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Тщательно декорированная палатка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стенка палатки, сделанная из разноцветных листов ткани."
+},{"op":"replace","path":"/avikanDescription","value":
+"Лист ткани, используемый в качестве борта палатки. Гораздо дороже, чем простая кожа."
+},{"op":"replace","path":"/trinkDescription","value":
+"Простая стенка палатки, выполненная из листов яркой ткани."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Несколько слоев тканевых полотен."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Палатка-колоритная."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Длинный меч дроден для ношения на спине.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный меч дроден",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Длинный меч дроден для ношения на спине."
+},{"op":"replace","path":"/shortdescription","value":
+"Длинный меч дроден"
+}]

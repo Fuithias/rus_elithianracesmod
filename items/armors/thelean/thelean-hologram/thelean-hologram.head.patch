@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Телеан. ^white;Делает вас похожим на голограмму авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голографическая голова",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Телеан. ^white;Делает вас похожим на голограмму авикана."
+},{"op":"replace","path":"/shortdescription","value":
+"Голографическая голова"
+}]

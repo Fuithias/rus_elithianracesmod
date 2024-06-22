@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Бутылка Валасса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка сока Valassa Vahlberry.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка сока.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Полная бутылка сока.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пью.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Бутылка сока.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обожаю этот инопланетный сок!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очень питательный сок.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выпить.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бутылка сока Валберри.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный напиток. Не уверен, стоит ли мне это пробовать.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Многие Aegi наслаждаются этим соком Vahlberry.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Чужой напиток.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочет пить.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Бутылка Валасса"
+},{"op":"replace","path":"/description","value":
+"Бутылка сока Valassa Vahlberry."
+},{"op":"replace","path":"/apexDescription","value":
+"Бутылка сока."
+},{"op":"replace","path":"/avianDescription","value":
+"Полная бутылка сока."
+},{"op":"replace","path":"/floranDescription","value":
+"Пью."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Бутылка сока."
+},{"op":"replace","path":"/humanDescription","value":
+"Обожаю этот инопланетный сок!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Очень питательный сок."
+},{"op":"replace","path":"/novakidDescription","value":
+"Выпить."
+},{"op":"replace","path":"/aegiDescription","value":
+"Бутылка сока Валберри."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный напиток. Не уверен, стоит ли мне это пробовать."
+},{"op":"replace","path":"/trinkDescription","value":
+"Многие аеги наслаждаются этим соком Vahlberry."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Чужой напиток."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочет пить."
+}]

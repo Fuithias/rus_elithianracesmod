@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Прочный череп с кожаным ремешком, который носят авиканские охотники.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Череп охотника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Прочный череп с кожаным ремешком, который носят авиканские охотники."
+},{"op":"replace","path":"/shortdescription","value":
+"Череп охотника"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^#BA66FF;Щит, украшенный эмблемой Элитийского Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Щит Элитийского Альянса^reset;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^#BA66FF;Щит, украшенный эмблемой Элитийского Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Щит Элитийского Альянса^reset;"
+}]

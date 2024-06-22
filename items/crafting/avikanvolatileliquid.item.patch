@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Очень летучая жидкость, используемая для изготовления взрывчатых веществ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Летучая жидкость",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Очень летучая жидкость, используемая для изготовления взрывчатых веществ."
+},{"op":"replace","path":"/shortdescription","value":
+"Летучая жидкость"
+}]

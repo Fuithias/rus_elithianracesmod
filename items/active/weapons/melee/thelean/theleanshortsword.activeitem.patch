@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Легкий телеанский клинок. Рукоять очень неудобна для нетелеанцев.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телеанское короткое лезвие",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Легкий телеанский клинок. Рукоять очень неудобна для нетелеанцев."
+},{"op":"replace","path":"/shortdescription","value":
+"Телеанское короткое лезвие"
+}]

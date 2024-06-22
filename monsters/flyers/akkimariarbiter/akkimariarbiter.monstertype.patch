@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Дрон, разрешающий споры между аккимарскими сборщиками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Арбитр",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Дрон, разрешающий споры между аккимарскими сборщиками."
+},{"op":"replace","path":"/shortdescription","value":
+"Арбитр"
+}]

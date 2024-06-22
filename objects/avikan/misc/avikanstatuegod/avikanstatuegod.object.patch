@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Статуя Радеиса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, изображающая Радеиса, божества религии Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Миникног не одобрит такую ​​статую.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя, изображающая бога. Это довольно подробно.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая статуя инопланетных богов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Удивляться. Эта статуя очень похожа на настоящее существо, а не на какое-то метафизическое существо.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая статуя, посвященная какому-то богу.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта статуя, кажется, посвящена своего рода инопланетному богу.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вот это прекрасное произведение искусства.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прекрасно выполненная статуя. Я считаю, что на нем изображен Радейс, приветствующий народ Авикана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис, наш Возвышающий. Эта величественная статуя чтит его.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Радеис, бог Авикан. Качество статуи показывает, насколько Авикан чтят его.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена статуя Радеиса. Эта единица трепетна.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Статуя бога-творца.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Статуя Радеиса"
+},{"op":"replace","path":"/description","value":
+"Статуя, изображающая Радеиса, божества религии Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Миникног не одобрит такую ​​статую."
+},{"op":"replace","path":"/avianDescription","value":
+"Статуя, изображающая бога. Это довольно подробно."
+},{"op":"replace","path":"/floranDescription","value":
+"Большая статуя инопланетных богов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Удивляться. Эта статуя очень похожа на настоящее существо, а не на какое-то метафизическое существо."
+},{"op":"replace","path":"/humanDescription","value":
+"Большая статуя, посвященная какому-то богу."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта статуя, кажется, посвящена своего рода инопланетному богу."
+},{"op":"replace","path":"/novakidDescription","value":
+"Вот это прекрасное произведение искусства."
+},{"op":"replace","path":"/aegiDescription","value":
+"Прекрасно выполненная статуя. Я считаю, что на нем изображен Радейс, приветствующий народ Авикана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Радеис, наш Возвышающий. Эта величественная статуя чтит его."
+},{"op":"replace","path":"/trinkDescription","value":
+"Радеис, бог Авикан. Качество статуи показывает, насколько Авикан чтят его."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена статуя Радеиса. Эта единица трепетна."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Статуя бога-творца."
+}]

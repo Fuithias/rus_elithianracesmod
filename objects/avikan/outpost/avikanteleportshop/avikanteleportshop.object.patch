@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Магазин транслокаторов Nomada",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот магазин предлагает персональные телепорты в самых разных стилях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Магазин Teleporter предлагает много вариантов...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взволнованный. Этот магазин телепортов предлагает множество персональных телепортов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен торговец. Предлагает различные персональные телепорты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки покупайте телепорты здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Магазин транслокаторов Номада"
+},{"op":"replace","path":"/description","value":
+"Этот магазин предлагает персональные телепорты в самых разных стилях."
+},{"op":"replace","path":"/floranDescription","value":
+"Магазин Teleporter предлагает много вариантов..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Взволнованный. Этот магазин телепортов предлагает множество персональных телепортов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен торговец. Предлагает различные персональные телепорты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки покупайте телепорты здесь."
+}]

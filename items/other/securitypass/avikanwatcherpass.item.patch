@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Этот пропуск открывает доступ к офисам Наблюдателей в Убежище Звездоходов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Проход в кабинеты наблюдателей^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "пропуск безопасности",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Этот пропуск даёт доступ к офисам Смотрителей в Убежище Звездохода."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Пропуск Смотрителей^white;"
+},{"op":"replace","path":"/category","value":
+"пропуск безопасности"
+}]

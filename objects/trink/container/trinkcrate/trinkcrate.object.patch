@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкианский ящик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компактный грузовой ящик.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Компактный грузовой ящик. Создан для штабелирования.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящий металлический ящик. Что оно несет?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красссс полон вкусностей!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересный. Какие товары могут находиться внутри?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой ящик. Что может быть внутри?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компактный металлический ящик. Идеально подходит для транспортировки и хранения.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящики Trinkian созданы с учетом эффективности.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грузовой ящик, построенный машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот стандартный грузовой ящик предназначен для размещения в любом грузовом отсеке Тринкиана.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен блок хранения. Сканирование контента недоступно.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ящик-инопланетянин, имеет причудливую подсветку.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкианский ящик"
+},{"op":"replace","path":"/description","value":
+"Компактный грузовой ящик."
+},{"op":"replace","path":"/apexDescription","value":
+"Компактный грузовой ящик. Создан для штабелирования."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящий металлический ящик. Что оно несет?"
+},{"op":"replace","path":"/floranDescription","value":
+"Красссс полон вкусностей!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Интересный. Какие товары могут находиться внутри?"
+},{"op":"replace","path":"/humanDescription","value":
+"Грузовой ящик. Что может быть внутри?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Компактный металлический ящик. Идеально подходит для транспортировки и хранения."
+},{"op":"replace","path":"/aegiDescription","value":
+"Ящики тринков созданы с учетом эффективности."
+},{"op":"replace","path":"/avikanDescription","value":
+"Грузовой ящик, построенный машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот стандартный грузовой ящик предназначен для размещения в любом грузовом отсеке Тринкиана."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен блок хранения. Сканирование контента недоступно."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ящик-инопланетянин, имеет причудливую подсветку."
+}]

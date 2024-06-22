@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Кожаная юбка с металлическими пластинами по бокам. Силовая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка Номады тип-М",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Кожаная юбка с металлическими пластинами по бокам. Силовая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка Номады в.-С"
+}]

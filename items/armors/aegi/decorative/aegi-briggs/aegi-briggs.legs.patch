@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Прочные рабочие брюки, которые часто носят строители Бриггс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочие брюки Бриггс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Прочные рабочие брюки, которые часто носят строители Бриггс."
+},{"op":"replace","path":"/shortdescription","value":
+"Рабочие брюки Бриггс"
+}]

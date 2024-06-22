@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Темный металл, найденный внутри центенсианских построек.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Центенсианское подкрепление",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Темный металл, найденный внутри центенсианских построек."
+},{"op":"replace","path":"/shortdescription","value":
+"Центенское подкрепление"
+}]

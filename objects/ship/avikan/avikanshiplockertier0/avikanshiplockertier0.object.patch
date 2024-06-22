@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Корабельный шкафчик",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Припасите что-нибудь, почему бы и нет?",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельная система хранения. В настоящее время он не функционирует.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Устройство, в котором хранится множество предметов для безопасного хранения. На данный момент он сломан.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хранение. Это не работает.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Расстроенный. Система хранения на этом корабле неисправна.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик для хранения вещей. Кажется, это не работает.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантное решение для хранения. В настоящее время он не подключен к сети.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик. Бесполезно, пока это не починят.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель сломана. Никакой возможности получить доступ к корабельному шкафчику, пока я его не починю.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный шкафчик застрял. Я должен исправить это как можно скорее.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот корабельный шкафчик не откроется.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный шкафчик. Статус: заклинило.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкафчик заперт, Акки не может украсть...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Корабельный шкафчик"
+},{"op":"replace","path":"/description","value":
+"Припасите что-нибудь, почему бы и нет?"
+},{"op":"replace","path":"/apexDescription","value":
+"Корабельная система хранения. В настоящее время он не функционирует."
+},{"op":"replace","path":"/avianDescription","value":
+"Устройство, в котором хранится множество предметов для безопасного хранения. На данный момент он сломан."
+},{"op":"replace","path":"/floranDescription","value":
+"Хранение. Это не работает."
+},{"op":"replace","path":"/glitchDescription","value":
+"Расстроенный. Система хранения на этом корабле неисправна."
+},{"op":"replace","path":"/humanDescription","value":
+"Шкафчик для хранения вещей. Кажется, это не работает."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантное решение для хранения. В настоящее время он не подключен к сети."
+},{"op":"replace","path":"/novakidDescription","value":
+"Шкафчик. Бесполезно, пока это не починят."
+},{"op":"replace","path":"/aegiDescription","value":
+"Панель сломана. Никакой возможности получить доступ к корабельному шкафчику, пока я его не починю."
+},{"op":"replace","path":"/avikanDescription","value":
+"Корабельный шкафчик застрял. Я должен исправить это как можно скорее."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот корабельный шкафчик не откроется."
+},{"op":"replace","path":"/drodenDescription","value":
+"Корабельный шкафчик. Статус: заклинило."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Шкафчик заперт, Акки не может украсть..."
+}]

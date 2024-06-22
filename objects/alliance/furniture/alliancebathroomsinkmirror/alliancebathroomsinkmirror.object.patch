@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Раковина для ванной комнаты Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая раковина для ванной комнаты с настенным зеркалом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая мойка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раковина.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящая херня.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Нейтрально. Раковина.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раковина. Наверное, мне стоит помыть руки...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Слишком маленький, чтобы плавать.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная раковина.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая раковина для ванной. Наверное, мне следует вымыть руки.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то таз с водой, чтобы мыться?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустая трата хорошей воды.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный источник воды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки выглядит красиво в зеркале!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Раковина для ванной комнаты Альянс"
+},{"op":"replace","path":"/description","value":
+"Простая раковина для ванной комнаты с настенным зеркалом."
+},{"op":"replace","path":"/apexDescription","value":
+"Базовая мойка."
+},{"op":"replace","path":"/avianDescription","value":
+"Раковина."
+},{"op":"replace","path":"/floranDescription","value":
+"Блестящая херня."
+},{"op":"replace","path":"/glitchDescription","value":
+"Нейтрально. Раковина."
+},{"op":"replace","path":"/humanDescription","value":
+"Раковина. Наверное, мне стоит помыть руки..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Слишком маленький, чтобы плавать."
+},{"op":"replace","path":"/novakidDescription","value":
+"Обычная раковина."
+},{"op":"replace","path":"/aegiDescription","value":
+"Простая раковина для ванной. Наверное, мне следует вымыть руки."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какой-то таз с водой, чтобы мыться?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Пустая трата хорошей воды."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный источник воды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки выглядит красиво в зеркале!"
+}]

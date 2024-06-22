@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Стекло Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прозрачный многоцветный кристалл.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Восторг. Этот кристалл сияет множеством цветов.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цветное стекло.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это не стекло, это какой-то кристалл.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Кристаллический материал неизвестного происхождения.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не ест этот кристалл. Кристалл слишком острый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стекло Акрис"
+},{"op":"replace","path":"/description","value":
+"Прозрачный многоцветный кристалл."
+},{"op":"replace","path":"/glitchDescription","value":
+"Восторг. Этот кристалл сияет множеством цветов."
+},{"op":"replace","path":"/floranDescription","value":
+"Цветное стекло."
+},{"op":"replace","path":"/novakidDescription","value":
+"Это не стекло, это какой-то кристалл."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Кристаллический материал неизвестного происхождения."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не ест этот кристалл. Кристалл слишком острый."
+}]

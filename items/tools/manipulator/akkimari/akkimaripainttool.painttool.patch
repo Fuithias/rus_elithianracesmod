@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Первичный огонь наносит краску, вторичный меняет цвет. ^green;Быстрый выбор клавишей [Y].",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Режим рисования",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструмент",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Первичный огонь наносит краску, вторичный меняет цвет. ^green;Быстрый выбор клавишей [Y]."
+},{"op":"replace","path":"/shortdescription","value":
+"Режим рисования"
+},{"op":"replace","path":"/category","value":
+"Инструмент"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Гардероб Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой шкаф со встроенным шкафом.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф, полный одежды и других личных вещей.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот шкаф полон личных вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не следует прикасаться к чужим вещам.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтригован. Что эти предметы могут рассказать о своем владельце?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кто-то заполнил этот шкаф всевозможными личными вещами.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой и удобный шкаф.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Шкаф, полный вещей.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В этом просторном шкафу поместится практически все.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, инопланетяне собирают всякие странные предметы.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гардероб, в котором достаточно места и для других вещей.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено хранилище инопланетян. Сканирование предметов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вещей-много внутри. Инопланетяне хранят предметы — странно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гардероб Альянса"
+},{"op":"replace","path":"/description","value":
+"Большой шкаф со встроенным шкафом."
+},{"op":"replace","path":"/apexDescription","value":
+"Шкаф, полный одежды и других личных вещей."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот шкаф полон личных вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не следует прикасаться к чужим вещам."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтригован. Что эти предметы могут рассказать о своем владельце?"
+},{"op":"replace","path":"/humanDescription","value":
+"Кто-то заполнил этот шкаф всевозможными личными вещами."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большой и удобный шкаф."
+},{"op":"replace","path":"/novakidDescription","value":
+"Шкаф, полный вещей."
+},{"op":"replace","path":"/aegiDescription","value":
+"В этом просторном шкафу поместится практически все."
+},{"op":"replace","path":"/avikanDescription","value":
+"Кажется, инопланетяне собирают всякие странные предметы."
+},{"op":"replace","path":"/trinkDescription","value":
+"Гардероб, в котором достаточно места и для других вещей."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено хранилище инопланетян. Сканирование предметов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вещей-много внутри. Инопланетяне хранят предметы — странно."
+}]

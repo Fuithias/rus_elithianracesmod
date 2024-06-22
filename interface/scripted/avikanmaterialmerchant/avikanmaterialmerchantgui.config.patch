@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Exchange",
-    "path": "/gui/btnSell/caption",
-    "op": "replace"
-  },
-  {
-    "value": "TOTAL VALUE",
-    "path": "/gui/lblTokenLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "16 SLOTS",
-    "path": "/gui/count/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/btnSell/caption","value":
+"Обмен"
+},{"op":"replace","path":"/gui/lblTokenLabel/value","value":
+"ОБЩАЯ ЦЕНА"
+},{"op":"replace","path":"/gui/count/value","value":
+"16 СЛОТОВ"
+}]

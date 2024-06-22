@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Нестабильное самодельное оружие, беспорядочно стреляющее неустойчивыми снарядами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Келрааки^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ашаток^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Самодельное оружие",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Ваашный разбрызг",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Нестабильное самодельное оружие, беспорядочно стреляющее неустойчивыми снарядами."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Келрааки^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ашаток^white;"
+},{"op":"replace","path":"/category","value":
+"Самодельное оружие"
+},{"op":"replace","path":"/altAbility/name","value":
+"Ваашный разбрызг"
+}]

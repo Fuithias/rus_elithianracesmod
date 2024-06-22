@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочная аллосталь со встроенной схемой и проводкой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интегрированный Аллостил",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочная аллосталь со встроенной схемой и проводкой."
+},{"op":"replace","path":"/shortdescription","value":
+"Интегрированный Аллостил"
+}]

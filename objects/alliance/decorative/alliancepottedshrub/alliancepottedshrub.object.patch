@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Элитианский кустарник в горшке",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кустарник, произрастающий в Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не любит сажать растения в горшки.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Растение.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная растительная жизнь. Анализ биохимии.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Растение-небольшое, не похожее на Акрис.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Элитианский кустарник в горшке"
+},{"op":"replace","path":"/description","value":
+"Кустарник, произрастающий в Элитии."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не любит сажать растения в горшки."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Растение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная растительная жизнь. Анализ биохимии."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Растение-небольшое, не похожее на Акрис."
+}]

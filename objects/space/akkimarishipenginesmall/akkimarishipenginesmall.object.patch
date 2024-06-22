@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Фрегат Двигатель",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой двигатель фрегата Акрис.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гребной двигатель для небольшого корабля.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта маршевая машина, скорее всего, для фрегата.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Корабельный двигатель. Опасность пожара...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Гребной двигатель для небольшого корабля.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой корабельный двигатель.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой, но элегантный двигатель.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель для небольшого корабля.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель фрегата Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель, построенный инопланетянами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эффективный корабельный двигатель.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен корабельный двигатель. Расчет тяговой мощности.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Двигатель для летающего корабля, заставь корабль двигаться быстрее!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Фрегат Двигатель"
+},{"op":"replace","path":"/description","value":
+"Большой двигатель фрегата Акрис."
+},{"op":"replace","path":"/apexDescription","value":
+"Гребной двигатель для небольшого корабля."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта маршевая машина, скорее всего, для фрегата."
+},{"op":"replace","path":"/floranDescription","value":
+"Корабельный двигатель. Опасность пожара..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Гребной двигатель для небольшого корабля."
+},{"op":"replace","path":"/humanDescription","value":
+"Небольшой корабельный двигатель."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Простой, но элегантный двигатель."
+},{"op":"replace","path":"/novakidDescription","value":
+"Двигатель для небольшого корабля."
+},{"op":"replace","path":"/aegiDescription","value":
+"Двигатель фрегата Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Двигатель, построенный инопланетянами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эффективный корабельный двигатель."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен корабельный двигатель. Расчет тяговой мощности."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Двигатель для летающего корабля, заставь корабль двигаться быстрее!"
+}]

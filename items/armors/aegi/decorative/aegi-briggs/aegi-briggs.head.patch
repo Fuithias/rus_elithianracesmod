@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Защитная каска, которую носят строители компании Бриггс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Каска Бриггс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Защитная каска, которую носят строители компании Бриггс."
+},{"op":"replace","path":"/shortdescription","value":
+"Каска Бриггс"
+}]

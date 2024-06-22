@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Гобелен Лонг Райод",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенные гобелены оформлены в стиле Райода.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Настенный гобелен из какой-то фиолетовой ткани.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это руны внизу этого гобелена?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен напоминает Флорану дом.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Смущенный. Что могут означать эти символы?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенный гобелен. Это какое-то необычное ощущение.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшение стен, казалось бы, на религиозную тематику.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Украшение стен, используемое Райодом.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенный гобелен с украшениями Райода.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Настенное украшение, созданное Райодом.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование завершено. Отделка стен Райода.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гобелен-большой,цвет-красивый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Гобелен Лонг Райод"
+},{"op":"replace","path":"/description","value":
+"Настенные гобелены оформлены в стиле Райода."
+},{"op":"replace","path":"/apexDescription","value":
+"Настенный гобелен из какой-то фиолетовой ткани."
+},{"op":"replace","path":"/avianDescription","value":
+"Это руны внизу этого гобелена?"
+},{"op":"replace","path":"/floranDescription","value":
+"Гобелен напоминает Флорану дом."
+},{"op":"replace","path":"/glitchDescription","value":
+"Смущенный. Что могут означать эти символы?"
+},{"op":"replace","path":"/humanDescription","value":
+"Настенный гобелен. Это какое-то необычное ощущение."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Украшение стен, казалось бы, на религиозную тематику."
+},{"op":"replace","path":"/aegiDescription","value":
+"Украшение стен, используемое Райодом."
+},{"op":"replace","path":"/avikanDescription","value":
+"Настенный гобелен с украшениями Райода."
+},{"op":"replace","path":"/trinkDescription","value":
+"Настенное украшение, созданное Райодом."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование завершено. Отделка стен Райода."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Гобелен-большой,цвет-красивый."
+}]

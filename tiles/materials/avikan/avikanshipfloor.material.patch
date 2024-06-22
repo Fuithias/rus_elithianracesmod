@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Пол Корабля авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спроектирован для использования на космических кораблях, эта панель пола устойчива к ударам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Информативно. Такие панели часто используются как полы на борту космических кораблей.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая панель пола заставляет Флорана чувствовать себя в безопасности...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта панель имеет несколько слоев металла.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Многослойная панель пола.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пол-корабельный, акки не чистит его. Пусть Ноккимари это сделает.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Пол Корабля авикан"
+},{"op":"replace","path":"/description","value":
+"Спроектирован для использования на космических кораблях, эта панель пола устойчива к ударам."
+},{"op":"replace","path":"/glitchDescription","value":
+"Информативно. Такие панели часто используются как полы на борту космических кораблей."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлическая панель пола заставляет Флорана чувствовать себя в безопасности..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта панель имеет несколько слоев металла."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Многослойная панель пола."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Пол-корабельный, акки не чистит его. Пусть Ноккимари это сделает."
+}]

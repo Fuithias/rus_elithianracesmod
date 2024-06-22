@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Сырая оленина запрещена к продаже на большинстве территорий Союза.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Сырая оленина Келбет",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Сырая оленина запрещена к продаже на большинстве территорий Союза."
+},{"op":"replace","path":"/shortdescription","value":
+"Сырая оленина Келбет"
+}]

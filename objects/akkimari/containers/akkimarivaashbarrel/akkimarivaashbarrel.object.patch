@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Аккимари Вааш Бочка",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Усиленный контейнер, предназначенный для хранения Вааша.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Бочка, полная какого-то светящегося вещества.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Содержимое этой бочки выглядит не очень безопасным...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зеленая вода в бочках. Флорану не следует это пить.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обеспокоенный. Содержимое этой бочки выглядит опасным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри странная светящаяся жидкость. Я думаю, мне не стоит его трогать.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри обнаружено странное вещество.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бочка, созданная для хранения чего-то жестокого.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бочка Вааша. Это не то вещество, к которому я бы советовал прикасаться.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странная зеленая жидкость внутри ярко светится. Лучше не трогайте.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта бочка была создана для хранения Вааша, вещества, сжигающего и плоть, и металл.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Внутри обнаружено неопознанное вещество. Рекомендую крайнюю осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бочку придержи Вааша, чтобы Акки не сгорела.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Аккимари Вааш Бочка"
+},{"op":"replace","path":"/description","value":
+"Усиленный контейнер, предназначенный для хранения Вааша."
+},{"op":"replace","path":"/apexDescription","value":
+"Бочка, полная какого-то светящегося вещества."
+},{"op":"replace","path":"/avianDescription","value":
+"Содержимое этой бочки выглядит не очень безопасным..."
+},{"op":"replace","path":"/floranDescription","value":
+"Зеленая вода в бочках. Флорану не следует это пить."
+},{"op":"replace","path":"/glitchDescription","value":
+"Обеспокоенный. Содержимое этой бочки выглядит опасным."
+},{"op":"replace","path":"/humanDescription","value":
+"Внутри странная светящаяся жидкость. Я думаю, мне не стоит его трогать."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Внутри обнаружено странное вещество."
+},{"op":"replace","path":"/novakidDescription","value":
+"Бочка, созданная для хранения чего-то жестокого."
+},{"op":"replace","path":"/aegiDescription","value":
+"Бочка Вааша. Это не то вещество, к которому я бы советовал прикасаться."
+},{"op":"replace","path":"/avikanDescription","value":
+"Странная зеленая жидкость внутри ярко светится. Лучше не трогайте."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта бочка была создана для хранения Вааша, вещества, сжигающего и плоть, и металл."
+},{"op":"replace","path":"/drodenDescription","value":
+"Внутри обнаружено неопознанное вещество. Рекомендую крайнюю осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Бочку придержи Вааша, чтобы Акки не сгорела."
+}]

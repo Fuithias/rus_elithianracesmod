@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Оружие, которое, как говорят, держал в руках сам Радейс.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Рука Радейса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пульсирующий пистолет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Оружие, которое, как говорят, держал в руках сам Радейс."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Рука Радейса^white;"
+},{"op":"replace","path":"/category","value":
+"Пульсирующий пистолет"
+}]

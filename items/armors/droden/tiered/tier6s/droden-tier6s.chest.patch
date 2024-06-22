@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Каркас элиты тип-С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Каркас элиты в.-З"
+}]

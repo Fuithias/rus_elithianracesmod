@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Древний металлический корпус, вероятно, часть какого-то сломанного инструмента. Возможно, это можно исправить.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^#BA66FF;Сломанный древний корпус^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Древний металлический корпус, вероятно, часть какого-то сломанного инструмента. Возможно, это можно исправить."
+},{"op":"replace","path":"/shortdescription","value":
+"^#BA66FF;Сломанный древний корпус^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

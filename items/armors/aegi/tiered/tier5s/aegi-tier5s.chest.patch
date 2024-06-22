@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Сегментированный металлический нагрудник для большей подвижности. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кираса исследователя тип-С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Сегментированный металлический нагрудник для большей подвижности. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Кираса исследователя в.-З"
+}]

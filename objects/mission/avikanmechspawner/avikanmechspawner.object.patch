@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авангард Крал Бэй",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция ремонта и обслуживания Vanguard Krahls.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Механический отсек какой-то.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механический отсек.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это мехотсек. Флоран Смарт.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Механический отсек пришельцев.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это похоже на механический отсек.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочая станция, где можно ремонтировать и обслуживать мехов.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я думаю, это что-то вроде механического отсека.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Механический отсек, построенный для Авикан Кралс.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта станция позволяет легко обслуживать Krahls.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Достаточно эффективный мехотсек.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен залив Авангард Крал. Позволяет легко обслуживать Krahls.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бэй-механик-инопланетянин. Акки украл механизм и разыскал запчасти?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авангард Крал Бэй"
+},{"op":"replace","path":"/description","value":
+"Станция ремонта и обслуживания Авангард Krahls."
+},{"op":"replace","path":"/apexDescription","value":
+"Механический отсек какой-то."
+},{"op":"replace","path":"/avianDescription","value":
+"Механический отсек."
+},{"op":"replace","path":"/floranDescription","value":
+"Это мехотсек. Флоран Смарт."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Механический отсек пришельцев."
+},{"op":"replace","path":"/humanDescription","value":
+"Это похоже на механический отсек."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Рабочая станция, где можно ремонтировать и обслуживать мехов."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я думаю, это что-то вроде механического отсека."
+},{"op":"replace","path":"/aegiDescription","value":
+"Механический отсек, построенный для Авикан Кралс."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта станция позволяет легко обслуживать Krahls."
+},{"op":"replace","path":"/trinkDescription","value":
+"Достаточно эффективный мехотсек."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен залив Авангард Крал. Позволяет легко обслуживать Krahls."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Бэй-механик-инопланетянин. Акки украл механизм и разыскал запчасти?"
+}]

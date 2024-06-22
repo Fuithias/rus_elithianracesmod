@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Фестиваль высадки в подарок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упакованный подарок для Фестиваля высадки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Подарок! Кто это для?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, для кого этот подарок?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану нужна пресса! Флоран надеется, что это новый нож для ссс-колотых операций.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Для кого этот подарок?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой подарок! Я хочу открыть его!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Традиция дарения подарков очень позитивна.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Может ли быть внутри новый револьвер?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красиво упакованный подарок, так и хочется развернуть..,",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это какая-то коробка. Я не уверен, для чего нужны все эти украшения.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подарок, завернутый в декоративную бумагу. Не очень эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализируем. Обнаружен коробочный продукт. Низкая материальная ценность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки хочу заглянуть внутрь!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Фестиваль высадки в подарок"
+},{"op":"replace","path":"/description","value":
+"Упакованный подарок для праздника Приземления."
+},{"op":"replace","path":"/apexDescription","value":
+"Подарок! Кто это для?"
+},{"op":"replace","path":"/avianDescription","value":
+"Интересно, для кого этот подарок?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану нужна пресса! Флоран надеется, что это новый нож для ссс-колотых операций."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Для кого этот подарок?"
+},{"op":"replace","path":"/humanDescription","value":
+"Большой подарок! Я хочу открыть его!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Традиция дарения подарков очень позитивна."
+},{"op":"replace","path":"/novakidDescription","value":
+"Может ли быть внутри новый револьвер?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Красиво упакованный подарок, так и хочется развернуть..,"
+},{"op":"replace","path":"/avikanDescription","value":
+"Это какая-то коробка. Я не уверен, для чего нужны все эти украшения."
+},{"op":"replace","path":"/trinkDescription","value":
+"Подарок, завернутый в декоративную бумагу. Не очень эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализируем. Обнаружен коробочный продукт. Низкая материальная ценность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки хочу заглянуть внутрь!"
+}]

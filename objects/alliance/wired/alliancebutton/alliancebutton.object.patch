@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Настенная кнопка Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая кнопка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Давит!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что произойдет, если я нажму эту кнопку?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Кнопка. Используется для временной активации цепей.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нажми кнопку!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настенная кнопка Альянса"
+},{"op":"replace","path":"/description","value":
+"Большая кнопка."
+},{"op":"replace","path":"/floranDescription","value":
+"Давит!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что произойдет, если я нажму эту кнопку?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Кнопка. Используется для временной активации цепей."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нажми кнопку!"
+}]

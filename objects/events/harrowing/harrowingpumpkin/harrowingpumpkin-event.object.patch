@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Мучительная тыква (Ивент)",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Мучительная тыква (Ивент)"
+}]

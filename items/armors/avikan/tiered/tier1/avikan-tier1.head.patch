@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Простой череп с кожаным ремешком, который носят авиканские падальщики.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Череп падальщика",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Простой череп с кожаным ремешком, который носят авиканские падальщики."
+},{"op":"replace","path":"/shortdescription","value":
+"Череп падальщика"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Общее. ^white;Генератор очень высокой интенсивности для защиты груди, обеспечивает отличную защиту.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Защитный щит ВХ-и",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Общее. ^white;Генератор очень высокой интенсивности для защиты груди, обеспечивает отличную защиту."
+},{"op":"replace","path":"/shortdescription","value":
+"Защитный щит ВХ-и"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Чехол для воды Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Небольшой металлический контейнер, наполненный водой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлический контейнер, полный воды.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пресная вода!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода в маленьких коробочках.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Металлический контейнер, наполненный водой.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Свежая и чистая вода – как ее добыть?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Чистая вода, освежающая душу.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Емкость с водой. Похоже, оно никогда не протечет.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Контейнер, полный воды, имеет жизненно важное значение для нашего народа.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот контейнер для воды вряд ли когда-нибудь начнет протекать.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен запас воды. Статус контейнера: не вскрыт.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вода.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Чехол для воды Авикан"
+},{"op":"replace","path":"/description","value":
+"Небольшой металлический контейнер, наполненный водой."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлический контейнер, полный воды."
+},{"op":"replace","path":"/avianDescription","value":
+"Пресная вода!"
+},{"op":"replace","path":"/floranDescription","value":
+"Вода в маленьких коробочках."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Металлический контейнер, наполненный водой."
+},{"op":"replace","path":"/humanDescription","value":
+"Свежая и чистая вода – как ее добыть?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Чистая вода, освежающая душу."
+},{"op":"replace","path":"/aegiDescription","value":
+"Емкость с водой. Похоже, оно никогда не протечет."
+},{"op":"replace","path":"/avikanDescription","value":
+"Контейнер, полный воды, имеет жизненно важное значение для нашего народа."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот контейнер для воды вряд ли когда-нибудь начнет протекать."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен запас воды. Статус контейнера: не вскрыт."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Вода."
+}]

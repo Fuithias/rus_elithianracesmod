@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Прочные ноги из дюрастали.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дюрасталевые ноги",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Прочные ноги из дюрастали."
+},{"op":"replace","path":"/shortdescription","value":
+"Дюрасталевые ноги"
+}]

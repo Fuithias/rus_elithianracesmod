@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Фиолетовый краситель, часто используемый Райодами.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Райод Дайес",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Фиолетовый краситель, часто используемый Райодами."
+},{"op":"replace","path":"/shortdescription","value":
+"Райод Дайес"
+}]

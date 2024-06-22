@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Привет незнакомец.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Добро пожаловать, незнакомец.",
-    "path": "/scriptConfig/dialog/converse/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Приходите увидеть настоящего мастера, а?",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Привет, странная вещь.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "Что привело тебя сюда, путник?",
-    "path": "/scriptConfig/dialog/converse/avikan/default/2",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Привет незнакомец."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/1","value":
+"Добро пожаловать, незнакомец."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Приходите увидеть настоящего мастера, а?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/1","value":
+"Привет, странная вещь."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/2","value":
+"Что привело тебя сюда, путник?"
+}]

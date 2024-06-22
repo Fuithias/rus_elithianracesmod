@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Стойка для копий",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стойка с металлическими копьями.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические копья. Громоздкий, но сильный и острый.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Блестящие металлические копья. Кто-нибудь будет возражать, если я возьму один из них?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Спирсс за ножевые ранения. Флорану нравится колоть.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Спирс.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти копья выглядят довольно устрашающе.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копья подходят для инопланетной армии.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авиканский Авангард использует копья в качестве основного оружия ближнего боя.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ничего, кроме лучших копий для Авангарда.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти копья острее, чем кажутся.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Обнаружено одобренное Vanguard оружие.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палки-острые, для убийства. Акки любит убивать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Стойка для копий"
+},{"op":"replace","path":"/description","value":
+"Стойка с металлическими копьями."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлические копья. Громоздкий, но сильный и острый."
+},{"op":"replace","path":"/avianDescription","value":
+"Блестящие металлические копья. Кто-нибудь будет возражать, если я возьму один из них?"
+},{"op":"replace","path":"/floranDescription","value":
+"Спирсс за ножевые ранения. Флорану нравится колоть."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Спирс."
+},{"op":"replace","path":"/humanDescription","value":
+"Эти копья выглядят довольно устрашающе."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Копья подходят для инопланетной армии."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авиканский Авангард использует копья в качестве основного оружия ближнего боя."
+},{"op":"replace","path":"/avikanDescription","value":
+"Ничего, кроме лучших копий для Авангарда."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эти копья острее, чем кажутся."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Обнаружено одобренное Авангард оружие."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Палки-острые, для убийства. Акки любит убивать."
+}]

@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Тонкий и минималистичный длинномеч, предназначенный для дроденских солдат.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард/Легион^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Длинный меч дроден",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Длинномеч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Тонкий и минималистичный длинномеч, предназначенный для дроденских солдат."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард/Легион^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Длинный меч дроден"
+},{"op":"replace","path":"/category","value":
+"Длинномеч"
+}]

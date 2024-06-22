@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Лавка огнестрельного оружия Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный прилавок по продаже огнестрельного оружия «Авикан».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Повстанцы могли использовать это оружие.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне всегда нужно больше оружия.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран покупает здесь оружие.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Испуганный. Я надеюсь, что это оружие не будет использовано против меня или мне подобных.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное оружие. Не так экзотично, как я ожидал.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетное вооружение. Война, кажется, повсюду.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне могла бы пригодиться новая винтовка.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно приобрести различное оружие Авикана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продаются винтовки, пистолеты и другое оружие.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан производит достойные баллистические винтовки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен рыночный ларек. Сканирование ближайших торговцев...",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Оружие-инопланетное, для боя.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Лавка огнестрельного оружия Авикан"
+},{"op":"replace","path":"/description","value":
+"Рыночный прилавок по продаже огнестрельного оружия Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Повстанцы могли использовать это оружие."
+},{"op":"replace","path":"/avianDescription","value":
+"Мне всегда нужно больше оружия."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран покупает здесь оружие."
+},{"op":"replace","path":"/glitchDescription","value":
+"Испуганный. Я надеюсь, что это оружие не будет использовано против меня или мне подобных."
+},{"op":"replace","path":"/humanDescription","value":
+"Инопланетное оружие. Не так экзотично, как я ожидал."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Инопланетное вооружение. Война, кажется, повсюду."
+},{"op":"replace","path":"/novakidDescription","value":
+"Мне могла бы пригодиться новая винтовка."
+},{"op":"replace","path":"/aegiDescription","value":
+"Здесь можно приобрести различное оружие Авикана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Здесь продаются винтовки, пистолеты и другое оружие."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авикан производит достойные баллистические винтовки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен рыночный ларек. Сканирование ближайших торговцев..."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Оружие-инопланетное, для боя."
+}]

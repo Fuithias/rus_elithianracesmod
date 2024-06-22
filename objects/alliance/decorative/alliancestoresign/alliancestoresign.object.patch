@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Вывеска магазина Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вывеска, рекламирующая место, где можно пойти за покупками.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Вывеска для магазина.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Там написано \"магазин\".",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Подпишитесь на магазин.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Утешен. Вывеска, указывающая на магазин.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на вывеску магазина.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это вывеска магазина.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Должно быть, магазин.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Судя по вывеске, здесь есть магазин.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это чужой рынок?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот знак можно увидеть издалека. Это довольно эффективно.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный знак. Указывает на наличие торговой площадки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки немного знает инопланетный язык. Магазин.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Вывеска магазина Альянса"
+},{"op":"replace","path":"/description","value":
+"Вывеска, рекламирующая место, где можно пойти за покупками."
+},{"op":"replace","path":"/apexDescription","value":
+"Вывеска для магазина."
+},{"op":"replace","path":"/avianDescription","value":
+"Там написано \"магазин\"."
+},{"op":"replace","path":"/floranDescription","value":
+"Подпишитесь на магазин."
+},{"op":"replace","path":"/glitchDescription","value":
+"Утешен. Вывеска, указывающая на магазин."
+},{"op":"replace","path":"/humanDescription","value":
+"Похоже на вывеску магазина."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Это вывеска магазина."
+},{"op":"replace","path":"/novakidDescription","value":
+"Должно быть, магазин."
+},{"op":"replace","path":"/aegiDescription","value":
+"Судя по вывеске, здесь есть магазин."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это чужой рынок?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот знак можно увидеть издалека. Это довольно эффективно."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный знак. Указывает на наличие торговой площадки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки немного знает инопланетный язык. Магазин."
+}]

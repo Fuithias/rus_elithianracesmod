@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Одобренное Номадой улучшение головы. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голова Номады тип-С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Одобренное Номадой улучшение головы. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Голова Номады в.-З"
+}]

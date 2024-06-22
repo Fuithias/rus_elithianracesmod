@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Альянс Ховеркар",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Роскошный личный транспорт.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Высокотехнологичная машина на воздушной подушке.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как эта штука может летать?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не понимает, как он летает.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Интересный. Как этот автомобиль достигает взлета?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Выглядит как роскошный ховеркар. Прохладный!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный летающий аппарат.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Летает как шарм.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Aventor Galliot — один из самых популярных личных транспортных средств.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот инопланетный автомобиль выглядит быстрым.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Aventor создает увлекательные автомобили.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружено инопланетное судно на воздушной подушке.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки ездит на машине-инопланетянин-быстро!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Альянс Ховеркар"
+},{"op":"replace","path":"/description","value":
+"Роскошный личный транспорт."
+},{"op":"replace","path":"/apexDescription","value":
+"Высокотехнологичная машина на воздушной подушке."
+},{"op":"replace","path":"/avianDescription","value":
+"Как эта штука может летать?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не понимает, как он летает."
+},{"op":"replace","path":"/glitchDescription","value":
+"Интересный. Как этот автомобиль достигает взлета?"
+},{"op":"replace","path":"/humanDescription","value":
+"Выглядит как роскошный ховеркар. Прохладный!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный летающий аппарат."
+},{"op":"replace","path":"/novakidDescription","value":
+"Летает как шарм."
+},{"op":"replace","path":"/aegiDescription","value":
+"Авентор Галлиот — один из самых популярных личных транспортных средств."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот инопланетный автомобиль выглядит быстрым."
+},{"op":"replace","path":"/trinkDescription","value":
+"Авентор создает увлекательные автомобили."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружено инопланетное судно на воздушной подушке."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки ездит на машине-инопланетянин-быстро!"
+}]

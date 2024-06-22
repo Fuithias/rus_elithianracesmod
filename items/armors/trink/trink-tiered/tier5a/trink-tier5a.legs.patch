@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из высокосортного эгизальта.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела Энигмат",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из высокосортного эгизальта."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод тела Энигмат"
+}]

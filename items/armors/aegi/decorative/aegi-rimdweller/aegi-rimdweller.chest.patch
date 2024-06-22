@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Легкие доспехи, которые носят обитатели Рубежа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кираса Рубежника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Легкие доспехи, которые носят обитатели Рубежа."
+},{"op":"replace","path":"/shortdescription","value":
+"Кираса Рубежника"
+}]

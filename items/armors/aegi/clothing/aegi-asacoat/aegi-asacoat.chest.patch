@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Высококачественное пальто для высокопоставленных чиновников АСБ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пальто АСБ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Высококачественное пальто для высокопоставленных чиновников АСБ."
+},{"op":"replace","path":"/shortdescription","value":
+"Пальто АСБ"
+}]

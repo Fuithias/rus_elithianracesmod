@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прочный соединительный элемент балки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Соединитель балки Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прочный соединительный элемент балки."
+},{"op":"replace","path":"/shortdescription","value":
+"Соединитель балки Акрис"
+}]

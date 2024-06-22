@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стенд Хотбрёд",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продается Хотбрёд.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продают какой-то хлеб.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продают вкусный хлеб!",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не знает, что и думать об инопланетном хлебе.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. В этом месте продают теплый хлеб.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хотбрёд? Это звучит знакомо...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенд для выпечки и продажи хлеба.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь продают какой-то хлеб.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенд Хотбрёда. За последние несколько лет их популярность возросла.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я чувствую запах чужой еды. Напоминает запах дюновых булочек.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Место, где продают Хотбрёд, эгинский деликатес.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная еда. Рекомендую осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки чувствует запах еды. Голодный сейчас!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стенд Хотбрёд"
+},{"op":"replace","path":"/description","value":
+"Здесь продается Хотбрёд."
+},{"op":"replace","path":"/apexDescription","value":
+"Здесь продают какой-то хлеб."
+},{"op":"replace","path":"/avianDescription","value":
+"Здесь продают вкусный хлеб!"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не знает, что и думать об инопланетном хлебе."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. В этом месте продают теплый хлеб."
+},{"op":"replace","path":"/humanDescription","value":
+"Хотбрёд? Это звучит знакомо..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Стенд для выпечки и продажи хлеба."
+},{"op":"replace","path":"/novakidDescription","value":
+"Здесь продают какой-то хлеб."
+},{"op":"replace","path":"/aegiDescription","value":
+"Стенд Хотбрёда. За последние несколько лет их популярность возросла."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я чувствую запах чужой еды. Напоминает запах дюновых булочек."
+},{"op":"replace","path":"/trinkDescription","value":
+"Место, где продают Хотбрёд, эгинский деликатес."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная еда. Рекомендую осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки чувствует запах еды. Голодный сейчас!"
+}]

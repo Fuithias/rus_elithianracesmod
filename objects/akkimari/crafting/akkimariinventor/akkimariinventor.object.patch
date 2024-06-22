@@ -1,282 +1,113 @@
-[
-  {
-    "value": "^orange;Импровизированная рабочая станция^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простое рабочее место с доской для чертежей и местом для изготовления предметов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочая станция с местом для моих чертежей.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Убогая рабочая станция. Плохо построен и спроектирован бассейн.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Импровизированный стол для творчества.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Импровизированная рабочая станция^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простое рабочее место с доской для чертежей и местом для изготовления предметов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочая станция с местом для моих чертежей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края...",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Убогая рабочая станция. Плохо построен и спроектирован бассейн.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Импровизированный стол для творчества.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Рабочая станция Келрааки^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Доска для чертежей, построенная в стиле Келрааки.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, эти чертежи могут быть использованы восставшими.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу показать свое мастерство.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран может делать здесь что-то новое.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти чертежи не слишком сложны. Давайте начнем!",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая доска для чертежей.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетные инструменты и чертежи. Что здесь создают?",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно грубо построенная рабочая станция.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Импровизированный стол для творчества.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange; Рабочая станция Akris^white;",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокотехнологичная система чертежей, созданная на основе технологических чудес Акриса.",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Интересно, смогу ли я скачать эти чертежи восстания?",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этих экранах я могу отображать различные чертежи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Доска света рассказывает Флорану, как делать вещи.",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Эта выставка полна интересных чертежей.",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Современное рабочее место.",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этих экранах показаны всевозможные чертежи и тому подобное.",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Созданная экспертами рабочая станция. Экраны странные, но очень подробные.",
-    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На этих экранах отображаются чертежи всех видов инопланетных технологий.",
-    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти экраны удивительно эффективны по дизайну.",
-    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Современный верстак.",
-    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возьми чертеж и сделай что-нибудь здесь.",
-    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Импровизированная рабочая станция^white;"
+},{"op":"replace","path":"/description","value":
+"Простое рабочее место с доской для чертежей и местом для изготовления предметов."
+},{"op":"replace","path":"/apexDescription","value":
+"Рабочая станция с местом для моих чертежей."
+},{"op":"replace","path":"/avianDescription","value":
+"Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков."
+},{"op":"replace","path":"/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Убогая рабочая станция. Плохо построен и спроектирован бассейн."
+},{"op":"replace","path":"/trinkDescription","value":
+"Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Импровизированный стол для творчества."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Импровизированная рабочая станция^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Простое рабочее место с доской для чертежей и местом для изготовления предметов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Рабочая станция с местом для моих чертежей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Базовая рабочая станция. Я мог бы сделать здесь несколько простых вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Сырая рабочая станция. Мне лучше быть осторожным, чтобы не порезаться о края..."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Убогая рабочая станция. Плохо построен и спроектирован бассейн."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Плохо спроектированный верстак. Такое впечатление, что собрали на скорую руку."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Импровизированный стол для творчества."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Рабочая станция Келрааки^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Доска для чертежей, построенная в стиле Келрааки."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Возможно, эти чертежи могут быть использованы восставшими."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Здесь я могу показать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Флоран может делать здесь что-то новое."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создать несколько новых верстаков."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Эти чертежи не слишком сложны. Давайте начнем!"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Простая доска для чертежей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Инопланетные инструменты и чертежи. Что здесь создают?"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Довольно грубо построенная рабочая станция."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Импровизированный стол для творчества."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
+"^orange; Рабочая станция Акрис^white;"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
+"Высокотехнологичная система чертежей, созданная на основе технологических чудес Акриса."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
+"Интересно, смогу ли я скачать эти чертежи восстания?"
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
+"На этих экранах я могу отображать различные чертежи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
+"Доска света рассказывает Флорану, как делать вещи."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Эта выставка полна интересных чертежей."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/humanDescription","value":
+"Современное рабочее место."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/novakidDescription","value":
+"На этих экранах показаны всевозможные чертежи и тому подобное."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
+"Созданная экспертами рабочая станция. Экраны странные, но очень подробные."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
+"На этих экранах отображаются чертежи всех видов инопланетных технологий."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
+"Эти экраны удивительно эффективны по дизайну."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Современный верстак."
+},{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
+"Акки возьми чертеж и сделай что-нибудь здесь."
+}]

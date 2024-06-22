@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Прозрачный разноцветный кристалл.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Акрис Гласс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Прозрачный разноцветный кристалл."
+},{"op":"replace","path":"/shortdescription","value":
+"Акрис Гласс"
+}]

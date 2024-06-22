@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Грубые кирпичи Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелые каменные кирпичи, состаренные.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Грубые каменные кирпичи.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран любит ощущение камня под ногами.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каменные кирпичи, грубые и потрескавшиеся.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Старые каменные кирпичи.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Камень хорошо ощущается под ногами-акки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Грубые кирпичи Альянса"
+},{"op":"replace","path":"/description","value":
+"Тяжелые каменные кирпичи, состаренные."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Грубые каменные кирпичи."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран любит ощущение камня под ногами."
+},{"op":"replace","path":"/novakidDescription","value":
+"Каменные кирпичи, грубые и потрескавшиеся."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Старые каменные кирпичи."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Камень хорошо ощущается под ногами-акки."
+}]

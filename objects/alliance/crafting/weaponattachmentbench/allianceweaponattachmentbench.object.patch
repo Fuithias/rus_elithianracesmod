@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Стэнд обвешивания оружия",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мастерская, позволяющая применять насадки и моды к совместимому оружию.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Повстанцы могли бы с пользой использовать оружейные приспособления.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу прикрепить моды на свое оружие. Если бы я только мог прикрепить себе крылья...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран добавляет здесь к оружию вещи.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Творческий. Здесь я могу прикрепить к своему оружию всевозможные моды.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу прикрепить моды на свое оружие. Пусть веселье начнется!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно выразить свое творчество.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Думаю, здесь я мог бы добавить немного взрывной огневой мощи к своим орудиям.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу прикрепить моды на совместимое оружие.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для установки модов на оружие.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Совместимое оружие можно оснастить модами здесь. Вполне эффективная система.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Мастерская. Позволяет модифицировать совместимое оружие с помощью различных модов.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки модифицируют оружие. Сделать смертоноснее-более.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стэнд обвешивания оружия"
+},{"op":"replace","path":"/description","value":
+"Мастерская, позволяющая применять насадки и моды к совместимому оружию."
+},{"op":"replace","path":"/apexDescription","value":
+"Повстанцы могли бы с пользой использовать оружейные приспособления."
+},{"op":"replace","path":"/avianDescription","value":
+"Здесь я могу прикрепить моды на свое оружие. Если бы я только мог прикрепить себе крылья..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран добавляет здесь к оружию вещи."
+},{"op":"replace","path":"/glitchDescription","value":
+"Творческий. Здесь я могу прикрепить к своему оружию всевозможные моды."
+},{"op":"replace","path":"/humanDescription","value":
+"Здесь я могу прикрепить моды на свое оружие. Пусть веселье начнется!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь можно выразить свое творчество."
+},{"op":"replace","path":"/novakidDescription","value":
+"Думаю, здесь я мог бы добавить немного взрывной огневой мощи к своим орудиям."
+},{"op":"replace","path":"/aegiDescription","value":
+"Здесь я могу прикрепить моды на совместимое оружие."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инструменты для установки модов на оружие."
+},{"op":"replace","path":"/trinkDescription","value":
+"Совместимое оружие можно оснастить модами здесь. Вполне эффективная система."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Мастерская. Позволяет модифицировать совместимое оружие с помощью различных модов."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки модифицируют оружие. Сделать смертоноснее-более."
+}]

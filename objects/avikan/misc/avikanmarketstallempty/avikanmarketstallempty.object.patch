@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Пустой стойло Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой рыночный прилавок.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой рыночный прилавок. Как скучно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой ларек. Был ли он использован недавно?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой ларьк, нечего купить.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Пустой рыночный прилавок.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой рыночный прилавок? Здесь нечего покупать...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой ларек. Его владелец либо продал все, либо недостаточно.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рыночный ларек. Обычное явление в авиканских деревнях.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой рыночный ларек, вроде тех, что на Кадаване.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пустой рыночный прилавок. Неэффективное использование пространства.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Базарная палатка. Пустой.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ларек-пустой.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Пустой стойло Авикан"
+},{"op":"replace","path":"/description","value":
+"Пустой рыночный прилавок."
+},{"op":"replace","path":"/apexDescription","value":
+"Пустой рыночный прилавок. Как скучно."
+},{"op":"replace","path":"/avianDescription","value":
+"Пустой ларек. Был ли он использован недавно?"
+},{"op":"replace","path":"/floranDescription","value":
+"Пустой ларьк, нечего купить."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Пустой рыночный прилавок."
+},{"op":"replace","path":"/humanDescription","value":
+"Пустой рыночный прилавок? Здесь нечего покупать..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Пустой ларек. Его владелец либо продал все, либо недостаточно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Рыночный ларек. Обычное явление в авиканских деревнях."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простой рыночный ларек, вроде тех, что на Кадаване."
+},{"op":"replace","path":"/trinkDescription","value":
+"Пустой рыночный прилавок. Неэффективное использование пространства."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Базарная палатка. Пустой."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Ларек-пустой."
+}]

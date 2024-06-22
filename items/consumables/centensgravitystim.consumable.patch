@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Создает временное искажение гравитационного поля, отталкивающее снаряды.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Искажитель гравитационного поля",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Расходный материал",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Создает временное искажение гравитационного поля, отталкивающее снаряды."
+},{"op":"replace","path":"/shortdescription","value":
+"Искажитель гравитационного поля"
+},{"op":"replace","path":"/category","value":
+"Расходный материал"
+}]

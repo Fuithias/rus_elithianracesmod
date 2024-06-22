@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^gray;Острый палаш, сделанный из зуба гигантского монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Острие ловца",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Острый палаш, сделанный из зуба гигантского монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Острие ловца"
+}]

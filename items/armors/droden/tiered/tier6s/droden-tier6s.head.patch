@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Дродены. ^white;Улучшение головы для элитных боевых единиц. Здоровая версия.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Голова элиты тип-С",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Дродены. ^white;Улучшение головы для элитных боевых единиц. Здоровая версия."
+},{"op":"replace","path":"/shortdescription","value":
+"Голова элиты в.-З"
+}]

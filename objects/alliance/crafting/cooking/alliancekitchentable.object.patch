@@ -1,77 +1,31 @@
-[
-  {
-    "value": " Кухонная стойка",
-    "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Кухонная стойка Альянса^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная кухонная стойка со сковородками, посудой и многим другим.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная стойка.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кастрюли, посуда, раковина, что еще мне нужно?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран готовит здесь еду.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Раздраженный. Я не хочу мыть посуду.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная стойка, кастрюли, посуда – как дома!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная стойка.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Давайте уже готовить!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная стойка со всем необходимым для приготовления еды.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возможно, я смогу приготовить здесь еду, даже с помощью этих инопланетных инструментов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кухонная стойка эгинского дизайна.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены следы органических продуктов питания. Анализ: кухонное оборудование.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инструменты для приготовления пищи, Акки голоден.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Кухонная стойка"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Кухонная стойка Альянса^white;"
+},{"op":"replace","path":"/description","value":
+"Обычная кухонная стойка со сковородками, посудой и многим другим."
+},{"op":"replace","path":"/apexDescription","value":
+"Кухонная стойка."
+},{"op":"replace","path":"/avianDescription","value":
+"Кастрюли, посуда, раковина, что еще мне нужно?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран готовит здесь еду."
+},{"op":"replace","path":"/glitchDescription","value":
+"Раздраженный. Я не хочу мыть посуду."
+},{"op":"replace","path":"/humanDescription","value":
+"Кухонная стойка, кастрюли, посуда – как дома!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Кухонная стойка."
+},{"op":"replace","path":"/novakidDescription","value":
+"Давайте уже готовить!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Кухонная стойка со всем необходимым для приготовления еды."
+},{"op":"replace","path":"/avikanDescription","value":
+"Возможно, я смогу приготовить здесь еду, даже с помощью этих инопланетных инструментов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кухонная стойка эгинского дизайна."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены следы органических продуктов питания. Анализ: кухонное оборудование."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Инструменты для приготовления пищи, Акки голоден."
+}]

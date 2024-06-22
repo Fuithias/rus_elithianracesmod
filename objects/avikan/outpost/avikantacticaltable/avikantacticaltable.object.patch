@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Тактический стол Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тактический голографический дисплей.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран не может нанести удар световым кубом. Флоран расстроен.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что отображает этот голографический стол?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то крошечный город из света.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Голографический стол, используемый для планирования стратегии миссии.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен стол с голографическим дисплеем.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол-тактический. Планируйте миссию здесь.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тактический стол Авикан"
+},{"op":"replace","path":"/description","value":
+"Тактический голографический дисплей."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран не может нанести удар световым кубом. Флоран расстроен."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что отображает этот голографический стол?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Какой-то крошечный город из света."
+},{"op":"replace","path":"/avikanDescription","value":
+"Голографический стол, используемый для планирования стратегии миссии."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен стол с голографическим дисплеем."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стол-тактический. Планируйте миссию здесь."
+}]

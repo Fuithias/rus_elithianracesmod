@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Душевая кабина Альянс",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Душевая кабина.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Место, где можно помыться.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мне нужно помыть перья.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран принимает здесь дождевую ванну.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стыдящийся. Надеюсь, никто не услышит, как я пою.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта душевая кабина не совсем приватная...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенный душ.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пойдем принимать душ!",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стандартная душевая кабина.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это устройство может вызвать дождь. Пустая трата воды.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я предпочитаю химическое очищение душе.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен чужой источник воды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки мыть здесь. Акки снова чистый.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Душевая кабина Альянс"
+},{"op":"replace","path":"/description","value":
+"Душевая кабина."
+},{"op":"replace","path":"/apexDescription","value":
+"Место, где можно помыться."
+},{"op":"replace","path":"/avianDescription","value":
+"Мне нужно помыть перья."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран принимает здесь дождевую ванну."
+},{"op":"replace","path":"/glitchDescription","value":
+"Стыдящийся. Надеюсь, никто не услышит, как я пою."
+},{"op":"replace","path":"/humanDescription","value":
+"Эта душевая кабина не совсем приватная..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Упрощенный душ."
+},{"op":"replace","path":"/novakidDescription","value":
+"Пойдем принимать душ!"
+},{"op":"replace","path":"/aegiDescription","value":
+"Стандартная душевая кабина."
+},{"op":"replace","path":"/avikanDescription","value":
+"Это устройство может вызвать дождь. Пустая трата воды."
+},{"op":"replace","path":"/trinkDescription","value":
+"Я предпочитаю химическое очищение душе."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен чужой источник воды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки мыть здесь. Акки снова чистый."
+}]

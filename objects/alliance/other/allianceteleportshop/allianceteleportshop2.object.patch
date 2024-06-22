@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Телепорт Теле-2-Го",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт станет отличной демонстрацией и удобной точкой возврата!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот телепорт станет отличной демонстрацией и удобной точкой возврата.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Телепорт. Уровень опасности: средний.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт Теле-2-Го"
+},{"op":"replace","path":"/description","value":
+"Этот телепорт станет отличной демонстрацией и удобной точкой возврата!"
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот телепорт станет отличной демонстрацией и удобной точкой возврата."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Телепорт. Уровень опасности: средний."
+}]

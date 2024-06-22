@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Электронные компоненты производства Trinkian.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкян Электроникс",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Электронные компоненты производства тринков."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринкян Электроникс"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Маска Поптопа для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска Поптопа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Маска Поптопа для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска Поптопа"
+}]

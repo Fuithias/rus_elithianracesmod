@@ -1,22 +1,9 @@
-[
-  {
-    "value": "^gray;Собирает мясо и другие продукты с чудовищ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Бредон Армс^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "Композитный лук Бредона",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Композитный лук",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^gray;Собирает мясо и другие продукты с чудовищ."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Бредон Армс^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"Композитный лук Бредона"
+},{"op":"replace","path":"/category","value":
+"Композитный лук"
+}]

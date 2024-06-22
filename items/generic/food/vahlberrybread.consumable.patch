@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Хлебцы с начинкой из валберничного джема для свежего и восхитительного вкуса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Валберри Хлеб",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Хлебцы с начинкой из валберничного джема для свежего и восхитительного вкуса."
+},{"op":"replace","path":"/shortdescription","value":
+"Валберри Хлеб"
+}]

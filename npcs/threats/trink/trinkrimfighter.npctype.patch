@@ -1,27 +1,11 @@
-[
-  {
-    "value": "Вы зашли не в тот район!",
-    "path": "/scriptConfig/dialog/attack/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Рим наш!",
-    "path": "/scriptConfig/dialog/attack/default/default/1",
-    "op": "replace"
-  },
-  {
-    "value": "У тебя сейчас проблемы!",
-    "path": "/scriptConfig/dialog/attack/default/default/2",
-    "op": "replace"
-  },
-  {
-    "value": "Держитесь подальше от Рима!",
-    "path": "/scriptConfig/dialog/attack/default/default/3",
-    "op": "replace"
-  },
-  {
-    "value": "Рим не хочет тебя!",
-    "path": "/scriptConfig/dialog/attack/default/default/4",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/0","value":
+"Вы зашли не в тот район!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/1","value":
+"Рим наш!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/2","value":
+"У тебя сейчас проблемы!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/3","value":
+"Держитесь подальше от Рима!"
+},{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/4","value":
+"Рим не хочет тебя!"
+}]

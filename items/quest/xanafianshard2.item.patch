@@ -1,17 +1,7 @@
-[
-  {
-    "value": "Осколок Ксанафира, содержащий частицу его почти бесконечной силы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Ксанафийский осколок^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Квестовый предмет",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Осколок Ксанафира, содержащий частицу его почти бесконечной силы."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Ксанафийский осколок^white;"
+},{"op":"replace","path":"/category","value":
+"Квестовый предмет"
+}]

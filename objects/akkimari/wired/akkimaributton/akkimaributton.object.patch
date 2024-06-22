@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Настенная кнопка Акрис",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кнопка сенсорного экрана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Давит!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Что произойдет, если я нажму эту кнопку?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Кнопка. Используется для временной активации цепей.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки пресс, всякое случается.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настенная кнопка Акрис"
+},{"op":"replace","path":"/description","value":
+"Кнопка сенсорного экрана."
+},{"op":"replace","path":"/floranDescription","value":
+"Давит!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Что произойдет, если я нажму эту кнопку?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Кнопка. Используется для временной активации цепей."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки пресс, всякое случается."
+}]

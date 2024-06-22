@@ -1,212 +1,85 @@
-[
-  {
-    "value": "^orange;Каменная печь Авикан^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная печь. Я чувствую запахи здесь.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная печь, идеально подходящая для плавки руды.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плавильная печь. Выглядит жарко.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Горячая, внушительная печь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная печь для плавки руды.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта печь не очень безопасна.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая печь. Одно из немногих каменных сооружений, которые используют мои люди.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неэффективный и небезопасный способ переплавки руды в металлические слитки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каменная печь. Базовая функциональность плавки руды.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь-каменная, не слишком горячая.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Каменная печь Авикан^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивная печь. Я чувствую запахи здесь.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная печь, идеально подходящая для плавки руды.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Пламя печи шипит, горит. Флоран выдержит это.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Плавильная печь. Выглядит жарко.",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Горячая, внушительная печь.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обычная печь для плавки руды.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта печь не очень безопасна.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простая печь. Одно из немногих каменных сооружений, которые используют мои люди.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неэффективный и небезопасный способ переплавки руды в металлические слитки.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Каменная печь. Базовая функциональность плавки руды.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь-каменная, не слишком горячая.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Печь Nomada^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокая температура печи позволяет создавать металлические слитки и другие предметы.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Печь для выплавки металла, а также некоторых других материалов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь для создания различных сплавов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран осторожен. Огонь сожжёт Флорана...",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольный. Огонь этой печи надежно хранится за металлической решеткой.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Печь, горящая при необычной температуре. Он может плавить только некоторые очень специфические металлы.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта печь горит при температуре, идеально подходящей для плавки некоторых инопланетных сплавов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это пламя едва ли ярче, чем я.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Температура этой печи идеально подходит для плавки сплавов Авикан, но не более того.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хотя она не может плавить все металлы, температура в этой печи просто идеальна для создания сплавов Авикан.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такая конструкция с открытой решеткой вряд ли эффективна, но расход топлива у печи первоклассный.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Печь Номада. Температурный режим идеально подходит для плавки сплавов Авикан.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кузнечно-горячий, для плавки металлов.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Каменная печь Авикан^white;"
+},{"op":"replace","path":"/description","value":
+"Высокая температура печи позволяет создавать металлические слитки и другие предметы."
+},{"op":"replace","path":"/apexDescription","value":
+"Примитивная печь. Я чувствую запахи здесь."
+},{"op":"replace","path":"/avianDescription","value":
+"Обычная печь, идеально подходящая для плавки руды."
+},{"op":"replace","path":"/floranDescription","value":
+"Пламя печи шипит, горит. Флоран выдержит это."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд."
+},{"op":"replace","path":"/humanDescription","value":
+"Плавильная печь. Выглядит жарко."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Горячая, внушительная печь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Обычная печь для плавки руды."
+},{"op":"replace","path":"/aegiDescription","value":
+"Эта печь не очень безопасна."
+},{"op":"replace","path":"/avikanDescription","value":
+"Простая печь. Одно из немногих каменных сооружений, которые используют мои люди."
+},{"op":"replace","path":"/trinkDescription","value":
+"Неэффективный и небезопасный способ переплавки руды в металлические слитки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Каменная печь. Базовая функциональность плавки руды."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Печь-каменная, не слишком горячая."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Каменная печь Авикан^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Высокая температура печи позволяет создавать металлические слитки и другие предметы."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Примитивная печь. Я чувствую запахи здесь."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Обычная печь, идеально подходящая для плавки руды."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Пламя печи шипит, горит. Флоран выдержит это."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Впечатленный. Эта печь имеет идеальную температуру для плавки основных руд."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Плавильная печь. Выглядит жарко."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Горячая, внушительная печь."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Обычная печь для плавки руды."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Эта печь не очень безопасна."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Простая печь. Одно из немногих каменных сооружений, которые используют мои люди."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Неэффективный и небезопасный способ переплавки руды в металлические слитки."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Каменная печь. Базовая функциональность плавки руды."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Печь-каменная, не слишком горячая."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Печь Номада^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Высокая температура печи позволяет создавать металлические слитки и другие предметы."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Печь для выплавки металла, а также некоторых других материалов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Печь для создания различных сплавов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Флоран осторожен. Огонь сожжёт Флорана..."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Довольный. Огонь этой печи надежно хранится за металлической решеткой."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Печь, горящая при необычной температуре. Он может плавить только некоторые очень специфические металлы."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Эта печь горит при температуре, идеально подходящей для плавки некоторых инопланетных сплавов."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Это пламя едва ли ярче, чем я."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Температура этой печи идеально подходит для плавки сплавов Авикан, но не более того."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Хотя она не может плавить все металлы, температура в этой печи просто идеальна для создания сплавов Авикан."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Такая конструкция с открытой решеткой вряд ли эффективна, но расход топлива у печи первоклассный."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Печь Номада. Температурный режим идеально подходит для плавки сплавов Авикан."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"Кузнечно-горячий, для плавки металлов."
+}]

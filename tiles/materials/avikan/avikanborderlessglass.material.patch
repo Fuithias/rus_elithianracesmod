@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Стекло без границ авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстое, прочное стекло.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Заявление. Стекло.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран красиво смотрится в стекле.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Толстое стекло, но я все равно вижу насквозь.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Толстое стекло.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стекло-толстое.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Стекло без границ авикан"
+},{"op":"replace","path":"/description","value":
+"Толстое, прочное стекло."
+},{"op":"replace","path":"/glitchDescription","value":
+"Заявление. Стекло."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран красиво смотрится в стекле."
+},{"op":"replace","path":"/novakidDescription","value":
+"Толстое стекло, но я все равно вижу насквозь."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Толстое стекло."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Стекло-толстое."
+}]

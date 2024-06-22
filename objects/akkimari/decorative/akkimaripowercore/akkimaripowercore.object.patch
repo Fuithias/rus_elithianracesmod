@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Ядерное ядро",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Переработанная ядерная бомба, служащая невероятно мощным источником энергии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Это... выглядит небезопасно...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это... Бомба?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран встревожен. Боюсь, что взорвется.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Встревожен. Это ядерная бомба?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это определенно ядерная бомба. Используется как источник питания. Проклятие...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Такое ощущение, что это бомба...",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я не специалист по ядерной науке, но это похоже на ядерную бомбу.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари повторно использовали ядерную бомбу в качестве источника энергии...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то инопланетная бомба. Я бы предпочел не подходить слишком близко.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже, это ядерный источник энергии. Это похоже на переработанную бомбу.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование... Ошибка. Обнаружен источник ядерной энергии. Рекомендовать немедленную эвакуацию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не нужна бомба-ядерная. Акки нужна власть. Так что Акки сделай генератор из бомбы-ядерки!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Ядерное ядро"
+},{"op":"replace","path":"/description","value":
+"Переработанная ядерная бомба, служащая невероятно мощным источником энергии."
+},{"op":"replace","path":"/apexDescription","value":
+"Это... выглядит небезопасно..."
+},{"op":"replace","path":"/avianDescription","value":
+"Это... Бомба?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран встревожен. Боюсь, что взорвется."
+},{"op":"replace","path":"/glitchDescription","value":
+"Встревожен. Это ядерная бомба?"
+},{"op":"replace","path":"/humanDescription","value":
+"Это определенно ядерная бомба. Используется как источник питания. Проклятие..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Такое ощущение, что это бомба..."
+},{"op":"replace","path":"/novakidDescription","value":
+"Я не специалист по ядерной науке, но это похоже на ядерную бомбу."
+},{"op":"replace","path":"/aegiDescription","value":
+"Аккимари повторно использовали ядерную бомбу в качестве источника энергии..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Какая-то инопланетная бомба. Я бы предпочел не подходить слишком близко."
+},{"op":"replace","path":"/trinkDescription","value":
+"Похоже, это ядерный источник энергии. Это похоже на переработанную бомбу."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование... Ошибка. Обнаружен источник ядерной энергии. Рекомендовать немедленную эвакуацию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не нужна бомба-ядерная. Акки нужна власть. Так что Акки сделай генератор из бомбы-ядерки!"
+}]

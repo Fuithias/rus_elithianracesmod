@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Высококачественный металлолом, интегрированный с технологией Аккимари.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Комплексный металлолом",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Высококачественный металлолом, интегрированный с технологией Аккимари."
+},{"op":"replace","path":"/shortdescription","value":
+"Комплексный металлолом"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Разместите самоходную платформу, которая движется по рельсам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рельсовая платформа Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Разместите самоходную платформу, которая движется по рельсам."
+},{"op":"replace","path":"/shortdescription","value":
+"Рельсовая платформа Альянса"
+}]

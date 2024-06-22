@@ -1,42 +1,17 @@
-[
-  {
-    "value": "Темная авиканская платформа",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темная металлическая платформа.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Утверждение. Темная металлическая платформа.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая платформа темная.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Темная платформа.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Темная металлическая платформа.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки стоит на темной платформе, делает акки светлее.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "value": "Поддержки"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Темная авиканская платформа"
+},{"op":"replace","path":"/description","value":
+"Темная металлическая платформа."
+},{"op":"replace","path":"/glitchDescription","value":
+"Утверждение. Темная металлическая платформа."
+},{"op":"replace","path":"/floranDescription","value":
+"Металлическая платформа темная."
+},{"op":"replace","path":"/novakidDescription","value":
+"Темная платформа."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Темная металлическая платформа."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки стоит на темной платформе, делает акки светлее."
+},{"op":"replace","path":"/category","value":
+"Поддержки"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Энергетический элемент, вырванный из тела Гаворкана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гаворканская энергетическая ячейка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Энергетический элемент, вырванный из тела Гаворкана."
+},{"op":"replace","path":"/shortdescription","value":
+"Гаворканская энергетическая ячейка"
+}]

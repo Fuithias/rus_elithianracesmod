@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Хороший способ сделать что-то гадкое еще гадче.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Болбон Джем",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Хороший способ сделать что-то гадкое еще гадче."
+},{"op":"replace","path":"/shortdescription","value":
+"Болбон Джем"
+}]

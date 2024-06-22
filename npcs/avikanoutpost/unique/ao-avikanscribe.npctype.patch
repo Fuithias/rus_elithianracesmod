@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Инопланетянин без документов, как интересно!",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Если вам когда-нибудь попадутся какие-либо древние тексты, пожалуйста, принесите их сюда!",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Инопланетянин без документов, как интересно!"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Если вам когда-нибудь попадутся какие-либо древние тексты, пожалуйста, принесите их сюда!"
+}]

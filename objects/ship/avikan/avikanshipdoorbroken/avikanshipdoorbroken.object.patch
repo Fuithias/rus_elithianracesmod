@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Дверь корабля Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прочная металлическая дверь, часто встречающаяся на кораблях Авикана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая дверь, которая не сдвинется с места.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь плотно заперта.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Эта дверь закрыта.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "У меня нет возможности пройти через эту дверь.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь на мгновение вышла из строя. Кто-то должен заняться исправлением этого.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь откроется не скоро.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь, которая не сдвинется с места.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь не откроется.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь не сдвинется с места.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь. Модель корабля. Анализ: заблокирован.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь закрыта.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Дверь корабля Авикан"
+},{"op":"replace","path":"/description","value":
+"Прочная металлическая дверь, часто встречающаяся на кораблях Авикана."
+},{"op":"replace","path":"/apexDescription","value":
+"Металлическая дверь, которая не сдвинется с места."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта дверь плотно заперта."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Эта дверь закрыта."
+},{"op":"replace","path":"/humanDescription","value":
+"У меня нет возможности пройти через эту дверь."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Эта дверь на мгновение вышла из строя. Кто-то должен заняться исправлением этого."
+},{"op":"replace","path":"/novakidDescription","value":
+"Эта дверь откроется не скоро."
+},{"op":"replace","path":"/aegiDescription","value":
+"Дверь, которая не сдвинется с места."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта дверь не откроется."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта дверь не сдвинется с места."
+},{"op":"replace","path":"/drodenDescription","value":
+"Дверь. Модель корабля. Анализ: заблокирован."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь закрыта."
+}]

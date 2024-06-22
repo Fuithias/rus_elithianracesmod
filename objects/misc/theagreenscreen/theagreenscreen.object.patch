@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Зеленый экран",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Он совсем не зеленый!",
-    "path": "/description",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Зеленый экран"
+},{"op":"replace","path":"/description","value":
+"Он совсем не зеленый!"
+}]

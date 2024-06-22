@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мягкие пушистые волокна, полученные из растения амбрум.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Янтарное волокно",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мягкие пушистые волокна, полученные из растения амбрум."
+},{"op":"replace","path":"/shortdescription","value":
+"Янтарное волокно"
+}]

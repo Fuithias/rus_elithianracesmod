@@ -1,27 +1,11 @@
-[
-  {
-    "value": "^orange;Лайнтовка, созданная для элитных войск Авангарда.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^gray;Авангард^reset;",
-    "path": "/manufacturer",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Лук гвардейца^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лайнтовка",
-    "path": "/category",
-    "op": "replace"
-  },
-  {
-    "value": "Удар прикладом",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Лайнтовка, созданная для элитных войск Авангарда."
+},{"op":"replace","path":"/manufacturer","value":
+"^gray;Авангард^reset;"
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Стрел гвардейца^white;"
+},{"op":"replace","path":"/category","value":
+"Лайнтовка"
+},{"op":"replace","path":"/altAbility/name","value":
+"Удар прикладом"
+}]

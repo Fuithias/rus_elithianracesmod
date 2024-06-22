@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикан Транспорт",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Автомобиль компании «Авикан» для перевозки грузов.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой и громоздкий парящий транспорт.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий транспортник... Где крылья?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран складывает товары в летающий ящик, а затем Флоран улетает!",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Это парящее транспортное средство имеет гораздо большую грузоподъемность, чем механическая лошадь.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящая транспортная машина... Что она несет?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящий грузовой транспорт. Он летит с изяществом.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Как и большинство автомобилей «Авикан», этот грузовой транспорт парит по технологии Centensian.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортное средство для перевозки грузов между Тервесами в пустыне.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Парящие транспортные средства являются эффективным средством перемещения грузов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Номада Грузовой Транспорт. Анализ: грузовые ящики пусты.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Транспортное средство-инопланетянин, перевозите грузы по округе.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Транспорт"
+},{"op":"replace","path":"/description","value":
+"Автомобиль компании Авикан для перевозки грузов."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой и громоздкий парящий транспорт."
+},{"op":"replace","path":"/avianDescription","value":
+"Парящий транспортник... Где крылья?"
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран складывает товары в летающий ящик, а затем Флоран улетает!"
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Это парящее транспортное средство имеет гораздо большую грузоподъемность, чем механическая лошадь."
+},{"op":"replace","path":"/humanDescription","value":
+"Парящая транспортная машина... Что она несет?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Парящий грузовой транспорт. Он летит с изяществом."
+},{"op":"replace","path":"/aegiDescription","value":
+"Как и большинство автомобилей Авикан, этот грузовой транспорт парит по технологии Centensian."
+},{"op":"replace","path":"/avikanDescription","value":
+"Транспортное средство для перевозки грузов между Тервесами в пустыне."
+},{"op":"replace","path":"/trinkDescription","value":
+"Парящие транспортные средства являются эффективным средством перемещения грузов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Номада Грузовой Транспорт. Анализ: грузовые ящики пусты."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Транспортное средство-инопланетянин, перевозите грузы по округе."
+}]

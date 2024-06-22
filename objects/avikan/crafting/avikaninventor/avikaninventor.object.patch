@@ -1,212 +1,85 @@
-[
-  {
-    "value": "^orange;Стол рабочего Авикана^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол рабочего используется для создания различных специализированных верстаков.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол с кучей инструментов мастера по кости.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Floran Ussse, чтобы сделать больше столов.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для изготовления специализированных верстаков. Лукаво!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак, используемый для изготовления других верстаков. Неэффективное решение.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует чертежи для создания многих вещей.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Стол рабочего Авикана^white;",
-    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол рабочего используется для создания различных специализированных верстаков.",
-    "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стол с кучей инструментов мастера по кости.",
-    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стол Floran Ussse, чтобы сделать больше столов.",
-    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Этот стол может позволить мне создавать все новые верстак.",
-    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для изготовления специализированных верстаков. Лукаво!",
-    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь можно продемонстрировать свое мастерство.",
-    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак для крафта новых верстаков. Верно.",
-    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование.",
-    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта.",
-    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верстак, используемый для изготовления других верстаков. Неэффективное решение.",
-    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков.",
-    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует чертежи для создания многих вещей.",
-    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Станция ремесленников Авикан^white;",
-    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Станция ремесленника используется для создания различных специализированных верстаков.",
-    "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочее место современного мастера. На экране отображается какой-то сложный чертеж.",
-    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочая станция, где можно было создавать специализированное ремесленное оборудование.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочая станция Floran Ussse для изготовления инструментов для крафта.",
-    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Вдохновленный. Настоящий ремесленник сможет создать здесь великолепные изделия.",
-    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Высокотехнологичный стол для современного мастера.",
-    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хотя машина помогает, здесь может работать только настоящий ремесленник.",
-    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Причудливый экран на замену хрупких чертежей. Действительно очень полезно.",
-    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рабочее место для мастеров Авикан.",
-    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Здесь я могу изготовить специальные инструменты для крафта.",
-    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта машина делает процесс создания и архивирования чертежей намного более эффективным.",
-    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Станция Ремесленника. Используется для изготовления различных специализированных верстаков.",
-    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "На экране показаны чертежи, полезные для Akki.",
-    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"^orange;Стол рабочего Авикана^white;"
+},{"op":"replace","path":"/description","value":
+"Стол рабочего используется для создания различных специализированных верстаков."
+},{"op":"replace","path":"/apexDescription","value":
+"Стол с кучей инструментов мастера по кости."
+},{"op":"replace","path":"/avianDescription","value":
+"Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей."
+},{"op":"replace","path":"/floranDescription","value":
+"Стол Floran Ussse, чтобы сделать больше столов."
+},{"op":"replace","path":"/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создавать все новые верстак."
+},{"op":"replace","path":"/humanDescription","value":
+"Верстак для изготовления специализированных верстаков. Лукаво!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/aegiDescription","value":
+"Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование."
+},{"op":"replace","path":"/avikanDescription","value":
+"Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта."
+},{"op":"replace","path":"/trinkDescription","value":
+"Верстак, используемый для изготовления других верстаков. Неэффективное решение."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки использует чертежи для создания многих вещей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
+"^orange;Стол рабочего Авикана^white;"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
+"Стол рабочего используется для создания различных специализированных верстаков."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
+"Стол с кучей инструментов мастера по кости."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avianDescription","value":
+"Эти инструменты для крафта могут быть примитивными, но они отлично справляются со своей задачей."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
+"Стол Floran Ussse, чтобы сделать больше столов."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Этот стол может позволить мне создавать все новые верстак."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
+"Верстак для изготовления специализированных верстаков. Лукаво!"
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
+"Здесь можно продемонстрировать свое мастерство."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/novakidDescription","value":
+"Верстак для крафта новых верстаков. Верно."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/aegiDescription","value":
+"Рабочий стол, используемый Авиканом. Здесь можно было бы изготовить более специализированное оборудование."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/avikanDescription","value":
+"Рабочий стол. Здесь я могу изготовить более специализированные инструменты для крафта."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/trinkDescription","value":
+"Верстак, используемый для изготовления других верстаков. Неэффективное решение."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков."
+},{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
+"Акки использует чертежи для создания многих вещей."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
+"^orange;Станция ремесленников Авикан^white;"
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
+"Станция ремесленника используется для создания различных специализированных верстаков."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
+"Рабочее место современного мастера. На экране отображается какой-то сложный чертеж."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avianDescription","value":
+"Рабочая станция, где можно было создавать специализированное ремесленное оборудование."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/floranDescription","value":
+"Рабочая станция Floran Ussse для изготовления инструментов для крафта."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/glitchDescription","value":
+"Вдохновленный. Настоящий ремесленник сможет создать здесь великолепные изделия."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/humanDescription","value":
+"Высокотехнологичный стол для современного мастера."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/hylotlDescription","value":
+"Хотя машина помогает, здесь может работать только настоящий ремесленник."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/novakidDescription","value":
+"Причудливый экран на замену хрупких чертежей. Действительно очень полезно."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
+"Рабочее место для мастеров Авикан."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
+"Здесь я могу изготовить специальные инструменты для крафта."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
+"Эта машина делает процесс создания и архивирования чертежей намного более эффективным."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
+"Анализ завершен. Станция Ремесленника. Используется для изготовления различных специализированных верстаков."
+},{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
+"На экране показаны чертежи, полезные для акки."
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Окаменевшее тело Тринка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тринк для тела",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Окаменевшее тело Тринка."
+},{"op":"replace","path":"/shortdescription","value":
+"Тринк для тела"
+}]

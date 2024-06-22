@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Задняя панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлическая стеновая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Стеновая панель.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не интересны скучные панели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические панели для строительства внутренних стен.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Металлическая стеновая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель-стена-металл, аккуратно обрезана. Очень удовлетворительно.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Задняя панель Альянса"
+},{"op":"replace","path":"/description","value":
+"Металлическая стеновая панель."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Стеновая панель."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не интересны скучные панели."
+},{"op":"replace","path":"/novakidDescription","value":
+"Металлические панели для строительства внутренних стен."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Металлическая стеновая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Панель-стена-металл, аккуратно обрезана. Очень удовлетворительно."
+}]

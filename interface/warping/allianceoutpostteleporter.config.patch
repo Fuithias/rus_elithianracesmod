@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Посольство Креона",
-    "path": "/bookmarkName",
-    "op": "replace"
-  },
-  {
-    "value": "Назад на корабль",
-    "path": "/destinations/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/bookmarkName","value":
+"Посольство Креона"
+},{"op":"replace","path":"/destinations/name","value":
+"Назад на корабль"
+}]

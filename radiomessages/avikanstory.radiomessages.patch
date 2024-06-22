@@ -1,62 +1,25 @@
-[
-  {
-    "value": "Командир Захид",
-    "path": "/avikanmission1-arrival1/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Я вижу, вы прибыли в Дхакорин. Колония, с которой мы потеряли связь, находится за холмом на востоке.",
-    "path": "/avikanmission1-arrival1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Командир Захид",
-    "path": "/avikanmission1-arrival2/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Мы должны узнать, что случилось с колонией. Пожалуйста, поспешите.",
-    "path": "/avikanmission1-arrival2/text",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование показывает, что этот корабль был недавно сбит. Следы ожогов соответствуют оружию телеан.",
-    "path": "/avikanmission1-crashedship/text",
-    "op": "replace"
-  },
-  {
-    "value": "Командир Захид",
-    "path": "/avikanmission1-theleanship1/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Корабли телеанцев... Похоже, мои опасения подтвердились: колонию атаковали телеанцы.",
-    "path": "/avikanmission1-theleanship1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Командир Захид",
-    "path": "/avikanmission1-theleanship2/senderName",
-    "op": "replace"
-  },
-  {
-    "value": "Вы должны поспешить внутрь, капитан. Если корабли все еще снаружи, значит внутри колонии все еще могут быть телеанцы.",
-    "path": "/avikanmission1-theleanship2/text",
-    "op": "replace"
-  },
-  {
-    "value": "Я обнаруживаю жизненные сигналы телеанцев за этой запертой дверью. Советую подняться в вентиляционные шахты и подготовить внезапную атаку.",
-    "path": "/avikanmission1-theleanscout/text",
-    "op": "replace"
-  },
-  {
-    "value": "Путь вперед заблокирован, но я обнаруживаю структурную слабость в полу. Возможно, вы сможете пробить его.",
-    "path": "/avikanmission1-breakfloor1/text",
-    "op": "replace"
-  },
-  {
-    "value": "Я обнаруживаю неизвестный жизненный сигнал в следующей комнате. Будьте наготове.",
-    "path": "/avikanmission1-ghavorkan1/text",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/avikanmission1-arrival1/senderName","value":
+"Командир Захид"
+},{"op":"replace","path":"/avikanmission1-arrival1/text","value":
+"Я вижу, вы прибыли в Дхакорин. Колония, с которой мы потеряли связь, находится за холмом на востоке."
+},{"op":"replace","path":"/avikanmission1-arrival2/senderName","value":
+"Командир Захид"
+},{"op":"replace","path":"/avikanmission1-arrival2/text","value":
+"Мы должны узнать, что случилось с колонией. Пожалуйста, поспешите."
+},{"op":"replace","path":"/avikanmission1-crashedship/text","value":
+"Сканирование показывает, что этот корабль был недавно сбит. Следы ожогов соответствуют оружию телеан."
+},{"op":"replace","path":"/avikanmission1-theleanship1/senderName","value":
+"Командир Захид"
+},{"op":"replace","path":"/avikanmission1-theleanship1/text","value":
+"Корабли телеанцев... Похоже, мои опасения подтвердились: колонию атаковали телеанцы."
+},{"op":"replace","path":"/avikanmission1-theleanship2/senderName","value":
+"Командир Захид"
+},{"op":"replace","path":"/avikanmission1-theleanship2/text","value":
+"Вы должны поспешить внутрь, капитан. Если корабли все еще снаружи, значит внутри колонии все еще могут быть телеанцы."
+},{"op":"replace","path":"/avikanmission1-theleanscout/text","value":
+"Я обнаруживаю жизненные сигналы телеанцев за этой запертой дверью. Советую подняться в вентиляционные шахты и подготовить внезапную атаку."
+},{"op":"replace","path":"/avikanmission1-breakfloor1/text","value":
+"Путь вперед заблокирован, но я обнаруживаю структурную слабость в полу. Возможно, вы сможете пробить его."
+},{"op":"replace","path":"/avikanmission1-ghavorkan1/text","value":
+"Я обнаруживаю неизвестный жизненный сигнал в следующей комнате. Будьте наготове."
+}]

@@ -1,32 +1,13 @@
-[
-  {
-    "value": "Проклятый пьедестал",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот камень выглядит неестественно...",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану не нравится светящийся камень.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Непросто. Этот камень заставляет меня чувствовать себя странно. Мне не следует задерживаться.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование камня... Ошибка. Результаты неубедительны.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки боится, нет, Акки только осторожен. Акки не хочет здесь задерживаться...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Проклятый пьедестал"
+},{"op":"replace","path":"/description","value":
+"Этот камень выглядит неестественно..."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану не нравится светящийся камень."
+},{"op":"replace","path":"/glitchDescription","value":
+"Непросто. Этот камень заставляет меня чувствовать себя странно. Мне не следует задерживаться."
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование камня... Ошибка. Результаты неубедительны."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки боится, нет, Акки только осторожен. Акки не хочет здесь задерживаться..."
+}]

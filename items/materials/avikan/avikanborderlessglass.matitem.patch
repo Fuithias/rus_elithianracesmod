@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Толстое стекло от Кадавана.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Стекло Авикан без границ",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Толстое стекло от Кадавана."
+},{"op":"replace","path":"/shortdescription","value":
+"Стекло Авикан без границ"
+}]

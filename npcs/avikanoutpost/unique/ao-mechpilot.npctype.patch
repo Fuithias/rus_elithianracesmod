@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Нет ничего более захватывающего, чем пилотирование созданного по индивидуальному заказу меха.",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  },
-  {
-    "value": "Нет ничего более захватывающего, чем пилотирование созданного по индивидуальному заказу меха.",
-    "path": "/scriptConfig/dialog/converse/avikan/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"Нет ничего более захватывающего, чем пилотирование созданного по индивидуальному заказу меха."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/avikan/default/0","value":
+"Нет ничего более захватывающего, чем пилотирование созданного по индивидуальному заказу меха."
+}]

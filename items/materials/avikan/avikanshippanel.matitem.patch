@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Металлическая панель с острыми краями для использования на кораблях.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Панель корабля «Авикан»",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Металлическая панель с острыми краями для использования на кораблях."
+},{"op":"replace","path":"/shortdescription","value":
+"Панель корабля Авикан"
+}]

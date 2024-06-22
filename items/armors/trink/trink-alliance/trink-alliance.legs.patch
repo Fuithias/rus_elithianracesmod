@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела, окрашенный в цвета Элитийского Альянса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мод тела Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела, окрашенный в цвета Элитийского Альянса."
+},{"op":"replace","path":"/shortdescription","value":
+"Мод тела Альянса"
+}]

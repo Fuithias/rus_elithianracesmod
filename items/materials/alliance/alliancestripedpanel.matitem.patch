@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Полированная металлическая панель, украшенная разноцветной полосой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Полосатая панель Альянса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Полированная металлическая панель, украшенная разноцветной полосой."
+},{"op":"replace","path":"/shortdescription","value":
+"Полосатая панель Альянса"
+}]

@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Молот, обладающий силой бога Центенсии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Гнев Радеи^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Гнев Радейса",
-    "path": "/altAbility/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Молот, обладающий силой бога Центенсии."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Гнев Радейса^white;"
+},{"op":"replace","path":"/altAbility/name","value":
+"Гнев Радейса"
+}]

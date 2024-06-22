@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Настенный лист Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, используемый в качестве стенки для палаток Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, используемый в качестве стенки палатки.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенка палатки, сделанная из простого кожаного полотна.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа вызывает у Флорана желание охотиться.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Стенка палатки из кожи.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Довольно примитивная стенка палатки, сделанная из листа кожи.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Примитивный кожаный лист, используемый в качестве стенки палатки.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот кожаный лист используется в качестве стенки палатки.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Стенка палатки из простого кожаного полотна. Простой, но функциональный.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаный лист, используемый в качестве стенки палатки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Кожаный лист.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Палатка боковая, стенка-кожа.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Настенный лист Авикан"
+},{"op":"replace","path":"/description","value":
+"Кожаный лист, используемый в качестве стенки для палаток Авикан."
+},{"op":"replace","path":"/apexDescription","value":
+"Кожаный лист, используемый в качестве стенки палатки."
+},{"op":"replace","path":"/avianDescription","value":
+"Стенка палатки, сделанная из простого кожаного полотна."
+},{"op":"replace","path":"/floranDescription","value":
+"Кожа вызывает у Флорана желание охотиться."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Стенка палатки из кожи."
+},{"op":"replace","path":"/humanDescription","value":
+"Довольно примитивная стенка палатки, сделанная из листа кожи."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Примитивный кожаный лист, используемый в качестве стенки палатки."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот кожаный лист используется в качестве стенки палатки."
+},{"op":"replace","path":"/avikanDescription","value":
+"Стенка палатки из простого кожаного полотна. Простой, но функциональный."
+},{"op":"replace","path":"/trinkDescription","value":
+"Кожаный лист, используемый в качестве стенки палатки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Кожаный лист."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Палатка боковая, стенка-кожа."
+}]

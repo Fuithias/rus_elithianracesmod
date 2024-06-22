@@ -1,42 +1,17 @@
-[
-  {
-    "value": "^gray;ур^reset;",
-    "path": "/levelTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Урон за выстрел:",
-    "path": "/damagePerShotTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Время зарядки:",
-    "path": "/chargeTimeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Объём магазина:",
-    "path": "/magazineSizeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Время перезарядки:",
-    "path": "/reloadTimeTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Особое:",
-    "path": "/reloadAbilityTitleLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Перезарядка",
-    "path": "/reloadAbilityLabel/value",
-    "op": "replace"
-  },
-  {
-    "value": "Важный",
-    "path": "/customRarityLabel/value",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/levelTitleLabel/value","value":
+"^gray;ур^reset;"
+},{"op":"replace","path":"/damagePerShotTitleLabel/value","value":
+"Урон за выстрел:"
+},{"op":"replace","path":"/chargeTimeTitleLabel/value","value":
+"Время зарядки:"
+},{"op":"replace","path":"/magazineSizeTitleLabel/value","value":
+"Объём магазина:"
+},{"op":"replace","path":"/reloadTimeTitleLabel/value","value":
+"Время перезарядки:"
+},{"op":"replace","path":"/reloadAbilityTitleLabel/value","value":
+"Особое:"
+},{"op":"replace","path":"/reloadAbilityLabel/value","value":
+"Перезарядка"
+},{"op":"replace","path":"/customRarityLabel/value","value":
+"Важный"
+}]

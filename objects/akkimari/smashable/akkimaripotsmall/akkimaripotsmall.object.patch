@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Маленький Акрис Горшок",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Горшок из затвердевшей глины. Он легко сломается.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Горшок из глины. Кажется, его легко разбить.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Простой глиняный горшок. Это очень разрушительно...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Рассыпчатый горшок, Флоран сссмаш.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдательный. Этот глиняный горшок легко разбить.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то старый горшок, который так и ждет, чтобы его разбили.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Хрупкий горшок из затвердевшей глины.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Просто какой-то старый горшок. Мог бы и разбить.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Горшок, сделанный из какого-то глиноподобного вещества. Я думаю, что дизайн Аккимари.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный горшок, сделанный из затвердевшей земли.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот горшок хрупкий. Кажется странным, что жестокий Аккимари делает что-то, что так легко ломается.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена инопланетная глиняная посуда. .",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки может разбить горшок, если Акки рассердится. Пусть Акки меньше злится!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Маленький Акрис Горшок"
+},{"op":"replace","path":"/description","value":
+"Горшок из затвердевшей глины. Он легко сломается."
+},{"op":"replace","path":"/apexDescription","value":
+"Горшок из глины. Кажется, его легко разбить."
+},{"op":"replace","path":"/avianDescription","value":
+"Простой глиняный горшок. Это очень разрушительно..."
+},{"op":"replace","path":"/floranDescription","value":
+"Рассыпчатый горшок, Флоран сссмаш."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдательный. Этот глиняный горшок легко разбить."
+},{"op":"replace","path":"/humanDescription","value":
+"Какой-то старый горшок, который так и ждет, чтобы его разбили."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Хрупкий горшок из затвердевшей глины."
+},{"op":"replace","path":"/novakidDescription","value":
+"Просто какой-то старый горшок. Мог бы и разбить."
+},{"op":"replace","path":"/aegiDescription","value":
+"Горшок, сделанный из какого-то глиноподобного вещества. Я думаю, что дизайн Аккимари."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный горшок, сделанный из затвердевшей земли."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот горшок хрупкий. Кажется странным, что жестокий Аккимари делает что-то, что так легко ломается."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена инопланетная глиняная посуда. ."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки может разбить горшок, если Акки рассердится. Пусть Акки меньше злится!"
+}]

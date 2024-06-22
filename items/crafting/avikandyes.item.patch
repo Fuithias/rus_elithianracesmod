@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Красочные желтые и оранжевые красители, используемые для создания ткани Авикан.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Авикан Красители",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Красочные желтые и оранжевые красители, используемые для создания ткани Авикан."
+},{"op":"replace","path":"/shortdescription","value":
+"Авикан Красители"
+}]

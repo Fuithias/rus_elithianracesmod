@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Телепорт посольства Креона",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт, связанный с посольством Креона. ^red;Уничтожается при поломке.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт пришельцев вызывает у Флорана тошноту...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Этот телепорт привязан к заданному местоположению.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт привязан к заданному местоположению.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт напрямую связан с посольством Креона.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот инопланетный телепорт привязан к определенному месту. Я не решаюсь использовать его.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот телепорт напрямую связан с посольством Креона.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ. Показания показывают, что этот телепорт привязан к определенному местоположению. Рекомендую осторожность.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Телепорт доставит Акки в заданную локацию. Куда это идет?",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телепорт посольства Креона"
+},{"op":"replace","path":"/description","value":
+"Телепорт, связанный с посольством Креона. ^red;Уничтожается при поломке."
+},{"op":"replace","path":"/apexDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/floranDescription","value":
+"Телепорт пришельцев вызывает у Флорана тошноту..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Анализ. Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/novakidDescription","value":
+"Этот телепорт привязан к заданному местоположению."
+},{"op":"replace","path":"/aegiDescription","value":
+"Этот телепорт напрямую связан с посольством Креона."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот инопланетный телепорт привязан к определенному месту. Я не решаюсь использовать его."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот телепорт напрямую связан с посольством Креона."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ. Показания показывают, что этот телепорт привязан к определенному местоположению. Рекомендую осторожность."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Телепорт доставит Акки в заданную локацию. Куда это идет?"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Неактивный юстикар",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Неактивный дрон типа «Аккимари Юстикар».",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большой дрон. Аккимари, кажется, уважают их.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какой-то большой дрон. Выглядит боеспособным.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большой дронсс. Флоран впечатлил.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Впечатленный. Этот дрон — прекрасная технология.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Это какой-то большой дрон.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Элегантный дрон.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странный дрон.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари почитают подобные дроны. У них любопытная культура.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетный дрон. Он не выглядит таким боевым, как Элитный Драл.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот дрон спит. Лучше бы я его не трогал.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен дрон, построенный пришельцами. Модель юстикара.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Юстикар-спит. Акки лучше не трогать.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Неактивный юстикар"
+},{"op":"replace","path":"/description","value":
+"Неактивный дрон в.а Аккимари Юстикар."
+},{"op":"replace","path":"/apexDescription","value":
+"Большой дрон. Аккимари, кажется, уважают их."
+},{"op":"replace","path":"/avianDescription","value":
+"Какой-то большой дрон. Выглядит боеспособным."
+},{"op":"replace","path":"/floranDescription","value":
+"Большой дронсс. Флоран впечатлил."
+},{"op":"replace","path":"/glitchDescription","value":
+"Впечатленный. Этот дрон — прекрасная технология."
+},{"op":"replace","path":"/humanDescription","value":
+"Это какой-то большой дрон."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Элегантный дрон."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странный дрон."
+},{"op":"replace","path":"/aegiDescription","value":
+"Аккимари почитают подобные дроны. У них любопытная культура."
+},{"op":"replace","path":"/avikanDescription","value":
+"Инопланетный дрон. Он не выглядит таким боевым, как Элитный Драл."
+},{"op":"replace","path":"/trinkDescription","value":
+"Этот дрон спит. Лучше бы я его не трогал."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен дрон, построенный пришельцами. Модель юстикара."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Юстикар-спит. Акки лучше не трогать."
+}]

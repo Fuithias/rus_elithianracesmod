@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Юбка, которую носят авиканские наблюдатели.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Юбка наблюдателя",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Юбка, которую носят авиканские наблюдатели."
+},{"op":"replace","path":"/shortdescription","value":
+"Юбка наблюдателя"
+}]

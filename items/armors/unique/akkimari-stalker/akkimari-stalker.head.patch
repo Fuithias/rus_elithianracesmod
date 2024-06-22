@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Тактический шлем, который отмечает врагов на встроенном дисплеем.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Шлем преследователя Акриса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Тактический шлем, который отмечает врагов на встроенном дисплеем."
+},{"op":"replace","path":"/shortdescription","value":
+"Шлем преследователя Акриса"
+}]

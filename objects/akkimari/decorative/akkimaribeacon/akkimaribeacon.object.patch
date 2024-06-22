@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Бикон",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маяк, посылающий какой-то неизвестный сигнал.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странный маяк. Что оно здесь делает?",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Маяк какой-то.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану было тревожно возле этого маяка.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Зловещий. Этот маяк заставляет меня чувствовать, что за мной что-то приближается...",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот маяк заставляет меня чувствовать себя странно.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное устройство, вероятно, какой-то инопланетный маяк. Надеюсь, здесь ничего не вызывается.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Странное устройство, созданное каким-то странным инопланетянином.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Технология Аккимари впечатляет, но что-то в этом маяке заставляет меня чувствовать себя неловко.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Я чувствую себя немного плохо, приближаясь к этому маяку...",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Помехи от этого маяка портят мои системы. Это скремблер?",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Сканирование... Системный сбой. Анализ неполный.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки использует маяк, чтобы связаться с домом. Акки зовет на помощь, Аккимари приходит.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Бикон"
+},{"op":"replace","path":"/description","value":
+"Маяк, посылающий какой-то неизвестный сигнал."
+},{"op":"replace","path":"/apexDescription","value":
+"Странный маяк. Что оно здесь делает?"
+},{"op":"replace","path":"/avianDescription","value":
+"Маяк какой-то."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану было тревожно возле этого маяка."
+},{"op":"replace","path":"/glitchDescription","value":
+"Зловещий. Этот маяк заставляет меня чувствовать, что за мной что-то приближается..."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот маяк заставляет меня чувствовать себя странно."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Странное устройство, вероятно, какой-то инопланетный маяк. Надеюсь, здесь ничего не вызывается."
+},{"op":"replace","path":"/novakidDescription","value":
+"Странное устройство, созданное каким-то странным инопланетянином."
+},{"op":"replace","path":"/aegiDescription","value":
+"Технология Аккимари впечатляет, но что-то в этом маяке заставляет меня чувствовать себя неловко."
+},{"op":"replace","path":"/avikanDescription","value":
+"Я чувствую себя немного плохо, приближаясь к этому маяку..."
+},{"op":"replace","path":"/trinkDescription","value":
+"Помехи от этого маяка портят мои системы. Это скремблер?"
+},{"op":"replace","path":"/drodenDescription","value":
+"Сканирование... Системный сбой. Анализ неполный."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки использует маяк, чтобы связаться с домом. Акки зовет на помощь, Аккимари приходит."
+}]

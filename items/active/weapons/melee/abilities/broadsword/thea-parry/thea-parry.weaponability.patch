@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Идеальное парирование",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Идеальное парирование"
+}]

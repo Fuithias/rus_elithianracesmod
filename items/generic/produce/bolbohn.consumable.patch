@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Корень с сильным вкусом, который нравится немногим.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Болбон",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Корень с сильным вкусом, который нравится немногим."
+},{"op":"replace","path":"/shortdescription","value":
+"Болбон"
+}]

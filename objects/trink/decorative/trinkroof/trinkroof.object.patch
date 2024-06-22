@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Тринкянская крыша",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая крыша в форме пирамиды. Для эффективных модульных зданий.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая модульная крыша.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая модульная крыша, украшенная зелеными огнями.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран видит большую крышу. Флоран задается вопросом, почему крыша такая большая.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Очарованный. Эта модульная часть крыши наполнена датчиками.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая металлическая пирамида для крыши? Прохладный!",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая металлическая крыша. Удивительно, но он напичкан датчиками и системами связи.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринки — большие поклонники модульных зданий. Эта крыша подойдет практически к каждому дому Тринкиана.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая металлическая крыша, построенная машинами.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыши Trinkian являются модульными и подходят практически к любой конструкции Trinkian.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Показания указывают на большое количество датчиков внутри этой структуры.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крыша остроконечная, как пирамида.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Тринкянская крыша"
+},{"op":"replace","path":"/description","value":
+"Большая крыша в форме пирамиды. Для эффективных модульных зданий."
+},{"op":"replace","path":"/apexDescription","value":
+"Большая модульная крыша."
+},{"op":"replace","path":"/avianDescription","value":
+"Большая модульная крыша, украшенная зелеными огнями."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран видит большую крышу. Флоран задается вопросом, почему крыша такая большая."
+},{"op":"replace","path":"/glitchDescription","value":
+"Очарованный. Эта модульная часть крыши наполнена датчиками."
+},{"op":"replace","path":"/humanDescription","value":
+"Большая металлическая пирамида для крыши? Прохладный!"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Большая металлическая крыша. Удивительно, но он напичкан датчиками и системами связи."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринки — большие поклонники модульных зданий. Эта крыша подойдет практически к каждому дому Тринкиана."
+},{"op":"replace","path":"/avikanDescription","value":
+"Большая металлическая крыша, построенная машинами."
+},{"op":"replace","path":"/trinkDescription","value":
+"Крыши тринков являются модульными и подходят практически к любой конструкции тринков."
+},{"op":"replace","path":"/drodenDescription","value":
+"Показания указывают на большое количество датчиков внутри этой структуры."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Крыша остроконечная, как пирамида."
+}]

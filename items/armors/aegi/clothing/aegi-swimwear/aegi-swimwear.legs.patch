@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Наряд, хорошо подходящий для плавания.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Низ купальника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Наряд, хорошо подходящий для плавания."
+},{"op":"replace","path":"/shortdescription","value":
+"Низ купальника"
+}]

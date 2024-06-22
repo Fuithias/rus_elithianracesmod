@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Верхний лист из ткани Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Лист ткани, используемый в качестве крыши палатки.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лист разноцветной ткани.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Красочная ткань, использованная для крыши палатки.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тканевая крыша. Слабый.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наблюдение. Этот верхний лист изготовлен из ткани.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Цветной лист ткани.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Яркий лист ткани.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист из цветной ткани. Сохраняет палатку прохладной внутри.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхняя простыня из ткани. Немногие кочевники могут позволить себе палатки из таких материалов.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхняя простыня из яркой ткани. Неотъемлемая часть хорошей палатки.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Верхний лист. Используется для поддержания прохлады внутри палатки.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки знает, что это часть палатки.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Верхний лист из ткани Авикан"
+},{"op":"replace","path":"/description","value":
+"Лист ткани, используемый в качестве крыши палатки."
+},{"op":"replace","path":"/apexDescription","value":
+"Лист разноцветной ткани."
+},{"op":"replace","path":"/avianDescription","value":
+"Красочная ткань, использованная для крыши палатки."
+},{"op":"replace","path":"/floranDescription","value":
+"Тканевая крыша. Слабый."
+},{"op":"replace","path":"/glitchDescription","value":
+"Наблюдение. Этот верхний лист изготовлен из ткани."
+},{"op":"replace","path":"/humanDescription","value":
+"Цветной лист ткани."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Яркий лист ткани."
+},{"op":"replace","path":"/aegiDescription","value":
+"Верхний лист из цветной ткани. Сохраняет палатку прохладной внутри."
+},{"op":"replace","path":"/avikanDescription","value":
+"Верхняя простыня из ткани. Немногие кочевники могут позволить себе палатки из таких материалов."
+},{"op":"replace","path":"/trinkDescription","value":
+"Верхняя простыня из яркой ткани. Неотъемлемая часть хорошей палатки."
+},{"op":"replace","path":"/drodenDescription","value":
+"Верхний лист. Используется для поддержания прохлады внутри палатки."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки знает, что это часть палатки."
+}]

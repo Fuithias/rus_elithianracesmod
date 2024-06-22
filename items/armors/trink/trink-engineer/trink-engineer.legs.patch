@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усиленными глазами, для инженера, который хочет работать безопасно.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Инженерный мод тела",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усиленными глазами, для инженера, который хочет работать безопасно."
+},{"op":"replace","path":"/shortdescription","value":
+"Инженерный мод тела"
+}]

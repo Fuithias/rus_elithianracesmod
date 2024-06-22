@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Кожа без границ авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная стеновая панель для украшения и утепления.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожно. Эта кожаная стеновая панель легко воспламеняется.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран вспоминает дом, глядя на кожаные панели.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожаная панель хороша для палаток, но в остальном довольно скучная.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Анализ завершен. Кожаная стеновая панель.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кожа-прочная. Акки нравится узор.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Кожа без границ авикан"
+},{"op":"replace","path":"/description","value":
+"Кожаная стеновая панель для украшения и утепления."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожно. Эта кожаная стеновая панель легко воспламеняется."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран вспоминает дом, глядя на кожаные панели."
+},{"op":"replace","path":"/novakidDescription","value":
+"Кожаная панель хороша для палаток, но в остальном довольно скучная."
+},{"op":"replace","path":"/drodenDescription","value":
+"Анализ завершен. Кожаная стеновая панель."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Кожа-прочная. Акки нравится узор."
+}]

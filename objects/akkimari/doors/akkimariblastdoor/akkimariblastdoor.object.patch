@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Взрывная Дверь",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывобезопасная дверь из отборного металлолома.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь. Выглядит хлипко, но прочно.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тяжелая взрывоопасная дверь. Выглядит плохо сделанным.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран задается вопросом, что находится за металлическими дверями.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Любопытный. Почему эта взрывоопасная дверь покрыта пластинами металлолома?",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывная дверь из металлолома. Я удивлен тем, насколько он прочный.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Грубая взрывоопасная дверь.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то взрывозащитная дверь, сделанная из металлолома. Верно...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Взрывобезопасная дверь производства Аккимари. Удивительно эффективно.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Похоже на взрывоопасную дверь, покрытую металлоломом.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта дверь необычайно эффективна по стандартам Аккимари.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружена взрывоопасная дверь.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Дверь толстая, обеспечивает безопасность Аккимари.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Взрывная Дверь"
+},{"op":"replace","path":"/description","value":
+"Взрывобезопасная дверь из отборного металлолома."
+},{"op":"replace","path":"/apexDescription","value":
+"Взрывная дверь. Выглядит хлипко, но прочно."
+},{"op":"replace","path":"/avianDescription","value":
+"Тяжелая взрывоопасная дверь. Выглядит плохо сделанным."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран задается вопросом, что находится за металлическими дверями."
+},{"op":"replace","path":"/glitchDescription","value":
+"Любопытный. Почему эта взрывоопасная дверь покрыта пластинами металлолома?"
+},{"op":"replace","path":"/humanDescription","value":
+"Взрывная дверь из металлолома. Я удивлен тем, насколько он прочный."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Грубая взрывоопасная дверь."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то взрывозащитная дверь, сделанная из металлолома. Верно..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Взрывобезопасная дверь производства Аккимари. Удивительно эффективно."
+},{"op":"replace","path":"/avikanDescription","value":
+"Похоже на взрывоопасную дверь, покрытую металлоломом."
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта дверь необычайно эффективна по стандартам Аккимари."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружена взрывоопасная дверь."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Дверь толстая, обеспечивает безопасность Аккимари."
+}]

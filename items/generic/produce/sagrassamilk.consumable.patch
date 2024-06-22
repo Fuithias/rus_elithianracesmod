@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Странное молочное вещество, обнаруженное внутри кристаллов Саграсса.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Саграсса Молоко",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Странное молочное вещество, обнаруженное внутри кристаллов Саграсса."
+},{"op":"replace","path":"/shortdescription","value":
+"Саграсса Молоко"
+}]

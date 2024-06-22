@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Трехслойный пластик, напоминающий стекло, с отличной изоляцией.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Альянс Стекло",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Трехслойный пластик, напоминающий стекло, с отличной изоляцией."
+},{"op":"replace","path":"/shortdescription","value":
+"Альянс Стекло"
+}]

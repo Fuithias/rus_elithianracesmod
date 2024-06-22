@@ -1,7 +1,3 @@
-[
-  {
-    "value": "<собственное имя> в гостях. Посольство Креона впечатляет. <собственное имя> нелегко произвести впечатление...",
-    "path": "/scriptConfig/dialog/converse/default/default/0",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":
+"<selfname> в гостях. Посольство Креона впечатляет. <selfname> нелегко произвести впечатление..."
+}]

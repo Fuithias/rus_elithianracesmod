@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Украшенный кожаный плащ, любимый купцами пустыни.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Плащ старейшины",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Украшенный кожаный плащ, любимый купцами пустыни."
+},{"op":"replace","path":"/shortdescription","value":
+"Плащ старейшины"
+}]

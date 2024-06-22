@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Большая тринкианская консоль",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Компьютерная консоль для управления системами Trink.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Консоль со странным интерфейсом.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта консоль чем-то управляет. Но что?",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ссс блестящие пуговицы, Флоран нажимает?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Заинтересовано. Эта система управления мне незнакома.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется...",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель управления, интерфейс для меня новый.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Тринкианская консоль. Интересно, с чем это связано?",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Панель управления, построенная машинами. Могу ли я саботировать это?",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта консоль позволяет мне взаимодействовать с различными системами.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен инопланетный интерфейс. Рекомендую диверсию.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки нажимаю кнопки-все!",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Большая тринкианская консоль"
+},{"op":"replace","path":"/description","value":
+"Компьютерная консоль для управления системами тринков."
+},{"op":"replace","path":"/apexDescription","value":
+"Консоль со странным интерфейсом."
+},{"op":"replace","path":"/avianDescription","value":
+"Эта консоль чем-то управляет. Но что?"
+},{"op":"replace","path":"/floranDescription","value":
+"Ссс блестящие пуговицы, Флоран нажимает?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Заинтересовано. Эта система управления мне незнакома."
+},{"op":"replace","path":"/humanDescription","value":
+"Наверное, мне не стоит трогать ни одну из этих кнопок, но мне очень хочется..."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Панель управления, интерфейс для меня новый."
+},{"op":"replace","path":"/aegiDescription","value":
+"Тринкианская консоль. Интересно, с чем это связано?"
+},{"op":"replace","path":"/avikanDescription","value":
+"Панель управления, построенная машинами. Могу ли я саботировать это?"
+},{"op":"replace","path":"/trinkDescription","value":
+"Эта консоль позволяет мне взаимодействовать с различными системами."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен инопланетный интерфейс. Рекомендую диверсию."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки нажимаю кнопки-все!"
+}]

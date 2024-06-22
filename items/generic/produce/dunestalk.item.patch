@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Выносливая культура, растущая в засушливых местах.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Дюнесталк",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Выносливая культура, растущая в засушливых местах."
+},{"op":"replace","path":"/shortdescription","value":
+"Дюнесталк"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^orange;Сверхострый клинок, выкованный в честь Элитии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Элитийский клинок^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Сверхострый клинок, выкованный в честь Элитии."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Элитийский клинок^white;"
+}]

@@ -1,67 +1,27 @@
-[
-  {
-    "value": "Авикане",
-    "path": "/charCreationTooltip/title",
-    "op": "replace"
-  },
-  {
-    "value": "Кочевники Кадавана",
-    "path": "/charCreationTooltip/subTitle",
-    "op": "replace"
-  },
-  {
-    "value": "Раса космических кочевников, покинувших свою родную планету после многочисленных вторжений армий Телеана. Несмотря на высокий уровень технологического развития, их традиционная культура часто заставляет их использовать снаряжение из кости и кожи.",
-    "path": "/charCreationTooltip/description",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет кожи",
-    "path": "/charGenTextLabels/0",
-    "op": "replace"
-  },
-  {
-    "value": "Узор",
-    "path": "/charGenTextLabels/1",
-    "op": "replace"
-  },
-  {
-    "value": "Одежда",
-    "path": "/charGenTextLabels/2",
-    "op": "replace"
-  },
-  {
-    "value": "Штаны",
-    "path": "/charGenTextLabels/3",
-    "op": "replace"
-  },
-  {
-    "value": "Вид кончиков",
-    "path": "/charGenTextLabels/4",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет кончиков",
-    "path": "/charGenTextLabels/5",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет одежды",
-    "path": "/charGenTextLabels/6",
-    "op": "replace"
-  },
-  {
-    "value": "Цвет штанов",
-    "path": "/charGenTextLabels/7",
-    "op": "replace"
-  },
-  {
-    "value": "АВИКАНЕ",
-    "path": "/charGenTextLabels/8",
-    "op": "replace"
-  },
-  {
-    "value": "Личность",
-    "path": "/charGenTextLabels/9",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/charCreationTooltip/title","value":
+"Авикане"
+},{"op":"replace","path":"/charCreationTooltip/subTitle","value":
+"Кочевники Кадавана"
+},{"op":"replace","path":"/charCreationTooltip/description","value":
+"Раса космических кочевников, покинувших свою родную планету после многочисленных вторжений армий Телеана. Несмотря на высокий уровень технологического развития, их традиционная культура часто заставляет их использовать снаряжение из кости и кожи."
+},{"op":"replace","path":"/charGenTextLabels/0","value":
+"Цвет кожи"
+},{"op":"replace","path":"/charGenTextLabels/1","value":
+"Узор"
+},{"op":"replace","path":"/charGenTextLabels/2","value":
+"Одежда"
+},{"op":"replace","path":"/charGenTextLabels/3","value":
+"Штаны"
+},{"op":"replace","path":"/charGenTextLabels/4","value":
+"Вид кончиков"
+},{"op":"replace","path":"/charGenTextLabels/5","value":
+"Цвет кончиков"
+},{"op":"replace","path":"/charGenTextLabels/6","value":
+"Цвет одежды"
+},{"op":"replace","path":"/charGenTextLabels/7","value":
+"Цвет штанов"
+},{"op":"replace","path":"/charGenTextLabels/8","value":
+"АВИКАНЕ"
+},{"op":"replace","path":"/charGenTextLabels/9","value":
+"Личность"
+}]

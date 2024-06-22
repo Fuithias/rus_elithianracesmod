@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Важнейшая часть любой баллистической винтовки Vanguard.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Журнал Авикан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Важнейшая часть любой баллистической винтовки Авангард."
+},{"op":"replace","path":"/shortdescription","value":
+"Журнал Авикан"
+}]

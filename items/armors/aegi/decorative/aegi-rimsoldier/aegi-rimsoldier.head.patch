@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Полнолицевой шлем с высокой прочностью, который носят участники боевых действий на Рубеже.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Боевой шлем Рубежа",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Полнолицевой шлем с высокой прочностью, который носят участники боевых действий на Рубеже."
+},{"op":"replace","path":"/shortdescription","value":
+"Боевой шлем Рубежа"
+}]

@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Гладкая темная металлическая панель.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Гладкая панель Тринкиан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Гладкая темная металлическая панель."
+},{"op":"replace","path":"/shortdescription","value":
+"Гладкая панель Тринкиан"
+}]

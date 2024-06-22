@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Авикан Генератор",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор, для выработки энергии.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Мощный генератор. Не разбейте стекло.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот генератор генерирует достаточно энергии для всего птичьего города.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флорану интересно, что это за светящаяся штука...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Осторожный. Этот генератор выглядит нестабильным.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощный генератор. Может ли он зарядить мой телефон?",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот генератор энергии выглядит нестабильным.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня странно привлекает этот луч...",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Генератор. За ним необходимо постоянно следить, чтобы не допустить взрывов.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот генератор обеспечивает всю энергию, необходимую Терве.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мощный генератор, но не очень эффективный.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Предупреждение. Показания указывают на опасно высокие температуры внутри.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки не разобьет стекло. Акки сгорит заживо.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Авикан Генератор"
+},{"op":"replace","path":"/description","value":
+"Генератор, для выработки энергии."
+},{"op":"replace","path":"/apexDescription","value":
+"Мощный генератор. Не разбейте стекло."
+},{"op":"replace","path":"/avianDescription","value":
+"Этот генератор генерирует достаточно энергии для всего птичьего города."
+},{"op":"replace","path":"/floranDescription","value":
+"Флорану интересно, что это за светящаяся штука..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Осторожный. Этот генератор выглядит нестабильным."
+},{"op":"replace","path":"/humanDescription","value":
+"Мощный генератор. Может ли он зарядить мой телефон?"
+},{"op":"replace","path":"/hylotlDescription","value":
+"Этот генератор энергии выглядит нестабильным."
+},{"op":"replace","path":"/novakidDescription","value":
+"Меня странно привлекает этот луч..."
+},{"op":"replace","path":"/aegiDescription","value":
+"Генератор. За ним необходимо постоянно следить, чтобы не допустить взрывов."
+},{"op":"replace","path":"/avikanDescription","value":
+"Этот генератор обеспечивает всю энергию, необходимую Терве."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мощный генератор, но не очень эффективный."
+},{"op":"replace","path":"/drodenDescription","value":
+"Предупреждение. Показания указывают на опасно высокие температуры внутри."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки не разобьет стекло. Акки сгорит заживо."
+}]

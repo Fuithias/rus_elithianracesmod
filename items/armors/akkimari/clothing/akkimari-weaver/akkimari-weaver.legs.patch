@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аккимари. ^white;Шелковая юбка, которую носят ткачи шелка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ткацкая юбка",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аккимари. ^white;Шелковая юбка, которую носят ткачи шелка."
+},{"op":"replace","path":"/shortdescription","value":
+"Ткацкая юбка"
+}]

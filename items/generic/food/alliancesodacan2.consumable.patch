@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Банка игристого Le'mar.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Лемар Кан",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Банка игристого Ле'мар."
+},{"op":"replace","path":"/shortdescription","value":
+"Лемар Кан"
+}]

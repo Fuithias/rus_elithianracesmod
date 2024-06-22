@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Кость инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Кость монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Кость инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Кость монстра"
+}]

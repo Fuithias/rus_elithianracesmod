@@ -1,17 +1,7 @@
-[
-  {
-    "value": "^orange;Тяжелый щит-меч аккимари, созданный по аегинским образцам.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "^orange;Клинок Крааваара^white;",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Щит-меч",
-    "path": "/category",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^orange;Тяжелый щит-меч аккимари, созданный по аегинским образцам."
+},{"op":"replace","path":"/shortdescription","value":
+"^orange;Клинок Крааваара^white;"
+},{"op":"replace","path":"/category","value":
+"Щит-меч"
+}]

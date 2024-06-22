@@ -1,7 +1,3 @@
-[
-  {
-    "value": "Разрядный щит",
-    "path": "/ability/name",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/ability/name","value":
+"Разрядный щит"
+}]

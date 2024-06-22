@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Маска аватара Клюэкса для празднования Ужасающего!",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Маска аватара Клюэкса",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Маска аватара Клюэкса для празднования Ужасающего!"
+},{"op":"replace","path":"/shortdescription","value":
+"Маска аватара Клюэкса"
+}]

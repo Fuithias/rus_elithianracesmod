@@ -1,37 +1,15 @@
-[
-  {
-    "value": "Телеанские трупы",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мертвые телеанцы. Много их.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран тыкает трупы палками...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Запуган. Тот, кто убил этих телеанцев, должно быть, был невероятно силен.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мертвые телеанцы. Лучший вид.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены телеанцы. Анализ: мертв.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Бог-воры-мертвы. Акки доволен.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Телеанские трупы"
+},{"op":"replace","path":"/description","value":
+"Мертвые телеанцы. Много их."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран тыкает трупы палками..."
+},{"op":"replace","path":"/glitchDescription","value":
+"Запуган. Тот, кто убил этих телеанцев, должно быть, был невероятно силен."
+},{"op":"replace","path":"/avikanDescription","value":
+"Мертвые телеанцы. Лучший вид."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены телеанцы. Анализ: мертв."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Бог-воры-мертвы. Акки доволен."
+}]

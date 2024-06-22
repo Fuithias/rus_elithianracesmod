@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Высококачественные кости инопланетного монстра.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Большая кость монстра",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Высококачественные кости инопланетного монстра."
+},{"op":"replace","path":"/shortdescription","value":
+"Большая кость монстра"
+}]

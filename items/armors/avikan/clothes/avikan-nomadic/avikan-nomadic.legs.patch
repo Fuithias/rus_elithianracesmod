@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Кожаная юбка, любимая кочевниками пустыни Кадаван.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Тряпки кочевника",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Кожаная юбка, любимая кочевниками пустыни Кадаван."
+},{"op":"replace","path":"/shortdescription","value":
+"Тряпки кочевника"
+}]

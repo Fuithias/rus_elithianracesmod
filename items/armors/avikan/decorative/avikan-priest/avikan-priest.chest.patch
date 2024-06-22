@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Авикане. ^white;Ожерелье, которое носят жрецы Рхаиода.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Ожерелье Рхаиода",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Авикане. ^white;Ожерелье, которое носят жрецы Рхаиода."
+},{"op":"replace","path":"/shortdescription","value":
+"Ожерелье Рхаиода"
+}]

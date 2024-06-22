@@ -1,12 +1,5 @@
-[
-  {
-    "value": "^green;Аеги. ^white;Фуражка АСБ, украшенная эмблемой Протектората.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Фуражка Протектората",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"^green;Аеги. ^white;Фуражка АСБ, украшенная эмблемой Протектората."
+},{"op":"replace","path":"/shortdescription","value":
+"Фуражка Протектората"
+}]

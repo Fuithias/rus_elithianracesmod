@@ -1,12 +1,5 @@
-[
-  {
-    "value": " AAE Keypad Lock",
-    "path": "/gui/windowtitle/title",
-    "op": "replace"
-  },
-  {
-    "value": " Programmable keypad",
-    "path": "/gui/windowtitle/subtitle",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/gui/windowtitle/title","value":
+" ПАИ замок с кнопками"
+},{"op":"replace","path":"/gui/windowtitle/subtitle","value":
+" Программируемая кнопочная панель"
+}]

@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Акрис Антенна",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенная решетка.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Странная антенна, построенная каким-то инопланетянином.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Инопланетная антенна. Мне становится как-то не по себе...",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Большая антенна. Флоран заработает на этом большое копье?",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Непросто. Эта антенна излучает странное энергетическое поле.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Что-то в этой антенне меня беспокоит.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Крепкая антенна, хотя выглядит так, будто сделана из металлолома.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Какая-то странная антенна.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Аккимари строят мощные антенны из металлолома. Они весьма изобретательны.",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эта антенна немного похожа на нашу.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мои системы сталкиваются с помехами от этой антенны. Я не должен оставаться здесь слишком долго.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Прием инопланетного радиосигнала. Анализ не удался.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Антенна отправляет сообщения Акрису домой. Аккимари потребует награду за Кельчиса.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Акрис Антенна"
+},{"op":"replace","path":"/description","value":
+"Антенная решетка."
+},{"op":"replace","path":"/apexDescription","value":
+"Странная антенна, построенная каким-то инопланетянином."
+},{"op":"replace","path":"/avianDescription","value":
+"Инопланетная антенна. Мне становится как-то не по себе..."
+},{"op":"replace","path":"/floranDescription","value":
+"Большая антенна. Флоран заработает на этом большое копьё?"
+},{"op":"replace","path":"/glitchDescription","value":
+"Непросто. Эта антенна излучает странное энергетическое поле."
+},{"op":"replace","path":"/humanDescription","value":
+"Что-то в этой антенне меня беспокоит."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Крепкая антенна, хотя выглядит так, будто сделана из металлолома."
+},{"op":"replace","path":"/novakidDescription","value":
+"Какая-то странная антенна."
+},{"op":"replace","path":"/aegiDescription","value":
+"Аккимари строят мощные антенны из металлолома. Они весьма изобретательны."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эта антенна немного похожа на нашу."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мои системы сталкиваются с помехами от этой антенны. Я не должен оставаться здесь слишком долго."
+},{"op":"replace","path":"/drodenDescription","value":
+"Прием инопланетного радиосигнала. Анализ не удался."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Антенна отправляет сообщения Акрису домой. Аккимари потребует награду за Кельчиса."
+}]

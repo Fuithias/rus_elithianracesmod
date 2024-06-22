@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Центенсианские кубики",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Упрощенные металлические кубики, но с завораживающей аурой.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Простые металлические кубики, но есть в них что-то захватывающее.",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Есть в этих кубиках что-то странно захватывающее.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Флоран смотрит на кубики. Флоран не знает почему...",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "В восторге. В этих кубиках есть что-то загадочное.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Не знаю почему, но мне трудно оторвать взгляд от этих кубиков.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Каким-то образом эти кубики вызывают у меня чувство умиротворения. Они захватывают.",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Меня как-то завораживают эти простые кубики... Что это за волшебство?",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Металлические кубы, построенные Centens. Они как-то странно завораживают...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Эти артефакты Древних завораживают. Я просто продолжаю смотреть на них.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Мои системы улавливают странные помехи вокруг этих кубов.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружены центенские артефакты. Ошибка. Ошибка. Ошибка.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Акки возле кубиков, Акки чувствуют себя спокойно. Акки чувствует себя странно...",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Центенские кубики"
+},{"op":"replace","path":"/description","value":
+"Упрощенные металлические кубики, но с завораживающей аурой."
+},{"op":"replace","path":"/apexDescription","value":
+"Простые металлические кубики, но есть в них что-то захватывающее."
+},{"op":"replace","path":"/avianDescription","value":
+"Есть в этих кубиках что-то странно захватывающее."
+},{"op":"replace","path":"/floranDescription","value":
+"Флоран смотрит на кубики. Флоран не знает почему..."
+},{"op":"replace","path":"/glitchDescription","value":
+"В восторге. В этих кубиках есть что-то загадочное."
+},{"op":"replace","path":"/humanDescription","value":
+"Не знаю почему, но мне трудно оторвать взгляд от этих кубиков."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Каким-то образом эти кубики вызывают у меня чувство умиротворения. Они захватывают."
+},{"op":"replace","path":"/novakidDescription","value":
+"Меня как-то завораживают эти простые кубики... Что это за волшебство?"
+},{"op":"replace","path":"/aegiDescription","value":
+"Металлические кубы, построенные Centens. Они как-то странно завораживают..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Эти артефакты Древних завораживают. Я просто продолжаю смотреть на них."
+},{"op":"replace","path":"/trinkDescription","value":
+"Мои системы улавливают странные помехи вокруг этих кубов."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружены центенские артефакты. Ошибка. Ошибка. Ошибка."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Акки возле кубиков, Акки чувствуют себя спокойно. Акки чувствует себя странно..."
+}]

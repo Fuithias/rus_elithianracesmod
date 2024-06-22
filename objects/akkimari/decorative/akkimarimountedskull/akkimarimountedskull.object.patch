@@ -1,72 +1,29 @@
-[
-  {
-    "value": "Конный череп Аккимари",
-    "path": "/shortdescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп умершего Аккимари, закрепленный на металлоломе.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Судя по всему, этот инопланетянин был жестоко убит...",
-    "path": "/apexDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ржавый металлический шип с черепом инопланетянина наверху.",
-    "path": "/avianDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Копье пронзило череп, очень осто.",
-    "path": "/floranDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Возмутился. Действительно ужасное зрелище.",
-    "path": "/glitchDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Этот инопланетянин умер нехорошо.",
-    "path": "/humanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ужасное зрелище. Зачем кому-то устанавливать такой череп?",
-    "path": "/hylotlDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Кажется, здесь бандиты.",
-    "path": "/novakidDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Ужасное зрелище. Аккимари могут быть жестокими...",
-    "path": "/aegiDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Установленный череп инопланетянина. Я не хочу встречаться с тем, кто это подложил.",
-    "path": "/avikanDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Безжизненный череп аккимари.",
-    "path": "/trinkDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Обнаружен шип металлолома. Обнаружен череп инопланетянина.",
-    "path": "/drodenDescription",
-    "op": "replace"
-  },
-  {
-    "value": "Череп на металлическом шипе. Мертв наверняка.",
-    "path": "/akkimariDescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/shortdescription","value":
+"Конный череп Аккимари"
+},{"op":"replace","path":"/description","value":
+"Череп умершего Аккимари, закрепленный на металлоломе."
+},{"op":"replace","path":"/apexDescription","value":
+"Судя по всему, этот инопланетянин был жестоко убит..."
+},{"op":"replace","path":"/avianDescription","value":
+"Ржавый металлический шип с черепом инопланетянина наверху."
+},{"op":"replace","path":"/floranDescription","value":
+"Копьё пронзило череп, очень осто."
+},{"op":"replace","path":"/glitchDescription","value":
+"Возмутился. Действительно ужасное зрелище."
+},{"op":"replace","path":"/humanDescription","value":
+"Этот инопланетянин умер нехорошо."
+},{"op":"replace","path":"/hylotlDescription","value":
+"Ужасное зрелище. Зачем кому-то устанавливать такой череп?"
+},{"op":"replace","path":"/novakidDescription","value":
+"Кажется, здесь бандиты."
+},{"op":"replace","path":"/aegiDescription","value":
+"Ужасное зрелище. Аккимари могут быть жестокими..."
+},{"op":"replace","path":"/avikanDescription","value":
+"Установленный череп инопланетянина. Я не хочу встречаться с тем, кто это подложил."
+},{"op":"replace","path":"/trinkDescription","value":
+"Безжизненный череп аккимари."
+},{"op":"replace","path":"/drodenDescription","value":
+"Обнаружен шип металлолома. Обнаружен череп инопланетянина."
+},{"op":"replace","path":"/akkimariDescription","value":
+"Череп на металлическом шипе. Мертв наверняка."
+}]

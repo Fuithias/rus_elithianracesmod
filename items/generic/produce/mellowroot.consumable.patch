@@ -1,12 +1,5 @@
-[
-  {
-    "value": "Мягкий, сочный овощ.",
-    "path": "/description",
-    "op": "replace"
-  },
-  {
-    "value": "Меллорут",
-    "path": "/shortdescription",
-    "op": "replace"
-  }
-]
+[{"op":"replace","path":"/description","value":
+"Мягкий, сочный овощ."
+},{"op":"replace","path":"/shortdescription","value":
+"Меллорут"
+}]
