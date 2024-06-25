@@ -2,6 +2,4 @@
 "Прочные ноги робота, созданные Авангардом."
 },{"op":"replace","path":"/shortdescription","value":
 "Ноги меха Авангарда"
-},{"op":"add","path":"/builder","value":
-"/items/buildscripts/thea-build_rus_item.lua"
 }]

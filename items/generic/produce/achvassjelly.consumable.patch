@@ -2,6 +2,4 @@
 "Густое, пахнущее желе из необычного растения."
 },{"op":"replace","path":"/shortdescription","value":
 "Ачвасс Желе"
-},{"op":"add","path":"/builder","value":
-"/items/buildscripts/thea-build_rus_item.lua"
 }]
