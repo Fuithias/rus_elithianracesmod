@@ -2,4 +2,6 @@
 "^green;Общее. ^white;Генератор средней интенсивности для защиты груди."
 },{"op":"replace","path":"/shortdescription","value":
 "Щит для груди М-и"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

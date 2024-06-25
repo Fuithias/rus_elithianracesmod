@@ -28,4 +28,6 @@
 "Обнаружены следы органических продуктов питания. Анализ: кухонное оборудование."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Инструменты для приготовления пищи, Акки голоден."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

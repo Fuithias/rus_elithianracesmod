@@ -26,4 +26,6 @@
 "Обнаружен стол пришельцев."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки кладет вещи на стол. Стол достаточно прочный."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

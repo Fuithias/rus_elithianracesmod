@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Металлические сапоги и юбка для защиты от мусора"
 },{"op":"replace","path":"/shortdescription","value":
 "Поножи расхитителя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

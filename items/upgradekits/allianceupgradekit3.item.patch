@@ -2,4 +2,6 @@
 "Улучшенный комплект улучшения оружия. Улучшает оружие до 3 уровня."
 },{"op":"replace","path":"/shortdescription","value":
 "Комплект обновления L.3"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

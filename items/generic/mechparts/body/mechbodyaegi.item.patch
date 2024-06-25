@@ -2,4 +2,6 @@
 "Этот тяжелобронированный корпус был изготовлен компанией Enerth Engineering."
 },{"op":"replace","path":"/shortdescription","value":
 "Тело механического стража"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

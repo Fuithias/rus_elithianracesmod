@@ -2,4 +2,6 @@
 "Призывает аккимарийский Чейзфлай из грузового отсека вашего корабля."
 },{"op":"replace","path":"/shortdescription","value":
 "Контроллер Чейзфлая"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

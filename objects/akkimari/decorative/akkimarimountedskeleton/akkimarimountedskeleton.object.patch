@@ -26,4 +26,6 @@
 "Обнаружены останки инопланетянина. Анализ: кости Аккимари."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Шип-металл для Аккимари-мертв."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

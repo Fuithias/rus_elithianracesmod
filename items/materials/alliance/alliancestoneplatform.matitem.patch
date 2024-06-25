@@ -2,4 +2,6 @@
 "Каменная лестница."
 },{"op":"replace","path":"/shortdescription","value":
 "Каменная лестница Альянса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

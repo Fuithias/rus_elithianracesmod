@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Маска Эксодума для празднования Ужасающего!"
 },{"op":"replace","path":"/shortdescription","value":
 "Маска Эксодума"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

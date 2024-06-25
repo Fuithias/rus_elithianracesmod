@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Верх, который носят шаманы Шалакка."
 },{"op":"replace","path":"/shortdescription","value":
 "Верх Шалакка"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

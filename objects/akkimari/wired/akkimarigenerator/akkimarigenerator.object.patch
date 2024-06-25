@@ -26,4 +26,6 @@
 "Обнаружен генератор пришельцев. Источник топлива неизвестен."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Генератор вырабатывает мощность. Сила рождает свет. Свет делает жизнь."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

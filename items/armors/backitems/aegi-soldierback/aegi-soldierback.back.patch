@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Стандартный рюкзак, выдаваемый военным персоналом Союза."
 },{"op":"replace","path":"/shortdescription","value":
 "Рюкзак М-АСБ"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

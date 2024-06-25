@@ -2,4 +2,6 @@
 "Производит дыхательный воздух. Полезен в местах с ^red;невдыхаемой атмосферой^reset;."
 },{"op":"replace","path":"/shortdescription","value":
 "Схема НАБОР-01"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

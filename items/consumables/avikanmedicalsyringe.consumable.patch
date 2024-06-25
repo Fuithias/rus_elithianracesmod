@@ -2,4 +2,6 @@
 "Сильный болеутоляющий и катализатор заживления. Восстанавливает 100 единиц здоровья за 1 секунду."
 },{"op":"replace","path":"/shortdescription","value":
 "Экстракт Болбона"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

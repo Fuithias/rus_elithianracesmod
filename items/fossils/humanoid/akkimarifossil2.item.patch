@@ -2,4 +2,6 @@
 "Окаменелый торс Аккимари."
 },{"op":"replace","path":"/shortdescription","value":
 "Аккимари Торс"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

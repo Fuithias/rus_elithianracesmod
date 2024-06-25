@@ -10,4 +10,6 @@
 "Неисправность системы. Уровни энергии истощаются. Обнаружено внешнее вмешательство."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки-устал. У Акки проблемы с дыханием... Светящиеся камни чувствуют себя нехорошо."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

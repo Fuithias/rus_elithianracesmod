@@ -26,4 +26,6 @@
 "Обнаружены центенские артефакты. Ошибка. Ошибка. Ошибка."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки возле кубиков, Акки чувствуют себя спокойно. Акки чувствует себя странно..."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

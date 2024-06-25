@@ -10,4 +10,6 @@
 "Анализ. Телепорт. Уровень опасности: средний."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Телепорт заставляет Акки чувствовать себя странно."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

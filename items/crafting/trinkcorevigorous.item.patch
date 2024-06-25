@@ -2,4 +2,6 @@
 "Силовое ядро ​​для кольцевой брони. Увеличивает запасы здоровья пользователя."
 },{"op":"replace","path":"/shortdescription","value":
 "Схема Core-S"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Анализ завершен. Мастерская. Позволяет модернизировать определенное оружие для большей мощности."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки использует комплект улучшений, чтобы сделать оружие сильнее."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Мастерская каркасов Дродена^white;"
+"^orange;Мастерская каркасов дроден^white;"
 },{"op":"replace","path":"/description","value":
 "Здесь можно изготовить замену рамы для юнитов Дродена."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки сделай кадры-Дроден сюда... Зачем Акки?"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Каркасный верстак Дродена^white;"
+"^orange;Верстак каркасов дроден^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Здесь можно изготовить замену рамы для юнитов Дродена."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
@@ -54,8 +54,12 @@
 "Анализ завершен. Каркасный верстак. Используется для создания и установки новых рам на устройства Droden."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки сделай кадры-Дроден сюда... Зачем Акки?"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Верстак каркасов дроден"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Броня и снаряжение дроден"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Мастерская каркасов Дродена^white;"
+"^orange;Мастерская каркасов дроден^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Здесь можно изготовить замену рамы для юнитов Дродена."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -82,8 +86,12 @@
 "Анализ завершен. Каркасная мастерская. Используется для создания и установки новых рам на устройства Droden."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Мастерская-большая, Акки крафт Дродэн."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская каркасов дроден"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Броня и снаряжение дроден"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
-"^orange;Droden Frame Factory^white;"
+"^orange;Завод каркасов дроден^white;"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
 "Здесь можно изготовить замену рамы для юнитов Дродена."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
@@ -110,4 +118,10 @@
 "Анализ завершен. Каркасный завод. Используется для создания и установки новых рам на устройства Droden."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
 "Машина производства Рамы-Дроден. Акки не придется делать работу самостоятельно."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Завод каркасов дроден"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Броня и снаряжение дроден"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

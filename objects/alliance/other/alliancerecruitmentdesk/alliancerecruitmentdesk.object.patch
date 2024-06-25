@@ -26,4 +26,6 @@
 "Обнаружен инопланетный военкомат. Позволяет нанимать инопланетных членов экипажа."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки покупай друзей здесь."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

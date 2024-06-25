@@ -2,4 +2,6 @@
 "Сигнальная ракета, часто используемая Альянсом для обозначения важных мест или для освещения территории."
 },{"op":"replace","path":"/shortdescription","value":
 "Вспышка Альянса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

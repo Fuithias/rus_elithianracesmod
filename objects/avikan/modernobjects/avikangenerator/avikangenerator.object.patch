@@ -26,4 +26,6 @@
 "Предупреждение. Показания указывают на опасно высокие температуры внутри."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки не разобьет стекло. Акки сгорит заживо."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

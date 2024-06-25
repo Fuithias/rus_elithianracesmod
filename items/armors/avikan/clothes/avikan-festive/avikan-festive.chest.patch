@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Разноцветные мантии, которые носят во время праздников."
 },{"op":"replace","path":"/shortdescription","value":
 "Праздничная мантия"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

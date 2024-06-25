@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Украшенная кожаная юбка, любимая купцами пустыни."
 },{"op":"replace","path":"/shortdescription","value":
 "Купеческая юбка"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

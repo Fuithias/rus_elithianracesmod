@@ -2,4 +2,6 @@
 "Полированные пластины из металлолома, собранного из высококачественных источников."
 },{"op":"replace","path":"/shortdescription","value":
 "Полированный металлолом"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

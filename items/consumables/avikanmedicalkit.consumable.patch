@@ -2,4 +2,6 @@
 "Восстанавливает 100 единиц здоровья за 10 секунд и снимает большинство статусных эффектов."
 },{"op":"replace","path":"/shortdescription","value":
 "Мед-пакет Номада"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -24,4 +24,6 @@
 "Обнаружена аборигенная флора Кадавана. Болбон подтвердил."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Странное растение, похожее на фиолетовую каплю."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Вызывает ховербайк Воробей Веронаса из грузового отсека вашего корабля."
 },{"op":"replace","path":"/shortdescription","value":
 "Контроллер Воробья Веронаса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

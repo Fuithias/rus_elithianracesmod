@@ -26,4 +26,6 @@
 "Сканирование завершено. Украшение стен Смотрителей."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Украшение, глаз большой."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

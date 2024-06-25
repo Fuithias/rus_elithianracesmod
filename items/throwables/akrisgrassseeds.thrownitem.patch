@@ -2,4 +2,6 @@
 "Бросьте их во влажную вспаханную почву, чтобы вырастить вальваль, траву, произрастающую в Акрисе."
 },{"op":"replace","path":"/shortdescription","value":
 "Семена Вальвала"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Шкура какого-то инопланетного монстра, разрезанная с помощью охотничьего оружия Авикан."
 },{"op":"replace","path":"/shortdescription","value":
 "Шкура монстра"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

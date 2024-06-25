@@ -24,4 +24,6 @@
 "Эти растения очень эффективно используют воду."
 },{"op":"replace","path":"/drodenDescription","value":
 "Обнаруженные растения. Состояние: здоров."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

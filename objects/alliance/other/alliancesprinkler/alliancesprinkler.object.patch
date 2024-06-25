@@ -26,4 +26,6 @@
 "Обнаружена инопланетная ирригационная система."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Разбрызгиватель-инопланетянин. Разбрызгивает воду!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Легкий и обтекаемый шлем, который носят кеффоходы."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем кеффохода"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

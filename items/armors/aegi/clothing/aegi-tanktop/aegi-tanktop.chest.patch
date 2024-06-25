@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Топик и пояс, популярный среди аеги."
 },{"op":"replace","path":"/shortdescription","value":
 "Топик с поясом"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

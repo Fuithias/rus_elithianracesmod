@@ -22,4 +22,6 @@
 "Число. Шесть."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Номер-чужой. Шесть, думает Акки."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

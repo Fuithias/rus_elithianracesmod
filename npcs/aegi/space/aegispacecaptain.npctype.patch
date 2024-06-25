@@ -14,4 +14,18 @@
 "Пожалуйста, не отвлекайте слишком сильно моих навигаторов. Они очень заняты управлением навигационными системами корабля."
 },{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/default/6","value":
 "Ах, привет! Вы здесь, чтобы заняться бизнесом? У нас должен быть дополнительный груз, который вы можете купить."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/0","value":
+"Добро пожаловать на наш корабль, мой коллега-капитан."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/1","value":
+"Вы здесь по официальным делам Союза, мой друг?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/2","value":
+"Что привело вас на наш корабль?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/3","value":
+"Командовать кораблем, как вы наверняка знаете, может быть утомительным занятием, но я все равно люблю это дело."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/4","value":
+"Мои навигаторы обнаружили приближающийся корабль. Что привело вас к нам в этой огромной пустоте космоса?"
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/5","value":
+"Пожалуйста, не отвлекайте слишком сильно моих навигаторов. Они очень заняты управлением навигационными системами корабля."
+},{"op":"replace","path":"/scriptConfig/dialog/converse/aegi/aegi/6","value":
+"Ах, привет! Вы здесь, чтобы заняться бизнесом? У нас должен быть дополнительный груз, который вы можете купить."
 }]

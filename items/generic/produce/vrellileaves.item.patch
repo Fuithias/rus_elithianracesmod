@@ -2,4 +2,6 @@
 "Ярко-красные листья растения Врелли."
 },{"op":"replace","path":"/shortdescription","value":
 "Листья Врелли"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

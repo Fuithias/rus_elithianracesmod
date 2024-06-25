@@ -10,4 +10,6 @@
 "Сканирование камня... Ошибка. Результаты неубедительны."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки боится, нет, Акки только осторожен. Акки не хочет здесь задерживаться..."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

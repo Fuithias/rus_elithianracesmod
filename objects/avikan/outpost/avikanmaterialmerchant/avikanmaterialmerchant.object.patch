@@ -14,4 +14,6 @@
 "Торговец обнаружен. Предлагает знаки отличия за обмененные материалы."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Робот даёт жетоны Акки, если Акки даёт роботу материалы."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

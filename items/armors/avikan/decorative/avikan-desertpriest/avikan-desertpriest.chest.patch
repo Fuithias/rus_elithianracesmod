@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Пончо, которое носят последователи Рхаиода в глубоких пустынях."
 },{"op":"replace","path":"/shortdescription","value":
 "Пончо пустынника Рхаиода"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

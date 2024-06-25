@@ -26,4 +26,6 @@
 "Обнаружен инопланетный интерфейс. Идет перевод..."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки не уверен, что это значит. Интерфейс-странный."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

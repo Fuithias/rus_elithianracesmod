@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Форма, которую носят медработники Союза."
 },{"op":"replace","path":"/shortdescription","value":
 "Форма Медитек"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Обнаружена раздвижная дверь."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки, открой дверь, издай звук вуш-вуш!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Дродены. ^white;Прочная голова из титана."
 },{"op":"replace","path":"/shortdescription","value":
 "Титановая голова"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -20,4 +20,6 @@
 "Обнаружена тренировочная цель. Юнит может выстрелить по нему, чтобы замкнуть цепь."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки стреляет в цель, пробивает цель. Прорыв цели, что-то происходит!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

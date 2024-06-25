@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Защитная каска, которую носят строители компании Бриггс."
 },{"op":"replace","path":"/shortdescription","value":
 "Каска Бриггс"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

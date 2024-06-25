@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Бронированные штаны и магнитные ботинки, которые носят бойцы на Рубеже."
 },{"op":"replace","path":"/shortdescription","value":
 "Боевые штаны Рубежа"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

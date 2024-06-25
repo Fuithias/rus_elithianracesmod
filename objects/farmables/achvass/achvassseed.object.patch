@@ -26,4 +26,6 @@
 "Обнаружена местная флора Акриса. Ачвасс производит необычные желеобразные вещества."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Желе-вкусно, Акки хочется еще, еще, еще!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Тканевая маска с металлическими пластинами для защиты от осколков."
 },{"op":"replace","path":"/shortdescription","value":
 "Маска расхитителя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

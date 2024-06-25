@@ -12,4 +12,6 @@
 "Обнаружен люк инопланетян. Конструкция включает в себя встроенную платформу."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Люк. Акки стоит на платформе, даже когда люк открыт."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

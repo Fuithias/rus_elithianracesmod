@@ -2,4 +2,6 @@
 "^green;Дродены. ^white;Каркас для наблюдательных единиц дроденов."
 },{"op":"replace","path":"/shortdescription","value":
 "Каркас наблюдателя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

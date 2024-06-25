@@ -26,4 +26,6 @@
 "Обнаружена инопланетная глиняная посуда. ."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки может разбить горшок, если Акки рассердится. Пусть Акки меньше злится!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

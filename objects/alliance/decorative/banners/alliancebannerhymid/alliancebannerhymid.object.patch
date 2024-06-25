@@ -10,4 +10,6 @@
 "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Гимидийской Республики Хизолия."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки думают, что это символ Республики-Химид."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

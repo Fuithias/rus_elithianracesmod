@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Юбка, которую носят авиканские наблюдатели."
 },{"op":"replace","path":"/shortdescription","value":
 "Юбка наблюдателя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -24,4 +24,6 @@
 "Обнаружена стойка сервера данных пришельцев. Попытка взлома не удалась."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Север-инопланетянин. Акки взломать, узнать много чего."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

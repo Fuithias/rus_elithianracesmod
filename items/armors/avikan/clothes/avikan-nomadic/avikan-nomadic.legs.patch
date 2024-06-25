@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Кожаная юбка, любимая кочевниками пустыни Кадаван."
 },{"op":"replace","path":"/shortdescription","value":
 "Тряпки кочевника"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

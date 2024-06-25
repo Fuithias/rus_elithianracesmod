@@ -14,4 +14,10 @@
 "Торговец обнаружен. Покупки совершаются с использованием жетонов заслуг."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки покупайте вещи за жетоны. Акки не нравится."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+"Обмен токенов Номада"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Будучи достойным, имеешь свои заслуги."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

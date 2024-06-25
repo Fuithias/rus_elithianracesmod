@@ -26,4 +26,6 @@
 "Обнаружено устройство для привязывания домашних животных. Не даёт пойманным существам ускользнуть."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Привязь-питомец. Держите домашних животных в порядке."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Обнаружена турель корабля Авангард."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Турель-большая. Прорывайтесь сквозь корабли."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

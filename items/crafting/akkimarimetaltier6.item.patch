@@ -2,4 +2,6 @@
 "Высококачественный металлолом, интегрированный с технологией Аккимари."
 },{"op":"replace","path":"/shortdescription","value":
 "Комплексный металлолом"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

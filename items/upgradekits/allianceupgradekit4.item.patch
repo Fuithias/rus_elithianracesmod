@@ -2,4 +2,6 @@
 "Усовершенствованный комплект улучшения оружия. Улучшает оружие до 4 уровня."
 },{"op":"replace","path":"/shortdescription","value":
 "Комплект обновления L.4"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

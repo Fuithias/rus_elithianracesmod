@@ -2,4 +2,6 @@
 "Долговечная светящаяся палочка, дешевая в производстве, но не такая яркая, как вспышка."
 },{"op":"replace","path":"/shortdescription","value":
 "Номада Светпалка"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Корабельный шкафчик. Статус: заклинило."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Корабль-шкафчик, Акки не может открыться. Шкафчик забит."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

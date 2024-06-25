@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Большой водонепроницаемый капюшон, пригодится в дождь."
 },{"op":"replace","path":"/shortdescription","value":
 "Капюшон Союза"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

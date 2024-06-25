@@ -12,4 +12,6 @@
 "Обнаружена автоматическая взрывоопасная дверь."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Дверь-автомат."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

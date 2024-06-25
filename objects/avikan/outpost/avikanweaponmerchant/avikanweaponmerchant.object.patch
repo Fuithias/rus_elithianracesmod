@@ -10,4 +10,10 @@
 "Обнаружен одобренный Авангард дистрибьютор оружия. Имя: Одинин ас-Радейс."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Инопланетянин-крепкий. Готовься к бою-хорошо."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Тайник оружия Одийна"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Лучшее в Номаде."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

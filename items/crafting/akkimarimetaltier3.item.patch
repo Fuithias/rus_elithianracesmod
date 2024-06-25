@@ -2,4 +2,6 @@
 "Помятые пластины из металлолома, собранного из источников низкого качества."
 },{"op":"replace","path":"/shortdescription","value":
 "Помятый металлолом"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

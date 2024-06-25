@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Позволяет вам выглядеть как голограмма авикана."
 },{"op":"replace","path":"/shortdescription","value":
 "Голографическая голова"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

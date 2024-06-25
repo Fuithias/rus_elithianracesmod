@@ -26,4 +26,6 @@
 "Флаг Ковенанта. Обнаружен модуль локатора. Система телепортации корабля может зафиксироваться на этом месте."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Флаг Ковенанта-Кельчиса. Акки тоскует по дому..."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

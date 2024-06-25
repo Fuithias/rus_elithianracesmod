@@ -26,4 +26,6 @@
 "Сканирование не удалось. Невозможно определить, куда ведут эти ворота."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки любопытно, куда ведут ворота..."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

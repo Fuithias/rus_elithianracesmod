@@ -2,4 +2,6 @@
 "Бальзам, ускоряющий заживление ран. Восстанавливает 100 единиц здоровья за 1 секунду."
 },{"op":"replace","path":"/shortdescription","value":
 "Медсалве"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

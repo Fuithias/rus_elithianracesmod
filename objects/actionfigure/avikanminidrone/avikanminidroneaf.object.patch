@@ -2,4 +2,6 @@
 "Фигурка Авангарда Дралида"
 },{"op":"replace","path":"/description","value":
 "На этикетке написано: Небольшой дрон, посланный солдатами Авикана для разведки местности впереди."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

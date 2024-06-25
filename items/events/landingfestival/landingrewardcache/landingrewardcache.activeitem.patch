@@ -2,4 +2,6 @@
 "Упакованный подарок, содержащий что-то особенное. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
 },{"op":"replace","path":"/shortdescription","value":
 "^orange;Особый подарок^reset;"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Дродены. ^white;Кожаный баннер, который носят дродены для идентификации своих владельцев."
 },{"op":"replace","path":"/shortdescription","value":
 "Баннер дродена"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -122,4 +122,6 @@
 " Мульв.роизводитель Альянса"
 },{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Предметы и снаряжение Альянса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

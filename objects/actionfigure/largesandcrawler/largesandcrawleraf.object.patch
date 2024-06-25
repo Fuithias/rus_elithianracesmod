@@ -2,4 +2,6 @@
 "Фигурка песчаного краулера"
 },{"op":"replace","path":"/description","value":
 "На этикетке написано: Песчаный краулер закапывается и наносит удар без всякого предупреждения."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

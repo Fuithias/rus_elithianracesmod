@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Нагрудная пластина из металлолома, которую носят мусорщики аккимари."
 },{"op":"replace","path":"/shortdescription","value":
 "Нагрудник мусорщика"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

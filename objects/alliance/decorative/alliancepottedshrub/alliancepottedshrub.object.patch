@@ -10,4 +10,6 @@
 "Обнаружена инопланетная растительная жизнь. Анализ биохимии."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Растение-небольшое, не похожее на Акрис."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

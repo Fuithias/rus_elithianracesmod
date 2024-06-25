@@ -1,4 +1,6 @@
-[{"op":"replace","path":"/shortdescription","value":
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Станция готовки"
+},{"op":"replace","path":"/shortdescription","value":
 "^orange;Кулинарная станция Авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Машина, которая готовит еду. Удобный."
@@ -26,4 +28,6 @@
 "Обнаружена кулинарная станция. Этот агрегат может заправляться, используя натуральные продукты."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки готовит здесь еду."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

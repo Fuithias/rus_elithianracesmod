@@ -26,4 +26,10 @@
 "Обнаружена печка. Органические продукты питания можно использовать в качестве топлива."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки готовь, делай еду вкуснее-больше."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Плита авикан"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Базовая готовка"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

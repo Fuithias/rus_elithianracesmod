@@ -26,4 +26,6 @@
 "Обнаружено инопланетное судно на воздушной подушке."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки летай на транспортном средстве-инопланетянине! Акки бесплатно!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

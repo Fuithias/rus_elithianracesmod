@@ -24,4 +24,6 @@
 "Анализ завершен. Обнаружена кость песчаного ловца."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Копьёвидная кость для охоты."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

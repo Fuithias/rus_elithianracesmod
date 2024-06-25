@@ -2,4 +2,6 @@
 "Создает перезаряжаемый щит, который при разрушении отталкивает врагов и снаряды."
 },{"op":"replace","path":"/shortdescription","value":
 "Улучшение силового щита II"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

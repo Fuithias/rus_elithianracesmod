@@ -2,4 +2,6 @@
 "Важнейшая часть виброклинков Авангард."
 },{"op":"replace","path":"/shortdescription","value":
 "Авикан Вибро Ядро"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Прочный металлический нагрудник, который носят аегинские спецназовцы."
 },{"op":"replace","path":"/shortdescription","value":
 "Нагрудник спецназа"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

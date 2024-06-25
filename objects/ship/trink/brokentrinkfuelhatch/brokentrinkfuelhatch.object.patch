@@ -24,4 +24,6 @@
 "Обнаружена станция подачи топлива. Статус: сломан."
 },{"op":"replace","path":"/akkimariDescription","value":
 "У Акки нет топливного корабля, пока панель сломана."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

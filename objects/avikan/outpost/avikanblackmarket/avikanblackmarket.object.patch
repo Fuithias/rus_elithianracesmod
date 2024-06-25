@@ -14,4 +14,10 @@
 "Обнаружен незарегистрированный торговец. Рекомендую осторожность."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Чужой-теневой. Акки-шейди тоже. Друзья?"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+"Эмпориум Дрифтера"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Ты никогда не видел это место..."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

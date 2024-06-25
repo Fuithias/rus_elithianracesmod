@@ -26,4 +26,6 @@
 "Обнаружен телеанский десантный корабль. Предупреждение: будьте предельно осторожны."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Бог-вор-десантник. Акки осторожнее, ищи богов-воров. Убей их."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

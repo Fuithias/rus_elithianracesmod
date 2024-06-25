@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Импровизированная рабочая станция^white;"
+"^orange;Самодельная мастерская^white;"
 },{"op":"replace","path":"/description","value":
 "Простое рабочее место с доской для чертежей и местом для изготовления предметов."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки возьми чертеж и сделай что-нибудь здесь."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Импровизированная рабочая станция^white;"
+"^orange;Самодельная мастерская^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Простое рабочее место с доской для чертежей и местом для изготовления предметов."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
@@ -54,8 +54,12 @@
 "Анализ завершен. Импровизированный стол для творчества."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Самодельная мастерская"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Рабочая станция Келрааки^white;"
+"^orange;Мастерская Келрааки^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Доска для чертежей, построенная в стиле Келрааки."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -82,8 +86,12 @@
 "Анализ завершен. Импровизированный стол для творчества."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская Келрааки"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
-"^orange; Рабочая станция Акрис^white;"
+"^orange;Мастерская Акриса^white;"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
 "Высокотехнологичная система чертежей, созданная на основе технологических чудес Акриса."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
@@ -110,4 +118,10 @@
 "Анализ завершен. Современный верстак."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
 "Акки возьми чертеж и сделай что-нибудь здесь."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская Акриса"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

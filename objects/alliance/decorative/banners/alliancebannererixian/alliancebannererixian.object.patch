@@ -10,4 +10,6 @@
 "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Эриксийской Республики."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки знаю, что это символ Республики-Эриксиан."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

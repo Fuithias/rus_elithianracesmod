@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Рекламная футболка Фроза."
 },{"op":"replace","path":"/shortdescription","value":
 "Футболка Фроза"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

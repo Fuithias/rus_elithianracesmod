@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Броневой нагрудник, который носили некоторые аегинские пехотинцы."
 },{"op":"replace","path":"/shortdescription","value":
 "Нагрудник пехотинца"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

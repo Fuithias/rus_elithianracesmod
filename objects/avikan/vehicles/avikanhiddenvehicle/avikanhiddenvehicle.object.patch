@@ -12,4 +12,6 @@
 "Обнаружен автомобиль Номада. Тип неизвестен."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки интересно, что за машина скрывается под листом кожи."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Сканирование... Системный сбой. Анализ неполный."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки использует маяк, чтобы связаться с домом. Акки зовет на помощь, Аккимари приходит."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

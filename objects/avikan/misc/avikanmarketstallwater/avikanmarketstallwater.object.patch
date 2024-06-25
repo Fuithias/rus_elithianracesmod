@@ -24,4 +24,6 @@
 "Обнаружен запас воды. Показания указывают на низкий уровень загрязнения."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Вода. Акки выпей здесь."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

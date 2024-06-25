@@ -26,4 +26,6 @@
 "Прием инопланетного радиосигнала. Анализ не удался."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Антенна отправляет сообщения Акрису домой. Аккимари потребует награду за Кельчиса."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

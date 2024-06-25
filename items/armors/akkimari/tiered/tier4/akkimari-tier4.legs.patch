@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Поножи и тактический пояс, которые носят коварные рейдеры"
 },{"op":"replace","path":"/shortdescription","value":
 "Поножи мародера"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Крепкие специи из Кадавана."
 },{"op":"replace","path":"/shortdescription","value":
 "Кадаванские специи"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

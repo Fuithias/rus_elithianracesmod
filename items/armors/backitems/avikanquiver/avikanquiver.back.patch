@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Колчан, полный костяных стрел. Незначительно увеличивает урон, наносимый из луков авиканцев."
 },{"op":"replace","path":"/shortdescription","value":
 "Колчан авиканца"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

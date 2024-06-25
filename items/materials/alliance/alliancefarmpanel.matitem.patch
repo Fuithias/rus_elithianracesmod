@@ -2,4 +2,6 @@
 "Металлический контейнер, наполненный плодородной землей, готовый к сельскому хозяйству."
 },{"op":"replace","path":"/shortdescription","value":
 "Фермерский блок Альянса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Кожаные обмотки, которые носят население Номады"
 },{"op":"replace","path":"/shortdescription","value":
 "Современные обмотки"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

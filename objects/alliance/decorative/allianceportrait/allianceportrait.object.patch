@@ -26,4 +26,6 @@
 "Обнаружен портрет инопланетянина."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки считает, что это важно для человека."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

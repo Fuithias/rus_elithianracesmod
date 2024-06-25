@@ -24,4 +24,6 @@
 "Яйцо песчаного краулера. Пожалуйста, обращаться осторожно."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Странное яйцо, наверное, странный вкус. Акки все еще хочет есть."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

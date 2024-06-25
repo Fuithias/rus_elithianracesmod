@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Легкая броня для тактических операций."
 },{"op":"replace","path":"/shortdescription","value":
 "Тактическая пластина"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Прочная обшивка из различного металлолома."
 },{"op":"replace","path":"/shortdescription","value":
 "Акрис Плэйтинг"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

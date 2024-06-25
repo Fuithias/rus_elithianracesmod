@@ -24,4 +24,6 @@
 "Анализ: спутниковая антенна. Обеспечивает доступ к глобальным коммуникационным системам."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Блюдо-радар ходит вокруг, вокруг, вокруг."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

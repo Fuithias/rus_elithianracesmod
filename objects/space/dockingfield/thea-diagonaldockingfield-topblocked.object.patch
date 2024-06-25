@@ -26,4 +26,6 @@
 "Обнаружено стыковочное поле. Создает барьер между космосом и атмосферой корабля."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Блокировка поля, держите воздух в корабле."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

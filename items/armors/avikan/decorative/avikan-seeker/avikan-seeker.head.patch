@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Любопытно оформленный шлем, который носят авиканские искатели."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем искателя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

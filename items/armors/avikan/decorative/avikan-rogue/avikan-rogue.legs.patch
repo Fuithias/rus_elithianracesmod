@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Неприметная кожаная юбка."
 },{"op":"replace","path":"/shortdescription","value":
 "Юбка изгоя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

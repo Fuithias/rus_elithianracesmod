@@ -2,4 +2,6 @@
 "^green;Дродены. ^white;Ножной элемент для легионных единиц дроденов."
 },{"op":"replace","path":"/shortdescription","value":
 "Ноги легиона"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

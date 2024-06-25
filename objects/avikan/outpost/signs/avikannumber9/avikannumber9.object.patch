@@ -22,4 +22,6 @@
 "Число. Девять."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Номер-чужой. Девять, думает Акки."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

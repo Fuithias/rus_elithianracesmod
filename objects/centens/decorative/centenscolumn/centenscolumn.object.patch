@@ -26,4 +26,6 @@
 "Обнаружен центенский столбец."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Колонка-отлично, вес держит-отлично."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

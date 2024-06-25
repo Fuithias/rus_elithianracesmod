@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Капы для волос, которые носят медработники Союза."
 },{"op":"replace","path":"/shortdescription","value":
 "Кап для волос Медитек"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

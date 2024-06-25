@@ -2,4 +2,6 @@
 "Это улучшение добавляет нейтрализацию радиации к возможностям набора. Используйте на планетах с ^red;высоким уровнем радиации^reset;."
 },{"op":"replace","path":"/shortdescription","value":
 "Схема EPP-02"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

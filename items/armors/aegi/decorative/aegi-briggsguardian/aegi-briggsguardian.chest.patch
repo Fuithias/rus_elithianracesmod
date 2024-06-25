@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Усиленная нагрудная броня, которую носят стражники Бриггса."
 },{"op":"replace","path":"/shortdescription","value":
 "Кираса стражника Бриггс"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Жареные чипсы борато, хрустящие и вкусные."
 },{"op":"replace","path":"/shortdescription","value":
 "Чипсы Борато"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

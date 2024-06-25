@@ -2,4 +2,6 @@
 "Без описания."
 },{"op":"replace","path":"/shortdescription","value":
 "Платформа зеленого экрана"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

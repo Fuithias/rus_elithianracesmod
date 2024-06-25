@@ -10,4 +10,6 @@
 "Обнаружен телепорт. Пункт назначения неизвестен. Рекомендую тщательное исследование."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки хочет знать-знать, куда уходит древний телепорт."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

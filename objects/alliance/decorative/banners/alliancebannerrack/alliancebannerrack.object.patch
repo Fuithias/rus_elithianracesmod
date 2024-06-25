@@ -10,4 +10,6 @@
 "Обнаружены инопланетные баннеры."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Знамен-много, для наций-чужих."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

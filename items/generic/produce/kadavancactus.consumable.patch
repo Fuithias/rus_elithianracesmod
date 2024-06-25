@@ -2,4 +2,6 @@
 "Освежающий, но несколько безвкусный кактус."
 },{"op":"replace","path":"/shortdescription","value":
 "Разрезанный кактус Кадаван"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

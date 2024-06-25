@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value":
-"  Космический торговец"
+"  Звездоходный торговец"
 },{"op":"replace","path":"/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value":
-"  Продает предметы для космических путешественников!"
+"  Продает предметы для звездоходов!"
 }]

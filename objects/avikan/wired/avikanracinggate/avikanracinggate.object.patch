@@ -26,4 +26,6 @@
 "Обнаружены гоночные ворота. Вероятная цель: КПП."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Ворота-пропускные пункты. Акки мчится вперед!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

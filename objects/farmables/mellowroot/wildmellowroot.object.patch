@@ -26,4 +26,6 @@
 "Обнаружена чужеродная флора. Обнаружено большое количество воды внутри."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Растение-влажное, сочное-очень. Акки не знает, что и думать."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

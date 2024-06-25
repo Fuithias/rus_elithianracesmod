@@ -2,4 +2,6 @@
 "Специальное металлическое покрытие для использования в оборудовании превосходного качества."
 },{"op":"replace","path":"/shortdescription","value":
 "Превосходная каванитовая пластина"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

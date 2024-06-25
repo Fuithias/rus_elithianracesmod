@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Официальное одеяние президента Аегинского Федерального Союза."
 },{"op":"replace","path":"/shortdescription","value":
 "Наряд президента"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -26,4 +26,6 @@
 "Обнаружен центенский монолит. Расчет возраста не удался."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Артефакт-странный монолит бога-творца."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

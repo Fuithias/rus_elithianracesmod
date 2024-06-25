@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Плотно прилегающий жилет, который носят инженеры Номады."
 },{"op":"replace","path":"/shortdescription","value":
 "Жилет инженера"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

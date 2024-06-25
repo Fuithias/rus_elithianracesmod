@@ -20,4 +20,6 @@
 "Обнаружена станция сборки мехов. Используется для сборки компонентов в функциональные механические костюмы."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Механическая сборка здесь. Акки готова топать ногами."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

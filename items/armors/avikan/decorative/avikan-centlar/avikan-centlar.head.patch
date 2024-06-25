@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Любопытно оформленный шлем, который носят авиканские центляры. Он сделан из центенсийского металла."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем центляра"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

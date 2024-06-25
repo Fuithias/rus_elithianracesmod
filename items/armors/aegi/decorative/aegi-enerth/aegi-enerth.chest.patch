@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Рабочая короткая одежда инженеров Енерт."
 },{"op":"replace","path":"/shortdescription","value":
 "Рубашка инженера Енерт"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

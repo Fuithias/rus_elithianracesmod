@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Броня, которую носят авиканские наблюдатели."
 },{"op":"replace","path":"/shortdescription","value":
 "Броня наблюдателя"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

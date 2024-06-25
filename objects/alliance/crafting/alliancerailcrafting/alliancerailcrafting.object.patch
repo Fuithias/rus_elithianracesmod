@@ -30,4 +30,6 @@
 "Анализ завершен. Станция ковки рельсов. Используется для изготовления рельсов и железнодорожных транспортных средств."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Рельсы акки собирать здесь."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Черная сочащаяся жидкость, которая кажется чужой этой вселенной."
 },{"op":"replace","path":"/shortdescription","value":
 "Остаток Гупа"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

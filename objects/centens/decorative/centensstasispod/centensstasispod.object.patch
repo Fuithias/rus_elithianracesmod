@@ -24,4 +24,6 @@
 "Обнаружена стазисная капсула Centensian. Статус жильца: неизвестен."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Под-стазис, для длительного сна. Бог-творец внутри?"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

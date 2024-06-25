@@ -2,4 +2,6 @@
 "Прочный металлический столб для палатки."
 },{"op":"replace","path":"/shortdescription","value":
 "Стойка для палатки Авикан"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

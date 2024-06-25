@@ -2,4 +2,6 @@
 "Компактный аккумулятор с большой мощностью."
 },{"op":"replace","path":"/shortdescription","value":
 "Авикан Батарея"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

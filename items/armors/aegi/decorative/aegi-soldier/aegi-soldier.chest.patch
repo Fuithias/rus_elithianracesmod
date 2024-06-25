@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Стандартный нагрудный доспех военнослужащих Союза."
 },{"op":"replace","path":"/shortdescription","value":
 "Кираса М-АСБ"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

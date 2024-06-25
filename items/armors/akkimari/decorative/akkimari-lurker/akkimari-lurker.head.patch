@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Капюшон, который носят аккимари, скрывающиеся в тени."
 },{"op":"replace","path":"/shortdescription","value":
 "Капюшон скрытника"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

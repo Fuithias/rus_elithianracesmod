@@ -54,6 +54,10 @@
 "Анализ завершен. Рабочий стол. Используется для изготовления различных специализированных верстаков."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки использует чертежи для создания многих вещей."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Стол рабочего"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
 "^orange;Станция ремесленников Авикан^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
@@ -82,4 +86,10 @@
 "Анализ завершен. Станция Ремесленника. Используется для изготовления различных специализированных верстаков."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "На экране показаны чертежи, полезные для акки."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Станция ремесленников"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Специально для орудий труда"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

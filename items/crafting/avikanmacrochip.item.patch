@@ -2,4 +2,6 @@
 "Первоклассный вычислительный чип для тех случаев, когда вам нужно много мощности в небольшом корпусе."
 },{"op":"replace","path":"/shortdescription","value":
 "Авикан Макрочип"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

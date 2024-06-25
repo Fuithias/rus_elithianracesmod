@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Современный колчан Номады с активной помощью при натягивании. Увеличивает урон, наносимый из луков авиканцев."
 },{"op":"replace","path":"/shortdescription","value":
 "Колчан Номады"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

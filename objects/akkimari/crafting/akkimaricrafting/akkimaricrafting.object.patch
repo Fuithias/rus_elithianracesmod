@@ -54,6 +54,10 @@
 "Анализ завершен. Мастерская. Обнаружены различные инопланетные инструменты."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки мастерит здесь вещи. Не нужны инструменты-много."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская Скрангера"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение аккимари"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
 "^orange;Мастерская фуражиров^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
@@ -82,6 +86,10 @@
 "Анализ завершен. Мастерская. Обнаружена миниатюрная печь для низкоинтенсивной плавки."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Маленькая печь делает этот мастер-класс завершенным."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская фуражиров"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение аккимари"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
 "^orange;Мастерская рейдеров^white;"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
@@ -110,4 +118,10 @@
 "Анализ завершен. Мастерская. Невозможно определить используемый метод строительства."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
 "Акки подвозит материалы, станция строит вещи – много."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Мастерская рейдеров"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение аккимари"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Железнодорожная кузнечная станция^white;"
+"^orange;Рельс-кузнечная станция^white;"
 },{"op":"replace","path":"/description","value":
 "Станция ковки рельсов позволяет ковать рельсы из сырья."
 },{"op":"replace","path":"/apexDescription","value":
@@ -26,4 +26,10 @@
 "Анализ завершен. Станция ковки рельсов. Используется для изготовления рельсов и железнодорожных транспортных средств."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Рельсы акки собирать здесь."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Рельс-кузнечная станция"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Для всех перевозок по рельсам."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

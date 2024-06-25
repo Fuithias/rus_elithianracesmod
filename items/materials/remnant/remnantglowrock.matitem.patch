@@ -2,4 +2,6 @@
 "Древняя скала с жутким сиянием."
 },{"op":"replace","path":"/shortdescription","value":
 "Светящаяся скала"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

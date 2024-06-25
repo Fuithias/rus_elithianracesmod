@@ -2,4 +2,6 @@
 "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела с усилением из соляриума очень высокого качества."
 },{"op":"replace","path":"/shortdescription","value":
 "Утилитарный мод тела в2"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

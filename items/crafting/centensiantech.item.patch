@@ -2,4 +2,6 @@
 "Технология, используемая при создании центенских артефактов."
 },{"op":"replace","path":"/shortdescription","value":
 "Центенская технология"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

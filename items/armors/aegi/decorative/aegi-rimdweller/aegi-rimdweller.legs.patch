@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Усиленные штаны с магнитными ботинками для выхода в открытый космос."
 },{"op":"replace","path":"/shortdescription","value":
 "Штаны Рубежника"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

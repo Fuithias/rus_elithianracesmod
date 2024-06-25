@@ -12,4 +12,6 @@
 "Обнаружен кожаный лист. Необычно большой размер."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Лист-большой, у Акки есть приют."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

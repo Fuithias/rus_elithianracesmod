@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Старсайт Инн Бар"
+"Звездоцел Инн Бар"
 },{"op":"replace","path":"/description","value":
 "Идеальное место, чтобы выпить."
 },{"op":"replace","path":"/floranDescription","value":
@@ -7,7 +7,13 @@
 },{"op":"replace","path":"/glitchDescription","value":
 "Любопытный. Возможно, этот бар предлагает больше, чем просто напитки."
 },{"op":"replace","path":"/drodenDescription","value":
-"Анализ. Бар Старсайт Инн. Популярность: высокая."
+"Анализ. Бар Звездоцел Инн. Популярность: высокая."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки, выпей здесь. Напивайтесь, веселитесь."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+"Звездоцел Инн Бар"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Еда, выпивка и смех."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

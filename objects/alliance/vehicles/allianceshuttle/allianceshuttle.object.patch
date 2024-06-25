@@ -26,4 +26,6 @@
 "Обнаружен космический корабль пришельцев."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Автомобиль-бронированный."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Запечатанный тайник, содержащий предметы события Мучение. Удерживайте ^green;[ЛКМ] ^white;чтобы открыть!"
 },{"op":"replace","path":"/shortdescription","value":
 "Мучительный тайник"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

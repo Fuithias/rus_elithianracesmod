@@ -24,4 +24,6 @@
 "Этот агрегат не требует отдыха."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Постельный пришельец, Акки отдыхает здесь."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

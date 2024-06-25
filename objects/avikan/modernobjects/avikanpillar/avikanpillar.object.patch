@@ -24,4 +24,6 @@
 "Опорный столб. Не удалось оценить максимальный поддерживаемый вес."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Столб длинный, для поддержки тяжелой крыши."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

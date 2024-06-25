@@ -2,4 +2,6 @@
 "Разместите управляемый трамвай, который работает с рельсовыми стопами."
 },{"op":"replace","path":"/shortdescription","value":
 "Лифт Бриггс"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Простой череп с кожаным ремешком, который носят авиканские падальщики."
 },{"op":"replace","path":"/shortdescription","value":
 "Череп падальщика"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

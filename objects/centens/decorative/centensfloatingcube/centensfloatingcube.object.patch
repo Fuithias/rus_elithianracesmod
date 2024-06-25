@@ -26,4 +26,6 @@
 "Обнаружен центенский артефакт. Отмечаем место для расследования Райода."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Куб-большой-плавающий, Акки удивляется, как это работает."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

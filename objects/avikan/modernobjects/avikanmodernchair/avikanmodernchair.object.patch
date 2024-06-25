@@ -24,4 +24,6 @@
 "Сканирование указывает на повреждение кожи. Рекомендуется ремонт."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Кресло-инопланетянин. Странно, но приятно."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

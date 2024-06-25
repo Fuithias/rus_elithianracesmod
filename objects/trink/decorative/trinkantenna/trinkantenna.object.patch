@@ -24,4 +24,6 @@
 "Радиосигнал обнаружен. Не удалось декодировать сообщение."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Антенна-инопланетянка, отправляющая и принимающая сигналы издалека."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

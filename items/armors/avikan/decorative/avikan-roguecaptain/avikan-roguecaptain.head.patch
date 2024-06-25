@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Шлем, который часто носят капитаны, покинувшие Номаду."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем изгоя-капитана"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

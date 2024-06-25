@@ -10,4 +10,6 @@
 "Анализ. Кнопка. Используется для временной активации цепей."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки пресс, всякое случается."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

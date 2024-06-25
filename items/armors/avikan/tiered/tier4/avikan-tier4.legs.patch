@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Юбка из костяных пластин, которую носят авиканские Следопыты."
 },{"op":"replace","path":"/shortdescription","value":
 "Юбка следопыта"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

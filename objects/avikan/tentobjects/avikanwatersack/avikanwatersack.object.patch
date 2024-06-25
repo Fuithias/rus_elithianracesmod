@@ -24,4 +24,6 @@
 "Обнаружен запас воды. Обнаружен хрупкий контейнер. Рекомендуется хранить в контейнере для воды, одобренном Номада."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Снимать воду, Акки осторожно, чтобы не промокнуть."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

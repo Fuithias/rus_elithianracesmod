@@ -24,4 +24,6 @@
 "Обнаружен световой шар."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Шар-плавающий, создает свет."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

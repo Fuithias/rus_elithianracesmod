@@ -26,4 +26,6 @@
 "Обнаружены гоночные ворота. Замедляет проезжающие мимо ховербайки."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки проезжает мимо, Акки тормозит. Акки не нравится."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

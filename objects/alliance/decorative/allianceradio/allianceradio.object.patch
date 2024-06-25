@@ -26,4 +26,6 @@
 "Обнаружено инопланетное радио. Анализ частот."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Радио-инопланетянин. Делайте музыку приятной."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

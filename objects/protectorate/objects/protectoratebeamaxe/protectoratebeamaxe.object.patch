@@ -18,4 +18,6 @@
 "Акки немедленно возьми Манипулятор Материи, а затем Акки беги!"
 },{"op":"replace","path":"/pickedUpParameters/akkimariDescription","value":
 "Акки вернется, чтобы помочь позже!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

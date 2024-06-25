@@ -2,4 +2,6 @@
 "Ткань фиолетового цвета, используемая для создания предметов в стиле Райода."
 },{"op":"replace","path":"/shortdescription","value":
 "Ткань Райод"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

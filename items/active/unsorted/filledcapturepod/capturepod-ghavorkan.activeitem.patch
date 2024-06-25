@@ -2,4 +2,6 @@
 "Бросьте его на пол, чтобы освободить запертое внутри существо!"
 },{"op":"replace","path":"/shortdescription","value":
 "Заполненная капсула захвата"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

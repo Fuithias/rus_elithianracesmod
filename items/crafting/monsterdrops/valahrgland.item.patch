@@ -2,4 +2,6 @@
 "Орган, используемый Валарами для создания сильнодействующих ядов."
 },{"op":"replace","path":"/shortdescription","value":
 "Ядовитая железа Валара"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

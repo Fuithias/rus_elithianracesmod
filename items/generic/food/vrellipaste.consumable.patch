@@ -2,4 +2,6 @@
 "Липкая паста из измельченных листьев Врелли."
 },{"op":"replace","path":"/shortdescription","value":
 "Паста Врелли"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

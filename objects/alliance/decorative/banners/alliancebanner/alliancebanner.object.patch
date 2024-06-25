@@ -10,4 +10,6 @@
 "Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Элитского Альянса."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки знает этот символ! Альянс-Элитиан."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

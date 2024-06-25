@@ -26,4 +26,6 @@
 "Обнаружена местная форма жизни Акрис. Кристалл Саграсса."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Саграсса вкусная-очень! Снаружи-хрустящие, внутри-молочные."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

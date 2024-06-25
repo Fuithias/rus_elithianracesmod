@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Плита для приготовления пищи Авикан^белая;"
+"^orange;Плита готовки Авикан^белая;"
 },{"op":"replace","path":"/description","value":
 "Используется для приготовления различных блюд."
 },{"op":"replace","path":"/apexDescription","value":
@@ -26,4 +26,8 @@
 "Обнаружена плита для приготовления пищи. Этот агрегат может заправляться, используя натуральные продукты."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Пластина-косточка для приготовления пищи."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Плита готовки"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

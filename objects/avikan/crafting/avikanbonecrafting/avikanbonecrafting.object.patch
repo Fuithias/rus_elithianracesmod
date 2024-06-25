@@ -54,8 +54,12 @@
 "Анализ завершен. Стол Косторезчика. Используется для изготовления оборудования и других предметов из кости."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки вырезает кости здесь!"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Стол Косторезчика"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Костяные предметы и снаряжение"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Костеобрабатывающий станок Авикан^white;"
+"^orange;Станок Костобработки Авикан^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Станция обработки костей используется для изготовления предметов из костей монстров."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -82,4 +86,10 @@
 "Анализ завершен. Костяная станция. Используется для изготовления оборудования и других предметов из кости."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Машина делает инструменты-кость. Акки проще."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Станок Костобработки"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Костяные предметы и снаряжение"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

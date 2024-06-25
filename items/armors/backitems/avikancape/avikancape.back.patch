@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Плащ авиканца, сделанный из двух длинных листов кожи."
 },{"op":"replace","path":"/shortdescription","value":
 "Плащ авиканца"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

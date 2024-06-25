@@ -2,4 +2,6 @@
 "Прочный и легкий сплав железа."
 },{"op":"replace","path":"/shortdescription","value":
 "Аллостил"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

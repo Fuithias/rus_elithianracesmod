@@ -2,4 +2,6 @@
 "^green;Аеги. ^white;Маска ужаса Эрхиуса для празднования Ужасающего!"
 },{"op":"replace","path":"/shortdescription","value":
 "Маска ужаса Эрхиуса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

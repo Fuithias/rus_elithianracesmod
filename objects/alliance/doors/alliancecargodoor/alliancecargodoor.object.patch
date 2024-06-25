@@ -26,4 +26,6 @@
 "Грузовая дверь. Дизайн инопланетян удивительно знаком."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Дверь-большая. Транспортное средство-большое место."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

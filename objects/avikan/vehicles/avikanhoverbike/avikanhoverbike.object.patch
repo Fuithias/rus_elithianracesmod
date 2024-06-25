@@ -24,4 +24,6 @@
 "Кефф обнаружен. Владелец: неизвестен."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Мотоцикл-инопланетянин, выглядит быстрым."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

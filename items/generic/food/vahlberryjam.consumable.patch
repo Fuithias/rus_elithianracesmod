@@ -2,4 +2,6 @@
 "Вкусное и витаминное варенье."
 },{"op":"replace","path":"/shortdescription","value":
 "Валберри Джем"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

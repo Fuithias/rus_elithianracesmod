@@ -26,4 +26,6 @@
 "Обнаружен космический корабль пришельцев. Статус: списан."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки разбирай детали, делай новый корабль. Корабль-лучше!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

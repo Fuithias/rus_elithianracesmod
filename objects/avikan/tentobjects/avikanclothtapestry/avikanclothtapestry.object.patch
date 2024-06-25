@@ -24,4 +24,6 @@
 "Сканирование завершено. Материал: ткань."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Гобелен-ткань, Акки используют как полотенце."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

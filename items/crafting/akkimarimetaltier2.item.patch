@@ -2,4 +2,6 @@
 "Ржавые куски металлолома, собранные из разных источников."
 },{"op":"replace","path":"/shortdescription","value":
 "Ржавый металлолом"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

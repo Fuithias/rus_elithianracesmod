@@ -2,4 +2,6 @@
 "Ледяная бутылка Фрозы, самой популярной газировки в Союзе."
 },{"op":"replace","path":"/shortdescription","value":
 "Бутылка Фрозы"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

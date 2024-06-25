@@ -2,4 +2,6 @@
 "^green;Тринки. ^orange;СЛОТ НОГ. ^white;Мод тела из среднесортного дюростали."
 },{"op":"replace","path":"/shortdescription","value":
 "Мод тела Мк IV"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

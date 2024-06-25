@@ -54,6 +54,10 @@
 "Анализ завершен. Каменная кузница. Температура недостаточна для плавки руд."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки используют тепло и куют материалы. Акки фарамасса!"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Каменная кузница"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Металлы и материалы для ремесла"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
 "^orange;Комплексная кузница^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
@@ -82,6 +86,10 @@
 "Анализ завершен. Чужая кузница. Переменная температура."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Акки используют тепло и куют материалы. Акки фарамасса!"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Комплексная кузница"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Металлы и материалы для ремесла"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
 "^orange;Ядерная кузница^white;"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
@@ -110,4 +118,10 @@
 "Анализ не удался. Тепловая сигнатура превышает максимальные значения. Ошибка."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
 "Акки осторожен с кузнечно-ядерным оружием. Ковать-расплавлять что угодно!"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Ядерная кузница"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Металлы и материалы для ремесла"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Механическая рука со встроенной системой линейного заряда."
 },{"op":"replace","path":"/shortdescription","value":
 "Механическая рука линейной винтовки"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -4,4 +4,6 @@
 "Контроллер драла"
 },{"op":"replace","path":"/category","value":
 "Пульт управления"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

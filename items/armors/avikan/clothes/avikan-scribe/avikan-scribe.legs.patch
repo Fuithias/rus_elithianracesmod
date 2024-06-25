@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Кожаная юбка, которую носят писцы Номады."
 },{"op":"replace","path":"/shortdescription","value":
 "Юбка писца"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

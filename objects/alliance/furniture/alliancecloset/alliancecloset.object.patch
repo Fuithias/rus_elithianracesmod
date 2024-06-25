@@ -26,4 +26,6 @@
 "Обнаружено хранилище инопланетян. Сканирование предметов."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Вещей-много внутри. Инопланетяне хранят предметы — странно."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

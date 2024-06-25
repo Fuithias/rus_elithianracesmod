@@ -2,4 +2,6 @@
 "Странная густая жидкость, которая, кажется, не принадлежит этой вселенной."
 },{"op":"replace","path":"/shortdescription","value":
 "Центенсийская жидкость"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

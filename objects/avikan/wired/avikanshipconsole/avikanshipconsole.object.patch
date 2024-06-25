@@ -26,4 +26,6 @@
 "Анализ. Консоль. Используется для взаимодействия с различными системами."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Пульт-маленький, для управления вещами-маленький?"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

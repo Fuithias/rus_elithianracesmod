@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Прочная кожаная юбка, идеально подходящая для путешественников по пустыне."
 },{"op":"replace","path":"/shortdescription","value":
 "Юбка путешественника"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "Универсальная схема имеется в большинстве электрооборудования Аккимари."
 },{"op":"replace","path":"/shortdescription","value":
 "Акрис Схема"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

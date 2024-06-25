@@ -26,4 +26,10 @@
 "Обнаружено инопланетное устройство. Анализ: раздает напитки в обмен на валюту."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки хочет выпить. Акки разбила стекло?"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Торговый автомат газировки"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Самые лучшие напитки в Союзе"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

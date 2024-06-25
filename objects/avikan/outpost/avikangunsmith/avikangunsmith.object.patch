@@ -12,4 +12,10 @@
 "Обнаружен сертифицированный оружейник Авангард. Здесь отряд может приобрести новые схемы оружия."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки покупает чертежи, делает вещи новыми."
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
+" Оружейная мастерская Аюрина"
+},{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" Схемы оружия и снаряжения."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

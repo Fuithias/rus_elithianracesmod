@@ -26,4 +26,6 @@
 "Обнаружен дрон, построенный пришельцами. Модель Флик."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Флик-крошка, держи Аккимари под контролем."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

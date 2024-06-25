@@ -2,4 +2,6 @@
 "^green;Общее. ^white;Генератор высокой интенсивности для защиты головы."
 },{"op":"replace","path":"/shortdescription","value":
 "Щит для головы Х-и"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Нагрудная пластина и шарф, носимые теми, кто разделывает инопланетные корабли на запчасти"
 },{"op":"replace","path":"/shortdescription","value":
 "Кираса вандала"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

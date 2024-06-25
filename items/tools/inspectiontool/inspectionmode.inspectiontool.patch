@@ -14,4 +14,6 @@
 "Невозможно прочитать цель."
 },{"op":"replace","path":"/nothingThereText/droden/3","value":
 "Ошибка. Пустой."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

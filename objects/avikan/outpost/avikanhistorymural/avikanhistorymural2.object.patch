@@ -14,4 +14,6 @@
 "Обнаружена фреска. Анализ: описание открытия Вас Валейха."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Мурал-большой. Расскажи историю, но Акки плевать."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

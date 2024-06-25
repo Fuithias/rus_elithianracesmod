@@ -26,4 +26,6 @@
 "Анализ. Обнаружен Centensian интерфейс."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Столб-свет, интерфейс-странный. Акки прикосновение, смена столбов!"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

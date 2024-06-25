@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Элегантный, но прочный череп, который носят авиканские Следопыты."
 },{"op":"replace","path":"/shortdescription","value":
 "Череп следопыта"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

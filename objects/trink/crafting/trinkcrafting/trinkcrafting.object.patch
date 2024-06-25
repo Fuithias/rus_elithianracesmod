@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Сборщик цепей^white;"
+"^orange;Сборщик Схемы^white;"
 },{"op":"replace","path":"/description","value":
 "Сборочный стол для изготовления тринкианских предметов."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Рабочий стол-инопланетянин, Акки мастерит здесь вещи."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Сборщик цепей^white;"
+"^orange;Сборщик Схемы^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Сборочный стол для изготовления тринкианских предметов."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
@@ -54,8 +54,12 @@
 "Обнаружен машинный рабочий стол."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Рабочий стол-инопланетянин, Акки мастерит здесь вещи."
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
+" Сборщик Схемы"
+},{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение тринков"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Конструктор схем^white;"
+"^orange;Конструктор Схемы^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Частично автоматизированная производственная машина тринков."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -82,8 +86,12 @@
 "Обнаружена ремесленная станция. Происхождение: машинное."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Большая пресса, сделайте вещи плоскими. Акки использую для крафта."
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
+" Конструктор Схемы"
+},{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение тринков"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/shortdescription","value":
-"^orange;Изготовитель схем^white;"
+"^orange;Изготовитель Схемы^white;"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
 "Полностью автоматическая производственная машина тринков."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
@@ -110,4 +118,10 @@
 "Обнаружена система печати. Анализ: машинный."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/akkimariDescription","value":
 "Автоматизированный производитель: сделайте все, что нужно акки."
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title","value":
+" Изготовитель Схемы"
+},{"op":"replace","path":"/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle","value":
+" ^#b9b5b2;Предметы и снаряжение тринков"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

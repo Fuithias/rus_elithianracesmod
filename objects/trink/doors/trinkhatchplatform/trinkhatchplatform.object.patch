@@ -12,4 +12,6 @@
 "Обнаружен встроенный в машину люк. Дизайн включает в себя встроенную платформу."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Люк металлический, Акки стоят на платформе даже в открытом состоянии."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

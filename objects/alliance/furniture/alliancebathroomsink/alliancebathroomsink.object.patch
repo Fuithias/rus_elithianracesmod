@@ -26,4 +26,6 @@
 "Обнаружен инопланетный источник воды."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Небольшой источник-вода."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

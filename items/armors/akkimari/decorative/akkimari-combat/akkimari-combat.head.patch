@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Тяжелый шлем, обеспечивающий превосходную защиту в бою."
 },{"op":"replace","path":"/shortdescription","value":
 "Боевой шлем"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

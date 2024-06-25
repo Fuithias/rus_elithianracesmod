@@ -2,4 +2,6 @@
 "Тяжелые опорные балки конструкции."
 },{"op":"replace","path":"/shortdescription","value":
 "Луч поддержки Альянса"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -2,4 +2,6 @@
 "^green;Аккимари. ^white;Свободная праща, которую носят кузнецы"
 },{"op":"replace","path":"/shortdescription","value":
 "Грубая кузнечная перевязь"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

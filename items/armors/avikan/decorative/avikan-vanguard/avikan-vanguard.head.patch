@@ -2,4 +2,6 @@
 "^green;Авикане. ^white;Прочный шлем, выдаваемый солдатам авиканского авангарда."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем Авангарда"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

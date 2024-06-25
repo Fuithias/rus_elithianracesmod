@@ -2,4 +2,6 @@
 "Создает щит, который поглощает небольшое количество урона, прежде чем сломаться."
 },{"op":"replace","path":"/shortdescription","value":
 "Улучшение пузырькового щита I"
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]

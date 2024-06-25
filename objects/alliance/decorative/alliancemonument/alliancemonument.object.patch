@@ -26,4 +26,6 @@
 "Обнаружен памятник инопланетянам. База данных предполагает, что планета называется Элития."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки слышал, что эта планета — Элития."
+},{"op":"add","path":"/builder","value":
+"/items/buildscripts/thea-build_rus_item.lua"
 }]
