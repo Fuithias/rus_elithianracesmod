@@ -1,11 +1,11 @@
 {
+  "version" : "0.6.3",
+  "tags" : "Miscellaneous|User Interface",
   "author" : "Fuithias",
   "description" : "[h1]RUSSIAN LOCALIZATION PATCH[/h1][hr][h2]Russian translation for Elithian Races Mod[/h2][h3]Currently in the [u]translation[/u] stage![/h3]\n[h1]It's better to use this ERM version on [url=https://github.com/Aegonian/ElithianAllianceStarboundMod]ERM-github[/url]![/h1]\nFor all translation errors and bugs, please post on [url=https://github.com/Fuithias/rus_elithianracesmod]github[/url]. Also desire to help is welcome!",
-  "friendlyName" : "[RUS] Elithian Races Mod",
-  "includes" : ["Elithian_Races_Mod"],
-  "link" : "steam://url/CommunityFilePage/3259612192",
   "name" : "RUS_Elithian_Races_Mod",
+  "friendlyName" : "[RUS] Elithian Races Mod",
   "steamContentId" : "3259612192",
-  "tags" : "Miscellaneous|User Interface",
-  "version" : "0.6.3"
+  "link" : "steam://url/CommunityFilePage/3259612192",
+  "includes" : ["Elithian_Races_Mod"]
 }
