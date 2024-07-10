@@ -5,7 +5,7 @@
 },{"op":"replace","path":"/apexDescription","value":
 "В этом туалете используется специальная технология очистки, обеспечивающая идеальную гигиену."
 },{"op":"replace","path":"/avianDescription","value":
-"Место для помета."
+"Место для помёта."
 },{"op":"replace","path":"/floranDescription","value":
 "Блестящее место для вонючего бизнеса."
 },{"op":"replace","path":"/glitchDescription","value":

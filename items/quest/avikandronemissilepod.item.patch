@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Ракетная установка, отколовшаяся от элитного подразделения Драл. Его еще можно было починить."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Сломанная ракетная установка^white;"
+"^#BA66FF;Сломанная ракетница^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

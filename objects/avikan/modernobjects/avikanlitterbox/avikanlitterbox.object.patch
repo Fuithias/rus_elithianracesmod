@@ -23,7 +23,7 @@
 },{"op":"replace","path":"/trinkDescription","value":
 "Мусорный ящик. Простая, но эффективная альтернатива унитазу."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружен помет Авикана. Рекомендую почистить."
+"Обнаружен помёт авикан. Рекомендую почистить."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Туалет-инопланетянин, полный какашек."
 },{"op":"add","path":"/builder","value":

@@ -9,7 +9,7 @@
 },{"op":"replace","path":"/floranDescription","value":
 "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана..."
 },{"op":"replace","path":"/glitchDescription","value":
-"Заинтригован. Этот в. роботов для меня новый."
+"Заинтригован. Этот тип роботов для меня новый."
 },{"op":"replace","path":"/humanDescription","value":
 "Простой мастер-класс по сборке деталей робота."
 },{"op":"replace","path":"/hylotlDescription","value":
@@ -37,7 +37,7 @@
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/floranDescription","value":
 "Metalman делает здесь больше металлистов. Флоран предпочитает размножение Флорана..."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/glitchDescription","value":
-"Заинтригован. Этот в. роботов для меня новый."
+"Заинтригован. Этот тип роботов для меня новый."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/humanDescription","value":
 "Простой мастер-класс по сборке деталей робота."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/hylotlDescription","value":
@@ -97,7 +97,7 @@
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
 "Миниатюрная автоматизированная фабрика роботов. Лучше не позволять Миникногам заполучить один из них."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
-"Небольшая фабрика роботов. Он создает только один в. робота."
+"Небольшая фабрика роботов. Он создает только один тип робота."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":
 "Это завод делает металлистов? Флоран не знаю, что об этом думать."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/glitchDescription","value":

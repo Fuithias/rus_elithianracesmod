@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"Подствольный гранатомет."
+"Подствольный гранатомёт."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Гранатомет"
+"Гранатомёт"
 },{"op":"replace","path":"/category","value":
 "Крепление для оружия"
 }]

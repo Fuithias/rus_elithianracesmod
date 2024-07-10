@@ -1,8 +1,8 @@
 {
-  "version" : "0.6.3",
+  "version" : "0.6.4",
   "tags" : "Miscellaneous|User Interface",
   "author" : "Fuithias",
-  "description" : "[h1]RUSSIAN LOCALIZATION PATCH[/h1][hr][h2]Russian translation for Elithian Races Mod[/h2][h3]Currently in the [u]translation[/u] stage![/h3]\n[h1]It's better to use this ERM version on [url=https://github.com/Aegonian/ElithianAllianceStarboundMod]ERM-github[/url]![/h1]\nFor all translation errors and bugs, please post on [url=https://github.com/Fuithias/rus_elithianracesmod]github[/url]. Also desire to help is welcome!",
+  "description" : "[h1][b]Russifier for Elithian Races Mod![/b][/h1]\n[h3][b]Under [u]translation[/u]![/b][/h3]\n[h2][b]Recommended to use the [url=https://github.com/Aegonian/ElithianAllianceStarboundMod]Elithian Races Mod GitHub[/url]version![/b][/h2]\n\n[h3][b]Recommended this mod as a russifier for the main game:[/b][/h3]\n[b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1479502162][RUS] Русификатор Starbound (1.4.4)[/url][/b]\n\n[b]Goes on mod version: 2.3.4+[/b].\n[b]GitHub link for this mod: [url=https://github.com/Fuithias/rus_elithianracesmod]rus_elithianracesmod[/url][/b].\n\nFor [b]bugs[/b] and translation issues, please report on [b][url=https://github.com/Fuithias/rus_elithianracesmod]GitHub[/url][/b] or in [b][url=https://steamcommunity.com/workshop/filedetails/discussion/3259612192/4330853446698469233]discussion[/url][/b] (preferably with a screenshot).\n\n[h2]Information:[/h2]\n[list]\n[*]Descriptions of captured monsters, before the installation of the Russifier, will not be translated.\n[*]Quests received before the installation of the Russifier, will not be translated.\n[/list]",
   "name" : "RUS_Elithian_Races_Mod",
   "friendlyName" : "[RUS] Elithian Races Mod",
   "steamContentId" : "3259612192",

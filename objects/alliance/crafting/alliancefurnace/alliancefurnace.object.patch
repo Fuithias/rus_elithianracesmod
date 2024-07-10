@@ -95,7 +95,7 @@
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/description","value":
 "Компактная плавильная камера, способная плавить гиверианиты."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/apexDescription","value":
-"Какой-то в. компактной термоядерной камеры. Ничто не выдержит такой жары."
+"Какой-то тип компактной термоядерной камеры. Ничто не выдержит такой жары."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avianDescription","value":
 "Этот прибор горит ярче солнца! Как это возможно?"
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/floranDescription","value":

@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Мощный гвоздомет, созданный для строительных работ.^reset;"
+"^gray;Мощный гвоздомёт, созданный для строительных работ.^reset;"
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;Судостроение Бриггс^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Гвоздомет Бриггс"
+"Гвоздомёт Бриггс"
 },{"op":"replace","path":"/category","value":
-"Гвоздомет"
+"Гвоздомёт"
 }]

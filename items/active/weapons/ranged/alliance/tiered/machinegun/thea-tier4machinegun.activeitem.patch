@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Пулемет, идеально подходящий для длительной стрельбы."
+"^gray;Пулемёт, идеально подходящий для длительной стрельбы."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":
 "Гомер РС-2"
 },{"op":"replace","path":"/category","value":
-"Пулемет"
+"Пулемёт"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^gray;Ручная граната, используемая солдатами Альянса.^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Граната в.а 2"
+"Граната тип 2"
 },{"op":"replace","path":"/category","value":
 "Бросаемый"
 }]

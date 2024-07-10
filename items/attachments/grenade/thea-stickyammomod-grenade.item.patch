@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Боеприпасы для гранатомета, прилипающие к поверхности и взрывающиеся при приближении."
+"Боеприпасы для гранатомёта, прилипающие к поверхности и взрывающиеся при приближении."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":

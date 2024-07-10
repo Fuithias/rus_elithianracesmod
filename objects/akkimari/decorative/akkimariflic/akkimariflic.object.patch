@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
 "Неактивный фильм"
 },{"op":"replace","path":"/description","value":
-"Неактивный дрон в.а Аккимари Флик."
+"Неактивный дрон типа Аккимари Флик."
 },{"op":"replace","path":"/apexDescription","value":
 "Крошечный дрон."
 },{"op":"replace","path":"/avianDescription","value":

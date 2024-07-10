@@ -3,7 +3,7 @@
 },{"op":"replace","path":"/description","value":
 "Громоздкий металлический контейнер от Акрис."
 },{"op":"replace","path":"/apexDescription","value":
-"Странный в. ящика."
+"Странный тип ящика."
 },{"op":"replace","path":"/avianDescription","value":
 "Громоздкий ящик. Почему он такой закругленный?"
 },{"op":"replace","path":"/floranDescription","value":
@@ -11,7 +11,7 @@
 },{"op":"replace","path":"/glitchDescription","value":
 "Озадаченный. В чем причина округлой формы этого ящика?"
 },{"op":"replace","path":"/humanDescription","value":
-"Странный в. ящика."
+"Странный тип ящика."
 },{"op":"replace","path":"/hylotlDescription","value":
 "Громоздкий, несколько округлый ящик."
 },{"op":"replace","path":"/novakidDescription","value":

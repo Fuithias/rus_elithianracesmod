@@ -223,7 +223,7 @@
 },{"op":"replace","path":"/collectables/thea-lightrunner/title","value":
 "Ц42 Бегущий по свету"
 },{"op":"replace","path":"/collectables/thea-lightrunner/description","value":
-"Протов. оружия, созданный в результате секретного исследовательского проекта."
+"Прототип оружия, созданный в результате секретного исследовательского проекта."
 },{"op":"replace","path":"/collectables/akkimari-shalakkaritualstaff/title","value":
 "Ритуальный посох Шалакка"
 },{"op":"replace","path":"/collectables/akkimari-shalakkaritualstaff/description","value":
@@ -311,7 +311,7 @@
 },{"op":"replace","path":"/collectables/avikan-seekersmg/title","value":
 "Искатель МЛР-02"
 },{"op":"replace","path":"/collectables/avikan-seekersmg/description","value":
-"Протов. компактной лайнтовки, разработанный Ищущими."
+"Прототип компактной лайнтовки, разработанный Ищущими."
 },{"op":"replace","path":"/collectables/thea-branditzer/title","value":
 "Брандитцер Тип-1"
 },{"op":"replace","path":"/collectables/thea-branditzer/description","value":

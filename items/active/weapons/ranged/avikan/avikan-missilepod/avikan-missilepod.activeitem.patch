@@ -3,9 +3,9 @@
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;Авангард^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Ракетная установка Авангарда"
+"Ракетница Авангарда"
 },{"op":"replace","path":"/category","value":
-"Ракетная установка"
+"Ракетница"
 },{"op":"replace","path":"/altAbility/name","value":
 "Ракетный залп"
 }]

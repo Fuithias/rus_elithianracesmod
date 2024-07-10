@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"^green;Авикане. ^white;Старый дизайн, этот в. шлема носили ранние авиканские астронавты."
+"^green;Авикане. ^white;Старый дизайн, этот тип шлема носили ранние авиканские астронавты."
 },{"op":"replace","path":"/shortdescription","value":
 "Шлем астронавта"
 },{"op":"add","path":"/builder","value":

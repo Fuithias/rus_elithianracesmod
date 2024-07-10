@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
 "Неактивный арбитр"
 },{"op":"replace","path":"/description","value":
-"Неактивный дрон в.а Аккимари Арбитр."
+"Неактивный дрон типа Аккимари Арбитр."
 },{"op":"replace","path":"/apexDescription","value":
 "Этот дрон выглядит готовым к бою."
 },{"op":"replace","path":"/avianDescription","value":

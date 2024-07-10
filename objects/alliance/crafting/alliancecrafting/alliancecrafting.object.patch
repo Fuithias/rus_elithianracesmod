@@ -79,7 +79,7 @@
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/aegiDescription","value":
 "3D-принтер Машиностроения Энерт. Он может производить много вещей."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/avikanDescription","value":
-"Какой-то в. крафтового устройства. Я не совсем уверен, как это работает."
+"Какой-то тип крафтового устройства. Я не совсем уверен, как это работает."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/trinkDescription","value":
 "Эффективный 3D-принтер."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/drodenDescription","value":
@@ -111,7 +111,7 @@
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/aegiDescription","value":
 "Новейшее производственное подразделение Машиностроения Энерт. Из сырья можно изготовить практически всё."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/avikanDescription","value":
-"Какой-то в. крафтового устройства. Я не совсем уверен, как это работает."
+"Какой-то тип крафтового устройства. Я не совсем уверен, как это работает."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/trinkDescription","value":
 "Высокоэффективное производственное подразделение. Энерт следует похвалить за изобретательность."
 },{"op":"replace","path":"/upgradeStages/2/itemSpawnParameters/drodenDescription","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Боеприпасы для гранатомета, кратковременно оглушающие цель при взрыве."
+"Боеприпасы для гранатомёта, кратковременно оглушающие цель при взрыве."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":

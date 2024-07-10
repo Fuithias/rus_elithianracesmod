@@ -1,11 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Гранатомет, изготовленный где-то на Рубеже.^reset;"
+"^gray;Гранатомёт, изготовленный где-то на Рубеже.^reset;"
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;Рубеж^reset;"
 },{"op":"replace","path":"/shortdescription","value":
 "Упряжа РМ22 (НИП)"
 },{"op":"replace","path":"/category","value":
-"Гранатомет"
+"Гранатомёт"
 },{"op":"replace","path":"/altAbility/name","value":
 "Зажигающая граната"
 }]

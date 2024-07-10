@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"Подствольный липкий гранатомет."
+"Подствольный липкий гранатомёт."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Липкий гранатомет"
+"Липкий гранатомёт"
 },{"op":"replace","path":"/category","value":
 "Крепление для оружия"
 }]

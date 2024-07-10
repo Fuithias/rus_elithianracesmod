@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Мощный самодельный огнемет.^reset;"
+"^gray;Мощный самодельный огнемёт.^reset;"
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;Келрааки^reset;"
 },{"op":"replace","path":"/shortdescription","value":
-"Огнемет Акриса"
+"Огнемёт Акриса"
 },{"op":"replace","path":"/category","value":
-"Огнемет"
+"Огнемёт"
 }]

@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Скорострельный пистолет-пулемет Альянса.^reset;"
+"^gray;Скорострельный пистолет-пулемёт Альянса.^reset;"
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;АТРОС Армс^reset;"
 },{"op":"replace","path":"/shortdescription","value":
 "АТРОС ПП-М1"
 },{"op":"replace","path":"/category","value":
-"Пистолет-пулемет"
+"Пистолет-пулемёт"
 }]

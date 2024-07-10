@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Базовый гранатомет."
+"^gray;Базовый гранатомёт."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":
 "Барон M-12"
 },{"op":"replace","path":"/category","value":
-"Гранатомет"
+"Гранатомёт"
 }]

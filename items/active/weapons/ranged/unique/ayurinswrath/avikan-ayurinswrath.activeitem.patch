@@ -5,7 +5,7 @@
 },{"op":"replace","path":"/shortdescription","value":
 "^orange;Гнев Аюрина^white;"
 },{"op":"replace","path":"/category","value":
-"Ракетная установка"
+"Ракетница"
 },{"op":"replace","path":"/altAbility/name","value":
 "Ракетный залп"
 }]

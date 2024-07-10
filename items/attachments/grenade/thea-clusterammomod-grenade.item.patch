@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Боеприпасы для гранатомета, при детонации выпускающие небольшие кассетные гранаты."
+"Боеприпасы для гранатомёта, при детонации выпускающие небольшие кассетные гранаты."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":

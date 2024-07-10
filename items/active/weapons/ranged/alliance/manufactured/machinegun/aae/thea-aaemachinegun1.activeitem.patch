@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Пулемет, идеально подходящий для длительной стрельбы.^reset;"
+"^gray;Пулемёт, идеально подходящий для длительной стрельбы.^reset;"
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;ПАИ^reset;"
 },{"op":"replace","path":"/shortdescription","value":
 "Плутарх РС-6"
 },{"op":"replace","path":"/category","value":
-"Пулемет"
+"Пулемёт"
 }]
