@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"^gray;Собирает мясо и другие продукты с чудовищ."
+"^gray;Собирает мясо и другие продукты с монстров."
 },{"op":"replace","path":"/manufacturer","value":
 "^gray;Бредон Армс^reset;"
 },{"op":"replace","path":"/shortdescription","value":

@@ -29,18 +29,18 @@ function update(dt)
 	  if root.itemHasTag(scrapItemConfig.config.itemName, "weapon") then
 		local convertedItems = createMaterials(scrapItemConfig)
 		if convertedItems then
-		  widget.setText("itemLevelLabel", "level: " .. scrapItemLevel)
+		  widget.setText("itemLevelLabel", "ур: " .. scrapItemLevel)
 		  widget.setButtonEnabled("btnDismantle", true)
 		else
-		  widget.setText("itemLevelLabel", "slots full")
+		  widget.setText("itemLevelLabel", "слоты забиты")
 		  widget.setButtonEnabled("btnDismantle", false)
 		end
 	  else
-		widget.setText("itemLevelLabel", "invalid item")
+		widget.setText("itemLevelLabel", "неверная вещь")
 		widget.setButtonEnabled("btnDismantle", false)
 	  end
 	else
-	  widget.setText("itemLevelLabel", "insert item")
+	  widget.setText("itemLevelLabel", "вставь вещь")
 	  widget.setButtonEnabled("btnDismantle", false)
 	end
   end

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Простой, но мощный фонарь, созданный компанией Энерт Проектирование."
 },{"op":"replace","path":"/shortdescription","value":
-"Фонарик Енерт"
+"Фонарик Энерт"
 },{"op":"replace","path":"/category","value":
 "Фонарик"
 },{"op":"add","path":"/builder","value":

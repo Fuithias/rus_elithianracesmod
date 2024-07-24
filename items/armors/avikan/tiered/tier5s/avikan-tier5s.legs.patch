@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Авикане. ^white;Кожаная юбка с металлическими пластинами по бокам. Здоровая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Юбка Номады в.-З"
+"Юбка Номады в.З"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

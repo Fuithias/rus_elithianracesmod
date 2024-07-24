@@ -9,7 +9,7 @@
 },{"op":"replace","path":"/energyPerSecondTitleLabel/value","value":
 "Энергии на удержание:"
 },{"op":"replace","path":"/descriptionLabel/value","value":
-"Собирает с чудовищ мясо и другие продукты."
+"Собирает с монстров мясо и другие продукты."
 },{"op":"replace","path":"/customRarityLabel/value","value":
 "Важный"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Аккимари. ^white;Боевой шлем с тактическим визором. Здоровая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Шлем налетчика р.С"
+"Шлем налётчика р.З"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

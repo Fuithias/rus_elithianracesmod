@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Аеги. ^white;Чрезвычайно прочный металлический нагрудник. Здоровая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Боевой скафандр Союза в.-З"
+"Боевой костюм Союза в.З"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

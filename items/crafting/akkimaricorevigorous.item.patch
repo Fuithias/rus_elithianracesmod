@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Силовое ядро ​​брони Аккимари. Увеличивает запасы здоровья пользователя."
+"Силовое ядро ​​брони аккимари. Увеличивает запасы здоровья пользователя."
 },{"op":"replace","path":"/shortdescription","value":
-"Дефлектор Сердечник RS"
+"Ядро отражателя р.З"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

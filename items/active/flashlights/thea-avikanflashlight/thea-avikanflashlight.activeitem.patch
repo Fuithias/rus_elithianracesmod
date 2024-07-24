@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Мощный фонарь с широким светом."
 },{"op":"replace","path":"/shortdescription","value":
-"Номадский фонарик"
+"Фонарик Номады"
 },{"op":"replace","path":"/category","value":
 "Фонарик"
 },{"op":"add","path":"/builder","value":

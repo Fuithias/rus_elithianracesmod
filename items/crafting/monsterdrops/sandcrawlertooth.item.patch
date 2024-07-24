@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Зуб кадаванского песчаного краулера."
+"Зуб кадаванского пескополза."
 },{"op":"replace","path":"/shortdescription","value":
-"Зуб песчаного краулера"
+"Зуб пескополза"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Баллистическая пластина, способная поглощать мощные удары."
 },{"op":"replace","path":"/shortdescription","value":
-"Баллистическая пластина"
+"Броне-пластина"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

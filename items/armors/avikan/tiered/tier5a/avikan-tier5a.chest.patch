@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Авикане. ^white;Металлический нагрудник с внутренним охлаждением. Энергичная версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Броня Номады в.-Э"
+"Броня Номады в.Э"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

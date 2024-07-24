@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Красочная ткань, используемая для изготовления различных предметов."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Ткань"
+"Ткань авикан"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

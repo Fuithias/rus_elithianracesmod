@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Одноразовый проектор, который временно скрывает пользователя из поля зрения."
 },{"op":"replace","path":"/shortdescription","value":
-"Маскирующий проектор Акрис"
+"Маск-проектор Акрис"
 },{"op":"replace","path":"/category","value":
 "Расходный материал"
 },{"op":"add","path":"/builder","value":

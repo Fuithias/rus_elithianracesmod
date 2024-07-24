@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Прочное стекло, используемое для изготовления предметов."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Стекло"
+"Стекло авикан"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

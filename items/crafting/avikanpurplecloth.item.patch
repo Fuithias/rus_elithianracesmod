@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Ткань фиолетового цвета, используемая для создания предметов в стиле Райода."
+"Ткань фиолетового цвета, используемая для создания предметов в стиле Райоды."
 },{"op":"replace","path":"/shortdescription","value":
-"Ткань Райод"
+"Ткань Райоды"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

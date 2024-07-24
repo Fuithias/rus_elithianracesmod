@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Банка вкусного Коруса."
 },{"op":"replace","path":"/shortdescription","value":
-"Корус Кан"
+"Банка Коруса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

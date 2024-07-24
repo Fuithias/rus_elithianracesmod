@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Дродены. ^white;Улучшение каркаса для элитных боевых единиц. Силовая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Каркас элиты в.-С"
+"Каркас элиты в.С"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

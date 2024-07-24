@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Эта мотыга позволяет вспахивать почву. Обработанную почву можно использовать для выращивания самых разных культур!"
 },{"op":"replace","path":"/shortdescription","value":
-"Тринкиан Мотыга"
+"Мотыга тринков"
 },{"op":"replace","path":"/category","value":
 "Инструмент"
 },{"op":"add","path":"/builder","value":

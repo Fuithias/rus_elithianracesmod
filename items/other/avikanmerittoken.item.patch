@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Знак заслуг, чтобы показать свою ценность среди Авикан."
+"Знак заслуг, чтобы показать свою ценность среди авикан."
 },{"op":"replace","path":"/shortdescription","value":
 "^#0094FF;Знак заслуг^white;"
 },{"op":"add","path":"/builder","value":

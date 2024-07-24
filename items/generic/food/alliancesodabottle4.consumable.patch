@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Бутылка вкусного вина Valassa, приготовленного из лучших ягод Vahlberry Союза."
+"Бутылка вкусного вина Валасса, приготовленного из лучших ягод валины в Союзе."
 },{"op":"replace","path":"/shortdescription","value":
 "Бутылка Валасса"
 },{"op":"add","path":"/builder","value":

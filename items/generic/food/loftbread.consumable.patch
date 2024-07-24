@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Хлеб, приготовленный из лофтзерна. Очень вкусно."
+"Хлеб, приготовленный из лофтзёрна. Очень вкусно."
 },{"op":"replace","path":"/shortdescription","value":
 "Лофтхлеб"
 },{"op":"add","path":"/builder","value":

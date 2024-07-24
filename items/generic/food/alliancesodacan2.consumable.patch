@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Банка игристого Ле'мар."
 },{"op":"replace","path":"/shortdescription","value":
-"Лемар Кан"
+"Банка Ле'мар"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

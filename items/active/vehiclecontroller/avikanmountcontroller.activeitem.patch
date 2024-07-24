@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Призывает Гад'ура из грузового отсека вашего корабля."
+"Вызывает гад'ура из грузового отсека вашего корабля."
 },{"op":"replace","path":"/shortdescription","value":
-"Контроллер Гад'ура"
+"Вызов гад'ура"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Увеличенный металлический куб, который легко хранить и можно использовать для изготовления."
+"Куб из улучшенного металла, легко хранится и готов к изготовлению."
 },{"op":"replace","path":"/shortdescription","value":
-"Возвышенный тринкианский металл"
+"Высший металл тринков"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

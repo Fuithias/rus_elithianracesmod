@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Образец телиальной мышечной ткани. Оно все еще движется."
+"Образец телеанской мышечной ткани. Оно все еще движется."
 },{"op":"replace","path":"/shortdescription","value":
 "Телеанский усик"
 },{"op":"add","path":"/builder","value":

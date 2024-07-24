@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Эта лицензия является официальным подтверждением вашего статуса как Keffrider."
+"Эта лицензия является официальным подтверждением вашего статуса как кеффохода."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Лицензия Кеффрайдера^white;"
+"^#BA66FF;Лицензия кеффохода^white;"
 },{"op":"replace","path":"/category","value":
 "Охранный пропуск"
 },{"op":"add","path":"/builder","value":

@@ -15,14 +15,14 @@ function update(dt)
 	local scrapItemConfig = root.itemConfig(scrapItem)
 	local scrapItemLevel = scrapItemConfig.parameters.level or scrapItemConfig.config.level or 1
 	if root.itemHasTag(scrapItemConfig.config.itemName, "weapon") then
-	  widget.setText("itemLevelLabel", "level: " .. scrapItemLevel)
+	  widget.setText("itemLevelLabel", "ур: " .. scrapItemLevel)
 	  widget.setButtonEnabled("btnDismantle", true)
 	else
-	  widget.setText("itemLevelLabel", "invalid!")
+	  widget.setText("itemLevelLabel", "неверно!")
 	  widget.setButtonEnabled("btnDismantle", false)
 	end	
   else
-	widget.setText("itemLevelLabel", "no item!")
+	widget.setText("itemLevelLabel", "нет вещи!")
 	widget.setButtonEnabled("btnDismantle", false)
   end
 end

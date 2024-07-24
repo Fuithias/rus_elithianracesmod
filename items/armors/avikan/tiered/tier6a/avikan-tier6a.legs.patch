@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Авикане. ^white;Великолепная металлическая юбка, надеваемая членами Клангарда авикан. Энергичная версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Юбка Клангарда в.-Э"
+"Юбка Клангарда в.Э"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

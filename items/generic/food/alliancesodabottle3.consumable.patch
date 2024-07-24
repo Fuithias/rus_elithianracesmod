@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Бутылка Corus, коричневого и игристого."
+"Бутылка Коруса, бурого и шипучего."
 },{"op":"replace","path":"/shortdescription","value":
 "Бутылка Коруса"
 },{"op":"add","path":"/builder","value":

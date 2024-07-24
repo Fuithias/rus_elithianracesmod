@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Аккимари. ^white;Боевые поножи из прочных металлов. Силовая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Поножи налетчика р.М"
+"Поножи налётчика р.С"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

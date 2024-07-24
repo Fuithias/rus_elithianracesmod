@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Примитивный, но эффективный способ полива урожая."
 },{"op":"replace","path":"/shortdescription","value":
-"Мешок для полива авикан"
+"Полив-мешок авикан"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

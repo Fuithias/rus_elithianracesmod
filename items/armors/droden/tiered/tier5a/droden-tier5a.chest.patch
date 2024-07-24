@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Дродены. ^white;Одобренное Номадой улучшение каркаса. Энергичная версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Каркас Номады в.-Э"
+"Каркас Номады в.Э"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

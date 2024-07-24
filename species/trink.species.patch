@@ -21,7 +21,7 @@
 },{"op":"replace","path":"/charGenTextLabels/7","value":
 "Цвет мода тела"
 },{"op":"replace","path":"/charGenTextLabels/8","value":
-"ТРИНКИ"
+"ТРИНК"
 },{"op":"replace","path":"/charGenTextLabels/9","value":
 "Личность"
 }]

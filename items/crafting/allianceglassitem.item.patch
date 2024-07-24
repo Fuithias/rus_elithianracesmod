@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Кусок очень прочного стеклоподобного пластика."
 },{"op":"replace","path":"/shortdescription","value":
-"Резогласс"
+"Резоглас"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

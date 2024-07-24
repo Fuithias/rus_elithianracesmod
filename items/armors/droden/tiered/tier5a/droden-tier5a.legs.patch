@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Дродены. ^white;Одобренное Номадой улучшение ног. Энергичная версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Ноги Номады в.-Э"
+"Ноги Номады в.Э"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

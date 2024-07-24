@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "^green;Дродены. ^white;Улучшение головы для элитных боевых единиц. Здоровая версия."
 },{"op":"replace","path":"/shortdescription","value":
-"Голова элиты в.-З"
+"Голова элиты в.З"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

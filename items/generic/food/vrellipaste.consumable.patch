@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Липкая паста из измельченных листьев Врелли."
+"Липкая паста из измельченных листьев врелли."
 },{"op":"replace","path":"/shortdescription","value":
 "Паста Врелли"
 },{"op":"add","path":"/builder","value":

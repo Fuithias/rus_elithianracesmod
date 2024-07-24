@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Кусочек дюнной булочки, покрытый джемом болбон."
+"Кусочек дюнной булочки, покрытый джемом болбона."
 },{"op":"replace","path":"/shortdescription","value":
-"Болбонская булочка"
+"Болбонская слойка"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

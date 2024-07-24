@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Призывает Дрека из грузового отсека вашего корабля."
+"Вызывает дрека из грузового отсека вашего корабля."
 },{"op":"replace","path":"/shortdescription","value":
-"Контроллер Дрека"
+"Вызов дрека"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

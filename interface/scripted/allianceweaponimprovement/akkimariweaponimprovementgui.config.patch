@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/gui/windowtitle/title","value":
 " Стенд улучшения оружия"
 },{"op":"replace","path":"/gui/windowtitle/subtitle","value":
-" Улучшайте своё оружие здесь!"
+" Улучшите своё оружие здесь!"
 },{"op":"replace","path":"/gui/emptyLabel/value","value":
 "У вас нет оружия, которое можно улучшить!"
 },{"op":"replace","path":"/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value","value":

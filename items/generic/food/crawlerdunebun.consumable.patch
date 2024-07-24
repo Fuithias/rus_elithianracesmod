@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Дюнный кролик в форме песчаного краулера. От тебя тоже пахнет Песчаным краулером!"
+"Дюнная булка в форме песополза. От неё даже несёт пескоползом!"
 },{"op":"replace","path":"/shortdescription","value":
-"Гусеничный Дюнебун"
+"Ползучий дюнбул"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

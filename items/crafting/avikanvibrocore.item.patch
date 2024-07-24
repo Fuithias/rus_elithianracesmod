@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Важнейшая часть виброклинков Авангард."
+"Важнейшая часть виброклинков Авангарда."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Вибро Ядро"
+"Вибро ядро авикан"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

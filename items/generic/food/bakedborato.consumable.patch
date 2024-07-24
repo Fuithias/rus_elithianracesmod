@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Запеченное борато идеально подходит для ужина."
+"Запечённая борато идеально подходит для ужина."
 },{"op":"replace","path":"/shortdescription","value":
-"Запеченное борато"
+"Запечённая борато"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

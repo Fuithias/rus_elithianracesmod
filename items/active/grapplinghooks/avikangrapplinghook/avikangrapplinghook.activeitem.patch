@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Крюк-кошка, предназначенная для лазания по горам и перемахивания через овраги."
 },{"op":"replace","path":"/shortdescription","value":
-"Номадская крюк-кошка"
+"Крюк-кошка Номады"
 },{"op":"replace","path":"/category","value":
 "Инструмент"
 },{"op":"add","path":"/builder","value":

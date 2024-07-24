@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Призывает Скофа из грузового отсека вашего корабля."
+"Вызывает скофа из грузового отсека вашего корабля."
 },{"op":"replace","path":"/shortdescription","value":
-"Контроллер Скофа"
+"Вызов скофа"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

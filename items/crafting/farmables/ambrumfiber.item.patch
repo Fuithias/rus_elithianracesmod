@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Мягкие пушистые волокна, полученные из растения амбрум."
+"Мягкие пушистые волокна, собранные с растения амбрум."
 },{"op":"replace","path":"/shortdescription","value":
-"Янтарное волокно"
+"Волокно амбрума"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

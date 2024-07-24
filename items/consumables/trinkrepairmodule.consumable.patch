@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Базовый модуль самовосстановления. Восстанавливает 500 единиц здоровья за 30 секунд."
 },{"op":"replace","path":"/shortdescription","value":
-"Модуль ремонта Тринкиана"
+"Модуль ремонта тринков"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]
