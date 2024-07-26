@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Устройство хранения данных, содержащее чертежи Главного контура."
+"Устройство хранения данных, содержащее чертежи Главной Схемы."
 },{"op":"replace","path":"/shortdescription","value":
-"^orange;Чертежи Прайм Цепи^white;"
+"^orange;Чертежи Прайм Схемы^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

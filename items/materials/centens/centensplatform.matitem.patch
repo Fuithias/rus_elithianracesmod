@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Древняя металлическая платформа."
+"Древняя платформа из металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Центенская платформа"
+"Платформа центенов"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Древняя платформа из металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Старые платформы изсс металла."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

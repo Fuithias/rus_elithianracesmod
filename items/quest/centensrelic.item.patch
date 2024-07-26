@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Центенсийская реликвия. Кажется, это контейнер, но он не открывается."
+"Центенская реликвия. Кажется, это контейнер, но он не открывается."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Центенсийская реликвия^white;"
+"^#BA66FF;Центенская реликвия^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

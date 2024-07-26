@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Прочная металлическая лестница."
+"Прочные ступени из металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Ободная лестница"
+"Ступени Рубежа"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

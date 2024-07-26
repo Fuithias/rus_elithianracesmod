@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Металлический контейнер, наполненный плодородной землей, готовый к сельскому хозяйству."
+"Контейнер из металла, наполненный плодородной землей, готовой к земледелию."
 },{"op":"replace","path":"/shortdescription","value":
-"Фермерский блок Авикан"
+"Фарм-блок авикан"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Грунт, собранный в контейнер из металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Мягкий грунт для зссемледелия."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

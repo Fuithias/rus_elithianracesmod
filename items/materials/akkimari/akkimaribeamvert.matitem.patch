@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Прочная металлическая балка."
+"Крепкая балка из металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Акрис Луч Вертикальный"
+"Балка Акриса (вертикаль)"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

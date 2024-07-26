@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Специальный сплав аллостали с высоким содержанием ферверия."
+"Специальный сплав аллостали с высоким содержанием феруверия."
 },{"op":"replace","path":"/shortdescription","value":
 "^orange;Эритостальное покрытие^white;"
 },{"op":"add","path":"/builder","value":

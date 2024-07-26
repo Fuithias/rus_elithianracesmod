@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Прочное металлическое покрытие для лучшей защиты."
+"Крепкая отделка металлом, обеспечивающая наилучшую защиту."
 },{"op":"replace","path":"/shortdescription","value":
-"Стена корабля Авикан"
+"Стена корабля авикан"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

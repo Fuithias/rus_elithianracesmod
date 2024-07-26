@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Металлический контейнер, наполненный плодородной землей, готовый к сельскому хозяйству."
+"Контейнер из металла, наполненный плодородной землей, готовой к земледелию."
 },{"op":"replace","path":"/shortdescription","value":
-"Фермерский блок Альянса"
+"Фарм-блок Альянса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

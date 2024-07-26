@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Толстое стекло от Кадавана."
+"Толстое стекло с Кадавана."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Стекло"
+"Стекло авикан"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Стекло."
+},{"op":"replace","path":"/floranDescription","value":
+"Ссстекло."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

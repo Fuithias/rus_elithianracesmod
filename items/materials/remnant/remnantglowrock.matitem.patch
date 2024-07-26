@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Древняя скала с жутким сиянием."
+"Древний камень с жутким сиянием."
 },{"op":"replace","path":"/shortdescription","value":
-"Светящаяся скала"
+"Сияющий камень"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Ядро древнего оружия. От механизма исходит сильная энергия."
 },{"op":"replace","path":"/shortdescription","value":
-"^orange;Реактивированное ядро ​​оружия^white;"
+"^orange;Реактив оружейного ядра^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

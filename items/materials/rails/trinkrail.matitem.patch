@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Прочный усиленный рельс."
+"Крепкий усиленный рельс."
 },{"op":"replace","path":"/shortdescription","value":
-"Тринкянский рельс"
+"Рельс тринков"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Ядро прыжковых врат Авикан. Модифицированная часть технологии Centensian."
+"Ядро прыжковых врат авикан. Модифицированная часть технологии центенов."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Ядро прыжковых врат Авикан^white;"
+"^#BA66FF;Ядро скачврат авикан^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

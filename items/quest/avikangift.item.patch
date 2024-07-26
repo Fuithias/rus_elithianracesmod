@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Небольшая металлическая безделушка, знак благодарности Авикан."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Гифт"
+"Подарок авикан"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

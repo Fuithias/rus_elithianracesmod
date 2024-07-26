@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Прочный металлический забор."
+"Прочный забор из металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Забор"
+"Забор авикан"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Прочный забор."
+},{"op":"replace","path":"/floranDescription","value":
+"Прочный зссабор."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

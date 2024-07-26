@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Тканевое настенное полотно, оформленное в стиле Райод."
+"Настенное полотно из ткани, оформленное в стиле Райод."
 },{"op":"replace","path":"/shortdescription","value":
-"Ткань Райод"
+"Ткань Райоды"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

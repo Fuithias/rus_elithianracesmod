@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Прочная обшивка из различного металлолома."
+"Прочная отделка из различных видов металлолома."
 },{"op":"replace","path":"/shortdescription","value":
-"Акрис Плэйтинг"
+"Отделка Акриса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

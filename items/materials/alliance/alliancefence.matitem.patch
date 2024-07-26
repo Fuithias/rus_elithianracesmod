@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Прочный металлический забор."
+"Прочный забор из металла."
 },{"op":"replace","path":"/shortdescription","value":
 "Забор Альянса"
 },{"op":"add","path":"/builder","value":

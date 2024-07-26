@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Трехслойный пластик, напоминающий стекло, с отличной изоляцией."
+"Трехпанельный пластик, напоминающий стекло, с отличной изоляцией."
 },{"op":"replace","path":"/shortdescription","value":
-"Альянс Стекло"
+"Стекло Альянса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

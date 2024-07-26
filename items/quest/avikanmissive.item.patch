@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Запечатанный свиток, подаренный мне авиканским звездочетом."
+"Запечатанный свиток, подаренный мне авиканским звездоходом."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Послание Звездного Путешественника^white;"
+"^#BA66FF;Послание Звездохода^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

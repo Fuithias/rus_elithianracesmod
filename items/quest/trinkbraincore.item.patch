@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Мозговое ядро ​​устройства тринков."
 },{"op":"replace","path":"/shortdescription","value":
-"Тринкианское мозговое ядро"
+"Мозговое ядро тринков"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

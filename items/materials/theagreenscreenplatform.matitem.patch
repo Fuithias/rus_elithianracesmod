@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Без описания."
 },{"op":"replace","path":"/shortdescription","value":
-"Платформа зеленого экрана"
+"Платформа зелёного экрана"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

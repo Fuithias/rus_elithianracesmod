@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
 "Щит, построенный из центенских компонентов. Источник питания все еще сломан..."
 },{"op":"replace","path":"/shortdescription","value":
-"^orange;Оболочка центенского щита^white;"
+"^orange;Оболочка щита центенов^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

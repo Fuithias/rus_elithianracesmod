@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Генератор щита, снятый с дрона Ce'Tennan Oculus."
+"Генератор щита, снятый с дрона Окулуса центенов."
 },{"op":"replace","path":"/shortdescription","value":
-"^#BA66FF;Окулус Щит ^white;"
+"^#BA66FF;Щит Окулуса^white;"
 },{"op":"replace","path":"/category","value":
 "Квестовый предмет"
 },{"op":"add","path":"/builder","value":

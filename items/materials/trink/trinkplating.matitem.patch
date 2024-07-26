@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Гладкая темная металлическая пластина."
+"Гладкая пластина из тёмного металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Тринкианское покрытие"
+"Отделка тринков"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Крепкая пластина из металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Пластины изсс темного металла..."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

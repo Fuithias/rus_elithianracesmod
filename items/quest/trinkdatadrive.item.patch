@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Тринкианское устройство хранения данных. В настоящее время он пуст."
+"Тринковское устройство хранения данных. В настоящее время пустое."
 },{"op":"replace","path":"/shortdescription","value":
 "^#BA66FF;Схема накопителя данных^white;"
 },{"op":"replace","path":"/category","value":

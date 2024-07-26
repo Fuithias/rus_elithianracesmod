@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Невероятно прочные металлические прутья."
+"Невероятно прочные бруски из металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Акрис Барс"
+"Бруски Акриса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

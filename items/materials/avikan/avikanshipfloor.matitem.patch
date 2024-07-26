@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Металлическая панель цвета песка."
+"Панель из металла цвета песка."
 },{"op":"replace","path":"/shortdescription","value":
-"Пол корабля Авикан"
+"Пол корабля авикан"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Крепкая панель из металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Панели из металласс"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

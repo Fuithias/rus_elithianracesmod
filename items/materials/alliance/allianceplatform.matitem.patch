@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Металлическая платформа."
+"Платформа из металла."
 },{"op":"replace","path":"/shortdescription","value":
 "Платформа Альянса"
 },{"op":"add","path":"/builder","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Экран интерфейса интегрирован в настенную панель."
+"Экран интерфейса, встроенный в настенную панель."
 },{"op":"replace","path":"/shortdescription","value":
 "Стена интерфейса Альянса"
 },{"op":"add","path":"/builder","value":

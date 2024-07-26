@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Прочное металлическое покрытие для лучшей защиты."
+"Крепкая отделка металлом, обеспечивающая наилучшую защиту."
 },{"op":"replace","path":"/shortdescription","value":
-"Авикан Плейтинг"
+"Отделка авикан"
+},{"op":"replace","path":"/glitchDescription","value":
+"Замечание. Толстая и тяжелая отделка. Очень надежная защита."
+},{"op":"replace","path":"/floranDescription","value":
+"Большссие плиты обесспечивают безссопассноссть..."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

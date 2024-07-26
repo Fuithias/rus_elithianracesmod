@@ -1,7 +1,11 @@
 [{"op":"replace","path":"/description","value":
-"Гладкая темная металлическая панель."
+"Гладкая панель из тёмного металла."
 },{"op":"replace","path":"/shortdescription","value":
-"Гладкая панель Тринкиан"
+"Гладкая панель тринков"
+},{"op":"replace","path":"/glitchDescription","value":
+"Отчёт. Крепкая панель из металла."
+},{"op":"replace","path":"/floranDescription","value":
+"Панель изсс тёмного металла."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

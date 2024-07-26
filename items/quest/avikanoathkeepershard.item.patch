@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Осколок Ксанафира. Когда-то это была часть знаменитого оружия."
+"Осколок ксанафира. Когда-то это была часть знаменитого оружия."
 },{"op":"replace","path":"/shortdescription","value":
 "^orange;Осколок славы^white;"
 },{"op":"replace","path":"/category","value":

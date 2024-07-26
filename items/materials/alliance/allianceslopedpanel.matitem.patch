@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Наклонная металлическая панель, идеально подходящая для стен зданий."
+"Откосная панель из металла, идеально подходящая для стен зданий."
 },{"op":"replace","path":"/shortdescription","value":
-"Наклонная панель Альянса"
+"Откосная панель Альянса"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

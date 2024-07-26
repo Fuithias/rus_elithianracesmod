@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Часть сборной стены."
+"Часть сборного каркаса стены."
 },{"op":"replace","path":"/shortdescription","value":
 "Сборная стена Альянса"
 },{"op":"add","path":"/builder","value":

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Рельс из разного металлолома."
+"Рельс, собранный из разного металлолома."
 },{"op":"replace","path":"/shortdescription","value":
-"Аккимари Железная дорога"
+"Рельс аккимари"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

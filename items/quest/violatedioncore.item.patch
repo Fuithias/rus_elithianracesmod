@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":
-"Ядро оскверненной ионной пушки элитного Драла."
+"Ядро оскверненной ионной пушки элитного драла."
 },{"op":"replace","path":"/shortdescription","value":
 "^#BA66FF;Нарушено ионное ядро^white;"
 },{"op":"replace","path":"/category","value":
