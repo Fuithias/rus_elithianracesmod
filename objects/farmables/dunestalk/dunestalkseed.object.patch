@@ -1,4 +1,4 @@
-[{"op":"replace","path":"/shortdescription","value":
+[[{"op":"replace","path":"/shortdescription","value":
 "Семя дюножки"
 },{"op":"replace","path":"/description","value":
 "Выносливый дюнный стебель, растение, похожее на пшеницу, растущее в засушливых местах."
@@ -24,8 +24,10 @@
 "Дюнный стебель и пшеница во многом схожи, хотя у дюнного стебля не так много применений."
 },{"op":"replace","path":"/drodenDescription","value":
 "Обнаружена аборигенная флора Кадавана. Дюнсталк подтвердил."
-},{"op":"replace","path":"/akkimariDescription","value":
-"Трава выглядит мертвой. Сухой-очень."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
-}]
+}],[{"op":"test","path":
+"/akkimariDescription"
+},{"op":"replace","path":"/akkimariDescription","value":
+"Трава выглядит мертвой. Сухой-очень."
+}]]

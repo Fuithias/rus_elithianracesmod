@@ -1,4 +1,4 @@
-[{"op":"replace","path":"/shortdescription","value":
+[[{"op":"replace","path":"/shortdescription","value":
 "Семя больбона"
 },{"op":"replace","path":"/description","value":
 "Растение странной формы и столь же странного вкуса."
@@ -22,8 +22,10 @@
 "Все, кого я спрашивал, соглашались, что это растение имело ужасный вкус. Все, кроме Авикана."
 },{"op":"replace","path":"/drodenDescription","value":
 "Обнаружена аборигенная флора Кадавана. Болбон подтвердил."
-},{"op":"replace","path":"/akkimariDescription","value":
-"Странное растение, похожее на фиолетовую каплю."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
-}]
+}],[{"op":"test","path":
+"/akkimariDescription"
+},{"op":"replace","path":"/akkimariDescription","value":
+"Странное растение, похожее на фиолетовую каплю."
+}]]

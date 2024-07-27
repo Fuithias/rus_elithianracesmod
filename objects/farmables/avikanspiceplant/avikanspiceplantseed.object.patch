@@ -1,4 +1,6 @@
-[{"op":"replace","path":"/shortdescription","value":
+[[{"op":"test","path":
+"/akkimariDescription"
+},{"op":"replace","path":"/shortdescription","value":
 "Семя специй Кадавана"
 },{"op":"replace","path":"/description","value":
 "Специи можно приготовить путем сушки плодов этого растения."
@@ -26,4 +28,10 @@
 "Растительно-пряный, как Акки! Рот жжёт, вкусно-очень!"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
-}]
+}],[{"op":"test","path":
+"/largeImage"
+},{"op":"replace","path":"/shortdescription","value":
+"Семя специй Кадавана"
+},{"op":"replace","path":"/description","value":
+"Специи можно приготовить путем сушки плодов этого растения."
+}]]
