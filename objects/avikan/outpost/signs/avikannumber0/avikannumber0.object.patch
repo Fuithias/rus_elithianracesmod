@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер Ноль"
+"Цифра Ноль"
 },{"op":"replace","path":"/description","value":
-"Номер ноль в сценарии Авикан."
+"Цифра ноль в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер ноль в инопланетном письме."
+"Цифра ноль в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это ноль."
+"Чужая цифра. Я считаю, что это ноль."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает ноль."
 },{"op":"replace","path":"/humanDescription","value":
-"Ноль в каком-то инопланетном сценарии."
+"Ноль в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа ноль."
+"Инопланетный символ цифры ноль."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает ноль."
+"Кажется, эта цифра означает ноль."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер ноль."
+"Цифра ноль."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Нуль."
+"Цифра. Ноль."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Ноль, думает Акки."
+"Цифра-чужой. Ноль, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Дим Авикан Лайт"
+"Лента света авикан(тускло)"
 },{"op":"replace","path":"/description","value":
-"Простая световая полоска."
+"Простая световая лента."
 },{"op":"replace","path":"/apexDescription","value":
-"Простая световая полоска."
+"Простая световая лента."
 },{"op":"replace","path":"/avianDescription","value":
 "Свет."
 },{"op":"replace","path":"/floranDescription","value":

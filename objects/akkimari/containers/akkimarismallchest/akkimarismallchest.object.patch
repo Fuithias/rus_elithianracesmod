@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Маленький сундук Акриса"
+"Малый сундук Акриса"
 },{"op":"replace","path":"/description","value":
-"Закругленный металлический контейнер от Акрис."
+"Закругленный металлический контейнер Акриса."
 },{"op":"replace","path":"/apexDescription","value":
 "Металлический ящик округлой формы. Как странно."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,7 +17,7 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Какой-то странный инопланетный контейнер. Не уверен, стоит ли мне его открывать."
 },{"op":"replace","path":"/aegiDescription","value":
-"Судя по всему, сундук Аккимари."
+"Судя по всему, сундук аккимари."
 },{"op":"replace","path":"/avikanDescription","value":
 "Этот сундук имеет странный инопланетный дизайн."
 },{"op":"replace","path":"/trinkDescription","value":

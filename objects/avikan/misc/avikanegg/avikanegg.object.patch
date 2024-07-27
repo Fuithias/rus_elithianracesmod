@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авиканское яйцо"
+"Яйцо авикан"
 },{"op":"replace","path":"/description","value":
-"Яйцо Авикан. Зародыш новой жизни."
+"Яйцо авикан. Зародыш новой жизни."
 },{"op":"replace","path":"/apexDescription","value":
 "Инопланетное яйцо. Он кажется немного кожаным."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,7 +17,7 @@
 },{"op":"replace","path":"/aegiDescription","value":
 "Это яйцо может вылупиться через несколько месяцев."
 },{"op":"replace","path":"/avikanDescription","value":
-"Одинокое яйцо Авикана. Интересно, кто это положил?"
+"Одинокое яйцо авикана. Интересно, кто это положил?"
 },{"op":"replace","path":"/trinkDescription","value":
 "Яйцо с кожистой кожицей. Скорее всего Авикан."
 },{"op":"replace","path":"/drodenDescription","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Дверь корабля Авикан"
+"Дверь корабля авикан"
 },{"op":"replace","path":"/description","value":
 "Прочная металлическая дверь, часто встречающаяся на кораблях Авикана."
 },{"op":"replace","path":"/apexDescription","value":

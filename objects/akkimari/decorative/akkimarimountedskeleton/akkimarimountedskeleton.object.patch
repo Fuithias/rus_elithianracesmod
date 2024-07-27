@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Конный скелет Аккимари"
+"Врезанный скелет аккимари"
 },{"op":"replace","path":"/description","value":
-"Мертвый Аккимари жестоко восседает на пике."
+"Мертвый аккимари жестоко восседает на пике."
 },{"op":"replace","path":"/apexDescription","value":
 "Мертвый инопланетянин, изображенный в жестокой манере."
 },{"op":"replace","path":"/avianDescription","value":
@@ -21,11 +21,11 @@
 },{"op":"replace","path":"/avikanDescription","value":
 "Инопланетяне могут быть такими жестокими..."
 },{"op":"replace","path":"/trinkDescription","value":
-"Когда-то это были кости живого и дышащего Аккимари."
+"Когда-то это были кости живого и дышащего аккимари."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружены останки инопланетянина. Анализ: кости Аккимари."
+"Обнаружены останки инопланетянина. Анализ: кости аккимари."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Шип-металл для Аккимари-мертв."
+"Шип-металл для аккимари-мертв."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

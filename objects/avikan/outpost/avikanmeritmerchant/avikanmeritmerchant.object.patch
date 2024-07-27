@@ -1,21 +1,21 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Обмен токенов Номада"
+"Обмен жетонов Номады"
 },{"op":"replace","path":"/description","value":
-"Здесь жетоны заслуг можно обменять на различные товары."
+"Здесь жетоны заслуги можно обменять на различные товары."
 },{"op":"replace","path":"/floranDescription","value":
 "Если Флоран даёт жетоны человека-робота, человек-робот даёт Флорану предметы."
 },{"op":"replace","path":"/glitchDescription","value":
-"Соблазненный. Здесь жетоны заслуг можно обменять на различные товары."
+"Соблазненный. Здесь жетоны заслуги можно обменять на различные товары."
 },{"op":"replace","path":"/novakidDescription","value":
 "Если я хочу торговать здесь, у меня должны быть какие-то знаки отличия."
 },{"op":"replace","path":"/avikanDescription","value":
-"Здесь жетоны заслуг можно обменять на различные товары."
+"Здесь жетоны заслуги можно обменять на различные товары."
 },{"op":"replace","path":"/drodenDescription","value":
-"Торговец обнаружен. Покупки совершаются с использованием жетонов заслуг."
+"Торговец обнаружен. Покупки совершаются с использованием жетонов заслуги."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки покупайте вещи за жетоны. Акки не нравится."
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
-"Обмен токенов Номада"
+"Обмен жетонов Номады"
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " Будучи достойным, имеешь свои заслуги."
 },{"op":"add","path":"/builder","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Окно корабля Тринкиана"
+"Окно корабля тринков"
 },{"op":"replace","path":"/description","value":
 "Монитор, используемый Тринками вместо окон."
 },{"op":"replace","path":"/apexDescription","value":

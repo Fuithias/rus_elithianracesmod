@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер четыре"
+"Цифра четыре"
 },{"op":"replace","path":"/description","value":
-"Номер четыре, в сценарии Авикан."
+"Цифра четыре, в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер четыре в инопланетном сценарии."
+"Цифра четыре в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это четыре."
+"Чужая цифра. Я считаю, что это четыре."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает четыре."
 },{"op":"replace","path":"/humanDescription","value":
-"Четверо в каком-то инопланетном сценарии."
+"Четверо в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа четыре."
+"Инопланетный символ цифры четыре."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает четыре."
+"Кажется, эта цифра означает четыре."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер четыре."
+"Цифра четыре."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Четыре."
+"Цифра. Четыре."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Четыре, думает Акки."
+"Цифра-чужой. Четыре, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

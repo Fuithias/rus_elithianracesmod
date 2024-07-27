@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Ярко-красные листья растения Врелли."
+"Ярко-красные листья растения врелли."
 },{"op":"replace","path":"/shortdescription","value":
-"Листья Врелли"
+"Листья врелли"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

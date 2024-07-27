@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер пять"
+"Цифра пять"
 },{"op":"replace","path":"/description","value":
-"Номер пять, в сценарии Авикан."
+"Цифра пять, в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер пять в инопланетном сценарии."
+"Цифра пять в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это пять."
+"Чужая цифра. Я считаю, что это пять."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает пять."
 },{"op":"replace","path":"/humanDescription","value":
-"Пять в каком-то инопланетном сценарии."
+"Пять в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
 "Инопланетный символ цифры пять."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает пять."
+"Кажется, эта цифра означает пять."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер пять."
+"Цифра пять."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Пять."
+"Цифра. Пять."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Пять, думает Акки."
+"Цифра-чужой. Пять, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

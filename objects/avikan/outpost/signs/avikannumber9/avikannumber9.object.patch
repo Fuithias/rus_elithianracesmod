@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер девять"
+"Цифра девять"
 },{"op":"replace","path":"/description","value":
-"Номер девять в сценарии Авикан."
+"Цифра девять в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер девять в инопланетном сценарии."
+"Цифра девять в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это девять."
+"Чужая цифра. Я считаю, что это девять."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает девять."
 },{"op":"replace","path":"/humanDescription","value":
-"Девять в каком-то инопланетном сценарии."
+"Девять в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа девять."
+"Инопланетный символ цифры девять."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает девять."
+"Кажется, эта цифра означает девять."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер девять."
+"Цифра девять."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Девять."
+"Цифра. Девять."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Девять, думает Акки."
+"Цифра-чужой. Девять, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

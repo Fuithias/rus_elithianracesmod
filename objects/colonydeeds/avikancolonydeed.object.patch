@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^yellow;Авиканская колония"
+"^yellow;Договор колонии авикан"
 },{"op":"replace","path":"/description","value":
 "Поместите его в закрытое здание хотя бы с одной дверью и источником света, и кто-нибудь въедет!"
 },{"op":"replace","path":"/apexDescription","value":

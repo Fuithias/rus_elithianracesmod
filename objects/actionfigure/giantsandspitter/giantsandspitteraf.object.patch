@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Фигурка песочника"
+"Фигурка пескоплёва"
 },{"op":"replace","path":"/description","value":
-"На этикетке написано: Песчаник плюет песок, чтобы замедлить своих врагов."
+"На этикетке написано: \"Пескоплёв плюет песок, чтобы замедлять своих врагов.\""
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

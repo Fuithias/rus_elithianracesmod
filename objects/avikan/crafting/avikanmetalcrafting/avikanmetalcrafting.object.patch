@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Станция Металлобработки авикан^white;"
+"^orange;Станок металлработы авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Станция металлообработки предназначена для изготовления изделий и оборудования из металла."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Машина делает вещи для Акки. Акки счастлива."
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
-" Станция Металлобработки"
+" Станок металлработы"
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Предметы и снаряжение из металла"
 },{"op":"add","path":"/builder","value":

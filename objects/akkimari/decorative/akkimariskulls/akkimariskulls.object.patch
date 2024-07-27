@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Аккимари Черепа"
+"Черепа аккимари"
 },{"op":"replace","path":"/description","value":
-"Куча черепов Аккимари."
+"Куча черепов аккимари."
 },{"op":"replace","path":"/apexDescription","value":
 "Чужие черепа. Своего рода жутко."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,13 +17,13 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Странные черепа, сложенные друг на друга."
 },{"op":"replace","path":"/aegiDescription","value":
-"Черепа Аккимари. Какой позор."
+"Черепа аккимари. Какой позор."
 },{"op":"replace","path":"/avikanDescription","value":
 "Странные черепа пришельцев."
 },{"op":"replace","path":"/trinkDescription","value":
-"Это черепа Аккимари. Мне здесь следует быть осторожным..."
+"Это черепа аккимари. Мне здесь следует быть осторожным..."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружены останки инопланетянина. Анализ: черепа Аккимари."
+"Обнаружены останки инопланетянина. Анализ: черепа аккимари."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Аккимари уже мертв. Черепа остались."
 },{"op":"add","path":"/builder","value":

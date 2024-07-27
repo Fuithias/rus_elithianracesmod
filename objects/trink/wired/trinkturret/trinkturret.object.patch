@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Тринкианская защитная турель"
+"Защитная турель тринков"
 },{"op":"replace","path":"/description","value":
 "Турель, которая будет автоматически защищать территории. Можно разместить только один раз."
 },{"op":"replace","path":"/apexDescription","value":

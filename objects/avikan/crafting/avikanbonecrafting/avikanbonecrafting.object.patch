@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Стол Авикана Косторезчика^white;"
+"^orange;Стол косторезки авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Стол Косторезчика используется для изготовления предметов из костей монстров."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки вырезает кости здесь!"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Стол Авикана Косторезчика^white;"
+"^orange;Стол косторезки авикан^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Стол Косторезчика используется для изготовления предметов из костей монстров."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
@@ -55,11 +55,11 @@
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/akkimariDescription","value":
 "Акки вырезает кости здесь!"
 },{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title","value":
-" Стол Косторезчика"
+" Стол косторезки"
 },{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Костяные предметы и снаряжение"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Станок Костобработки Авикан^white;"
+"^orange;Станок костработки авикан^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Станция обработки костей используется для изготовления предметов из костей монстров."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -87,7 +87,7 @@
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "Машина делает инструменты-кость. Акки проще."
 },{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
-" Станок Костобработки"
+" Станок костработки"
 },{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Костяные предметы и снаряжение"
 },{"op":"add","path":"/builder","value":

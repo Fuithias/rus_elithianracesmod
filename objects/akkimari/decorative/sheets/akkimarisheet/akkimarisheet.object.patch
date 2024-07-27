@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Акрис Силкен Простыни"
+"Простыни из шелка Акриса"
 },{"op":"replace","path":"/description","value":
 "Шелковые простыни подвешены на металлических кольцах."
 },{"op":"replace","path":"/apexDescription","value":
@@ -17,7 +17,7 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Какие-то листы."
 },{"op":"replace","path":"/aegiDescription","value":
-"Я уже видел, как Аккимари взбирался на них раньше. Возможно, эти простыни служат для них лестницей?"
+"Я уже видел, как аккимари взбирался на них раньше. Возможно, эти простыни служат для них лестницей?"
 },{"op":"replace","path":"/avikanDescription","value":
 "Чужие листы. Стиль немного напоминает наш."
 },{"op":"replace","path":"/trinkDescription","value":

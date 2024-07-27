@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Альянс Дрон"
+"Дрон Альянса"
 },{"op":"replace","path":"/description","value":
 "Небольшой дрон."
 },{"op":"replace","path":"/apexDescription","value":

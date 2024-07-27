@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/description","value":
-"Знак заслуг, чтобы показать свою ценность среди авикан."
+"Жетон заслуги, чтобы показать свою ценность среди авикан."
 },{"op":"replace","path":"/shortdescription","value":
-"^#0094FF;Знак заслуг^white;"
+"^#0094FF;Жетон заслуги^white;"
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

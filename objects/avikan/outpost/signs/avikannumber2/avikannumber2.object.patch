@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер два"
+"Цифра два"
 },{"op":"replace","path":"/description","value":
-"Номер два, в сценарии Авикан."
+"Цифра два, в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер два в инопланетном сценарии."
+"Цифра два в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это два."
+"Чужая цифра. Я считаю, что это два."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает два."
 },{"op":"replace","path":"/humanDescription","value":
-"Двое в каком-то инопланетном сценарии."
+"Двое в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа два."
+"Инопланетный символ цифры два."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает два."
+"Кажется, эта цифра означает два."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер два."
+"Цифра два."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Два."
+"Цифра. Два."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Два, думает Акки."
+"Цифра-чужой. Два, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Топливный люк сверхсветовой скорости"
+"Топливный люк ССД"
 },{"op":"replace","path":"/description","value":
 "Принимает жидкий Эрчиус в качестве топлива для сверхсветового привода корабля."
 },{"op":"replace","path":"/apexDescription","value":

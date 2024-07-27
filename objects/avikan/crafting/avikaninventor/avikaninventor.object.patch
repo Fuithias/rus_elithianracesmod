@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Стол рабочего Авикана^white;"
+"^orange;Стол рабочего авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Стол рабочего используется для создания различных специализированных верстаков."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Акки использует чертежи для создания многих вещей."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Стол рабочего Авикана^white;"
+"^orange;Стол рабочего авикан^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Стол рабочего используется для создания различных специализированных верстаков."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":
@@ -59,7 +59,7 @@
 },{"op":"replace","path":"/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Специально для орудий труда"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/shortdescription","value":
-"^orange;Станция ремесленников Авикан^white;"
+"^orange;Станция ремесла авикан^white;"
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/description","value":
 "Станция ремесленника используется для создания различных специализированных верстаков."
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/apexDescription","value":
@@ -87,7 +87,7 @@
 },{"op":"replace","path":"/upgradeStages/1/itemSpawnParameters/akkimariDescription","value":
 "На экране показаны чертежи, полезные для акки."
 },{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title","value":
-" Станция ремесленников"
+" Станция ремесла"
 },{"op":"replace","path":"/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " ^#b9b5b2;Специально для орудий труда"
 },{"op":"add","path":"/builder","value":

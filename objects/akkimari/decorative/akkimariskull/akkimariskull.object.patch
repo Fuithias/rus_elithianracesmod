@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Аккимари Череп"
+"Череп аккимари"
 },{"op":"replace","path":"/description","value":
-"Череп умершего Аккимари."
+"Череп умершего аккимари."
 },{"op":"replace","path":"/apexDescription","value":
 "Череп какого-то инопланетного существа."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,15 +17,15 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Да, это череп, и притом странный."
 },{"op":"replace","path":"/aegiDescription","value":
-"Череп Аккимари. Это печальное зрелище..."
+"Череп аккимари. Это печальное зрелище..."
 },{"op":"replace","path":"/avikanDescription","value":
 "Череп пришельца. Я не уверен, узнаю ли я этот вид."
 },{"op":"replace","path":"/trinkDescription","value":
-"Череп умершего Аккимари."
+"Череп умершего аккимари."
 },{"op":"replace","path":"/drodenDescription","value":
-"Сканирование костей пришельцев. Анализ: череп Аккимари. Невозможно определить время смерти."
+"Сканирование костей пришельцев. Анализ: череп аккимари. Невозможно определить время смерти."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Череп Аккимари-мертвого."
+"Череп аккимари-мертвого."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

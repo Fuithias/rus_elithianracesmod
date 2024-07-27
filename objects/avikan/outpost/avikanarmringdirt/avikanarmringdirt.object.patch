@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Потерянное кольцо на руке"
+"Потерянное кольцо с руки"
 },{"op":"replace","path":"/description","value":
-"Куча грязной грязи. Возможно, в этом что-то есть?"
+"Куча вонючей грязи. Возможно, в этом что-то есть?"
 },{"op":"replace","path":"/floranDescription","value":
 "Если Флоран покопается в грязи, Флоран сможет что-нибудь найти?"
 },{"op":"replace","path":"/glitchDescription","value":

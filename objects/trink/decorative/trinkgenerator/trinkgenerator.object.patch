@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Тринкианский генератор"
+"Генератор тринков"
 },{"op":"replace","path":"/description","value":
 "Генератор конструкции Тринкиана."
 },{"op":"replace","path":"/apexDescription","value":

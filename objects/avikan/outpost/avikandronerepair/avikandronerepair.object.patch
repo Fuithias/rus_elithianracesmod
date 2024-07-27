@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Ремонтная станция Драль"
+"Ремонтная станция драл"
 },{"op":"replace","path":"/description","value":
 "Эта станция может ремонтировать дроны, поврежденные в бою."
 },{"op":"replace","path":"/floranDescription","value":

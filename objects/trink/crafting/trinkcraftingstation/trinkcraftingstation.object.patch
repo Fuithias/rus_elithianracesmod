@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Тринкян ОАКС"
+"РСОА тринков"
 },{"op":"replace","path":"/description","value":
-"Тринкианская версия Ремесленной станции Объединенного Альянса."
+"Версия тринков Ремесленной станции Объединенного Альянса."
 },{"op":"replace","path":"/apexDescription","value":
 "Высокотехнологичная ремесленная станция. Впечатляющий."
 },{"op":"replace","path":"/avianDescription","value":

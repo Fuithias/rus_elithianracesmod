@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Плита Авикан^white;"
+"^orange;Плита авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Печь для приготовления еды."
 },{"op":"replace","path":"/apexDescription","value":

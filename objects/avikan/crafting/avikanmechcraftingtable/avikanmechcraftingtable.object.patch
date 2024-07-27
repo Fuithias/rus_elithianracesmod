@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Стол для изготовления деталей меха^white;"
+"^orange;Стол изготовки меха^white;"
 },{"op":"replace","path":"/description","value":
 "Используется для производства модульных компонентов мехов."
 },{"op":"replace","path":"/apexDescription","value":

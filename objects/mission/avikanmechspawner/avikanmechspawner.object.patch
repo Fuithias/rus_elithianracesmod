@@ -1,13 +1,13 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авангард Крал Бэй"
+"Порт кралов Авангарда"
 },{"op":"replace","path":"/description","value":
-"Станция ремонта и обслуживания Авангард Krahls."
+"Станция ремонта и обслуживания кралов Авангарда."
 },{"op":"replace","path":"/apexDescription","value":
 "Механический отсек какой-то."
 },{"op":"replace","path":"/avianDescription","value":
 "Механический отсек."
 },{"op":"replace","path":"/floranDescription","value":
-"Это мехотсек. Флоран Смарт."
+"Это мехотсек. Флоран умный."
 },{"op":"replace","path":"/glitchDescription","value":
 "Наблюдение. Механический отсек пришельцев."
 },{"op":"replace","path":"/humanDescription","value":
@@ -19,11 +19,11 @@
 },{"op":"replace","path":"/aegiDescription","value":
 "Механический отсек, построенный для Авикан Кралс."
 },{"op":"replace","path":"/avikanDescription","value":
-"Эта станция позволяет легко обслуживать Krahls."
+"Эта станция позволяет легко обслуживать кралов."
 },{"op":"replace","path":"/trinkDescription","value":
 "Достаточно эффективный мехотсек."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружен залив Авангард Крал. Позволяет легко обслуживать Krahls."
+"Обнаружен залив Авангард Крал. Позволяет легко обслуживать кралов."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Бэй-механик-инопланетянин. Акки украл механизм и разыскал запчасти?"
 },{"op":"add","path":"/builder","value":

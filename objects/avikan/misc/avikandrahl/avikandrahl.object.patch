@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Неактивный Драл"
+"Неактивный драл"
 },{"op":"replace","path":"/description","value":
 "Неактивный боевой и разведывательный дрон."
 },{"op":"replace","path":"/apexDescription","value":
@@ -17,9 +17,9 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Дрон. Не уверен, что он будет летать дальше."
 },{"op":"replace","path":"/aegiDescription","value":
-"Авиканцы называют этих дронов Дралами."
+"Авиканцы называют этих дронов дралами."
 },{"op":"replace","path":"/avikanDescription","value":
-"Я уверен, что такой Драл был бы полезным компаньоном."
+"Я уверен, что такой драл был бы полезным компаньоном."
 },{"op":"replace","path":"/trinkDescription","value":
 "Энергопотребление этого дрона удивительно эффективно."
 },{"op":"replace","path":"/drodenDescription","value":

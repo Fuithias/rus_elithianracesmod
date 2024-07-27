@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Камера видеонаблюдения Авикан"
+"Камера наблюдения авикан"
 },{"op":"replace","path":"/description","value":
 "Камера, которая посылает сигнал при обнаружении близлежащих объектов."
 },{"op":"replace","path":"/apexDescription","value":

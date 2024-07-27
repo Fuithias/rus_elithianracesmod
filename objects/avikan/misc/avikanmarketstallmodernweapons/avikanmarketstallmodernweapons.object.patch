@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Лавка огнестрельного оружия Авикан"
+"Лавка огнестрела авикан"
 },{"op":"replace","path":"/description","value":
-"Рыночный прилавок по продаже огнестрельного оружия Авикан."
+"Рыночный прилавок по продаже огнестрельного оружия авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "Повстанцы могли использовать это оружие."
 },{"op":"replace","path":"/avianDescription","value":

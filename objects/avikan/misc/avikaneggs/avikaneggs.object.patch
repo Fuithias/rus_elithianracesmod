@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авиканские яйца"
+"Яйца авикан"
 },{"op":"replace","path":"/description","value":
-"Яйца Авикан. Зародыш новой жизни."
+"Яйца авикан. Зародыш новой жизни."
 },{"op":"replace","path":"/apexDescription","value":
 "Чужие яйца. Они кажутся немного кожистыми."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,11 +17,11 @@
 },{"op":"replace","path":"/aegiDescription","value":
 "Эти яйца могут вылупиться через несколько месяцев."
 },{"op":"replace","path":"/avikanDescription","value":
-"Яйца Авикан. Интересно, кто их положил?"
+"Яйца авикан. Интересно, кто их положил?"
 },{"op":"replace","path":"/trinkDescription","value":
 "Яйца авикан легко узнать по кожистой кожице."
 },{"op":"replace","path":"/drodenDescription","value":
-"Яйца Авикан. Предполагаемая дата вылупления: неизвестна."
+"Яйца авикан. Предполагаемая дата вылупления: неизвестна."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Яйца-инопланетяне, для приготовления и употребления в пищу. Акки голоден."
 },{"op":"add","path":"/builder","value":

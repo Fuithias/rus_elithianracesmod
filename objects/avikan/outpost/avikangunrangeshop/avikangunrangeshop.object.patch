@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Обмен токенов Авангард"
+"Обмен жетонов Авангарда"
 },{"op":"replace","path":"/description","value":
-"Здесь жетоны заслуг можно обменять на различные товары."
+"Здесь жетоны заслуги можно обменять на различные товары."
 },{"op":"replace","path":"/floranDescription","value":
 "Если Флоран даёт жетоны человека-робота, человек-робот даёт Флорану предметы."
 },{"op":"replace","path":"/glitchDescription","value":
@@ -15,7 +15,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Робот продает вещи. Акки скорее воровать."
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":
-"Обмен токенов Авангард"
+"Обмен жетонов Авангарда"
 },{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":
 " Будучи достойным, имеешь свои заслуги."
 },{"op":"add","path":"/builder","value":

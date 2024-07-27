@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Маленький телепорт Акриса"
+"Малый телепорт Акриса"
 },{"op":"replace","path":"/description","value":
 "Персональный телепорт, подключается к местам, отмеченным в закладках. ^red;Уничтожается при поломке."
 },{"op":"replace","path":"/apexDescription","value":

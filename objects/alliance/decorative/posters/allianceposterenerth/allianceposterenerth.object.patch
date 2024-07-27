@@ -1,13 +1,13 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Энергетический инженерный плакат"
+"Плакат Энерт Проектирования"
 },{"op":"replace","path":"/description","value":
-"Плакат, рекламирующий Enerth Engineering."
+"Плакат, рекламирующий Энерт Проектирование."
 },{"op":"replace","path":"/floranDescription","value":
 "Синий заставляет Флорана думать о небе."
 },{"op":"replace","path":"/glitchDescription","value":
-"Смущенный. Что производит Энерт Инжиниринг?"
+"Смущенный. Что производит Энерт Проектирование?"
 },{"op":"replace","path":"/aegiDescription","value":
-"Enerth Engineering производит многие автомобили Союза, а также модульные дома и некоторую бытовую технику."
+"Энерт Проектирование производит многие автомобили Союза, а также модульные дома и некоторую бытовую технику."
 },{"op":"replace","path":"/drodenDescription","value":
 "Сканирование завершено. Рекламные материалы."
 },{"op":"replace","path":"/akkimariDescription","value":

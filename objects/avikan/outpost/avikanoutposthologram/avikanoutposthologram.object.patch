@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
 "Виртуальный гид Азана"
 },{"op":"replace","path":"/description","value":
-"Голографический интерфейс Авикан."
+"Голографический интерфейс авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "Голографический интерфейс. Возможно, она расскажет мне об этом месте?"
 },{"op":"replace","path":"/avianDescription","value":

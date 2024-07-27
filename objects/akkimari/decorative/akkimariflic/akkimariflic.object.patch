@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Неактивный фильм"
+"Неактивный флик"
 },{"op":"replace","path":"/description","value":
-"Неактивный дрон типа Аккимари Флик."
+"Неактивный дрон типа аккимари флик."
 },{"op":"replace","path":"/apexDescription","value":
 "Крошечный дрон."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,15 +17,15 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Просто какой-то крошечный дрон."
 },{"op":"replace","path":"/aegiDescription","value":
-"Кажется, это называются флики: маленькие правоохранительные дроны Аккимари."
+"Кажется, это называются флики: маленькие правоохранительные дроны аккимари."
 },{"op":"replace","path":"/avikanDescription","value":
-"Крошечный дрон. Не слишком отличается от Дралида."
+"Крошечный дрон. Не слишком отличается от дралида."
 },{"op":"replace","path":"/trinkDescription","value":
 "Дрон. Оно спит."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружен дрон, построенный пришельцами. Модель Флик."
+"Обнаружен дрон, построенный пришельцами. Модель флик."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Флик-крошка, держи Аккимари под контролем."
+"Флик-крошка, держи аккимари под контролем."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

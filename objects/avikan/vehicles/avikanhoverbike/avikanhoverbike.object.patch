@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авикан Кефф"
+"Кефф авикан"
 },{"op":"replace","path":"/description","value":
-"Автомобиль, созданный для пересечения пустыни на высокой скорости."
+"Техника, созданная для пересечения пустыни на высокой скорости."
 },{"op":"replace","path":"/apexDescription","value":
 "Надежный ховербайк. Я думаю, что его создатели называют это кеффом."
 },{"op":"replace","path":"/avianDescription","value":

@@ -1,13 +1,13 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Знамя Федерации уведомлений"
+"Знамя Федерации нотиксов"
 },{"op":"replace","path":"/description","value":
-"Знамя, украшенное эмблемой Федерации Нотикианов."
+"Знамя, украшенное эмблемой Федерации нотиксов."
 },{"op":"replace","path":"/floranDescription","value":
 "Флорану нравятся красочные баннеры."
 },{"op":"replace","path":"/glitchDescription","value":
 "Наблюдение. Это знамя украшено какой-то инопланетной эмблемой."
 },{"op":"replace","path":"/drodenDescription","value":
-"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Notician Federation."
+"Обнаружена эмблема пришельца. Эмблема идентифицирована как иконография Федерации нотиксов."
 },{"op":"replace","path":"/akkimariDescription","value":
 "Иконка для Федерации-Notix."
 },{"op":"add","path":"/builder","value":

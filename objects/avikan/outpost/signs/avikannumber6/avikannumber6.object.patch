@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер шесть"
+"Цифра шесть"
 },{"op":"replace","path":"/description","value":
-"Номер шесть в сценарии Авикан."
+"Цифра шесть в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер шесть в инопланетном сценарии."
+"Цифра шесть в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это шесть."
+"Чужая цифра. Я считаю, что это шесть."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает шесть."
 },{"op":"replace","path":"/humanDescription","value":
-"Шесть в каком-то инопланетном сценарии."
+"Шесть в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа шесть."
+"Инопланетный символ цифры шесть."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает шесть."
+"Кажется, эта цифра означает шесть."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер шесть."
+"Цифра шесть."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Шесть."
+"Цифра. Шесть."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Шесть, думает Акки."
+"Цифра-чужой. Шесть, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

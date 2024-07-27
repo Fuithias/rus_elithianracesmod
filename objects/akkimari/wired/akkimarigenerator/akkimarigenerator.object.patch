@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Генератор Аккимари"
+"Генератор аккимари"
 },{"op":"replace","path":"/description","value":
 "Тяжелый генератор, способный питать другие объекты."
 },{"op":"replace","path":"/apexDescription","value":

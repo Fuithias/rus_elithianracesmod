@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авикан гоночные врата"
+"Гоночные врата авикан"
 },{"op":"replace","path":"/description","value":
 "Ворота, используемые для гонок. Он посылает сигнал всякий раз, когда через него проезжает транспортное средство."
 },{"op":"replace","path":"/apexDescription","value":

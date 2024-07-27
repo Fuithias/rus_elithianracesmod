@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Терминал Легиона Дродена"
+"Терминал Легиона дроден"
 },{"op":"replace","path":"/description","value":
 "Терминал для покупки юнитов Легиона Дродена."
 },{"op":"replace","path":"/apexDescription","value":

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Конный череп Аккимари"
+"Врезанный череп аккимари"
 },{"op":"replace","path":"/description","value":
-"Череп умершего Аккимари, закрепленный на металлоломе."
+"Череп умершего аккимари, закрепленный на металлоломе."
 },{"op":"replace","path":"/apexDescription","value":
 "Судя по всему, этот инопланетянин был жестоко убит..."
 },{"op":"replace","path":"/avianDescription","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Ободной ящик"
+"Ящик Рубежа"
 },{"op":"replace","path":"/description","value":
 "Простой металлический контейнер."
 },{"op":"replace","path":"/apexDescription","value":
@@ -17,7 +17,7 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Ящик. Довольно простой."
 },{"op":"replace","path":"/aegiDescription","value":
-"Ящик для хранения, созданный на Ободке."
+"Ящик для хранения, созданный на Рубеже."
 },{"op":"replace","path":"/avikanDescription","value":
 "Металлический ящик инопланетного дизайна."
 },{"op":"replace","path":"/trinkDescription","value":

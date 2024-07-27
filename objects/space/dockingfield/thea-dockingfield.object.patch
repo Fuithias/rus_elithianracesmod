@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Стыковочное поле"
+"Стык-поле"
 },{"op":"replace","path":"/description","value":
 "Это энергетическое поле может содержать как атмосферу, так и искусственную гравитацию."
 },{"op":"replace","path":"/apexDescription","value":

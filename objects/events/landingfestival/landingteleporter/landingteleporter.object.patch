@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Телепорт в Фестивальном зале"
+"Телепорт в праздничный зал"
 },{"op":"replace","path":"/description","value":
 "Телепорт, связанный с Фестивальным залом Приземления. ^red;Уничтожается при поломке."
 },{"op":"replace","path":"/apexDescription","value":

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Фигурка Хранителя Се'Теннан"
+"Фигурка страж Це'Теннан"
 },{"op":"replace","path":"/description","value":
-"На этикетке написано: Конструкция Ce'Tennan, созданная для защиты их творений."
+"На этикетке написано: \"Конструкция Це'Теннан, созданная для защиты их творений.\""
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

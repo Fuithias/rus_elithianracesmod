@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авикан Напиток"
+"Напиток авикан"
 },{"op":"replace","path":"/description","value":
-"Стакан сока кактуса Кадаван."
+"Стакан сока кактуса Кадавана."
 },{"op":"replace","path":"/apexDescription","value":
 "Сок колючего кактуса. В нем плавают шипы?"
 },{"op":"replace","path":"/avianDescription","value":

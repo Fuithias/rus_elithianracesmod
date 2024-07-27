@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Обод Фоновой Двери"
+"Фоновая дверь Рубежа"
 },{"op":"replace","path":"/description","value":
 "Взрывная дверь. Его можно связать с другими фоновыми дверями."
 },{"op":"replace","path":"/apexDescription","value":

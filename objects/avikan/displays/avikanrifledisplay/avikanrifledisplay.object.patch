@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Выставка винтовок Авангард"
+"Выставка винтовок Авангарда"
 },{"op":"replace","path":"/description","value":
-"На выставке представлен автомат Авикан."
+"На выставке представлен автомат авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "На выставке представлено инопланетное оружие. Это выглядит устрашающе."
 },{"op":"replace","path":"/avianDescription","value":

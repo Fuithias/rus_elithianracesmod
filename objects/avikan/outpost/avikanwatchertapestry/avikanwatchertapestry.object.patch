@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Гобелен Наблюдателя"
+"Гобелен Смотрителя"
 },{"op":"replace","path":"/description","value":
-"Настенные гобелены оформлены в стиле Дозорных."
+"Настенные гобелены оформлены в стиле Смотрителей."
 },{"op":"replace","path":"/apexDescription","value":
 "Черный гобелен, украшенный глазом. Меня это пугает."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,11 +17,11 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Большой белый глаз на черном холсте. Противный."
 },{"op":"replace","path":"/aegiDescription","value":
-"Этот гобелен принадлежит секретной службе Авикана Наблюдатели."
+"Этот гобелен принадлежит секретной службе Смотрителей авикан."
 },{"op":"replace","path":"/avikanDescription","value":
 "Гобелен, украшенный Глазом Смотрителя."
 },{"op":"replace","path":"/trinkDescription","value":
-"Гобелен, оформленный в стиле Авиканских Смотрителей."
+"Гобелен, оформленный в стиле Смотрителей авикан."
 },{"op":"replace","path":"/drodenDescription","value":
 "Сканирование завершено. Украшение стен Смотрителей."
 },{"op":"replace","path":"/akkimariDescription","value":

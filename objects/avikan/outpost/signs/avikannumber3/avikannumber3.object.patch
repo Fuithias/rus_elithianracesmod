@@ -1,27 +1,27 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Номер три"
+"Цифра три"
 },{"op":"replace","path":"/description","value":
-"Номер три, в сценарии Авикан."
+"Цифра три, в письме авикан."
 },{"op":"replace","path":"/apexDescription","value":
-"Номер три в инопланетном сценарии."
+"Цифра три в инопланетном письме."
 },{"op":"replace","path":"/avianDescription","value":
-"Чужой номер. Я считаю, что это три."
+"Чужая цифра. Я считаю, что это три."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что означает инопланетный символ."
 },{"op":"replace","path":"/glitchDescription","value":
 "Информирован. Этот инопланетный символ означает три."
 },{"op":"replace","path":"/humanDescription","value":
-"Три в каком-то инопланетном сценарии."
+"Три в каком-то инопланетном письме."
 },{"op":"replace","path":"/hylotlDescription","value":
-"Инопланетный символ числа три."
+"Инопланетный символ цифры три."
 },{"op":"replace","path":"/novakidDescription","value":
-"Кажется, это число означает три."
+"Кажется, эта цифра означает три."
 },{"op":"replace","path":"/avikanDescription","value":
-"Номер три."
+"Цифра три."
 },{"op":"replace","path":"/drodenDescription","value":
-"Число. Три."
+"Цифра. Три."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Номер-чужой. Три, думает Акки."
+"Цифра-чужой. Три, думает Акки."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

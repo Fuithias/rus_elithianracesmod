@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Консоль безопасности Кеффрайдер"
+"Консоль защиты кеффохода"
 },{"op":"replace","path":"/description","value":
 "Эту консоль можно активировать только с помощью правильного пароля."
 },{"op":"replace","path":"/floranDescription","value":

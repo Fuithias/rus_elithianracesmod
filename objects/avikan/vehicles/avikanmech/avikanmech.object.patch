@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авангард Крал"
+"Крал Авангарда"
 },{"op":"replace","path":"/description","value":
-"Автомобиль Авангард, созданный для боевых целей."
+"Техника Авангарда, созданная для боевых целей."
 },{"op":"replace","path":"/apexDescription","value":
 "Этот механизм выглядит долговечным."
 },{"op":"replace","path":"/avianDescription","value":

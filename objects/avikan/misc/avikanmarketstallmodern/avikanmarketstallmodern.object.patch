@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Технический ларек Авикан"
+"Технический ларек авикан"
 },{"op":"replace","path":"/description","value":
-"Рыночный прилавок, полный техники Авикан."
+"Рыночный прилавок, полный техники авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "Инопланетные технологии продаются? Это может быть полезно..."
 },{"op":"replace","path":"/avianDescription","value":
@@ -17,11 +17,11 @@
 },{"op":"replace","path":"/novakidDescription","value":
 "Рыночный прилавок, полный инопланетных технологий."
 },{"op":"replace","path":"/aegiDescription","value":
-"Ассортимент техники Авикан."
+"Ассортимент техники авикан."
 },{"op":"replace","path":"/avikanDescription","value":
 "Тот, кто владеет этим ларьком, торгует Дралами, Дроденами и другими технологиями."
 },{"op":"replace","path":"/trinkDescription","value":
-"Несмотря на свою анти-ИИ-культуру, Авикан широко используют дроны и других роботов."
+"Несмотря на свою анти-ИИ-культуру, авиканы широко используют дроны и других роботов."
 },{"op":"replace","path":"/drodenDescription","value":
 "Обнаружен рыночный ларек. Сканирование ближайших торговцев..."
 },{"op":"replace","path":"/akkimariDescription","value":

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Генератор щита Акриса(НИП)"
+"Генератор щита Акриса (НИП)"
 },{"op":"replace","path":"/description","value":
 "Генератор щита, способный защитить построенные вами постройки от повреждений."
 },{"op":"replace","path":"/apexDescription","value":

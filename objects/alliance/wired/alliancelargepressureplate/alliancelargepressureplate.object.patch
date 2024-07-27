@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Табличка с транспортным средством Альянса"
+"Табличка техники Альянса"
 },{"op":"replace","path":"/description","value":
 "Эта нажимная пластина активируется только транспортными средствами."
 },{"op":"replace","path":"/floranDescription","value":

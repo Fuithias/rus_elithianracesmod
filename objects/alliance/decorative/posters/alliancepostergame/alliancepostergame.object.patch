@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Плакат НСИ"
+"Плакат НКИ"
 },{"op":"replace","path":"/description","value":
-"Плакат, рекламирующий игру New Space Inquisition."
+"Плакат, рекламирующий игру Новая Космическая Инквизиция."
 },{"op":"replace","path":"/floranDescription","value":
 "Флоран не знает, что это значит."
 },{"op":"replace","path":"/glitchDescription","value":

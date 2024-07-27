@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Лемар Кан"
+"Банка Ле'мар"
 },{"op":"replace","path":"/description","value":
-"Банка Лемара."
+"Банка Ле'мара."
 },{"op":"replace","path":"/apexDescription","value":
 "Банка содовой."
 },{"op":"replace","path":"/avianDescription","value":

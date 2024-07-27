@@ -1,9 +1,9 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Акрис Лайт Стрип"
+"Лента света Акриса"
 },{"op":"replace","path":"/description","value":
-"Слегка мерцающая световая полоска."
+"Слегка мерцающая световая лента."
 },{"op":"replace","path":"/apexDescription","value":
-"Светлая полоска. Он мягко мерцает."
+"Светлая лента. Она мягко мерцает."
 },{"op":"replace","path":"/avianDescription","value":
 "Пульсирующий свет. Это странно успокаивает."
 },{"op":"replace","path":"/floranDescription","value":
@@ -25,7 +25,7 @@
 },{"op":"replace","path":"/drodenDescription","value":
 "Обнаружен пульсирующий источник света."
 },{"op":"replace","path":"/akkimariDescription","value":
-"Пульсирующий свет успокаивает Аккимари."
+"Пульсирующий свет успокаивает аккимари."
 },{"op":"add","path":"/builder","value":
 "/items/buildscripts/thea-build_rus_item.lua"
 }]

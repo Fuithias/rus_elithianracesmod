@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^yellow;Акт колонии Альянса"
+"^yellow;Договор колонии Альянса"
 },{"op":"replace","path":"/description","value":
 "Поместите его в закрытое здание хотя бы с одной дверью и источником света, и кто-нибудь въедет!"
 },{"op":"replace","path":"/apexDescription","value":

@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Авикан Дрек"
+"Дрек авикан"
 },{"op":"replace","path":"/description","value":
-"Персональный летательный аппарат производства Авикан."
+"Персональный летательный аппарат производства авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "Громоздкое транспортное средство, но летает на удивление шустро."
 },{"op":"replace","path":"/avianDescription","value":

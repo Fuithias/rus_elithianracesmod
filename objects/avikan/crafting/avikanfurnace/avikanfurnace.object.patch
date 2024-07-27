@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"^orange;Каменная печь Авикан^white;"
+"^orange;Каменная печь авикан^white;"
 },{"op":"replace","path":"/description","value":
 "Высокая температура печи позволяет создавать металлические слитки и другие предметы."
 },{"op":"replace","path":"/apexDescription","value":
@@ -27,7 +27,7 @@
 },{"op":"replace","path":"/akkimariDescription","value":
 "Печь-каменная, не слишком горячая."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/shortdescription","value":
-"^orange;Каменная печь Авикан^white;"
+"^orange;Каменная печь авикан^white;"
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/description","value":
 "Высокая температура печи позволяет создавать металлические слитки и другие предметы."
 },{"op":"replace","path":"/upgradeStages/0/itemSpawnParameters/apexDescription","value":

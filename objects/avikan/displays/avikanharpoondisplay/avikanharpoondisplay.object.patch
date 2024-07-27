@@ -1,7 +1,7 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Выставка гарпунов Авангард"
+"Выставка гарпунов Авангарда"
 },{"op":"replace","path":"/description","value":
-"На выставке представлено гарпунное ружье Авикан."
+"На выставке представлено гарпунное ружье авикан."
 },{"op":"replace","path":"/apexDescription","value":
 "Очень мощное гарпунное ружье. Я полагаю, что он может легко пронзить врагов."
 },{"op":"replace","path":"/avianDescription","value":

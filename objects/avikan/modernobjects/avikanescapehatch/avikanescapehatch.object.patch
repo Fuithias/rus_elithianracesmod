@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Эвакуационный люк Авикан"
+"Люк эвакуации авикан"
 },{"op":"replace","path":"/description","value":
 "Усиленный металлический люк, часто встречающийся в эвакуационных туннелях."
 },{"op":"replace","path":"/floranDescription","value":

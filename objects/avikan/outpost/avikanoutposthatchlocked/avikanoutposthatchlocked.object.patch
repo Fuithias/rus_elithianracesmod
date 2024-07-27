@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/shortdescription","value":
-"Запертый люк кочевника"
+"Запертый люк Номады"
 },{"op":"replace","path":"/description","value":
 "Этот люк доступа плотно заперт."
 },{"op":"replace","path":"/floranDescription","value":
